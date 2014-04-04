@@ -2,6 +2,7 @@
 layout: post
 title: "Stacey CMS: Part 1"
 excerpt: "I introduce my intentions with this site, and begin digging around my chosen CMS, Stacey."
+category: web
 
 ---
 Okay. I've been trying to get this site up and going for YEARS. If you've been here before, you've been baraded by fake content and several stylistic shifts.

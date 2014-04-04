@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS, Part 1: Typography"
-excerpt:After enough procrastination (and some genuine thought), I talk about CSS, and why I changed it around so much.
+excerpt: "After enough procrastination (and some genuine thought), I talk about CSS, and why I changed it around so much."
 category: web
 ---
 

@@ -3,6 +3,7 @@
 layout: post
 title: "Stacey CMS: Part 2"
 excerpt: "I go into more depth with Stacey CMS, trying to make a new template file that better serves my articles."
+category: web
 
 ---
 Welcome back to Part 2 of my Stacey CMS tutorial/figuring crap out series. If you haven't read [Part 1](/articles/stacey-cms-01/), you might want to, as I'm assuming stuff from that article... you get the idea.
