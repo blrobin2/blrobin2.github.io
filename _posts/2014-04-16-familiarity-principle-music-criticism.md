@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Familiarity Principle and Music Criticism"
+excerpt: "Looking at repeated exposure and how it affects our ability to objectively criticize music"
+category: music
+---
+
+I've been doing some research on the Familiarity Principle, which basically states that the more often you are exposed to something or someone the more likable that thing or person appears to be, albeit with a certain threshold of repetitions and duration. So for example, when I hear a new album for the first time, the songs or patterns I'm going to like most are going to be those most familiar to me that have not breached the threshold of exposure; that is, if it sounds like a band I like I'll have a higher chance of enjoying it, but if its a sound I'm too familiar with (a pop song progression or a generic metal sound), it has broken the threshold and I have lesser interest. This explains why a majority of people stick to music on the radio or music they have grown up on, but still grow tired of music on the radio. Also, studies have shown that this effect is weaker on children, which is why they can endure repetition far more often than adults.
+
+If this is the case, then how do we learn to appreciate new music? In order to do so, there must be a point in time in which intial exposure to novel sounds is endured in order to increase what is called Perceptual Fluency, which is the ease in which a stimulus can be processed. By enduring the unfamiliar at regular intervals, I allow that unfamiliar thing to become more familiar, thus giving myself touchstones from which to branch out. This concept has been applied most often in advertising: in order to make a new product appear more likeable, increase exposure via marketing in various arenas, doing so in small doses as to prevent oversaturation and diminished returns.
+
+Nothing new here; just giving scientific names to ideas that many of us already have. But now we have grounds to ask this question of music criticism: how many times should I listen to an album in order to give it an accurate assessment? Or rather, how many listens allow the fewest biases to dicate the rating or quality of an album? If I listen to it once, I'm allowing the proximity of the album to previous listening experiences to dictate what I like or dislike. But if I listen to the album more than once, it is already more familiar and therefore I am more likely to enjoy it. I've often seen critics state that it is with repeated listens that one discovers the "nuances" of the album, and thus learns to appreciate it more. And perhaps that is the case; after all, I'm merely making a suggestion, not explaining everything away to a singule idea. But consider for the sake of this dicussion that it is not the case, that it is merely the Familiarity Principle taking effect. What then?
+
+[Source](https://en.wikipedia.org/wiki/Mere-exposure_effect).
