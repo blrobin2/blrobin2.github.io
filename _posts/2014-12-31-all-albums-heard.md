@@ -1,0 +1,324 @@
+- ††† - ††† :star::star:.5
+- Aa - VoyAger :star::star::star:
+- Acid Arab - Collection LP :star::star::star:
+- Actress - Ghettoville :star::star::star:.5
+- John Luther Adams - Become Ocean :star::star::star::star:
+- Ryan Adams - Ryan Adams :star::star::star::star:
+- Adult Jazz - Gist Is :star::star::star::star:.5
+- Against Me! - Transgender Dysphoria Blues :star::star::star:.5
+- Alex G - DSU :star::star::star::star:
+- Ambrose Akinmusire - the imagined savior is far easier to paint :star::star::star::star:
+- Damon Albarn - Everyday Robots :star::star::star::star:
+- Alcest - Shelter :star::star::star:
+- Bishop Allen - Lights Out :star::star::star:.5
+- Alvvays - Alvvways :star::star::star::star:.5
+- Amen Dunes - Love :star::star::star:.5
+- Amps for Christ - Canyons Cars and Crows :star::star::star:
+- The Antlers - Familiars :star::star::star::star:
+- Aphex Twin - Syro :star::star::star::star:.5
+- Arca - Xen :star::star::star::star:
+- Ariel Pink - Pom Pom :star::star::star::star:.5
+- The Autumn Defence - Fifth :star::star::star:.5
+- Lee Bains III & the Glory Fires - Dereconstructed :star::star:.5
+- Azealia Banks - Broke with Expensive Taste :star::star::star::star::star:
+- Courtney Bartlett - The Double EP: A Sea of Split Peas :star::star::star:.5
+- Bayside - Cult :star::star:.5
+- Bear in Heaven - Time is Over One Day Old :star::star::star:.5
+- Beck - Morning Phase :star::star::star::star::star:
+- Behemoth - The Satanist :star::star::star:
+- Black Lips - Underneath the Rainbow :star::star::star:
+- Blank Realm - Grassed Inn :star::star::star:.5
+- Bleeding Rainbow - Interrupt :star::star::star:
+- The Body - I Shall Die Here :star::star::star::star:.5
+- Bohren & Der Club of Gore - Piano Nights :star::star::star::star:
+- Bo Ningen - III :star::star::star::star:
+- Boris - Noise :star::star::star:
+- The Both - The Both :star::star::star:
+- Jesse Boykins III - Love Apparatus :star::star::star::star:.5
+- Carla Bozulich - Boy :star::star::star:.5
+- Tom Brosseau - Grass Punks :star::star::star::star:
+- Calle 13 - Multi_Viral :star::star::star:
+- Laura Cantrell - No Way From Here :star::star::star:.5
+- Caribou - Our Love :star::star::star::star:
+- Rosanne Cash - The River and the Thread :star::star::star::star:.5
+- CEO - Wonderland :star::star::star::star:
+- Gina Chavez - Up.Rooted :star::star::star:
+- Cheetahs - Cheetahs :star::star::star::star:
+- Neneh Cherry - Blank Project :star::star::star:.5
+- Chimurenga Renaissane - riZe vadZimu riZe :star::star::star::star:
+- Chumped - Teenage Retirement :star::star::star::star:
+- Eric Church - The Outsiders :star::star::star:.5
+- Circulatory Systems - Mosaics Within Mosaics :star::star::star:.5
+- Clark - Clark :star::star::star::star:.5
+- CLPPNG - CLPPNG :star::star::star:.5
+- Clout Cult - Unplug :star::star::star:.5
+- Cloud Nothings - Here and Nowhere Else :star::star::star:.5
+- Diane Cluck - Boneset :star::star::star::star:
+- Leonard Cohen - Popular Problems :star::star::star:
+- Container - Adhesive :star::star::star:.5
+- Mac Cooper - Human :star::star::star:.5
+- Frankie Cosmos - Zentropy :star::star::star::star:
+- Bradford Cox - Teenage :star::star::star:.5
+- Rodney Crowell - Tarpaper Sky :star::star::star:
+- Cult & Leper - Twin Knobs Power City :star::star::star:.5
+- Cult of Youth - Final Days :star::star::star::star:
+- Cymbals Eat Guitars - Lose :star::star::star::star:
+- Brody Dalle - Diploid Love :star::star::star::star:.5
+- Douglas Dare - Whelm :star::star::star:
+- Death Vessel - Island Intervals :star::star::star:
+- Deerhoof - La Isla Bonita :star::star::star::star:
+- Deleted Scenes - Lithium Burn :star::star::star::star:
+- Mac DeMarco - Salad Days :star::star::star::star:
+- Christopher Denny - If the Roses Don't Kill Us :star::star::star:
+- Alexandre Desplat / Randall Poster - The Grand Budapest Hotel OST :star::star::star:.5
+- Bryce Dessner / Jonny Greenwood - St. Carolyn by the Sea / Suite from "There Will Be Blood" :star::star::star:.5
+- Toumani Diabaté - Toumani & Sidiki :star::star::star::star:
+- Dirty Beaches - Stateless :star::star::star::star:.5
+- DJ Dodger Stadium - Friend of Mine :star::star::star::star:
+- DJ Q - Ineffable :star::star::star:
+- DJ Quik - The Midnight Life :star::star::star::star:
+- Kevin Drew - Darlings :star::star::star:.5
+- Drive-By Truckers - English Ocean :star::star::star:
+- Kevin Drumm - Trouble :star::star::star::star:
+- Dum Dum Girls - Too True :star::star::star:
+- Eagulls - Eagulls :star::star::star:.5
+- Justin Townes Earle - Single Mothers :star::star::star::star:
+- East India Youth - Total Stife Forever :star::star::star:
+- Kat Edmonson - The Big Picture :star::star::star:.5
+- Elbow - The Take Off and Landing of Everything :star::star::star:.5
+- Electric Wizard - Time to Die :star::star::star:
+- Electric Youth - Innerworld :star::star::star::star:.5
+- Robert Ellis - The Light from the Chemical Plant :star::star::star::star:
+- EMA - The Future's Void :star::star::star:.5
+- Sara Evans - Slow Me Down :star::star::star:
+- Ex Hex - Rips :star::star::star:
+- Fear of Men - Loom :star::star::star::star:.5
+- Fennesz - Bécs :star::star::star::star:.5
+- Brian Ferry - Avonmore :star::star:.5
+- Lee Fields - Emma Jean :star::star::star:.5
+- Orenda Fink - Blue Dream :star::star::star:.5
+- First Aid Kit - Stay Gold :star::star::star:.5
+- FKA Twigs - LP1 :star::star::star::star::star:
+- Flying Lotus - You're Dead! :star::star::star::star::star:
+- Frazey Ford - Indian Ocean :star::star::star:
+- Ben Frost - A U R O R A :star::star::star::star::star:
+- Future - Honest :star::star::star::star:
+- Future Islands - Singles :star::star::star::star:
+- Gang Wizard - Important Picnic :star::star::star::star:
+- Gem Club - In Roses :star::star::star::star:
+- Ghetto Ghouls - Ghetto Ghouls :star::star::star:
+- Freddie Gibbs and Madlib - Pinata :star::star::star::star:
+- The Gloaming - S/T :star::star::star::star:.5
+- GOAT - Commune :star::star:
+- Godflesh - A World Lit Only By Fire :star::star::star:
+- Ariana Grande - My Everything :star::star::star::star:.5
+- Grouper - Ruins :star::star::star::star::star:
+- Steve Gunn - Way Out Weather :star::star::star::star:
+- Augustin Hadelich - Sibelius, Adès: Violin Concertos :star::star::star::star:
+- The Haden Triplets - S/T :star::star::star:
+- Yasmine Hamdan - Ya Nass :star::star::star::star:
+- Holly Herndon - Chorus EP :star::star::star::star:.5
+- The Hidden Cameras - Age :star::star::star:.5
+- Jolie Holland - Wine Dark Sea :star::star::star:
+- Hookworms - The Hum :star::star::star:.5
+- Horrendous - Ecdysis :star::star::star:
+- Hospitality - Trouble :star::star::star:.5
+- The Hotelier - Home, Like Noplace is There :star::star::star::star:
+- Ben Howard - I Forget Where We Were :star::star::star:
+- How to Dress Well - What is This Heart? :star::star::star::star::star:
+- Hundred Waters - The Moon Rang Like a Bell :star::star::star::star:
+- Hurray for the Riff Raff - Small Town Heroes :star::star::star:.5
+- Iceage - Plowing Into the Field of Love :star::star::star::star:
+- Indian - From All Purity :star::star::star:
+- Interpol - El Pintor :star::star::star:.5
+- Jeremiah Jae - Good Times :star::star::star:.5
+- Sarah Jaffe - Don't Disconnect :star::star::star:.5
+- Jose James - While You Were Sleeping :star::star::star:
+- Jeremy Jay - Abandoned :star::star::star:
+- Jerome LOL - Deleted/Fool EP :star::star::star::star:
+- Johnny Foreigner - You Can Do Better :star::star:.5
+- Sharon Jones & the Dap-Kings - Give the People What They Want :star::star:.5
+- Joyce Manor - Never Hungover Again :star::star::star:
+- Damien Jurado - Brothers and Sisters of the Eternal Son :star::star::star:.5
+- Katy B - Little Red :star::star::star:
+- Angélique Kidjo - Eve :star::star::star::star:
+- Kindness - Otherness :star::star::star::star:.5
+- King Tuff - Black Moon Spell :star::star::star:
+- Seun Kuti & Egypt 80 - A Long Way to the Beginning :star::star::star:.5
+- La Dispute - Rooms of the House :star::star::star:.5
+- Lana Del Rey- Ultraviolence :star::star:.5
+- The Lawrence Arms - Metropole :star::star::star:
+- Legowelt - Crystal Cult 2080 :star::star::star:.5
+- Jens Lekman - WWJD Mixtape :star::star::star::star::star:
+- Hamilton Leithauser - Black Hours :star::star::star::star:
+- Les Sins - Michael :star::star::star::star:.5
+- Jenny Lewis - The Voyager :star::star::star::star:
+- Liars - Mess :star::star::star:.5
+- Valentine Lisitsa - Chasing Pianos :star::star::star:.5
+- Little Daylight - Hello Memory :star::star::star::star::star:
+- Lockah - Yahoo or the Highway :star::star::star:.5
+- Lone - Reality Testing :star::star::star::star:
+- Loscil - Sea Island :star::star::star::star:.5
+- Lost in the Trees - Past Life :star::star::star:.5
+- Lydia Loveless - Somewhere Else :star::star::star:.5
+- Luluc - Passerby :star::star::star:.5
+- Lykke Li - I Never Learn :star::star::star:.5
+- LVL Up - Hoodwink'd :star:.5
+- Magic Touch - Palermo House Gang :star::star::star:
+- Makthavarskan - II :star::star::star::star::star:
+- J. Mascis - Tied to a Star :star::star::star:.5
+- Cibo Matto - Hotel Valentine :star::star::star:.5
+- Kessica Lea Mayfield - Make My Head Sing... :star::star::star:
+- Jackie McDowell - Baptisia :star::star::star::star:
+- Mark McGuire - Along the Way :star::star::star::star:.5
+- Meatbodies - Meatbodies :star::star::star:.5
+- The Men - Tomorrow's Hits :star::star::star:
+- Merchandise - After the End :star::star::star::star::star:.5
+- Jeremy Messersmith - Heart Murrmurs :star::star::star::star:
+- Ingrid Michaelson - Lights Out :star::star::star::star:
+- The Ministry of Wolves - Music from Republik der Wölfe :star::star::star:
+- Mirah - Changing Light :star::star::star:.5
+- Mitski - Bury Me at Makeout Creek :star::star::star:.5
+- Modern Baseball - You're Gonna Miss It All :star::star::star:
+- Mogwai - Rave Tapes :star::star::star:
+- Morning Glory - War Psalms :star::star::star:
+- Mozart's Sister - Being :star::star::star:.5
+- Mozes and the Firstborn - S/T :star::star:.5
+- Mr. Gnome - The Heart of a Dark Star :star::star::star:.5
+- Mr. Twin Sister - Mr. Twin Sister :star::star::star::star::star:
+- Murmur - Murmur :star::star:.5
+- Marissa Nadler - July :star::star::star::star:.5
+- Naked Island - Naked Island :star::star::star:.5
+- Willie Nelson - Band of Brothers :star::star::star::star:
+- The New Pornoraphers - Brill Bruisers :star::star::star::star:
+- Nickel Creek - A Dotted Line :star::star::star:
+- Nikki Lane - All Or Nothin' :star::star::star:.5
+- Nothing - Guilty of Everything :star::star::star:
+- The Notwist - Close to the Grass :star::star::star::star:.5
+- Nux Vomica - Nux Vomica :star::star::star:
+- Odonis Odonis - Hard Boiled Softboiled :star::star:.5
+- Objekt - Flatland :star::star::star::star::star:
+- OFF! - Wasted Years :star::star::star:
+- Angel Olsen - Burn Your Fire for No Witness :star::star::star::star:
+- Open Mike Eagle - Dark Comedy :star::star::star::star:
+- Ought - More Than Any Other Day :star::star::star:.5
+- Pacifika - Amor Planeta :star::star::star:
+- Pallbearer - Foundations of Burden :star::star::star:
+- Owen Pallett - In Conflict :star::star::star::star:
+- Panopticon - Roads to the North :star::star::star:
+- Dolly Parton - Blue Smoke :star::star::star:.5
+- Parquet Courts - Sunbathing Animal :star::star::star::star:
+- Perfect Pussy - Say Yes to Love :star::star::star::star::star:
+- Perfume Genius - Too Bright :star::star::star::star:
+- Linda Perhacs - The Soul of All Natural Things :star::star::star::star:
+- Tom Petty and the Heartbreakers - Hypnotic Eye :star::star:
+- Phantogram - Voices :star::star::star::star:
+- The Phantom Band - Strange Friend :star::star::star:.5
+- Pharmakon - Bestial Burden :star::star::star::star:.5
+- Phox - Phox :star::star::star::star:
+- Plague Vendor - Free to Eat :star::star:.5
+- Popcaan - Where We Come From :star::star::star:.5
+- Posse - Soft Opening :star::star::star::star:
+- Protomartyr - Under Color of Offical Right :star::star::star:.5
+- Pup - Pup :star::star::star:
+- Pyrrhon - The Mother of Virtues :star::star::star:
+- Quilt - Held in Splendor :star::star::star:
+- The Range - Panasonic EP :star::star::star:
+- Isaiah Rashad - Cilvia Demo :star::star::star::star:
+- Ratking - So It Goes :star::star::star::star:
+- Real Estate - Atlas :star::star::star::star:
+- Reigning Sound - Shattered :star::star:
+- Damien Rice - My Favorite Faded Fantasy :star::star::star::star:.5
+- Rick Ross - Mastermind :star::star::star::star:
+- Porter Robinson - Worlds :star::star::star::star::star:
+- Rodrigo y Gabriela - 9 Dead Alive :star::star::star:
+- Run the Jewels - 2 :star::star::star::star::star:
+- Saintseneca - Dark Arc :star::star::star::star:.5
+- Schoolboy Q - Oxymoron :star::star::star::star:.5
+- Raz Simone - Cognitive Dissonance :star::star::star::star:.5
+- S. Carey - Range of Light :star::star::star::star:
+- Sean Nicholas Savage - Bermuda Waterfall :star::star::star::star:.5
+- Ty Segall - Manipulator :star::star::star:.5
+- Shabazz Palaces - Lese Majesty :star::star::star::star:
+- Shamir - Northtown EP :star::star::star::star:
+- Shovel & Rope - Swimmin' Time :star::star::star:
+- Sinkane - Mean Love :star::star::star:
+- Sturgill Simpson - Metamodern Sounds in Country Music :star::star::star:
+- Sisyphus (Sufjan Stevens, Son Lux, Serengeti) - Sisyphus :star::star::star:.5
+- The Soft Pink Truth - Why Do the Heathen Rage? :star::star::star:.5
+- Speedy Ortiz - Real Hair EP :star::star::star:.5
+- Spider Bags - Frozen Letter :star::star::star:.5
+- Spoon - They Want My Soul :star::star::star::star:.5
+- St. Paul and the Broken Bones - Half the City :star::star::star:
+- St. Vincent - Saint Vincent :star::star::star::star:.5
+- Vince Staples - Hell Can Wait EP :star::star::star::star::star:
+- Stars - No One is Lost :star::star::star:.5
+- Step Brothers - Lord Steppington :star::star::star:
+- Andy Stott - Faith in Strangers :star::star::star::star:.5
+- Strand of Oaks - HEAL :star::star::star::star:.5
+- Sun Kil Moon - Benji :star::star::star::star:.5
+- A Sunny Day in Glasgow - Sea When Absent :star::star::star::star:.5
+- Supreme Cuts - Divine Ecstasy :star::star:.5
+- Susanna / Jenny Hval - Meshes of Voice :star::star::star::star:.5
+- Swans - To Be Kind :star::star::star::star:
+- Sylvan Esso - Sylvan Esso :star::star::star:.5
+- Teebs - E S T A R A :star::star::star::star:
+- Temples - Sun Structures :star::star:.5
+- Todd Terje - It's Album Time :star::star::star::star::star:
+- Thee Silver Mt. Zion Memorial Orchestra - Fuck off Get Free We Pour Light on Everything :star::star::star::star:
+- Thug Entrancer - Death After Life :star::star::star:
+- Thumpers - Galore :star::star::star::star:.5
+- Ana Tijoux - Vengo :star::star::star:.5
+- Tinariwen - Emmaar :star::star::star:.5
+- Thievery Corporation - Saudade :star::star:.5
+- Thompson - Family :star::star:.5
+- Thou - Heathen :star::star::star:
+- Timber Timbre - Hot Dreams :star::star::star:.5
+- Tinashe - Aquarius :star::star::star::star:.5
+- Tombs - Savage Gold :star::star:.5
+- TOPS - Picture You Staring :star::star::star::star::star:
+- Torn Hawk - Let's Cry and Do Pushups at the Same Time :star::star::star::star:
+- Total Control - Typical System :star::star::star::star:
+- Total Slacker - Slip Away :star::star::star::star:
+- Trampled by Turtles - Wild Animals :star::star::star:
+- Triptykon - Melan Chasmata :star::star::star::star:
+- Trust - Joyland :star::star::star::star:
+- tUnE-yArDs - Nikki Nack :star::star::star::star:.5
+- Tweedy - Sukierae :star::star::star:
+- Tweens - Tweens :star::star::star::star:
+- Twin Peaks - Wild Onion :star::star::star::star:
+- Tycho - Awake :star::star::star::star:
+- The Underachievers - Cellar Door: Terminus Ut Exordium :star::star::star:
+- The Unseemable - The Unseemable :star::star::star:
+- Untold - Black Light Spiral :star::star::star:.5
+- Valentin Stip - Sigh :star::star::star::star:
+- Sharon Van Etten - Are We There :star::star::star::star:.5
+- Smashing Pumpkins - Monuments to an Elegy :star::star:
+- Various Artists - Killed by Deathrock: Vol. 1 :star::star::star:.5
+- Various Artists - Sweetheart 2014 by Starbucks :star::star::star:.5
+- Vertical Scratchers - Daughter of Everything :star::star:.5
+- Leon Vynehall - Music for the Univited :star::star::star::star:
+- Mirel Wagner - When the Cellar Children See the Light of Day :star::star::star::star:
+- Scott Walker - Soused :star::star::star::star:
+- Jessie Ware - Tough Love :star::star::star::star:.5
+- The War on Drugs - Lost In the Dream :star::star::star::star:
+- War Paint - War Paint - :star::star::star:
+- Ben Watt - Hendra :star::star::star::star:
+- Gerard Way - Hesitant Alien :star::star::star:
+- The Weather Station - What Am I Going to Do With Everything I Know :star::star::star::star::star:
+- We Were Promised Jetpacks - Unravelling :star::star::star:
+- Jack White - Lazaretto :star::star:
+- White Lung - Deep Fantasy :star::star::star::star:
+- Wild Beasts - Present Tense :star::star::star::star::star:
+- Wildest Dreams - Wildest Dreams :star::star:.5
+- Jess Williamson - Native State :star::star::star:.5
+- Woods - With Light and With Love :star::star::star:.5
+- Wovenhand - Refactory Obdurate :star::star::star:
+- Wye Oak - Shriek :star::star::star::star:.5
+- The Wytches - Annabel Dream Reader :star::star:.5
+- Yautja - Songs of Descent :star::star::star:
+- YG - My Krazy Life :star::star::star:.5
+- YOB - Clearning the Path to Ascend :star::star::star:.5
+- You Blew It! - Keep Doing What You're Doing :star::star:
+- Young Fathers - Dead :star::star::star:.5
+- Zammuto - Anchor :star::star::star:
