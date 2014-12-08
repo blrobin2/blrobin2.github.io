@@ -1,0 +1,327 @@
+##All Albums Heard, in Alphabetical Order
+$ = star
+
+- ††† - ††† $$.5
+- Aa - VoyAger $$$
+- Acid Arab - Collection LP $$$
+- Actress - Ghettoville $$$.5
+- John Luther Adams - Become Ocean $$$$
+- Ryan Adams - Ryan Adams $$$$
+- Adult Jazz - Gist Is $$$$.5
+- Against Me! - Transgender Dysphoria Blues $$$.5
+- Alex G - DSU $$$$
+- Ambrose Akinmusire - the imagined savior is far easier to paint $$$$
+- Damon Albarn - Everyday Robots $$$$
+- Alcest - Shelter $$$
+- Bishop Allen - Lights Out $$$.5
+- Alvvays - Alvvways $$$$.5
+- Amen Dunes - Love $$$.5
+- Amps for Christ - Canyons Cars and Crows $$$
+- The Antlers - Familiars $$$$
+- Aphex Twin - Syro $$$$.5
+- Arca - Xen $$$$
+- Ariel Pink - Pom Pom $$$$.5
+- The Autumn Defence - Fifth $$$.5
+- Lee Bains III & the Glory Fires - Dereconstructed $$.5
+- Azealia Banks - Broke with Expensive Taste $$$$$
+- Courtney Bartlett - The Double EP: A Sea of Split Peas $$$.5
+- Bayside - Cult $$.5
+- Bear in Heaven - Time is Over One Day Old $$$.5
+- Beck - Morning Phase $$$$$
+- Behemoth - The Satanist $$$
+- Black Lips - Underneath the Rainbow $$$
+- Blank Realm - Grassed Inn $$$.5
+- Bleeding Rainbow - Interrupt $$$
+- The Body - I Shall Die Here $$$$.5
+- Bohren & Der Club of Gore - Piano Nights $$$$
+- Bo Ningen - III $$$$
+- Boris - Noise $$$
+- The Both - The Both $$$
+- Jesse Boykins III - Love Apparatus $$$$.5
+- Carla Bozulich - Boy $$$.5
+- Tom Brosseau - Grass Punks $$$$
+- Calle 13 - Multi_Viral $$$
+- Laura Cantrell - No Way From Here $$$.5
+- Caribou - Our Love $$$$
+- Rosanne Cash - The River and the Thread $$$$.5
+- CEO - Wonderland $$$$
+- Gina Chavez - Up.Rooted $$$
+- Cheetahs - Cheetahs $$$$
+- Neneh Cherry - Blank Project $$$.5
+- Chimurenga Renaissane - riZe vadZimu riZe $$$$
+- Chumped - Teenage Retirement $$$$
+- Eric Church - The Outsiders $$$.5
+- Circulatory Systems - Mosaics Within Mosaics $$$.5
+- Clark - Clark $$$$.5
+- CLPPNG - CLPPNG $$$.5
+- Clout Cult - Unplug $$$.5
+- Cloud Nothings - Here and Nowhere Else $$$.5
+- Diane Cluck - Boneset $$$$
+- Leonard Cohen - Popular Problems $$$
+- Container - Adhesive $$$.5
+- Mac Cooper - Human $$$.5
+- Frankie Cosmos - Zentropy $$$$
+- Bradford Cox - Teenage $$$.5
+- Rodney Crowell - Tarpaper Sky $$$
+- Cult & Leper - Twin Knobs Power City $$$.5
+- Cult of Youth - Final Days $$$$
+- Cymbals Eat Guitars - Lose $$$$
+- Brody Dalle - Diploid Love $$$$.5
+- Douglas Dare - Whelm $$$
+- Death Vessel - Island Intervals $$$
+- Deerhoof - La Isla Bonita $$$$
+- Deleted Scenes - Lithium Burn $$$$
+- Mac DeMarco - Salad Days $$$$
+- Christopher Denny - If the Roses Don't Kill Us $$$
+- Alexandre Desplat / Randall Poster - The Grand Budapest Hotel OST $$$.5
+- Bryce Dessner / Jonny Greenwood - St. Carolyn by the Sea / Suite from "There Will Be Blood" $$$.5
+- Toumani Diabaté - Toumani & Sidiki $$$$
+- Dirty Beaches - Stateless $$$$.5
+- DJ Dodger Stadium - Friend of Mine $$$$
+- DJ Q - Ineffable $$$
+- DJ Quik - The Midnight Life $$$$
+- Kevin Drew - Darlings $$$.5
+- Drive-By Truckers - English Ocean $$$
+- Kevin Drumm - Trouble $$$$
+- Dum Dum Girls - Too True $$$
+- Eagulls - Eagulls $$$.5
+- Justin Townes Earle - Single Mothers $$$$
+- East India Youth - Total Stife Forever $$$
+- Kat Edmonson - The Big Picture $$$.5
+- Elbow - The Take Off and Landing of Everything $$$.5
+- Electric Wizard - Time to Die $$$
+- Electric Youth - Innerworld $$$$.5
+- Robert Ellis - The Light from the Chemical Plant $$$$
+- EMA - The Future's Void $$$.5
+- Sara Evans - Slow Me Down $$$
+- Ex Hex - Rips $$$
+- Fear of Men - Loom $$$$.5
+- Fennesz - Bécs $$$$.5
+- Brian Ferry - Avonmore $$.5
+- Lee Fields - Emma Jean $$$.5
+- Orenda Fink - Blue Dream $$$.5
+- First Aid Kit - Stay Gold $$$.5
+- FKA Twigs - LP1 $$$$$
+- Flying Lotus - You're Dead! $$$$$
+- Frazey Ford - Indian Ocean $$$
+- Ben Frost - A U R O R A $$$$$
+- Future - Honest $$$$
+- Future Islands - Singles $$$$
+- Gang Wizard - Important Picnic $$$$
+- Gem Club - In Roses $$$$
+- Ghetto Ghouls - Ghetto Ghouls $$$
+- Freddie Gibbs and Madlib - Pinata $$$$
+- The Gloaming - S/T $$$$.5
+- GOAT - Commune $$
+- Godflesh - A World Lit Only By Fire $$$
+- Ariana Grande - My Everything $$$$.5
+- Grouper - Ruins $$$$$
+- Steve Gunn - Way Out Weather $$$$
+- Augustin Hadelich - Sibelius, Adès: Violin Concertos $$$$
+- The Haden Triplets - S/T $$$
+- Yasmine Hamdan - Ya Nass $$$$
+- Holly Herndon - Chorus EP $$$$.5
+- The Hidden Cameras - Age $$$.5
+- Jolie Holland - Wine Dark Sea $$$
+- Hookworms - The Hum $$$.5
+- Horrendous - Ecdysis $$$
+- Hospitality - Trouble $$$.5
+- The Hotelier - Home, Like Noplace is There $$$$
+- Ben Howard - I Forget Where We Were $$$
+- How to Dress Well - What is This Heart? $$$$$
+- Hundred Waters - The Moon Rang Like a Bell $$$$
+- Hurray for the Riff Raff - Small Town Heroes $$$.5
+- Iceage - Plowing Into the Field of Love $$$$
+- Indian - From All Purity $$$
+- Interpol - El Pintor $$$.5
+- Jeremiah Jae - Good Times $$$.5
+- Sarah Jaffe - Don't Disconnect $$$.5
+- Jose James - While You Were Sleeping $$$
+- Jeremy Jay - Abandoned $$$
+- Jerome LOL - Deleted/Fool EP $$$$
+- Johnny Foreigner - You Can Do Better $$.5
+- Sharon Jones & the Dap-Kings - Give the People What They Want $$.5
+- Joyce Manor - Never Hungover Again $$$
+- Damien Jurado - Brothers and Sisters of the Eternal Son $$$.5
+- Katy B - Little Red $$$
+- Angélique Kidjo - Eve $$$$
+- Kindness - Otherness $$$$.5
+- King Tuff - Black Moon Spell $$$
+- Seun Kuti & Egypt 80 - A Long Way to the Beginning $$$.5
+- La Dispute - Rooms of the House $$$.5
+- Lana Del Rey- Ultraviolence $$.5
+- The Lawrence Arms - Metropole $$$
+- Legowelt - Crystal Cult 2080 $$$.5
+- Jens Lekman - WWJD Mixtape $$$$$
+- Hamilton Leithauser - Black Hours $$$$
+- Les Sins - Michael $$$$.5
+- Jenny Lewis - The Voyager $$$$
+- Liars - Mess $$$.5
+- Valentine Lisitsa - Chasing Pianos $$$.5
+- Little Daylight - Hello Memory $$$$$
+- Lockah - Yahoo or the Highway $$$.5
+- Lone - Reality Testing $$$$
+- Loscil - Sea Island $$$$.5
+- Lost in the Trees - Past Life $$$.5
+- Lydia Loveless - Somewhere Else $$$.5
+- Luluc - Passerby $$$.5
+- Lykke Li - I Never Learn $$$.5
+- LVL Up - Hoodwink'd $.5
+- Magic Touch - Palermo House Gang $$$
+- Makthavarskan - II $$$$$
+- J. Mascis - Tied to a Star $$$.5
+- Cibo Matto - Hotel Valentine $$$.5
+- Kessica Lea Mayfield - Make My Head Sing... $$$
+- Jackie McDowell - Baptisia $$$$
+- Mark McGuire - Along the Way $$$$.5
+- Meatbodies - Meatbodies $$$.5
+- The Men - Tomorrow's Hits $$$
+- Merchandise - After the End $$$$$.5
+- Jeremy Messersmith - Heart Murrmurs $$$$
+- Ingrid Michaelson - Lights Out $$$$
+- The Ministry of Wolves - Music from Republik der Wölfe $$$
+- Mirah - Changing Light $$$.5
+- Mitski - Bury Me at Makeout Creek $$$.5
+- Modern Baseball - You're Gonna Miss It All $$$
+- Mogwai - Rave Tapes $$$
+- Morning Glory - War Psalms $$$
+- Mozart's Sister - Being $$$.5
+- Mozes and the Firstborn - S/T $$.5
+- Mr. Gnome - The Heart of a Dark Star $$$.5
+- Mr. Twin Sister - Mr. Twin Sister $$$$$
+- Murmur - Murmur $$.5
+- Marissa Nadler - July $$$$.5
+- Naked Island - Naked Island $$$.5
+- Willie Nelson - Band of Brothers $$$$
+- The New Pornoraphers - Brill Bruisers $$$$
+- Nickel Creek - A Dotted Line $$$
+- Nikki Lane - All Or Nothin' $$$.5
+- Nothing - Guilty of Everything $$$
+- The Notwist - Close to the Grass $$$$.5
+- Nux Vomica - Nux Vomica $$$
+- Odonis Odonis - Hard Boiled Softboiled $$.5
+- Objekt - Flatland $$$$$
+- OFF! - Wasted Years $$$
+- Angel Olsen - Burn Your Fire for No Witness $$$$
+- Open Mike Eagle - Dark Comedy $$$$
+- Ought - More Than Any Other Day $$$.5
+- Pacifika - Amor Planeta $$$
+- Pallbearer - Foundations of Burden $$$
+- Owen Pallett - In Conflict $$$$
+- Panopticon - Roads to the North $$$
+- Dolly Parton - Blue Smoke $$$.5
+- Parquet Courts - Sunbathing Animal $$$$
+- Perfect Pussy - Say Yes to Love $$$$$
+- Perfume Genius - Too Bright $$$$
+- Linda Perhacs - The Soul of All Natural Things $$$$
+- Tom Petty and the Heartbreakers - Hypnotic Eye $$
+- Phantogram - Voices $$$$
+- The Phantom Band - Strange Friend $$$.5
+- Pharmakon - Bestial Burden $$$$.5
+- Phox - Phox $$$$
+- Plague Vendor - Free to Eat $$.5
+- Popcaan - Where We Come From $$$.5
+- Posse - Soft Opening $$$$
+- Protomartyr - Under Color of Offical Right $$$.5
+- Pup - Pup $$$
+- Pyrrhon - The Mother of Virtues $$$
+- Quilt - Held in Splendor $$$
+- The Range - Panasonic EP $$$
+- Isaiah Rashad - Cilvia Demo $$$$
+- Ratking - So It Goes $$$$
+- Real Estate - Atlas $$$$
+- Reigning Sound - Shattered $$
+- Damien Rice - My Favorite Faded Fantasy $$$$.5
+- Rick Ross - Mastermind $$$$
+- Porter Robinson - Worlds $$$$$
+- Rodrigo y Gabriela - 9 Dead Alive $$$
+- Run the Jewels - 2 $$$$$
+- Saintseneca - Dark Arc $$$$.5
+- Schoolboy Q - Oxymoron $$$$.5
+- Raz Simone - Cognitive Dissonance $$$$.5
+- S. Carey - Range of Light $$$$
+- Sean Nicholas Savage - Bermuda Waterfall $$$$.5
+- Ty Segall - Manipulator $$$.5
+- Shabazz Palaces - Lese Majesty $$$$
+- Shamir - Northtown EP $$$$
+- Shovel & Rope - Swimmin' Time $$$
+- Sinkane - Mean Love $$$
+- Sturgill Simpson - Metamodern Sounds in Country Music $$$
+- Sisyphus (Sufjan Stevens, Son Lux, Serengeti) - Sisyphus $$$.5
+- The Soft Pink Truth - Why Do the Heathen Rage? $$$.5
+- Speedy Ortiz - Real Hair EP $$$.5
+- Spider Bags - Frozen Letter $$$.5
+- Spoon - They Want My Soul $$$$.5
+- St. Paul and the Broken Bones - Half the City $$$
+- St. Vincent - Saint Vincent $$$$.5
+- Vince Staples - Hell Can Wait EP $$$$$
+- Stars - No One is Lost $$$.5
+- Step Brothers - Lord Steppington $$$
+- Andy Stott - Faith in Strangers $$$$.5
+- Strand of Oaks - HEAL $$$$.5
+- Sun Kil Moon - Benji $$$$.5
+- A Sunny Day in Glasgow - Sea When Absent $$$$.5
+- Supreme Cuts - Divine Ecstasy $$.5
+- Susanna / Jenny Hval - Meshes of Voice $$$$.5
+- Swans - To Be Kind $$$$
+- Sylvan Esso - Sylvan Esso $$$.5
+- Teebs - E S T A R A $$$$
+- Temples - Sun Structures $$.5
+- Todd Terje - It's Album Time $$$$$
+- Thee Silver Mt. Zion Memorial Orchestra - Fuck off Get Free We Pour Light on Everything $$$$
+- Thug Entrancer - Death After Life $$$
+- Thumpers - Galore $$$$.5
+- Ana Tijoux - Vengo $$$.5
+- Tinariwen - Emmaar $$$.5
+- Thievery Corporation - Saudade $$.5
+- Thompson - Family $$.5
+- Thou - Heathen $$$
+- Timber Timbre - Hot Dreams $$$.5
+- Tinashe - Aquarius $$$$.5
+- Tombs - Savage Gold $$.5
+- TOPS - Picture You Staring $$$$$
+- Torn Hawk - Let's Cry and Do Pushups at the Same Time $$$$
+- Total Control - Typical System $$$$
+- Total Slacker - Slip Away $$$$
+- Trampled by Turtles - Wild Animals $$$
+- Triptykon - Melan Chasmata $$$$
+- Trust - Joyland $$$$
+- tUnE-yArDs - Nikki Nack $$$$.5
+- Tweedy - Sukierae $$$
+- Tweens - Tweens $$$$
+- Twin Peaks - Wild Onion $$$$
+- Tycho - Awake $$$$
+- The Underachievers - Cellar Door: Terminus Ut Exordium $$$
+- The Unseemable - The Unseemable $$$
+- Untold - Black Light Spiral $$$.5
+- Valentin Stip - Sigh $$$$
+- Sharon Van Etten - Are We There $$$$.5
+- Smashing Pumpkins - Monuments to an Elegy $$
+- Various Artists - Killed by Deathrock: Vol. 1 $$$.5
+- Various Artists - Sweetheart 2014 by Starbucks $$$.5
+- Vertical Scratchers - Daughter of Everything $$.5
+- Leon Vynehall - Music for the Univited $$$$
+- Mirel Wagner - When the Cellar Children See the Light of Day $$$$
+- Scott Walker - Soused $$$$
+- Jessie Ware - Tough Love $$$$.5
+- The War on Drugs - Lost In the Dream $$$$
+- War Paint - War Paint - $$$
+- Ben Watt - Hendra $$$$
+- Gerard Way - Hesitant Alien $$$
+- The Weather Station - What Am I Going to Do With Everything I Know $$$$$
+- We Were Promised Jetpacks - Unravelling $$$
+- Jack White - Lazaretto $$
+- White Lung - Deep Fantasy $$$$
+- Wild Beasts - Present Tense $$$$$
+- Wildest Dreams - Wildest Dreams $$.5
+- Jess Williamson - Native State $$$.5
+- Woods - With Light and With Love $$$.5
+- Wovenhand - Refactory Obdurate $$$
+- Wye Oak - Shriek $$$$.5
+- The Wytches - Annabel Dream Reader $$.5
+- Yautja - Songs of Descent $$$
+- YG - My Krazy Life $$$.5
+- YOB - Clearning the Path to Ascend $$$.5
+- You Blew It! - Keep Doing What You're Doing $$
+- Young Fathers - Dead $$$.5
+- Zammuto - Anchor $$$
