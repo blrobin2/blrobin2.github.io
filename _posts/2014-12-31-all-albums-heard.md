@@ -1,3 +1,10 @@
+---
+layout: post
+title: "All Albums Heard in 2014"
+excerpt: "A list of every album I listened to in alphabetical order."
+category: music
+---
+
 - ††† - ††† :star::star:.5
 - Aa - VoyAger :star::star::star:
 - Acid Arab - Collection LP :star::star::star:
