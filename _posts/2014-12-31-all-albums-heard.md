@@ -408,7 +408,7 @@ category: music
 - [The Weather Station - What Am I Going to Do With Everything I Know](http://open.spotify.com/album/0tPCkjjddsxeatAgjEcFaD) ★★★★★
 - [Weezer - Everything Will Be Alright in the End](http://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) ★.5
 - [We Were Promised Jetpacks - Unravelling](http://open.spotify.com/album/0hkmQalXMJme8jZtwGD6Iw) ★★★
-- [Weyes Blood - The Innocents](http://open.spotify.com/album/2UwhEMmdUmG4VMGMkoK6Z3)
+- [Weyes Blood - The Innocents](http://open.spotify.com/album/2UwhEMmdUmG4VMGMkoK6Z3) ★★★.5
 - [Jack White - Lazaretto](http://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) ★★
 - [White Lung - Deep Fantasy](http://open.spotify.com/album/64w2PSTImdSXDfoc7TqARQ) ★★★★
 - [Wild Beasts - Present Tense](http://open.spotify.com/album/6paRAqzaI1O3rozRiVmyhS) ★★★★★
