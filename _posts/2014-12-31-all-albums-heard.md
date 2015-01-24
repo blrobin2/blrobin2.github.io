@@ -1,0 +1,430 @@
+---
+layout: post
+title: "All Albums and Star Ratings - 2014"
+excerpt: "Every album I managed to listen to that came out in 2014"
+category: music
+---
+
+★★★★★ - Loved<br />
+★★★★ - Liked<br />
+★★★ - Solid<br />
+★★ - Eh<br />
+★ - Meh
+
+###Links to Spotify, Bandcamp, datPiff, Soundcloud, Grooveshark, or iTunes
+
+- [††† - †††](http://open.spotify.com/album/5PEnsFw9WrlQ1OyMqKWmVF) ★★.5
+- [Aa - VoyAger](http://open.spotify.com/album/3Ervc8M8EFLuDGvEsU9L6Q) ★★★
+- [Actress - Ghettoville](http://open.spotify.com/album/3aAvMKQtLLxIHGsW2qsTRA) ★★★.5
+- [Ryan Adams - Ryan Adams](http://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) ★★★★
+- [Adult Jazz - Gist Is](http://open.spotify.com/album/5Bbr9gct1DdKmpXsZaIptX) ★★★★.5
+- [Against Me! - Transgender Dysphoria Blues](http://open.spotify.com/album/4f5QFycCas16VVeNNXtJoH) ★★★.5
+- [Ages and Ages - Divisionary](http://open.spotify.com/album/1A4S6bn7nxs8S1gW5h4Y7R) ★★★
+- [Lydia Ainsworth - Right From Real](http://open.spotify.com/album/1IZvmmWHk7lJnNkhib6L8c) ★★★★★
+- [Ambrose Akinmusire - the imagined savior is far easier to paint](http://open.spotify.com/album/35MKlkn2g1Qe3HMDrrIxP0) ★★★★
+- [Damon Albarn - Everyday Robots](http://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) ★★★★
+- [Alcest - Shelter](http://open.spotify.com/album/7gy7foOitAK66NYaitOZLz) ★★★
+- [Alex G - DSU](http://open.spotify.com/album/0zYUOExhLNlitUAdgIjHtT) ★★★★
+- [Allah-Las - Worship the Sun](http://open.spotify.com/album/7AZ3kSwP9hrFgaJwQVwymA) ★★★.5
+- [Bishop Allen - Lights Out](http://open.spotify.com/album/18s9wbg4ak8syacjEwU4vq) ★★★.5
+- [alt-j - This is All Yours](http://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) ★★.5
+- [Alvvays - Alvvways](http://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) ★★★★.5
+- [Rodrigo Amarante - Cavalo](http://open.spotify.com/album/7I9dk5Ubt5s0VhDjaZj719) ★★.5
+- [Amen Dunes - Love](http://open.spotify.com/album/5cmaAVArF7W5ijsLjBnNO8) ★★★.5
+- [Amps for Christ - Canyons Cars and Crows](https://itunes.apple.com/us/album/canyons-cars-and-crows/id838631602) ★★★
+- [The Antlers - Familiars](http://open.spotify.com/album/4USPYTOPAjoCPrSwRmQlPN) ★★★★
+- [Aphex Twin - Syro](http://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) ★★★★.5
+- [Arca - Xen](http://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe) ★★★★
+- [Ariel Pink - Pom Pom](http://open.spotify.com/album/4UhaqAS8V23KozB3dzLMax) ★★★★.5
+- [Ásgeir - In the Silence](http://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) ★★★.5
+- [The Autumn Defence - Fifth](http://open.spotify.com/album/4umgjvG1XYk2NahICVnZOd) ★★★.5
+- [Lee Bains III & the Glory Fires - Dereconstructed](http://open.spotify.com/album/3rJkLSue9WOCtQCyD58DTa) ★★.5
+- [Jeff Ballard - Time's Tales](http://open.spotify.com/album/40hNiRNaSRYfvAHWTDM0BV) ★★★
+- [Mark Barrott - Sketches from an Island](http://open.spotify.com/album/49J2HRsegAiWKDZLTKoH1a) ★★★★
+- [Azealia Banks - Broke with Expensive Taste](http://open.spotify.com/album/2hwg465rtFiu9UqPs0k7Ku) ★★★★★
+- [Courtney Barnett - The Double EP: A Sea of Split Peas](http://open.spotify.com/album/2Tj0T4o9svdk19AjADY4lx) ★★★.5
+- [Mark Baroott - Sketches From an Island](http://open.spotify.com/album/49J2HRsegAiWKDZLTKoH1a) ★★★★
+- [Ceci Bastida - En La Edad De La Violencia](http://open.spotify.com/album/683m0cU43TdTCDSBKBF9Zd) ★★★.5
+- [Bayside - Cult](http://open.spotify.com/album/2I5AJgVM3NpXifaL8jdmYa) ★★.5
+- [Bear in Heaven - Time is Over One Day Old](http://open.spotify.com/album/3d5f8IHedAAYziY3ZAFZdY) ★★★.5
+- [Beck - Morning Phase](http://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) ★★★★★
+- [Naomi Bedford - A History of Insolence](http://open.spotify.com/album/6ZvfP6CFGoFAipccSlbKK7) ★★★★
+- [Bellows - Blue Breath](http://open.spotify.com/album/1TwJxjB1OQ0alGlUuzYIfU) ★★★
+- [Beverly - Careers](http://open.spotify.com/album/1mhY7YakmHPobkri7DIWvw) ★★★★
+- [Behemoth - The Satanist](http://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) ★★★
+- [Black Lips - Underneath the Rainbow](http://open.spotify.com/album/4kE1w1zgP6Ag6Ojbuxzk7l) ★★★
+- [Brian Blade & the Fellowship Band - Landmarks](http://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) ★★★★
+- [James Blake - 200 Press EP](https://play.spotify.com/album/6g54rJNJ14jvgdkJDuQ5Wk) ★★★★
+- [Blank Realm - Grassed Inn](http://open.spotify.com/album/6Ddwd6dunkL1UNqPdmlLHz) ★★★.5
+- [Bleeding Rainbow - Interrupt](http://open.spotify.com/album/0EyKAm5zcfFM0kVE5mMvoD) ★★★
+- [Mary J. Blige - The London Sessions](http://open.spotify.com/album/4CgiEe8ECxncoOlDK93qzV) ★★★★
+- [The Body - I Shall Die Here](http://thebody.bandcamp.com/album/i-shall-die-here) ★★★★.5
+- [Bohren & Der Club of Gore - Piano Nights](http://open.spotify.com/album/21zAfILsjNqHbnYpfEnbr6) ★★★★
+- [Bo Ningen - III](http://open.spotify.com/album/5b6IJ7myIzR6ya7xx5SjkY) ★★★★
+- [Haley Bonar - Last War](http://open.spotify.com/album/38QCCzgmD7GbfRAUCW1mQf) ★★★★
+- [Boris - Noise](http://open.spotify.com/album/37tK1Wr16htoSPQAuu3mFE) ★★★
+- [The Both - The Both](http://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) ★★★
+- [Jesse Boykins III - Love Apparatus](http://open.spotify.com/album/1ckClJhmRlQKb3htXv8f3Y) ★★★★.5
+- [Carla Bozulich - Boy](http://open.spotify.com/album/10iUOfCg6KllWGfS2EXwXA) ★★★.5
+- [Tom Brosseau - Grass Punks](http://open.spotify.com/album/4CHXqrpzN3zQzqEeVvOaeh) ★★★★
+- [Brownout - Presents Brown Sabbath](http://open.spotify.com/album/39Yd8MChzWFupt7pVarMp5) .5
+- [The Bug - Angels and Devils](http://open.spotify.com/album/1VtXF7X88haeELGGHPnn1m) ★★★.5
+- [Calle 13 - MultiViral](http://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) ★★★
+- [Laura Cantrell - No Way From Here](http://open.spotify.com/album/1tKLQBe4FJeyhJaZbhcTaz) ★★★.5
+- [Ana Caprix - For Seven Nights This Island is Ours](https://soundcloud.com/caprix/sets/for-seven-nights) ★★★★.5
+- [Caribou - Our Love](http://open.spotify.com/album/5r4nz5LZHeGUcZCrWbfWkx) ★★★★
+- [Rosanne Cash - The River and the Thread](http://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) ★★★★.5
+- [CEO - Wonderland](http://open.spotify.com/album/33eSXQBvIwSUlme8Oin56t) ★★★★
+- [Charli XCX - Sucker](http://open.spotify.com/album/4UWPrrDdzEsdMUDzYM8FC6) ★★★★.5
+- [Gina Chavez - Up.Rooted](http://open.spotify.com/album/1P051mDrrSC6OZKVann8PA) ★★★
+- [Cheetahs - Cheetahs](http://open.spotify.com/album/5kelTD79bkeXExIfV53p2i) ★★★★
+- [Neneh Cherry - Blank Project](http://open.spotify.com/album/5HrYDuWFWnIlgtq5clyCvX) ★★★.5
+- [Chet Faker - Built on Glass](http://open.spotify.com/album/4TqioMediFf2UaseMoxGgK) ★★★★
+- [Chimurenga Renaissane - riZe vadZimu riZe](http://open.spotify.com/album/7zPTjF9Kma9lkTwl1r9PUO) ★★★★
+- [Chumped - Teenage Retirement](http://open.spotify.com/album/5T8aaMnffrnPStQcLpnq6B) ★★★★
+- [Eric Church - The Outsiders](http://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) ★★★.5
+- [Circulatory Systems - Mosaics Within Mosaics](http://open.spotify.com/album/41TJeSapFXi1vEMs07IvGT) ★★★.5
+- [Clark - Clark](http://open.spotify.com/album/13944rqffz0QLBUe04vY0r) ★★★★.5
+- [CLPPNG - CLPPNG](http://open.spotify.com/album/0nzammMx8yd48selZLWfUx) ★★★.5
+- [Clout Cult - Unplug](http://open.spotify.com/album/6ftdV3dowgxGFrsG43tAxK) ★★★.5
+- [Cloud Nothings - Here and Nowhere Else](http://open.spotify.com/album/3NNSJt3gWSmPmnjCwZyLA5) ★★★.5
+- [Diane Cluck - Boneset](http://download.dianecluck.info/album/boneset) ★★★★
+- [Leonard Cohen - Popular Problems](http://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb) ★★★
+- [Container - Adhesive EP](http://open.spotify.com/album/5Xujqgnc7gC57K8XfT4TMf) ★★★.5
+- [Mac Cooper - Human](http://open.spotify.com/album/7HZu9zqN5fVzuHFyxQjNMp) ★★★.5
+- [Frankie Cosmos - Zentropy](http://open.spotify.com/album/6EAwEaY4Ozymphrn5kiCwd) ★★★★
+- [Bradford Cox - Teenage](http://open.spotify.com/album/0i7Gve9O77RvzypPbgap8A) ★★★.5
+- [Rodney Crowell - Tarpaper Sky](http://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) ★★★
+- [Cult & Leper - Twin Knobs Power City](http://cultleper1.bandcamp.com/album/twin-knobs-power-city) ★★★.5
+- [Cult of Youth - Final Days](http://open.spotify.com/album/1L4gXY7JCnrQMWEiJ5zLJI) ★★★★
+- [Cymbals Eat Guitars - Lose](http://open.spotify.com/album/1WSJtXDNl5YN6Z7iF9q7f4) ★★★★
+- [D'Angelo - Black Messiah](http://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) ★★★★★
+- [Dads - I'll Be the Tornado](http://open.spotify.com/album/3ll5uUSXKcbnvdlnFeqfuI) ★.5
+- [Brody Dalle - Diploid Love](http://open.spotify.com/album/6YKRlT2dAjl6ge7Zs9nJel) ★★★★.5
+- [Douglas Dare - Whelm](http://open.spotify.com/album/3ANdSMSAOVWtpedwdPPcu2) ★★★
+- [Death Vessel - Island Intervals](http://open.spotify.com/album/0WugXyArc5si3Ha9R702Wr) ★★★
+- [Deerhoof - La Isla Bonita](http://open.spotify.com/album/5Iqhz7FGP7OhcKotqIuXdV) ★★★★
+- [Deleted Scenes - Lithium Burn](http://open.spotify.com/album/6oZkQ4pJBWmaXAltXcRIpT) ★★★★
+- [Mac DeMarco - Salad Days](http://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) ★★★★
+- [Christopher Denny - If the Roses Don't Kill Us](http://open.spotify.com/album/2cYb1XbcuYdSOPhfuxj0rB) ★★★
+- [Alexandre Desplat / Randall Poster - The Grand Budapest Hotel OST](http://open.spotify.com/album/6IV7472Hni7A1ENilCManS) ★★★.5
+- [Copenhagen Phil & André de Ridder - Bryce Desnner: St. Carolyn by the Sea / Jonny Greenwood: Suite from "There Will Be Blood"](http://open.spotify.com/album/1Mhjqk8ekH17yUbrS1zfsL) ★★★.5
+- [Toumani Diabaté - Toumani & Sidiki](http://open.spotify.com/album/4fiBY2OnIj3npvjedQPpyP) ★★★★
+- [Joyce DiDonato - Stella di Napoli](http://open.spotify.com/album/2JEZgfGnuEKdPwrKPChrRU) ★★★★
+- [Dirty Beaches - Stateless](http://open.spotify.com/album/55HHkWIaM9E6pZuxKJuDE8) ★★★★.5
+- [DJ Dodger Stadium - Friend of Mine](http://open.spotify.com/album/5MY0tFwC5iXLlHnZlyn4hk) ★★★★
+- [DJ Q - Ineffable](http://open.spotify.com/album/6Ei95HDbwcQQsJwr6uCzxv) ★★★
+- [DJ Quik - The Midnight Life](http://open.spotify.com/album/0T92mnf5HL7eb0ipIBOSEU) ★★★★
+- [Doss - Doss + remixes](http://open.spotify.com/album/2u3yGvVGXtw7Q0du9QpRYf) ★★★★.5
+- [Kevin Drew - Darlings](http://open.spotify.com/album/5up9bPbyKEfsRHhUomojdt) ★★★.5
+- [Jorge Drexler - Bailar En La Cuerva](http://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi)
+- [Drive-By Truckers - English Ocean](http://open.spotify.com/album/6okr69reCi40XDUZnpbfXP) ★★★
+- [Kevin Drumm - Trouble](http://open.spotify.com/album/6HlXfG5s8kb6wzad1NCMLG) ★★★★
+- [The Duhks - Beyond the Blue](http://open.spotify.com/album/6ya6TIwmi7JggdC3BixILu) ★★★.5
+- [Dum Dum Girls - Too True](http://open.spotify.com/album/2ntrA9zaxFlkTsQ7228LnV) ★★★
+- [Eagulls - Eagulls](http://open.spotify.com/album/74KGur0bkIgnKWP2IXCe0g) ★★★.5
+- [Justin Townes Earle - Single Mothers](http://open.spotify.com/album/6vlWpqRUS6qJCG7b8So7s8) ★★★★
+- [East India Youth - Total Stife Forever](http://open.spotify.com/album/3MkQ1qy4JZqI5TQLifjary) ★★★
+- [Kat Edmonson - The Big Picture](http://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56) ★★★.5
+- [Elbow - The Take Off and Landing of Everything](http://open.spotify.com/album/39R6u9Sm7gPl7TgUUYigJI) ★★★.5
+- [Electric Wizard - Time to Die](http://open.spotify.com/album/0Wog8ZTHQGjngwsB0d7Ueo) ★★★
+- [Electric Youth - Innerworld](http://open.spotify.com/album/4Kt5QSgaOzr6nTIN4RBmkf) ★★★★.5
+- [Robert Ellis - The Light from the Chemical Plant](http://open.spotify.com/album/0aqTGYTiTZwpTerC1KRGER) ★★★★
+- [EMA - The Future's Void](http://open.spotify.com/album/4vHpLVNZR9XG6xo2kf79a8) ★★★.5
+- [Eno/Hyde - High Life](http://open.spotify.com/album/4HvERGsdGToYxBnheMF2hr) ★★★
+- [Sara Evans - Slow Me Down](http://open.spotify.com/album/78bfZn6WFHAwutuhbD36sD) ★★★
+- [Every Time I Die - From Parts Unknown](http://open.spotify.com/album/7L6LEWLLdbC5IShBOuQxXk) ★.5
+- [Ex Hex - Rips](http://open.spotify.com/album/6AiSmBuuVUi2xCIVJsXcQb) ★★★
+- [The Family Crest - Beneath the Brine](http://open.spotify.com/album/5Vr0HJnNJoZAvLwnI7dhZl) ★★★
+- [Fear of Men - Loom](http://open.spotify.com/album/4qyOU3HaBBzCwvfcHfX1Z6) ★★★★.5
+- [Fennesz - Bécs](http://open.spotify.com/album/3hBZUZN8mZ4n5mglPrVQkM) ★★★★.5
+- [Bryan Ferry - Avonmore](http://open.spotify.com/album/1Fh3xxRWtgN893VPiFng1v) ★★.5
+- [Lee Fields & the Expressions - Emma Jean](http://open.spotify.com/album/1P1mSATej9cztZYCUvvwOK) ★★★.5
+- [Orenda Fink - Blue Dream](http://open.spotify.com/album/2ye2pqNBC4H2lsQ8zuRYho) ★★★.5
+- [First Aid Kit - Stay Gold](http://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) ★★★.5
+- [FKA twigs - LP1](http://open.spotify.com/album/5VqGGKeWpIBRFh4M4XmqDK) ★★★★★
+- [Béla Fleck & Abigail Washburn - Béla Fleck & Abigail Washburn](http://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm) ★★★★
+- [Leon Fleisher - All The Things You Are](http://open.spotify.com/album/07IsLcaI8TrUTExeK9lyqc) ★★★★.5
+- [Dom Flemons - Prospect Hill](http://open.spotify.com/album/4lwUds2TjAK5zSXnFUbC97) ★★
+- [Flying Lotus - You're Dead!](http://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) ★★★★★
+- [Frazey Ford - Indian Ocean](http://open.spotify.com/album/4tJ6OZ157uyTAzIHbttcqU) ★★★
+- [Nils Frahm - Spaces](http://grooveshark.com/#!/album/Spaces/9360135)
+- [From Indian Lakes - Absent Sounds](http://open.spotify.com/album/76OjRhmSkBPxrI0k5UsxT8) ★★.5
+- [Ben Frost - A U R O R A](http://open.spotify.com/album/799qo6A5q4TXn9j3tVcc82) ★★★★★
+- [Ben Frost - V A R I A N T](http://open.spotify.com/album/6JJWqLVK8FhTPY8PEcbjaP) ★★★★.5
+- [Future - Honest](http://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) ★★★★
+- [Future Islands - Singles](http://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) ★★★★
+- [Gang Wizard - Important Picnic](http://gangwizard.bandcamp.com/album/important-picnic) ★★★★
+- [Gazelle Twin - UNFLESH](http://open.spotify.com/album/0egeUNCHjSjb2PnY09zEal) ★★★★.5
+- [Gem Club - In Roses](http://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) ★★★★
+- [The Ghost Inside - Dear Youth](http://open.spotify.com/album/0Q1q3TmaVNvwr7j37DkyNR) ★★
+- [Ghostface Killah - 36 Seasons](http://open.spotify.com/album/2jhHhqOtflKaJeMEgWD82S) ★★★★
+- [Ghetto Ghouls - Ghetto Ghouls](https://itunes.apple.com/us/album/ghetto-ghouls/id818950075) ★★★
+- [Freddie Gibbs and Madlib - Pinata](http://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) ★★★★
+- [Girlpool - Girlpool EP](http://open.spotify.com/album/6gWP3Uizvhw3IgqotMxYOg) ★★★★.5
+- [The Gloaming - The Gloaming](http://open.spotify.com/album/1CeEkBmYJG9ghiHRls9poQ) ★★★★.5
+- [GOAT - Commune](http://open.spotify.com/album/4a5B4wmMazZt1hJx5iXUPE) ★★
+- [Godflesh - A World Lit Only By Fire](http://open.spotify.com/album/5yV2HG5etYWkVTp2P8rN9h) ★★★
+- [Ariana Grande - My Everything](http://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr) ★★★★.5
+- [Grouper - Ruins](http://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) ★★★★★
+- [Steve Gunn - Way Out Weather](http://open.spotify.com/album/373oJPfagG8Qepbxx5hywF) ★★★★
+- [Augustin Hadelich - Sibelius, Adès: Violin Concertos](http://open.spotify.com/album/5942pqyLi2aUN0fOsKgco7) ★★★★
+- [The Haden Triplets - The Haden Triplets](http://open.spotify.com/album/4ZqzLYbbghz84CtEBZES0G) ★★★
+- [Hail Mary Mallon - Bestiary](http://open.spotify.com/album/6DHjCoyzEhieySQksPycFD) ★★★
+- [Yasmine Hamdan - Ya Nass](http://open.spotify.com/album/75JO4X9qLrE70KBSbf7WX5) ★★★★
+- [Curtis Harding - Soul Power](http://open.spotify.com/album/0UAbtMMkowQPojeuXnGsMG) ★★★★.5
+- [Holly Herndon - Chorus EP](http://hollyherndon.bandcamp.com/album/chorus) ★★★★.5
+- [The Hidden Cameras - Age](http://open.spotify.com/album/7pwxlQkK7tgwMexEe2scUR) ★★★.5
+- [Highasakite - Silent Treatment](http://open.spotify.com/album/2KVGcUnLGA9mr7SQfZZYcX) ★★★★.5
+- [Hiss Golden Messenger - Lateness of Dancers](http://open.spotify.com/album/5K7VYgm2UUdIdis8H3zMhA) ★★.5
+- [Jolie Holland - Wine Dark Sea](http://open.spotify.com/album/3NENXc8SBRPQvuH4BY0Cz5) ★★★
+- [Homeboy Sandman - Hallways](http://open.spotify.com/album/0fy7kzKCMLuhzKDbPXlMdg) ★★.5
+- [Hookworms - The Hum](http://open.spotify.com/album/415oSeCPGqObwNN3rMmyCd) ★★★.5
+- [Horrendous - Ecdysis](http://open.spotify.com/album/1kkcolZkWXDRxGBwX4UwTn) ★★★
+- [Hospitality - Trouble](http://open.spotify.com/album/4IpjPZhNDBRwPSOmhIC6aF) ★★★.5
+- [Hostage Calm - Die on Stage](http://open.spotify.com/album/1mwltQUi5eWHCZD7ZE6uSr) ★
+- [The Hotelier - Home, Like Noplace is There](http://open.spotify.com/album/0JWZYF32E2xCB7lgqEbqIp) ★★★★
+- [Ben Howard - I Forget Where We Were](http://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) ★★★
+- [How to Dress Well - What is This Heart?](http://open.spotify.com/album/329XZJQ2x2nRNhly1itL49) ★★★★★
+- [Hozier - Hozier](http://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) ★★.5
+- [Hundred Waters - The Moon Rang Like a Bell](http://open.spotify.com/album/051I8OUCXMiEnua64QQKy3) ★★★★
+- [Sam Hunt - Montevallo](http://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) ★.5
+- [Hurray for the Riff Raff - Small Town Heroes](http://open.spotify.com/album/2Jgs7uTMWm1SmG8hQXS4yx) ★★★.5
+- [Iceage - Plowing Into the Field of Love](http://open.spotify.com/album/2zFpmXJsyl4HnMY1hZcfIe) ★★★★
+- [Indian - From All Purity](http://open.spotify.com/album/1rFCX8VEjIWN35Oe1evxBE) ★★★
+- [Interpol - El Pintor](http://open.spotify.com/album/0PNquUhkW8X80jKMEHXs5F) ★★★.5
+- [The Jacka - What Happened to the World](http://open.spotify.com/album/5VWL1JO8gIbRQMhak2YzVX) ★★★.5
+- [Jeremiah Jae - Good Times](http://www.datpiff.com/Jeremiah-Jae-Good-Times-mixtape.605534.html) ★★★.5
+- [Sarah Jaffe - Don't Disconnect](http://open.spotify.com/album/4dKkAxZwUOWfPfDLJGpVB4) ★★★.5
+- [Jose James - While You Were Sleeping](http://open.spotify.com/album/4JLaKN5tr4DTU10djgWAgM) ★★★
+- [Jeremy Jay - Abandoned Apartments](http://open.spotify.com/album/1kdvebFX6gOQbMPVCxkJJf) ★★★
+- [Jerome LOL - Deleted/Fool EP](http://open.spotify.com/album/57KmdTinXBc5rJiCV0icHP) ★★★★
+- [Johnny Foreigner - You Can Do Better](http://open.spotify.com/album/2Uf4Ym4mdoktGdWhNBDO4b) ★★.5
+- [Sharon Jones & the Dap-Kings - Give the People What They Want](http://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf) ★★.5
+- [Joyce Manor - Never Hungover Again](http://open.spotify.com/album/4B61MxQBe8RsHIlPSyjZZv) ★★★
+- [Juju & Jordash - Clean-Cut](http://open.spotify.com/album/4vlyi7rQZH1Ato8CFbZy42) ★★★★
+- [Damien Jurado - Brothers and Sisters of the Eternal Son](http://open.spotify.com/album/3VBFx3el7Z0qAGXeIbFQSq) ★★★.5
+- [Katy B - Little Red](http://open.spotify.com/album/2aSZDutyr98qI6ym4CuHb4) ★★★
+- [Kiasmos - Kiasmos](http://open.spotify.com/album/5M7H7J3LJfIk9zqcDJVi6T) ★★★★
+- [Angélique Kidjo - Eve](http://open.spotify.com/album/2bIy3IZPI582vSe2TaoLUs) ★★★★
+- [Kindness - Otherness](http://open.spotify.com/album/6ooM2PQ3C79PE2D5CX5kyi) ★★★★.5
+- [King Tuff - Black Moon Spell](http://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) ★★★
+- [Korallreven - Death is Not For Us](http://open.spotify.com/album/3ENf66Qxn8KYivGG65Ocrl) ★★★★.5
+- [Seun Kuti & Egypt 80 - A Long Way to the Beginning](http://open.spotify.com/album/5HPL5fytTolyYZW2QrwlcU) ★★★.5
+- [La Dispute - Rooms of the House](http://open.spotify.com/album/201f8uQMzlWxYN6Wy7IIDg) ★★★.5
+- [Miranda Lambert - Platinum](http://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) ★★★★
+- [Lana Del Rey - Ultraviolence](http://open.spotify.com/album/2e3doCyb0qn2JeKLsh2Xbo) ★★
+- [The Lawrence Arms - Metropole](http://open.spotify.com/album/6A7ElsZkOOLZrQTjzyOUly) ★★★
+- [Legowelt - Crystal Cult 2080](http://open.spotify.com/album/0aGxVqBu6Zf95Zu7r3pNy8) ★★★.5
+- [Jens Lekman - WWJD Mixtape](https://soundcloud.com/jens-lekman/wwjd-mixtape) ★★★★★
+- [Hamilton Leithauser - Black Hours](http://open.spotify.com/album/6okbkXtZuUlbVmADpjxNiA) ★★★★
+- [Les Sins - Michael](http://open.spotify.com/album/16PFsm0wvfvsv2pEE6eies) ★★★★.5
+- [Mica Levi - Under the Skin Soundtrack](http://open.spotify.com/album/275sXYD532oqsvZOSA2QYB) ★★★★
+- [Jenny Lewis - The Voyager](http://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) ★★★★
+- [Liars - Mess](http://open.spotify.com/album/5Yyt7GBe2YwY3ddjsbv1Em) ★★★.5
+- [Valentine Lisitsa - Chasing Pianos](http://open.spotify.com/album/7h2ag4bmRLTe26XbcFUE1P) ★★★.5
+- [Little Daylight - Hello Memory](http://open.spotify.com/album/2BtzaGfLl5bXlJt6LnznSe) ★★★★★
+- [Lockah - Yahoo or the Highway](http://open.spotify.com/album/4ZtXDm1BIxGC6ay6Ih9VbU) ★★★.5
+- [Lone - Reality Testing](http://open.spotify.com/album/1eCfhfAKepqqycvIa4BXwh) ★★★★
+- [Loscil - Sea Island](http://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) ★★★★.5
+- [Lost in the Trees - Past Life](http://open.spotify.com/album/6dX9aIYLUd6cTYrOSv3nUg) ★★★.5
+- [Lydia Loveless - Somewhere Else](http://open.spotify.com/album/15UfMA8VC7IxY6z6CbRsMN) ★★★.5
+- [Luluc - Passerby](http://open.spotify.com/album/3YMi92E4Jwp6mKfdtI8gex) ★★★.5
+- [Lykke Li - I Never Learn](http://open.spotify.com/album/4fGqfyineAZmulNxgitERh) ★★★.5
+- [LVL Up - Hoodwink'd](http://open.spotify.com/album/4BbaShNnp961AwdmwmgynF) ★.5
+- [M. Geddes Gengras - Ishi](http://open.spotify.com/album/4SEZc2J9tN6sXDZyOzinbf) ★★★★
+- [Magic Touch - Palermo House Gang](https://soundcloud.com/magic_touch/sets/magic-touch-palermo-house-gang) ★★★
+- [Makthavarskan - II](http://open.spotify.com/album/1HeqJsDk6vB52GNBI0Qnx0) ★★★★★
+- [The Marmozets - The Weird and Wonderful...](http://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) ★★
+- [Martha - Courting Strong](http://open.spotify.com/album/0PwGwdjRC09VARq9HD3aUw) ★
+- [J. Mascis - Tied to a Star](http://open.spotify.com/album/1RSO63oaHi6R2ZfBL5jF5i) ★★★.5
+- [Cibo Matto - Hotel Valentine](http://open.spotify.com/album/749dHyFaJ8I3iv5mt1Bxrx) ★★★.5
+- [Jessica Lea Mayfield - Make My Head Sing...](http://open.spotify.com/album/1tMQ9A1bdC0oKkJQE91Vvf) ★★★
+- [Jackie McDowell - Baptisia](http://open.spotify.com/album/3pKlf59VcmrFBe1tOkucYs) ★★★★
+- [Taylor McFerrin - Early Riser](http://open.spotify.com/album/7kVLs8k2rKsCavQDQFa43O) ★★★★.5
+- [Mark McGuire - Along the Way](http://open.spotify.com/album/62evt41yKUOjno6V4umHvG) ★★★★.5
+- [Meatbodies - Meatbodies](http://open.spotify.com/album/2Uzzcp0yajAHVOGNNaovDU) ★★★.5
+- [The Men - Tomorrow's Hits](http://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) ★★★
+- [Merchandise - After the End](http://open.spotify.com/album/6NqfQMTNU6tT8Vr3nnP13x) ★★★★★.5
+- [Jeremy Messersmith - Heart Murrmurs](http://open.spotify.com/album/6SuIleYbiL8pUzX4W7yPXG) ★★★★
+- [Ingrid Michaelson - Lights Out](http://open.spotify.com/album/7EeXlp6rdj7623162lm1yK) ★★★★
+- [Migos - Rich Ni**a Timeline](http://open.spotify.com/album/0ty5iwaiepWlGq8g0DKtEy) ★★★
+- [Parker Millsap - Parker Millsap](http://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) ★★
+- [Mimicking Birds - Eons](http://open.spotify.com/album/1dPl9GEEjklhOMM9RpdiEf) ★★★.5
+- [The Ministry of Wolves - Music from Republik der Wölfe](http://open.spotify.com/album/1KevsqeC2SCqClwNXxarXw) ★★★
+- [Mirah - Changing Light](http://open.spotify.com/album/27JtUowjk0nUhMrfN2N1SU) ★★★.5
+- [Mitski - Bury Me at Makeout Creek](http://open.spotify.com/album/2YeKI5m3fy6zLYVDnYsDqf) ★★★.5
+- [Modern Baseball - You're Gonna Miss It All](http://open.spotify.com/album/7Jg2tDzP6qZQHO2A37m2ab) ★★★
+- [Mogwai - Rave Tapes](http://open.spotify.com/album/7Bi4YiLqsBbXkWhFe7kMTp) ★★★
+- [Moodyman - Moodyman](http://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) ★★★★
+- [Jason Moran - ALL RISE: A Joyful Elegy for Fats Waller](http://open.spotify.com/album/1IJh4pZRNHDq2dzvm2F23H) ★★★.5
+- [Morning Glory - War Psalms](http://open.spotify.com/album/7jgACf00TRhCtzw6sOUEUH) ★★★
+- [Kassem Mosse - Workshop 19](http://open.spotify.com/album/16VgPFF1HrFQ6ZHUkqodgF) ★★★.5
+- [Mozart's Sister - Being](http://open.spotify.com/album/3SLmF6XrzmcPmYgjpdgzkU) ★★★.5
+- [Mozes and the Firstborn - Mozes and the Firstborn](http://open.spotify.com/album/1Q8MkkY6QybWbfVGDf4MEA) ★★.5
+- [Mr. Gnome - The Heart of a Dark Star](http://open.spotify.com/album/15SymFdxEwELZEe0DpRdzQ) ★★★.5
+- [Mr. Twin Sister - Mr. Twin Sister](http://open.spotify.com/album/5d1EnTsM3SBkly6fENKprF) ★★★★★
+- [Murmur - Murmur](http://open.spotify.com/album/7fP1wGzdlr02y4wowhsG5r) ★★.5
+- [Marissa Nadler - July](http://open.spotify.com/album/1Ymzc31JyHYVWgZEAFUhB6) ★★★★.5
+- [Naked Island - Naked Island](http://open.spotify.com/album/6GPWFZ7XGmHLNwV7A81I4E) ★★★.5
+- [Willie Nelson - Band of Brothers](http://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) ★★★★
+- [The New Pornoraphers - Brill Bruisers](http://open.spotify.com/album/2sNidN9oZULfH7gZfoPZ9a) ★★★★
+- [Nickel Creek - A Dotted Line](http://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) ★★★
+- [Nikki Lane - All Or Nothin'](http://open.spotify.com/album/1QKfsdpqt4YP8WdEKATNhU) ★★★.5
+- [Nothing - Guilty of Everything](http://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) ★★★
+- [The Notwist - Close to the Grass](http://open.spotify.com/album/0RTY6BRUIsyJEgWbZkFj3D) ★★★★.5
+- [Nux Vomica - Nux Vomica](http://open.spotify.com/album/1M7jKEZHhLo8psVGZolfmb) ★★★
+- [Odonis Odonis - Hard Boiled Soft Boiled](http://open.spotify.com/album/5ygcqB8Pc4y6FemcaFOo5W) ★★.5
+- [Objekt - Flatland](http://open.spotify.com/album/5BzpwdX5ow6qAXrOCJKd4Z) ★★★★★
+- [OFF! - Wasted Years](http://open.spotify.com/album/3HmyNiUlEpTzoyVfu2Br9t) ★★★
+- [Old Man Gloom - The Ape of God I](http://open.spotify.com/album/5bTs4HY0zZaG7BBUvLtED6) ★★.5
+- [Old Man Gloom - The Ape of God II](http://open.spotify.com/album/2xw5rvGcsyXvLFF0dO37fA) ★★★
+- [Angel Olsen - Burn Your Fire for No Witness](http://open.spotify.com/album/0xvDtkNKJiLclVbjLvovFU) ★★★★
+- [One Direction - Four](http://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) ★★★★
+- [Open Mike Eagle - Dark Comedy](http://open.spotify.com/album/3hSppPElM044DnIafFTg96) ★★★★
+- [Ought - More Than Any Other Day](http://open.spotify.com/album/6Y1StvNpDomvTkBgtgHIlU) ★★★.5
+- [Pacifika - Amor Planeta](http://open.spotify.com/album/352KWVwL9hrytKzi0F18qV) ★★★
+- [Pallbearer - Foundations of Burden](http://open.spotify.com/album/5hcHyM3KYY97gUZzfRlNZb) ★★★
+- [Owen - Other People's Songs](http://open.spotify.com/album/3mQV8fFE0igPfBWFpSTFBx) ★★★.5
+- [Owen Pallett - In Conflict](http://open.spotify.com/album/5uw6bqTj61Fjy73OpymGDC) ★★★★
+- [Panda Bear - Mr Noah Single](http://open.spotify.com/album/39bGEeeMk90bxzfULguUn9) ★★★.5
+- [Panopticon - Roads to the North](http://open.spotify.com/album/3Wj3kaoFezsJQrPAkgi4a6) ★★★
+- [Dolly Parton - Blue Smoke](http://open.spotify.com/album/3rriCqkMGvgZl6mDPbxj40) ★★★.5
+- [Parquet Courts - Sunbathing Animal](http://open.spotify.com/album/3ngz9FbWGxHscqvwoGOL0u) ★★★★
+- [Perfect Pussy - Say Yes to Love](http://open.spotify.com/album/0vAWlFqwQXVhsW7SR3rXv1) ★★★★★
+- [Perfume Genius - Too Bright](http://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT) ★★★★
+- [Linda Perhacs - The Soul of All Natural Things](http://open.spotify.com/album/2smQz81cSVS25ed14OrGEe) ★★★★
+- [Tom Petty and the Heartbreakers - Hypnotic Eye](http://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) ★★
+- [Phantogram - Voices](http://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) ★★★★
+- [The Phantom Band - Strange Friend](http://open.spotify.com/album/2Q75AxARcSqERFLTvyxvkB) ★★★.5
+- [Pharmakon - Bestial Burden](http://open.spotify.com/album/3HOtmw25fWCfpvAlxl9H8p) ★★★★.5
+- [Phox - Phox](http://open.spotify.com/album/3Tu66CMC8ZJXpSEdXAlRMP) ★★★★
+- [Plague Vendor - Free to Eat](http://open.spotify.com/album/4H0c6OTfVrEPD5kYwIloFO) ★★.5
+- [Popcaan - Where We Come From](http://open.spotify.com/album/3KxV4BKuBa5MuoETwALcUc) ★★★.5
+- [Posse - Soft Opening](http://open.spotify.com/album/4CmBAdtBb3nBAww9bQbPLc) ★★★★
+- [Prague Radio Symphony Orchestra/Prague Philharmonic Choir - Leoš Janáček, Glagolitic Mass](http://open.spotify.com/album/3D9Agb9eCHME82bLNVLEd1) ★★★★
+- [Angaleena Preseley - American Middle Class](http://open.spotify.com/album/3z9bMlZfGARq8VzNRTVVpy) ★★★
+- [Protomartyr - Under Color of Offical Right](http://open.spotify.com/album/5Z8CuI6sEzVjwGFsdNEuea) ★★★.5
+- [Pup - PUP](http://open.spotify.com/album/7tnHdw25MqprnTWqkvShu1) ★★★
+- [Pvris - White Noise](http://open.spotify.com/album/7acEEWUWq2GVgeS9tr9cOp) ★★★★
+- [Pyrrhon - The Mother of Virtues](http://open.spotify.com/album/5f1cLwa37KHnzkHHVEOhff) ★★★
+- [Quilt - Held in Splendor](http://open.spotify.com/album/7K6JuVCkL4TaKTZ1ViLDzT) ★★★
+- [The Range - Panasonic EP](http://open.spotify.com/album/5SLXHMazxGWFVzx12PIxSn) ★★★
+- [Isaiah Rashad - Cilvia Demo](http://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) ★★★★
+- [Raspberry Bulbs - Privacy](http://open.spotify.com/album/7wQBjixV20G0EkKmZkYIsZ) ★★★.5
+- [Ratking - So It Goes](http://open.spotify.com/album/3hXl1HiPIzbR1alZy3Eaf3) ★★★★
+- [Real Estate - Atlas](http://open.spotify.com/album/7lAYJiypiPbCDvjKOBX1TV) ★★★★
+- [Recycle Culture - drown me up](http://recycleculture.bandcamp.com/album/drown-me-up) ★★★★★
+- [Reigning Sound - Shattered](http://open.spotify.com/album/5SEJxl1hYnNjyNBpPpHTMo) ★★
+- [Damien Rice - My Favorite Faded Fantasy](http://open.spotify.com/album/7gqvBbOGDfAvjweUqnn5xg) ★★★★.5
+- [Rick Ross - Mastermind](http://open.spotify.com/album/1iTpsn4fbLlsdKDKFuUfsH) ★★★★
+- [Porter Robinson - Worlds](http://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) ★★★★★
+- [Rodrigo y Gabriela - 9 Dead Alive](http://open.spotify.com/album/4GAtAJJ602Wal8aUakQ3zm) ★★★
+- [Run the Jewels - 2](http://open.spotify.com/album/2lPYlP4eumsjz6LBG8GCbG) ★★★★★
+- [Saintseneca - Dark Arc](http://open.spotify.com/album/1dMepIkzHQaP0HlbSn7SX7) ★★★★.5
+- [Sales - Sales EP](http://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) ★★★★.5
+- [Schoolboy Q - Oxymoron](http://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) ★★★★.5
+- [Seattle Symphony - John Luther Adams, Become Ocean](http://open.spotify.com/album/14ZIOHQQEvOPR59Nkdl4ga) ★★★★
+- [Noura Mint Seymali - Tzenni](http://open.spotify.com/album/6VkOKErO7DeKmq1OVxfoPL) ★★★.5
+- [Raz Simone - Cognitive Dissonance](http://www.datpiff.com/Raz-Simone-Cognitive-Dissonance-Part-One-mixtape.587600.html) ★★★★.5
+- [S. Carey - Range of Light](http://open.spotify.com/album/3bBG6gG1Y5ngeVTl8GmhCK) ★★★★
+- [Sean Nicholas Savage - Bermuda Waterfall](http://open.spotify.com/album/6GdE3h6htFUjyTzTiklQFP) ★★★★.5
+- [Ty Segall - Manipulator](https://itunes.apple.com/us/album/manipulator/id887490112) ★★★.5
+- [Shabazz Palaces - Lese Majesty](http://open.spotify.com/album/6Xx2yfMXUlZZZfiPbIuWFH) ★★★★
+- [Shamir - Northtown EP](http://open.spotify.com/album/5lrqDLhAt2uLHGTb6IeBHX) ★★★★
+- [Shovel & Rope - Swimmin' Time](http://open.spotify.com/album/1mcKhLfGNvsvr2dNwIUez9) ★★★
+- [Sinkane - Mean Love](http://open.spotify.com/album/5u9CMU8Xn06xVAciuNkD0h) ★★★
+- [Sturgill Simpson - Metamodern Sounds in Country Music](http://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) ★★★
+- [Sisyphus (Sufjan Stevens, Son Lux, Serengeti) - Sisyphus](http://open.spotify.com/album/7cD7cpvMp636T6umawpsgK) ★★★.5
+- [The Soft Pink Truth - Why Do the Heathen Rage?](http://open.spotify.com/album/4UKmxcCbV3KCuMP7mbpyJ0) ★★★.5
+- [John Southworth - Niagara](http://open.spotify.com/album/26Egh0kyYhhmJFZWgBIxJu) ★★.5
+- [Speedy Ortiz - Real Hair EP](http://open.spotify.com/album/0KszHsdiHGWsjt9aOYLuxk) ★★★.5
+- [Spider Bags - Frozen Letter](http://open.spotify.com/album/258Vbgmsxhh7YVA2RxHC8w) ★★★.5
+- [Spoon - They Want My Soul](http://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) ★★★★.5
+- [St. Paul and the Broken Bones - Half the City](http://open.spotify.com/album/7dmD07Qccdkm5Gina2emQ5) ★★★
+- [St. Vincent - Saint Vincent](http://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf) ★★★★.5
+- [Chris Staples - American Soft](http://open.spotify.com/album/1r8doKnNlxUYsX5PpO2Wzn) ★★★
+- [Vince Staples - Hell Can Wait EP](http://open.spotify.com/album/7mxpMxmMM8RN39YRlo08v7) ★★★★★
+- [Vince Staples - Shyne Coldchain Vol. 2](http://www.datpiff.com/Vince-Staples-Shyne-Coldchain-Vol-2-mixtape.590712.html) ★★★★.5
+- [Stars - No One is Lost](http://open.spotify.com/album/2J21JfQmm9IcK9aFBZCLGZ) ★★★.5
+- [Step Brothers - Lord Steppington](http://open.spotify.com/album/3BPZFyeOHf5fxXPUGrjCpG) ★★★
+- [Andy Stott - Faith in Strangers](https://itunes.apple.com/us/album/faith-in-strangers/id929273639) ★★★★.5
+- [Strand of Oaks - HEAL](http://open.spotify.com/album/2EdAZFKawR42D2reoNCNgP) ★★★★
+- [Stromae - Racine Carée](http://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) ★★★
+- [Sun Kil Moon - Benji](http://open.spotify.com/album/4pC2URLdvle8V6Um4qxh46) ★★★★.5
+- [A Sunny Day in Glasgow - Sea When Absent](http://open.spotify.com/album/33hTF9orLJd9ZD4lMeWQ2l) ★★★★.5
+- [Supreme Cuts - Divine Ecstasy](http://open.spotify.com/album/6pXJNk297v6bJ5di1tQavB) ★★.5
+- [Susanna / Jenny Hval - Meshes of Voice](http://open.spotify.com/album/0RH04RlxSoc0XQGBW5VPRD) ★★★★.5
+- [Swans - To Be Kind](http://open.spotify.com/album/0QWLvgrYwVMUVOHq3vvq9z) ★★★★
+- [Taylor Swift - 1989](https://itunes.apple.com/us/album/1989/id907242701) ★★★.5
+- [Sylvan Esso - Sylvan Esso](http://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS) ★★★.5
+- [T.I. - Paperwork](http://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) ★★★.5
+- [Teebs - E s t a r a](http://open.spotify.com/album/6l5JJhutcr8HLNInCmZSQ1) ★★★★
+- [Temples - Sun Structures](http://open.spotify.com/album/2z6ViXcGvjE0wbKkbwqcmg) ★★.5
+- [Teyana Taylor - VII](http://open.spotify.com/album/2QiMK39bSU5ATMYZFDHTf9) ★★★★.5
+- [Todd Terje - It's Album Time](http://open.spotify.com/album/0O5AKenebX8hZAsezqYiKv) ★★★★★
+- [Thee Silver Mt. Zion Memorial Orchestra - Fuck Off Get Free We Pour Light on Everything](http://open.spotify.com/album/12jvcjKhojRTR5OUJevLb6) ★★★★
+- [Thug Entrancer - Death After Life](http://open.spotify.com/album/7FHf4CdSyBIux9dB6LX5FT) ★★★
+- [Thumpers - Galore](http://open.spotify.com/album/0UqYGm2a3KqN9FKFcDPLed) ★★★★.5
+- [Ana Tijoux - Vengo](http://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) ★★★.5
+- [Tinariwen - Emmaar](http://open.spotify.com/album/2eKlAhBTVGgeRAcaymPGCk) ★★★.5
+- [Thievery Corporation - Saudade](http://open.spotify.com/album/6Jy5ARAFZ1JuPcaHgSb5S0) ★★.5
+- [Thompson - Family](http://open.spotify.com/album/3UQa7MJ07UZdw1dcr4yOgU) ★★.5
+- [Thou - Heathen](http://open.spotify.com/album/1KNPeBXROZ71EG0g4zlt8B) ★★★
+- [Timber Timbre - Hot Dreams](http://open.spotify.com/album/3RcnXTluKv9rAgzOy6bXnm) ★★★.5
+- [Tinashe - Aquarius](http://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) ★★★★.5
+- [Tombs - Savage Gold](http://open.spotify.com/album/6EsOjYE3bNeDfdwOehAUaN) ★★.5
+- [TOPS - Picture You Staring](http://open.spotify.com/album/4XherhknNqBd7RsksYVqP5) ★★★★★
+- [Torn Hawk - Let's Cry and Do Pushups at the Same Time](http://open.spotify.com/album/7qCrXus99elChUL5pUcUuL) ★★★★
+- [Total Control - Typical System](http://open.spotify.com/album/002H2i61LWlMsJTQbRMwGh) ★★★★
+- [Trampled by Turtles - Wild Animals](http://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) ★★★
+- [Triptykon - Melan Chasmata](http://open.spotify.com/album/7wSb5kDo4TDg3VzUDZz1Bw) ★★★★
+- [Trust - Joyland](http://open.spotify.com/album/3h1I8awlT3Yh28gP11gTLT) ★★★★
+- [tUnE-yArDs - Nikki Nack](http://open.spotify.com/album/7fBKkyLmSRlz3BAUfjYYFv) ★★★★.5
+- [Tweedy - Sukierae](http://open.spotify.com/album/3xclzHODA8TUREPKjgEZhj) ★★★
+- [Tweens - Tweens](http://open.spotify.com/album/1fiTAQdK0PToBLSDPpcMQ1) ★★★★
+- [Twin Peaks - Wild Onion](http://open.spotify.com/album/1giZtAoxpO0kEFHhhXADXh) ★★★★
+- [Tycho - Awake](http://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) ★★★★
+- [The Underachievers - Cellar Door: Terminus Ut Exordium](http://open.spotify.com/album/6hAK2HfiNqjtzQDJgQ0Dm3) ★★★
+- [Untold - Black Light Spiral](http://open.spotify.com/album/6bKkWkckhRRLPTx2hNQ12j) ★★★.5
+- [Valentin Stip - Sigh](http://open.spotify.com/album/5nU8kQVQNlGy4zVSKiiRck) ★★★★
+- [Shakey Graves - And the War Came](http://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) ★.5
+- [Sharon Van Etten - Are We There](http://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) ★★★★.5
+- [Smashing Pumpkins - Monuments to an Elegy](https://itunes.apple.com/us/album/monuments-to-an-elegy/id929790535) ★★
+- [Various Artists - Killed by Deathrock: Vol. 1](http://open.spotify.com/album/4T9DCZvbEUZ6YpxZsRu9Av) ★★★.5
+- [Various Artists - Sweetheart 2014 by Starbucks](http://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) ★★★.5
+- [Vertical Scratchers - Daughter of Everything](http://open.spotify.com/album/6xZWQs8VE3LnCTQkxIOlFV) ★★.5
+- [Vesuvio Solo - Favors](http://vesuviosolo.bandcamp.com/album/favors) ★★★★
+- [Vessel - Punish, Honey](http://open.spotify.com/album/0foXiyB1sN4Nl0BEOPODEB) ★★★★
+- [Viet Cong - Cassette](http://open.spotify.com/album/3G3gkhu9TdyMg0NNPzEfWQ) ★★★.5
+- [Leon Vynehall - Music for the Univited](http://open.spotify.com/album/3Eq4qTWygAzH186V3q5D8z) ★★★★
+- [Mirel Wagner - When the Cellar Children See the Light of Day](http://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) ★★★★
+- [Scott Walker - Soused](http://open.spotify.com/album/35QvDKN3TUg5CbKeHKjKho) ★★★★
+- [Jessie Ware - Tough Love](http://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) ★★★★.5
+- [The War on Drugs - Lost In the Dream](http://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) ★★★★
+- [War Paint - War Paint](http://open.spotify.com/album/09dQDtKaIuTaQvVHjFhEV4) - ★★★
+- [Ben Watt - Hendra](http://open.spotify.com/album/0W0QSrbnjNepWFdCxLkOLM) ★★★★
+- [Gerard Way - Hesitant Alien](http://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) ★★★
+- [The Weather Station - What Am I Going to Do With Everything I Know](http://open.spotify.com/album/0tPCkjjddsxeatAgjEcFaD) ★★★★★
+- [Weezer - Everything Will Be Alright in the End](http://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) ★.5
+- [We Were Promised Jetpacks - Unravelling](http://open.spotify.com/album/0hkmQalXMJme8jZtwGD6Iw) ★★★
+- [Weyes Blood - The Innocents](http://open.spotify.com/album/2UwhEMmdUmG4VMGMkoK6Z3)
+- [Jack White - Lazaretto](http://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) ★★
+- [White Lung - Deep Fantasy](http://open.spotify.com/album/64w2PSTImdSXDfoc7TqARQ) ★★★★
+- [Wild Beasts - Present Tense](http://open.spotify.com/album/6paRAqzaI1O3rozRiVmyhS) ★★★★★
+- [Wildest Dreams - Wildest Dreams](http://open.spotify.com/album/2FZxFnC7AsXd5VoDdcRPTQ) ★★.5
+- [Jess Williamson - Native State](http://open.spotify.com/album/59ojCT6Jx8dtTGkrS1YXMh) ★★★.5
+- [A Winged Victory for the Sullen - Atomos](http://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) ★★★★
+- [Woods - With Light and With Love](http://open.spotify.com/album/0JaJQnjj17n6CiDgVlto2P) ★★★.5
+- [Wovenhand - Refactory Obdurate](http://open.spotify.com/album/4Z6AqDWffHcA7oVh4ebvPo) ★★★
+- [Wye Oak - Shriek](http://open.spotify.com/album/0otxl4NsvWDdckqTGX8tKn) ★★★★.5
+- [The Wytches - Annabel Dream Reader](http://open.spotify.com/album/2F9zOHHom6ADDZEeGyDPga) ★★.5
+- [Yautja - Songs of Descent](http://open.spotify.com/album/2iuQalnHdTqHsRZoGgbgm7) ★★★
+- [YG - My Krazy Life](http://open.spotify.com/album/51o7e7jwDTbX8r43zbjieM) ★★★.5
+- [YOB - Clearning the Path to Ascend](http://open.spotify.com/album/5F95ft2FNUq8HZntK0WxJ5) ★★★.5
+- [You Blew It! - Keep Doing What You're Doing](http://open.spotify.com/album/0QyKZO1fuxddHfm3Y55wEb) ★★
+- [You'll Never Get to Heaven - Adorn](http://open.spotify.com/album/47TWRNJhxMuIBOOc9RJ5LQ) ★★★★★
+- [Young Fathers - Dead](http://open.spotify.com/album/3g3WNdEcKwXcJzYsGBEStb) ★★★.5
+- [Young Thug & Bloody Jay - Black Portland](http://www.datpiff.com/Young-Thug-Bloody-Jay-Black-Portland-mixtape.574312.html) ★★.5
+- [Yumi Zouma - Yumi Zouma EP](http://open.spotify.com/album/3Pp0wfHSyODcBDlttVuqAW) ★★★★
+- [Zammuto - Anchor](http://open.spotify.com/album/1g1i5pfu1HwHlddDNYoS0E) ★★★
