@@ -93,6 +93,10 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 
 .site p.meta {
   color: #fac84c;
+  text-transform: uppercase;
+  background: #fff;
+  padding: .1em .5em;
+  border-bottom: 1px solid #fac84c;
 }
 
 .post, .posts {
