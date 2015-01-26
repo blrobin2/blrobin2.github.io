@@ -187,11 +187,11 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 /*****************************************************************************/
 body {
   font-size: 100%;
-  font-family: "Andika", "Myriad Pro", Helvetica, Arial, sans-serif;
+  font-family: 'Andika', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Amatic SC", sans-serif;
+  font-family: 'Amatic SC', cursive;
 }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
