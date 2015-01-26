@@ -44,7 +44,6 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 }
 
 .posts span {
-  border-top: #255a6d 5px solid;
   color: #76c3b3;
   font-family: Monaco, "Courier New", monospace;
   font-size: 90%;
@@ -146,8 +145,9 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 
 /* standard */
 .post pre {
-  border: 1px solid #548752;
-  background-color: #99B898;
+  border-top: #255a6d 5px solid;
+  background-color: #76c3b3;
+  color: #fff;
   padding: 0 .4em;
 }
 
@@ -156,8 +156,9 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 }
 
 .post code {
-  border: 1px solid #548752;
-  background-color: #99B898;
+  border-top: #255a6d 5px solid;
+  background-color: #76c3b3;
+  color: #fff;
   padding: 0 .2em;
 }
 
