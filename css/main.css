@@ -40,22 +40,19 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 }
 
 .posts li {
-  line-height: 1.75em;
+  border-bottom: 1px solid #5f5959;
+  padding: .5em 0;
+  text-align: right;
 }
 
 .posts span {
   color: #fac84c;
-  font-family: Monaco, "Courier New", monospace;
   font-size: 90%;
+  text-transform: uppercase;
   background: #fff;
-  padding: .1em;
-  
-  -webkit-transform: rotate(-4deg);
-     -moz-transform: rotate(-4deg);
-      -ms-transform: rotate(-4deg);
-       -o-transform: rotate(-4deg);
-          transform: rotate(-4deg);
-
+  padding: .1em .5em;
+  display: inline-block;
+  border-bottom: 1px solid #fac84c;
 }
 
 /*****************************************************************************/
