@@ -160,6 +160,7 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 
 .post ul, .post ol {
   margin-left: 1.35em;
+  line-height: 1.7em;
 }
 
 .post code {
