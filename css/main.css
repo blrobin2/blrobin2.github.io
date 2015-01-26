@@ -96,6 +96,7 @@ a:hover, a:active, a:focus   { color: #FF847C; }
   text-transform: uppercase;
   background: #fff;
   padding: .1em .5em;
+  display: inline-block;
   border-bottom: 1px solid #fac84c;
 }
 
@@ -107,7 +108,7 @@ a:hover, a:active, a:focus   { color: #FF847C; }
     text-indent: 1em;
     padding: .5em 1em;
     background: #fcfbf3;
-    box-shadow: 0 0 1em rgba(0,0,0,.25);
+    box-shadow: 0 0 .5em rgba(0,0,0,.1);
 }
 
 .header a {
@@ -128,7 +129,7 @@ a:hover, a:active, a:focus   { color: #FF847C; }
   font-size: 80%;
   line-height: 1.2;
   text-align: left;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #5f5959;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -165,6 +166,11 @@ a:hover, a:active, a:focus   { color: #FF847C; }
 .post ul, .post ol {
   margin-left: 1.35em;
   line-height: 1.7em;
+}
+
+.post .title {
+  padding-bottom: .25em;
+  border-bottom: 1px solid #5f5959;
 }
 
 .post code {
