@@ -29,6 +29,10 @@ p { margin: 1em 0; }
 a, a:visited         { color: #fe524c; }
 a:hover, a:active, a:focus   { color: #FF847C; }
 
+img {
+  max-width: 100%;
+}
+
 /*****************************************************************************/
 /*
 /* Home
