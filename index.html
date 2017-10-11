@@ -3,12 +3,14 @@ layout: default
 title: Bennie Robinson
 ---
 
-<div id="home">
+<main role="main" id="home">
   <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+  <nav role="navigation">
+    <ul class="posts">
+      {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</main>

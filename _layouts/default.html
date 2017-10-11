@@ -1,5 +1,5 @@
 <!DOCTYPE html itemscope itemtype="http://schema.org/Blog">
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -28,15 +28,14 @@
 
     </head>
     <body>
-
         <div class="site">
-          <div class="header">
+          <header class="header" role="banner">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          </div>
+          </header>
 
           {{ content }}
 
-          <div class="footer">
+          <footer role="contentinfo" class="footer">
             <div class="contact">
               <p>
                 Bennie Robinson<br />
@@ -45,12 +44,10 @@
             </div>
             <div class="contact">
               <p>
-                <a href="https://github.com/blrobin2">github.com/blrobin2</a><br />
-                <a href="https://twitter.com/blrobin2">twitter.com/blrobin2</a><br />
+                <a href="https://github.com/blrobin2">github.com/blrobin2</a>
               </p>
             </div>
-          </div>
+          </footer>
         </div>
-
     </body>
 </html>
