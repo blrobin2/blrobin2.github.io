@@ -1,3 +1,7 @@
 name: Bennie Robinson
 highlighter: rouge
 url: http://bennierobinson.com
+
+webrick:
+  headers:
+    X-Frame-Options: DENY
