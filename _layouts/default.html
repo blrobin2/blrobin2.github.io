@@ -18,10 +18,122 @@
         <link rel="canonical" href="{{site.url}}{{ page.url }}" />
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
-
-        {% if page.layout == 'post' && (page.category == 'web' || page.category == 'programming') %}
-          <!-- syntax highlighting CSS -->
-          <link rel="stylesheet" href="/css/syntax.css">
+        <style>
+          * {
+            margin: 0;
+            padding: 0;
+          }
+          html, body { height: 100%; }
+          body {
+            background-color: #f6f4e5;
+            line-height: 1.5;
+            font-size: small;
+            text-align: center;
+            color: #5f5959;
+          }
+          h1, h2, h3, h4, h5, h6 {
+            font-size: 100%; }
+          h1 { margin-bottom: 1em; }
+          p { margin: 1em 0; }
+          a, a:visited         { color: #fe524c; }
+          a:hover, a:active, a:focus   { color: #FF847C; }
+          img {
+            max-width: 100%;
+          }
+          .posts {
+            list-style-type: none;
+            margin-bottom: 2em;
+          }
+          .posts li {
+            border-bottom: 1px solid #5f5959;
+            padding: .5em 0;
+            text-align: right;
+          }
+          .posts span {
+            color: #fac84c;
+            font-size: .5em;
+            text-transform: uppercase;
+            background: #fff;
+            padding: .1em .5em;
+            border-bottom: 1px solid #fac84c;
+            float: left;
+          }
+          .site {
+            font-size: 100%;
+            max-width: 500px;
+            margin: 3em auto 2em;
+            padding: 1em;
+            line-height: 1.5em;
+          }
+          @media screen and (min-width: 700px) {
+            .site {
+              font-size: 110%;
+            }
+          }
+          @media screen and (min-width: 900px) {
+            .site {
+              font-size: 137.5%;
+              max-width: 700px;
+              line-height: 1.75em;
+            }
+          }
+          @media screen and (min-width: 1280px) {
+            .site {
+              font-size: 150%;
+              max-width: 800px;
+            }
+          }
+          .site p.meta {
+            color: #fac84c;
+            text-transform: uppercase;
+            background: #fff;
+            padding: .1em .5em;
+            display: inline-block;
+            border-bottom: 1px solid #fac84c;
+          }
+          .post, .posts {
+            text-align: justify;
+          }
+          .post {
+              text-indent: 1em;
+              padding: .5em 1em;
+              background: #fcfbf3;
+              box-shadow: 0 0 .5em rgba(0,0,0,.1);
+          }
+          .header a {
+            font-weight: bold;
+            text-decoration: none;
+          }
+          .title {
+            display: inline-block;
+            font-size: 3em;
+          }
+          .header a.extra {
+            margin-left: 1em;
+          }
+          .footer {
+            font-size: 80%;
+            line-height: 1.2;
+            text-align: left;
+            border-top: 1px solid #5f5959;
+            margin-top: 2em;
+            overflow: hidden;
+          }
+          .footer .contact {
+            float: left;
+            margin-right: 3em;
+          }
+          .footer .rss {
+            margin-top: 1.1em;
+            margin-right: -.2em;
+            float: right;
+          }
+          .footer .rss img {
+            border: 0;
+          }
+        </style>
+        {% if page.layout == 'post' %}
+          <link rel="stylesheet" href="/css/main.css">
         {% endif %}
     </head>
     <body>
