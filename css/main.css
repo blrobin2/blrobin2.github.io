@@ -49,12 +49,12 @@ img {
 }
 
 .posts span {
-  color: #fac84c;
+  color: #946D05;
   font-size: .5em;
   text-transform: uppercase;
   background: #fff;
   padding: .1em .5em;
-  border-bottom: 1px solid #fac84c;
+  border-bottom: 1px solid #946D05;
   float: left;
 }
 
@@ -94,12 +94,12 @@ img {
 }
 
 .site p.meta {
-  color: #fac84c;
+  color: #946D05;
   text-transform: uppercase;
   background: #fff;
   padding: .1em .5em;
   display: inline-block;
-  border-bottom: 1px solid #fac84c;
+  border-bottom: 1px solid #946D05;
 }
 
 .post, .posts {
@@ -160,7 +160,7 @@ img {
 /* standard */
 .post pre {
   border-top: #255a6d 5px solid;
-  background-color: #76c3b3;
+  background-color: #26594E;
   color: #fff;
   padding: 0 .4em;
 }
@@ -177,7 +177,7 @@ img {
 
 .post code {
   border-top: #255a6d 5px solid;
-  background-color: #76c3b3;
+  background-color: #26594E;
   color: #fff;
   padding: 0 .2em;
 }
@@ -209,7 +209,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Amatic SC', cursive;
-  color: #76c3b3;
+  color: #26594E;
 }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
