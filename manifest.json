@@ -4,6 +4,6 @@
   "start_page": "/",
   "background_color": "#f6f4e5",
   "theme_color": "#76c3b3",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait"
 }
