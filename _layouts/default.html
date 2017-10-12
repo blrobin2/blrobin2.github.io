@@ -19,7 +19,7 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
-        {% if page.post && (page.category == 'web' || page.category == 'programming') %}
+        {% if page.layout == 'post' && (page.category == 'web' || page.category == 'programming') %}
           <!-- syntax highlighting CSS -->
           <link rel="stylesheet" href="/css/syntax.css">
         {% endif %}
