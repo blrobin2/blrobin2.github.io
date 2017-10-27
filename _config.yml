@@ -4,4 +4,4 @@ url: https://bennierobinson.com
 
 webrick:
   headers:
-    X-Frame-Options: "DENY"
+    "X-Frame-Options": "DENY"
