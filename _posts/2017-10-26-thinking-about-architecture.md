@@ -4,7 +4,7 @@ title: "Thinking About Architecture"
 excerpt: "Rambling about architecture"
 category: programming
 ---
-## Intro
+### Intro
 
 I've spent hours, days, weeks reading about architecture, looking for good conventions. That doesn't make me any sort of expert, it just means I've read a bunch. This is my trying to get some of the ideas I like out and in concrete forms.
 
@@ -14,7 +14,7 @@ A lot of times, when people ask these questions of code structure, they're not n
 
 Despite what the new and exciting framework people might say, there are conventions and ideas that exist that can be applied to applications of sufficient complexity. Some people hate these conventions and attempt to create new ones. Given enough time, these structures do not differentiate themselves as cleanly from their predecessors as they might believe.
 
-## Obvious exceptions
+### Obvious exceptions
 
 That isn't to say that no one is adhering to these conventions. You'll find frameworks like Laravel or Nest that utilize these conventions to their benefit, making their code bases easily scale.
 
@@ -32,7 +32,7 @@ Those exceptions aside, here's some thoughts.
 * [Nest](https://docs.nestjs.com/)
 * [Ruby on Rails](http://rubyonrails.org/)
 
-# HTTP Verbs
+### HTTP Verbs
 
 For any API, you're going to have URLs that are the entry points into the application. You'll have:
 
@@ -52,7 +52,7 @@ Of the main five verbs, only GET is considered "safe". Safe means that it has no
 
 * [MDN Article on HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
-## Services
+### Services
 
 If the application is trivial and you don't expect it to grow bigger than a call or two, you can probably get away with keeping all of your logic close to the requests coming in. In Express, this ends up being a callback. In Nest, this ends up being inside the controller for the given route.
 
@@ -60,7 +60,7 @@ If you end up doing repeatable bits of behavior, you may want to extract some of
 
 This will service a large amount of applications. I know it's not cool and exciting, but keeping your sections of code small and composable is the goal here, not building the best possible structure.
 
-## Middleware
+### Middleware
 
 So, where is the line? I think the first place is when you have to introduce middlewares. If you're not familiar, middlewares are just functionality that sits between the client request and the code meant to handle that request. Some uses for middleware:
 
@@ -76,7 +76,7 @@ Keeping these middlewares in separate files and importing them where needed is a
 * [Middleware: THE core of node.js backend apps](https://hackernoon.com/middleware-the-core-of-node-js-apps-ab01fee39200)
 * [Using middleware in Express](http://expressjs.com/en/guide/using-middleware.html)
 
-## Models and ORMs
+### Models and ORMs
 
 Sometimes, you need to know more about the types of data you're working with in the backend. You need to more clearly represent the relationships between elements in your application and how they relate to one another. This is when I like to introduce models.
 
@@ -94,7 +94,7 @@ I'll just say I'm a big fan of , in part, because it provides Active Record AND 
 * [TypeORM](https://github.com/typeorm/typeorm)
 * [Sequelize](http://docs.sequelizejs.com/)
 
-## Example
+### Example
 
 So, for me, if I'm concerned with the architecture of my application, I'll have incoming requests routed to a Controller method. That method invokes a call to the necessary services to handle that request. Each Service can range in depth, depending on how complex the domain is. That is, how much knowledge and how many actions pertaining to that knowledge does the application have to maintain.
 
@@ -113,7 +113,7 @@ You're not committing to one structure here. You're making smart choices that ar
 * [Redis](https://redis.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
 
-## Events
+### Events
 
 Sometimes, your domain is so complex that the behaviors that you need to represent can't be mapped to simply updating a database. Yes, in the end you're still writing to a database. But maybe you're also sending off emails. Maybe you have several other microservices that need to sync up with the actions that take place in your applications, and they need to know more than just a column was updated. Maybe you need to kick of a resource-intensive algorithm based on incoming data to run in the background and improve user recommendations.
 
@@ -137,6 +137,6 @@ How the pairing of Events and Listeners look depend on your context. They could 
 * [NodeJS Events](https://nodejs.org/api/events.html)
 * [Laravel Events](https://laravel.com/docs/5.2/events)
 
-## More to come
+### More to come
 
 I've got more on my mind about enterprise-grade application architecture, but I'll stop here for now. I've tried to link to relevant resources throughout that's probably clearer than any of my ramblings thus far. But for anyone who stumbles accross this article: if nothing else, I hope this points you in an helpful direction.
