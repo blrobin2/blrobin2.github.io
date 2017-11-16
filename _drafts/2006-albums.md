@@ -9,6 +9,7 @@
 * Mission of Burma - The Obliterati ★★★★
 * Man Man - Six Demon Bag ★★★★
 * Justin Timberlake - FutureSex / LoveSound ★★★★
+* T.I. - King ★★★★
 * The Pipettes - We Are the Pipettes ★★★★
 * M. Ward - Post-War ★★★★
 * J. Dilla - Donuts ★★★★
