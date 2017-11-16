@@ -7,6 +7,7 @@
 * Herbert - Scale ★★★★.5
 * Sonic Youth - Rather Ripped ★★★★.5
 * Mission of Burma - The Obliterati ★★★★
+* Man Man - Six Demon Bag ★★★★
 * Justin Timberlake - FutureSex / LoveSound ★★★★
 * The Pipettes - We Are the Pipettes ★★★★
 * M. Ward - Post-War ★★★★
@@ -24,4 +25,5 @@
 * Danielson - Ships ★★★.5
 * Tapes 'n Tapes - Loon ★★★.5
 * The Long Blondes - Someone to Drive You Home ★★★.5
+* LCD Soundsystem - 45:33 ★★★
 * Girl Talk - Night Ripper ★★★
