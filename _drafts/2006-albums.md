@@ -1,11 +1,14 @@
 * TV on the Radio - Return to Cookie Mountain ★★★★★
+* Joanna Newsom - YS ★★★★★
 * Peter Bjorn and John - Writer's Block ★★★★★
 * Hot Chip - The Warning  ★★★★★
 * Phoenix - It's Never Been Like That ★★★★.5
+* Ghostface Killah - Fishscale ★★★★.5
 * Belle & Sebastian - The Life Pursuit ★★★★.5
 * The Decemberists - The Crane Wife ★★★★.5
-* Tim Hecker - Harmony in Ultraviolet ★★★★.5
 * Beach House - Beach House ★★★★.5
+* The Knife - Silent Shout ★★★★.5
+* Tim Hecker - Harmony in Ultraviolet ★★★★.5
 * Grizzly Bear - Yellow House ★★★★.5
 * Junior Boys - So This Is Goodbye ★★★★.5
 * Destroyer - Destroyer's Rubies ★★★★.5
@@ -14,12 +17,14 @@
 * Scott Walker - The Drift ★★★★.5
 * Herbert - Scale ★★★★.5
 * Sonic Youth - Rather Ripped ★★★★.5
+* Liars - Drum's Not Dead ★★★★.5
 * Boris - Pink ★★★★
 * Mission of Burma - The Obliterati ★★★★
 * Sunset Rubdown - Shut Up I Am Dreaming ★★★★
 * Man Man - Six Demon Bag ★★★★
 * Justin Timberlake - FutureSex / LoveSound ★★★★
 * T.I. - King ★★★★
+* The Hold Steady - Boys and Girls in America ★★★★
 * The Pipettes - We Are the Pipettes ★★★★
 * M. Ward - Post-War ★★★★
 * J. Dilla - Donuts ★★★★
