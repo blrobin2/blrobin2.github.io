@@ -241,9 +241,9 @@ As you can see, this is meant to take a list of text and return a function that 
 
 The third one is if we have three elements in the list. Since we split on ": ", this probably means that we accidentally cut a title containing a colon in half, so we're appending it back together. Rather than try to use some internal Text-specific operator, we can take advantage of the fact that Text has a Monoid instance and use it's `mappend` (aliased to the `<>` operator internally). It's similar to the `++` operator for lists, but much more powerful. If Monoid is a new or scary word, [the Typeclassopedia entry on Monoids](https://wiki.haskell.org/Typeclassopedia#Monoid) may be helpful.
 
- Finally, we provide a bottom case that throws an error. We don't want to ignore other formats, we want to support new ones as they come. There may be a more generalized and intelligent approach, but this one works for us in the here and now and isn't too complicated.
+Finally, we provide a bottom case that throws an error. We don't want to ignore other formats, we want to support new ones as they come. There may be a more generalized and intelligent approach, but this one works for us in the here and now and isn't too complicated.
 
- To make use of this function, we'll compose it with our `splitOn` in the map:
+To make use of this function, we'll compose it with our `splitOn` in the map:
 
  	let albumArtist = cursor $// element "item" &/ element "title" &// content
  	let albumsAwaitingDate = map (toAlbumAwaitingDate . T.splitOn ": ") albumArtist
