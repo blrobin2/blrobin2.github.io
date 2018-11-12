@@ -163,7 +163,7 @@ img {
 
 /* standard */
 .post pre {
-  border-top: #255a6d 1px solid;
+  border-top: #255a6d 2px solid;
   background-color: #76c3b3;
   color: #fff;
   overflow-y: scroll;
@@ -180,7 +180,7 @@ img {
 }
 
 .post code {
-  border-top: #255a6d 5px solid;
+  border-top: #255a6d 2px solid;
   background-color: #76c3b3;
   color: #fff;
   padding: 0;
