@@ -26,7 +26,7 @@ I tend to focus on somewhere in the middle, where I don't create a whole lot of 
 
 Before doing anything, I'll start a new stack project
 
-	stack new aggr-haskell simple
+  stack new aggr-haskell simple
 
 Because I'm only creating a simple binary to execute, and not a library or an enterprise application, I pass the 'simple' argument. It gives me less surface area to think about.
 
@@ -49,14 +49,14 @@ For everything else:
 
 With that said, this is what my `build-depends` looks like in my .cabal file:
 
-	  build-depends: base >= 4.7 && < 5
-            	 , aeson
-                     , bytestring
-                     , http-client
-                     , http-conduit
-                     , text
-                     , time
-                     , xml-conduit
+  build-depends: base >= 4.7 && < 5
+              , aeson
+                    , bytestring
+                    , http-client
+                    , http-conduit
+                    , text
+                    , time
+                    , xml-conduit
 
 ### Reading data over HTTP
 
@@ -64,7 +64,7 @@ To keep matters simple, we'll start with one of the sites I read in, [Pitchfork]
 
 In our main method, we can remove the boilerplate "hello world" and try to read in the feed. Like I said earlier, I had a hard time figuring out how to get `http-client` and `xml-conduit` to talk to one another, so I started with byestrings:
 
-	{-# LANGUAGE OverloadedStrings #-}
+  {-# LANGUAGE OverloadedStrings #-}
 	module Main where
 
 	import Network.HTTP.Simple
@@ -83,8 +83,7 @@ The reason we added the OverloadedStrings language extension is that `httpLBS` e
 
 For the curious, with `parseRequest` it would look like:
 
-
-	module Main where
+  module Main where
 
 	import Network.HTTP.Simple
 
@@ -106,7 +105,7 @@ That's where `Cursor` comes in. A `Cursor` is a node that knows its own location
 
 To get there, we'll need to make some conversions:
 
-	{-#LANGUAGE OverloadedStrings #-}
+  {-#LANGUAGE OverloadedStrings #-}
 	module Main where
 
 	import Network.HTTP.Simple
@@ -136,7 +135,7 @@ Let's think about what we want the data to look like. An album for our purposes 
 
 In Haskell, that would look like this:
 
-	data Album
+  data Album
 	  = Album
 	  { artist :: Text
 	  , title    :: Text
@@ -151,7 +150,7 @@ You might be wondering why we're treating the date as Text and not a Date type. 
 
 Next, we'd like to know how to translate this representation to JSON. After all, I said it would be easy, right? I'll give you the updated file and then we'll work from there:
 
-	{-# LANGUAGE DeriveGeneric #-}
+  {-# LANGUAGE DeriveGeneric #-}
 	{-# LANGUAGE OverloadedStrings #-}
 	module Main where
 
@@ -200,7 +199,7 @@ If we look at the XML for the feed, we see that we have a top-level "rss" elemen
 
 Looking at [the xml-conduit tutorial](https://www.yesodweb.com/book/xml), under the "Cursor" section, we see how we can use a series of custom operators to get from a cursor to an element's text. So, for our title and artist, we could do:
 
-	let albumArtist = cursor $// element "item" &/ element "title" &// content
+  let albumArtist = cursor $// element "item" &/ element "title" &// content
 
 Let's try to break down what each operator is doing for us:
 
@@ -215,7 +214,7 @@ Phew! That's a lot of information. And believe me, I did not understand that whe
 
 We can use a similar operator to get to the pubDates, which is what we're considering the release date.
 
-	let date = cursor $// element "item" &/ element "pubDate" &// content
+  let date = cursor $// element "item" &/ element "pubDate" &// content
 
 The only differences here are the name of our variable and the "pubDate" element.
 
@@ -227,12 +226,12 @@ Now that we have each of the titles, we would like to split those out into a sep
 
 Those familiar with Haskell will know that Text has a `splitOn` method, which takes a sample of Text that we want to use for where to split:
 
-	let albumArtist = cursor $// element "item" &/ element "title" &// content
+  let albumArtist = cursor $// element "item" &/ element "title" &// content
 	let albumArtistSplit = map T.splitOn ": " albumArtist
 
 This leaves us with a list of list of Text. We could probably work with this, but I'm going to make my life a little easier and create another function for us to map with:
 
-	toAlbumAwaitingDate :: [Text] -> (Text -> Album)
+  toAlbumAwaitingDate :: [Text] -> (Text -> Album)
 	toAlbumAwaitingDate [a, t]        = Album a t
 	toAlbumAwaitingDate [a]           = Album a ""
 	toAlbumAwaitingDate [a, t1, t2] = Album a (t1 <> ": " <> t2)
@@ -246,7 +245,7 @@ The third one is if we have three elements in the list. Since we split on ": ", 
 
  To make use of this function, we'll compose it with our `splitOn` in the map:
 
- 	let albumArtist = cursor $// element "item" &/ element "title" &// content
+  let albumArtist = cursor $// element "item" &/ element "title" &// content
  	let albumsAwaitingDate = map (toAlbumAwaitingDate . T.splitOn ": ") albumArtist
 
 Along with datatypes, the ability elegantly compose functions together like this is one of the main reasons I fell for Haskell. You can bring in libraries like [Ramda](https://ramdajs.com/) in your JavaScript, but Ramda seeks to operate more like Clojure, which can add a lot of additional friction if you're not comfortable with Lisps. I tried bringing Ramda into the JavaScript version of aggr, but I found the resulting code less clear in some places.
@@ -255,13 +254,13 @@ Along with datatypes, the ability elegantly compose functions together like this
 
 The same way we mapped over our artist and titles to get them in the format we wanted, we can do the same with our collection of dates. In order to help, we'll pull in the `time` library:
 
-	-- Add to our list of imports
+  -- Add to our list of imports
 	import Data.Time
 	import Data.Time.Format
 
 Data.Time will give us the method `parseTimeM`, which we will use to get out a date object of some kind. At this junction, I decided on `UTCTime`, which also comes from Data.Time. `parseTimeM` is not like some flexible date time parsers that will accept almost any format and convert it for us automatically. We need to tell it the exact format of what we're expecting in, and what type we'd like to convert it to. For the dates we get from the Pitchfork RSS feed:
 
-	toUTCTime :: String -> Maybe UTCTime
+  toUTCTime :: String -> Maybe UTCTime
 	toUTCTime = parseTimeM True defaultTimeLocale "%a, %d %b %Y %X %z"
 
 The True is just telling the parser that we'll accept leading and trailing whitespace. The defaultTimeLocale is for American usage, which works for our case. Those familiar with date formats in C-like languages will recognize the format string passed as the last argument. This tells the parser the exact shape of the incoming dates.
@@ -270,7 +269,7 @@ You'll notice that instead of just giving us a UTCTime, it gives us a Maybe UTCT
 
 We'll make use of `toUTCTime` in our formatting function:
 
-	toDate :: Text -> Text
+  toDate :: Text -> Text
 	toDate d = case toUTCTime (T.unpack d) of
 	  Nothing -> ""
 	  Just d' -> T.pack $ formatTime defaultTimeLocale "%b %d"
@@ -315,7 +314,7 @@ If you see any obvious flaws in the code, please feel free to submit a pull requ
 
 You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-haskell/commit/5e162321673498bbec3a8832b70b20d481ba7075). Note: it will look slightly different than what I've presented here due to choices I made in the process of writing the article.
 
-	{-# LANGUAGE DeriveGeneric #-}
+  {-# LANGUAGE DeriveGeneric #-}
 	{-# LANGUAGE OverloadedStrings #-}
 	module Main where
 
@@ -358,9 +357,17 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	  response <- httpLBS "https://pitchfork.com/rss/reviews/albums/"
 	  let document = parseLBS_ def (getResponseBody response)
 	  let cursor   = fromDocument document
-	  let albumArtist = cursor $// element "item" &/ element "title" &// content
-	  let date = map toDate $ cursor $// element "item" &/ element "pubDate" &// content
-	  let albumsAwaitingDate = map (toAlbum . T.splitOn ": ") albumArtist
+	  let albumArtist = cursor
+                $// element "item"
+                &/ element "title"
+                &// content
+	  let date = map toDate $ cursor
+                $// element "item"
+                &/ element "pubDate"
+                &// content
+	  let albumsAwaitingDate = map ( toAlbumAwaitingDate
+                                 . T.splitOn ": "
+                                 ) albumArtist
 
 	  let albums = zipWith (\a d -> a d) albumsAwaitingDate date
 	  encodeFile "albums.json" albums
