@@ -226,8 +226,8 @@ Now that we have each of the titles, we would like to split those out into a sep
 
 Those familiar with Haskell will know that Text has a `splitOn` method, which takes a sample of Text that we want to use for where to split:
 
-	let albumArtist = cursor $// element "item" &/ element "title" &// content
-	let albumArtistSplit = map T.splitOn ": " albumArtist
+  let albumArtist = cursor $// element "item" &/ element "title" &// content
+  let albumArtistSplit = map T.splitOn ": " albumArtist
 
 This leaves us with a list of list of Text. We could probably work with this, but I'm going to make my life a little easier and create another function for us to map with:
 
