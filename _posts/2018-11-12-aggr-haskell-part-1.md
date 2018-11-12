@@ -183,7 +183,7 @@ Finally, our Album instance of the ToJSON typeclass makes use of some defaults g
 
 And that's it. The addition of Generics might hurt your head a little bit, and you might be worried if you don't fully understand them. I'm saying, for our purposes, you don't need to understand all that's going on under the hood. You just need to know that we pulled in these things that `aeson` could do the heavy lifting for us.
 
-###### What if I need configuration?
+#### What if I need configuration?
 
 While `aeson` provides some nice defaults, there are plenty of ways you can customize the ToJSON conversion, and whatever you'll need. The tutorial I mentioned above for `aeson` is very helpful in that regard.
 
@@ -191,7 +191,7 @@ While `aeson` provides some nice defaults, there are plenty of ways you can cust
 
 So now that we have a way to get from an HTTP request to XML, and a way to get from an Album to JSON, we just need to glue those together. I saved this for last because, unlike everything up to this point, this will require writing out and reasoning about code. We'll still make use of the libraries we've pulled in, but we've got to figure out how to make them work in harmony. Or at least to the best of my ability.
 
-###### XML -> Text
+#### XML -> Text
 
 The more appropriate title would be "Cursor -> Text", but you get the idea. We have this cursor for traversing the structure of an XML document. But what do we want to pull out?
 
@@ -220,7 +220,7 @@ The only differences here are the name of our variable and the "pubDate" element
 
 You may be wondering if we could store an intermediate value for the section from the cursor to element "item" since those are repeated in both. I believe that you can! I just haven't figured out how to do it. If any reader wishes to tell me how I'd be happy to hear you out. I'll provide contact details at the end of the tutorial.
 
-###### Splitting text
+#### Splitting text
 
 Now that we have each of the titles, we would like to split those out into a separate artist and title. There are so many ways to do this, and the way I'm about to do it may not be the best way, but it was the way I did it at the time (optimizations will be left for future articles).
 
@@ -250,7 +250,7 @@ To make use of this function, we'll compose it with our `splitOn` in the map:
 
 Along with datatypes, the ability elegantly compose functions together like this is one of the main reasons I fell for Haskell. You can bring in libraries like [Ramda](https://ramdajs.com/) in your JavaScript, but Ramda seeks to operate more like Clojure, which can add a lot of additional friction if you're not comfortable with Lisps. I tried bringing Ramda into the JavaScript version of aggr, but I found the resulting code less clear in some places.
 
-###### Formatting dates
+#### Formatting dates
 
 The same way we mapped over our artist and titles to get them in the format we wanted, we can do the same with our collection of dates. In order to help, we'll pull in the `time` library:
 
@@ -284,7 +284,7 @@ So to use our `toDate`, we can do:
 
 Notice we just passed the results of the XML traversal to our mapper. We could have done it in our artist and title example too, but I felt like it was too much going on for one line.
 
-###### Building our Albums
+### Building our Albums
 
 We now have two lists: one of the Albums awaiting dates, and one of the dates. Because they were all pulled from the same ordered source, we know that each element matches at their respective indexes. Because of this, we can make use of a core library function, `zipWith`. `zipWith` expects a function that knows how to combine elements from each list and two lists. The arguments to the `zipWith` lambda will be in the same order as which lists you pass to the rest of the function:
 
@@ -292,7 +292,7 @@ We now have two lists: one of the Albums awaiting dates, and one of the dates. B
 
 This is why we wrote our `toAlbumsAwaitingDate` function the way we did so that zipping in the dates will leave us with the complete albums we want. In the lambda, `album` is a function and `date` is the last Text we are passing to it if that's not clear.
 
-###### Exporting the JSON
+### Exporting the JSON
 
 We covered that we can easily convert Albums to JSON. But now comes a matter of HOW.
 
