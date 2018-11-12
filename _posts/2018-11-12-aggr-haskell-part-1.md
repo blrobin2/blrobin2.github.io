@@ -1,3 +1,10 @@
+---
+layout: post
+title: "From JavaScript to Haskell, Part 1"
+excerpt: "A journey into Haskell, and my failings along the way"
+category: programming
+---
+
 ### Introduction
 A while ago, I made a music review aggregation app I called Aggr. You can find it at https://aggr-music.herokuapp.com/ . The concept is simple: every day, the scraper visits the RSS feeds of a few music review sites, collects the data that I care about, and builds a JSON object containing an array of reviews. Then, when you visit the page, you are served that JSON file formatted into an HTML table for easier browsing.
 
