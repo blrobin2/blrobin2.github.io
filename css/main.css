@@ -166,7 +166,7 @@ img {
   border-top: #255a6d 1px solid;
   background-color: #76c3b3;
   color: #fff;
-  padding: 0;
+  overflow-y: scroll;
 }
 
 .post ul, .post ol {
