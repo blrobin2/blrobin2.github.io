@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 A while ago, I made a music review aggregation app I called Aggr. You can find it at https://aggr-music.herokuapp.com/ . The concept is simple: every day, the scraper visits the RSS feeds of a few music review sites, collects the data that I care about, and builds a JSON object containing an array of reviews. Then, when you visit the page, you are served that JSON file formatted into an HTML table for easier browsing.
 
 And it works! I've made moderate changes to it since, and it still has the occasional bug or two, but nothing that I care about since I'm the primary consumer of this data.
@@ -7,11 +7,11 @@ But now I've been reading about Haskell. And I've been thinking about how I migh
 
 So I decided to re-write the part that generates the JSON in Haskell. And because I'm still quite green, I decided to write out my process in a series of articles. Though I'll be putting some massive ignorance on display, I'll also be showing what I'm learning in hopes that it might be helpful to you, Dear Reader.
 
-## Prerequisites
+### Prerequisites
 
 I will assume some familiarity with Haskell and will not explain the very basics. I will try to explain the libraries I use and my thought process for writing the code I do. If you're completely new to Haskell, I recommend [Haskell Programming from First Principles](http://haskellbook.com/). It's a massive book, but you'll be productive long before you finish the book.
 
-## How To Start
+### How To Start
 
 Depending on what idioms you've learned, you may start your new projects differently. Some people do the TDD style of just working with the minimal code and only adding libraries as you need them, others create a complete scaffolding of folders so that they stay organized from the start.
 
@@ -25,7 +25,7 @@ Because I'm only creating a simple binary to execute, and not a library or an en
 
 Once that resolves, I'll open my `.cabal` file and add the libraries I think I'll need. But let's talk that through.
 
-## External libraries
+### External libraries
 
 The first thing I know I'll need is some way to read in data from a URL. For this, I've opted to use `http-conduit` and [`http-client`](https://haskell-lang.org/library/http-client). Full disclosure, I don't know if I need both, but I pulled them in, just in case. I can always remove one if I find out I don't use it later.
 
@@ -51,7 +51,7 @@ With that said, this is what my `build-depends` looks like in my .cabal file:
                      , time
                      , xml-conduit
 
-## Reading data over HTTP
+### Reading data over HTTP
 
 To keep matters simple, we'll start with one of the sites I read in, [Pitchfork](https://pitchfork.com/). [People have opinions about Pitchfork](https://entertainment.theonion.com/pitchfork-gives-music-6-8-1819569318), but we'll set those aside here. What works for our purposes is that [Pitchfork provides an XML RSS feed](https://pitchfork.com/rss/reviews/albums/) that we can consume.
 
@@ -87,7 +87,7 @@ For the curious, with `parseRequest` it would look like:
 	  response <- httpLBS request
 	  print $ getResponseBody response
 
-## Treating data as XML
+### Treating data as XML
 
 While we have the XML as a string, we'd like to be able to treat it as XML. What do I mean by that? What I'd like to do is traverse over the XML structure and find the bits of data that are important to me and pull them out. Right now, with the data as it is, I don't have any easy way to do it.
 
@@ -115,7 +115,7 @@ To get there, we'll need to make some conversions:
 
 Building and executing, we can see our same XML data but built up as Haskell data types. Don't worry about understanding everything going on. You don't have to think about the data in this format. We can still reason about the structure by looking at the XML data.
 
-## XML to JSON
+### XML to JSON
 
 So, what we have right now is XML represented by Haskell datatypes. What we would like is to write some of that into JSON. But we don't want to think about the data we're writing to JSON as XML nodes and elements, we'd like to think about it in terms of the types the JSON is representing. And what is the JSON representing? A list of albums.
 
@@ -123,7 +123,7 @@ You may be thinking, "yeah, we know what the data represents, but in the ends, i
 
 That isn't the case with Haskell, and especially with `aeson`. What makes `aeson` such a breeze to work with is that it has the ability to define JSON conversions for Haskell datatypes with very little work on our part. And it does so with the notion of a `Generic`. But we'll set that aside for now and think about our data.
 
-## What is an Album?
+### What is an Album?
 
 Let's think about what we want the data to look like. An album for our purposes has three attributes: an artist, a title, and a release date. The artist and title are obvious enough, but the reason we care about the release date is that our JSON at the end should only contain albums released this month. If you look at [the aggr website](https://aggr-music.herokuapp.com/), you'll see that each page is broken out into months. I did that because 1) I only wanted to focus on a small chunk of albums at a time, and 2) the RSS feeds we consume don't keep all old data so we need some way of preserving historical data.
 
@@ -140,7 +140,7 @@ We derive Show because we want to be able to print out the album representations
 
 You might be wondering why we're treating the date as Text and not a Date type. Initially, this was because I wanted to output the JSON representation in a particular format. Also, I didn't know much about the datatypes that the `time` library gave me and I was scared to commit to one. Later in the series, we'll look at how to better represent a date.
 
-## Album to JSON
+### Album to JSON
 
 Next, we'd like to know how to translate this representation to JSON. After all, I said it would be easy, right? I'll give you the updated file and then we'll work from there:
 
@@ -177,15 +177,15 @@ Finally, our Album instance of the ToJSON typeclass makes use of some defaults g
 
 And that's it. The addition of Generics might hurt your head a little bit, and you might be worried if you don't fully understand them. I'm saying, for our purposes, you don't need to understand all that's going on under the hood. You just need to know that we pulled in these things that `aeson` could do the heavy lifting for us.
 
-### What if I need configuration?
+###### What if I need configuration?
 
 While `aeson` provides some nice defaults, there are plenty of ways you can customize the ToJSON conversion, and whatever you'll need. The tutorial I mentioned above for `aeson` is very helpful in that regard.
 
-## XML -> Album
+### XML -> Album
 
 So now that we have a way to get from an HTTP request to XML, and a way to get from an Album to JSON, we just need to glue those together. I saved this for last because, unlike everything up to this point, this will require writing out and reasoning about code. We'll still make use of the libraries we've pulled in, but we've got to figure out how to make them work in harmony. Or at least to the best of my ability.
 
-### XML -> Text
+###### XML -> Text
 
 The more appropriate title would be "Cursor -> Text", but you get the idea. We have this cursor for traversing the structure of an XML document. But what do we want to pull out?
 
@@ -214,7 +214,7 @@ The only differences here are the name of our variable and the "pubDate" element
 
 You may be wondering if we could store an intermediate value for the section from the cursor to element "item" since those are repeated in both. I believe that you can! I just haven't figured out how to do it. If any reader wishes to tell me how I'd be happy to hear you out. I'll provide contact details at the end of the tutorial.
 
-### Splitting text
+###### Splitting text
 
 Now that we have each of the titles, we would like to split those out into a separate artist and title. There are so many ways to do this, and the way I'm about to do it may not be the best way, but it was the way I did it at the time (optimizations will be left for future articles).
 
@@ -244,7 +244,7 @@ The third one is if we have three elements in the list. Since we split on ": ", 
 
 Along with datatypes, the ability elegantly compose functions together like this is one of the main reasons I fell for Haskell. You can bring in libraries like [Ramda](https://ramdajs.com/) in your JavaScript, but Ramda seeks to operate more like Clojure, which can add a lot of additional friction if you're not comfortable with Lisps. I tried bringing Ramda into the JavaScript version of aggr, but I found the resulting code less clear in some places.
 
-### Formatting dates
+###### Formatting dates
 
 The same way we mapped over our artist and titles to get them in the format we wanted, we can do the same with our collection of dates. In order to help, we'll pull in the `time` library:
 
@@ -278,7 +278,7 @@ So to use our `toDate`, we can do:
 
 Notice we just passed the results of the XML traversal to our mapper. We could have done it in our artist and title example too, but I felt like it was too much going on for one line.
 
-### Building our Albums
+###### Building our Albums
 
 We now have two lists: one of the Albums awaiting dates, and one of the dates. Because they were all pulled from the same ordered source, we know that each element matches at their respective indexes. Because of this, we can make use of a core library function, `zipWith`. `zipWith` expects a function that knows how to combine elements from each list and two lists. The arguments to the `zipWith` lambda will be in the same order as which lists you pass to the rest of the function:
 
@@ -286,7 +286,7 @@ We now have two lists: one of the Albums awaiting dates, and one of the dates. B
 
 This is why we wrote our `toAlbumsAwaitingDate` function the way we did so that zipping in the dates will leave us with the complete albums we want. In the lambda, `album` is a function and `date` is the last Text we are passing to it if that's not clear.
 
-### Exporting the JSON
+###### Exporting the JSON
 
 We covered that we can easily convert Albums to JSON. But now comes a matter of HOW.
 
@@ -297,14 +297,14 @@ In the original JS project, we just wrote it out to a file called `album.json`, 
 
 That's it! If we build and run the executable, we won't see any output in the terminal, but we should see a new `albums.json` file, containing our JSON-formatted album data.
 
-## Conclusion
+### Conclusion
 For the first part, we covered a lot of ground! We covered small parts of a number of helpful libraries, wrote our own basic datatype and ToJSON instance. In terms of projects, we have gone from zero to something functionally complete!
 
 In future articles, we will add additional feeds to our data, look at filtering our data based on various criteria, and other refactors as I think of them. This is still a work in progress, so this won't be the most organized series, but I'll try to explain how I got to where I am at each stage, why I make the choices and changes I'll make. It should be a learning process for both of us!
 
 If you see any obvious flaws in the code, please feel free to submit a pull request or file a bug on [the git repo](https://github.com/blrobin2/aggr-haskell/).
 
-## Full Code (for now)
+### Full Code (for now)
 
 You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-haskell/commit/5e162321673498bbec3a8832b70b20d481ba7075). Note: it will look slightly different than what I've presented here due to choices I made in the process of writing the article.
 
