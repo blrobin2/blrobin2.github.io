@@ -38,7 +38,7 @@ The first thing I know I'll need is some way to read in data from a URL. For thi
 
 Next, I need some way of interpreting that incoming data as XML. And so I pulled in [`xml-conduit`](https://www.yesodweb.com/book/xml), mostly because I found the tutorial to be thorough enough to address what I'll be trying to do. You'll notice that it links to the Yesod Web Framework, to whose family I'm guessing this library belongs, but we're not going to use a full framework, mostly because we don't need it.
 
-Skipping some details, I know that after some parsing and checking that I will want my outgoing data to be JSON. While I could totally just write back my data as XML, the original project used JSON because JavaScript and JSON play nicely together. Plus, it's just much easier to work with in a Node environment. I'm already familiar with how simple and amazing (`aeson`)[http://hackage.haskell.org/package/aeson-1.4.1.0/docs/Data-Aeson.html) is. Plus, I found [a thorough tutorial on `aeson`](https://artyom.me/aeson) that seemed able to help if I hit any sticky situations.
+Skipping some details, I know that after some parsing and checking that I will want my outgoing data to be JSON. While I could totally just write back my data as XML, the original project used JSON because JavaScript and JSON play nicely together. Plus, it's just much easier to work with in a Node environment. I'm already familiar with how simple and amazing [`aeson`](http://hackage.haskell.org/package/aeson-1.4.1.0/docs/Data-Aeson.html) is. Plus, I found [a thorough tutorial on `aeson`](https://artyom.me/aeson) that seemed able to help if I hit any sticky situations.
 
 For everything else:
 
