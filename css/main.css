@@ -163,6 +163,7 @@ img {
 /* standard */
 .post pre {
   border-top: #76c3b3 2px solid;
+  background-color: #255a6d;
   padding: 0.5em;
   color: #fff;
   overflow-y: scroll;
