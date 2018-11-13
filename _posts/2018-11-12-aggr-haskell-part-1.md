@@ -6,7 +6,7 @@ category: programming
 ---
 
 ### Introduction
-A while ago, I made a music review aggregation app I called Aggr. You can find it at https://aggr-music.herokuapp.com/ . The concept is simple: every day, the scraper visits the RSS feeds of a few music review sites, collects the data that I care about, and builds a JSON object containing an array of reviews. Then, when you visit the page, you are served that JSON file formatted into an HTML table for easier browsing.
+A while ago, I made [a music review aggregation app I called Aggr](https://aggr-music.herokuapp.com/). The concept is simple: every day, the scraper visits the RSS feeds of a few music review sites, collects the data that I care about, and builds a JSON object containing an array of reviews. Then, when you visit the page, you are served that JSON file formatted into an HTML table for easier browsing.
 
 And it works! I've made moderate changes to it since, and it still has the occasional bug or two, but nothing that I care about since I'm the primary consumer of this data.
 
@@ -206,7 +206,7 @@ Let's try to break down what each operator is doing for us:
 * The `$//` operator takes a `Cursor` and an `Axis` to then move the cursor to that position in the XML.
 * `element "item"` defines an `Axis` for us to find: the "item" elements. So as this point, we are working with a list of all the item element in the XML document
 * The `&/` operator takes the Axis and another Axis to move to the first instance of that element.
-* `element "title" defines an `Axis` for the title element. We have essentially mapped over our "item" elements list to make it a list of their titles.
+* `element "title"` defines an `Axis` for the title element. We have essentially mapped over our "item" elements list to make it a list of their titles.
 * The `&//` operator "applies the Axis to all the descendants". Wait, wait, I'll explain!
 * `content` gets all of the content from our current point downward. So, combined with &//, what it means is that we are stopping our digging, and just converting everything from within this node inward into Text.
 

@@ -107,14 +107,13 @@ img {
 }
 
 .post {
-    text-indent: 1em;
     padding: .5em 1em;
     background: #fcfbf3;
     box-shadow: 0 0 .5em rgba(0,0,0,.1);
 }
 
-.post pre {
-  text-indent: 0%;
+.post p {
+  text-indent: 1em;
 }
 
 .header a {
@@ -164,9 +163,11 @@ img {
 /* standard */
 .post pre {
   border-top: #255a6d 2px solid;
+  padding: 0.5em;
   background-color: #76c3b3;
   color: #fff;
   overflow-y: scroll;
+  font-size: 0.8em;
 }
 
 .post ul, .post ol {
