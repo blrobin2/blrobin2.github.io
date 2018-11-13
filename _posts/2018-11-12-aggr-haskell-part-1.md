@@ -225,8 +225,8 @@ Now that we have each of the titles, we would like to split those out into a sep
 
 Those familiar with Haskell will know that Text has a `splitOn` method, which takes a sample of Text that we want to use for where to split:
 
-  let albumArtist = cursor $// element "item" &/ element "title" &// content
-  let albumArtistSplit = map T.splitOn ": " albumArtist
+	let albumArtist = cursor $// element "item" &/ element "title" &// content
+	let albumArtistSplit = map T.splitOn ": " albumArtist
 
 This leaves us with a list of list of Text. We could probably work with this, but I'm going to make my life a little easier and create another function for us to map with:
 
@@ -244,8 +244,8 @@ Finally, we provide a bottom case that throws an error. We don't want to ignore 
 
 To make use of this function, we'll compose it with our `splitOn` in the map:
 
- 	let albumArtist = cursor $// element "item" &/ element "title" &// content
- 	let albumsAwaitingDate = map (toAlbumAwaitingDate . T.splitOn ": ") albumArtist
+	let albumArtist = cursor $// element "item" &/ element "title" &// content
+	let albumsAwaitingDate = map (toAlbumAwaitingDate . T.splitOn ": ") albumArtist
 
 Along with datatypes, the ability elegantly compose functions together like this is one of the main reasons I fell for Haskell. You can bring in libraries like [Ramda](https://ramdajs.com/) in your JavaScript, but Ramda seeks to operate more like Clojure, which can add a lot of additional friction if you're not comfortable with Lisps. I tried bringing Ramda into the JavaScript version of aggr, but I found the resulting code less clear in some places.
 
