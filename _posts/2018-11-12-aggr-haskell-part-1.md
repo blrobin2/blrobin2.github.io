@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From JavaScript to Haskell, Part 1"
+title: "A Beginning Haskeller Builds a Multi-Site Web Scraper (Part 1)"
 excerpt: "A journey into Haskell, and my failings along the way"
 category: programming
 ---
