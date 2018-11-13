@@ -64,6 +64,7 @@ To keep matters simple, we'll start with one of the sites I read in, [Pitchfork]
 
 In our main method, we can remove the boilerplate "hello world" and try to read in the feed. Like I said earlier, I had a hard time figuring out how to get `http-client` and `xml-conduit` to talk to one another, so I started with byestrings:
 
+
   {-# LANGUAGE OverloadedStrings #-}
 	module Main where
 
@@ -230,10 +231,10 @@ Those familiar with Haskell will know that Text has a `splitOn` method, which ta
 This leaves us with a list of list of Text. We could probably work with this, but I'm going to make my life a little easier and create another function for us to map with:
 
 	toAlbumAwaitingDate :: [Text] -> (Text -> Album)
-	toAlbumAwaitingDate [a, t]        = Album a t
-	toAlbumAwaitingDate [a]           = Album a ""
+	toAlbumAwaitingDate [a, t]      = Album a t
+	toAlbumAwaitingDate [a]         = Album a ""
 	toAlbumAwaitingDate [a, t1, t2] = Album a (t1 <> ": " <> t2)
-	toAlbumAwaitingDate _             = error "Unknown format"
+	toAlbumAwaitingDate _           = error "Unknown format"
 
 As you can see, this is meant to take a list of text and return a function that awaits more text. That text it's awaiting is our date. The first two cases probably make sense: if we get a list with two elements, that's the artist and title. If we get a list with one element, that's the artist (maybe, I didn't run into this case yet).
 
@@ -337,10 +338,10 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	  toEncoding = genericToEncoding defaultOptions
 
 	toAlbumAwaitingDate :: [Text] -> (Text -> Album)
-	toAlbumAwaitingDate [a, t]       = Album a t
-	toAlbumAwaitingDate [a]          = Album a ""
-	toAlbumAwaitingDate (a:t1:t2:[]) = Album a (t1 <> ": " <> t2)
-	toAlbumAwaitingDate _            = error "Unknown format"
+	toAlbumAwaitingDate [a, t]      = Album a t
+	toAlbumAwaitingDate [a]         = Album a ""
+	toAlbumAwaitingDate [a, t1, t2] = Album a (t1 <> ": " <> t2)
+	toAlbumAwaitingDate _           = error "Unknown format"
 
 	toUTCTime :: String -> Maybe UTCTime
 	toUTCTime = parseTimeM True defaultTimeLocale "%a, %d %b %Y %X %z"
