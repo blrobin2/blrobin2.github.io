@@ -45,7 +45,7 @@ For everything else:
 * To work with parsing and formatting dates: [`time`](http://hackage.haskell.org/package/time-1.9.2/docs/Data-Time.html)
 * Because several libraries prefer Text over Strings for performance reasons: ['text'](http://hackage.haskell.org/package/text-1.2.3.1/docs/Data-Text.html)
 * When trying to figure out how to glue `http-client` and `xml-conduit` together, I noticed they both talked in bytestrings (another way of representing textual data): ['bytestring'](http://hackage.haskell.org/package/bytestring-0.10.8.2/docs/Data-ByteString.html)
-** If the difference between Text, Strings, and Bytestrings is lost on you, I recommend [this tutorial on Haskell's string types](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
+  - If the difference between Text, Strings, and Bytestrings is lost on you, I recommend [this tutorial on Haskell's string types](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
 
 With that said, this is what my `build-depends` looks like in my .cabal file:
 
@@ -185,7 +185,7 @@ And that's it. The addition of Generics might hurt your head a little bit, and y
 
 #### What if I need configuration?
 
-While `aeson` provides some nice defaults, there are plenty of ways you can customize the ToJSON conversion, and whatever you'll need. The tutorial I mentioned above for `aeson` is very helpful in that regard.
+While `aeson` provides some nice defaults, there are plenty of ways you can customize the ToJSON conversion, and whatever you'll need. [The tutorial I mentioned above for `aeson`](https://artyom.me/aeson) is very helpful in that regard.
 
 ### XML -> Album
 
@@ -210,7 +210,7 @@ Let's try to break down what each operator is doing for us:
 * The `&//` operator "applies the Axis to all the descendants". Wait, wait, I'll explain!
 * `content` gets all of the content from our current point downward. So, combined with &//, what it means is that we are stopping our digging, and just converting everything from within this node inward into Text.
 
-Phew! That's a lot of information. And believe me, I did not understand that when I first used these operators. I just looked a the tutorial, saw they worked and applied them to my situation. When first working with a library, I believe that's perfectly valid way of approaching it. It's only when you need more than what the base cases show that you'll need to dig in and learn enough to progress.
+Phew! That's a lot of information. And believe me, I did not understand that when I first used these operators. I just looked a the tutorial, saw they worked and applied them to my situation. When first working with a library, I believe that's perfectly valid way of approaching it. It's only when you need more than the basics that you'll need to dig in and learn enough to progress.
 
 We can use a similar operator to get to the pubDates, which is what we're considering the release date.
 
@@ -218,7 +218,7 @@ We can use a similar operator to get to the pubDates, which is what we're consid
 
 The only differences here are the name of our variable and the "pubDate" element.
 
-You may be wondering if we could store an intermediate value for the section from the cursor to element "item" since those are repeated in both. I believe that you can! I just haven't figured out how to do it. If any reader wishes to tell me how I'd be happy to hear you out. I'll provide contact details at the end of the tutorial.
+You may be wondering if we could store an intermediate value for the section from the cursor to element "item" since those are repeated in both. I believe that you can! I just haven't figured out how to do it. If any reader wishes to tell me how I'd be happy to hear you out. I'll provide contact details at the end of the article.
 
 #### Splitting text
 
@@ -239,7 +239,7 @@ This leaves us with a list of list of Text. We could probably work with this, bu
 
 As you can see, this is meant to take a list of text and return a function that awaits more text. That text it's awaiting is our date. The first two cases probably make sense: if we get a list with two elements, that's the artist and title. If we get a list with one element, that's the artist (maybe, I didn't run into this case yet).
 
-The third one is if we have three elements in the list. Since we split on ": ", this probably means that we accidentally cut a title containing a colon in half, so we're appending it back together. Rather than try to use some internal Text-specific operator, we can take advantage of the fact that Text has a Monoid instance and use it's `mappend` (aliased to the `<>` operator internally). It's similar to the `++` operator for lists, but much more powerful. If Monoid is a new or scary word, [the Typeclassopedia entry on Monoids](https://wiki.haskell.org/Typeclassopedia#Monoid) may be helpful.
+The third one is if we have three elements in the list. Since we split on ": ", this probably means that we accidentally cut a title containing a colon in half, so we're appending it back together. Rather than try to use some internal Text-specific operator, we can take advantage of the fact that Text has a Monoid instance and use it's `mappend` (aliased to the `<>` operator internally). It's similar to the `++` operator for lists, but much more powerful because it can be used for anything that implements a Monoid instance. If Monoid is a new or scary word, [the Typeclassopedia entry on Monoids](https://wiki.haskell.org/Typeclassopedia#Monoid) may be helpful.
 
 Finally, we provide a bottom case that throws an error. We don't want to ignore other formats, we want to support new ones as they come. There may be a more generalized and intelligent approach, but this one works for us in the here and now and isn't too complicated.
 
@@ -280,7 +280,8 @@ Converting Text to UTCTime to Text may feel silly on the surface. And in some wa
 
 So to use our `toDate`, we can do:
 
-	let date = map toDate $ cursor $// element "item" &/ element "pubDate" &// content
+	let date = map toDate
+    $ cursor $// element "item" &/ element "pubDate" &// content
 
 Notice we just passed the results of the XML traversal to our mapper. We could have done it in our artist and title example too, but I felt like it was too much going on for one line.
 
