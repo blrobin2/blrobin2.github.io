@@ -48,6 +48,10 @@ img {
   text-align: right;
 }
 
+.posts li:last-child {
+  border: none;
+}
+
 .posts span {
   color: #fac84c;
   font-size: .5em;

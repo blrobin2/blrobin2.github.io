@@ -49,6 +49,7 @@ For everything else:
 
 With that said, this is what my `build-depends` looks like in my .cabal file:
 
+
   build-depends: base >= 4.7 && < 5
               , aeson
                     , bytestring
@@ -105,6 +106,7 @@ A `Document` is a full representation of the XML Document, complete with types r
 That's where `Cursor` comes in. A `Cursor` is a node that knows its own location in the XML tree. That means that we can move around from this starting point to get to specific nodes or text within the XML document.
 
 To get there, we'll need to make some conversions:
+
 
 	{-#LANGUAGE OverloadedStrings #-}
 	module Main where
