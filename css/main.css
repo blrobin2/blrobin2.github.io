@@ -184,11 +184,19 @@ img {
   border-top: #255a6d 2px solid;
   background-color: #76c3b3;
   color: #fff;
-  padding: 0;
 }
 
 .post pre code {
   border: none;
+}
+
+/* Highlight.js overrides */
+.hljs-comment, .hljs-quote, .hljs-deletion, .hljs-meta {
+  color: #76c3b3;
+}
+
+.hljs-string, .hljs-title, .hljs-name, .hljs-type, .hljs-attribute, .hljs-symbol, .hljs-bullet, .hljs-addition, .hljs-variable, .hljs-template-tag, .hljs-template-variable {
+    color: #fac84c;
 }
 
 /* terminal */

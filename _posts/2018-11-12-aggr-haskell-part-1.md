@@ -135,11 +135,10 @@ Let's think about what we want the data to look like. An album for our purposes 
 
 In Haskell, that would look like this:
 
-	data Album
-	  = Album
+	data Album = Album
 	  { artist :: Text
-	  , title    :: Text
-	  , date  :: Text
+	  , title  :: Text
+	  , date   :: Text
 	  } deriving (Eq, Show)
 
 We derive Show because we want to be able to print out the album representations and make sure we're on the right path. We derive Eq because we're going to want to remove duplicate representations when we have multiple sites pulled in and they both have the same album. This is definitely a far-future concern, but one we can address right now with little thought.
@@ -161,11 +160,10 @@ Next, we'd like to know how to translate this representation to JSON. After all,
 	import Text.XML
 	import Text.XML.Cursor
 
-	data Album
-	  = Album
+	data Album = Album
 	  { artist :: Text
-	  , title   :: Text
-	  , date  :: Text
+	  , title  :: Text
+	  , date   :: Text
 	  } deriving (Generic, Eq, Show)
 
 	instance ToJSON Album where
@@ -329,8 +327,7 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	import           Text.XML
 	import           Text.XML.Cursor
 
-	data Album
-	  = Album
+	data Album = Album
 	  { artist :: Text
 	  , title  :: Text
 	  , date   :: Text
@@ -351,7 +348,7 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	toDate :: Text -> Text
 	toDate d = case toUCTTime (T.unpack d) of
 	  Nothing -> ""
-	  Just d'  -> T.pack $ formatTime defaultTimeLocale "%b %d %Y" d'
+	  Just d' -> T.pack $ formatTime defaultTimeLocale "%b %d %Y" d'
 
 	main :: IO ()
 	main = do
@@ -360,15 +357,15 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	  let cursor   = fromDocument document
 	  let albumArtist = cursor
                 $// element "item"
-                &/ element "title"
+                &/  element "title"
                 &// content
 	  let date = map toDate $ cursor
                 $// element "item"
-                &/ element "pubDate"
+                &/  element "pubDate"
                 &// content
 	  let albumsAwaitingDate = map ( toAlbumAwaitingDate
                                  . T.splitOn ": "
                                  ) albumArtist
 
-	  let albums = zipWith (\a d -> a d) albumsAwaitingDate date
+	  let albums = zipWith (\album date -> album date) albumsAwaitingDate date
 	  encodeFile "albums.json" albums
