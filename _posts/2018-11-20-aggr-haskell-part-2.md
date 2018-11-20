@@ -4,8 +4,6 @@ title: "A Beginning Haskeller Builds a Multi-Site Web Scraper (Part 2)"
 excerpt: "A journey into Haskell, and my failings along the way"
 category: programming
 ---
-## A Beginning Haskeller Builds a Multi-Site Web Scraper (Part 2)
-
 ### Previously On...
 
 In the [previous article]({% post_url 2018-11-12-aggr-haskell-part-1 %}), we built a web scraper that reads in an RSS Feed, translates it to an XML DSL in order to traverse it and collect relevant data, and translated that data into a custom Album datatype that we can use to export the data as JSON.
