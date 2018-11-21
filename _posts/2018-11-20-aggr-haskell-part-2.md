@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Beginning Haskeller Builds a Multi-Site Web Scraper (Part 2)"
+title: "A Beginning Haskeller Builds a Web Scraper (Part 2)"
 excerpt: "A journey into Haskell, and my failings along the way"
 category: programming
 ---
