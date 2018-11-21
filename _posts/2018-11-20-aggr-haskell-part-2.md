@@ -583,7 +583,7 @@ Thank you for reading! You can file complaints and report bugs in the code throu
       <$> (getXmlCursor =<< parseRequest (T.unpack link))
 
     getScores :: Cursor -> IO [Maybe Double]
-    getScores cursor = traverse linkToScore $ getReviewLinks cursor
+    getScores = traverse linkToScore . getReviewLinks
 
     getStereogumAlbums :: IO [Album]
     getStereogumAlbums = do
