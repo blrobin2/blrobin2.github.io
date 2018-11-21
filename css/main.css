@@ -234,6 +234,11 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2
   font-size-adjust: 0.5;
 }
 
+h2 {
+  max-width: 12em;
+  margin: auto;
+}
+
 .post {
   font-size: 1em;
   /* equivalent to 16px */
