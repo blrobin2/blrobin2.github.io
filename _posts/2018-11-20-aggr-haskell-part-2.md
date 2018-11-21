@@ -418,7 +418,7 @@ We have access to a little-known cousin of `read` called `readMaybe`. Instead of
 
 Even though we haven't written our filtering code yet, we talked briefly about it. We decided that we would treat `Nothing` as an automatic pass since all of the scores for Stereogum will be `Nothing`. You may decide that's how you want to treat malformed scores.
 
-I don't, though. I have enough to listen to. I don't need some album that is potentially not great getting through. I know, I'm a snob. So, instead of keeping it as is, we're going to treat it as a 0. We'll do that with `fromMaybe` (which lives in `Data.Maybe`:
+I don't, though. I have enough to listen to. I don't need some album that is potentially not great getting through. I know, I'm a snob. So, instead of keeping it as is, we're going to treat it as a 0. We'll do that with `fromMaybe` (which lives in `Data.Maybe`):
 
     parseScore :: Text -> Maybe Double
     parseScore score = pure . fromMaybe 0 . readMaybe $ T.unpack score
@@ -455,7 +455,7 @@ The reversed `>>=` is only to help the code read right-to-left. Otherwise, we ju
 
 #### Wiring it all together
 
-We have a method for getting a list of links, and for each one, we'd like to replace the link with a score. Like before, this sounds like a job for `map`. But let's give it a shot:
+We have a method for getting a list of links, and for each one, we'd like to replace the link with a score. Like before, this sounds like a job for `fmap`. But let's give it a shot:
 
     getScores :: Cursor -> IO [Maybe Double]
     getScores cursor = linkToScore <$> getReviewLinks cursor
