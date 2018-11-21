@@ -306,7 +306,7 @@ For the sake of getting our code to compile, we'll need to fix the type signatur
     toPartialAlbum :: Text -> [Text] -> (Text -> Maybe Double -> Album)
     toPartialAlbum = ...
 
-And then, in the lamdas we pass to `zipWith` in getStereogumAlbums` and `getPitchforkAlbums`, we need to provide a `Maybe Double` value to complete the albums. For now, we'll pass `Nothing` in both:
+And then, in the lamdas we pass to `zipWith` in `getStereogumAlbums` and `getPitchforkAlbums`, we need to provide a `Maybe Double` value to complete the albums. For now, we'll pass `Nothing` in both:
 
     pure $ zipWith (\album date -> album date Nothing) partialAlbums date
 
@@ -449,7 +449,7 @@ You may also notice that we're once again in a pattern where we pull things out 
 
     linkToScore :: Text -> IO (Maybe Double)
     linkToScore link = parseScore . getScore
-    <$> (getXmlCursor =<< parseRequest (T.unpack link))
+      <$> (getXmlCursor =<< parseRequest (T.unpack link))
 
 The reversed `>>=` is only to help the code read right-to-left. Otherwise, we jump in the middle, move right a bit, then move left, and that's not helpful at all. Once again, if this isn't clear to you, don't sweat it! Like I said before, this is more about exposure than complete understanding.
 
@@ -464,6 +464,11 @@ If we look at what type `fmap` gives us back, it's not what we thought. It's `[I
 
     getScores :: Cursor -> IO [Maybe Double]
     getScores cursor = traverse linkToScore $ getReviewLinks cursor
+
+Or in a pointfree style:
+
+    getScores :: Cursor -> IO [Maybe Double]
+    getScores = traverse linkToScore . getReviewLinks
 
 Finally! We have what we need. Let's utilize it in `getPitchforkAlbums`:
 
@@ -492,7 +497,7 @@ Next time, we'll look at:
 
 We'll try to finish up everything next time, but if not, we'll have one more article after that for clean up and clarification.
 
-Thank you for reading! You can file complaints and report bugs in the code through [the git repo for aggr haskell]:https://github.com/blrobin2/aggr-haskell
+Thank you for reading! You can file complaints and report bugs in the code through [the git repo for aggr haskell](https://github.com/blrobin2/aggr-haskell)
 
 ### The Full Code (for now):
     {-# LANGUAGE DeriveGeneric     #-}
