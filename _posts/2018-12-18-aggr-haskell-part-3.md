@@ -444,7 +444,7 @@ Seriously, if any of that felt like magic to you, read those articles I linked! 
 `build` and `exec`, look at your `albums.json`, and you should see only albums that came out the month you ran it!
 
 ### That's all for now!
-Technically, we have achieved everything we set out to do. You could stop here and feel good about what you've written. But I promised to do some other bits that I haven't cover yet.
+Technically, we have achieved everything we set out to do. You could stop here and feel good about what you've written. But I promised to do some other bits that I haven't covered yet.
 
 We still haven't covered making our code run in parallel to speed up some of our IO operations, and I'd like to go through adding a third data source that isn't as conformant as what we've worked with so far. But we've covered quite a bit today and don't want to overwhelm either of us.
 
