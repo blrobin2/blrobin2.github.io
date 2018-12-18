@@ -8,10 +8,11 @@ category: programming
 
 [Nearly a month ago]({% post_url 2018-11-20-aggr-haskell-part-2 %}) (sorry about that) we added the concept of a score to our Album datatype, and pulled in a second data source for building up our collection of albums.
 
-For the sake of my sanity and making progress, we're going to focus this time on two objectives:
+For this article, we're going to finish up and focus on the following objectives:
 
 * Convert `date` field in `Album` to use an honest-to-god date
 * Filter albums based on the previously-added `score` and `date`.
+* Run score fetches and album building concurrently.
 
 ### Date field
 
@@ -443,14 +444,43 @@ Seriously, if any of that felt like magic to you, read those articles I linked! 
 
 `build` and `exec`, look at your `albums.json`, and you should see only albums that came out the month you ran it!
 
-### That's all for now!
-Technically, we have achieved everything we set out to do. You could stop here and feel good about what you've written. But I promised to do some other bits that I haven't covered yet.
+### Concurrency
+For this final bit, we're not going to learn much. Instead, we're going to hand the heavy lifting over to the amazing `async` library. Add that to your `.cabal` file, run `stack build` to pull it in. At the top of the file, pull in `mapConcurrently` from `Control.Concurrent.Async`.
 
-We still haven't covered making our code run in parallel to speed up some of our IO operations, and I'd like to go through adding a third data source that isn't as conformant as what we've worked with so far. But we've covered quite a bit today and don't want to overwhelm either of us.
+The first place we'll use this is when fetching scores. So in `getScores`, where we're using `traverse`, replace it with `mapConcurrently`:
+
+    getScores :: Cursor -> IO [Maybe Double]
+    getScores = mapConcurrently linkToScore . getReviewLinks
+
+Then, where we're using `sequence` in `writeAlbumJSON`, replace with `mapConcurrently id`
+
+    writeAlbumJSON :: FilePath -> IO ()
+    writeAlbumJSON fileName = do
+      (_, currentMonth, _) <- getCurrentDate
+      albums <- sort . nub . join <$> mapConcurrently id
+        [ getPitchforkAlbums currentMonth
+        , getStereogumAlbums currentMonth
+        ]
+      encodeFile fileName albums
+
+This makes sense, since `traverse` can be replaced wholesale, and `sequence` can be defined in terms of `traverse`:
+
+    sequence = traverse id
+
+`build` and `exec`, and your script should finish in a fraction of the speed!
+
+### That's all!
+We've pulled in XML from multiple sources, formatted, filtered and sorted it according to our own rules, and exported it to JSON. All in just over 150 lines!
+
+I know I had initially promised to pull in a third data source, but looking at what we've accomplished here, we wouldn't be covering any new ground (except for maybe file organization, which feels a bit boring for the focus of an article).
+
+If you'd like the challenge, try and pull in Metacritic into your collection. I used [the Metacritic page with new releases](https://www.metacritic.com/browse/albums/release-date/new-releases/date) since they have a garbage XML feed. You'll have to inspect the source to look at how the HTML is built and make use of the CSS classes to traverse down to where the data is. It won't be easy, but you have all the tools needed.
+
+The repo (linked below) contains the final code, so you can refer to it if you get lost or want to compare your solution to mine.
 
 Thank you for reading! You can file complaints, request improvements, and report bugs in the code through [the git repo for aggr haskell](https://github.com/blrobin2/aggr-haskell)
 
-### The Full Code (for now):
+### The Full Code:
 
     {-# LANGUAGE DeriveGeneric     #-}
     {-# LANGUAGE OverloadedStrings #-}
@@ -458,6 +488,7 @@ Thank you for reading! You can file complaints, request improvements, and report
     module Main where
 
     import           Control.Applicative (liftA2)
+    import           Control.Concurrent.Async (mapConcurrently)
     import           Control.Monad ((>=>), join)
     import           Data.Aeson
     import           Data.List (nub, sort)
@@ -555,7 +586,7 @@ Thank you for reading! You can file complaints, request improvements, and report
       <$> (getXmlCursor =<< parseRequest (T.unpack link))
 
     getScores :: Cursor -> IO [Maybe Double]
-    getScores = traverse linkToScore . getReviewLinks
+    getScores = mapConcurrently linkToScore . getReviewLinks
 
     filterAlbums :: Double -> Month -> [Album] -> [Album]
     filterAlbums lowestScore currentMonth = filter filterer
@@ -598,7 +629,7 @@ Thank you for reading! You can file complaints, request improvements, and report
     writeAlbumJSON :: FilePath -> IO ()
     writeAlbumJSON fileName = do
       (_, currentMonth, _) <- getCurrentDate
-      albums <- sort . nub . join <$> sequence
+      albums <- sort . nub . join <$> mapConcurrently id
         [ getPitchforkAlbums currentMonth
         , getStereogumAlbums currentMonth
         ]
