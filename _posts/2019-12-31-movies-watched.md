@@ -20,16 +20,14 @@ category: misc
 1. Analyze This (1989)
 1. Tokyo Story (1953)
 1. Pickpocket (1959)
+1. Best in Show (2000)*
 1. Three Identical Strangers (2018)
 1. Catwalk: Tales from the Cat Show Circuit (2018)
 1. Velvet Buzzsaw (2019)
 1. Ronin (1998)
-
-Look up on the cross
-There's Christ
-Just hanging around as usual
-Waiting for someone to save
-Or seduce
-Atop the tallest steeple
-That overlooks the fields
-Of rape and rhubarb
+1. Captain Marvel (2019)
+1. Dead in a Week (Or Your Money Back) (2018)
+1. Behind the Curve (2018)
+1. Ghost Stories (2017)
+1. Ghostwatch (1992)
+1. Red Riding Trilogy (2009)
