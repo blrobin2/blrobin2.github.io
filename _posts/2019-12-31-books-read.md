@@ -15,3 +15,4 @@ Ongoing:
 1. William Gibson - Neuromancer*
 1. David Peace - Ninteen Eighty-Three
 1. Lorraine Hansberry - A Raisin in the Sun
+1. Mark Fisher - Capitalist Realism: Is There No Alternative?
