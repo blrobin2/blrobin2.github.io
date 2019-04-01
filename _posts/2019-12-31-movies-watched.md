@@ -31,3 +31,5 @@ category: misc
 1. Ghost Stories (2017)
 1. Ghostwatch (1992)
 1. Red Riding Trilogy (2009)
+1. Us (2019)
+1. Brain Damage (1988)

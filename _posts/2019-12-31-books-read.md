@@ -16,3 +16,6 @@ Ongoing:
 1. David Peace - Ninteen Eighty-Three
 1. Lorraine Hansberry - A Raisin in the Sun
 1. Mark Fisher - Capitalist Realism: Is There No Alternative?
+1. Martin Amis - London Fields
+1. Jeph Loeb & Tim Sale - Batman: The Long Halloween*
+1. Philip K. Dick - Valis
