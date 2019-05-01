@@ -33,3 +33,9 @@ category: misc
 1. Red Riding Trilogy (2009)
 1. Us (2019)
 1. Brain Damage (1988)
+1. C.H.U.D. (1984)
+1. Castle Freak (1995)*
+1. Q: Winged Serpent (1982)
+1. Society (1989)
+1. Avengers: Endgame (2019)
+1. An Education (2009)
