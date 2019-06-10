@@ -20,3 +20,4 @@ Ongoing:
 1. Jeph Loeb & Tim Sale - Batman: The Long Halloween*
 1. Philip K. Dick - Valis
 1. Arthur Machen - The Great God Pan and Other Horror Stories
+1. N.K. Jemisin - The Fifth Season
