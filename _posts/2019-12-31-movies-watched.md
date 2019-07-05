@@ -57,3 +57,13 @@ category: misc
 1. Booksmart (2019)
 1. Phantasm* (1979)
 1. Phantasm III: Lord of the Dead (1994)
+1. Webseries: The Movie (2019)
+1. Grandmother's Gold (2018)
+1. Phantasm IV: Oblivion (1998)
+1. Phantasm V: Ravager (2016)
+1. The Texas Chainsaw Massacre (1974)*
+1. The Hills Have Eyes (1977)
+1. Dead or Alive (1999)
+1. Blood Rage (1987)
+1. Tourist Trap (1979)
+1. Sleepaway Camp (1983)*

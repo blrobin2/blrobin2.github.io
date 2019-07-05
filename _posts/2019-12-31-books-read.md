@@ -21,3 +21,8 @@ Ongoing:
 1. Philip K. Dick - Valis
 1. Arthur Machen - The Great God Pan and Other Horror Stories
 1. N.K. Jemisin - The Fifth Season
+1. Victor LaValle - The Ballad of Black Tom
+1. Shakespeare - Henry V
+1. Mark Fisher - The Weird and the Eeries
+1. Richard Matheson - Hell House
+1. Brian Michael Bendis - Scarlet (Book One)
