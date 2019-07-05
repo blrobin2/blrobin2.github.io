@@ -26,3 +26,4 @@ Ongoing:
 1. Mark Fisher - The Weird and the Eeries
 1. Richard Matheson - Hell House
 1. Brian Michael Bendis - Scarlet (Book One)
+1. Brian Michael Bendis - Scarlet (Book Two)
