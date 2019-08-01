@@ -27,3 +27,8 @@ Ongoing:
 1. Richard Matheson - Hell House
 1. Brian Michael Bendis - Scarlet (Book One)
 1. Brian Michael Bendis - Scarlet (Book Two)
+1. Shakespeare - Julius Caesar
+1. Jeff VanderMeer - Annihilation (Southern Reach #1)
+1. Shakespeare - As You Like It
+1. Shakespeare - Hamlet*
+1. Ursula K. Le Guin - The Wind's Twelve Quarters

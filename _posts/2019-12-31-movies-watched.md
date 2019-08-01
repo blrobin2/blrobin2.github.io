@@ -67,3 +67,17 @@ category: misc
 1. Blood Rage (1987)
 1. Tourist Trap (1979)
 1. Sleepaway Camp (1983)*
+1. Toy Story 4 (2019)
+1. Midsommar (2019)
+1. Rabid (1977)
+1. The Prowler (1981)
+1. Sorority Babes in the Slimeball Bowl-O-Rama (1988)
+1. Blood Feast (1963)
+1. Basket Case (1982)
+1. Vampire's Kiss (1989)*
+1. Unforgettable (2017)
+1. Re-Animator (1985)*
+1. Under the Silver Lake (2018)
+1. Demons (1985)
+1. Hellraiser (1987)*
+1. Pieces (1982)
