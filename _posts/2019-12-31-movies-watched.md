@@ -3,81 +3,92 @@ layout: post
 title: "Movies Seens and Reseen 2019"
 excerpt: "Movies I've seen so far"
 category: misc
+datable: true
 ---
 * Rewatch
 
-1. Shoplifters (2018)
-1. If Beale Street Could Talk (2018)
-1. Wild Strawberries (1957)
-1. Winter Light (1963)
-1. Persona (1966)
-1. Hale County This Morning, This Evening (2018)
-1. The Double Life of Veronique (1991)
-1. Fitzcorraldo (1982)
-1. Devil in a Blue Dress (1995)*
-1. Bitter Tears of Pretra von Kant (1972)
-1. Sex Lies and Videotape (1989)
-1. Analyze This (1989)
-1. Tokyo Story (1953)
-1. Pickpocket (1959)
-1. Best in Show (2000)*
-1. Three Identical Strangers (2018)
-1. Catwalk: Tales from the Cat Show Circuit (2018)
-1. Velvet Buzzsaw (2019)
-1. Ronin (1998)
-1. Captain Marvel (2019)
-1. Dead in a Week (Or Your Money Back) (2018)
-1. Behind the Curve (2018)
-1. Ghost Stories (2017)
-1. Ghostwatch (1992)
-1. Red Riding Trilogy (2009)
-1. Us (2019)
-1. Brain Damage (1988)
-1. C.H.U.D. (1984)
-1. Castle Freak (1995)*
-1. Q: Winged Serpent (1982)
-1. Society (1989)
-1. Avengers: Endgame (2019)
-1. An Education (2009)
-1. Deathgasm (2015)
-1. The Changeling (1980)
-1. Madman (1981)
-1. Wolf Guy: Enraged Lycanthrope (1975)
-1. Demon Wind (1990)
-1. The House of the Devil (2009)*
-1. Wolfcop (2014)
-1. Henry: Portrait of a Serial Killer (1986)
-1. Contamination (1980)
-1. John Wick: Chapter 3 - Parabellum (2019)
-1. Wine Country (2019)
-1. The Stuff (1985)
-1. Street Trash (1987)
-1. Blood Harvest (1986)
-1. Hello Mary Lou: Prom Night II (1987)
-1. Booksmart (2019)
-1. Phantasm* (1979)
-1. Phantasm III: Lord of the Dead (1994)
-1. Webseries: The Movie (2019)
-1. Grandmother's Gold (2018)
-1. Phantasm IV: Oblivion (1998)
-1. Phantasm V: Ravager (2016)
-1. The Texas Chainsaw Massacre (1974)*
-1. The Hills Have Eyes (1977)
-1. Dead or Alive (1999)
-1. Blood Rage (1987)
-1. Tourist Trap (1979)
-1. Sleepaway Camp (1983)*
-1. Toy Story 4 (2019)
-1. Midsommar (2019)
-1. Rabid (1977)
-1. The Prowler (1981)
-1. Sorority Babes in the Slimeball Bowl-O-Rama (1988)
-1. Blood Feast (1963)
-1. Basket Case (1982)
-1. Vampire's Kiss (1989)*
-1. Unforgettable (2017)
-1. Re-Animator (1985)*
-1. Under the Silver Lake (2018)
-1. Demons (1985)
-1. Hellraiser (1987)*
-1. Pieces (1982)
+<div class="datatable-begin"></div>
+Title | Year | Rewatch?
+______| ____ | ________
+Shoplifters | 2018 | false
+If Beale Street Could Talk | 2018 | false
+Wild Strawberries | 1957 | false
+Winter Light | 1963 | false
+Persona | 1966 | false
+Hale County This Morning, This Evening | 2018 | false
+The Double Life of Veronique | 1991 | false
+Fitzcorraldo | 1982 | false
+Devil in a Blue Dress | 1995 | true
+Bitter Tears of Pretra von Kant | 1972 | false
+Sex Lies and Videotape | 1989 | false
+Analyze This | 1989 | false
+Tokyo Story | 1953 | false
+Pickpocket | 1959 | false
+Best in Show | 2000 | true
+Three Identical Strangers | 2018 | false
+Catwalk: Tales from the Cat Show Circuit | 2018 | false
+Velvet Buzzsaw | 2019 | false
+Ronin | 1998 | false
+Captain Marvel | 2019 | false
+Dead in a Week (Or Your Money Back)  | 2018 | false
+Behind the Curve | 2018 | false
+Ghost Stories | 2017 | false
+Ghostwatch | 1992 | false
+Red Riding Trilogy | 2009 | false
+Us | 2019 | false
+Brain Damage | 1988 | false
+C.H.U.D. | 1984 | false
+Castle Freak | 1995 | true
+Q: Winged Serpent | 1982 | false
+Society | 1989 | false
+Avengers: Endgame | 2019 | false
+An Education | 2009 | false
+Deathgasm | 2015 | false
+The Changeling | 1980 | false
+Madman | 1981 | false
+Wolf Guy: Enraged Lycanthrope | 1975 | false
+Demon Wind | 1990 | false
+The House of the Devil | 2009 | true
+Wolfcop | 2014 | false
+Henry: Portrait of a Serial Killer | 1986 | false
+Contamination | 1980 | false
+John Wick: Chapter 3 - Parabellum | 2019 | false
+Wine Country | 2019 | false
+The Stuff | 1985 | false
+Street Trash | 1987 | false
+Blood Harvest | 1986 | false
+Hello Mary Lou: Prom Night II | 1987 | false
+Booksmart | 2019 | false
+Phantasm* | 1979 | false
+Phantasm III: Lord of the Dead | 1994 | false
+Webseries: The Movie | 2019 | false
+Grandmother's Gold | 2018 | false
+Phantasm IV: Oblivion | 1998 | false
+Phantasm V: Ravager | 2016 | false
+The Texas Chainsaw Massacre | 1974 | true
+The Hills Have Eyes | 1977 | false
+Dead or Alive | 1999 | false
+Blood Rage | 1987 | false
+Tourist Trap | 1979 | false
+Sleepaway Camp | 1983 | true
+Toy Story 4 | 2019 | false
+Midsommar | 2019 | false
+Rabid | 1977 | false
+The Prowler | 1981 | false
+Sorority Babes in the Slimeball Bowl-O-Rama | 1988 | false
+Blood Feast | 1963 | false
+Basket Case | 1982 | false
+Vampire's Kiss | 1989 | true
+Unforgettable | 2017 | false
+Re-Animator | 1985 | true
+Under the Silver Lake | 2018 | false
+Demons | 1985 | false
+Hellraiser | 1987 | true
+Pieces | 1982 | false
+American Grindhouse | 2010 | false
+The Farewell | 2019 | false
+Knife+Heart | 2019 | false
+Tag | 2018 | false
+The Mask | 1994 | true
+Prince of Darkness | 1987 | false
+<div class="datatable-end"></div>
