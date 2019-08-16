@@ -9,7 +9,7 @@ datatable: true
 
 <div class="datatable-begin"></div>
 Title | Year | Rewatch?
-______| ____ | ________
+----- | ---- | --------
 Shoplifters | 2018 | false
 If Beale Street Could Talk | 2018 | false
 Wild Strawberries | 1957 | false
