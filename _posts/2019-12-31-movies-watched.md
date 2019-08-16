@@ -3,13 +3,10 @@ layout: post
 title: "Movies Seens and Reseen 2019"
 excerpt: "Movies I've seen so far"
 category: misc
-datatable: true
 ---
-* Rewatch
 
-<div class="datatable-begin"></div>
 Title | Year | Rewatch?
------ | ---- | --------
+:---  | :---: | :---:
 Shoplifters | 2018 | false
 If Beale Street Could Talk | 2018 | false
 Wild Strawberries | 1957 | false
@@ -91,4 +88,3 @@ Knife+Heart | 2019 | false
 Tag | 2018 | false
 The Mask | 1994 | true
 Prince of Darkness | 1987 | false
-<div class="datatable-end"></div>
