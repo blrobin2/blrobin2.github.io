@@ -3,7 +3,7 @@ layout: post
 title: "Movies Seens and Reseen 2019"
 excerpt: "Movies I've seen so far"
 category: misc
-datable: true
+datatable: true
 ---
 * Rewatch
 
