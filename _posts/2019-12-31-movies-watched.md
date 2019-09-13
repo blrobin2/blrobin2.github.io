@@ -88,3 +88,8 @@ Knife+Heart | 2019 |
 Tag | 2018 |
 The Mask | 1994 | *
 Prince of Darkness | 1987 |
+You Were Never Really Here | 2017 |
+The Gate | 1987 |
+Miami Connection | 1987 |
+Adaptation | 2002 | *
+Ready or Not | 2019 |
