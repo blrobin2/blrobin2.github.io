@@ -94,5 +94,29 @@ Miami Connection | 1987 |
 Adaptation | 2002 | *
 Ready or Not | 2019 |
 Unbreakable | 2000 | *
-Hell House LLC | 2015 |
+Hell House, LLC | 2015 |
 The Lighthouse | 2019 |
+Parasite | 2019 |
+Hell House, LLC II: The Abaddon Hotel | 2018 |
+Hell House, LLC III: Lake of Fire | 2019 |
+Stranger By the Lake | 2013 |
+Brain Dead | 1990 |
+Knives Out | 2019 |
+Halloween | 1978 | *
+Halloween 2 | 1981 |
+Halloween 3: Season of the Witch | 1982 |
+Halloween 4: The Return of Michael Myers | 1988 |
+Halloween 5: The Revenge of Michael Myers | 1989 |
+The People Under the Stairs | 1991 |
+Dark Water | 2002 |
+The Witch Who Came from the Sea | 1976 |
+Star Wars: The Rise of Skywalker | 2019 |
+We Have Always Lived in the Castle | 2018 |
+Terrified | 2017 |
+Smoke and Mirrors: The Story of Tom Savini | 2015 |
+Sint | 2010 |
+Black Christmas | 1974 |
+Cure | 1997 |
+Carol | 2015 |
+The Vanishing | 1988 |
+Picnic at Hanging Rock | 1975 |
