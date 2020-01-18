@@ -5,9 +5,6 @@ excerpt: "Books I've read so far"
 category: misc
 ---
 
-Ongoing:
-* Reread
-
 1. Roque Larraquy - La comemadre
 1. Tillie Walden - On a Sunbeam
 1. Kurt Vonnegut - Slaughterhouse-Five*
