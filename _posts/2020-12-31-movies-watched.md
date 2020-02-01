@@ -12,3 +12,9 @@ Blow Out | 1981 | No
 Something Different | 1963 | No
 Brick | 2005 | Yes
 Kes | 1969 | No
+La Jetée | 1962 | Yes
+F for Fake | 1973 | No
+Suspiria | 2018 | No
+Serenity | 2019 | No
+VelociPastor | 2018 | No
+
