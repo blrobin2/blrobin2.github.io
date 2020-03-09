@@ -17,4 +17,7 @@ F for Fake | 1973 | No
 Suspiria | 2018 | No
 Serenity | 2019 | No
 VelociPastor | 2018 | No
-
+Twin Peaks: Fire Walk with Me | 1992 | Yes
+Little Women | 2019 | No
+The Secret Government: The Constitution in Crisis | 1987 | No
+Portrait of a Lady on Fire | 2019 | No
