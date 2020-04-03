@@ -8,3 +8,5 @@ category: misc
 Title | Year | Reread
 :---  | :---: | :---:
 Ulysses | 1922 | No
+Ayoade on Top | 2019 | No
+The Essex Serpent | 2016 | No
