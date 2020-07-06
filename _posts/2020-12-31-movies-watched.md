@@ -29,3 +29,37 @@ Millennium Actress | 2001 | No
 Good Time | 2017 | No
 Once Upon a Time in the West | 1968 | No
 View From the Top | 2003 | No
+Cabaret | 1966 | No
+Home | 2003 | No
+Everything is Free | 2017 | No
+Spider-Man | 2002 | Yes
+Leviathan | 1989 | No
+Serial Mom | 1993 | No
+Samurai Cop | 1991 | No
+Before Sunrise | 1995 | No
+The Lighthouse | 2019 | Yes
+Plan 9 From Outer Space | 1959 | Yes
+Reefer Madness (in Color) | 1936 | No
+Phantom of the Paradise | 1974 | No
+Planet of Dinosaurs | 1977 | No
+In the Mouth of Madness | 1994 | No
+Bloodsucking Freaks | 1976 | No
+Simply Having | 2019 | No
+The Thin Blue Line | 1988 | Yes
+In the Mood for Love | 2000 | No
+Maniac | 1980 | No
+Burning | 2018 | No
+Deep Red | 1975 | No
+Galaxy Quest | 1999 | Yes
+Troma's War | 1988 | No
+One Cut of the Dead | 2019 | No
+Deadbeat At Dawn | 1988 | No
+Dead Heat | 1988 | No
+La La Land | 2016 | Yes
+Mayhem | 2017 | No
+Tetsuo: The Iron Man | 1989 | No
+The Umbrellas of Cherborg | 1964 | No
+Scare Package | 2019 | No
+Hogzilla | 2008/2020 | No
+Hell Comes to Frogtown | 1988 | No
+Fever Lake | 1997 | No
