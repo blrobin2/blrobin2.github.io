@@ -64,3 +64,8 @@ Hogzilla | 2008/2020 | No
 Hell Comes to Frogtown | 1988 | No
 Fever Lake | 1997 | No
 The VVitch | 2015 | Yes
+Ad Astra | 2019 | No
+The Burning | 1981 | No
+Blood Machines | 2019 | No
+Tigers Are Not Afraid | 2019 | No
+Vanishing Waves | 2013 | No
