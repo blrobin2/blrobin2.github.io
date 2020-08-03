@@ -69,3 +69,14 @@ The Burning | 1981 | No
 Blood Machines | 2019 | No
 Tigers Are Not Afraid | 2019 | No
 Vanishing Waves | 2013 | No
+The Innocents | 1961 | No
+Dead &amp; Buried | 1981 | No
+Posession | 1981 | No
+Ravenous | 1999 | No
+Jennifer's Body | 2009 | No
+Black Widow | 1987 | No
+Bone Tomahawk | 2015 | No
+The Invitation | 2016 | Yes
+Pan's Labyrinth | 2006 | Yes
+An American Werewolf in London | 1981 | No
+Snowpiercer | 2013 | No
