@@ -80,3 +80,21 @@ The Invitation | 2016 | Yes
 Pan's Labyrinth | 2006 | Yes
 An American Werewolf in London | 1981 | No
 Snowpiercer | 2013 | No
+No Light and No Land Anywhere | 2016 | No
+Logan's Run | 1976 | No
+Invasion of the Body Snatchers | 1978 | No
+Near Dark | 1987 | No
+Palm Springs | 2020 | No
+The Others | 2001 | Yes
+Body Double | 1984 | No
+Cam | 2018 | No
+M | 1931 | Yes
+Always Shine | 2016 | No
+Sudden Fear | 1952 | No
+Rosemary's Baby | 1968 | Yes
+Star Trek Generations | 1994 | No
+Yojimbo | 1961 | No
+The Love Witch | 2016 | No
+The Legacy | 1978 | No
+
+This is around the point I got a [letterboxd account](https://letterboxd.com/blrobin2/)
