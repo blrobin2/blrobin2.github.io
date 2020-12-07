@@ -382,6 +382,17 @@ I've used [Quality by Code Climate](https://codeclimate.com/quality/) and I find
 
 You can also set it up to report test coverage. While I think [test coverage is overrated](https://martinfowler.com/bliki/TestCoverage.html) as a metric, it can at the very least point out code that you may have though was tested but wasn't. Code Climate provides [documentation on configuring test coverage](https://docs.codeclimate.com/docs/configuring-test-coverage) with a number of different CI builds, including [Travis](https://docs.codeclimate.com/docs/travis-ci-test-coverage) and [Semaphore](https://docs.codeclimate.com/docs/semaphore-ci-test-coverage-example)
 
+### Error Reporting
+When errors happen in production, it can sometimes be a pain to track down the source. Sure, you can have debug logging throughout. Sure, you can configure what gets logged (since Rails likes to log everything by default) using [lograge](https://github.com/roidrage/lograge)
+
+But errors will still happen, and you'll need to figure out why
+
+There are several solutions out there. The most popular ones I've come across are [bugsnag](https://www.bugsnag.com/), [rollbar](https://rollbar.com/solutions/error-monitoring/), and [honeybadger](https://www.honeybadger.io/). I tend to prefer honeybadger, only because it's incredibly easy to set up for Ruby on Rails
+
+The benefit is that, when the error occurs, you get all of the environment variables and the stack trace (which would be performance-inducing to log out all the time), so that you can see right where the error occurred
+
+The biggest help for me has been having it for scheduled ActiveJobs that **don't** write to the logs, so debugging without some context can be a pain
+
 
 ### Okay, that's all!
 
