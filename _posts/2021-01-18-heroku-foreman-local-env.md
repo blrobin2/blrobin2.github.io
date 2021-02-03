@@ -38,7 +38,7 @@ By allowing the port to be set manually, we:
 
 Now, in the `.env` file, add:
 
-```Environment Variables
+```
 // .env
 BYEBUGPORT=3001
 ```
