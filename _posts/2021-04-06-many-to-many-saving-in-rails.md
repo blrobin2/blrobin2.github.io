@@ -33,7 +33,7 @@ class CreateAuthorsAndBooks < ActiveRecord::Migration[6.1]
     end
 
     create_table :books do |t|
-      t.string :title
+      t.string :title, null: false
       t.timestamps
     end
 
@@ -298,7 +298,7 @@ Within `app/views/orders/_form.html.erb` (or wherever your save form is located)
         <%= line_item_form.check_box :_destroy %>
         <%= line_item_form.label :quantity %>
         <%= line_item_form.number_field :quantity, step: 1, min: 1 %>
-        <%= form.collection_select :product_id, @products, :id, :name %>
+        <%= line_item_form.collection_select :product_id, @products, :id, :name %>
       </li>
     <% end %>
     </ul>
