@@ -9,13 +9,13 @@ Whenever you search online for 'how to save many-to-many relationships in Rails 
 
 And they all work. But they're also not necessary __most__ of the time
 
-## Simple Example: Authors and Books (`has_and_belongs_to_many`)
+### Simple Example: Authors and Books (`has_and_belongs_to_many`)
 
 Depending on who you talk to (or your Rubocop configuration), `has_and_belongs_to_many` is either totally fine for simple use cases or a bad practice that hides a table from your associations
 
 I'm not here to preach one way or the other. But if you happen to use it, saving your associations is much easier than you may think
 
-### Code Setup
+#### Code Setup
 This demo will assume you have a Rails project already set up. If not, you can just do `rails new association_saving` or something to get a skeleton project
 
 Once you have a project, generate a migration:
@@ -111,7 +111,7 @@ Add the following to `app/controllers/books_controller.rb`:
 
 We create a list of `@authors` that we can use to populate our `select` here shortly. In addition, we set the [strong parameters](https://api.rubyonrails.org/v6.1.3/classes/ActionController/StrongParameters.html) to permit the acceptance of a `title` field, as well as an array of `author_ids`
 
-### Saving with `form_helpers`
+#### Saving with `form_helpers`
 
 Within `app/views/books/_form.html.erb` (or wherever your save form is located):
 
@@ -139,7 +139,7 @@ For those unfamiliar, [`collection_select`](https://apidock.com/rails/ActionView
 Now, whenever you have something selected, the `Save` button is clicked, and `@book.save` is called, your `authors_books` table will be populated with the association!
 
 
-### Saving without `form_helpers`
+#### Saving without `form_helpers`
 
 That's all well and good if you're using Rails as a [monolith](https://martinfowler.com/bliki/MonolithFirst.html). But this is the 2020s, and microservices are all the rage, so you may be using Rails as an API layer. Your frontend could be Vue, React, Stimulus, Angular... the options are truly endless.
 
@@ -157,11 +157,13 @@ In other words, so long as your `POST` or `PUT` request takes the following shap
 
 Then Rails is going to be able to save your associations without issue
 
-## Complex example: Products, Orders, and LineItems (`has_many through`)
+### Complex example: Products, Orders, and LineItems (`has_many through`)
 
 In this scenario, our join table is going to have fields of its own to manage, so we will need to utilize `has_many through` so that:
 * the join table has its own model (LineItem)
 * we can target the table in the attributes we send across
+
+#### Code Setup
 
 Again, assuming you have a project already set up, generate a migration:
 
@@ -276,7 +278,7 @@ Common mistakes I see here:
 * Ommitting the `:id`, which leads to duplicate records being created every time you save. If you allow the save to recieve the `id`, you don't have to worry about duplications
 * Ommitting the `_destroy`, which means that you cannot remove records once they've been created
 
-### Saving with `form_helpers`
+#### Saving with `form_helpers`
 
 Within `app/views/orders/_form.html.erb` (or wherever your save form is located):
 
@@ -312,7 +314,7 @@ Here, we utilize [nested forms](https://guides.rubyonrails.org/form_helpers.html
 
 Like above, all you need to do is hit `Save` and when `@order.save` is called, it will handle populating the `line_items` table for you!
 
-### Saving without `form_helpers`
+#### Saving without `form_helpers`
 
 See my section above about different front-end frameworks and all that. For this scenario, so long as your `POST` or `PUT` request takes the following shape:
 ```json
@@ -345,6 +347,6 @@ See my section above about different front-end frameworks and all that. For this
 
 Then Rails is going to be able to save your associations without issue
 
-## Summary
+### Summary
 
 Hopefully this was helpful to you, and that it makes your future Rails association saving much simpler. Good luck!
