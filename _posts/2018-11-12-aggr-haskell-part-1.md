@@ -349,7 +349,7 @@ You can also [view the current code on GitHub](https://github.com/blrobin2/aggr-
 	toUTCTime = parseTimeM True defaultTimeLocale "%a, %d %b %Y %X %z"
 
 	toDate :: Text -> Text
-	toDate d = case toUCTTime (T.unpack d) of
+	toDate d = case toUTCTime (T.unpack d) of
 	  Nothing -> ""
 	  Just d' -> T.pack $ formatTime defaultTimeLocale "%b %d %Y" d'
 
