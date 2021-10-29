@@ -76,7 +76,7 @@ class UsersQuery
 end
 ```
 
-For the query, we build it up using Arel and then call `to_sql` to get the SQL query that we will execute against a connection to the database. We build the query against the `arel_table` that is pulled from the  `User` class. We then use a series of custom functions to build up our computed `WHERE` segment using three classes provided by arel: [`SqlLiteral`, `NamedFunction`, and `InfixOperatotion`](https://www.rubydoc.info/gems/arel/Arel/Nodes).
+For the query, we build it up using Arel and then call `to_sql` to get the SQL query that we will execute against a connection to the database. We build the query against the `arel_table` that is pulled from the  `User` class. We then use a series of custom functions to build up our computed `WHERE` segment using three classes provided by arel: [`SqlLiteral`, `NamedFunction`, and `InfixOperation`](https://www.rubydoc.info/gems/arel/Arel/Nodes).
 
 Seeing the original SQL, you may understand the code version without having to read any further. But for those who would like a little more explanation, I will break down my choices below.
 
@@ -91,9 +91,9 @@ For safety purposes, Arel does not allow you to pass raw strings to custom funct
 
 For functions where you pass arguments between parentheses, `NamedFunction` allows you to pass the name of the function and then an array of the arguments to pass to that function. I used a spread operator for my `named_function` so that every argument after the function name is treated as an argument to that function. Not necessary, but I thought it made the code a tiny bit cleaner.
 
-### `InfixOperatotion`.
+### `InfixOperation`.
 
-Finally, for functions that are called between their arguments (such as `+` or `>=`), `InfixOperatotion` allows you to pass the name of the operator, followed by the values to put to the left and right of the operator.
+Finally, for functions that are called between their arguments (such as `+` or `>=`), `InfixOperation` allows you to pass the name of the operator, followed by the values to put to the left and right of the operator.
 
 ### Arel Extensions
 You may also be familiar with a library called [Arel Extension](https://github.com/Faveod/arel-extensions), which extends the Arel code to include these operations for you. The following demonstrates how to do the above using this library:
