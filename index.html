@@ -5,12 +5,14 @@ excerpt: What I'm thinking about right now...
 ---
 
 <main role="main" id="home">
-  <h1>Blog Posts</h1>
+  <h2>What I've been thinking about&hellip;</h2>
   <nav role="navigation">
     <ul class="posts">
       {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
+      <li>
+        <span>{{ post.date | date_to_string }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
       {% endfor %}
     </ul>
   </nav>

@@ -1,59 +1,77 @@
 <!DOCTYPE html itemscope itemtype="http://schema.org/Blog">
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv='Content-Security-Policy' content="default-src 'none'; font-src https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self'; script-src 'self' https://ajax.googleapis.com/ https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com https://cdnjs.cloudflare.com; frame-src https://embed.spotify.com/ https://open.spotify.com/ https://www.youtube.com/ https://w.soundcloud.com/; object-src 'none'; base-uri 'none'">
-        <meta http-equiv="referrer" content="same-origin">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width" />
-        <meta name="title" itemprop="name" content="{{ page.title }}" />
-        <meta name="description" itemprop="description" content="{{ page.excerpt }}" />
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:site_name" content="{{ site.name }}" />
-        <meta property="og:url" itemprop="url" content="{{site.url}}{{ page.url }}" />
-        <meta property="og:description" content="{{ page.excerpt }}" />
-        <meta property="og:type" content="article" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; font-src https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self'; script-src 'self' https://ajax.googleapis.com/ https://cdnjs.cloudflare.com; style-src 'self' https://fonts.googleapis.com https://cdnjs.cloudflare.com; frame-src https://embed.spotify.com/ https://open.spotify.com/ https://www.youtube.com/ https://w.soundcloud.com/; object-src 'none'; base-uri 'none'"
+    />
+    <meta http-equiv="referrer" content="same-origin" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="title" itemprop="name" content="{{ page.title }}" />
+    <meta
+      name="description"
+      itemprop="description"
+      content="{{ page.excerpt }}"
+    />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta
+      property="og:url"
+      itemprop="url"
+      content="{{site.url}}{{ page.url }}"
+    />
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    <meta property="og:type" content="article" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <link rel="canonical" href="{{site.url}}{{ page.url }}" />
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/dracula.css">
-        <link rel="stylesheet" href="/css/main.css">
-        <link rel="manifest" href="/manifest.webmanifest">
-    </head>
-    <body>
-        <div class="site">
-          <header class="header" role="banner">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          </header>
+    <link rel="canonical" href="{{site.url}}{{ page.url }}" />
+    <!-- Custom CSS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:ital,wght@0,400;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+  </head>
+  <body>
+    <div class="site">
+      <header class="header" role="banner">
+        <h1 class="title"><a href="/">鼻涕 {{ site.name }}</a></h1>
+      </header>
 
-          {{ content }}
+      {{ content }}
 
-          <footer role="contentinfo" class="footer">
-            <div class="contact">
-              <p>
-                Bennie Robinson<br>
-                Web Developer
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/blrobin2">github</a>
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://letterboxd.com/blrobin2/">letterboxd</a>
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://www.goodreads.com/blrobin2">goodreads</a>
-              </p>
-            </div>
-          </footer>
+      <footer role="contentinfo" class="footer">
+        <div class="contact">
+          <p>{{ site.name }}</p>
         </div>
-        <script src="/js/highlight.pack.js"></script>
-        <script type="text/javascript" src="/js/index.js" defer></script>
-    </body>
+        <div class="contact">
+          <p>
+            <a href="https://github.com/blrobin2">github</a>
+          </p>
+        </div>
+        <div class="contact">
+          <p>
+            <a href="https://letterboxd.com/blrobin2/">letterboxd</a>
+          </p>
+        </div>
+        <div class="contact">
+          <p>
+            <a href="https://app.thestorygraph.com/profile/blrobin2"
+              >storygraph</a
+            >
+          </p>
+        </div>
+        <div class="contact">
+          <p>
+            <a href="https://lefthandedcrystals.bandcamp.com/">bandcamp</a>
+          </p>
+        </div>
+      </footer>
+    </div>
+  </body>
 </html>

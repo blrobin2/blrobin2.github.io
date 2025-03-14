@@ -11,13 +11,13 @@ What I don't get is why they chose Go.
 
 Actually, let me be up front, I know exactly why they chose Go.
 
-## Why Teams Choose Go
+### Why Teams Choose Go
 
 1. It's "Fast"
 
 One of the most replicated arguments for choosing Go is it's speed. That is, how fast the applications run once they are compiled. Unlike dynamic languages like PHP and Ruby, or languages with Runtime VMs like Java, Go is compiled to machine language, which in theory should make it outperform those languages.
 
-However, unlike other languages that compile to machine language (C, C++, Rust), Go has a [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) for memory management. Because of this, your Go code will actually only be as fast as your allocated memory will allow in any given block. This means that it is still up to you to wisely choose when to utilize pointers, when to pass values around, when to close leaky resouces, and so on.
+However, unlike other languages that compile to machine language (C, C++, Rust), Go has a [garbage collector](<https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>) for memory management. Because of this, your Go code will actually only be as fast as your allocated memory will allow in any given block. This means that it is still up to you to wisely choose when to utilize pointers, when to pass values around, when to close leaky resouces, and so on.
 
 That said, Go applications will still likely outperform most PHP and Ruby applications. More on this later.
 
@@ -39,7 +39,7 @@ This is quite nice all around, as it means that you will quickly be able to pick
 
 However, that question of "better" or "more efficient" may not go away, as though it doesn't exist, you might want it.
 
-## Why I Wouldn't Choose Go
+### Why I Wouldn't Choose Go
 
 1. It's not fast enough
 

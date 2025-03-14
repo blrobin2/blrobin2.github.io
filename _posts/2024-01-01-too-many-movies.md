@@ -13,7 +13,7 @@ As the year progressed, I discovered Letterboxd had movie challenges or scavenge
 
 After finishing those challenges, my final self-imposed goal was to watch [all the Cold War era James Bond movies](https://boxd.it/r6gwI) and rank them.
 
-## Early Movie Years
+### Early Movie Years
 
 I grew up exposed to Hollywood movies, with the occasional American indie if a friend mentioned it or the cover looked promising at Blockbuster. It wasn't until college that I experienced movies like Lost in Translation or Eternal Sunshine of the Spotless Mind — movies that made me realize I had seen little.
 
@@ -25,7 +25,7 @@ I was in several long-term relationships for the next decade of my life. I didn'
 
 I still, however, didn't watch many of the movies. In the meantime, I kept up with Oscar films or the occasional MST3K episode.
 
-## Movie Podcasts
+### Movie Podcasts
 
 Around 2015, I started listening to bad movie podcasts — where they would watch a bad movie and then talk about it. My favorites were [The Flop House](https://www.flophousepodcast.com/) and [How Did This Get Made](https://www.earwolf.com/show/how-did-this-get-made/).
 
@@ -35,7 +35,7 @@ Around the same time, I'd heard an ad on The Flop House for another show on thei
 
 I began digging into horror and exploitation films, remembering that they are flawed works made by humans.
 
-## Letterboxd
+### Letterboxd
 
 In 2020, I started a [Letterboxd account](https://letterboxd.com/blrobin2). I can't remember who told me about it, but I began logging every movie I had seen. I would give it a star rating if I could remember what I felt. If not, I would flag it as watched.
 
@@ -47,7 +47,7 @@ Near the end of 2022, I was burning out on how I approached music. Despite spend
 
 I pivoted to movies. I decided I would start writing reviews of each movie I watched. The goal was to document my likes and dislikes about a film. If I returned to it, I would have a justification for my positive or negative review.
 
-## Three Lives
+### Three Lives
 
 As I entered 2023, I had more time, so I started watching more movies. I noticed more about each movie I watched as I wrote my reviews. I felt my attention span increasing as I tried to evaluate what I saw. I kept expecting a similar experience with music where I would burn out.
 
@@ -57,14 +57,14 @@ As a result, I found the resolve to watch those foreign movies I had waited year
 
 It was as if I was making up for lost time, discovering my love for movies. I felt like I was developing my identity and discovering what matters.
 
-There's a scene from the movie [Yi Yi](https://letterboxd.com/film/yi-yi/)  that has stayed in my mind since I watched a couple of months ago:
+There's a scene from the movie [Yi Yi](https://letterboxd.com/film/yi-yi/) that has stayed in my mind since I watched a couple of months ago:
 
 > — Life is a mixture of sad and happy things. Movies are so lifelike, that’s why we love them.<br>
-— Then who needs movies? Just stay home and live life!<br>
-— My uncle says, “We live three times as long since man invented movies.”<br>
-— How can that be?<br>
-— It means movies give us twice what we get from daily life.
+> — Then who needs movies? Just stay home and live life!<br>
+> — My uncle says, “We live three times as long since man invented movies.”<br>
+> — How can that be?<br>
+> — It means movies give us twice what we get from daily life.
 
-## 2024 Goals
+### 2024 Goals
 
 I don't know what my movies goals will be in 2024. I have two lists to watch: [The Criterion Challenge 2024](https://boxd.it/qWjuA/detail) and [The Anti-Criterion Challenge 2024](https://boxd.it/qBmUY/detail). We'll see what life offers.
