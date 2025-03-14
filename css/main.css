@@ -230,10 +230,24 @@ a:hover {
 
 .footer {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 1rem;
+  grid-template-columns: 1fr;
   align-items: center;
-  padding: 1rem 0;
+}
+
+.footer .contact p {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1rem;
+    padding: 1rem 0;
+  }
+
+  .footer .contact p {
+    margin-top: initial;
+  }
 }
 
 blockquote {
