@@ -1,0 +1,15 @@
+---
+layout: post
+title: "The Fantastic Four: First Steps (2025)"
+excerpt: "My review of The Fantastic Four: First Steps (2025)"
+category: movie_review
+
+---
+
+**Rating:** 2.5/5
+
+I can't believe we see the baby crowning
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/azzPZ5)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "May the Devil Take You (2018)"
+excerpt: "My review of May the Devil Take You (2018)"
+category: movie_review
+
+---
+
+**Rating:** 2.5/5
+
+This movie is fun... sometimes. It tries to have these character moments throughout without really building them off of anything. Like the main character misses her mom and spends a ton of time thinking about her, but it never coalesces with the plot or reveals anything, it’s just there. If you cut that out, you’ve still got 85-90 minutes of pretty outrageous horror
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/1rxGcb)

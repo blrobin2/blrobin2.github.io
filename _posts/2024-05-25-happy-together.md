@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Happy Together (1997)"
+excerpt: "My review of Happy Together (1997)"
+category: movie_review
+
+---
+
+**Rating:** 4/5
+
+<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 18/52 | Directed by Wong Kar-wai</a></b>
+
+<blockquote><i>You can act happy, but your voice will tell the truth</i></blockquote>Ho Po-Wing and Lai Yiu-Fai, two on-again, off-again boys, go on a trip to Argentina to try and start over. But things go from bad to worse, and the relationship becomes abusive. Can they address their jealousy? Can Po-Wing stop fucking other boys?
+
+The two have a toxic dynamic. It's a difficult watch because you want Po-Wing and Yiu-Fai to move on and figure out how to be happy apart, but they keep running back to each other, trying to start new without addressing any of their shit.
+
+But together or apart, they both are lonely people.
+
+For a 90s movie, it's impressive that no one is performing gendered roles or acting out any notable gay stereotypes. Although, look at that raw denim vest.
+
+The story is a little too flat for a good chunk of the movie, but it finds a way to explore different dynamics.
+
+Still, the performances are heartbreaking, and every frame is beautiful. Rich black and white —  mesmerizing color — Christopher Doyle doesn't miss.
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/6xxWjh)
