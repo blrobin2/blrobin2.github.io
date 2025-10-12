@@ -5,7 +5,7 @@ excerpt: "My review of Terrifier (2016)"
 category: movie_review
 ---
 
-**Rating:** 2.5/5
+**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 42/52 | One-Word Title Horror</a></b>
 
