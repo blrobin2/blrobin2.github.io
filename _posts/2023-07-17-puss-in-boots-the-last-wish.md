@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Puss in Boots: The Last Wish"
+excerpt: "My review of Puss in Boots: The Last Wish"
+category: movie_review
+
+---
+
+**Rating:** 2.5/5
+
+Puss in Boots is on his last life, so he chases after a fabled star capable of giving one wish. Along the way, he makes friends and enemies, and everyone’s motivations are challenged — except for Perrito, who already had everything he wanted
+
+Solid animation and the style flourishes were neat, but they felt unmotivated. I wish a love story did not take over the trajectory of the story, but it’s a kid's movie, so it’s allowed to take tired narrative exits
+
+I may have been more excited about this one if I had seen it in theaters, but today it rolled off me. I suspect its legacy will be, “Remember when a kid’s animation studio tried a little?”
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/4wRWZx)

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The Talking Car"
+excerpt: "My review of The Talking Car"
+category: movie_review
+
+---
+
+**Rating:** /5
+
+And that little boy in the short, Jimmy, grew up to be John Lasseter, sexual predator and director of <i>Cars</i>.
+
+* Let's stop bragging about how many boys we've seen.
+* Gentlemen, gentlemen, cool your radiators!
+* Do you promise not to marry, but to devote your life and chastity to us?
+* After Jimmy's visitation, his hair turned white, and he never spoke again.
+* Good morning, Jimmy. There are some… cars outside that want to see you?
+
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/9uvh0B)
