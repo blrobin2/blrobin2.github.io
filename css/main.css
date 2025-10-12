@@ -36,6 +36,14 @@ body {
   color: var(--black);
 }
 
+b {
+  font-weight: 700;
+}
+
+i {
+  font-weight: 300;
+}
+
 .site {
   max-width: 800px;
   margin: 10rem auto;
