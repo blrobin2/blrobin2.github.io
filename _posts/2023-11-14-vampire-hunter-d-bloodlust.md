@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Vampire Hunter D: Bloodlust (2000)"
 excerpt: "My review of Vampire Hunter D: Bloodlust (2000)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/59PNu3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 14/34 | Animated Films 2/2</b>
 
@@ -25,7 +27,3 @@ They go to the baron's castle in the last 30 minutes. It is bananas. Everything 
 The movie introduces bounty hunters and puts a price on vampire's heads. The bounty hunters are boring, and they get so much screen time. I'd prefer this be a short with the third act over any scenes with them.
 
 I laughed every time the bounty hunters called for Kyle. A noble, illustrious name.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/59PNu3)

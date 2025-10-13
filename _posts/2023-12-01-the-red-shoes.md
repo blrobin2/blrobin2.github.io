@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Red Shoes (1948)"
 excerpt: "My review of The Red Shoes (1948)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5fs6xh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a>
 
@@ -68,7 +70,3 @@ Magic. Pure magic. I adore this movie.
 * I love they don't translate French. It's not critical, and it puts you in Victoria's headspace.
 * This movie brilliantly uses close-ups. The image is always startling and powerful. 
 * Silent credits!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fs6xh)

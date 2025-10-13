@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "The Rat Catcher (2023)"
 excerpt: "My review of The Rat Catcher (2023)"
+rating: ""
+letterboxd_url: https://boxd.it/4W0RMV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 Richard Ayoade
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4W0RMV)

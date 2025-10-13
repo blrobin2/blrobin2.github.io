@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Town That Dreaded Sundown (1976)"
 excerpt: "My review of The Town That Dreaded Sundown (1976)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5aEKjt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 17/52 | 1970s regional US films 2/2</b>
 
@@ -25,7 +27,3 @@ The cinematography is routine, performing the desired function of feeling like w
 The murder scenes, though, are tense and genuinely terrifying.
 
 The movie doesn't offer much that justifies checking it out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5aEKjt)

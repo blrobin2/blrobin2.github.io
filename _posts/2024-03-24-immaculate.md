@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Immaculate (2024)"
 excerpt: "My review of Immaculate (2024)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/67m3KL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Cecilia migrates to Italy to join a convent after the one at home closed down. Though Cecilia isn't sure what God's plan for her is, she believes she's where she is supposed to be.
 
@@ -23,7 +25,3 @@ The score isn't surprising, full of hymn references and booming textures. A mont
 The crowd at my showing was vocal in the best way — audible gasps and appropriate laughs. That heightened the experience for sure.
 
 I didn't expect to like this movie as much as I did, but this is a lovingly constructed horror movie that is well worth seeing in theaters.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/67m3KL)

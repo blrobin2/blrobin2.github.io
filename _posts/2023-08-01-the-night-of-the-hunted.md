@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Night of the Hunted (1980)"
 excerpt: "My review of The Night of the Hunted (1980)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4CF26B
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 While driving one night, Robert finds Elysabeth walking out in the rain. He picks her up and learns she's running from something. Within minutes, she's forgotten why she's in the car in the first place
 
@@ -17,7 +19,3 @@ The movie explores the slow decay of time, the endless present — life without 
 As the movie progresses, we learn more about the why of the memory loss and that there are others like her, but the film devolves into long monologues to explain everything, leaving an uneven experience
 
 I like a lot about this movie when I think about it, but the experience of watching is pretty okay
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4CF26B)

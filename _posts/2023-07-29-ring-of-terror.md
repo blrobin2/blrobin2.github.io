@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ring of Terror (1961)"
 excerpt: "My review of Ring of Terror (1961)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4BsYkh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * Life DOES begin at 40
 * Hey, I'm Satan, this is what happens when someone does the hanky-panky before getting married
@@ -17,7 +19,3 @@ category: movie_review
 * SNL... Stupid n lonely?
 * theres a million bushes in this naked city, a million naked people behind them
 * wow, everyone's buried here: Jim Morrison, unknown soldier, the dead
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4BsYkh)

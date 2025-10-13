@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kiss Me Deadly (1955)"
 excerpt: "My review of Kiss Me Deadly (1955)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8XFkTR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 33/52 | Anthony Bourdain’s Top 10</a></b>
 
@@ -27,7 +29,3 @@ This film is where Quentin Tarantino got the glowing case image from—the quint
 It wasn't until 1997 that Glenn Erickson recovered the movie's original ending, dramatically changing its tone. If you watch the altered version, the film is bleak and hopeless. The original suggests a tiny sliver of hope, however small. <a href="https://web.archive.org/web/20071010115722/http://www.imagesjournal.com/issue03/features/kmd1.htm">Glenn Erickson's post about finding and restoring the ending</a> is pretty interesting.
 
 The movie has a terrific first act, a procedural second, and one of the best noir endings I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8XFkTR)

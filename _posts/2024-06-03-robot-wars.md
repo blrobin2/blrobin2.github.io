@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Robot Wars (1993)"
 excerpt: "My review of Robot Wars (1993)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6BrHFL
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Kinga and Max's financier, Dr Kabal, shows up and tells them they need to get a second host. This one is still Jonah, but they show Emily at the end.
 
@@ -23,7 +25,3 @@ Don Michael Paul is doing his best Mickey Rourke.
 * — Do we have enough time? — The plot can wait
 * That's gonna max out the floppy drive
 * Crampton Comes Alive
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6BrHFL)

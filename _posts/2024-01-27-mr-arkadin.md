@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mr. Arkadin (1955)"
 excerpt: "My review of Mr. Arkadin (1955)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5GTUKR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 15/52 | Film Noir</a></b>
 
@@ -45,7 +47,3 @@ Welles, whose fake beard and heavy makeup obscure any facial expression except a
 The heavily dubbed dialogue pushes into itself — I couldn't tell if it was a clumsy Howard Hawks send-up or what.
 
 Having only seen this version, I can't say what is Welles and what are reedits. Regardless, this isn't one I'd recommend.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5GTUKR)

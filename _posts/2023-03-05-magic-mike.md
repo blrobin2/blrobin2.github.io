@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Magic Mike (2012)"
 excerpt: "My review of Magic Mike (2012)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/3Wn5Iz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 The dance routines are pretty funny, especially the military/July 4th one
 
@@ -17,7 +19,3 @@ McConaughey says he won’t put his kids in school, that they’ll stay home and
 It takes about an hour before the actual movie emerges, and from there it’s a slow trickle down to the end
 
 It’s not bad, it just long for how little it does
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3Wn5Iz)

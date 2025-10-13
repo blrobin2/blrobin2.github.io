@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "12 Years a Slave (2013)"
 excerpt: "My review of 12 Years a Slave (2013)"
+rating: ""
+letterboxd_url: https://boxd.it/8SICg5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 47/52 | Screenplay adapted from a work of nonfiction</a></b>
 
@@ -26,7 +28,3 @@ For more in-depth analysis from people much smarter than me:
 * <a href="https://slate.com/culture/2014/01/movie-club-2013-12-years-a-slave-it-would-be-one-of-the-strangest-best-picture-winners.html">12 Years a Slave: It would be one of the strangest best picture winners in a long while</a>
 
 I've heard that <a href="https://boxd.it/8dl2">Gordon Parks's adaptation of Solomon Northrup's memoir</a> is more accurate and focused.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8SICg5)

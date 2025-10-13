@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood Bath (1966)"
 excerpt: "My review of Blood Bath (1966)"
+rating: ""
+letterboxd_url: https://boxd.it/5O2So1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 An artist named Antonio Sordi, sweating and breathless, pulls back the curtains on a painting of a woman named Melizza. He tells Melizza that he needs her again.
 
@@ -31,7 +33,3 @@ I watched the fifth version of this movie called <i>Track of the Vampire</i>, wh
 That this works at all is astounding — that it is a compelling surrealist nightmare is a miracle, and Stephanie Rothman is the miracle worker.
 
 What a great ending!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5O2So1)

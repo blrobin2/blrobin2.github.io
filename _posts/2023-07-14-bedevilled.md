@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bedevilled (2010)"
 excerpt: "My review of Bedevilled (2010)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4vMUoF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Hae-won (Ji Sung-won) is a bank teller forced on vacation after assaulting a coworker. She decides to vacation in Mudo, a Southern island where she grew up. There, her childhood friend Bok-nam (Seo Young-hee) welcomes her after years of ignored letters and messages, and Hae-won sees the terrible life Bok-nam has been forced to live
 
@@ -19,7 +21,3 @@ This film leans more into a classic melodrama tone, which may be a turn-off for 
 Seo Young-hee has a complicated role as someone who suffered abuse for years by the time we meet her, deeply traumatized and yet somehow carrying forward. At the point at which she breaks, she is holding onto not just revenge for the inciting incident, but for the years that led up to it and everyone who let it all happen. With so much to carry, she does an incredible job
 
 Overall, a surprising film that has a moral without ever preaching it to you
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4vMUoF)

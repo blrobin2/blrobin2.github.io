@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Strangler of the Swamp (1946)"
 excerpt: "My review of Strangler of the Swamp (1946)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/60Mfpp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 9/32 | film whose year ends in '6' 3/6 | decades 3/6 | 1940s</a></b>
 
@@ -27,7 +29,3 @@ The movie edges between Southern Gothic and melodrama. It doesn't do either well
 While the special effects aren't exactly groundbreaking, they're still effective. Despite its relatively small size, the set intricately renders a convincing swamp for the story.
 
 I wish more horror movies were an hour like this one. It's the perfect length for these smaller stories.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/60Mfpp)

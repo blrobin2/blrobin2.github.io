@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Orange County (2002)"
 excerpt: "My review of Orange County (2002)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3pq4Lh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Watched with Jake Kasdan and Mike White commentary
 
@@ -17,7 +19,3 @@ Speaking of which, it’s also hilariously nepotistic: directed by Lawrence Kasd
 Amazing music queues: from Brian Wilson to Jimmy Eat World, Cake to Crazy Town…. it really works for me
 
 I was an Orange County apologist when it first came out, and I’m so relieved that it still stands out in the torrent of teen comedies that came out around it. It’s not perfect, it’s not even great, but it does exactly what it wanted to do and is so cozy to revisit
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3pq4Lh)

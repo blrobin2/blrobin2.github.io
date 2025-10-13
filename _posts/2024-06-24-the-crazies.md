@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Crazies (1973)"
 excerpt: "My review of The Crazies (1973)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6JGOIJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail" title="Hooptober 3.0 | 23/31 | George Romero">Hooptober 3.0 | 23/31 | George Romero</a></b>
 
@@ -26,7 +28,3 @@ While we see the effects of Trixie on people, the military presence hits harder 
 At a house party, there is a guy in a green shirt and shaggy hair — if they didn't model him after Shaggy from Scooby-Doo...
 
 I saw someone call <i>Nightmare City</i> a boring version of this movie, but at least <i>Nightmare City</i> was fun. This one's a bit of a tedious downer. I appreciate what it's doing, and it is a better-made film — it just doesn't hit like it might have at one point.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6JGOIJ)

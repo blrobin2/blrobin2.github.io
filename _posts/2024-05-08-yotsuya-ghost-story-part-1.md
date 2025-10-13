@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yotsuya Ghost Story Part 1 (1949)"
 excerpt: "My review of Yotsuya Ghost Story Part 1 (1949)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6qKSPL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 7/31 | Countries 1/6 | Japan | Decades 2/6 | 40s</a></b>
 
@@ -35,7 +37,3 @@ I once broke up with a long-term partner to be with someone else, and the pain I
 Tamiya isn't heartless. When he realizes how painful a divorce would be for Oiwa, he wants to back out. But Naosuke cares too much about his plan to let Tamiya ruin it.
 
 The music swells are strangely reminiscent of <i>Mulholland Dr.</i>, which affected my emotional response.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6qKSPL)

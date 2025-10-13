@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jane B. by Agnès V. (1988)"
 excerpt: "My review of Jane B. by Agnès V. (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8STuNn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 28</a></b>
 
@@ -25,7 +27,3 @@ I'm glad <a href="https://boxd.it/8KRpPn">I watched <i>Kung Fu Master</i> before
 I adore that Birkin told Varda she wanted to act with Jean-Pierre Léaud, and Varda hired Léaud for one of the fake movie clips. 
 
 There are so many little brilliant moments—may we all get such loving portraits for our birthdays. Birkin and Varda can do anything.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8STuNn)

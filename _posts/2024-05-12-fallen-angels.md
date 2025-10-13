@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fallen Angels (1995)"
 excerpt: "My review of Fallen Angels (1995)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6sguQX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 9/52 | 1990s">Criterion Challenge 2022 | 9/52 | 1990s</a></b>
 
@@ -35,7 +37,3 @@ The unnamed partner is frustrating for a couple of reasons. For one, it makes wr
 It also reflects why <i>Chunking Express</i> works in a way that this movie doesn't. This film does not care about the emotional state of its characters beyond the alienation and the love story. It feels like a B-side.
 
 Still, Wong Kar-wai's B-sides are captivating pieces of film with plenty to enjoy.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sguQX)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Manster (1959)"
 excerpt: "My review of The Manster (1959)"
+rating: ""
+letterboxd_url: https://boxd.it/6g0Qv3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 11/32 | Before 1970 2/6</a></b>
 
@@ -43,7 +45,3 @@ This movie is hysterical. Every moment’s absurdity forgives script and perform
 * Woah, he became two entities!
 * The fake volcano erupts in the background.
 * Whelp, there goes Tara. So, I guess he chooses Linda after all.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6g0Qv3)

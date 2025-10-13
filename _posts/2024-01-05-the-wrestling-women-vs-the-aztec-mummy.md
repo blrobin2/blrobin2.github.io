@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wrestling Women vs. the Aztec Mummy (1964)"
 excerpt: "My review of The Wrestling Women vs. the Aztec Mummy (1964)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5uMOY7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico">Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico</a></b>
 
@@ -43,7 +45,3 @@ It's not that good, but it's great for a laugh, even if it stops making sense by
 * The mummy can take any animal form. So, it takes a bat shape. It also sleeps during the day and attacks at night.
 * Charlotte keeps passing out from fright
 * The wrestling women never wrestle the Aztec mummy :(
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5uMOY7)

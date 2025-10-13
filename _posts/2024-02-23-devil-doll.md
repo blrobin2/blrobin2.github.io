@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Devil Doll (1964)"
 excerpt: "My review of Devil Doll (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5TBsNJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <i>Movie CW // Sexual Assault, Abuse, Misogyny
 MST3K CW // Misogyny, Mental Illness, Transphobia, Fat phobia</i>
@@ -21,7 +23,3 @@ An extended take on The Ventriloquist's Dummy from <i>Dead of Night</i>, which i
 * I think I’ll have a vodka sandwich
 * Why am I not smoking right now?
 * Look familiar Mike — girls leaving you for ventriloquists?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5TBsNJ)

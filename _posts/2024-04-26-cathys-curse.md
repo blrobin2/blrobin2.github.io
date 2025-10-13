@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cathy's Curse (1977)"
 excerpt: "My review of Cathy's Curse (1977)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6lvJWD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 50/52 | Best of the Worst</a></b>
 
@@ -45,7 +47,3 @@ This movie isn't so bad that it's good, but genre enthusiasts will appreciate se
 * Leeches in the bathtub!
 * "You want to go upstairs because you're an old man. Old people like seeing other people die."
 * Paul successfully opens the door, which he isn't supposed to do, so he pulls it back closed and barges at it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6lvJWD)

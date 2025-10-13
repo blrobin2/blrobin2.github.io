@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Unknown (1927)"
 excerpt: "My review of The Unknown (1927)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5dXzul
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 30/34 | Lon Chaney</b>
 
@@ -31,7 +33,3 @@ Alonzo mistakenly believes that this deformity grants him access to a world he w
 Lon Chaney doesn't transform himself with makeup in this role. As a result, we get a much more expressive performance from him.
 
 I could only find the 49-minute version. The full version only became available this year — nearly a century after its original release. The Cinémathèque Française had a copy for years without realizing it. They had hundreds of French film canisters labeled "Unknown."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5dXzul)

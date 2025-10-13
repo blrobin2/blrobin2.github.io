@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th Part VI: Jason Lives (1986)"
 excerpt: "My review of Friday the 13th Part VI: Jason Lives (1986)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6pZ9lH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 5/31 | Sequels 5/6</a></b>
 
@@ -35,7 +37,3 @@ If the humor was consistent, I might have enjoyed this more. But it's tonally al
 Still, this is an improvement from its predecessor and is consistently entertaining, even if it doesn't work for me. It might have the most coherent means of stopping Jason that any of the movies have had thus far.
 
 By treating Jason like a superhuman entity, the filmmakers follow in <i>Halloween's</i> footsteps. As long as they avoid making the movies too lore-heavy, I can get on board.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6pZ9lH)

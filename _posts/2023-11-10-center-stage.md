@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Center Stage (1991)"
 excerpt: "My review of Center Stage (1991)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/58w5jX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 11/52 | Criterion Double Feature — Film 1</b>
 
@@ -33,7 +35,3 @@ This film contains some of the most beautiful scenes I’ve seen.
 Maggie Cheung is incredible! Her performance broke my heart.
 
 A quiet meditation on a Chinese movie icon. I’m glad this exists so I can know about Ruan Lingyu.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58w5jX)

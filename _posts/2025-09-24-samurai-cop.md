@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Samurai Cop (1991)"
 excerpt: "My review of Samurai Cop (1991)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/b9PMG1
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * When a samurai illegally parks in a loading zone between the hours of 8 AM and 6 PM, Samurai Cop is there.
 * Live Free or Die Z'Dar!
@@ -20,7 +22,3 @@ category: movie_review
 * Getaway in an untended vehicle? This man knows his Sun Tzu.
 * Oh me? Just fiddling with a gun in front of this mom curtain.
 * And now my elbow crease is properly lubricated with blood and sinew.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b9PMG1)

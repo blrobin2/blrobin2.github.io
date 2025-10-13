@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bermuda Triangle (1978)"
 excerpt: "My review of The Bermuda Triangle (1978)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9ajOpb
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 It isn't a René Cardona Jr. movie if the filmmakers don't kill an animal onscreen. What extortion racket is Hugo Stiglitz running to star in so man Cardona movies? Why the hell is this movie nearly 2 hours long?! There's an okay movie buried in the deluge of underwater footage.
 
@@ -29,8 +31,3 @@ This Rifftrax is one of the funnier they've done! Still, as always, plenty of ra
 * They haven't cut to a random animal being slaughtered in quite some time now, and I'm worried the film has lost its way.
 * Mayday 39 times in a row!
 * Their only hope now is to find a deserted island and devour the two Far Side characters currently inhabiting it.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ajOpb)

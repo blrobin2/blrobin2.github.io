@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Nightmare on Elm Street 4: The Dream Master (1988)"
 excerpt: "My review of A Nightmare on Elm Street 4: The Dream Master (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Tyr0d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>When deep sleep falleth on men, fear came upon me, and trembling, which made all my bones to shake
 </i><i>— Job 4:13-14</i></blockquote>Despite (spoiler alert) Freddy dying in the 3rd movie, this movie keeps with the logic of the franchise and says, "No ❤️"
@@ -34,7 +36,3 @@ This one has some of the wildest effects and greatest set pieces so far:
 This is the movie that turns Freddy Krueger into the catchphrase, "bitch"-obsessed moron that haunts pop culture. I like the creativity of the effects and sets, but I despise the Krueger character
 
 I should rate this lower, but the creative effects are unparalleled in any of the mainstream slasher franchises
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Tyr0d)

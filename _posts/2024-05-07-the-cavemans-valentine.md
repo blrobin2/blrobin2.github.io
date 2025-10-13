@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Caveman's Valentine (2001)"
 excerpt: "My review of The Caveman's Valentine (2001)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6qv0Yz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 19/52 | Directed by Kasi Lemmons</a></b>
 
@@ -29,7 +31,3 @@ It's such a strange blend of genres: the brilliant unhoused musician who gets an
 It also wants to talk about the relationship between art and suffering. For Romulus, that suffering comes from within. With Leppenraub, he creates images of suffering, real or imagined.
 
 By design, the movie doesn't fit together — it shuffles through troupes in as mixed up way as its protagonist. But I found the film so compelling, not because the plot kept me on the edge of my seat, but because Romulus's path is unpredictable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6qv0Yz)

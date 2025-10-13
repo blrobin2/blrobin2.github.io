@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Colossus and the Headhunters (1963)"
 excerpt: "My review of Colossus and the Headhunters (1963)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5khuTJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * Today's forecast is two boulders mixed with volcanic ash
 * Land! It was behind the sail the whole time
@@ -19,7 +21,3 @@ category: movie_review
 * A steel piñata?! That could take hours!
 * There can be only 300!
 * Kids, no weapons on the waterbed
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5khuTJ)

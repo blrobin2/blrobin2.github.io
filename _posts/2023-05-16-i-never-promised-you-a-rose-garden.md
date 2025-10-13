@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Never Promised You a Rose Garden (1977)"
 excerpt: "My review of I Never Promised You a Rose Garden (1977)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4fI3eb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 After a suicide attempt, Kathleen Quinlan, playing 16-year-old Deborah, is admitted to an institution. Straight away, we experience the whispers that are in her head — “traitor”, “secrets” — and a person in stereotypical tribal clothing and face paint that does not appear to be real
 
@@ -23,7 +25,3 @@ Overall, not a stellar movie, but it found moments of warmth that helped it thro
 <b>Stray Thoughts</b>
 * Dennis Quaid and Clint Howard show up in the movie's last five minutes? It’s not a spoiler, they’re just playing baseball
 * Nice homage to <i>Christina’s World</i>, but a tad on the nose, yeah?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4fI3eb)

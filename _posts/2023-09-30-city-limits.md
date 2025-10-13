@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "City Limits (1984)"
 excerpt: "My review of City Limits (1984)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4URMfv
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Mike Nelson as Morrissey is iconic. I'm certain I've seen this even though I don't remember a single frame
 
@@ -26,7 +28,3 @@ Robbie Benson moved to my hometown while I lived there, and I remember the boome
 * got that nitrous for you, Mr. Earl Jones
 * something wacky this way cones
 * Raymond Carver! If we don't save him, minimalism is doomed!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4URMfv)

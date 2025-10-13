@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night of the Blood Beast (1958)"
 excerpt: "My review of Night of the Blood Beast (1958)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5BnFFj
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The final mini-season on Comedy Central! We get a new intro since TV's Frank is gone, and I guess it's only for six episodes. The intro feels empty without Frank.
 
@@ -31,7 +33,3 @@ Everyone's laughing at each other's riffs a lot more. I think it helps create a 
 * Ah, my head! My achy breaky head!
 * I'm hiding in here because the dogs keep burying me and digging me up
 * He hates that rock!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5BnFFj)

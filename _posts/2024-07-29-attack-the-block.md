@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Attack the Block (2011)"
 excerpt: "My review of Attack the Block (2011)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6YQZiR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 27/31 | Monster 2/5">Hooptober 2.0 | 27/31 | Monster 2/5</a></b>
 
@@ -31,7 +33,3 @@ Jodie Whittaker is stellar as well. Her role evolves throughout the movie, from 
 At some points, the film feels like it touches on gentrification and the system that turns kids into drug dealers in the first place. But it never sets up anything firm enough for it to be a developed theme.
 
 It takes until the final five minutes for it all to come together. This movie is outstanding and entertaining. It's worth watching, even if you're not a genre fan.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6YQZiR)

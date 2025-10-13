@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Fireworks (1947)"
 excerpt: "My review of Fireworks (1947)"
+rating: ""
+letterboxd_url: https://boxd.it/6rqzM3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 Version with narration, no blue tint
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6rqzM3)

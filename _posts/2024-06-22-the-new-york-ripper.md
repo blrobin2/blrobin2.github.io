@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The New York Ripper (1982)"
 excerpt: "My review of The New York Ripper (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6IIIUT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 21/31 | Lucio Fulci</a></b>
 
@@ -45,7 +47,3 @@ That ending, too…
 * A dream sequence?? Get real.
 * Fay’s nuclear physicist boyfriend, Peter, is too hot.
 * Oh… oh no.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6IIIUT)

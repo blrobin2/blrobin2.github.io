@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Toys Are Not for Children (1972)"
 excerpt: "My review of Toys Are Not for Children (1972)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4fGgOd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Jamie, an adult woman, lives with her mother and still gets toys yearly from her estranged father. As a result, she develops an unhealthy fixation on toys as her one connection to her father
 
@@ -21,7 +23,3 @@ The movie effectively uses nonlinear flashbacks and juxtaposition to show Jamie�
 Marcia Forbes is well-cast as the adult yet childlike Jamie, who always feels like a child when onscreen. This movie is her only role before retiring from acting, and I can’t say I blame her
 
 Overall, it’s a pretty fucked up movie with broken characters and no happy endings in mind — maybe one of the most upsetting endings I’ve seen. It’s just surprisingly successful filmmaking for a roughie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4fGgOd)

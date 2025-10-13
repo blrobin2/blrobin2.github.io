@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Brutalist (2024)"
 excerpt: "My review of The Brutalist (2024)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8uEYGv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 When I saw <i>Vox Lux</i>, I remember how exciting the movie felt initially. At one point, the movie suddenly drained of all life, and it was such an excruciating experience. Mercifully, the film ended in under 2 hours.
 
@@ -21,7 +23,3 @@ Adrien Brody will get the most praise, but Felicity Jones showed up in a way I'v
 I also gotta give a shoutout to Joe Alwyn. Between this and <i>Kinds of Kindness</i>, he has committed 110% to portraying shitty dudes.
 
 Lots of folks love this one. I didn't hate it, but it won't be one I return to.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8uEYGv)

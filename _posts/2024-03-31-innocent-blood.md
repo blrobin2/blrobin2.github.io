@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Innocent Blood (1992)"
 excerpt: "My review of Innocent Blood (1992)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6aGNBR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 32/32 | Bonus</a></b>
 
@@ -27,7 +29,3 @@ Landis wrote Marie as a sex object, but Anne Parillaud is a better actor than La
 That doesn't stop the movie from designing every shot to be as leering as possible. Even after Landis removed 20 minutes of "sexual content," Parillaud is consistently nude, dropping her panties or showering. Creeps (including the love interest) try to sneak a peak.
 
 I know I'm in the minority here — many horror fans love this movie. I needed something to make up the difference for what the experience lacks — gonzo gore, car chases, anything. This movie lacks most of what makes one watchable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6aGNBR)

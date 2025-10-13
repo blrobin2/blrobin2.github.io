@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Angels' Brigade (1979)"
 excerpt: "My review of Angels' Brigade (1979)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4q93of
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * So these were the Carter years…
 * Sound by Hannah-Barbera
@@ -19,7 +21,3 @@ category: movie_review
 * (Jack Pallance Voice) Look, just take a Watchtower and read it!
 
 Several <i>MST3K</i> episodes have aged poorly, but the racism and misogyny in this one were particularly egregious
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4q93of)

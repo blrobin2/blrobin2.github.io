@@ -263,3 +263,34 @@ blockquote {
   border-left: 0.5rem solid var(--venetian-red);
   padding-left: 1rem;
 }
+
+.rating-header {
+  position: relative;
+}
+
+.rating-header .meta {
+  text-align: left;
+}
+
+.rating {
+  display: inline-block;
+  position: absolute;
+  bottom: -0.5rem;
+  right: 0.5rem;
+  border: 0.5rem solid var(--black);
+  border-radius: 100%;
+  padding: 1.75rem 1.5rem;
+  background: white;
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 1.728rem;
+  line-height: 1;
+}
+
+@media (min-width: 768px) {
+  .rating {
+    bottom: -1rem;
+    font-size: 2.488rem;
+  }
+}

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santa Claus (1959)"
 excerpt: "My review of Santa Claus (1959)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5gUr2f
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 <b>The Devil and Santa are Raging Inside Me</b>
 
@@ -22,7 +24,3 @@ I remember loving how cuckoo this movie is. Another instance where I saw the mov
 * Santa's tendrils reach far and wide
 * — Watch out Santa, they'll see you! — That's the last thing they'll ever see
 * In the name of Santa, Merlin, and the elves. Amen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5gUr2f)

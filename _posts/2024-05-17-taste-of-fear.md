@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Taste of Fear (1961)"
 excerpt: "My review of Taste of Fear (1961)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6u9E6z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 16/31 | Before 1970 4/6</a></b>
 
@@ -31,7 +33,3 @@ Ann Todd is good, but you can tell she thinks she's schlepping it by being in th
 Despite having little to do, Christopher Lee never disappoints.
 
 What a satisfying finale! Great stuff.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6u9E6z)

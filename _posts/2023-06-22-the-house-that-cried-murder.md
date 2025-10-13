@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House That Cried Murder (1973)"
 excerpt: "My review of The House That Cried Murder (1973)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4pqrXN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Barbara seduces her father to allow her to build her dream home “For the first time in my useless life, I finally accomplished something!” (Ugh, brag!) She and David are to be married and move into the house together
 
@@ -28,7 +30,3 @@ I did not expect to enjoy this as much as I did, but I had a blast
 * “I’m a deeply committed atheist!” a wedding guest says apropos of nothing 
 * I love the dream sequence where he’s sweaty and walking around her house
 * How do you one-up a horsehead in bed? Why, a rooster head, of course
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4pqrXN)

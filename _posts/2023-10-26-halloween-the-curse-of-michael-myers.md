@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween: The Curse of Michael Myers (1995)"
 excerpt: "My review of Halloween: The Curse of Michael Myers (1995)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/53mcz9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Six years ago, Michael and his niece Jamie disappeared on Halloween. Some thought they died, but others thought a secret group protected them.
 
@@ -27,7 +29,3 @@ I only watched this to complete the original movies.
 The Curse of Thorn is a runic symbol based on the constellation Thorn, appearing during Samhain (the druidic precursor to Halloween). To prevent plagues and curses from affecting the entire tribe, one family would bear the curse. The curse drives the bearer to kill their entire family, granting them inhuman strength and immunity from death. They placed the curse on the family's child, making them pure evil.
 
 Why does Michael kill others if the cursed child is only supposed to kill his family? Maybe it’s anyone who stands in his way, but it ends up being anyone he encounters. Sort of defeats the purpose of cursing only one family to preserve the others.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53mcz9)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santo vs. the Zombies (1962)"
 excerpt: "My review of Santo vs. the Zombies (1962)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/bfETnR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 3/31 | Countries 2/6 | Mexico | Decades 2/9 | 1960s | Zombie 2/5</a></b>
 
@@ -25,7 +27,3 @@ The wrestling matches seldom have anything to do with the plot. The matches seem
 I've seen several Santo and Santo-adjacent movies at this point. Without the constant prattling of the MST3K crew, I can actually follow the vague plot of this one. It helps that this is the first movie where Santo officially stars, so the movie makes an effort to introduce the characters to the audience. It's still quite boring and cheap, but I understand its appeal, especially considering the time it was released.
 
 I think my favorite moments are the shots with cars driving at night, because they feel the most noir.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bfETnR)

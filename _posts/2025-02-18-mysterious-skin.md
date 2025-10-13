@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mysterious Skin (2004)"
 excerpt: "My review of Mysterious Skin (2004)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/8SfxUr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 46/52 | Kyle Turner's The Queer Film Guide: 100 Great Movies That Tell LGBTQIA+ Stories</a></b>
 
@@ -33,7 +35,3 @@ Everyone is sooo good in this! I am always happy to see Michelle Trachtenberg an
 I love Brian and Eric's friendship!!
 
 Jesus Christ, this is traumatic. But also really, really cathartic.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8SfxUr)

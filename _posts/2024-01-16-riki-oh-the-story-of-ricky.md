@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Riki-Oh: The Story of Ricky (1991)"
 excerpt: "My review of Riki-Oh: The Story of Ricky (1991)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5BFvMl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 9/52 | CAT III</a></b>
 
@@ -46,7 +48,3 @@ Still, this movie is a landmark in live-action manga adaptation and a wild time.
 * Wait, why did the assistant warden explode? I guess it's whatever the warden is shooting at them
 * The warden taking a second form was unexpected
 * Punching down the walls of the prison — fucking iconic
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5BFvMl)

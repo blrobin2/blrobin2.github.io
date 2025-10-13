@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Dangerous Method (2011)"
 excerpt: "My review of A Dangerous Method (2011)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5SCBdX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 26/52 | Cronenberg</a></b>
 
@@ -31,7 +33,3 @@ Keira Knightley makes some incomprehensible acting choices — not bad, just biz
 David Cronenberg has been vocally anti-therapy for most of his career, considering himself above the need for it. I love some of Cronenberg's movies, but when he moves too far from his delusional world, Cronenberg fumbles more than succeeds.
 
 Here, he proves himself capable of such austere restraint that no perspective or personality makes it into Christopher Hampton's bland, overwritten script.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5SCBdX)

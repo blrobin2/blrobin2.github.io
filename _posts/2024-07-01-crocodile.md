@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Crocodile (2000)"
 excerpt: "My review of Crocodile (2000)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6MinDV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 31/31 | Tobe Hooper</a></b>
 
@@ -25,7 +27,3 @@ We also spend so much time with relationship drama! I guess it's supposed to get
 The kills are okay. A couple are really funny and cartoony. One bro bends down on a small dock to puke in the water. Flat Dog takes a single bite, eating the guy and taking out a croc-shaped hole in the dock.
 
 What has helped Hooper's late career films stand out is their weirdness. <i>The Mangler</i>, <i>Toolbox Murders</i>, and <i>Mortuary</i> aren't outstanding, but they're nutty as hell. This movie hints at a similar vibe, especially with the greasy swamp dudes we meet later in the film. Also, the movie builds some legitimate tension and ups the stakes in amusing ways. It's just also silly and fizzles out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6MinDV)

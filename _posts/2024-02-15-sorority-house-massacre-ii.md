@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sorority House Massacre II (1990)"
 excerpt: "My review of Sorority House Massacre II (1990)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5PG57J
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 14/32 | 2nd film in franchise 6/7 | Decades 5/6 | 1990s</a></b>
 
@@ -45,7 +47,3 @@ The movie knows exactly what it is, so it's easy-going and fun. It loses steam o
 * Linda's "What are you talking about??" is great.
 * Classic cops do nothing to solve the problem.
 * Orville is unkillable, good lord.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5PG57J)

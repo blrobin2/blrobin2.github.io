@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bad Dreams (1988)"
 excerpt: "My review of Bad Dreams (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4UPirR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 In the 1970s, Harris (Richard Lynch) brings Cynthia (Colbie Smulders prototype Jennifer Rubin) into his cult along with over 20 others to partake in a mass suicide — "the final break with the old world.” He douses everyone, one by one, in gasoline and lights a fire, causing the whole house to explode. When the fire department arrives, they find one survivor: Cynthia. They rush her to the hospital, where she remains in a coma for 13 years
 
@@ -19,7 +21,3 @@ No surprise, the representation of BPD in this movie is inaccurate at best — a
 The special effects are hit or miss — the fire stunts are well-executed, and some of the smaller, “stabbier” scenes are convincing. Richard Lynch’s post-fire makeup is probably the weakest — sort of ironic (is it?), considering Richard Lynch lit himself on fire while on LSD in the 70s
 
 Overall, it doesn’t do much for me. It’s competently pieced together, but I wouldn’t go out of my way to watch this, though
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4UPirR)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Attack of the Puppet People (1958)"
 excerpt: "My review of Attack of the Puppet People (1958)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/a196WR
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I can't believe they watch <i>The Amazing Colossal Man</i> at the drive-in and stop talking to watch scenes of that movie. No puppet people attack in this movie.
 
@@ -18,8 +20,3 @@ Kids just love their John Agar dolls!
 Stay away from Buzz Lightyear. He's mine.
 Ah, a briefcase full of shrunken slaves. My life is going exactly like I thought it would!
 More like, "Mild attack of the former puppet people?"
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a196WR)

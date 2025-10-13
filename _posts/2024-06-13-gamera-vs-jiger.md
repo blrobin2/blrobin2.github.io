@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera vs. Jiger (1970)"
 excerpt: "My review of Gamera vs. Jiger (1970)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6FnVAD
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Jonah episode. Pearl calls Kinga "bittersweetheart." I dig it. They laughed at each other's jokes a lot more this episode.
 
@@ -22,7 +24,3 @@ Jonah episode. Pearl calls Kinga "bittersweetheart." I dig it. They laughed at e
 * Gamera's dead, and loving it
 * It sounds like a nest of wild Bjorks
 * I will kill again!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6FnVAD)

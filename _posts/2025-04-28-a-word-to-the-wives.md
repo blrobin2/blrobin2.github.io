@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Word to the Wives... (1955)"
 excerpt: "My review of A Word to the Wives... (1955)"
+rating: ""
+letterboxd_url: https://boxd.it/9xEmt9
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>From Rifftrax Live: MST3K Reunion</b>
 
@@ -17,7 +19,3 @@ Mary Jo Pehl and Bridgett Jones Nelson riffing
 * Hey Jimmy, how much of this baking soda do you want for dinner?
 * Fury — the dad emotion!
 * By the way, did you know that this kitchen won an award from the Woman's Home Companion? The Sylvia Plath award!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xEmt9)

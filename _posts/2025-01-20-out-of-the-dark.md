@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Out of the Dark (1988)"
 excerpt: "My review of Out of the Dark (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8xHUIZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 10</a></b>
 
@@ -25,7 +27,3 @@ The movie is also funnier than the material suggests — not a laugh riot or any
 The filmmaking is a little clumsy. The cinematography is solid, although it has some hammy stylistic choices. The pacing drags, even when things are supposed to be exciting.
 
 Still, this movie is quite well done, even if it doesn't do anything too remarkable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8xHUIZ)

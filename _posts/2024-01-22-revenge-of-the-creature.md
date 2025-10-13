@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Revenge of the Creature (1955)"
 excerpt: "My review of Revenge of the Creature (1955)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5EqyJL
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Season 8 and first Sci-Fi episode! 
 
@@ -28,7 +30,3 @@ In the credits, they abandon the bit where Cambot is looking in a mirror so his 
 * Helen, did you kill a dog to lure me to your hotel room?
 * Here, Chris the dog! Christopher J Dog, you get back here!
 * It's Deluth, baby
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5EqyJL)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Olympia Part One: Festival of the Nations (1938)"
 excerpt: "My review of Olympia Part One: Festival of the Nations (1938)"
+rating: ""
+letterboxd_url: https://boxd.it/6sApNT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 20/52 | 100 Years of Olympic Films</a></b>
 
@@ -33,7 +35,3 @@ Much of the initial acclaim this movie received came before the world knew about
 Watch this with historical context and healthy skepticism. You can appreciate it without endorsing its propaganda, especially when it's such a remarkable failure at being propaganda.
 
 I have no idea how to assign a star rating to this.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sApNT)

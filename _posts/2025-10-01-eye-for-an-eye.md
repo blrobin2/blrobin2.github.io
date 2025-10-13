@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eye for an Eye (1996)"
 excerpt: "My review of Eye for an Eye (1996)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/be1rCx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 20/52 | Cynthia Rothrock</a></b>
 
@@ -43,7 +45,3 @@ So, yes, I didn't mind watching this movie once I was able to put it in its appr
 * Finally, a movie set in 1996 featuring the Macarena.
 * To demonstrate just how evil Doody is, we see him pour hot coffee on a dog for funsies. He also swerves around in traffic just to cause chaos.
 * As we all know, when you learn self-defense, you become a top in bed.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/be1rCx)

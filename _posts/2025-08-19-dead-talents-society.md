@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dead Talents Society (2024)"
 excerpt: "My review of Dead Talents Society (2024)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/aMiexB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 In the afterlife, if people forget you, you disappear. So, ghosts haunt the living to stay on people's minds. The dark humor is reminiscent of the original <i>Beetlejuice</i> (without the rape jokes), complete with arbitrary afterlife bureaucracy.
 
@@ -19,7 +21,3 @@ The film has plenty of references for horror and reality TV fans, including a pa
 The film is charming, with a fun cast and some solid jokes throughout. Through its unnamed lead, played by Gingle Wang, it struck an emotional place for me. Our lead doesn't have much talent, at least in the ways required for external validation. Her journey in the film is discovering where her value lies and what makes her afterlife worth not disappearing for.
 
 Overall, I wasn't expecting to enjoy this as much as I did, but this could easily be a comfort movie I return to in the future.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aMiexB)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Killer Klowns from Outer Space (1988)"
 excerpt: "My review of Killer Klowns from Outer Space (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4KrW0t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>Don't worry, Dave — all we want to do is kill you</i></blockquote>It's about clowns from space that kill people, believe it or not
 
@@ -23,7 +25,3 @@ Story and filmmaking, this gets groan-worthy at times, but by committing to the 
 * The comically inept cop saying he'd shoot all the kids if he could — "to hell with them all!" — the most realistic depiction of a cop
 * I love that the popcorn kernels are baby klowns
 * There has to be a darker ending somewhere
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KrW0t)

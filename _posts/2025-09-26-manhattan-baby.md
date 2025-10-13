@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Manhattan Baby (1982)"
 excerpt: "My review of Manhattan Baby (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/bb5sip
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 18/52 | Splatter</a></b>
 
@@ -32,7 +34,3 @@ Fulci followed up this movie with <a href="https://boxd.it/aEde0F">Conquest</a>,
 * They sure were impatient with that Polaroid!
 * The actor who plays Tommy looks like baby Klaus Kinski
 * This score, as always, rules.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bb5sip)

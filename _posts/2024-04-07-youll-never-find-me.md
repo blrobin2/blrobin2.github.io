@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "You'll Never Find Me (2023)"
 excerpt: "My review of You'll Never Find Me (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6e8Zsb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Patrick closes his eyes. In his hand is a vial. He sips from his mug as thunder strikes and rain pours. Along the roof of his trailer, the rain crawls.
 
@@ -23,7 +25,3 @@ Unfortunately, the movie's ending is obvious by about 20 minutes in.
 That's not a huge problem — how it happens is what's most interesting anyway.
 
 And it stays interesting for a while. But by the time the third act rolls around, it's a bit of a grind.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6e8Zsb)

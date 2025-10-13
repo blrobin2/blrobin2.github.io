@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Caged Heat (1974)"
 excerpt: "My review of Caged Heat (1974)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6bLns9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 14/52 | Psychotronic Encyclopedia</a></b>
 
@@ -29,7 +31,3 @@ Some scenes are playfully exaggerated, hinting at satire or genre play. For exam
 However, Demme’s inexperience may explain the unusual elements rather than any deliberate commentary. I’m a bit of a dipshit — you could convince me either way.
 
 Still, the film’s undeniable weirdness sets it apart.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6bLns9)

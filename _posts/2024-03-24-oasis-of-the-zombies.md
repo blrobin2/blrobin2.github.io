@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Oasis of the Zombies (1982)"
 excerpt: "My review of Oasis of the Zombies (1982)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/67oQBn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access">Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access</a></b>
 
@@ -23,7 +25,3 @@ Also, the filmmakers shot on location. It may be uninspired location footage, bu
 I would be grading this movie on potential more than what it is if I gave it a favorable rating — it never comes together into a coherent story and squanders most of its runtime.
 
 If anything, this movie proves that I can't pigeonhole Franco.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/67oQBn)

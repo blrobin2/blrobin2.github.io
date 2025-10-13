@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Housemaid (1960)"
 excerpt: "My review of The Housemaid (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5RINn9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 8/52 | Martin Scorsese's World Cinema Project</a></b>
 
@@ -31,7 +33,3 @@ If you don't like melodrama, this movie won't do much for you. But if you can em
 This is the prototype for the erotic thriller.
 
 THE ENDING! I died
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5RINn9)

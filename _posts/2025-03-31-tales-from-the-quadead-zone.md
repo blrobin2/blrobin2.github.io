@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tales from the Quadead Zone (1987)"
 excerpt: "My review of Tales from the Quadead Zone (1987)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9h4qZx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 17/52 | Shot on Video</a></b>
 
@@ -21,7 +23,3 @@ I love the hand-drawn credits, the cheap synth score, and the sound effects. The
 While the stories don't make much sense, I admire Chester Novell Turner's ambitions and the way he realized them. The movie really pops off when we step out of the stories, but I won't spoil it. I genuinely love the ending.
 
 This movie won't be to everyone's tastes, but if you can get past the Z-grade production value, you might appreciate what this movie is doing.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9h4qZx)

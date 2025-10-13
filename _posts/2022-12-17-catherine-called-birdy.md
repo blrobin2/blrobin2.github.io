@@ -1,17 +1,15 @@
 ---
-layout: post
+layout: review
 title: "Catherine Called Birdy (2022)"
 excerpt: "My review of Catherine Called Birdy (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/3xCO5x
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** 3/5
-
 Sorry Swifties, Joe Alwyn is totally fine at acting
 
 Andrew Scott is my husband
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3xCO5x)

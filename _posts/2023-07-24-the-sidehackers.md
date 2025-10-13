@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sidehackers (1969)"
 excerpt: "My review of The Sidehackers (1969)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4zloaD
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 This is the episode where Dr Forester and TV’s Frank coin the term “good bad movie”
 
@@ -18,7 +20,3 @@ This is the episode where Dr Forester and TV’s Frank coin the term “good bad
 * Why didn’t you say tires, we love tires!
 * Yep, more dead people. Funny, huh?
 * I guess there’s not gonna be any more side hacking. Maybe… sidehack coffin? Side coffin?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4zloaD)

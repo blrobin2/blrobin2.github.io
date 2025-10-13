@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Evil Toons (1992)"
 excerpt: "My review of Evil Toons (1992)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5uSwyx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 2/52 | Fred Olen Ray</a></b>
 
@@ -45,7 +47,3 @@ Still, the movie is surprisingly funny and fun at times. It's dumb as hell and h
 * — "Is it worth a mere 100 bucks to be implicated in a murder?" — "Yes!"
 * When Megan screams, her ponytail stands up on end.
 * David Carradine has never been more useless
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5uSwyx)

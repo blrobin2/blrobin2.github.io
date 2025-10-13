@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Unearthly (1957)"
 excerpt: "My review of The Unearthly (1957)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4RxJOP
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * music by the edger allan poe marching band
 * [whispering] kiss me, I'm Irish
@@ -18,7 +20,3 @@ category: movie_review
 * life's funny, huh?
 
 You don't see any of the monsters from the poster until the last five minutes and it's for a minute, maybe two
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4RxJOP)

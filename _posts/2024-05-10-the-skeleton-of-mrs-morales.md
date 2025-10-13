@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Skeleton of Mrs. Morales (1960)"
 excerpt: "My review of The Skeleton of Mrs. Morales (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6rtVFf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 9/31 | Countries 3/6 | Mexico | Decades 4/6 | 60s</a></b>
 
@@ -27,7 +29,3 @@ The movie is darkly comic — one of my favorite scenes is when Gloria leaves, a
 The movie's pacing isn't great, and historical sexism is inevitable and disappointing, but the film is consistently entertaining.
 
 The ending is perfect!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6rtVFf)

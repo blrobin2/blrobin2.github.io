@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Thelma & Louise (1991)"
 excerpt: "My review of Thelma & Louise (1991)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/497y9D
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Felt like it was time to watch Ridley Scott’s magnum opus — and Hans Zimmer’s most well-renowned s<i>core after Cool Runnings</i>.
 
@@ -33,7 +35,3 @@ Of course, one of the most iconic endings of all time. Ebert wanted to see their
 You know, I was kind of facetious earlier about this being Ridley Scott’s best, but the only movie of his I like more is <i>Alien</i>. I’d much rather he make stuff like this instead of the shit he’s been churning out for the past 20 years.
 
 But the music sucks.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/497y9D)

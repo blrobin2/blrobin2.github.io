@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Diamonds Are Forever (1971)"
 excerpt: "My review of Diamonds Are Forever (1971)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5pfDQ1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a>
 
@@ -26,7 +28,3 @@ Stray Thoughts/Spoilers:</b>
 * Blofeld in drag
 * If they could have just blown up the oil rig to stop the laser, why was Bond there, let alone the tape mishap?
 * They did Tiffany Case dirty. She went from cunning to airhead by the end.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5pfDQ1)

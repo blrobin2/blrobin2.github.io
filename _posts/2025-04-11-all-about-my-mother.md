@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "All About My Mother (1999)"
 excerpt: "My review of All About My Mother (1999)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9ncq8X
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="">Criterion Challenge 2022 | 33/52 | Cannes’s Big Winners</a></b>
 
@@ -35,7 +37,3 @@ These moments also act as homage to many of Almodóvar's influences. Manuella bu
 The film gracefully handles trans characters and sex workers. Some of the language has evolved since, but for 1999, it's a relief to be able to relax and know the film will treat these characters with care, even if they face awful circumstances. This is, after all, a melodrama.
 
 I have always appreciated Almodóvar, but his stylistic choices work together beautifully here. This film is easily my favorite of his that I've seen thus far. I hope to live my life with the same generosity of heart that Manuela has in this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ncq8X)

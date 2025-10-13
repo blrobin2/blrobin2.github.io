@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Giggles (1992)"
 excerpt: "My review of Dr. Giggles (1992)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/7atqtx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <blockquote><i>For extreme illnesses, extreme treatments are most fitting.</i> — Hippocrates</blockquote>
 
@@ -23,7 +25,3 @@ Holly Marie Combs writes the performance script for Neve Campbell in <i>Scream</
 It’s fun seeing Sara Melson, who was in an episode of Frasier, despite getting little more to do than fawn.
 
 If you can never get enough 90s whatever, this is… whatever. It’s a slasher with groan-worthy jokes. That said, the film is goofy and hard to hate.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/7atqtx)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nomadland (2020)"
 excerpt: "My review of Nomadland (2020)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8TL7n5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 49/52 | Made in Georgia (US State)</a></b>
 
@@ -23,7 +25,3 @@ The film has a few actors but also several real-life nomads who get to speak abo
 These are people that the US has abandoned. They cannot afford to retire, even at the right age, because they know they cannot survive on the benefits. They must travel, looking for seasonal work and finding it at places like Amazon, with exploitative and inhumane practices. Yes, some find community and support through folks like Bob Wells, who helps give them survival skills and convinces them they are subverting the capitalist order by living "off the grid." But shouldn't that be a choice and not a last option?
 
 Chloé Zhao's filmmaking is empathetic in letting these people speak for themselves. But what does a fictional story give us that a documentary wouldn't have, other than an opportunity to win an Oscar?  What is this film other than poverty tourism?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8TL7n5)

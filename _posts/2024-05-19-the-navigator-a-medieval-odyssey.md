@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Navigator: A Medieval Odyssey (1988)"
 excerpt: "My review of The Navigator: A Medieval Odyssey (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6v04BH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 6</a></b>
 
@@ -30,7 +32,3 @@ Once they get to the other side, it becomes a fish out of water story — one of
 The film accidentally makes a connection between the black plague and the AIDs epidemic — accidental, because it comes up but the filmmakers didn't do it intentionally.
 
 Despite its charms and visuals, the film is a bit too clunky to love. Still, this film is better than the material suggests.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6v04BH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Skydivers (1963)"
 excerpt: "My review of The Skydivers (1963)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4oPRDb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 Thank you to Owen for letting me borrow his MST3K DVDs!
 
@@ -19,7 +21,3 @@ Thank you to Owen for letting me borrow his MST3K DVDs!
 * We applaud the concept of flight!
 * Oh no it’s nighttime and they accidentally jumped in the wrong direction!
 * Okay, I’m dying, jeez!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4oPRDb)

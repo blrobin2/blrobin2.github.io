@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Love Me Deadly (1972)"
 excerpt: "My review of Love Me Deadly (1972)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5RbJkz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Lindsay sits in the back of a wake. She waits for everyone to clear out before cheerfully sauntering to the open casket. There, she pulls back her veil, nuzzling and kissing the corpse.
 
@@ -27,7 +29,3 @@ But as an exploitive thriller, it has some decently uncomfortable images. The to
 The movie uses extended montage to get through some of the plot points, further distancing the audience from any emotional connection to the characters. I read that the director did that to hide some poorly-written dialogue.
 
 Still, I appreciated the direction the story took, especially with how it ended. I just wish the journey there was more cohesive.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5RbJkz)

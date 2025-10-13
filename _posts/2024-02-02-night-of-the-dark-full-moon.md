@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night of the Dark Full Moon (1972)"
 excerpt: "My review of Night of the Dark Full Moon (1972)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5JYCGf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 16/52 | Cannon Group">Cult Movie Challenge 2016 | 16/52 | Cannon Group</a></b>
 
@@ -53,7 +55,3 @@ I was never super invested beyond wanting to know who the killer was. By the tim
 * Wait. Diane is Marianne??
 * No, Wilfred's just confused. I am, too!
 * Didn't the lawyer say something about the foundation being so thick the house couldn't be torn down? And then a single bulldozer tears it down?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5JYCGf)

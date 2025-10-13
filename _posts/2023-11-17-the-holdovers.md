@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Holdovers (2023)"
 excerpt: "My review of The Holdovers (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5aNE7f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Paul Hunham (Paul Giamatti) is a stiff-necked history teacher at a private school for rich idiots. He holds no leeway for his students. So, when he's put in charge of the kids with nowhere to go for the holiday break — the titular holdovers — he brings with him his ironclad rulings.
 
@@ -29,7 +31,3 @@ Da'Vine Joy Randolph breathed as much life as possible into her single-paragraph
 Dominic Sessa will probably receive a best supporting nomination.
 
 This movie is tame and mildly charming.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5aNE7f)

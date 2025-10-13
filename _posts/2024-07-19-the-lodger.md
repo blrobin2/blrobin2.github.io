@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Lodger (1944)"
 excerpt: "My review of The Lodger (1944)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6UdHfr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 18/31 | Before 1970 3/5</a></b>
 
@@ -41,7 +43,3 @@ Ellen catches on pretty early to Slade’s behavior and sees several connections
 The climax is incredible! The build of tension, Slade creeping in shadows towards the camera, the push and pull of the score — I had chills running up my arms at points.
 
 This film isn’t my favorite featuring Jack the Ripper — that honor still belongs to the incredible <i>Pandora’s Box</i> — but it’s magnificent. Hitchcock’s adaptation of the novel in 1927 is the definitive adaptation. Though I enjoyed that film, I prefer this one.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6UdHfr)

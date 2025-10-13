@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Empty Man (2020)"
 excerpt: "My review of The Empty Man (2020)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9xCpc7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 18/52 | Cults</a></b>
 
@@ -33,7 +35,3 @@ Kudos to the filmmakers for filming a young, nude woman and finding a way to mak
 As much as I appreciate what the film is doing, it gets stuck in a couple of tired tropes, which took me out of it a bit. But it doesn't go on too long.
 
 I can see why someone would give this a high or low score, especially given their feelings about the ending. As for me, it was comfortable and familiar territory, but I had a great time getting lost in it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xCpc7)

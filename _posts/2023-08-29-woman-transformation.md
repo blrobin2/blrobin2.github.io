@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Woman Transformation (2007)"
 excerpt: "My review of Woman Transformation (2007)"
+rating: ""
+letterboxd_url: https://boxd.it/4LFho7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 An anthology film about women transforming into various <i>yôkai</i>
 
@@ -22,7 +24,3 @@ A school bully is attacked on the streets. In the hospital, her face slowly begi
 I didn't have access to subtitles, so I could only get the gist of what was happening, so it doesn't feel fair to rate the film. I can say that of the three, the last one was legitimately horrifying
 
 Movie distribution is frustrating!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LFho7)

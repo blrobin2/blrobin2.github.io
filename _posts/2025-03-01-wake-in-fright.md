@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Wake in Fright (1971)"
 excerpt: "My review of Wake in Fright (1971)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8YKzBn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 1/52 | Ozploitation</a></b>
 
@@ -31,7 +33,3 @@ Donald Pleasence appears as Doc Tydon, an alcoholic who understands that discont
 I should warn you that this film includes actual animal deaths. The filmmakers filmed a kangaroo hunt. I'll spare you the details, but it's a bloodbath. I hate kangaroos, but it's one of the most upsetting scenes I've seen. The kangaroo is now a critically endangered species because of hunts like this—this movie didn't originate it and isn't the most heinous example.
 
 What a relentless nightmare.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8YKzBn)

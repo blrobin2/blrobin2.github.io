@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Legend of the Mountain (1979)"
 excerpt: "My review of Legend of the Mountain (1979)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6zB3DH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 29/31 | Terrible oversight</a></b>
 
@@ -31,7 +33,3 @@ The film emphasizes travel and nature — the journey between destinations is as
 The film is over three hours long. It is content to wander, not aimlessly, but gently forward in the formal structure of an old Chinese legend. Day and night attach to a moment with no obvious consistency. As a result, some viewers will probably find this movie slow or boring.
 
 For me, the vibe was right in my comfort zone of cozy and uncanny — fantastical horror, firmly rooted in the thin membrane between the human and the supernatural.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6zB3DH)

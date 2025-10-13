@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Short Film About Killing (1988)"
 excerpt: "My review of A Short Film About Killing (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8PGuO3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 26</a></b>
 
@@ -35,7 +37,3 @@ These features were present in Dekalog: Five, which focused on the commandment, 
 This film was released in 1988, the same year Poland finally suspended the death penalty. Some say this film is the reason, but I can't find definitive proof.
 
 While the film lacks the aesthetic nuances of Kieślowski's best work, it's still a must-watch.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8PGuO3)

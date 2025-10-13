@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Helga: She Wolf of Stilberg (1977)"
 excerpt: "My review of Helga: She Wolf of Stilberg (1977)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5NsOvP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 19/52 | Nazisploitation</a></b>
 
@@ -21,8 +23,3 @@ Everything is “whips and flogging” until a prisoner named Elizabeth shows up
 Wow, this is boring! Long scenes of eating, guards changing station. Why is this 96 minutes?!
 
 Half-star for chronic nudity, although there are endless, more reputable naked people delivery services.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5NsOvP)

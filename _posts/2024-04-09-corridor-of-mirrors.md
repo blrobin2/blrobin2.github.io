@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Corridor of Mirrors (1948)"
 excerpt: "My review of Corridor of Mirrors (1948)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6eU0Or
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 8/32 | Anniversary Film 7/10 | Decades 6/6 | 40s</a></b>
 
@@ -33,7 +35,3 @@ Critics hate Edana Romney’s performance, but she comes across as the sort of w
 Christopher Lee shows up as an associate of Paul named Charles. He doesn’t have lines, but his 6 ft 5 frame is hard to miss.
 
 The film isn’t thrilling throughout, but its texture and mood are enough to appreciate. As a first film, this shows a tasteful restraint that would define Young’s James Bond movies.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6eU0Or)

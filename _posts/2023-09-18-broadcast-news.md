@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Broadcast News (1987)"
 excerpt: "My review of Broadcast News (1987)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4RujPr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Tom grew up afraid that being good-looking and dumb wouldn't get him anywhere. Aaron knew he was smarter than everyone else and thought that was the ticket to getting everything he wanted. From childhood, Jane gave herself self-imposed deadlines, keeping herself too busy to worry
 
@@ -35,7 +37,3 @@ A tremendous movie, and a huge influence on things I love, so it's hard not to l
 * Sorkin wanted Hurt to play Jeff Daniels' part in <i>The Newsroom</i>, I'm sure of it
 * <i>Great News!</i> is another show that this movie had to inspire
 * Jack Nicholson gets just enough screen time to show how shallow and cruel he is
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4RujPr)

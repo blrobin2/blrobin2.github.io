@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Salem's Lot (1979)"
 excerpt: "My review of Salem's Lot (1979)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5e11nD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 31/34 | Tobe Hooper</b>
 
@@ -31,7 +33,3 @@ The pacing is slow as we wait for the leads to catch up. The finale suffers from
 Tobe Hooper proves his versatility by making a horror movie that is television-friendly. He chases a claustrophobic atmosphere over overt violence and horror. It doesn't always land, but there are captivating scenes throughout.
 
 Where can one find those small crucifixes?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5e11nD)

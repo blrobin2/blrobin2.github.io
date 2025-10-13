@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night Feeder (1988)"
 excerpt: "My review of Night Feeder (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5POSwJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 1</a></b>
 
@@ -37,7 +39,3 @@ Thematically, the movie touches on gentrification and how wealthy poseurs suck t
 The movie develops its subplot surrounding Jean's divorce and figuring her life out in her 30s. Kate Alexander's commitment makes it all work.
 
 I genuinely can't tell if this movie is good or my taste is going to shit. Regardless, I love it!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5POSwJ)

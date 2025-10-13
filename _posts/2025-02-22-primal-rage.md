@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Primal Rage (1988)"
 excerpt: "My review of Primal Rage (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8UB4aB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birth Year Challenge 33</a></b>
 
@@ -31,7 +33,3 @@ This movie is fun! I don't love it as much as some other horror nerds, but it go
 * The costumes at the Halloween party are absolutely wild. There's a person whose head is a giant nose. I don't know how to describe the one with three faces and a faucet for noses. It's a lot of nose stuff, I guess.
 * This movie makes the choice that most werewolf movies are too scared to make—you gotta bite more people, dude! Make a gang of werewolves! Not that the guys in this movie are werewolves, but they're bitten and become ravenous animals. I guess maybe zombies?
 * We hear Say the Word THREE TIMES in this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8UB4aB)

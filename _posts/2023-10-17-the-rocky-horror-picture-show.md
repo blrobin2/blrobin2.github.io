@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Rocky Horror Picture Show (1975)"
 excerpt: "My review of The Rocky Horror Picture Show (1975)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/50yTZL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 19/34 | LGBTQ+ connected | Decades 5/8 | 70s</b>
 
@@ -23,7 +25,3 @@ Then all hell breaks loose.
 Yes, this is my first time watching it. Unfortunately, it’s on a computer screen.
 
 It would require a crowd for me to get into this type of musical — a musical where no one sings or dances well, and the songs suck — a musical where the <em>SPIRIT</em> makes it enjoyable. Another way of putting it is that I should’ve seen this at a younger age if I was to get more out of it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/50yTZL)

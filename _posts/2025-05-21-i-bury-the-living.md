@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Bury the Living (1958)"
 excerpt: "My review of I Bury the Living (1958)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9KSpfJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 41/52 | Zombies</a>
 
@@ -25,7 +27,3 @@ The film gets lost in the weeds with the cemetery's committee. It's a lot of thr
 The film makes some slick stylistic choices that add to the gothic, almost surreal moments as we enter Robert's dread and experience its heightening. Some shots are pretty killer! It pulls one of my favorite camera tricks for tension—I won't spoil it.
 
 I believe this is the first Albert Band movie I've seen that didn't involve his son, Charles Band, in any way. And wouldn't you know it? It's pretty good!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9KSpfJ)

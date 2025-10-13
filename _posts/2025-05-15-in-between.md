@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In Between (1972)"
 excerpt: "My review of In Between (1972)"
+rating: ""
+letterboxd_url: https://boxd.it/9HcdP5
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Bridget and Mary Jo riffing
 
@@ -14,8 +16,3 @@ Bridget and Mary Jo riffing
 * Sup, bitches?
 * Mom wants me to babysit Josh while she watches Match Game.
 * I've been known to be helpful, in a creepy way.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9HcdP5)

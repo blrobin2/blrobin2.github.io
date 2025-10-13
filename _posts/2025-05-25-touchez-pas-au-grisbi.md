@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Touchez Pas au Grisbi (1954)"
 excerpt: "My review of Touchez Pas au Grisbi (1954)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9N6p7V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 50/52 | Random number generator (#271)</a></b>
 
@@ -27,8 +29,3 @@ In this way, the film also changed how the French handled the gangster flick, bl
 It's hard to pinpoint what you might call "style" in the filmmaking. Its unadorned, meat-and-potato storytelling puts every moment on an equal playing field by drawing attention to none. We enter and exit Max's life, getting a glimpse of it, only knowing him through his routine and those pesky interruptions.
 
 This movie doesn't come up much in conversations around French cinema. It emerged in a weird middle period, after WWII and before the French New Wave. I'm thankful for a random number generator that allowed me to see this seminal and under-respected film.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9N6p7V)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nightmare Cinema (2018)"
 excerpt: "My review of Nightmare Cinema (2018)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/1nBAqD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The Thing in the Woods: cartoonish sound design, I genuinely couldn’t tell if it was supposed to be funny until 12-13 minutes in... or at least that’s when I laughed. 1/5
 
@@ -23,7 +25,3 @@ In-between: Mickey Rourke’s outfit squeaks, and his face is so plastic that it
 - “Run! Go, you little motherfucker!”
 
 Overall: I appreciate the effort all around, but I would only recommend one of the shorts and it’s on YouTube, so don’t bother
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/1nBAqD)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Phone Booth (2002)"
 excerpt: "My review of Phone Booth (2002)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4DW71z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Colin Farrell, a very handsome boy done dirty by 2002, talks on the phone with Schumacher fav Kiefer Sutherland, a man with a voice, in Diet <i>Saw</i>
 
@@ -19,7 +21,3 @@ Colin Farrell, a very handsome boy done dirty by 2002, talks on the phone with S
 * star 69, hell yeah
 * woah NetZero, I forgot all about that
 * DJ Shadow in the end credits! nice
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4DW71z)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Four Flies on Grey Velvet (1971)"
 excerpt: "My review of Four Flies on Grey Velvet (1971)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4gjva1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 An explosion of drums, a beating heart, a man outside in a trench coat and sunglasses — a band recording together in a studio, a fly buzzing in the drummer’s face that he crushes in the high-hat
 
@@ -34,7 +36,3 @@ Argento completists (and Mimsy Farmer fans) will find something to enjoy
 * Sweet kitty falling asleep, I audibly “Aww!”-d
 * The PI’s eye-shaped door handle is neat. “Oh, you heterosexuals!” the PI says
 * A lot of cat murders :(
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4gjva1)

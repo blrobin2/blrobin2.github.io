@@ -1,16 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Home Economics Story (1951)"
 excerpt: "My review of The Home Economics Story (1951)"
+rating: ""
+letterboxd_url: https://boxd.it/4PTCGF
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 * she was eating cubes of mescaline jello
 * your period and mine: a lecture
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4PTCGF)

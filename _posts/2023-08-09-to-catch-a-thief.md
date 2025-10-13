@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "To Catch a Thief (1955)"
 excerpt: "My review of To Catch a Thief (1955)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4Fk6ST
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 A thief is stealing jewels, and the town suspects former thief John Robie (Cary Grant). To prove his innocence, he works with the insurance agent who insured the stolen jewels to get a list of the targets to, you know, catch the thief. His first mark: Jessie (Jessie Royce Landis) and Frances Stevens (Grace Kelly)
 
@@ -19,7 +21,3 @@ Perfect for the Hollywood/Hitchcock diehards, but a bit of a slog otherwise 
 <b>Stray Thoughts</b>
 * The cat on the roof as a stand-in for the cat burglar is cute
 * The maître'd popping his champagne bottle at the sight of Cary Grant is a mood
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Fk6ST)

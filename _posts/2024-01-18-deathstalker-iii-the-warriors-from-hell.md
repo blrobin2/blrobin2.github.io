@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Deathstalker III: The Warriors from Hell (1988)"
 excerpt: "My review of Deathstalker III: The Warriors from Hell (1988)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5CDp8J
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * Let's see how long these accents last
 * — Die! — Okay!
@@ -22,7 +24,3 @@ category: movie_review
 * — What's your name? — I smelled your food! — Hey, that was the last guy's name too!
 * This movie made it possible for two actors to put "stage fighting" on their resume
 * There can be only one or two!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CDp8J)

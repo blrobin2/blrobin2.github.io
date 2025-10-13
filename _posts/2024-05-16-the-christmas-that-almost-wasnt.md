@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Christmas That Almost Wasn't (1966)"
 excerpt: "My review of The Christmas That Almost Wasn't (1966)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6tXuOn
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Always nice to see Pearl and Elliott Kalan, however briefly.
 
@@ -20,7 +22,3 @@ This movie isn't horrible, but it would have made me cry as a child. Riffing on 
 * I think I know what happens next. I've seen <i>The Wicker Man</i>
 * — Why can't every day be gay? — That's a loaded question
 * Not so fast, you big baby. I mean, not so fast, my widdle baby.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tXuOn)

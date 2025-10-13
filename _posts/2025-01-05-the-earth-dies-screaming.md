@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Earth Dies Screaming (1964)"
 excerpt: "My review of The Earth Dies Screaming (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8k10V3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hooptober | 13/31 | Terence Fisher 3/5</a></b>
 
@@ -21,7 +23,3 @@ In just over one hour, this tightly-paced, low-budget British piece gives us a t
 Avant-garde composer Elisabeth Lutyens does the score. The film uses it sparingly, letting quiet moments of tension erupt.
 
 Overall, this film is decent and mercifully short.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8k10V3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Breakfast at Tiffany's (1961)"
 excerpt: "My review of Breakfast at Tiffany's (1961)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5LQRFD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a rel="nofollow">Anti-Criterion Challenge 2024 | 6/52 | 1960s</a></b>
 
@@ -43,7 +45,3 @@ Overall, I like the movies that this influenced more than the movie itself. For 
 * The discordant variation of Moon River is fucking gorgeous.
 * Cat is all wet!! Someone help him :( Now I'm crying
 * Then Paramount+ tried to play some South Park thing seconds after the movie finished and I became irate.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5LQRFD)

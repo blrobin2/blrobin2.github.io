@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Carlito's Way (1993)"
 excerpt: "My review of Carlito's Way (1993)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/523u7F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Like a veritable Franz Biberkopf, Carlito (Al Pacino) leaves prison after five years and proclaims that he will go straight and retire to Paradise. His lawyer and best friend, David (Sean Penn), helped him get out on technicalities and doesn't believe Carlito can change.
 
@@ -22,7 +24,3 @@ The movie has stellar music choices — some of my favorite disco/dance numbers.
 Pacino's Puerto Rican accent is fucking abysmal.
 
 Viggo Mortensen showing up with a mouth full of Chicano slang is embarrassing.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/523u7F)

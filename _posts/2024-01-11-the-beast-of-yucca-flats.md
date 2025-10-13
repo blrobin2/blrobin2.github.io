@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Beast of Yucca Flats (1961)"
 excerpt: "My review of The Beast of Yucca Flats (1961)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5yJoT1
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 The final Coleman Francis film of the show. Thank god.
 
@@ -20,7 +22,3 @@ The final Coleman Francis film of the show. Thank god.
 * Touch a button, things happen sometimes
 * It's Nickelodeon's Waiting for Godot
 * Man's inhumanity to man, or beast's inbeastity to beast
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5yJoT1)

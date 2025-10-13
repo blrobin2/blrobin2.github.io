@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eyes of a Stranger (1981)"
 excerpt: "My review of Eyes of a Stranger (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4xlPRB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 TV Reporter Jane Harris (Lauren Hughes) reports on  yet another woman found murdered, warning the women in her audience to take every precaution
 
@@ -19,7 +21,3 @@ The film patiently lingers in the frustrating place where the victim knows somet
 It will surprise no one who has seen a movie that Tracy and the killer have an encounter, and it’s here that Jennifer Jason Leigh shows just how great an actor she is — and her first film role at that! The sequence is terrifying as we see her unable to navigate her space while the killer toys with her
 
 Overall, the movie is a solid slasher entry. It may not have the flashiness of its contemporaries, but its grounded tone keeps a palpable unease throughout
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4xlPRB)

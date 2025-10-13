@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sword and the Sorcerer (1982)"
 excerpt: "My review of The Sword and the Sorcerer (1982)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9c0RM3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 12/52 | Albert Pyun</a></b>
 
@@ -37,7 +39,3 @@ Looks, can anyone in this movie act? No. Are the costumes, hair, and makeup laug
 * Stronger than Jesus, he pulls himself off the cross.
 * The slow-mo moments are silly but kind of epic!
 * Okay, Xusia's transformation is pretty fun and gross
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9c0RM3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Morris County (2009)"
 excerpt: "My review of Morris County (2009)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4PT8YJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A mumblecore-grade horror anthology where small-town stories unfold piece-by-piece. Each section focuses on someone carrying pain and watches them spiral
 
@@ -31,7 +33,3 @@ I hate what they ask the kid actor to do in this — it's so fucked up and under
 Iris (Alice Cannon) is fired from her job for being unable to keep up with technological advances, but she carries a cheery spirit. Her husband, Elmer (Erik Frandsen), seems miserable but keeps it to himself. The following morning, she wakes up to him dead on the couch
 
 This one made me nauseous — I guess they were proud of the effects, but they didn't need to go so hard
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4PT8YJ)

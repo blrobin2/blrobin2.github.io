@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Man Escaped (1956)"
 excerpt: "My review of A Man Escaped (1956)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9anX03
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 44/52 | 1950s</a></b>
 
@@ -26,7 +28,3 @@ Now, all of this is nothing without pacing and intuition—otherwise, you may as
 Still, we see the desire for efficiency in how Bresson removes in-between frames of actions to shorten them and render the scene tighter. However, the use of narration, while sparse for its time, still weighs heavily on the film.
 
 This film is one of Kieślowski's favorites—the sparseness <i>of The Decalogue</i> wears this movie's influence. Like Kieślowski, this movie may bore many audience members. But for those for whom this movie does not feel like a homework assignment, it instead will feel like a lesson in filmmaking that will inform every film they watch going forward.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9anX03)

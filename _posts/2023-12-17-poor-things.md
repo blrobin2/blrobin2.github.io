@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Poor Things (2023)"
 excerpt: "My review of Poor Things (2023)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5l0Gi1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b>In the <i>Forest Gump</i> and <i>Benjamin Button</i> tradition, this film explores an unconventional perspective on the world.</b>
 
@@ -29,7 +31,3 @@ This movie is Lanthimos' most mature work. The film's philosophy explores cynici
 My only major complaint is the runtime and pacing. The middle could have been tighter. While it doesn't ruin the movie, it prevents me from fully loving it.
 
 Still, one of the best of 2023!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5l0Gi1)

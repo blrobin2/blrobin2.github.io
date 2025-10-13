@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fire Maidens of Outer Space (1956)"
 excerpt: "My review of Fire Maidens of Outer Space (1956)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/52f0dn
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * I wonder if they're volunteer fire maidens
 * Mom, you still on hold?
@@ -14,7 +16,3 @@ category: movie_review
 * Did you poison your dad just so we could go on a date?
 * Do you see a barbecued mime back there?
 * This is what happens when you send your kids to an all-girls school
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/52f0dn)

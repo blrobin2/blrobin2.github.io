@@ -1,17 +1,15 @@
 ---
-layout: post
+layout: review
 title: "Dream of the Wild Horses (1960)"
 excerpt: "My review of Dream of the Wild Horses (1960)"
+rating: ""
+letterboxd_url: https://boxd.it/4JNui5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 Tense, rhythmic repetition of horses bucking, stampeding, and fighting in water
 
 So unsettling, helped by Jacques Lapy's warped soundtrack
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4JNui5)

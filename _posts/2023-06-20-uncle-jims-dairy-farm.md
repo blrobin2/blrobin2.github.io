@@ -1,16 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Uncle Jim's Dairy Farm (1963)"
 excerpt: "My review of Uncle Jim's Dairy Farm (1963)"
+rating: ""
+letterboxd_url: https://boxd.it/4oTXGN
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 — Cows are a lot like people…
 — … they’re sinners!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4oTXGN)

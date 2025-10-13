@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Nightmare on Elm Street: The Dream Child (1989)"
 excerpt: "My review of A Nightmare on Elm Street: The Dream Child (1989)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4XT7g9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b>Hooptober X | 11/34 | Robert Englund
 </b>
@@ -37,7 +39,3 @@ This movie was still easy to watch, even if it made the least sense of any of th
 
 But this one is way worse than the others, so I'm dreading <i>Freddy's Dead
 </i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XT7g9)

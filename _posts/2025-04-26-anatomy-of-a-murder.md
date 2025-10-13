@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Anatomy of a Murder (1959)"
 excerpt: "My review of Anatomy of a Murder (1959)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9wh7ph
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 39/52 | Hollywood Classics</a></b>
 
@@ -41,7 +43,3 @@ I love the rough edges of Paul and Manny's relationship. Neither likes the other
 The officer at the bar is one of the best drunk portrayals I've seen on screen. He's military, so he has total body control, and like all drunks, he's trying to pretend like he isn't. His form is rigid, but his words have the occasional slur and bluntness that betray his attempts.
 
 The procedural structure of the movie might bore some audiences, especially those raised on <i>Law & Order</i>, given its two-hour and forty-minute runtime. Still, I think the pacing of the film is damn near perfect, giving us all the texture we need to get a grip on our characters without really understanding them. This includes a bizarre final scene that has gross implications.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9wh7ph)

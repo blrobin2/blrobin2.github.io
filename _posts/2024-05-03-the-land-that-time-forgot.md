@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Land That Time Forgot (1974)"
 excerpt: "My review of The Land That Time Forgot (1974)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6oC95J
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Hey! It's Susan Penhaligon. She's in a great anthology movie about evil cats called <i>The Uncanny</i>, among other things.
 
@@ -19,7 +21,3 @@ I like this movie! The rear projection looks like shit, but the individual piece
 * So that's where iceberg lettuce comes from!
 * Could someone please turn off the Halloween Spooktastic Sound Effects CD?
 * Good thing we don't mate for life!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6oC95J)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hercules in the Haunted World (1961)"
 excerpt: "My review of Hercules in the Haunted World (1961)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5vV1bd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 3/52 | Sword and Sandal">Cult Movie Challenge 2016 | 3/52 | Sword and Sandal</a></b>
 
@@ -38,7 +40,3 @@ I'm all for blending peplum and horror. I'll be on the lookout for more.
 * We got a weird stone monster — "You must be longer" is an ominous thing to say.
 * A nude woman chained to a wall begs Theseus to save him. A trap, but he's too horny.
 * Theseus, thinking with his dick, rescues Persephone from Hades.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5vV1bd)

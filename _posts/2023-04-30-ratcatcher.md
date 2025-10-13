@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ratcatcher (1999)"
 excerpt: "My review of Ratcatcher (1999)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4btFXR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 What an opening! Another piece of media reminding me how fucked Glasgow is
 
@@ -19,7 +21,3 @@ The scene with the mice on the moon is bittersweet but feels out of place compar
 Ultimately what makes this work is how personal the story is. For Lynn Ramsay's first feature, the movie feels relatively cohesive. I don't love it as much as her other films I've seen, but its good
 
 <a href="https://www.glasgowlive.co.uk/news/history/1975-glasgow-dustmen-strikes-rats-17323843" rel="nofollow">www.glasgowlive.co.uk/news/history/1975-glasgow-dustmen-strikes-rats-17323843</a>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4btFXR)

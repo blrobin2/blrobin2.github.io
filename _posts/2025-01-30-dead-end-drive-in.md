@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dead End Drive-In (1986)"
 excerpt: "My review of Dead End Drive-In (1986)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8FcB55
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 49/52 | Carsploitation</a></b>
 
@@ -25,7 +27,3 @@ There's a moment in the movie where police drop off hundreds of Asian people, an
 All the pieces are in place for something compelling. But the movie does almost nothing with the setup it's given us. It mentions these ideas without exploring them with any curiosity. Ultimately, the film suggests that collective action is only viable to make things worse and that it takes a Rambo to save himself.
 
 The music rules. The movie looks best at night, full of fire and neon. The Jesus statue with the neon halo is sick. For a few minutes, we even get some killer car stunts. Still, the movie left me wanting more from the ideas it introduced.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8FcB55)

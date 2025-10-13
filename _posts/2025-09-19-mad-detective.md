@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mad Detective (2007)"
 excerpt: "My review of Mad Detective (2007)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/b6G34r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qaTwm">Asian Cinema Challenge 2023 | 17/52 | Category III</a?</b>
 
@@ -28,7 +30,3 @@ The Chinese title for the movie is literally Miraculous Detective, but a better 
 Most surprisingly, the intuitions Bun has made sense, and while we can't follow every step he takes, it comes together satisfyingly. Though Ho doesn't accept everything at face value, he still trusts Bun, having seen his track record. It's a refreshing dynamic from the believer/skeptic dichotomy that usually arises in these stories.
 
 What a pleasant surprise this was!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b6G34r)

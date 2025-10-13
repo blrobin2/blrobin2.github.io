@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sweet Charity (1969)"
 excerpt: "My review of Sweet Charity (1969)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9ffBNB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b>*** Stray Thoughts / Spoilers ***</b>
 * Anna had a friend who sang "Hey Big Spender" for a high school talent show.
@@ -24,7 +26,3 @@ category: movie_review
 * Did I sing "The Rhythm of Life" in chorus??
 * "Almost Married"
 * Wow, this one hurt a lot.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ffBNB)

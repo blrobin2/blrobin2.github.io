@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Invaders from Mars (1986)"
 excerpt: "My review of Invaders from Mars (1986)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6aDlZP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 30/32 | Tobe Hooper</a></b>
 
@@ -36,7 +38,3 @@ Louise Fletcher, as the science teacher, is so unhinged.
 I knew a kid growing up named David Gardner.
 
 This movie isn't great, but I like parts of this more than Abel Ferrara's <i>Body Snatchers</i>, especially with how it handles the third act.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6aDlZP)

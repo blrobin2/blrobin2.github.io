@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood from the Mummy's Tomb (1971)"
 excerpt: "My review of Blood from the Mummy's Tomb (1971)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5VHBCv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 27/32 | Non-Dracula Hammer</a></b>
 
@@ -29,7 +31,3 @@ Because of his wife's diagnosis of emphysema, Peter Cushing had to leave after o
 Original director Seth Holt died of a heart attack during the shoot. Michael Carreras, Hammer producer James Carreras's son, stepped in and found that the footage was a mess — this is likely because of Chris Wicking's script, which Seth Holt had to rewrite as they filmed.
 
 Thankfully, Hammer was over twenty years in and could apply their signature gothic style to hide the unsightly seams. I wouldn't call this an inspired movie, but it scratches an itch that only Hammer films seem to scratch.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5VHBCv)

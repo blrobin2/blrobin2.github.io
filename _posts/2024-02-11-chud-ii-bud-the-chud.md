@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "C.H.U.D. II: Bud the Chud (1989)"
 excerpt: "My review of C.H.U.D. II: Bud the Chud (1989)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5NTAHV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7">Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7</a></b>
 
@@ -33,7 +35,3 @@ Not for me!
 * He gives her his heart, literally and non-consensually 
 * Off to see the world with his zombie poodle
 * Wait, when did he become a CHUD??
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5NTAHV)

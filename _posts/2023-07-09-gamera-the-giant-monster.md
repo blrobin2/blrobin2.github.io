@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera, the Giant Monster (1965)"
 excerpt: "My review of Gamera, the Giant Monster (1965)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4um0wd
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Someday, I’d like to see the original Japanese version, since folks claim it’s a better movie than the Sandy Frank cut
 
@@ -19,7 +21,3 @@ Someday, I’d like to see the original Japanese version, since folks claim it�
 * He’s heading for that stain up there
 And of course
 * Kenny!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4um0wd)

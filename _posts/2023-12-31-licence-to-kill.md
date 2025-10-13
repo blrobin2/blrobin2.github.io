@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Licence to Kill (1989)"
 excerpt: "My review of Licence to Kill (1989)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5rAp5P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -28,7 +30,3 @@ category: movie_review
 * Cary-Hiroyuki Tagawa AND Talisa Soto? They'll reunite in 1995. Not for Goldeneye, but for Mortal Kombat
 * Oh that dude's head exploded
 * And that's it for Dalton and Cold War era Bond! Once he comes back in 95, they'll have to figure out how to make him make sense. But that's for another movie marathon
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5rAp5P)

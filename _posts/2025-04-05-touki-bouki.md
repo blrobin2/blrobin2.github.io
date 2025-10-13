@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Touki Bouki (1973)"
 excerpt: "My review of Touki Bouki (1973)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9jLMvD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 28/52 | Made in Senegal</a></b>
 
@@ -29,7 +31,3 @@ Touki Bouki is Wolof for The Journey of the Hyena. Bouki, the hyena, is a popula
 My biggest issue with the movie is the animal violence. I understand its place culturally and am not saying it shouldn't be there — it's just brutal and stomach-wrenching.
 
 The gay character is quite silly, but I don't know if the film is making fun of him because he never comes across negatively—he's just disappointed that boys make plans with him and bail.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9jLMvD)

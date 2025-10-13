@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Beyond the Door (1974)"
 excerpt: "My review of Beyond the Door (1974)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5N9wUT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 18/52 | Splatter</a></b>
 
@@ -47,7 +49,3 @@ The movie had so much potential! Watch the "sequels" — in classic Italian fash
 * Wait, she dated Dimitri??
 * The band chases him around, singing a song about there being no hope. The best part of the movie
 * That baby has no mouth
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5N9wUT)

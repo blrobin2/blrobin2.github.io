@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Influencer (2022)"
 excerpt: "My review of Influencer (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5mMMiB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Madison is a social media influencer with a massive following. She travels to Thailand to do some promotional spots and get good travel photos. Initially, her boyfriend Ryan was supposed to come with her, but he bailed at the last minute. She keeps in touch with her best friend, Jay, but the glamor of her trip distracts him from noticing that she isn't having a good time.
 
@@ -38,7 +40,3 @@ But when Ryan shows up, the power dynamics shift again. The movie continually tw
 The end feels a tad farfetched, but the film mentioned that Madison was a Girl Scout, so wilderness survival wasn't outside the realm of possibility. Ryan wanted to turn Madison into a social media influencer, further obscuring her story and reality.
 
 The film serves as a reminder that social media can create a false sense of knowing someone.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5mMMiB)

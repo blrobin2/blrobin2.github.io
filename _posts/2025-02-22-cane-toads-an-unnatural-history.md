@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cane Toads: An Unnatural History (1988)"
 excerpt: "My review of Cane Toads: An Unnatural History (1988)"
+rating: ""
+letterboxd_url: https://boxd.it/8UlORJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 32</a></b>
 
@@ -25,7 +27,3 @@ To create the effect of looking up from a cane toad's point of view, DP Jim Fraz
 Though the film talks about people who regularly kill cane toads, director Mark Lewis made sure to avoid killing any toads. Of course, we see dead cane toads, and we watch cane toads eat all sorts of weird shit. They'll eat ANYTHING smaller than them, including other toads, which has been an ecological disaster for Australia.
 
 The subject is already fascinating, but this doc makes it fun without abandoning academic rigor. Highly recommended!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8UlORJ)

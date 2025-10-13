@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Birds of Prey (1987)"
 excerpt: "My review of Birds of Prey (1987)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/bf06AR
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 This movie is almost exclusively bird attack scenes. There is a whisper of plot for a minute or two, but I've already forgotten what it is beyond, "Birds are attacking us... Why?"
 
@@ -25,7 +27,3 @@ Flamingos are such dinosaurs!!
 * I'm going out to punch birds.
 * I'm just a simple birthday nurse, leave me out of this!
 * I forgot! We have 10,000 cats in the basement! (Mike referring to another Rene Cardona Jr. movie, <a href="https://boxd.it/8KfbVZ" rel="nofollow"><i>Night of a Thousand Cats</i></a><i></i>).
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bf06AR)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Carnival Magic (1983)"
 excerpt: "My review of Carnival Magic (1983)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6tdVgb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Mark Hamill shows up and does a slightly less horrifying Joker voice
 
@@ -19,7 +21,3 @@ Mark Hamill shows up and does a slightly less horrifying Joker voice
 * Back to whipping cats in an empty tent
 * Gah damn tiger shot me!
 * I reject your all-encompassing love!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tdVgb)

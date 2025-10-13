@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Moonstruck (1987)"
 excerpt: "My review of Moonstruck (1987)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/a3A4gV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 Loretta believes she's unlucky in love, especially since her husband died seven years ago. Maybe it was because they got married in a courthouse. She lives at home with her parents, her grandfather, and their five dogs. Her father thinks she shouldn't get married again because she's bad luck.
 
@@ -24,7 +26,3 @@ The magic of the movie is time, measured by the moon. The moon shines a brillian
 </i><i>— Ma, I love him awful.
 </i><i>— Oh god, that's too bad.</i></blockquote>
 Cheating on Olympia Dukakis is textbook insanity!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a3A4gV)

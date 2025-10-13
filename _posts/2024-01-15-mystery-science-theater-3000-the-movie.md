@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mystery Science Theater 3000: The Movie (1996)"
 excerpt: "My review of Mystery Science Theater 3000: The Movie (1996)"
+rating: ""
+letterboxd_url: https://boxd.it/5ATFyR
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Crow goes full tunnel girl and tries to dig to earth from the Satellite of Love.
 
@@ -29,7 +31,3 @@ The gang watches <i>This Island Earth </i>and it's okay
 * They're flying into a Roger Dean painting
 * Still, your whole family died. That's a bummer, huh?
 * Puppet wranglers? There weren't any puppets in this movie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ATFyR)

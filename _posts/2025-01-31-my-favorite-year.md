@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Favorite Year (1982)"
 excerpt: "My review of My Favorite Year (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8FLaO3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Cult Movie Challenge 2024 | 50/52 | Cameron Mitchell</a></b>
 
@@ -25,7 +27,3 @@ I love that Herb is too shy to say his jokes out loud, so he whispers them to Al
 The worst scenes are Benjy "romancing" K.C. Mark Linn-Baker is charmless, despite the movie's best efforts. Jessica Harper is underutilized and relegated to the humorless love interest. You could cut these scenes and affect nothing else in the film.
 
 Overall, I found this quite funny. Though it meanders, it finds its way to a satisfying finale.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8FLaO3)

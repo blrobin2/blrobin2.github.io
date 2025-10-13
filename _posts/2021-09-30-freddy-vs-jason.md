@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Freddy vs. Jason (2003)"
 excerpt: "My review of Freddy vs. Jason (2003)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/2aEMVb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 1/5
-
 Before Captain America: Civil War, there was Freddy vs. Jason
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/2aEMVb)

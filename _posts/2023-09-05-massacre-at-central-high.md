@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Massacre at Central High (1976)"
 excerpt: "My review of Massacre at Central High (1976)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4NKrMh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 David starts at a new school where bullies control everyone, and one of his best friends is in the bully group. He is initially content to assist others (particularly when the bullies corner and try to rape two girls), but when they crush his leg under a car and permanently cripple him, David escalates
 
@@ -17,7 +19,3 @@ This movie influenced <i>Heathers</i>, and their third acts are both remarkably 
 Also, what an opening — cold open to an explosion followed by the goofiest 70s ballad — footage of kids fucking and fighting intercut with David jogging on the beach
 
 I enjoyed this more than I thought I would. It's not as clever as it thinks it is, but it's never dull
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4NKrMh)

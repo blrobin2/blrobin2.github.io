@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Night at Maud's (1969)"
 excerpt: "My review of My Night at Maud's (1969)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4DqFDj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 At Catholic mass during Christmas, Jean-Louis (Trintignant) sees the woman he is going to marry, the blonde Françoise (Marie-Christine Barrault), though the two have never officially met
 
@@ -26,7 +28,3 @@ I loved it
 * Maud's daughter wakes up because she wants to see the Christmas tree lights
 * The outdoor French market looks cool — I love the shelves of cheese
 * Was this an influence on <i>My Dinner with Andre</i>? Both films are very similar conceptually (although here the conversation is not the bulk of the movie, but still a good chunk)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4DqFDj)

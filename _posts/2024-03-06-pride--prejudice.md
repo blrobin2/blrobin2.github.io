@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pride & Prejudice (2005)"
 excerpt: "My review of Pride & Prejudice (2005)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5Z8ROD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 10/52 | 2000s</a></b>
 
@@ -37,7 +39,3 @@ God, I hate Mr. Collins.
 Overall, I completely understand why people love this movie. While I don't love it, it's a stunning image with moving performances.
 
 Donald Sutherland brought me to tears.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Z8ROD)

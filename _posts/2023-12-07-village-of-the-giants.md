@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Village of the Giants (1965)"
 excerpt: "My review of Village of the Giants (1965)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5hvvAT
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Classic Bert I. Gordon fodder — conventionally-sized stuff gets big: cats, ducks, dogs, teens.
 
@@ -20,7 +22,3 @@ Classic Bert I. Gordon fodder — conventionally-sized stuff gets big: cats, duc
 * This is David Duke's dream 
 * Alright Sheriff, we've given it a lot of thought and we decided to step on you
 * I inhabit a nightmarish universe of my own making
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5hvvAT)

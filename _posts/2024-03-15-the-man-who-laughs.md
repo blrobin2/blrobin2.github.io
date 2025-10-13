@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Man Who Laughs (1928)"
 excerpt: "My review of The Man Who Laughs (1928)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/63bv6h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 14/32 | Makeup: Jack Pierce</a></b>
 
@@ -40,7 +42,3 @@ The filmmakers based this on a Victor Hugo novel. It has that similar rambling, 
 Homo the dog is so good!
 
 This movie entered the public domain this year, so you can even watch the full movie on Wikipedia if your heart desires.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/63bv6h)

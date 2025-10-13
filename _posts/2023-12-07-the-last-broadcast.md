@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Broadcast (1998)"
 excerpt: "My review of The Last Broadcast (1998)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5hxhRl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <i>December 16, 1995</i>
 
@@ -29,7 +31,3 @@ The finale of this movie is an immense disappointment.
 While thematically consistent, the material undermines the entire film up to that point.
 
 Still, I liked a lot about this.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5hxhRl)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Godzilla Minus One (2023)"
 excerpt: "My review of Godzilla Minus One (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5mhbaD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 In 1945, Kōichi Shikishima, a kamikaze pilot, lands on Odo Island to have repairs made to his plane. When the mechanic investigates, he finds nothing wrong with the plane.
 
@@ -33,7 +35,3 @@ The strength of this film is the Godzilla action. With focused set pieces, an au
 Godzilla's design is very "man-in-a-suit." The legs and tail, however, are so hilariously thick that it somewhat offsets that.
 
 As neither a big Godzilla fan nor a fan of disaster action movies, I could only find limited enjoyment in this. Still, this is one of the best Godzilla movies I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5mhbaD)

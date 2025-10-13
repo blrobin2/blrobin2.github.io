@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Benny's Video (1992)"
 excerpt: "My review of Benny's Video (1992)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5atell
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 17/52 | Dysfunctional Families</b>
 
@@ -48,7 +50,3 @@ If it feels authentic to the viewer, then what is the difference?
 * Why play Pilots and Passengers? How is it a game? You give away money for a position on a scoreboard.
 * A guy shaving his head is like a woman getting bangs. They are going through it. 
 * Cleaning up milk on the counter as it spreads like blood.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5atell)

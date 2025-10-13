@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Deadly Blessing (1981)"
 excerpt: "My review of Deadly Blessing (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6eDdrV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 43/52 | Slasher</a></b>
 
@@ -33,7 +35,3 @@ Critics were so harsh on Ernest Borgnine. His acting style didn't translate into
 Like everything Wes Craven directs, this is too long for its concept. But here, it's out of character development, not spinning its wheels.
 
 I don't know, man! This movie is pretty good! That ending is an all-timer.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6eDdrV)

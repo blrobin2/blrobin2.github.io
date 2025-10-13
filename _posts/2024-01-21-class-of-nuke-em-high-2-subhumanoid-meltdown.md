@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Class of Nuke 'Em High 2: Subhumanoid Meltdown (1991)"
 excerpt: "My review of Class of Nuke 'Em High 2: Subhumanoid Meltdown (1991)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5DVslh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 20/34 | Worst Part II I Can Access</a></b>
 
@@ -38,7 +40,3 @@ It's got a handful of weird little guys that I liked, especially Murray, the jan
 * Crossfade from two enormous breasts to the nuclear plant smokestacks
 * Oh Diane's a real person
 * Kaiju squirrel
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5DVslh)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Dead Talk Back (1957)"
 excerpt: "My review of The Dead Talk Back (1957)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5jJso7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 The preacher in this movie talks like Grampa Simpson
 
@@ -24,7 +26,3 @@ The Grateful Dead segment is pretty funny, but almost too accurate. I guess they
 * Shhh... jazz
 * Younger... than springtime are you, sir
 * Now I'd like to ask Francis the Talking Mule a few questions.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jJso7)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Danger: Diabolik (1968)"
 excerpt: "My review of Danger: Diabolik (1968)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6hr3Bf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Here it is — the last episode of the original MST3K run. While I'm sad to see it end — the last scene made me tear up — it was also time. The show bounced back a few times when it jumped to Sci-Fi, but the magic was waning, and the movie choices were more questionable.
 
@@ -23,7 +25,3 @@ I love this movie! It has one of my favorite Ennio Morricone themes. The style i
 * That's this room — I'd know it anywhere!
 * Oh, this is what they -apult their cats with
 * Good job, tree. Take it easy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6hr3Bf)

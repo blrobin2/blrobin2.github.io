@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mikey and Nicky (1976)"
 excerpt: "My review of Mikey and Nicky (1976)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6hEqEH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 16/52 | Women Auteurs</a></b>
 
@@ -44,7 +46,3 @@ A pivotal scene for me is when they see one of Nicky's girls, Nell (Carol Grace 
 But then, when it's just Mikey and Nell, Mikey drops the pretense of hearing her thoughts and tries to kiss Nell.
 
 I don't love the "one wild night" schtick because it becomes an excuse for a director to throw everything at the wall and make an incoherent mess. This movie isn't one wild night — it's the night this friendship has been running towards for decades.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6hEqEH)

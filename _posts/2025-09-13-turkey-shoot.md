@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Turkey Shoot (1982)"
 excerpt: "My review of Turkey Shoot (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/b3d0aL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 12/52 | Ozploitation</a></b>
 
@@ -31,7 +33,3 @@ The score uses the same synth as the lead in Daft Punk's "Robot Rock." I never g
 I'm not going to talk about the craft (cinematography and whatnot) because I could only find a pan-and-scan version, which feels unfair to judge. It doesn't look cheap.
 
 Overall, pretty lukewarm on this one. The director has claimed it's "satire." I'm leaning more towards goofy. It's that goofiness that makes this entertaining, though.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b3d0aL)

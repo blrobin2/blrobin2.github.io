@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Trilogy of Terror (1975)"
 excerpt: "My review of Trilogy of Terror (1975)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/410V0N
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Three stories, all staring Karen Black as the lead role(s). Shes the only reason any of this is worth watching
 
@@ -36,7 +38,3 @@ She buys a problematic Zuni fetish doll that contains a hunter’s spirit that s
 This is Karen Black’s best performance out of the three, having to do all of her dialogue over the phone with no cutaways to that other person on the line, or to an inanimate object… or is it!?!?!?
 
 I wanna see on the other side of the door when that little dude is unlocking and opening it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/410V0N)

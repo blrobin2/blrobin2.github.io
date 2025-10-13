@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "All Cheerleaders Die (2013)"
 excerpt: "My review of All Cheerleaders Die (2013)"
+rating: ""
+letterboxd_url: https://boxd.it/6LXk9L
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 30/31 | Witchcraft</a></b>
 
@@ -29,7 +31,3 @@ I’m surprised I don’t see more comparisons to <i>Jennifer’s Body</i>, what
 I’m bummed that the movie ends on a cliffhanger. This movie’s negative reception means a sequel is unlikely.
 
 I have no idea how to rate this, but I had a lot of fun!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6LXk9L)

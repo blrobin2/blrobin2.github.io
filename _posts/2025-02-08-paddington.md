@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Paddington (2014)"
 excerpt: "My review of Paddington (2014)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8LcXQV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 42/52 | A titular character</a></b>
 
@@ -23,7 +25,3 @@ The film has good intentions in its exploration of British colonialism. We are s
 Yes, this helps clarify the point: if all that is different about Paddington is that he is a bear, then why all the distrust? But when the story paints Paddington as "one of the good ones," the analogy only gets so far.
 
 The film is cute and more thoughtful than most children's movies in how it approaches its subject. Some of the jokes made me chuckle. But the whiteness on screen and in the filmmaking crew only highlights how little progress Britain has made post-colonialism.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8LcXQV)

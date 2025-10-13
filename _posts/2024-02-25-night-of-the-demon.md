@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night of the Demon (1957)"
 excerpt: "My review of Night of the Demon (1957)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5UhkZh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 24/32 | highest-rated horror film from the 50s that you haven't seen and can access</a></b>
 
@@ -46,7 +48,3 @@ Love, love, love the climax!
 * The footprints!!
 * Sure, they're going to bring this guy out of catatonia with meth
 * That demon rips him to shreds! (to shreds, you say?)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5UhkZh)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Devil's Rejects (2005)"
 excerpt: "My review of The Devil's Rejects (2005)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9WvgWB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 24|52 | Daddy Horror</a>
 
@@ -35,8 +37,3 @@ I know many horror fans are into this movie. It could be that I'm losing my affi
 * Sheri Moon Zombie's bit seems to be her butt.
 * Ken Foree!
 * William Forsythe becomes the most interesting character when he has a motivation-shifting dream.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9WvgWB)

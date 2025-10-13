@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Paths of Glory (1957)"
 excerpt: "My review of Paths of Glory (1957)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6ouAv9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 5/52 | 1950s</a></b>
 
@@ -37,7 +39,3 @@ The film has several Kubrick-isms — the long takes with a lot of background ac
 The weirdest thing about the movie is that a bunch of American actors are playing French characters in English with American accents.
 
 I don't have any strong opinions about it. It's very good but has no spark to it that excites or interests me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ouAv9)

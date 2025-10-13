@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Bucket of Blood (1959)"
 excerpt: "My review of A Bucket of Blood (1959)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6afarf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <i>I will talk to you of art, for there is nothing else to talk about.</i>
 
@@ -25,7 +27,3 @@ Dick Miller is so good as the fool who thinks he is king. This role was so iconi
 This movie is only 66 minutes, but it uses its time deftly to tell the complete story with no bloat.
 
 Corman's made a lot of crap. But now and again, he made a gem like this. I can't believe he's still alive.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6afarf)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Flux Gourmet (2022)"
 excerpt: "My review of Flux Gourmet (2022)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/89gqin
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 The Sonic Catering Institute houses a performance art group for a month-long residency. Like all artists in residency, the group dedicates themselves to food and the generating foley surrounding it.
 
@@ -23,8 +25,3 @@ I made an excellent decision by listening to the soundtrack/score before watchin
 Gwendolyn Christie is a muse — her otherworldly beauty hovering like an angel of death. The way they mutter "Jan Stevens" whenever she shows up never gets old.
 
 This movie will annoy traditional horror fans and anyone semi-literate in critical theory. Thankfully, I am too dumb to understand how empty it is. (Flanger go <i>brrr</i>, and whatnot)
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/89gqin)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Birth/Rebirth (2023)"
 excerpt: "My review of Birth/Rebirth (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5lliJz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Celie is a single mother, exhausted by long hours. Her job requires she give up time with her daughter, Lila, who feels neglected. She is a nurturing, empathetic presence in delivery rooms.
 
@@ -38,7 +40,3 @@ The mistake the movie makes is the direction it takes with Lila. I won't spoil a
 Medical horror makes me quite uncomfortable, so this left me squirming throughout.
 
 I wasn't expecting to like this so much, but it got to me!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5lliJz)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Boudu Saved from Drowning (1932)"
 excerpt: "My review of Boudu Saved from Drowning (1932)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9reDXz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 36/52 | Stage to Screen</a></b>
 
@@ -27,7 +29,3 @@ The film functions as a social satire. Like Viridiana, it overturns the notion o
 In this way, the film gives us no reason to root for Boudu because Boudu is an allegory for all that society wishes to ignore. We see Boudu do some truly heinous things—it would be bizarre to cheer Boudu on. That's not to say we should take away a moral message from this movie. If I were to inject one, it would be, "Don't take in a stray dog and expect him to perform tricks."
 
 Still, the movie shows its age in its sexual politics in a way that makes it hard for me to love it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9reDXz)

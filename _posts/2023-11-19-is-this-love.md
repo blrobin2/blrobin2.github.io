@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Is This Love? (1957)"
 excerpt: "My review of Is This Love? (1957)"
+rating: ""
+letterboxd_url: https://boxd.it/5bmaMR
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Woah, it's Masha from Videodrome!
 
@@ -14,7 +16,3 @@ Woah, it's Masha from Videodrome!
 * Handsome = not dull
 * Are you sure you see eye-to-eye on the trade deficit?
 * Oh no, pleasure!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5bmaMR)

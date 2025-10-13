@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ghost Breakers (1940)"
 excerpt: "My review of The Ghost Breakers (1940)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/41SmpL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Bob Hope and Paulette Goddard reunite after <i>The Cat & the Canary</i> for another spooky house story in which Goddard inherits a castle in Cuba that everyone seems to want
 
@@ -27,7 +29,3 @@ Really cool lighting during the opening lightning storm, especially once the win
 The house looks so cool, I love the overgrown grounds and the tall, cracked walls. There’s a beautiful, enormous floor lamp that looks as elaborate as a chandelier and couldn’t fit through the front door of my apartment
 
 I got a lot of time to write about this movie as it took me three days (!!!) of movie buffering and other technical issues to get through it. But it was worth it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/41SmpL)

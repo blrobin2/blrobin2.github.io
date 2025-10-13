@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Polite Society (2023)"
 excerpt: "My review of Polite Society (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4cGlzZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 What The Hell? This movie rules!
 
@@ -17,7 +19,3 @@ It wears its influences on its sleeve — a little Guy Richie, a touch of <i>Oce
 My only major complaint is some of the third-act pacing, but it's not egregious — it just has a lot of notes it has to come back around on
 
 Well worth staying up past my bedtime for. See it in the theater before a Marvel takes it out!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4cGlzZ)

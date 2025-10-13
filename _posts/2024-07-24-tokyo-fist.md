@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tokyo Fist (1995)"
 excerpt: "My review of Tokyo Fist (1995)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6WzdHH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/rIGbC">Cult Movie Challenge 2024 | 30/52 | Shinya Tsukamoto</a>
 
@@ -34,7 +36,3 @@ The middle part of the movie lags in places. But the film is so short, and the s
 The content I would warn anyone about is Tsuda passing a decomposing cat, where maggots are eating through its chest and face.
 
 Oh, and Chu Ishikawa's score rules.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6WzdHH)

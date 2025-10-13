@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Raise the Red Lantern (1991)"
 excerpt: "My review of Raise the Red Lantern (1991)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/a8hOEr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 13/52 | Directed by Zhang Yimou</a></b>
 
@@ -40,7 +42,3 @@ I'm happy that we get to hear He Saifei sing, as she is a famous Yue opera perfo
 My biggest complaint about the movie is how emotionally distant we stay from the characters. Even as we experience our lead's mourning and pain, we have limited access to it, as the film prioritizes the visual experience. Also, the servant gossip, while believable, makes too literal and blunt what the film has already suggested.
 
 I would like to know more about why China banned the film for three years and later released it. I know that China later banned Zhang Yimou and Gong Li for <i>To Live</i>, and Yimou made a bunch of crowd-pleasers to try and regain favor. If anyone has any resources on this topic, please let me know.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a8hOEr)

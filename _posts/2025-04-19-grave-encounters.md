@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Grave Encounters (2011)"
 excerpt: "My review of Grave Encounters (2011)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9rTcad
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 29/52 | Found Footage</a></b>
 
@@ -27,7 +29,3 @@ I never hated it, but I was barely on board by the end.
 * The doctored photos of Dr. Arthur Friedkin are so funny. I assume his name is a nod to William Friedkin, a la The Exorcist.
 * It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.
 * It's been five days, and bro is eating raw rat.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9rTcad)

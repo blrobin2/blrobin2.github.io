@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Devil-Doll (1936)"
 excerpt: "My review of The Devil-Doll (1936)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6wzDH5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 22/31 | Tod Browning</a></b>
 
@@ -28,7 +30,3 @@ The film has a great setup. It takes a little time to weave together the story p
 The effects are solid and remind me of <i>The Bride of Frankenstein</i>. I guess this is technically a "killer toy" movie, but it's too much of its own weird thing to fall into easy classification.
 
 Todd Browning kills it again.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wzDH5)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hideous Sun Demon (1958)"
 excerpt: "My review of The Hideous Sun Demon (1958)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/aNiMUD
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The film is an inversion of the werewolf legend in which a man turns into the titular character when exposed to too much sun. Because this is 1958, it's because of radioactive isotopes and other pseudo-sci-fi nonsense. So, like, The Incredible Hulk, but the sun instead of anger. Or, wait, Dr. Jekyll and Mr. Hyde.
 
@@ -24,7 +26,3 @@ Part of this movie's score was used in <i>Night of the Living Dead</i>. Neat!
 * Not the decor!
 * I like driving fast — it takes your mind off of terrible things, like dying in a horrible crash.
 * No, please! Let me lap up that spilled drink!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aNiMUD)

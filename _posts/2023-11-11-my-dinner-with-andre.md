@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Dinner with Andre (1981)"
 excerpt: "My review of My Dinner with Andre (1981)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/58LA1b
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 13/52 | Danny Peary's "Guide for the Film Fanatic"</b>
 
@@ -33,7 +35,3 @@ Both Wallace and Andre recognize the need for conscious action. For Andre, it de
 * Louis Malle cut the script down from the original three-hour runtime. While disappointing Wallace Shawn, the movie would have had less cultural impact.
 * Ending with Erik Satie is unfair — <i>Gymnopédie 1</i> is an all-timer for me. Chills every time.
 * This is technically a Troma film!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58LA1b)

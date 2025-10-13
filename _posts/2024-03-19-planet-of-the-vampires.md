@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Planet of the Vampires (1965)"
 excerpt: "My review of Planet of the Vampires (1965)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/65gstb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Hooptober 6.0 | 18/32 | Special Effects: Carlo Rambaldi | Countries 2/6 | Spain</a>
 
@@ -27,7 +29,3 @@ The result is the most vibe-heavy, psychedelic space movie I've seen in recent m
 I don't know how Bava got the victims to walk around like Playstation 1 characters, but it adds an uncanny feeling.
 
 It's not the most exciting movie, but I enjoyed it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/65gstb)

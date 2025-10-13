@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Master Ninja II (1984)"
 excerpt: "My review of Master Ninja II (1984)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4TNv3v
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * ohhh aaa, don't move me!
 * i'm on the floor of an adult movie theater
@@ -18,7 +20,3 @@ category: movie_review
 * the military's wearing zubaz now
 * i stopped believing in causes, now I only believe in effects
 * greasy cute stuff
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4TNv3v)

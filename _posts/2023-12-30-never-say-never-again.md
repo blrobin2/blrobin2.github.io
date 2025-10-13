@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Never Say Never Again (1983)"
 excerpt: "My review of Never Say Never Again (1983)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5qYDy1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -27,7 +29,3 @@ category: movie_review
 * The Domination game is nonsense, but I love that early 80s CGI
 * Can't accept a lunch date, sir, I plan on fucking for the foreseeable future
 * Rockets that turn into jet packs? Now we're talking
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5qYDy1)

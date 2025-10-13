@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Frighteners (1996)"
 excerpt: "My review of The Frighteners (1996)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/69gDJF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="">Hooptober 6.0 | 27/32 | Dee Wallace | Countries 5/6 | New Zealand</a></b>
 
@@ -39,7 +41,3 @@ Overall, the effects are sharp. Despite the story's potential, watching it was a
 Not enough Melanie Lynskey!
 
 This has the worst cover of "Don't Fear the Reaper" performed by some New Zealand band called The Mutton Birds.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/69gDJF)

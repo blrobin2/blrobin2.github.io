@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Time of the Apes (1987)"
 excerpt: "My review of Time of the Apes (1987)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4JBK2X
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * 🎵Sandy Frank, Sandy Frank, here we go again!
 * I love the sound of breaking glass, but I hate these Minnesota winters
@@ -14,7 +16,3 @@ category: movie_review
 * for years I've thought about the pleasure it would give me to move my jaw
 
 Good lord
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4JBK2X)

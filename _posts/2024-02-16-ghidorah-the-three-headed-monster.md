@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ghidorah, the Three-Headed Monster (1964)"
 excerpt: "My review of Ghidorah, the Three-Headed Monster (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5QcUS1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 24/52 | Godzilla</a></b>
 
@@ -27,7 +29,3 @@ King Ghidorah looks sick as hell. It feels like all the monster budget went to h
 This might be the first time I've seen Takashi Shimura in color!
 
 It might have helped if I had watched the movies between the first Godzilla and this one. I might do that now...
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5QcUS1)

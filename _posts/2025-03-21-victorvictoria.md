@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Victor/Victoria (1982)"
 excerpt: "My review of Victor/Victoria (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9bd0pn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Paris 1934
 
@@ -23,8 +25,3 @@ Paris 1934
 * — You can stop pretending. — I don't think I want to!
 * Wild how well this movie aged — much better than Tootsie, which came out in the same year.
 * The private investigator's name is Sherloque??
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9bd0pn)

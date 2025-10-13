@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Supervixens (1975)"
 excerpt: "My review of Supervixens (1975)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5NTvrX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 20/52 | Russ Meyer">Cult Movie Challenge 2016 | 20/52 | Russ Meyer</a></b>
 
@@ -28,7 +30,3 @@ The bathtub murder scene is so brutal — I don't know if it needed to be that g
 The climax drags on for a bit too long, but that's also part of the joke.
 
 This was good! Color me impressed
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5NTvrX)

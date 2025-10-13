@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "One False Move (1991)"
 excerpt: "My review of One False Move (1991)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3YNIlT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 It starts with a violent crime by three criminals:
 
@@ -25,7 +27,3 @@ Bill Paxton plays “simple” country sherif who has his own way of doing thing
 The movie moves slowly, and the pieces come together pretty early, so it’s mostly a matter of waiting for everything to go down
 
 It’s a solid script, though, and the performances are all pretty good. You can tell it wants to be a Coen brothers movie, but it doesn’t have the cracking dialogue and tightness of even the Coen’s lesser crime films
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3YNIlT)

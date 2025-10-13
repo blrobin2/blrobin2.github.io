@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Room with a View (1986)"
 excerpt: "My review of A Room with a View (1986)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9vxuQD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 38/52 | Summer Travels</a></b>
 
@@ -30,8 +32,3 @@ The film's dry period humor won't be to everyone's tastes, but it's delightful i
 
 <blockquote><i>— I believe in democracy!
 — No, you don't! You don't know what the word means.</i></blockquote>
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9vxuQD)

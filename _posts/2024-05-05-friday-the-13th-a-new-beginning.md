@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th: A New Beginning (1985)"
 excerpt: "My review of Friday the 13th: A New Beginning (1985)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6pkAIL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 4/31 | Sequels 4/6</a></b>
 
@@ -31,7 +33,3 @@ I don’t hate this movie. But it does so little that I can’t say it did anyth
 
 <b>*** Spoilers ***</b>
 I like the idea of Jason becoming a persona <i>a la</i> Ghostface that people use to murder folks. It’s a shame they don’t carry that forward with the next movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6pkAIL)

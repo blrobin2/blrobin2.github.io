@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Killing American Style (1988)"
 excerpt: "My review of Killing American Style (1988)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/6ygTWv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 22/52 | Robert Z'Dar</a></b>
 
@@ -48,7 +50,3 @@ Honestly, after 40 minutes, this becomes pretty unbearable.
 * Wait, I thought they shot the doctor?
 * "I'll kill them, American style."
 * All this over ice cream money smdh
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ygTWv)

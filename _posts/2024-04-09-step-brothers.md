@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Step Brothers (2008)"
 excerpt: "My review of Step Brothers (2008)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6eW8IZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 15/52 | Buddy film, but the buddies aren't cops</a></b>
 
@@ -31,7 +33,3 @@ Also, around that time, Facebook killed Funny or Die by lying about the reach of
 Anyway, this movie isn't good. It's got momentum for the first 20-30 minutes, but it collapses once they do the job-hunting montage. Also, it just isn't my sense of humor.
 
 But I'm happy to see Adam Scott and so many UCB folks.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6eW8IZ)

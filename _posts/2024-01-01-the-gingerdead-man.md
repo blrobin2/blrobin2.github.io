@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Gingerdead Man (2005)"
 excerpt: "My review of The Gingerdead Man (2005)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5s8wyH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b>Thoughts/Spoilers</b>
 * From the esteemed director of <i>Evil Bong</i> and <i>Head of the Family</i>
@@ -30,7 +32,3 @@ category: movie_review
 * The closing credits look like a 90s TV opening credit sequence and I love it
 * That is the slowest closing credit crawl I've ever seen. I guess so that they have time to play "I Can't Help This" in its entirety
 * Joe Bob tearing up at the end of the episode is so touching
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5s8wyH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Horror of Party Beach (1964)"
 excerpt: "My review of The Horror of Party Beach (1964)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5Ta7Lt
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <i>Movie CW // Murder, Blood, Racism
 MST3K CW // Racism, Misogyny, Fat Phobia, Homophobia, Transphobia</i>
@@ -22,7 +24,3 @@ The monsters are funny, and there are a couple of decent scenes, but beach party
 * Hey, Mars exploded
 * Gentleman, I have a list of meats I'd like to read
 * The music's coming from inside the radio!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Ta7Lt)

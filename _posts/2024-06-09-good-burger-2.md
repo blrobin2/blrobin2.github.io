@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Good Burger 2 (2023)"
 excerpt: "My review of Good Burger 2 (2023)"
+rating: ""
+letterboxd_url: https://boxd.it/6DC5jn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>*** Stray Thoughts / Spoilers ***
 </b>* I'm high, so...
@@ -17,7 +19,3 @@ category: movie_review
 * I laughed when they set Kel's burger car on fire. Out of context that sounds mean.
 * I can't believe the kid from <i>Moonlight</i> is Ed 2.
 * "I would have Kel's baby." — Hollis
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6DC5jn)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Double Indemnity (1944)"
 excerpt: "My review of Double Indemnity (1944)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4ijfMB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 A boring insurance salesman (Frederick MacMurray) opts in on helping a hot housewife (Barbara Stanwyck) kill her husband and commit insurance fraud because he’s too horny to say no
 
@@ -17,7 +19,3 @@ It’s hard to fully appreciate just because it’s so influential and well-know
 <b>Stray Thoughts</b>
 * Keys talks like Larry David as Mr. Steinbrenner in <i>Seinfeld</i>
 * Seeing <i>Body Heat</i> first was a mistake. It’s essentially the same movie —<i> Body Heat</i> has a better ending
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ijfMB)

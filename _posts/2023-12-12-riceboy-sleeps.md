@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Riceboy Sleeps (2022)"
 excerpt: "My review of Riceboy Sleeps (2022)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5jiff3
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 The movie begins with So-young's story. She was born in 1960, abandoned by her parents, and bounced from foster home to foster home until adulthood. She worked many jobs, including a bar near a university. A war veteran student walked in. The two fell in love, and So-young became pregnant.
 
@@ -45,7 +47,3 @@ The Korean stuff is so heartwarming. Seeing how happy Dong-hyun is to meet his f
 They reference <i>The Ballad of Narayama</i>, and it comes back around beautifully.
 
 Love speaks in the details of this movie. I can't articulate how, but I felt their presence within me. When something is this specific, it resonates.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jiff3)

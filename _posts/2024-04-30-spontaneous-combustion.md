@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Spontaneous Combustion (1989)"
 excerpt: "My review of Spontaneous Combustion (1989)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6nge1f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 29/32 | Tobe Hooper 1/2</a></b>
 
@@ -37,7 +39,3 @@ I may not love it as much as the Hoopsters, but it’s still better than critics
 * Why do they let him get angry? Shouldn’t they be trying to quell his anger, no matter what?
 * All Lisa’s translucent neon stuff rules — her phone, her jukebox, and so on. What is that design style called?
 * Neon green goo that fixes everything? Sure!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6nge1f)

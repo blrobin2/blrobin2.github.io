@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Céline and Julie Go Boating (1974)"
 excerpt: "My review of Céline and Julie Go Boating (1974)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5hts9V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <blockquote><i>Usually, it began like this…</i></blockquote>
 
@@ -39,7 +41,3 @@ Each move contributes to the game's development. Is the story some alternate rea
 By introducing and repeating the story, the film investigates adaptation and what liberties you can take. Each time, they find the ending dissatisfying. So, they use magic to change the narrative.
 
 Overall, this movie is a delightful, surrealist adventure I loved getting lost in.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5hts9V)

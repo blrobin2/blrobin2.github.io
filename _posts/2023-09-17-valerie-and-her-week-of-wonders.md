@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Valerie and Her Week of Wonders (1970)"
 excerpt: "My review of Valerie and Her Week of Wonders (1970)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4R6fnl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 In childhood, a single pearl can be the antidote to a chicken plague, and a polecat can also be a vampire or your biological father — fantasy and horror intermingle in uncertainty
 
@@ -17,7 +19,3 @@ If you are bothered, you are in good company — the Communist leaders who finan
 Outside of its cultural context, the film still flourishes with Tarkovsky-like pastoral scenes and enigmatic surrealism — a familiar folktale in its depiction of the monsters that prey on children — vampires, priests, and husbands of friends are equally threatening, all desperate to steal youth for themselves
 
 Perhaps most troubling is the lack of any polemic on right or wrong — everything beckons, so you must decide what is right
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4R6fnl)

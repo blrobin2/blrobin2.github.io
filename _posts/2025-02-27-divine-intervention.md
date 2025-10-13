@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Divine Intervention (2002)"
 excerpt: "My review of Divine Intervention (2002)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8XHZAb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 7/52 | Top 100 Arab Films</a></b>
 
@@ -23,7 +25,3 @@ I recently watched Suleiman's <i>It Must Be Heaven</i>, so I was prepared for hi
 Perhaps watching <i>It Must Be Heaven</i> ruined some of the surprises this movie would have, But there's a potency here that doesn't entirely saturate <i>It Must Be Heaven</i>. I think the "fuck you" to Israel is way more explicit here. Then again, <a href="https://boxd.it/8Oxg2H">as I said in my other review</a>, I won't pretend to understand all the jokes without better knowledge of the cultural context.
 
 I would also hire Manal Khader to be my girlfriend, who stares at me and destroys Israeli military checkpoint towers.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8XHZAb)

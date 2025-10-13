@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pretty Poison (1968)"
 excerpt: "My review of Pretty Poison (1968)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4aYf95
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Anthony Perkins plays Dennis Pitt, a man recently released from a mental institution on parole. Cut to Dennis sitting outside a high school, watching the majorettes practice, picking his target for his next delusional fantasy — that he is a CIA agent
 
@@ -24,7 +26,3 @@ Stray Thoughts:
 * Just jogging to work at the lumber yard in slacks and a dress shirt, nothing out of the ordinary
 * I love how she says, “What?!” when he first introduces himself
 * He has a zip-up hoodie that looks so modern. It’s uncanny
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4aYf95)

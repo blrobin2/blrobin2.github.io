@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Most Dangerous Game (1932)"
 excerpt: "My review of The Most Dangerous Game (1932)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5N0YJB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 7/32 | Decades 1/6 | 1930s</a></b>
 
@@ -47,7 +49,3 @@ I wish we had more one-hour movies these days. This movie is the perfect length 
 * The Count needs to learn a second song on the piano.
 * Oh wow, he beats Mr. Burns on hounds.
 * Woah, they threw that knife!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5N0YJB)

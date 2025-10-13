@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Collector (1997)"
 excerpt: "My review of The Collector (1997)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4SLe49
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>— how could you judge without seeing? You could just look at what I've got here, but you judge me right away</i></blockquote>Eevi is an awkward, unpredictable woman who lives with her sister Ami. But when Ami kicks her out so that Ami's girlfriend can move in, Eevi's sense of abandonment and rage manifests in stealing Ami's car and taking a road trip
 
@@ -27,7 +29,3 @@ This is a striking and intense debut film from Auli Mantila — I'm looking forw
 * Animal violence :( Thankfully, we don't see anything
 * Is Pepsi a good dog name? It's certainly a non-American dog name
 * The butterfly collector seems the same to her because they both want to collect beauty, even if it means harming it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4SLe49)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Light Blast (1985)"
 excerpt: "My review of Light Blast (1985)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9RIGCN
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Dude, the cold open to the smoothest '80s guitar put me in such a positive mood. I guess it's the <a href="https://www.youtube.com/watch?v=VhQMHYmS7ig">Theme from Light Blast by Guido & Maurizio de Angelis</a>.
 
@@ -24,8 +26,3 @@ I finally got the attraction to Erik Estrada. It only took him fighting in his u
 * Rich Corinthian Leather Blast
 * Ow, right in the CHIPs!
 * Did cocaine design that car?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9RIGCN)

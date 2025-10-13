@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kung Fu from Beyond the Grave (1982)"
 excerpt: "My review of Kung Fu from Beyond the Grave (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/bgBmXv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 4/31 | Decades 3/9 | 1980s | Zombie 3/5</a></b>
 
@@ -27,7 +29,3 @@ The Chinese title 陰忌, as best as I can tell, translates to something like "F
 Following the success of Sammo Hung's <a href="https://boxd.it/4O2YEB"><i>Encounters of the Spooky Kind</i></a>, many HK film producers jumped on the 殭屍 (jiāngshī) train, all to varying degrees of success. At the same time, Sammo Hung went on to make more crime and action comedies, returning briefly to the genre with his Mr. Vampire series.
 
 This film is one of many that don't match <i>Spooky Encounter</i>'s quality, but it has plenty of ideas and ambitions. I had a good time and would gladly watch again with the right friend.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bgBmXv)

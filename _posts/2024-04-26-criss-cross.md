@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Criss Cross (1949)"
 excerpt: "My review of Criss Cross (1949)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6lrUHV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 17/52 | Heist film, but the thing being stolen is someone's heart</a></b>
 
@@ -23,7 +25,3 @@ Suddenly, here you are, in town with them. All the good feelings come flooding b
 Burt Lancaster is incredible as heartbroken and stupid — stupid in the most understandable of ways, sticking around long past when he should.
 
 If you've seen noir, you know the beats — there are no happy endings or lucky people.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6lrUHV)

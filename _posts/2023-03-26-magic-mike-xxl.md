@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Magic Mike XXL (2015)"
 excerpt: "My review of Magic Mike XXL (2015)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/421szv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Starts off with enough plot to satisfy the folks who liked the last movie, and just enough unnecessary conflict to ensure things don’t go perfectly smooth. By abandoning the lessons of the last movie — namely, that stripping is a dead-end street that he needed to get out of — the stakes are non-existent, so besides the petty interpersonal shit, they just hang dude
 
@@ -22,7 +24,3 @@ The third act is all of the dancing you could ask for, the finale is that they f
 * A pile of straight boys voguing at a drag show was… not cool
 * Pick up your fucking cash after your routine, you amateurs!
 * You get Donald Glover the actor, and you use him to rap, the thing he is notably terrible at? At least that shirt came off
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/421szv)

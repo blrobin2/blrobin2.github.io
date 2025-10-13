@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In the Aftermath (1988)"
 excerpt: "My review of In the Aftermath (1988)"
+rating: ""
+letterboxd_url: https://boxd.it/5Z09in
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 4</a></b>
 
@@ -23,7 +25,3 @@ This movie didn't get any distribution outside of the UK until 2019, so I can't 
 I'm trying to imagine what I would think of this if I had not seen <i>Angel's Egg</i>. I feel like I would just decide to watch it instead.
 
 Can you think of another instance like this?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Z09in)

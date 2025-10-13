@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A View to a Kill (1985)"
 excerpt: "My review of A View to a Kill (1985)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5r45Rl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -24,7 +26,3 @@ category: movie_review
 * A "double earthquake"
 * Why does May Day turn? And why does she stay on the bomb??
 * Bond is missing... again. And we must presume the worst... again. Even though he's where he always is — fucking the person he spent most of the movie with
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5r45Rl)

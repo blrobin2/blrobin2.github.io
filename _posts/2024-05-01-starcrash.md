@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Starcrash (1978)"
 excerpt: "My review of Starcrash (1978)"
+rating: ""
+letterboxd_url: https://boxd.it/6nMap7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 I love it when giallo directors do sci-fi. This is modeled so closely on <i>Star Wars</i>, but without all the stuff. It's so kooky though, I actually love this. 
 
@@ -19,7 +21,3 @@ Joe Spinell as the Darth Vader surrogate!  Caroline Munro as Leia or something! 
 * Mexican bootleg Lisa Simpson??
 * I knew it would hurt you and I let it happen
 * — By sunset... — In space?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6nMap7)

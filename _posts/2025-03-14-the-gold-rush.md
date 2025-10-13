@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Gold Rush (1925)"
 excerpt: "My review of The Gold Rush (1925)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/97fi1V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 41/52 | 1920s</a></b>
 
@@ -25,7 +27,3 @@ The shoe gag is an all-timer — same with the Tramp turning into a giant chicke
 This movie came out around the time that Chaplin got Lita Grey, then 15 years old, pregnant and married her to avoid a statutory rape charge. He had an affair with costar Georgia Hale that instigated Grey's divorce from Chaplin. He was such a messy bitch who lived for drama.
 
 I know this is one of the great American silent comedies. As I've said in countless other reviews, I don't get much out of Chaplin's schtick. I like the movie—I found the New Year's scene affecting. But this is the third time I've tried to watch it because of how much of a slog it becomes. Homework done.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/97fi1V)

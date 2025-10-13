@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ritual (2017)"
 excerpt: "My review of The Ritual (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6XVYJX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail" rel="nofollow">Hooptober 2.0 | 26/31 | Monster 1/5</a></b>
 
@@ -37,7 +39,3 @@ Overall, this movie is decent. I understand why some folks love it. I wanted the
 So, the biggest fear of the predominantly atheist England is a god they must bow to. As colonizers, they may bring their god to you, but never the other way around. So, when Luke must bow to the god of the forest, who gives the villagers eternal life, he would rather kill all of them and set their village on fire than bow.
 
 I know, I know, he’s showing he’s changed by facing his fear instead of hiding in cowardice like he did with Rob. But folk horror is often about how men think they can control nature, and how it overwhelms them. This film is about men who think they can control nature, and do.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6XVYJX)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Helter Skelter (2012)"
 excerpt: "My review of Helter Skelter (2012)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/an0euL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 29/52 | Japanese Horror</a></b>
 
@@ -37,7 +39,3 @@ I compared this to <i>The Substance</i> because both deal with fighting time to 
 * I'm not gonna lie — I love her apartment.
 * The special effects are excellent, making me squirm in several places. 
 * The police subplot is a little annoying and obvious — the poetic cop isn't THAT poetic, stating the themes as bluntly and repeatedly as possible. Cutting it entirely would significantly sharpen this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/an0euL)

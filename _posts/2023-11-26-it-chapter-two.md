@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "It Chapter Two (2019)"
 excerpt: "My review of It Chapter Two (2019)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5dI2a3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 29/34 | Stephen King adaptation that is not the first go around</b>
 
@@ -27,7 +29,3 @@ What the fuck is this? I assumed this wouldn't be good, but I couldn't imagine.
 Bill Skarsgård is an incredible Pennywise. Otherwise, nothing here is worthwhile.
 
 Wait, a guard watches a video of a cute dog in sunglasses. It also has that going for it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5dI2a3)

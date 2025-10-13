@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Saving Private Ryan (1998)"
 excerpt: "My review of Saving Private Ryan (1998)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5URFYr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 9/52 | 1990s</a></b>
 
@@ -27,7 +29,3 @@ The film is self-aware — Spielberg knew that a mission of 8 men to save 1 is r
 The Matt Damon Aging meme ruined the final reveal for folks like me who hadn't seen it — that the veteran at the beginning is not John Miller, but the titular Private Ryan. His visit to the grave is a reverent outpouring for the sacrifice that led to his survival. 
 
 This movie is a highly influential technical marvel, and I don't feel great about that.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5URFYr)

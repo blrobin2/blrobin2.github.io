@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Auntie Lee's Meat Pies (1992)"
 excerpt: "My review of Auntie Lee's Meat Pies (1992)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6hcNkz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 16/52 | Karen Black">Cult Movie Challenge 2024 | 16/52 | Karen Black</a></b>
 
@@ -38,7 +40,3 @@ It's not a great movie, and it's honestly not that fun for the first hour, but i
 * Blacklight Stonehenge bedroom
 * "Sweet death, the final act of eroticism."
 * Poor Pat Morita :(
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6hcNkz)

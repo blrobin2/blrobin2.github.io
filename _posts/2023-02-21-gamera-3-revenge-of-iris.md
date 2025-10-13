@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera 3: Revenge of Iris (1999)"
 excerpt: "My review of Gamera 3: Revenge of Iris (1999)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3T20Vp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 By expanding the <i>Gamera</i> mythos and acknowledging his destructive nature, the movie gets to tell a more complex story
 
@@ -17,7 +19,3 @@ And there’s a Sega Dreamcast game in the movie that is a significant plot poin
 The heavier reliance on CGI for the final battle is kind of a bummer but I understand the need in order to up the ante from the previous movies
 
 Still, best Gamera movie I’ve seen this far
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3T20Vp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Aparajito (1956)"
 excerpt: "My review of Aparajito (1956)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/bbyGGD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>
 
@@ -35,7 +37,3 @@ The cinematography is absolutely gorgeous. Subrata Mitra makes excellent use of 
 * The montage of Apu educating himself and growing into a young adult.
 
 After releasing an incredible first picture, Satyajit Ray follows it up with a film that technically exceeds its predecessor in nearly every way. This film is a beautiful document of a specific era of India's history, made by one of India's greatest directors.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bbyGGD)

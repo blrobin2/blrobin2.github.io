@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cat People (1942)"
 excerpt: "My review of Cat People (1942)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/3VHTDv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Stray thoughts:
 * Why is he keeping that cat in a box all day? Also, what a terrible gift, regardless of whether it’s for a cat person or otherwise
@@ -16,7 +18,3 @@ Stray thoughts:
 * It’s clear now how little Paul Schrader did for his remake other than add some sex and violence — which is fine with me — but his version also felt less tense and ambiguous 
 
 Jealousy is a hell of a drug
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3VHTDv)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cannibal Terror (1980)"
 excerpt: "My review of Cannibal Terror (1980)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6xVYFx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 25/31 | people eating people (non-zombie) 1/3</a></b>
 
@@ -38,7 +40,3 @@ Overall, the film does as little as possible to check off the genre troupes. The
 * Oh no, blackface — that feels like footage from the Jess Franco movie because we never see that guy again, and everyone else is as white as the driven snow
 * How do you have a parrot in half of your movie, and it doesn't say anything??
 * The cannibals are vigilantes?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6xVYFx)

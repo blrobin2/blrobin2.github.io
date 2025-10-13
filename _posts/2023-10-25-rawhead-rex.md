@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rawhead Rex (1986)"
 excerpt: "My review of Rawhead Rex (1986)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5348G5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 27/34 | Based on a Clive Barker story</b>
 
@@ -30,7 +32,3 @@ This movie is pretty dumb, but time and 80s nostalgia has only helped it. Enjoy 
 
 <b>*** SPOILERS ***</b>
 At a certain point, Rawhead only kills men (who knew Satan was a TERF?). So, when Howard finds the fertility totem hidden in the church, Elaine must hold the totem and trap Rawhead. That’s pretty rad.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5348G5)

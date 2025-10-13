@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Time of the Gypsies (1988)"
 excerpt: "My review of Time of the Gypsies (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8IierB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 19</a></b>
 
@@ -23,7 +25,3 @@ Also, the boundaries between magic and reality are blurred. Khatidža has the po
 The movie goes to great lengths to build its world. I felt lost (in a good way) as I waited to see what story emerged. I felt a little disappointed when the story kicked in. It's another, "The dishonest way to wealth will always bite you."
 
 Still, the film is heartbreaking, even if it squanders a fair bit of its runtime.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8IierB)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Casino Royale (1967)"
 excerpt: "My review of Casino Royale (1967)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5ppjr1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -19,7 +21,3 @@ category: movie_review
 * Ursula Andress proves how underutilized she was in Dr. No.
 * Jean Paul Bellmondo?!
 * I like the clapping seal
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ppjr1)

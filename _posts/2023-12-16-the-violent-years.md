@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Violent Years (1956)"
 excerpt: "My review of The Violent Years (1956)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5kCPkH
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I genuinely love the opening credits — the gang members taking turns standing in front of the chalkboard, their names appearing beneath them. It's very sitcom-y
 
@@ -19,7 +21,3 @@ I genuinely love the opening credits — the gang members taking turns standing 
 * She died as she lived — failing algebra
 * Another right turn... those fiends!
 * She's got a room on the 400th floor
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kCPkH)

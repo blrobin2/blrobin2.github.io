@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Don't Go in the House (1979)"
 excerpt: "My review of Don't Go in the House (1979)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/aCF61t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 6/52 | Video Nasties</a></b>
 
@@ -29,7 +31,3 @@ In this way, the film gives an empathetic lead in Donny, much like <i>Maniac</i>
 One of the best scenes is one where Donny dreams of explosions and emulsified bodies surrounding him, crawling out of the ground to drag him down. Also, the ending is totally unhinged.
 
 The film also has a queer reading, especially once the disco comes into play, but the narrative is too problematic through that lens for me to chase down that interpretation.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aCF61t)

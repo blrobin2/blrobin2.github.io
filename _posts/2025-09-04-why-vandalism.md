@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Why Vandalism? (1955)"
 excerpt: "My review of Why Vandalism? (1955)"
+rating: ""
+letterboxd_url: https://boxd.it/aXKLoH
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Why did this short go so hard on the cinematography?
 
@@ -14,7 +16,3 @@ Why did this short go so hard on the cinematography?
 * Looks like Jeff will have to find another dog to vandalize.
 * Don Cardiff, teenage detective.
 * Oop, classic sneaking music! You'd think guards would notice it by now.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aXKLoH)

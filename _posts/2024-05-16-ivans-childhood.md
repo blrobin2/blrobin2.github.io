@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ivan's Childhood (1962)"
 excerpt: "My review of Ivan's Childhood (1962)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/6tWsT9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 12/52 | Genre: War</a></b>
 
@@ -31,7 +33,3 @@ The film uses art and artifacts — the spoils of war — to talk about absence 
 Ivan wants to fight in the war as revenge for what it has taken from him. His dreams and memories haunt him — vengeance is the only exorcism he can imagine.
 
 <blockquote><i>Will this be the last war on earth?</i></blockquote>As one of the earliest anti-war movies to come out of Russia's post-Khrushchev thaw, this film feels special. It moves me in ways few (any?) war movies have. I don't love this like later Tarkovsky movies, but it's a phenomenal film.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tWsT9)

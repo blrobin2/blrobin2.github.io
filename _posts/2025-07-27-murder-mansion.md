@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Murder Mansion (1972)"
 excerpt: "My review of Murder Mansion (1972)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/auwhRl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 5/52 | Giallo</a></b>
 
@@ -37,8 +39,3 @@ This movie won't excite most audiences. Lord knows I felt boredom creep on at ti
 * Mr. Porter seems to have only one thing in mind: getting laid. But he also seems to know more than he lets on.
 * Fred wants to get to the bottom of whatever's going on. He's got big Fred from Scooby-Doo energy.
 * Mrs. Tremont is me—too sleepy to function at most times.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/auwhRl)

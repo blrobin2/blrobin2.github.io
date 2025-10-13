@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "The Nightmare on Deskteeth Street (2016)"
 excerpt: "My review of The Nightmare on Deskteeth Street (2016)"
+rating: ""
+letterboxd_url: https://boxd.it/8ZmIvJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 yodelay hee boots
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8ZmIvJ)

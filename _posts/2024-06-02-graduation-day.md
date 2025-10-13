@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Graduation Day (1981)"
 excerpt: "My review of Graduation Day (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6B1w5l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Track and field — the crowd goes wild. Laura's pushing, the crowd chants her name. After 30 fucking cuts, she crosses the finish line and collapses. The track team gathers around her. She's dead.
 
@@ -34,7 +36,3 @@ Early Linnea Quigley role! I didn't recognize her at first.
 I don't know, I liked this! It's funny, it's weird, and it has some distinct set pieces. Football with a retractable blade? I've never seen that before.
 
 But a 7-minute rendition of Gangster Rock by Felony is too much.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6B1w5l)

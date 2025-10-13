@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "From Russia with Love (1963)"
 excerpt: "My review of From Russia with Love (1963)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5ocQ3V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -34,7 +36,3 @@ category: movie_review
 * “There’s a saying in England: ‘When there’s smoke, there’s fire.’”
 * — “Horrible woman.” — “Yes, she’s had her kicks.” SMASH CUT TO BIRDS.
 * A disembodied hand waves goodbye to a sex tape. THE END.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ocQ3V)

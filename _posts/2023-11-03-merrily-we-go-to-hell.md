@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Merrily We Go to Hell (1932)"
 excerpt: "My review of Merrily We Go to Hell (1932)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/56dmYd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Jerry Corrbett (Fredric March), drunk off his ass, hits a woman at a party named Joan Prentice (Slyvia Sidney) with a paper football. The two sit together on the balcony and kiss. Joan invites Jerry to a tea party the next day. Then, a man named Greg Boleslavsky grabs her, and they leave. Jerry offers a toast:
 
@@ -44,7 +46,3 @@ This may have played for laughs in 1932. It's more likely that Hollywood has cal
 * Fredric March does not have comedic chops. He fares better in genre films like his standout role in Dr. Jekyll and Mr. Hyde.
 * Cary Grant gets ninth billing, this being one of his earliest prominent roles
 * Joans's cute dog actor gets too little screen time!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56dmYd)

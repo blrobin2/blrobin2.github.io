@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Farm Family In Spring (1967)"
 excerpt: "My review of Farm Family In Spring (1967)"
+rating: ""
+letterboxd_url: https://boxd.it/9HPjId
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Bridget and Mary Jo riffing
 
@@ -15,8 +17,3 @@ Bridget and Mary Jo riffing
 * Let's get these maxi pads for Mom and Pam loaded up.
 * Dear plant, see me after class.
 * Here's Pam and Dale in Cambodia.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9HPjId)

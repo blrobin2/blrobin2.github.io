@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mill of the Stone Women (1960)"
 excerpt: "My review of Mill of the Stone Women (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5XGlCv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 2/32 | film from before 1966 2/6">Hooptober 6.0 | 2/32 | film from before 1966 2/6</a></b>
 
@@ -31,7 +33,3 @@ The movie is at its best during a fever dream in which Hans cannot discern hallu
 The ending is horrifying and has some all-time great images.
 
 This movie is outstanding gothic horror — Hammer rarely reached similar heights.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5XGlCv)

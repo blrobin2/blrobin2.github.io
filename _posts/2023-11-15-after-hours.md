@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "After Hours (1985)"
 excerpt: "My review of After Hours (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5a8txJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 16/52 | Independent American Cinema</b>
 
@@ -25,7 +27,3 @@ Paul sucks. He's self-involved and goes from zero to 100, blowing up on everyone
 I don't love the "one crazy night" trope that much unless it bounces around. This is an interesting take on it, with how weird and existential it gets, but it consistently overlaps with itself and it gets old. I see why folks like this, though.
 
 Perhaps my expectations were too high, but this is still good.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5a8txJ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Track of the Moon Beast (1976)"
 excerpt: "My review of Track of the Moon Beast (1976)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6eGwmh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 This is the first time I can remember a movie making me laugh with how boring it is. But it had some goofy special effects that I can't hate.
 
@@ -16,7 +18,3 @@ This is the first time I can remember a movie making me laugh with how boring it
 * [lightning crashes] Stop talking, Johnny Longbone!
 * Harris was killed by some kind of thing that killed him
 * Ah hell, let's shoot up there and see what happens
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6eGwmh)

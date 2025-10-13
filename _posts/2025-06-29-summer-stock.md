@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Summer Stock (1950)"
 excerpt: "My review of Summer Stock (1950)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/a9BCAh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b>*** Stray Thoughts / Spoilers ***</b>
 
@@ -24,7 +26,3 @@ category: movie_review
 * I hate the animal calls song so much. First time I've ever reconsidered my crush on Gene Kelly
 * "Come On, Get Happy" is so iconic! What a leggy outfit! And those suits!
 Orville yells, Quiet!" like Mel Blanc.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a9BCAh)

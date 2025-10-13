@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Antichrist (1974)"
 excerpt: "My review of The Antichrist (1974)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6lz5Iz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 51/52 | Italian Horror">Cult Movie Challenge 2016 | 51/52 | Italian Horror</a></b>
 
@@ -47,7 +49,3 @@ I still like the movie — I just came away less excited for an underwhelming ba
 * Disembodied arm choking a guy!
 * Eww, eating vomit
 * Bored
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6lz5Iz)

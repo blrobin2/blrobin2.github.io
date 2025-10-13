@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ascent (1977)"
 excerpt: "My review of The Ascent (1977)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5lgvDz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 46/52 | 1970s</b>
 
@@ -55,7 +57,3 @@ Boris Plotnikov resembles every classical Russian painting of Jesus.
 I appreciate what most of the film does, but the last twenty minutes bring everything into focus, perhaps to a fault.
 
 I find it challenging to reconcile patriotism and morality, even in more nuanced cases.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5lgvDz)

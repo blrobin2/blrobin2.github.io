@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Women of the Prehistoric Planet (1966)"
 excerpt: "My review of Women of the Prehistoric Planet (1966)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4vEcBT
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * He’s lost his keys a few times, but never a whole ship
 * Take the shot! It’s the only way to reinforce the director’s white male reality!
@@ -14,7 +16,3 @@ category: movie_review
 * Oh wow, mom never looked THAT good
 
 Note: there were no women of the prehistoric planet
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4vEcBT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bride Who Has Returned From Hell (1965)"
 excerpt: "My review of The Bride Who Has Returned From Hell (1965)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8PchF3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 After a boating accident in Yehliu, police find a man's body washed up on shore. Beside him is a woman's purse, but no other bodies. They believe it to be Ko Jing-Min and call his younger sister, Ko Fon-Jiao, to identify the body. 
 
@@ -25,7 +27,3 @@ The score combines scores from different movies, lifted to match the particular 
 My apologies for the mixed-up Hokkien and Mandarin renderings of the names. The movie is in Hokkien, but the info outside the movie I could find was in Mandarin. The movie doesn't say everyone's name, so I had to go off what I could find.
 
 The film has a ton of setup to get through, but once things get going, it's pretty fun! It certainly contradicts <i>Film History: An Introduction</i>, which seems to believe that Taiwan only made propaganda and shlock before 1982.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8PchF3)

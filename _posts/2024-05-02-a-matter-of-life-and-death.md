@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Matter of Life and Death (1946)"
 excerpt: "My review of A Matter of Life and Death (1946)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/6o9oKT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 4/52 | 1940s</a></b>
 
@@ -43,7 +45,3 @@ The escalator to heaven is truly remarkable. According to the filmmakers, it isn
 The trial scene loses me a bit. It’s a little long and boring. But the set looks amazing.
 
 Still, every time I watch a Powell and Pressburger movie, it becomes one of my favorites.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6o9oKT)

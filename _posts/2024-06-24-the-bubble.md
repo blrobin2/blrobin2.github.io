@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bubble (1966)"
 excerpt: "My review of The Bubble (1966)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6JI0lz
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Joel episode!
 
@@ -22,7 +24,3 @@ Wow, this movie is boring.
 * I stole that cab, I should be in jail!
 * Based on these tracks here, I should have learned how to track
 * Lay-Z Boy presents the David Cronenberg collection
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6JI0lz)

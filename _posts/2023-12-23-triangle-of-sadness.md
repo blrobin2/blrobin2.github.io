@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Triangle of Sadness (2022)"
 excerpt: "My review of Triangle of Sadness (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5nfb3R
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 51/52 | 2020s</b>
 
@@ -46,7 +48,3 @@ Of all the 140-odd-minute movies I've watched this year, this film made the best
 * Carl is excited to find a nice cologne on the beach.
 * Playing backgammon on the beach. What is this, <i>Lost</i>?
 * The donkey scene is, um, upsetting.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5nfb3R)

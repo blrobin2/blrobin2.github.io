@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kill or Be Killed (1976)"
 excerpt: "My review of Kill or Be Killed (1976)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/bfVKCn
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 I like the credits projected on sweaty fighters, sue me. One of the fighters looks like Bob from Twin Peaks! (edit: It's MacPherson from <a href="https://boxd.it/5V3qmh" title="Space Mutiny"><i>Space Mutiny</i></a><i></i>!)
 
@@ -18,7 +20,3 @@ Between the Nazi jokes, Asian jokes, and little people jokes, the funny riffs ar
 * Let me put my fingers in your eyeballs, my sweet.
 * Honestly, if you think anyone other than Chico is the hero of this movie, you're a damn fool.
 * Meanwhile, at the He-Man Castle Greyskull play set that someone painted white.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bfVKCn)

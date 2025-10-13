@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Monkey Shines (1988)"
 excerpt: "My review of Monkey Shines (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8K1qmH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 21</a>
 
@@ -34,7 +36,3 @@ Boo, who plays Ella, is so sweet and such a tremendous animal actor. The filmmak
 Like many directors, Romero was constantly frustrated with the studio's handling of the film. Although this was only his second studio film, Romero returned to independent films for the remainder of his career.
 
 Because of studio meddling, we must evaluate the movie as it is rather than what Romero wanted. Thankfully, it's still a pretty great movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8K1qmH)

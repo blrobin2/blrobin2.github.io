@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Brotherhood of Satan (1971)"
 excerpt: "My review of The Brotherhood of Satan (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/a4NaN7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 1/52 | Elvira's Movie Macabre</a></b>
 
@@ -36,7 +38,3 @@ The film has some nods to <i>Rosemary's Baby</i> and <i>Village of the Damned</i
 
 I like that the doctor messes up his hair and puts on glasses to disguise himself, but no one outside of the coven knows he's the leader, so what's the point? It's like Superman only dressed as Clark Kent on Mars.
 <b>*** END SPOILER ZONE ***</b>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a4NaN7)

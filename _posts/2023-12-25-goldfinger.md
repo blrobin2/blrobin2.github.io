@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Goldfinger (1964)"
 excerpt: "My review of Goldfinger (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5ogayZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -32,7 +34,3 @@ category: movie_review
 * Goldfinger sucked out of the airplane window like a dust bunny in a vacuum.
 * Pussy Galore is an incredible pilot. But sure, Bond’s got it.
 * Bond loves fucking en plein air
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ogayZ)

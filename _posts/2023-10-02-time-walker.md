@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Time Walker (1982)"
 excerpt: "My review of Time Walker (1982)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4Vyfvh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * So far, this looks like the dramatization of a movie
 * Bless... this... mess?
@@ -17,7 +19,3 @@ category: movie_review
 * bright lights, big mummy
 * who is humming?!
 * [slo-mo] oooopsieees
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Vyfvh)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Video Violence (1987)"
 excerpt: "My review of Video Violence (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6Wvekr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 23/31 | Slasher 3/5</a></b>
 
@@ -35,7 +37,3 @@ This tape was one of the most widely distributed SOV horror films, following in 
 There's a guy in one of the homemade videos playing a vampire. He looks like Freddy Mercury or Adam Ant. I had to look it up to make sure it wasn't.
 
 This film has the bones of a brilliant film, but lacks the budget and acting power to carry it. If you can handle SOV budget, this one is popular for a reason — it's one of the best SOV horror movies I've seen thus far.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Wvekr)

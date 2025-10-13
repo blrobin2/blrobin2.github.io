@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Name Is Nobody (1973)"
 excerpt: "My review of My Name Is Nobody (1973)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5YNj8L
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 10/52 | Spaghetti Western</a></b>
 
@@ -45,7 +47,3 @@ While this has its flaws, its warm-hearted style is rare in Westerns.
 * Like stealing an apple from a baby?
 * The letter at the end is way too long!
 * Freeze frame on Nobody sticking his finger in a barber's butt.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5YNj8L)

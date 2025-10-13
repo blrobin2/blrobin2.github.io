@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Irishman (2019)"
 excerpt: "My review of The Irishman (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6UH6pT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 24/52 | Made in the United States</a></b>
 
@@ -33,7 +35,3 @@ From a filmmaking perspective, the whole thing seems like a tremendous ordeal to
 I didn't hate this. It's just not going to stick with me. Thankfully, <i>Killers of the Flower Moon</i> came out after this and has stuck with me. Scorsese's still got it, when he isn't making gangster flicks.
 
 Siri, play "Landslide" by Fleetwood Mac.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6UH6pT)

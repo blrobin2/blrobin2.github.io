@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gemini Man (2019)"
 excerpt: "My review of Gemini Man (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6QiZv7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 28/52 | That same director’s lowest-rated film (Ang Lee)</a></b>
 
@@ -33,7 +35,3 @@ The film explores similar themes to <i>Civil War</i> — the remorse of the old 
 I can’t play contrarian and act like this is secretly brilliant. Some folks praise any movie that takes a creative risk because they want to encourage Hollywood to take chances. It’s hard to call an action movie starring Will Smith a chance as much as déjà vu.
 
 It’s a fun, dumb action movie. The rest is noise.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QiZv7)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tales from the Crypt: Demon Knight (1995)"
 excerpt: "My review of Tales from the Crypt: Demon Knight (1995)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5W960V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 29/32 | black director or predominantly black cast or lead 2/2</a></b>
 
@@ -44,7 +46,3 @@ This ends up being a demonic <i>Assault on Precinct 13</i>, which rules.
 * Billy Zane's Dick Miller impersonation is pretty spot on.
 * The comic mirroring the events is neat.
 * The Crypt Keeper asked for final cut, so they decapitated him.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5W960V)

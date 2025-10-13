@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Evil Dead Trap (1988)"
 excerpt: "My review of Evil Dead Trap (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5fdvIp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Nami's Late Late Night used to be a hot show, but the ratings are low.
 
@@ -31,7 +33,3 @@ Still, it's wacky as hell.
 * One theme sounds like "All Around the World."
 * These women are braver than the troops — whenever you see me saluting, it will secretly be to them.
 * That last shot. Holy shit. I can't wait to watch the sequel.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fdvIp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Quest of the Delta Knights (1993)"
 excerpt: "My review of Quest of the Delta Knights (1993)"
+rating: ""
+letterboxd_url: https://boxd.it/68xeub
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Season 9 finale! It's all going by so quickly :(
 
@@ -23,7 +25,3 @@ Pearl takes Mike's place for the first part of the episode. Mary Jo Pehl has bee
 * Let's tap that spigot on your head and have some cider
 * David Warner, you are under arrest by order of David Warner
 * Let's lead him to water and see what happens
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/68xeub)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Great Silence (1968)"
 excerpt: "My review of The Great Silence (1968)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9bpS7B
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 11/52 | Spaghetti Western</a></b>
 
@@ -33,7 +35,3 @@ The score has some tremendous moments—definitely my favorite part of the movie
 The movie doesn't always make great use of its time. There's depicting a long horse ride, and then there's making us watch a long horse ride.
 
 The ending is up for debate—I'll leave it up to the viewer.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9bpS7B)

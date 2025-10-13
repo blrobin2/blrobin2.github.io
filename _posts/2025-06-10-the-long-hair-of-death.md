@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Long Hair of Death (1964)"
 excerpt: "My review of The Long Hair of Death (1964)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9Xg0iT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 51/52 | Italian Horror</a></b>
 
@@ -24,7 +26,3 @@ The script is pretty weak, with all the reveals happening through leaden dialogu
 The organ-heavy score will either pull you in or annoy you—I dug it.
 
 While this movie probably doesn't deserve the rating I'm giving it, it's my sort of cozy that made for a delightful change of pace from my current run of watches. And the ending rules!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Xg0iT)

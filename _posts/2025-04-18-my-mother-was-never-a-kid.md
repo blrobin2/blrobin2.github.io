@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Mother Was Never a Kid (1981)"
 excerpt: "My review of My Mother Was Never a Kid (1981)"
+rating: ""
+letterboxd_url: https://boxd.it/9rg4gJ
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Bridget Jones Nelson (Mike's wife) and Mary Jo Pehl riff on this for Mother's Day.
 
@@ -18,8 +20,3 @@ Aside from some continuity problems, this is a pretty solid after-school special
 * General Patton's Five Tips for a Happy Marriage
 * Sooner or later, every young man hears the sound of a defeated woodwind.
 * Well, I know for a fact my mother was never a kid. Also, my mom never laughs at my jokes. And I have to be home by nine, even though Mike says I can stay out til 10!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9rg4gJ)

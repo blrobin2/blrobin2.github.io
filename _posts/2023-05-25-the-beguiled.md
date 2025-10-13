@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Beguiled (1971)"
 excerpt: "My review of The Beguiled (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4hMsAn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A preteen girl finds a wounded Union soldier (Clint Eastwood) and brings him to the Confederate boarding school she belongs to. Eastwood tries out his rizz on everyone he can — including the younger girls — stirring their repressed desires and their fears of a Union soldier who may hurt them. And yet, when the Confederate patrol passes by, the women opt to keep his presence a secret
 
@@ -17,7 +19,3 @@ The film deals with how repression can only work as a coping mechanism for so lo
 I like Eastwood as a villain. I Ike how dark and unhinged this movie gets. I knew a little about it — I’d seen Eastwood kissing a 12-year-old discussed out of context, and it’s worse in context
 
 A fun and disturbing potboiler with a great ending
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4hMsAn)

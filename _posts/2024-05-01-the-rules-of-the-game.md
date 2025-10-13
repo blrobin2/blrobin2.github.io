@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Rules of the Game (1939)"
 excerpt: "My review of The Rules of the Game (1939)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6nKW3z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 3/52 | 1930s">Criterion Challenge 2022 | 3/52 | 1930s</a></b>
 
@@ -23,7 +25,3 @@ Was it not to flitter?</i>
 From <i>The Exterminating Angel</i> to <i>Fraiser</i>, this movie has its fingerprints everywhere. Every moment moves so effortlessly. The camera is fluid and adds to the comedic timing. It's a social satire that uses the universal experience of love to ground the story.
 
 I don't like how they kill all those rabbits, though :(
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6nKW3z)

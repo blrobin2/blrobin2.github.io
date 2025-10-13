@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Breaker! Breaker! (1977)"
 excerpt: "My review of Breaker! Breaker! (1977)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/b8c3un
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 This film was Chuck Norris's father's favorite movie of his. Why do trucker movies have to have arm wrestling subplots? I guess it's just this and <i>Over the Top</i>.
 
@@ -24,7 +26,3 @@ I love the name Arlene Trimmings.
 * The kind of van that says, "Ask me about my blacklight poster of Tom Bombadil."
 * -- They killed your uncle George. — But uncle George is supposed to shoot me in the head this afternoon!
 * — Just get in the car! — My six-word review of Driving Ms. Daisy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b8c3un)

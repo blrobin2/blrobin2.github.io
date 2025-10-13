@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Five Dolls for an August Moon (1970)"
 excerpt: "My review of Five Dolls for an August Moon (1970)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5LvNGl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>
 
@@ -36,7 +38,3 @@ Edwige Fenech is in the giallos with the wordiest titles. She's always great.
 The score is delightful — the freezer theme is whacky in the best way.
 
 This movie is not Bava's best, but certainly not his worst.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5LvNGl)

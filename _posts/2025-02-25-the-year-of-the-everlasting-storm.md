@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Year of the Everlasting Storm (2021)"
 excerpt: "My review of The Year of the Everlasting Storm (2021)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8WJQOt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 5/52 | Directed by Apichatpong Weerasethakul</a></b>
 
@@ -51,7 +53,3 @@ A woman digs through a storage unit. She grabs an unopened can of seltzer, taps 
 A praying mantis eats a fly on a bedsheet. We pull out to see a bed covered in insects and several fluorescent lights set up on stands around the bed. In the background are family photos. Through the din of crickets and bugs colliding with surfaces, a dialogue emerges.
 
 This one was a horror movie—my skin crawled the entire time.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8WJQOt)

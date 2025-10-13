@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Uncanny (1977)"
 excerpt: "My review of The Uncanny (1977)"
+rating: ""
+letterboxd_url: https://boxd.it/5EI9n7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>Cult Movie Challenge 2024 | 4/52 | Canuxploitation</b>
 
@@ -82,7 +84,3 @@ This story takes a decidedly more cartoonish approach, which makes this far and 
 * His initials are VD
 * They try to kill the cat with sardines and cheese in bear traps, saucers of poison, and all sorts of Tom and Jerry-esque lampoons.
 * "Cat got your tongue?"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5EI9n7)

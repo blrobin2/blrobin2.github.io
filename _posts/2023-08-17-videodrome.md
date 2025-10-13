@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Videodrome (1983)"
 excerpt: "My review of Videodrome (1983)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4HWaip
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <blockquote></blockquote><blockquote><i>We gorge ourselves on [stimulation]</i></blockquote><blockquote></blockquote><blockquote><i>Better on TV than on the streets</i></blockquote><blockquote><i>Videodrome. What you see... is real. It has something you don't have, Max. It has a philosophy. That's what makes it dangerous</i></blockquote><b>cronenberg and irwin commentary, unrated version</b>
 
@@ -23,7 +25,3 @@ It's funny how the movie is functionally right-wing — the message is that viol
 * DP talks about not lighting every scene "dark and shadowy" because if you shoot every scene that way, the audience learns to see in the dark, and then "you can't turn the lights off."
 * Rick Baker's insane effects still look great
 * Cronenberg suggests <i>Videodrome</i> influenced <i>The Ring</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4HWaip)

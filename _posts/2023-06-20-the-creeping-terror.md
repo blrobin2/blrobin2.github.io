@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Creeping Terror (1964)"
 excerpt: "My review of The Creeping Terror (1964)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/4oTvSr
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 * The unbearable whiteness of being
 * You mind helping me out and climbing up on here?
@@ -16,7 +18,3 @@ category: movie_review
 * Everyone back then was 40
 * When a monster and a small car love each other very much…
 * Actual dialogue startled everyone!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4oTvSr)

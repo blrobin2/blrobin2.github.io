@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Incantation (2022)"
 excerpt: "My review of Incantation (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4UMSoj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://letterboxd.com/blrobin2/list/hooptober-x-2023/">Hooptober X</a> | 2/34 | Countries 2/6 | Taiwan</b>
 
@@ -23,7 +25,3 @@ The scares themselves are fine — we’ve seen variations on these for years no
 The facet of the film I found most compelling was the folk rituals — I know the religious community in the film is fiction, but I still find it fascinating to see how these practices  and their surrounding altars/temples play out
 
 Overall, this won’t blow your socks off, but if you desperately need more found-footage horror, this isn’t the worst place to go
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4UMSoj)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fugitive Alien (1987)"
 excerpt: "My review of Fugitive Alien (1987)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4LLnIz
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 This rules even if it makes no sense, I love the opening credits. I'd watch the show this was cut from
 
@@ -17,7 +19,3 @@ This rules even if it makes no sense, I love the opening credits. I'd watch the 
 * In the land of Dairy Queen, we treat you right
 * Meanwhile, back at the cool ship
 * He's sending a message! He's saying, "my emblem came off!"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LLnIz)

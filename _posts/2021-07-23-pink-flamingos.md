@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Pink Flamingos (1972)"
 excerpt: "My review of Pink Flamingos (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/20TiZR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 “Kill everyone now. Condone first-degree murder. Advocate cannibalism. Eat shit. Filth are my politics. Filth is my life.”
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/20TiZR)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Young Girls of Rochefort (1967)"
 excerpt: "My review of The Young Girls of Rochefort (1967)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9GENbH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 45/52 | Ethan Hawke and Jonathan Marc Sherman's Closet Picks</a></b>
 
@@ -33,7 +35,3 @@ I didn't know Catherine Deneuve had a sister! Alas, it's probably because she di
 Why doesn't every musical watch this movie before filming to see how to do it? The cinematography is perfect for musicals.
 
 I love this movie and adored living in its dreamy world for a few hours! The axe murder subplot is so weird!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9GENbH)

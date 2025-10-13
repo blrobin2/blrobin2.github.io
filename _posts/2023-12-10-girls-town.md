@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Girls Town (1959)"
 excerpt: "My review of Girls Town (1959)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5ikYAZ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Season 6! The beginning of the Umbilicus
 
@@ -16,7 +18,3 @@ Season 6! The beginning of the Umbilicus
 * I'm your husband now, shake on it
 * That was "Ave Maria," going out to our lady of perpetual groovin
 * Oh sister, you're gonna rot in hell, but I love you
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ikYAZ)

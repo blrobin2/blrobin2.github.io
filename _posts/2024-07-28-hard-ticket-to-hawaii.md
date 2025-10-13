@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hard Ticket to Hawaii (1987)"
 excerpt: "My review of Hard Ticket to Hawaii (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6YoM5p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
@@ -37,7 +39,3 @@ The on-location photography is gorgeous, helping set up the dichotomy between th
 Since Andy Sedaris came up in the sports world as a pioneering sports coverage director, we get a side plot involving a sportscaster named Jimmy John. It’s pretty weak, but I think he interviews actual sports stars?
 
 If I hadn’t seen <i>Malibu Express</i>, this may have rocked my world. It’s altogether a better movie, but some of the prior film’s charm is the lack of coherence. Still, fans of action exploitation films must check this out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6YoM5p)

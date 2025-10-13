@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Madame Web (2024)"
 excerpt: "My review of Madame Web (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5UK6QX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b>Peru, 1973</b>
 Constance Webb (Kerry Bishé) is a pregnant woman searching for a spider with unique peptides that could change modern medicine. When she finds it, however, her bodyguard, Ezekiel Sims (Tahar Rahim), shoots her and steals the spider for his nefarious purposes. Las Arañas, a tribe of people with spider-like powers, tries to save Constance by letting the fancy spider bite her. Though they do not save her, they rescue the baby.
@@ -37,7 +39,3 @@ I'll be honest — I want to see the sequel. I think it will be worse than this,
 While I didn't see <i>Morbius</i>, folks I saw this movie with confirmed that this is better than it.
 
 Overall, I liked this movie more than most Marvel things I've seen outside of Spider-verse.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5UK6QX)

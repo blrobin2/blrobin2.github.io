@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera, the Giant Monster (1965)"
 excerpt: "My review of Gamera, the Giant Monster (1965)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6KRTyb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Black and white kaiju movies are the best kaiju movies.
 
@@ -18,7 +20,3 @@ Only Joel riffs on this one, and he says some funny things!
 * He wants to make a museum out of his shell. That's what I bet he wants.
 * To find a turtle, you gotta think like a turtle. I think you can handle it
 * Gamera asks about you, Kenny
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6KRTyb)

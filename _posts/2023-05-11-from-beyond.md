@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "From Beyond (1986)"
 excerpt: "My review of From Beyond (1986)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4euqMD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Dream team collaborators Brian Yuzna and Stuart Gordon, as well as dream thruple participants Jeffrey Combs and Barbara Crampton, reunite for another HP Lovecraft adaptation
 
@@ -23,7 +25,3 @@ A wet, slimy adventure — signature Yuzna shit. Everyone goes all out, leaving 
 * Nice “Don’t Tread on Me” flag with the alien worm on it. I guess it’s not an homage to noted racist HP Lovecraft without some far-right imagery 
 * Did Silence of the Lambs steal its psyche ward intro from this??
 * He lives at 666 Benevolent Street. Nice
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4euqMD)

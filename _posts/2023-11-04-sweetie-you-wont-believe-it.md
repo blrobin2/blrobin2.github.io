@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sweetie, You Won't Believe It (2020)"
 excerpt: "My review of Sweetie, You Won't Believe It (2020)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/56xwNz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 3/34 | Countries 3/6 | Kazakhstan</b>
 
@@ -25,7 +27,3 @@ The movie draws its humor primarily from gory murders and scatological humor. Wh
 In the end, the message seems to be, “Boys just need their bros, you know?” Otherwise, it’s a hastily constructed grouping of gross-out gags.
 
 The scarcity of good horror comedies leaves horror fans wanting more. This has a budget and competent cinematography. It’s just not very good.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56xwNz)

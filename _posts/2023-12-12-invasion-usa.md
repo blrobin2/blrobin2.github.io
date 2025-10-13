@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Invasion, U.S.A. (1952)"
 excerpt: "My review of Invasion, U.S.A. (1952)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/5jjwU5
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * [neuclear blast] that's what happens when you overcook a brat in the microwave 
 * — oh shoot, this is Canada — bomb em anyway 
@@ -17,7 +19,3 @@ category: movie_review
 * Ah the sandy beaches of Dupont Circle
 * I'm your personal Stalin representative, step aside
 * This is very Jacob's Ladder-esque
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jjwU5)

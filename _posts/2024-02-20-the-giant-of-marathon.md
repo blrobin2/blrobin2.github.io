@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Giant of Marathon (1959)"
 excerpt: "My review of The Giant of Marathon (1959)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5ScgYL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 8/52 | Peplum</a></b>
 
@@ -27,7 +29,3 @@ The underwater stuff is pretty good, especially when dudes are taking arrows to 
 I wish I could find the RiffTrax version of this. Instead, I found a digitally up-scaled Spanish dub with horrendous subtitles. So, it had a lot going against it.
 
 It's sub-90 minutes, though!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ScgYL)

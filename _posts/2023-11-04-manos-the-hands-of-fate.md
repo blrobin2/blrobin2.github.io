@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Manos: The Hands of Fate (1966)"
 excerpt: "My review of Manos: The Hands of Fate (1966)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/56GeSz
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 This is a good episode of MST3K, but this move is the worst film they've done thus far
 
@@ -21,7 +23,3 @@ This is a good episode of MST3K, but this move is the worst film they've done th
 * Oh no, not liturgical dance
 * You know, there are certain flaws in this film
 * We tampered in god’s domain
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56GeSz)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mean Streets (1973)"
 excerpt: "My review of Mean Streets (1973)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6cdeJB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 14/52 | RNG (#1198)</a></b>
 
@@ -42,7 +44,3 @@ I prefer this story's indie, low-budget style over the glossy look of his later 
 * Charlie calling Tony "William Blake with his tigers" was funny.
 * Baby Robert Carradine shoots David Carradine!
 * I love the clips they show from the movies they see at the theater. I don't know the first movie, but the second one is <i>The Tomb of Ligeia</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6cdeJB)

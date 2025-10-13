@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Gorgon (1964)"
 excerpt: "My review of The Gorgon (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5FTzOp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Hooptober 8.0 | 23/34 | Hammer films 1/2
 
@@ -37,7 +39,3 @@ The movie has the classic Hammer tone of British moderation. It doesn't have the
 I love the castle set — full of cobwebs and ornate architecture.
 
 Terence Fisher hasn't disappointed me yet! I read his essay, "Horror Is My Business," which he wrote the same year as this movie, and it's fun to read about his process and the constraints that come from a Hammer budget and British censors.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5FTzOp)

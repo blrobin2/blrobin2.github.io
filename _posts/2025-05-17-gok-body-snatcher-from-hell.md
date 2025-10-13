@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Goké, Body Snatcher from Hell (1968)"
 excerpt: "My review of Goké, Body Snatcher from Hell (1968)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9Iop1J
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 39/52 | J-Horror</a></b>
 
@@ -25,7 +27,3 @@ My biggest complaint about the movie is when it slows down to discuss humanity. 
 Props to the guy whose carry-on luggage is just Salvador Dali paintings of <i>The Divine Comedy</i>.
 
 I love this pulpy blend of <i>Body Snatchers</i>, vampires, and, I guess, the TV show <i>Lost</i>?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Iop1J)

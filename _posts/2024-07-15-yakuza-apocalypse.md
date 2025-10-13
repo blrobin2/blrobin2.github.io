@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yakuza Apocalypse (2015)"
 excerpt: "My review of Yakuza Apocalypse (2015)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6StfQ9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail" rel="nofollow">Hooptober 2.0 | 14/31 | Takashi Miike 4/5</a></b>
 <blockquote><i>There was a time when being a man meant being yakuza. Me, my life was like lukewarm water. Then, I met him.</i></blockquote>Yakuza boss Kamiura takes a samurai blade through a rival gang's hideout. Hacked and slashed to bits, he makes it through. The boss shoots him several times. Though faltering, Kamiura continues. Three men take turns stabbing him in the chest, but he persists, killing them and the boss.
@@ -34,7 +36,3 @@ The movie fluctuates from impossibly quiet to Miike-silly. As it progresses, it 
 <blockquote><i>Sometimes, yakuza just gotta go wild.</i></blockquote>I want to know what Japanese word they translated to "crapola."
 
 I am once again asking Miike to cut 30 minutes from his movies. I laughed a few times, but I was ready for this to end well before the frog yuru-kyara appeared. The final fight is funny, especially for how much build-up it gets, but it just feels like Miike is fucking with the audience at this point.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6StfQ9)

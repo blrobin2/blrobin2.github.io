@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night on Earth (1991)"
 excerpt: "My review of Night on Earth (1991)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4mH0kB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Just what I needed — chill Jarmuch vibes, great little vignettes, room to breathe in the dialogue to let the landscape melt into the scene
 
@@ -23,7 +25,3 @@ Roberto Benigni being a goddamn weirdo, Paolo Bonacelli being cold and off-putti
 I don’t know any Finnish actors offhand, but I guess all these dudes have been in award-winning Finnish movies — neat! Big Eastern Bloc vibes. It's sad but well-conceived
 
 Overall, nothing is outstanding, but everything is good (except for the Rome segment)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4mH0kB)

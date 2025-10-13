@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tales from the Hood 2 (2018)"
 excerpt: "My review of Tales from the Hood 2 (2018)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6nH3I7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 32/32 | Bonus 2/2</a></b>
 
@@ -66,7 +68,3 @@ The story switches between 1955 and the present day. In 1955, two white men kidn
 Her black husband, Henry, is a councilman supporting a Republican gubernatorial candidate. They host a fundraiser at their house, where the candidate talks about taking Mississippi back to its core values. Emily makes an announcement. Emmett has chosen to live, so their baby must die.
 
 Henry’s world changes as people see him as they would in 1955. To fix it, he must face the ghosts of victims of anti-black hate crimes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6nH3I7)

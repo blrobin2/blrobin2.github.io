@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fire and Ice (1983)"
 excerpt: "My review of Fire and Ice (1983)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5HU3Ch
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 5/52 | Ralph Bakshi</a></b>
 
@@ -19,7 +21,3 @@ This film is a collaboration between Bakshi and the renowned fantasy illustrator
 The most exciting animations are the sick monster designs because they didn't rotoscope them.
 
 Still, all the pieces come together successfully and tell a cohesive story. The story isn't all that interesting, but it's fun visually.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5HU3Ch)

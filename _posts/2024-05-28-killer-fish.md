@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Killer Fish (1979)"
 excerpt: "My review of Killer Fish (1979)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6yTLZf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 * Can I offer you a refill on your Pedialyte, sir?
 * Let's get down to the lake — we're missing the regatta 
@@ -16,7 +18,3 @@ category: movie_review
 * — Where'd this thing come from? — God, I guess
 * His mirth levels are off the charts!
 * They say fighting for your life can be very therapeutic for cardiac patients
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6yTLZf)

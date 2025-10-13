@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night Terrors (1993)"
 excerpt: "My review of Night Terrors (1993)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/70dE0R
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 31/31 | Tobe Hooper</a></b>
 
@@ -32,7 +34,3 @@ Robert Englund had already signed onto the project to play Marquis De Sade when 
 Like much of Hooper’s work from this era, the film is fascinating but messy. It has some of the sleaze hinted at in <i>Lifeforce</i>, indulging in sex scene after sex scene, chasing that Ken Russell hypnotism. Genie, as she reads De Sade, enters a fantasy world. Soon, that world takes on nightmarish qualities, and the barrier between it and reality blurs. I guess these are the titular night terrors.
 
 The film is ambitious, but boy does it fizzle out. It isn’t horror until, like, one hour in. The 90s were wild, man.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/70dE0R)

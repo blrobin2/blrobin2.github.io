@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Parts: The Clonus Horror (1979)"
 excerpt: "My review of Parts: The Clonus Horror (1979)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5PLSud
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 This season sucks, man.
 
@@ -16,7 +18,3 @@ This season sucks, man.
 * So they took the blood out of his right arm and put it in his left arm?
 * Convenient he snuck into the department of backstory
 * — Dr Nelson hold that elevator — I can't it's too big
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5PLSud)

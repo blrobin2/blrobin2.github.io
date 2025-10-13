@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hagazussa (2017)"
 excerpt: "My review of Hagazussa (2017)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5KjwmF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 2/32 | Countries 2/6 | Germany</a></b>
 
@@ -58,7 +60,3 @@ Overall, this film is devastating and melancholic. Unbelievable that this is a s
 * Mother's face superimposes on her's
 * Is she... eating her baby?
 * I'm guessing she has a similar experience to her mother
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5KjwmF)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Out of the Blue (1980)"
 excerpt: "My review of Out of the Blue (1980)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4qO8zJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Don (Dennis Hopper) is a truck driver who accidentally drives into a bus full of school children, his 10-year-old daughter Cebe (Linda Manz) in the passenger seat
 
@@ -19,7 +21,3 @@ And it’s not like Don returning does anything to help. He has the key to disar
 Linda Manz is incredible in this. She balances the rebellious punk kid and the vulnerability that lies just beneath the surface, all the while building out a personality to wear it all — she’s full of jokes and attitude and hurt
 
 On paper, this movie looks depressing as hell — and it is — but the filmmaking is not punishing, wandering through and descending into Cebe’s world and letting her show us the weirdos and monsters in her life — out of the blue and into the black
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4qO8zJ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Theater Camp (2023)"
 excerpt: "My review of Theater Camp (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4FJMOT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 I went in knowing this wouldn't be for me — I did theater in high school, but I was not a theater kid, nor did I go to theater camp. Much of this movie's humor derives from not just knowing theater experience but being a Broadway nerd
 
@@ -16,7 +18,3 @@ While I wish Ben Platt would have stuck to a behind-the-scenes role in this, he 
 best-of lists
 
 Shout out to the person in the audience who was belly-laughing at all the jokes, gasping at the cameos — this movie was made specifically for them, and I am happy it exists for them
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4FJMOT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Man with the Golden Gun (1974)"
 excerpt: "My review of The Man with the Golden Gun (1974)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5pQa3j
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -28,7 +30,3 @@ category: movie_review
 * It's always lasers! Diamond-powered lasers, solar-powered lasers
 * "I could have shot down your plane before it landed, but that would have been ridiculously easy." Bond would be dead a hundred times over if he went against someone who didn't have a massive ego
 * Prides himself in shooting ability — drags every target into a funhouse so he can easily shoot them
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5pQa3j)

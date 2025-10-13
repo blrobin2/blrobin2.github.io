@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Uninvited (1944)"
 excerpt: "My review of The Uninvited (1944)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/435xHB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Brother and sister buy a seaside house that has “disturbances”. Though we see small things like flowers withering, they only begin to know something is wrong when they hear crying in the house, but cannot find anyone else in the house with them
 
@@ -23,7 +25,3 @@ Aesthetically, it has a lot going for it. Story-wise, it’s a bit of a mess. Bu
 * Great lighting! Great use of shadow to unveil new images
 * The ghost manifesting is pretty creepy!
 * “I assure you when that healthy little man laughs he is not delirious,” the doctor says to a woman regarding her infant
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/435xHB)

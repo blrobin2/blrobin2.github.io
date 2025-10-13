@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sympathy for the Devil (2023)"
 excerpt: "My review of Sympathy for the Devil (2023)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5ivi4T
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 A guy drives with his son at night. He drops off his son at his grandmother’s and drives into Las Vegas. His wife calls, going into labor.
 
@@ -21,7 +23,3 @@ Cage is sweaty and unhinged, like I haven’t seen him in ages. Maybe it’s the
 This movie is slooowwwww. The movie thinks it’s building tension, but the filmmakers don’t establish enough for it to be tense. So, after 15 minutes, it’s just watching and waiting for the revelation that puts it all together.
 
 The reveal isn’t satisfying enough to justify the whole movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ivi4T)

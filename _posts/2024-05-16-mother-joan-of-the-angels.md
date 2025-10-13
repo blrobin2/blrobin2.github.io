@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mother Joan of the Angels (1961)"
 excerpt: "My review of Mother Joan of the Angels (1961)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6tPoTF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 15/31 | Before 1970 3/6</a></b>
 
@@ -30,7 +32,3 @@ The absence of a score is perfect. There is diegetic music, but something on-scr
 Lucyna Winnicka’s performance as Mother Joan is wild.
 
 The third act is where this movie really pops off — some truly unnerving moments and incredible scenes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tPoTF)

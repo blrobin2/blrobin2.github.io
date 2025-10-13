@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Screaming Skull (1958)"
 excerpt: "My review of The Screaming Skull (1958)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/66Uw2R
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 In rare form, they watch a Gumby TV episode called Robot Rumpus before the movie. I'll provide riffs I liked from both in this review.
 
@@ -23,7 +25,3 @@ Incidentally, a 2004 rerun of this episode was the last time <i>MST3K</i> broadc
 * Something's staying crunchy, even in milk!
 * Martin Luther is nailing each thesis individually
 * If Ed Wood had directed <i>Rules of the Game</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/66Uw2R)

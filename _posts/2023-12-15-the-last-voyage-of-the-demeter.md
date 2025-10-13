@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Voyage of the Demeter (2023)"
 excerpt: "My review of The Last Voyage of the Demeter (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5keR7d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>In 1897, a Russian schooner was chartered to carry private cargo, consisting of fifty wooden crates, from Romania to England. When the ship arrived, it was derelict.</i></blockquote>
 
@@ -49,7 +51,3 @@ Corey Hawkins leads well. His personality isn't much beyond "science," but he ke
 Bear McCreary's soundtrack is appropriately generic.
 
 I wanted to enjoy this more. It's an unexplored horror concept with a long history. It's not an awful movie, but I can't join the horror fans who love it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5keR7d)

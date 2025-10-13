@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Undead (1957)"
 excerpt: "My review of The Undead (1957)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5I2fDH
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 This movie has one of my favorite posters. I've clicked it multiple times only to remember its an <i>MST3K</i> movie and that I would watch it soon enough
 
@@ -24,7 +26,3 @@ Despite what these dorks think. this movie makes enough sense and is pretty fun
 * Oh now I don't get it!
 * I'm ready for my execution, Mr. DeMille
 * Ugh, this guy is like Satan
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5I2fDH)

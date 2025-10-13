@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Vigilante (1982)"
 excerpt: "My review of Vigilante (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6kMdgF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 21/32 | Bill Lustig</a></b>
 
@@ -30,7 +32,3 @@ The movie is wise with its violence. It's not fun, nor is it constant — it's b
 I love Robert Forrester — he's so good as the everyman, and it's easy to root for him, even when he does heinous things.
 
 The ending is so good!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6kMdgF)

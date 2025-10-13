@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Roman Holiday (1953)"
 excerpt: "My review of Roman Holiday (1953)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5IEerL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a rel="nofollow">Anti-Criterion Challenge 2024 | 5/52 | 1950s</a></b>
 
@@ -52,7 +54,3 @@ This movie is such a genuine delight. What an achievement! Can William Wyler do 
 * The press meeting is perfect. Peck's eyes epitomize bittersweetness. Hepburn too!
 * Irving giving her the photos is so sweet.
 * I'M SO GLAD THIS DOESN'T HAVE THE MISUNDERSTANDING FIGHT. I was worried about that.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5IEerL)

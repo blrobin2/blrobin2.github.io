@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Boogey Man (1980)"
 excerpt: "My review of The Boogey Man (1980)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4yPskD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>When you break a mirror, you free everything it’s seen</i></blockquote>As children, Lacey watches through a mirror as her brother Willy murders their mother’s lover. Twenty years later, Willy is psychosomatically mute, and Lacey has recurring nightmares of the event
 
@@ -24,7 +26,3 @@ Overall, this movie is kind of nonsense and not well-acted, but it has some cool
 * Triumph tee shirt, what a nerd
 * Mirror shard eye rules
 * The explosion at the end of this looked better than the nuclear explosion in <i>Oppenheimer</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4yPskD)

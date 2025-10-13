@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Teen-Age Crime Wave (1955)"
 excerpt: "My review of Teen-Age Crime Wave (1955)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5hiA2L
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The movie manages to be tense in a couple of places. The observatory chase is pretty fun!
 
@@ -19,7 +21,3 @@ The movie manages to be tense in a couple of places. The observatory chase is pr
 * [stepping over several cigarette butts] did you have Rod Sterling over for dinner!
 * being a war hero must've been really easy back then
 * is she making a double-nintendo?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5hiA2L)

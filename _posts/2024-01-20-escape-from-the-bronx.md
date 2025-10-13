@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Escape from the Bronx (1983)"
 excerpt: "My review of Escape from the Bronx (1983)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5DwVfR
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 As a title, <i>Escape from the Bronx</i> blows compared to <i>Escape 2000</i>
 
@@ -27,7 +29,3 @@ This episode is the last one with a fan letter :(
 * I think I have something, over. I think it's a cold, over.
 * Oh bummer! I hope they don't blow our crotches up
 * Hi, kill us! Thank you!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5DwVfR)

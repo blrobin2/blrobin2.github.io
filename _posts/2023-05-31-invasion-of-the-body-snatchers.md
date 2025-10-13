@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Invasion of the Body Snatchers (1956)"
 excerpt: "My review of Invasion of the Body Snatchers (1956)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4jo5SN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 People are reporting that someone they love is not the person anymore. The person has all of the memories, the vocabulary, the appearance, but lacks the emotional qualities that those close to the loved one can recognize
 
@@ -20,7 +22,3 @@ Don Siegel makes low-budget feel larger than life, telling a story of conformity
 * “Open your mouth, close your eyes, and I’ll give you something to make you wise” — I’ve never heard “something about o make you wise,” I grew up with “a big surprise.” I guess the former is appropriate when the gift is medicine
 * The pod people hatching is so foamy and gross
 * The classic “They’re coming for you!” yelled directly into the camera
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4jo5SN)

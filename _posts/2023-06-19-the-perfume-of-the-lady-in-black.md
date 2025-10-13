@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Perfume of the Lady in Black (1974)"
 excerpt: "My review of The Perfume of the Lady in Black (1974)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4ouJhf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Silvia (Mimsy Farmer) is an industrial scientist and workaholic who puts work above all, including her budding relationship with Roberto (Maurizio Bonuglia), who cannot stand any lack of attention on her part
 
@@ -23,7 +25,3 @@ The penultimate scene is exactly what you expect after a point, but a few key de
 The final scene tied up her fears about what the world wants from her, and it is one of the more disturbed and bizarre endings to a movie I’ve seen
 
 The woman disassociated from reality is a frequent trope, but this movie is a standout in the genre
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ouJhf)

@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "The Shining (1980)"
 excerpt: "My review of The Shining (1980)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4XBS5h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 5/5
-
 Oh I get it, his name is Jack
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XBS5h)

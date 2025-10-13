@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Art of Dying (1991)"
 excerpt: "My review of The Art of Dying (1991)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/bgG4mV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 22/52 | PM Entertainment</a></b>
 
@@ -38,7 +40,3 @@ I'm genuinely shocked at how entertaining this movie is despite Wings Hauser doi
 * — "Jack, may I please move in with you?" — "Mother, may I?"
 * The camera pans away from Jack and Holly kissing to follow the dude in the pink Speedo roller skating.*chef's kiss*
 <b>*** END SPOILERS ***</b>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bgG4mV)

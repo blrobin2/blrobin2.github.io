@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sweet Sweetback's Baadasssss Song (1971)"
 excerpt: "My review of Sweet Sweetback's Baadasssss Song (1971)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5grVGh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  31/52 | Directed by Melvin Van Peebles</b>
 
@@ -42,7 +44,3 @@ He wanted it to be a living workshop — for the folks he helped continue to hel
 He wanted to make a movie where Black folks won. Turns out, others did as well. This started the wave of blaxploitation films, where white filmmakers trimmed off the edges to make something they could sell back to black folks.
 
 This is a messy film. It didn't have an example to follow, so it became one.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5grVGh)

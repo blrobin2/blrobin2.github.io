@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Substance (2024)"
 excerpt: "My review of The Substance (2024)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8skDuv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 19/31 | Countries 4/5 | France</a></b>
 
@@ -25,7 +27,3 @@ I'm angry at the movie for using Bernard Hermann's The Nightmare and Dawn from <
 I'm just happy to live in a world where a film so visceral and bizarre is getting enough critical attention that people in my family will know about it. Also, I never thought I would see Demi Moore in something like this.
 
 Anyone looking for subtlety will be disappointed. This movie is an absurdist nightmare.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8skDuv)

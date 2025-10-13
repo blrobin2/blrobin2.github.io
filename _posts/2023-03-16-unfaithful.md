@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Unfaithful (2002)"
 excerpt: "My review of Unfaithful (2002)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/3ZjGGJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Yet another movie I watched at too young an age because my mom rented it. Only rewatching for a podcast
 
@@ -29,7 +31,3 @@ I don’t hate the actual ending as much as some people do, but I get why people
 * His “take a book” strategy for a second encounter is the highbrow version of George Costanza leaving his keys at their place
 * Chad Lowe!
 * When they clap for his prayer before the Thanksgiving meal, I laughed so hard
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3ZjGGJ)

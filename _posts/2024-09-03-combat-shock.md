@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Combat Shock (1986)"
 excerpt: "My review of Combat Shock (1986)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/7f69nB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 33/52 | Splatter Movie Guide</a></b>
 
@@ -29,7 +31,3 @@ The score is pretty terrific — it reminds me of Angelo Badalamenti, but heavie
 The film is exploitative. Despite the subject and budget, it does its best to remain grounded. It left me feeling pretty down, which is the intent, and it pretty successfully captured the hopelessness that those in poverty feel.
 
 In the right hands, this story could have felt closer to <i>Taxi Driver</i> or <i>Christiane F</i>. Instead, it pushes the gore and perversity to 11, undermining the groundwork that much of the movie did. Still, I believe this is not the failure some people claim to be.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/7f69nB)

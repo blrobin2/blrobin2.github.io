@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Woman in the Dunes (1964)"
 excerpt: "My review of Woman in the Dunes (1964)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5nKfuJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 52/52 | Any Criterion film on your watchlist</b>
 
@@ -40,7 +42,3 @@ The sand has a dark magic to it. Moisture travels within the dry terrain. Wood r
 The film does an excellent job of creating the sense of being trapped. The space becomes a surreal zone of images. Granules of sand embedded on sweaty skin. Sometimes, the viewer cannot tell what part of the body it is, so the body becomes an abstract sculpture. She wears a shirt resembling sand in the wind, echoing the surrounding landscape.
 
 <blockquote><i>Even if it's a lie, it helps to have hope. That tomorrow it will be different.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5nKfuJ)

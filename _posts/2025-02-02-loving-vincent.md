@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Loving Vincent (2017)"
 excerpt: "My review of Loving Vincent (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8H8AtP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 34/52 | Animated film from a country that is not the US or Japan</a></b>
 
@@ -31,7 +33,3 @@ Anyway, through flashbacks and investigation, Armand learns about Van Gogh's fin
 Here, at least, the artistic style centers the film (except for the flashbacks, which are in a similar representative style to The Peasants). While the story is equally slight, it has more intrigue at its center. (Even though the film takes wild liberties with Van Gogh's life, I would not trust any biographical information it relays.)
 
 I'm not saying, "Therefore, it's bad." I am saying that if the story cannot stand up without the style applied, then the style isn't worth much to me. Add to that the insult of a narrative so overwrought and overexplained that it makes one wonder what the filmmakers's interest in Van Gogh was in the first place if they cannot leave a single second to abstraction or interpretation.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8H8AtP)

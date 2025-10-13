@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Candle for the Devil (1973)"
 excerpt: "My review of A Candle for the Devil (1973)"
+rating: ""
+letterboxd_url: https://boxd.it/4pOWR5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <blockquote><i>— God has mercy for all his creatures
 — Not all of them</i></blockquote>Found this as<i> It Happened at Nightmare Inn</i>
@@ -18,7 +20,3 @@ The English version was edited for content, and poorly — it cuts right before 
 Great soundtrack! The jazz is smooth; the organ is sinister
 
 Overall, I liked the approach here — <i>X</i> must have taken at least some inspiration from this
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4pOWR5)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Doppelganger (1993)"
 excerpt: "My review of Doppelganger (1993)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4p53vN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Don’t confuse me with her. She may look like me, but she’s not me.</i></blockquote>Holly (Drew Barrymore) moves to LA, pursued by someone who looks exactly like her. She moves in with Patrick (George Newbern), who learns of her doppelgänger as murders begin to happen around them
 
@@ -22,7 +24,3 @@ The ending is so outrageous, complete with a villain monologue. This movie is no
 * Nice Jaid Barrymore cameo
 * Danny Trejo is really in everything, isn’t he
 * Using a butcher knife to spread jelly on toast is the most psychotic thing Barrymore does
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4p53vN)

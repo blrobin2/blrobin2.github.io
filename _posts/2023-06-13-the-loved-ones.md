@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Loved Ones (2009)"
 excerpt: "My review of The Loved Ones (2009)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4mRB1L
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Lola wants to take Brent to prom, but Brent has a girlfriend and declines. So, with the help of her doting and incestuous father, she captures him and tortures him
 
@@ -19,7 +21,3 @@ Also, almost every other character is given the “wife waiting at home for her 
 There’s a B-plot with Brent’s friend Jamie that comes and goes with no real hiccups, and no interaction with the main plot line. It’s clear that the scenes are meant to provide some relief from all the intense torture and dour sadness, but I guess they couldn’t see a way to make it fit
 
 Overall, it’s not a terrible movie, it just doesn’t provide anything substantial to give it any sort of staying power
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4mRB1L)

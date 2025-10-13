@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Salome's Last Dance (1988)"
 excerpt: "My review of Salome's Last Dance (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8Fi5QP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 16</a></b>
 
@@ -25,7 +27,3 @@ The play in the movie has long bouts of tedium because we know where it's going.
 The costumes and staging are entertaining. The pinnacle of the movie is the Dance of the Seven Veils, which amusingly plays with gender.
 
 I softened on the movie as it went along, but something this gay and sacrilegious shouldn't be boring!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Fi5QP)

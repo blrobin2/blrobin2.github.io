@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Karate Cop (1991)"
 excerpt: "My review of Karate Cop (1991)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/9cpQcD
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 I took a massive risk by watching this sequel before the original <i>Omega Cop</i>, but I trusted the movie to gently guide me into its rich and multifaceted universe.
 
@@ -20,7 +22,3 @@ I took a massive risk by watching this sequel before the original <i>Omega Cop</
 * Karate forever!
 * You forgot one thing—me. (Real movie quote)
 * Assholes to ashes. Dictators to dust. (Also, real movie quote)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9cpQcD)

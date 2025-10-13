@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Miami Connection (1987)"
 excerpt: "My review of Miami Connection (1987)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9AnOop
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Thank you, Y.K. Kim and Dragon Sound. "Friends" will never leave my head.
 
@@ -19,8 +21,3 @@ Thank you, Y.K. Kim and Dragon Sound. "Friends" will never leave my head.
 * Hush now, it's ninja nap time.
 * Jim's new suit did not bring the eternal joy they'd hoped for.
 * — Boss, everybody's dead. — That's exactly what I had to report on my first night working at the cemetery.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9AnOop)

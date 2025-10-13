@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Torture Garden (1967)"
 excerpt: "My review of Torture Garden (1967)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4ZQEc7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 17/34 | Amicus | Decade 4/8 | 60s</b>
 
@@ -31,7 +33,3 @@ A man who collects Poe meets a collector who has several first editions and even
 I would usually give each story a review, but they are all similarly dopey and fun. They play more like parables than horror stories, where the person experiencing the vision demands answers to dark secrets.
 
 The film is a silly but consistent horror anthology, perfect for a hungover Saturday.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ZQEc7)

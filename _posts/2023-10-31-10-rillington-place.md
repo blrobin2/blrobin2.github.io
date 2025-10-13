@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "10 Rillington Place (1971)"
 excerpt: "My review of 10 Rillington Place (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/55blFL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 33/34 | Bonus 2/3</b>
 
@@ -29,7 +31,3 @@ I’ve never seen Attenborough play such a dark character. Attenborough accepted
 John Hurt is heartbreaking. He’s convincing as a confused man way in over his head. Tim Evans was not an innocent person, nor was he the murderer he was made out to be.
 
 This does a tremendous job of making me feel icky. It errs on the side of not depicting the full details of the murders. This keeps the film from feeling too exploitative. It also does a tremendous job of not trying to pad out the characters — we don’t know why Christie did what he did. Also, it isn’t essential for the anti-capital punishment message that the movie aspires towards.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/55blFL)

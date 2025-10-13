@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bat People (1974)"
 excerpt: "My review of The Bat People (1974)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6fW31Z
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * [dark, mysterious "Take Me Out to the Ballgame"]
 * I heal you in the name of skiing
@@ -17,8 +19,3 @@ category: movie_review
 * Don't jump into bed, you'll spill my nachos
 * Holy squeak
 * What the squeak?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6fW31Z)

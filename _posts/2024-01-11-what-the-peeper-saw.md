@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "What the Peeper Saw (1972)"
 excerpt: "My review of What the Peeper Saw (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5yDAtd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 5/52 | Giallo">Cult Movie Challenge 2016 | 5/52 | Giallo</a></b>
 
@@ -54,7 +56,3 @@ On the surface, this is another bad seed story. Underneath, however, is somethin
 * That did... not go how I expected
 * Oh no. Oh no 😬 
 * Wait what???
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5yDAtd)

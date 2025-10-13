@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Jekyll and Mr. Hyde (1931)"
 excerpt: "My review of Dr. Jekyll and Mr. Hyde (1931)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4ZWsiJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>Free! Free at last!</i></blockquote>
 
@@ -27,7 +29,3 @@ The cinematography is beautiful. The camera seeks images that bring out the emot
 Ivy seducing Jekyll is horny! She slips off her garters and stockings, swinging her bare leg from underneath the sheets. We also see her naked frame when she sits up in bed. I’m still surprised at what Hollywood got away with pre-Hayes code!
 
 This is an outstanding adaptation of the Robert Louis Stevenson story and the best adaptation I’ve seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ZWsiJ)

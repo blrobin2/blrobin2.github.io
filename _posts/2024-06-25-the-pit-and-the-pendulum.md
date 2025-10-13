@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Pit and the Pendulum (1991)"
 excerpt: "My review of The Pit and the Pendulum (1991)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6K1eLf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 24/31 | Stuart Gordon</a></b>
 
@@ -24,7 +26,3 @@ Maria tries to stop it, begging for mercy. A guard raises his sword, but Torquem
 The film is a gory, Poe-tinged inquisition film with a fair amount of poetic justice. The performances are pretty solid, and Lance Henriksen is at his most unhinged. My favorite performance, however, comes down to Frances Bay, who gets to be a messy witch who lives for drama.
 
 The film is pretty well put together for a Full Moon picture — definitely a higher caliber than their usual fare. This isn’t my favorite Stuart Gordon movie, but I could see myself rating this higher on a future rewatch.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6K1eLf)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Laserblast (1978)"
 excerpt: "My review of Laserblast (1978)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5DLv9X
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The final episode with Trace Beaulieu, so the last Dr. Forrester episode and the last time he voices Crow. His dad, Jack Beaulieu, shows up as the elderly version of Dr. Forrester.
 
@@ -40,7 +42,3 @@ Maybe I'm a big fucking idiot, but I like the turtle aliens
 * Who's the well-lit person in the back?
 * Save the pine air fresheners!
 * Could Leonard Maltin be wrong, and this isn't worth 2.5 stars?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5DLv9X)

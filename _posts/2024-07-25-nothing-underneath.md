@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nothing Underneath (1985)"
 excerpt: "My review of Nothing Underneath (1985)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6X0v0P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 24/31 | Slasher 4/5</a></b>
 
@@ -35,8 +37,3 @@ They play "One Night in Bangkok," from the musical <i>Chess</i>, during a fashio
 The film gets a little gay but in a problematic way. I'll leave it there and avoid spoilers.
 
 The film is pretty good. The ending is the best part; it feels like it takes so long to get there. If you need gratuitous nudity or De Palma references, here you go.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6X0v0P)

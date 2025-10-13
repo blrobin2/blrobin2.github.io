@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood Line (2020)"
 excerpt: "My review of Blood Line (2020)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/57eihl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 5/34 | Countries 5/6 | Egypt</b>
 
@@ -23,7 +25,3 @@ With such a cheesy score and completely overbearing sound design, the movie fall
 Like <i>The Room</i>, the story is repetitive. I like one twist and how it plays out! The others are confusing.
 
 This movie is not very good, but it’s pretty funny. Invite your friends who enjoy watching bad movies over to watch this, and you’ll get a few laughs in.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57eihl)

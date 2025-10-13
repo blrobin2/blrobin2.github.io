@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Slaughter Hotel (1971)"
 excerpt: "My review of Slaughter Hotel (1971)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/42yqer
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Watching a restored 96 version of this because it was available. Wish I found the 74 minute version…
 
@@ -23,7 +25,3 @@ It’s kind of funny at times — the cops shooting the killer at the end has to
 It’s fine from a technical standpoint, it just doesn’t do anything all that interesting
 
 You’ve got so many better options out there, don’t bother with this one
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/42yqer)

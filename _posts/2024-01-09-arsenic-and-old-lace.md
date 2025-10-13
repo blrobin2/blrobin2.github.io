@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Arsenic and Old Lace (1944)"
 excerpt: "My review of Arsenic and Old Lace (1944)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5xFBfh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 8/34 | Decades 2/8 | 40s">Hooptober 8.0 | 8/34 | Decades 2/8 | 40s</a></b>
 
@@ -35,7 +37,3 @@ I need to make it clear that I wanted to like this. On paper, this is my deal. B
 One of my all-time favorite comedies is <i>The Awful Truth</i>, which stars Cary Grant. So it's not "old comedy" or Cary Grant that I dislike. It's just this movie.
 
 I'm in the minority here — I'll try again someday with a different crowd.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5xFBfh)

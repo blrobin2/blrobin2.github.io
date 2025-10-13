@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Taxidermia (2006)"
 excerpt: "My review of Taxidermia (2006)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5ufHNF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary">Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary</a>
 </b>
@@ -43,7 +45,3 @@ Amon Tobin's score is tight — perfectly cold and edgy, with traditional music 
 Don't watch this unless you have a high tolerance for gross stuff.
 
 I would probably like it more if I knew its deeper meanings, but it was still a bizarre and compelling way to spend 90 minutes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ufHNF)

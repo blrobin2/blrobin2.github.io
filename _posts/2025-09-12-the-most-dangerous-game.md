@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Most Dangerous Game (1932)"
 excerpt: "My review of The Most Dangerous Game (1932)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/b2FAap
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Nah, this movie is good—a miss for the Rifftrax folks. Mary Jo Pehl replaces Bill Corbett this episode.
 
@@ -23,8 +25,3 @@ Was the rich dude the basis for the No Hay Banda guy in <i>Mulholland Dr.</i>?
 * Uh oh, the Tex Avery wolves are horny.
 * Meanwhile, back at the painting.
 
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b2FAap)

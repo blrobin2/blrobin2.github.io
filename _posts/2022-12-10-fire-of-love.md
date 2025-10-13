@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Fire of Love (2022)"
 excerpt: "My review of Fire of Love (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/3vWXQf
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** 3/5
-
 Miranda July doing her best Werner Herzog impersonation
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3vWXQf)

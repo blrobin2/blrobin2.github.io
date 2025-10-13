@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Godzilla Raids Again (1955)"
 excerpt: "My review of Godzilla Raids Again (1955)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5Qf8uh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 A pilot named Shoichi Tsukioka guides a fishing trawler to a school location. Another pilot, Koji Kobayashi, has engine trouble and has to land. Tsukioka goes to rescue him from Iwato Island.
 
@@ -23,7 +25,3 @@ Also, this movie set the standard for the following Godzillas — monsters fight
 Also, Anguirus is dead halfway through, so the movie has trouble figuring out what to do. The characters try to find one of the pilots a wife or something — I glazed over.
 
 This isn't an exciting Godzilla movie, but it isn't the worst kaiju I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Qf8uh)

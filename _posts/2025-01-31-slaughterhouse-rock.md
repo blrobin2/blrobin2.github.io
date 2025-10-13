@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Slaughterhouse Rock (1988)"
 excerpt: "My review of Slaughterhouse Rock (1988)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/8FXbT3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 17</a></b>
 
@@ -28,7 +30,3 @@ Krista tries to get Jan to hook up with Alex, but Jan has major sapphic friend d
 I wouldn't say this movie has a promising start, but it at least has consistent nightmare moments. Once they arrive at Alcatraz, the energy peters out for most of the runtime. Like, when you throw in a montage of all the gore scenes thus far an hour into the movie, you know you're struggling to keep the audience interested.
 
 Tonil Basil does what she can, but this isn't much of a movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8FXbT3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kinds of Kindness (2024)"
 excerpt: "My review of Kinds of Kindness (2024)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6Lf93f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 With <i>Poor Things</i>, Yorgos Lanthimos displayed a more mature approach to his misanthropy. Here, he indicates that the maturity we saw was perhaps an accidental fluke more than an intentional choice. He's still the guy who made <i>The Lobster</i>, and all his classic proclivities are here: awkward sex, animal mutilation/death, deadpan acting, and sadomasochism.
 
@@ -27,7 +29,3 @@ This one is a bit of a mess. It has a few threads, and none of them coalesce. I 
 Emily and Andrew are looking for a woman with very specific attributes, including the ability to bring back the dead. Emily misses her husband, Joseph, and daughter and secretly visits their house when they aren't there. But when they come back early, Emily's life changes.
 
 I liked a lot of this one! It probably has the most complete arc out of the three. I was getting a little tired by then. So I might like it more when I can watch it before bedtime.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Lf93f)

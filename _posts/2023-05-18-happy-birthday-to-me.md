@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Happy Birthday to Me (1981)"
 excerpt: "My review of Happy Birthday to Me (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4g6Fld
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A girl walks home alone at night, accosted by someone with black gloves. When she thinks she’s found a friend, she sees the black gloves on them and a straight razor in their hands — we don’t see to whom the black gloves belong
 
@@ -26,7 +28,3 @@ I would love to watch this again with friends
 * <i>Pretty Little Liars</i> fans will appreciate the all-black outfit of the killer
 * They’ll also enjoy the bell tower that plays into the plot
 * This might just be a bloodier <i>Pretty Little Liars</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4g6Fld)

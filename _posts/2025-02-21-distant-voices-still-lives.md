@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Distant Voices, Still Lives (1988)"
 excerpt: "My review of Distant Voices, Still Lives (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8U1s59
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 31</a></b>
 
@@ -27,7 +29,3 @@ The film's performances have stage acting vibes — broad movement and no energy
 There are so many singing moments—drunk, mourning, hiding, loving—there's a song for every moment. Memories get attached to songs, and hearing them can take us back to that place—which is not always where we want to be.
 
 Weirdly, this is a case similar to <a href="https://boxd.it/8TXNkh">Drowning by Numbers</a>, where the Britishness makes the film harder for me to connect to. I'm witnessing expert filmmaking but having difficulty getting into the emotional core.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8U1s59)

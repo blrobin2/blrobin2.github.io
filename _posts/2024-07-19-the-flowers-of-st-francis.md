@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Flowers of St. Francis (1950)"
 excerpt: "My review of The Flowers of St. Francis (1950)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6UgRfx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 23/52 | Richard Linklater’s Top 10</a></b>
 
@@ -27,7 +29,3 @@ In my youth, when I was a devout Christian, St. Francis occupied a significant p
 <i>The Seventh Seal</i> drew everything beautiful from this movie and gave it spiritual and psychological significance. <i>Andrei Rublev</i> converted the flat imagery into otherworldly poetry. I'm curious to see how this film informed <i>The Gospel According to St. Matthew</i> when I get around to it.
 
 Aesthetically, this movie is beautiful in its simplicity. Though I disagree with its core messages, I don’t think that belief is necessary to appreciate the film. But it’s a hard film for me to love.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6UgRfx)

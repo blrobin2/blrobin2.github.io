@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nosferatu in Venice (1988)"
 excerpt: "My review of Nosferatu in Venice (1988)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6d6MEP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a>
 <blockquote><i>Are you talking to me? I don't understand what you're saying, but it sounds wonderful.</i></blockquote>
@@ -21,7 +23,3 @@ After six weeks, Caminito couldn't take it anymore and finished the movie despit
 What helps this movie work is the diet Gothic mood. What kills it is Kinski's refusal to look or act like Nosferatu. Instead, he's just some horny dude who hangs out and fucks.
 
 Overall, it's an incomplete movie — characters die and appear at random, and nothing ties together. I can get down with vibes. But it's hard to vibe when you're still figuring out what's happening.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6d6MEP)

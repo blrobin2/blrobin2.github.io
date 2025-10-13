@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Addiction (1995)"
 excerpt: "My review of The Addiction (1995)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/549xQN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b>Russell Simmons presents "Vampires are philosophy doctorates"</b>
 
@@ -56,7 +58,3 @@ But god isn't done with her yet.
 <blockquote><i>Guilt doesn't pass with time, Jean. It's eternal.</i></blockquote>
 
 This movie has the worst opening credit song I've ever heard.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/549xQN)

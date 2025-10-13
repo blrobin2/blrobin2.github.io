@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Past Lives (2023)"
 excerpt: "My review of Past Lives (2023)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4tA9Xr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Nora and Hae Sung are childhood friends who part ways when Nora’s family immigrates from Korea to the US. Nora’s stilted goodbye stays with both of them, and they find two more times in this life to try and say goodbye
 
@@ -19,7 +21,3 @@ There are two meta-textual points in the movie in which characters on or offscre
 Nice to see Daniel Rossen of Grizzly Bear fame co-composed the soundtrack. The gentle meandering of the music fit the movie nicely, never letting any moment have a firm resolution
 
 Good stuff!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4tA9Xr)

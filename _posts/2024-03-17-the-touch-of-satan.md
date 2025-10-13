@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Touch of Satan (1971)"
 excerpt: "My review of The Touch of Satan (1971)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/64nISr
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 35/52 | MST3K">Cult Movie Challenge 2016 | 35/52 | MST3K</a></b>
 
@@ -22,7 +24,3 @@ The first <i>MST3K</i> I saw! A roommate in college had it on DVD, and he would 
 * 🎵 Come sit with me, and Satan too — he's your friend and mine
 * If she had another one of these, she'd be Melissa "Two Sheds" Strickland
 * Someone's playing the cicada in the background
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/64nISr)

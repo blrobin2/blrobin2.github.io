@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gate of Flesh (1964)"
 excerpt: "My review of Gate of Flesh (1964)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5TwnhN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 28/52 | Mondo Macabro</a></b>
 
@@ -39,7 +41,3 @@ Precise lighting keeps the movie from being more exploitative than it is. And it
 The movie has an almost humorous tone. It's never laugh-out-loud funny, but the peculiarities and character behaviors stand out against the bleak world they inhabit.
 
 Elegantly blocked and composed, this movie is a visually striking potboiler with more on its mind than titillation.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5TwnhN)

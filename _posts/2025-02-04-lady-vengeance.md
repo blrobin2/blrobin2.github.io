@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lady Vengeance (2005)"
 excerpt: "My review of Lady Vengeance (2005)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/8J579N
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href=""https://boxd.it/qaTwm/detail>Asian Cinema Challenge 2023 | 3/52 | South Korea Blue Dragon Film Awards</a></b>
 
@@ -31,7 +33,3 @@ Don't get me wrong — this movie has levity that only increases as the movie co
 Lee Young-ae, who plays Geum-ja, has such charisma and complexity in her performance that holds the film together. Her journey is so multi-faceted. It would've been good without her, but she makes it truly great. Her makeup is fucking on point too.
 
 I feel totally manipulated when I watch Park Chan-wook films. He is a cruel jester who uses his mastery of cinema in the most bizarre ways, and I adore it. This movie had a chokehold on me within seconds. When it let go, I was asking for the safety of the chokehold.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8J579N)

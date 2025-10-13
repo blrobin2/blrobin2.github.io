@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Totally Killer (2023)"
 excerpt: "My review of Totally Killer (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4YkWwV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 In 1987, The Sweet 16 Killer murdered three teens. Now, 35 years later, someone in the same mask kills Jamie's mom, putting the town on edge
 
@@ -32,7 +34,3 @@ One of the kids has all of these VHS tapes
 I had a great time watching this! Its concept of time travel is nonsense, but it is consistent... sort of
 
 I wouldn't say this is a great movie, but it hit right in the sweet spot for a comfort movie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4YkWwV)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Radar Secret Service (1950)"
 excerpt: "My review of Radar Secret Service (1950)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5goFvV
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * Look at all those dead cows under that tower
 * War is good! Stupid peace
@@ -18,7 +20,3 @@ category: movie_review
 * the calls are coming from inside the car!
 * I gotta go shave above and below my mustache
 * Thanks to radar, the scene promptly ends!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5goFvV)

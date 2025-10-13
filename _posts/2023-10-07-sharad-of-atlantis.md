@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sharad of Atlantis (1936)"
 excerpt: "My review of Sharad of Atlantis (1936)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4Xcqcp
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 the miniature work is cool! i love the submarine
 
@@ -19,7 +21,3 @@ the miniature work is cool! i love the submarine
 * we now join Fitzcarraldo, already in progress 
 * did you know my mom invented liquid paper?
 * that is one sweet chariot
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Xcqcp)

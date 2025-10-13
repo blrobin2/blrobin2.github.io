@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Stopmotion (2023)"
 excerpt: "My review of Stopmotion (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/60qDPR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Suzanne (Stella Gonet) is a stop-motion animator. She has a film that she intends to finish before she dies, no matter what. Arthritis, however, prevents her from continuing work on the film.
 
@@ -27,7 +29,3 @@ I like the stop-motion film! It's creepy as hell and shows influence from Jan Š
 Aisling Franciosi sells the premise and brutal scenes exceptionally well — everyone else… not so much.
 
 The story's trajectory may be familiar, but the style and texture are incredibly enjoyable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/60qDPR)

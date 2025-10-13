@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cries and Whispers (1972)"
 excerpt: "My review of Cries and Whispers (1972)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6E05oF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 24/52 | Starring Liv Ullmann</a></b>
 
@@ -34,7 +36,3 @@ This color scheme gives the movie an almost allegorical quality. The interiors a
 Unfortunately, that visual language, as poetic as it is, also creates an emotional distance — Bergman makes every nuance known but not necessarily felt. That absence keeps me from giving this a higher score.
 
 Still, this is a beautifully realized meditation on misery that manages to evade dourness while giving little solace.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6E05oF)

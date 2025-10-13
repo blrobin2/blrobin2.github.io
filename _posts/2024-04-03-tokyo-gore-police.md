@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tokyo Gore Police (2008)"
 excerpt: "My review of Tokyo Gore Police (2008)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6cg3Ij
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 2/32 | Anniversary Film 1/10 | Countries 2/6 | Japan</a></b>
 
@@ -29,7 +31,3 @@ Still, the aesthetic is striking, so it's hard to get bored. You'll see plenty o
 The cinematography and color choices are also effective at selling the movie.
 
 So, while not my bag from a narrative standpoint, the visuals are fun (and, surprise, gory).
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6cg3Ij)

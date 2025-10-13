@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cannonball (1976)"
 excerpt: "My review of Cannonball (1976)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5V0aWR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 9/52 | Shaw Brothers">Cult Movie Challenge 2024 | 9/52 | Shaw Brothers</a></b>
 
@@ -38,7 +40,3 @@ David Carradine gives his standard "constipated and possibly senile" performance
 The movie has almost no internal consistency, especially where drivers are in the race, so it's hard to be too invested beyond whatever interaction happens in each scene. Cannonball stops and wrecks more often than anyone on screen, so his winning is absurd.
 
 This movie kind of sucks, but it has some solid car stunts and explosions, so I can't hate it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5V0aWR)

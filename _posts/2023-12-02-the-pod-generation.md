@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Pod Generation (2023)"
 excerpt: "My review of The Pod Generation (2023)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5fFXib
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Welcome to the future. Digital assistants mediate all tasks. Bread is 3D printed. Devices measure and quantify bliss. So many ASMR videos.
 
@@ -43,7 +45,3 @@ Did I mention this is supposed to be funny? They watch Herzog's <i>Encounters at
 The production design is thoughtful, though lacking a consistent aesthetic. The colors are soft yet rich, giving the world a subdued brightness. It reminds me of <i>Her</i> or <i>After Yang</i>.
 
 It would have been more tolerable if it were TV-episode length. But as a nearly 2-hour movie, it's bloated, circuitous, and worst of all, boring.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fFXib)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Shanghai Express (1932)"
 excerpt: "My review of Shanghai Express (1932)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4cOKDj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 I love how<i> in medias res </i>this movie starts. Eveyone knows someone on the train, everyone has a secret, and most importantly, the film isn’t interested in filling in most of those stories for you — fitting considering how much spy work is happening in the background
 
@@ -21,7 +23,3 @@ Perfect lighting! The moment with the soldiers in the fog sneaking onto the trai
 One of the best early Hollywood movies I’ve seen — so intelligent and captivating. I would die if I ever had the opportunity to see this in a theater
  
 “The Chinese government would’ve had my head years ago if it wasn’t such a good head” — iconic
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4cOKDj)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Only Angels Have Wings (1939)"
 excerpt: "My review of Only Angels Have Wings (1939)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4XQz2D
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Bonnie Lee (Jean Arthur), a piano entertainer, steps off a banana boat in Barranca, a fictional port town near the Andes mountains. She encounters two pilots, Joe and Les, who offer her a drink, bringing her to their local hang, Dutchy's Bar. There, Bonnie meets Han Solo prototype Geoff Carter (Cary Grant), the boss of their air mail delivery service
 
@@ -27,7 +29,3 @@ And they do have actual flights as well — the cinematographer had a special ca
 The movie doesn't use non-diegetic music  — the airplanes starting, taking off, and radio communication make up the sound field
 
 Overall, this is Howard Hawks at the highest command of his art, combining his flight expertise and deft character direction to combine adventure, romance, and comedy into a beautiful little movie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XQz2D)

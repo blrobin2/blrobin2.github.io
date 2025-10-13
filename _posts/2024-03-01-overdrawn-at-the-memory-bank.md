@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Overdrawn at the Memory Bank (1984)"
 excerpt: "My review of Overdrawn at the Memory Bank (1984)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5WFbId
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <i>Movie CW // Misogyny, Ableism, Fatphobia</i>
 <i>MST3K CW // Misogyny, Racism, Fatphobia, Homophobia</i>
@@ -21,7 +23,3 @@ It's pretty good, though!
 * We'll return to Days of our Fingal after this
 * Finally, I killed my virtual pet
 * Eating Raúl
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5WFbId)

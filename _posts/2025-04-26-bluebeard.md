@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bluebeard (1936)"
 excerpt: "My review of Bluebeard (1936)"
+rating: ""
+letterboxd_url: https://boxd.it/9wi4Kt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 40/52 | Animation Before the 2000s</a></b>
 
@@ -25,8 +27,3 @@ The zoom-ins are jarring, but I imagine it was difficult to rig the camera to mo
 Oh, did I mention this is a musical? Yeah, it's got songs.
 
 The moral of this is supposed to be, "Curiosity killed the cat?" Like, the bride shouldn't have opened the door??
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9wi4Kt)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Once Upon a Time... in Hollywood (2019)"
 excerpt: "My review of Once Upon a Time... in Hollywood (2019)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6yd74z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 22/52 | Andy Young’s “That” shot of someone in a theater watching a movie</a></b>
 
@@ -31,7 +33,3 @@ I hated how they characterized Bruce Lee. Also, how they handled the Manson fami
 The third act is such a clumsy mess — one scene is disgusting, misguided, and legitimately ruins the entire movie. What's worse is that Tarantino wrote the film in reverse with that scene in mind.
 
 This film is glossy, well-acted, and has moments that work for me. Tarantino is a good director and a fascinating storyteller. Here, his indulgence does not pay off.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6yd74z)

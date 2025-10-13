@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "When the Cat Comes (1963)"
 excerpt: "My review of When the Cat Comes (1963)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5yi9qf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>Once upon a time, this really happened</i></blockquote>
 
@@ -43,7 +45,3 @@ The people's colors are so vibrant. It's almost overstimulating. I love it.
 So many cute cats! There's also an itty bitty turtle. I giggled a bunch.
 
 While the film may be sloppy and meandering, its abundance of heart makes it impossible not to root for.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5yi9qf)

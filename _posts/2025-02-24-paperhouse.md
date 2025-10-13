@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Paperhouse (1988)"
 excerpt: "My review of Paperhouse (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8W9pHt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 35</a></b>
 
@@ -23,7 +25,3 @@ The film sometimes feels like Terry Gilliam, but it arrives at a more maudlin st
 Hans Zimmer's score is bombastic but effective! It hit in a couple of scenes—I was not prepared!
 
 This movie really had me for a bit, but that last third is a little hard to grasp. The ending makes sense with the story told; it just changes the direction towards something less concrete.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8W9pHt)

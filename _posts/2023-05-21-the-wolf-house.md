@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wolf House (2018)"
 excerpt: "My review of The Wolf House (2018)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4gPCsF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 The framing story is that a German colony within Chile is trying to clear up misunderstandings about them, and the story told is to help that
 
@@ -19,7 +21,3 @@ Beautiful animation — it reminds me of William Kentridge with the sort of “e
 If you don’t know about Colonia Dignidad, look it up. Real fucked up stuff!
 
 And at 75 minutes, how could you say no?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4gPCsF)

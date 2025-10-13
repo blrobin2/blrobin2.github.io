@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Color of Pomegranates (1969)"
 excerpt: "My review of The Color of Pomegranates (1969)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5kP72l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023">Criterion Challenge 2023</a> | 45/52 | 1960s</b><blockquote><i>This film is not the story of a poet's life. Instead, the filmmaker has attempted to recreate the world of a poet — the modulation of his soul, his passions, and his torments — broadly utilizing the symbolism and allegories of medieval Armenian troubadours.</i></blockquote>
 On paper, this is a biopic about poet and troubadour (ashug) Sayat-Nova. In design, it is a series of moving, living paintings.
@@ -24,7 +26,3 @@ Sofiko Chiaureli is a Tilda Swinton-type — their androgynous look transcends g
 This film could be the most beautiful-looking I've seen. I would love to play a video game in which each of the levels/worlds were these tableaux.
 
 <blockquote><i>We're seeking ourselves in each other.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kP72l)

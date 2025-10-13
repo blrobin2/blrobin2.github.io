@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Assault on Precinct 13 (1976)"
 excerpt: "My review of Assault on Precinct 13 (1976)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5ECD77
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 14/52 | John Carpenter</a></b>
 
@@ -32,7 +34,3 @@ As I associate <i>Riki-Oh: The Story of Ricky</i> with Stewart Wellington from <
 Laurie Zimmer is such a fucking badass. They get a scene where the street light cuts across her face like a noir and she delivers a cold speech.
 
 The dialogue gets cheesy in a couple of places, and the pacing before the climax isn't great. But this movie nails a lot and is one of the best action movies I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ECD77)

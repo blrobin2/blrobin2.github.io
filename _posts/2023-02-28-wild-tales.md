@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Wild Tales (2014)"
 excerpt: "My review of Wild Tales (2014)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3V1CDz
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <i style="font-weight: bold;">Pasternak </i><b>***.5</b>
 Simple premise, executed well
@@ -27,7 +29,3 @@ Real class warfare shit
 </b>Tedious “hysterical bride” shit, done to death, but Erica Rivas does a great comedic performance 
 
 Lesson learned: be careful who you piss off
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3V1CDz)

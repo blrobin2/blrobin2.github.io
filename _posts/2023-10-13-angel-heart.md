@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Angel Heart (1987)"
 excerpt: "My review of Angel Heart (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Z9ZIn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 15/34 | Devil-Centered 2/3</a>
 
@@ -38,7 +40,3 @@ The film is a blast! Check it out.
 * I wanted chickens to play into the ending somehow, but maybe it’s better than they don’t.
 
 * Very <i>Oldboy</i>, making him have sex with his daughter.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Z9ZIn)

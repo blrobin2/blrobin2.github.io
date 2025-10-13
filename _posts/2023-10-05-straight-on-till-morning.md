@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Straight On Till Morning (1972)"
 excerpt: "My review of Straight On Till Morning (1972)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4WCd6B
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Brenda (Rita Tushingham) lives in Liverpool with her mother — to her mother's protestations, she decides to leave for London to "find a father for her baby," as she puts it
 
@@ -27,7 +29,3 @@ Peter has mommy issues and issues with beauty because he believes everyone who e
 Brenda is so insecure that she doesn't believe she deserves a loving, reciprocal relationship. She puts up with dismissive behavior from everyone around her, desperate for someone to give her the child she wants
 
 Why? That's a good question. Still, I felt uneasy throughout and thought both leads did well with the thin material
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4WCd6B)

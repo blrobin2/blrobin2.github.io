@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Child's Play (1988)"
 excerpt: "My review of Child's Play (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6xnign
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 24/31 | Tom Holland</a></b>
 
@@ -38,7 +40,3 @@ I’m looking forward to checking out the rest!
 
 <b>*** Spoiler Talk ***</b>
 So, Charles Lee Ray uses voodoo to transfer into Chucky's body. I watched <i>The Serpent and the Rainbow</i> before this. I didn’t intend to watch two voodoo movies today. Honestly, it could have been any [insert magic here] that got him in there. Why it had to be voodoo, I’m not sure. Also, both movies came out in 1988, so maybe voodoo was a hot topic?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6xnign)

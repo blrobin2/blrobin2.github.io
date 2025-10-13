@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Invisible Man (2020)"
 excerpt: "My review of The Invisible Man (2020)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5VyLS1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 26/32 | Invisible Person">Hooptober 7.0 | 26/32 | Invisible Person</a></b>
 
@@ -30,7 +32,3 @@ The cinematography creates such anticipation by drawing lines of sight and movin
 The runtime felt indulgent initially, but as it took its turns and developed, it all came together nicely. The ending is a chef's kiss on the lips.
 
 This movie had me on edge the whole time — one of the most tense and terrifying films I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5VyLS1)

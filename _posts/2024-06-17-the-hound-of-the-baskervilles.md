@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hound of the Baskervilles (1939)"
 excerpt: "My review of The Hound of the Baskervilles (1939)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6GUbRX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0  | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>
 
@@ -27,7 +29,3 @@ This film is one of the first Sherlock film adaptations to be based in the origi
 For all the Basil Rathbone movies I've seen, this is the first Sherlock of his I've watched. My dad always complained about how dry they were, but this is right up my alley! He's much more energetic and funny than in some other roles.
 
 The sets are top-notch, the mystery is (mostly) sound, and the action is well-choreographed. I can't say it was an exciting watch, but it was consistently engaging.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6GUbRX)

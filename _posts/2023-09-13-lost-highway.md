@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lost Highway (1997)"
 excerpt: "My review of Lost Highway (1997)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4Q9GJv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <blockquote><i>Did I dream that you dreamed about me?</i></blockquote>Fred does not feel safe in his home. His wife, Renee, is distant and fearful. He knows she is lying about what she does, and his dreams suggest that something has possessed her. His saxophone wails aimlessly, ungrounded from the rhythm of the band — his jealousy a barbaric power he attempts to kill in himself
 <blockquote><i>— I want you
@@ -23,7 +25,3 @@ category: movie_review
 * Having watched <i>Mulholland Dr</i> several times more than this, I didn't notice until now just how many camera and sound flourishes the two share
 * I love that David Lynch listens to the music for the scene while they're filming so he can get the rhythm down
 * Marilyn Manson being so prominent in this sours the experience
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Q9GJv)

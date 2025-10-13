@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Entity (1982)"
 excerpt: "My review of The Entity (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4m3Gg7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A woman with a son and two daughters begins to experience brutal beatings and rapes from an unknown, unseen entity. Her son sees it, and in trying to protect her, the thing breaks his arm
 
@@ -19,7 +21,3 @@ The soundtrack is industrial and frightening, maybe one of the more effective 80
 From a filmmaking perspective, I think the story arc is uneven and takes an odd turn toward the end. I suppose because it’s “based on a true account,” it wanted to follow that account as closely as possible while still making a spectacle
 
 I don’t think it’s a hidden classic, but I do think it is underrated and worth seeing because, despite its adjacency to familiar horror movie territory, its meta text is on another level
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4m3Gg7)

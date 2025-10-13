@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th: The Final Chapter (1984)"
 excerpt: "My review of Friday the 13th: The Final Chapter (1984)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6oPfOL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 3/31 | Sequels 3/6</a></b>
 
@@ -33,7 +35,3 @@ Tommy, played by Corey Feldman, is one of the most honest audience surrogates I�
 It’s hard to walk into the fourth chapter of a massive series with expectations, but this movie makes the best use of its setup that I’ve seen thus far. It’s not high art but stands out in a sea of slashers.
 
 Like <i>Part III</i>, this wanted to be the end. But, uh, it isn’t.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6oPfOL)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Mom's a Werewolf (1989)"
 excerpt: "My review of My Mom's a Werewolf (1989)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9zv4Gz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 33/52 | Crown International</a></b>
 
@@ -23,7 +25,3 @@ The movie operates in an unusual space. It is not innocent enough for a family m
 Of course, my favorite character is Stacey, a kindred horror fanatic. I, too, feel like I have to drag folks to my horror events and movies. Susan Blakely is quite entertaining as Leslie. She has solid comedic timing and delivers some groan-worthy lines with enough pizzazz to make them work.
 
 Folks will compare this movie to Michael Fischa's more successful and ridiculous horror movie, <i>Death Spa</i>. I appreciate that Fischa tried to diversify his directorial efforts. And I kind of like this movie! It doesn't do anything groundbreaking, but I had a fun time! Throw a Halloween party into your film, and I will have a hard time hating it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9zv4Gz)

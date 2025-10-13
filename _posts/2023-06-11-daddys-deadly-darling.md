@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Daddy's Deadly Darling (1973)"
 excerpt: "My review of Daddy's Deadly Darling (1973)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4mhTh1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 “Dad Rapes Daughter and Dies of Knife Wound,” reads the newspaper headline. Said daughter (Toni Lawrence, the director’s daughter) is put in a psych ward and given shock treatment, but when a nurse and doctor run off to fuck, she escapes 
 
@@ -19,7 +21,3 @@ The movie has very little pig presence, focusing more on Toni’s character, who
 The two lead performances aren’t stellar, but they are thought-out and (slightly) less exploitative than the material suggests. And while the filmmaking is just okay, the story has just enough weird going on to make it work
 
 One murder scene has the quickest edits I’ve seen in a movie from this era, just an explosion of images. It’s not good or anything — it’s just noteworthy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4mhTh1)

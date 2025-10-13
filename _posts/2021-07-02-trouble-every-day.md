@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Trouble Every Day (2001)"
 excerpt: "My review of Trouble Every Day (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/1XInqj
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** 3/5
-
 I felt genuine dread and disgust watching this, so I guess it did what it intended to. That said, I don’t want some of these images in my head, so I kind of regret watching it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/1XInqj)

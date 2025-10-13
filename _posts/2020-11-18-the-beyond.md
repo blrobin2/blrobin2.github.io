@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "The Beyond (1981)"
 excerpt: "My review of The Beyond (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/1sSsRF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 Absolute nonsense and totally fun
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/1sSsRF)

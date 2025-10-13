@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Berlin Alexanderplatz (1980)"
 excerpt: "My review of Berlin Alexanderplatz (1980)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/51Mk6X
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <blockquote><i>And I turned and saw the injustice of everything that took place beneath the sun</i></blockquote><b>Betlin, 1928</b>
 
@@ -38,7 +40,3 @@ Also, both are boring until they aren't. Or maybe both of them fucked with my pe
 A genuinely singular experience
 
 <blockquote><i>There is a reaper whose name is Death. And he arrives on hatchets and knives, blowing a little flute. Then he opens wide his jaws, and he takes out his trumpet. Will he blow the trumpet? Will he beat the drum? Will the terrible black battering ram come? Ever so softly.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/51Mk6X)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gone with the Wind (1939)"
 excerpt: "My review of Gone with the Wind (1939)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5BvsjZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 3/52 | 1930s</a></b>
 
@@ -48,7 +50,3 @@ As someone who watches too many movies, I have invariably seen this movie's fing
 * "Prostrate with grief" is how I describe myself when I'm hungover
 * Woah, they killed a kind
 * — Where shall I go? What shall I do? — Frankly, my dear, I don't give a damn
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5BvsjZ)

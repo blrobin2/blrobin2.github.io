@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nekromantik (1988)"
 excerpt: "My review of Nekromantik (1988)"
+rating: ""
+letterboxd_url: https://boxd.it/3RrsVT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 If horror movies are to be believed, any light jostling will result in one or more eyeballs falling out of your face
 
@@ -17,7 +19,3 @@ Of course, as it happens, this film does contribute to desensitization of violen
 Watching it, it’s hard not to see comedic intentions — the threesome with the corpse, the romantic music, and the condom on the pipe… the “nailing” of Jesus to the cross… And the ending? C’mon
 
 So I don’t know dude! I kind of like parts of it, but I hated the killing and skinning of the rabbit. Regardless, not gonna watch this one again
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3RrsVT)

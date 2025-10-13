@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House on Sorority Row (1982)"
 excerpt: "My review of The House on Sorority Row (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5bCMRR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 After a prank gone wrong, seven sorority sisters swear each other to secrecy. Unbeknownst to them, Mrs. Slater, the housemother, has a secret too. The sisters may learn it, but they won’t live to talk about it.
 
@@ -22,7 +24,3 @@ After a prank gone wrong, seven sorority sisters swear each other to secrecy. Un
 * The house band is pretty good! Richard Band, I think?
 * Sedative dream sequence — killer light, totally wild vibes
 * Great ending! Tense and well-paced
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5bCMRR)

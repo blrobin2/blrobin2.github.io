@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Legend of the Eight Samurai (1983)"
 excerpt: "My review of Legend of the Eight Samurai (1983)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5z9ibz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 2/52 | Kinji Fukasaku</a></b>
 
@@ -47,7 +49,3 @@ I appreciate the aesthetics, but it's too long to love.
 * It takes Shinbei a while to realize he has a bead in the movie.
 * Giant floating snake!
 * The ending feels a little like <i>Crouching Tiger, Hidden Dragon</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5z9ibz)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Simple Life (2011)"
 excerpt: "My review of A Simple Life (2011)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6t5R8r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 20/52 | Directed by Ann Hui On-Wah</a></b>
 
@@ -35,7 +37,3 @@ The film is full of cameos from famous Chinese film stars and producers. I recog
 If I had one complaint, it would be the length. The story deserves a relaxed pace, especially when it's about developing relationships. However, I am particular about film length, so this might not pose an issue for you.
 
 This film beautifully showcases the profound impact of a simple life.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6t5R8r)

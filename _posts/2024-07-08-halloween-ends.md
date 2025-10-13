@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween Ends (2022)"
 excerpt: "My review of Halloween Ends (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6Pfuep
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 3/31 | Franchise 3/5">Hooptober 2.0 | 3/31 | Franchise 3/5</a></b>
 
@@ -24,7 +26,3 @@ It feels like a flimsy parallel they want to draw between Laurie and Allyson. As
 Still, they stretch out the movie with unbearable recapitulation of the same ideas. It's like the writers don't trust themselves to deliver on subtext.
 
 Still, this is the best of the trilogy by far. This movie isn't a massive improvement, but it's much better than the direction <i>Halloween Kills</i> went. Also, a Diana Prince cameo!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Pfuep)

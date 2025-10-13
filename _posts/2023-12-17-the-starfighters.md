@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Starfighters (1964)"
 excerpt: "My review of The Starfighters (1964)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/5l5CZZ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 No one wanted to do this movie except Frank Conniff — if you ever ask yourself why they do a movie as bad as this, it's almost always Frank's fault.
 
@@ -23,7 +25,3 @@ I submit my single joke: Only Angels Have Plot
 * Wheels! What doesn't this movie have?
 * Do you know that flying a plane is like making love: you have to pay
 * I know I'm supposed to feel something but I don't
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5l5CZZ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Radical Jack (2001)"
 excerpt: "My review of Radical Jack (2001)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/9swKWN
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 Ah, Edgewood Entertainment. You gave me <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a> and <a href="https://boxd.it/9fZVEB"><i>Icebreaker</i></a>. And now <i>Radical Jack</i>? Surely, this is hell.
 
@@ -19,8 +21,3 @@ So many Rifftrax reference jokes from this movie, like the obsession with Asahi.
 * Yeah! Let's toast this moment with a round of fine Japanese lager. Am I right, bros? You know what brand I mean!
 * The circular saw reminds him of his wife and daughter—what the hell did he do to them??
 * Never mess with a man whose goatee is THIS precise.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9swKWN)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night Games (1966)"
 excerpt: "My review of Night Games (1966)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4IeqQN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>— You're marrying a child
 </i><i>— You're a man
@@ -27,7 +29,3 @@ Still, lots of good stuff
 * I had to see the movie that made Shirley Temple resign from judging film festivals
 * If you watched this with me, you would've heard me yell, "Paging Dr. Freud!" every three minutes
 * It's, unfortunately, a woman seeing a man she can fix and (spoiler alert) succeeding
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4IeqQN)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Pied Piper (1986)"
 excerpt: "My review of The Pied Piper (1986)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/8xBTQh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 4/52 | Animated Horror</a></b>
 
@@ -20,7 +22,3 @@ The characters speak a fictitious language, so visual cues accompany some of the
 
 The world has the darkness of a Grimm fairy tale. The story is violent and ruthless.
 This film is a remarkable achievement in animation. I wish I connected to it on an emotional level, but I still adore it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8xBTQh)

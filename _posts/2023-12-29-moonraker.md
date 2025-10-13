@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Moonraker (1979)"
 excerpt: "My review of Moonraker (1979)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5qvQyF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -35,7 +37,3 @@ This movie rules! I had a smile on my face for the entire third act.
 * Chekov's wristwatch dart gun
 * Jaws and his partner having some champagne before being launched into space  — "Don't worry, they'll make it. It's only 100 miles to Earth"
 * Zero gravity space sex on the monitor. Q says, "I think he's attempting re-entry, sir."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5qvQyF)

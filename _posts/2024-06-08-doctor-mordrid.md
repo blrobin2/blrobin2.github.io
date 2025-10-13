@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Doctor Mordrid (1992)"
 excerpt: "My review of Doctor Mordrid (1992)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6Djdvj
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Another Emily episode! I'm warming to her — it's always an adjustment with new hosts. Speaking of new hosts, Dr. Kabal demands a third host, this time forcing Kinga and Max to go through The Time Bag and recover... Joel!
 
@@ -28,7 +30,3 @@ I watched this episode on PlutoTV when I first realized there were new <i>MST3K<
 * Time for a nice hot cup of pasta sauce
 * Body search mandatory? I assume they wouldn't be voluntary
 * New stepdad alert!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Djdvj)

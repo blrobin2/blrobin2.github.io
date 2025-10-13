@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Stand and Deliver (1988)"
 excerpt: "My review of Stand and Deliver (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8AI9tH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 13</a></b>
 
@@ -19,7 +21,3 @@ I don't know if this movie is the first in this style, but I've seen so many rip
 Edward James Olmos plays the weirdest version of the benevolent teacher, full of wisecracks and non-sequiturs, with a dose of gross, horny stuff for the teenage girls.
 
 This movie isn't my thing. I appreciate the performances and the filmmaking.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8AI9tH)

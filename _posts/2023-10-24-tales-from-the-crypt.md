@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tales from the Crypt (1972)"
 excerpt: "My review of Tales from the Crypt (1972)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/52OVo3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 26/34 | Peter Cushing 2/2</b>
 
@@ -55,7 +57,3 @@ William Rogers becomes a director for a home of the blind. He makes dramatic cut
 They lock him and his dog Shane away, letting them starve for a while. Like a bunch of Jigsaw Killers, they construct a maze for him to get through, filled with danger.
 
 Overall, some decent-quality stories
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/52OVo3)

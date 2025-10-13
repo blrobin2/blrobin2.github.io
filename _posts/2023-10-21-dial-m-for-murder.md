@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dial M for Murder (1954)"
 excerpt: "My review of Dial M for Murder (1954)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/51IXSt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 23/34 | Hitchcock | Decades 8/8 | 50s </b>
 
@@ -33,7 +35,3 @@ It’s the cinematography that makes this one stand out to me. The way it uses t
 The lighting also creates beautiful compositions and striking images.
 
  I enjoyed this a good bit.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/51IXSt)

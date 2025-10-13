@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House That Jack Built (2018)"
 excerpt: "My review of The House That Jack Built (2018)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4CeMLB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <blockquote><i>Here I am holding this jack. Do you have a jack I can borrow?</i></blockquote>I watched the R-rated version, and it's hard to imagine that the excised gore and viscera would have made a significant difference in my rating of this
 
@@ -23,7 +25,3 @@ Once it digressed into the endless rant on wine, decay, and how iconic Mussolini
 The movie isn't inherently flawed — the performances are all great, and some of the cinematography is striking — some shots are unlike anything I can recall seeing. Also, I like the idea of a serial killer recounting his life to Virgil
 
 I like several of Von Trier's movies, but this is not one of them. In some ways worse than a failure — just a clumsy masturbation session for his diehard fans
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4CeMLB)

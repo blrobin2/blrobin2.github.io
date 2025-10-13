@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rocket Attack U.S.A. (1960)"
 excerpt: "My review of Rocket Attack U.S.A. (1960)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4AIGEV
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 they really upped the ante on bad movies this season, good lord!
 
@@ -16,7 +18,3 @@ they really upped the ante on bad movies this season, good lord!
 * you taste like a fat drunk Russian... neat!
 * remember that good stuff i mentioned earlier? forget it! and now, Simply Red
 * even little children must die so the lesson is learned
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4AIGEV)

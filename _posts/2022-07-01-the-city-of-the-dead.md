@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "The City of the Dead (1960)"
 excerpt: "My review of The City of the Dead (1960)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/2YEDHJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 Platonic ideal of 60s British horror
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/2YEDHJ)

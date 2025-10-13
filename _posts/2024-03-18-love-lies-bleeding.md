@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Love Lies Bleeding (2024)"
 excerpt: "My review of Love Lies Bleeding (2024)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/64NCiz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b></b>
 
@@ -26,7 +28,3 @@ The film has a sinister magic to it. The comedy and brutal violence come out of 
 This movie is so impressive! It takes some bold risks and they all pay off. I don't know if I've ever left a film teary-eyed and nauseous.
 
 I'll be thinking about it for a while.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/64NCiz)

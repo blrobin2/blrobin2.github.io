@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pickup on South Street (1953)"
 excerpt: "My review of Pickup on South Street (1953)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4KE3Op
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Pickpocket Skip McCoy steals Candy's wallet in a busy subway car. Once she realizes it's gone, she calls her ex, Joey, to let him know her final favor has gone awry
 
@@ -25,7 +27,3 @@ Despite the dull propaganda, the film, intentionally or not, doesn't paint Ameri
 
 <b>Stray Thoughts</b>
 * If Jean Peters looked at me like that opening shot of her on the subway, I would simply not steal her purse
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KE3Op)

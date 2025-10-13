@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Witchboard (1986)"
 excerpt: "My review of Witchboard (1986)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4dwEbV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Pretty solid setup — at a party, Stephen Nichols introduces Tawny Kitaen to Ouija and the spirit of an 8-year-old boy named Danny. Her husband, Todd Allen, is drunk and irritable, stirring the ire of Danny
 
@@ -25,7 +27,3 @@ Overall, not a bad experience, just not one I would go out of my way to recommen
 Stray Thoughts
 * Burke Byrnes is the cheeriest homicide detective ever put onscreen. His obsession with magic is pretty endearing
 * Zarabeth the medium rules — true style icon
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4dwEbV)

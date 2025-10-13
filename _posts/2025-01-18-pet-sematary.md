@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pet Sematary (2019)"
 excerpt: "My review of Pet Sematary (2019)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/8w1g51
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 41/52 | Zombie</a></b>
 
@@ -25,7 +27,3 @@ The problem is that this movie lacks energy. I didn't realize you could adapt th
 Did I watch this because I have a crush on Amy Seimetz? Maybe! God bless her—she acts the hell out of this movie. She used her salary from this movie to make <i>She Dies Tomorrow</i>, which I highly recommend.
 
 But yeah, this isn't very good.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8w1g51)

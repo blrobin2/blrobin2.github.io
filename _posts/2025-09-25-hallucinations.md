@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hallucinations (1986)"
 excerpt: "My review of Hallucinations (1986)"
+rating: ""
+letterboxd_url: https://boxd.it/bawkpx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 17/52 | Shot on Video</a></b>
 
@@ -21,7 +23,3 @@ What are these visions? What do they mean? If they are predictions, can the boys
 This movie is as low-budget as they come — two brothers and their friend making a movie at their house on a videotape recorder. And for that, it's pretty ambitious. Only two people are ever on screen at a time, as one of them is typically holding the camera. Still, it features some dynamic cinematography, including shots taken with a homemade dolly of some sort. The sound design is blown out, but it creates some solid atmosphere. No one can act, but they've littered the house with homages to their influences, from H.G. Lewis to <i>Return of the Living Dead</i>. The gore is cheap but quite creative, still crafting some effective gross-out moments.
 
 And you know what? It works. Yes, the script leaves a lot to be desired, but the central conceit is a fun arena for the filmmakers to explore. Their passion is infectious and made me root for this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bawkpx)

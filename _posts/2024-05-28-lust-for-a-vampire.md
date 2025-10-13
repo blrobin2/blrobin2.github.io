@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lust for a Vampire (1971)"
 excerpt: "My review of Lust for a Vampire (1971)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6yQI37
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 27/31 | people eating people (non-zombie) 3/3</a></b>
 
@@ -23,7 +25,3 @@ I did not know (or perhaps forgot) that Hammer made movies as horny as this one.
 There is a scene where the song Strange Love plays, and Yutte Stensgaard makes an ahegao face as Michael Johnson kisses somewhere on her person. I laughed.
 
 Despite this, the film succeeds in some Gothic atmosphere. The third act is when everything picks up. The journey there isn't awful, but the film believes the occasional boobs will suffice where the plot lacks.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6yQI37)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Belle de Jour (1967)"
 excerpt: "My review of Belle de Jour (1967)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9y3SF7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 41/52 | Starring Catherine Deneuve</a></b>
 
@@ -29,7 +31,3 @@ The film does make explicit its themes surrounding fantasy and reality. The brot
 Of all the Buñuel movies I've seen, this one has the most coherent plot and structure. The surrealism mostly occurs during the fantasy sequences, where Séverine dreams of new ways of being demeaned and dominated. These sequences aren't straightforward, especially as the film progresses, and are open to several interpretations. Also, everyone just throws stuff on the floor—glasses, cigarettes, and so on—and it doesn't seem to bother anyone.
 
 What helps this movie stand out most is its final twenty minutes, which brilliantly bring everything together and, depending on how you read it, could upturn your interpretation of the movie as a whole.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9y3SF7)

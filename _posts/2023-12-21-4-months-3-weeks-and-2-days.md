@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "4 Months, 3 Weeks and 2 Days (2007)"
 excerpt: "My review of 4 Months, 3 Weeks and 2 Days (2007)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5munsP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 49/52 | 2000s</b>
 
@@ -31,7 +33,3 @@ Although the film lacks explicit political discourse, we observe bureaucracy thr
 The character of Găbița is so frustrating — a good portion of the film's tension comes from her ignoring instructions or forgetting. But it's important to note that her pregnancy is never the issue. It's how she deals with the details and how it affects Otilia.
 
 This film is concise and focused, centering the characters for the few hours we spend with them.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5munsP)

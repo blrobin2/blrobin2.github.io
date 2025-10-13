@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Queen of Black Magic (2019)"
 excerpt: "My review of The Queen of Black Magic (2019)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8tMaX9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 20/31 | Countries 5/5 | Indonesia</a></b>
 
@@ -27,7 +29,3 @@ The closing credits show screenshots from the original movie, which this is base
 My biggest complaint is the plotting and how everything fits together, especially in the third act. It's nothing egregious, but so much happens off-screen that it's hard to understand how people are where they are.
 
 I enjoyed the movie, but besides some set pieces, I don't think it will stay with me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8tMaX9)

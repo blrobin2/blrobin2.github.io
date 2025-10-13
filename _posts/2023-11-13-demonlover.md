@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Demonlover (2002)"
 excerpt: "My review of Demonlover (2002)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/59CSg5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b>Gen X Soft Club Videodrome</b>
 
@@ -41,7 +43,3 @@ As someone who grew up during the Wild West days of the internet, I remember rot
 The corporatization of the internet has pushed this content to the recesses. It's still more accessible than ever. Installing passive content-blocking software can only accomplish so much.
 
 Morality isn't the concern. Censorship does not and has never worked. It's a question of media literacy and trying to understand what this content does to our brains.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/59CSg5)

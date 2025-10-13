@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Boggy Creek II: And the Legend Continues (1984)"
 excerpt: "My review of Boggy Creek II: And the Legend Continues (1984)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6e5LT7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 This movie has some of the funniest slow zooms.
 
@@ -16,7 +18,3 @@ This movie has some of the funniest slow zooms.
 * Don't tell me that stuff! Sing it instead 
 * If they're not acting casual, I'll have to kill em
 * I think you're crazy! A fun kind of crazy, though
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6e5LT7)

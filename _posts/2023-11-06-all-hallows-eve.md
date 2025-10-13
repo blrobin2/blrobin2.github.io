@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "All Hallows' Eve (2013)"
 excerpt: "My review of All Hallows' Eve (2013)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/57pKjV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 On Halloween night, Timmy and Tia go through their candy haul. An unlabeled VHS tape falls out of Timmy's candy bag. The babysitter is understandably reluctant, but the kids won't give it up, so she agrees to watch it.
 
@@ -29,7 +31,3 @@ The last segment with the babysitter is the only good part, so I'll save it for 
 Overall, this is a pretty soulless and lackluster anthology collection. It's clear that Leone only cares about the last segment. The middle one looks like a quick short film made to fill time. The first segment is a leftover short film from 2006.
 
 I still intend to check out <i>Terrifier</i>, but I'm more reluctant than before.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57pKjV)

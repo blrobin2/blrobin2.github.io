@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Furies (1950)"
 excerpt: "My review of The Furies (1950)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5726nR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b>You can have it all. My empire of cows.</b>
 
@@ -40,7 +42,3 @@ If you drink every time someone says “The Furies,” you’ll be dead by 20 mi
 * T.C. looks like Paul F Thompkins. I have to believe he’s done a character like this.
 * T.C. has two busts in his office: Napoleon and himself.
 * T.C. throws a guy through a window for drunkenly snoring too loud.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5726nR)

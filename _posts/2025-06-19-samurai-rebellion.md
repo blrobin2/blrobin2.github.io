@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Samurai Rebellion (1967)"
 excerpt: "My review of Samurai Rebellion (1967)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/a2PCoP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail" rel="nofollow">Asian Cinema Challenge 2023 | 11/52 | Samurai Cinema</a></b>
 
@@ -29,7 +31,3 @@ Where this film differs is in its intensity of aesthetic considerations, taking 
 Director Masaki Kobayashi once said that all of his films are studies "of the individual against society." Here, we fall into that system, fighting against something entirely artificial and yet bigger than any one person can face. This line of inquiry is where the film has its most significant relevance, as we see countries like the USA succumb to populist rhetoric, further isolating individuals from the means of organizing and a sense of community. Perhaps this film can show the viewer that, even when you follow all the rules, the system can turn on you at any moment.
 
 In the end, I prefer this one a bit more to <i>Harakiri</i>, if only because I find its concern with domestic affairs more moving and its aesthetic achievements richer and compelling.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a2PCoP)

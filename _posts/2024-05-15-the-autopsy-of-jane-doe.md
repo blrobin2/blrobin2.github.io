@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Autopsy of Jane Doe (2016)"
 excerpt: "My review of The Autopsy of Jane Doe (2016)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6tBoRL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>Everyone has a secret. Some are better at hiding them than others</i></blockquote><b>Grantham, Virginia</b>
 
@@ -35,7 +37,3 @@ Critic Amy Beddows suggests that the movie is feminist. I won't say how and spoi
 I love the stop-motion title card!
 
 This movie rules! I've never seen a horror movie like this and had a great time. I got spooped a few times too!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tBoRL)

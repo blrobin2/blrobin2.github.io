@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Nightmare on Elm Street 3: Dream Warriors (1987)"
 excerpt: "My review of A Nightmare on Elm Street 3: Dream Warriors (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4TnXMB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>Sleep.
 </i><i>Those little slices of Death.
@@ -30,7 +32,3 @@ It does not let up on the bizarro kills and effects, though:
 The chemistry between Patricia Arquette and Heather Langenkamp feels special — Nancy is such an inspiring character who found the ability to escape Freddy and live her life but gives that up to help these kids. Kristen is sensitive and frightened, but through Nancy, she finds the strength to be who she sees herself as
 
 The ending is another, "But why?" but I won't get into it. I will say that I think a choice or two was a mistake for the franchise, but Craven didn't care about that
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4TnXMB)

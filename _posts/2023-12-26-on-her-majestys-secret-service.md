@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "On Her Majesty's Secret Service (1969)"
 excerpt: "My review of On Her Majesty's Secret Service (1969)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5oTmXF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -30,7 +32,3 @@ To survive family Christmas, I have been macro-dosing sangria, so we’ll see ho
 * Dropping a grenade in your bobsled is some <i>Looney Tunes</i> behavior
 * The St. Bernard immediately wanting to play instead of help is delightful
 * I knew the ending was coming, and it still hit me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5oTmXF)

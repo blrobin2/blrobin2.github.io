@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Marriage Story (2019)"
 excerpt: "My review of Marriage Story (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6txSRj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 11/52 | 2010s</a></b>
 
@@ -46,7 +48,3 @@ Let's talk about the actors:
 I haven't seen many (any?) serious divorce dramas, so I don't have anything to compare this against. I saw the <i>Scenes from a Marriage</i> picture, so I imagine this movie has some reference. The movie weirdly feels like <i>Boyhood</i>, but I can't tell you why.
 
 I like this movie. I wanted to love it, but it didn't feel as effortless as <i>Kicking & Screaming</i> or <i>Frances Ha</i> did to me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6txSRj)

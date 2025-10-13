@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Kid Brother (1927)"
 excerpt: "My review of The Kid Brother (1927)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/91yAW5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 37/52 | Genre: Family</a></b>
 
@@ -21,7 +23,3 @@ I was initially worried about Harold's relocation from the city to the country. 
 The story has several subplots to keep things interesting: a strongman who wants Mary, a Mary-Harold romance in which she thinks Harold is the sheriff, a rivalry between Harold and Hank Hooper, and the conflict over the town dam.
 
 Everyone has their favorite between Keaton, Chaplin, and Lloyd. As much as I love Keaton and tolerate Chaplin, Lloyd remains my favorite. This film is a delightful experience I wish to revisit in the future.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/91yAW5)

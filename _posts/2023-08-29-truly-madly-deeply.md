@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Truly Madly Deeply (1990)"
 excerpt: "My review of Truly Madly Deeply (1990)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4LHjlj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Nina has recently lost Jamie, the love of her life. In her heart, she talks to him as though he is still there, but the ache of absence still stings
 
@@ -23,7 +25,3 @@ We get droplets of her life, but nothing is moving in any particular direction â
 I don't remember a film shifting from annoying me to moving me the way this movie did. Maybe because it found its way into my memories and experiences and helped me reflect on the grief I have been experiencing for a while now. It reminded me that I don't have to be in any particular place with grief â€” I only need to keep going
 
 <blockquote><i>My feet will march to where you are sleeping, but I will go on living</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LHjlj)

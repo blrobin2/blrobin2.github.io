@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "X: The Man with the X-Ray Eyes (1963)"
 excerpt: "My review of X: The Man with the X-Ray Eyes (1963)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/53YUBJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 30/34 | ‘X’ in the title</b>
 
@@ -25,7 +27,3 @@ Afraid of what will happen, Xavier goes on the run, pushing his X use to the out
 The visual effects are so fun! I love it when everything becomes bleeding lights, and the spectrum smears across each image. They would make perfect concert visuals.
 
 My favorite part is when he goes to a dance and sees everyone naked. Milland plays bashful schoolboy well.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53YUBJ)

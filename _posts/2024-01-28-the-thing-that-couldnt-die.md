@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Thing That Couldn't Die (1958)"
 excerpt: "My review of The Thing That Couldn't Die (1958)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5Hylmd
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 The observers!
 
@@ -20,7 +22,3 @@ This movie is gay! (compliment)
 * Shh big boys don't cry
 * I'm new to this. Is this sexual tension?
 * Everyone pretend you don't have blood!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Hylmd)

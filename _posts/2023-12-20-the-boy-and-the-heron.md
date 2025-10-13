@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Boy and the Heron (2023)"
 excerpt: "My review of The Boy and the Heron (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5mhjiZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b> Miyazaki needed us to see people covered in bird shit, hugging one another</b>
 
@@ -27,7 +29,3 @@ After a decade of waiting, Miyazaki accumulated a ton of thoughts for his film. 
 In terms of aesthetics, this matches Studio Ghibli's other works in beauty. Some character design choices seem random, perhaps because of the book's influence.
 
 I acknowledge being in a minority opinion. Despite its attempt to be deep and emotional, the movie left me feeling cold and uninvested.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5mhjiZ)

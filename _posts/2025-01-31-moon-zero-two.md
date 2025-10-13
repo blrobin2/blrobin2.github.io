@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Moon Zero Two (1969)"
 excerpt: "My review of Moon Zero Two (1969)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8FIFAZ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 According to the episode guide, no one remembered doing this episode when asked ~six seasons later. Why do I have such a soft spot for Hammer, even when it kind of sucks?
 
@@ -15,7 +17,3 @@ According to the episode guide, no one remembered doing this episode when asked 
 * Timpani gun, works every time
 * What good is them being on the moon if they just reenact the atrocities of Earth?
 * I bet he won't try that again
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8FIFAZ)

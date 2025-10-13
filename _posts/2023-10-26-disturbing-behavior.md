@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Disturbing Behavior (1998)"
 excerpt: "My review of Disturbing Behavior (1998)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/53jZAJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a rel="nofollow">Hooptober X</a> | 28/34 | Released the year I turned 10</b>
 
@@ -33,7 +35,3 @@ The movie also deals with how some families refuse to acknowledge shared tragedy
 The dialogue isn't bad — it incorporates teen slang without being cringy, which I consider an accomplishment. I'm also of the age where any 90s teen movie with a budget goes down easy.
 
 It also uses Flagpole Sitta, which isn't fair.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53jZAJ)

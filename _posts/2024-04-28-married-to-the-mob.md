@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Married to the Mob (1988)"
 excerpt: "My review of Married to the Mob (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6m9XgL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <a href="https://boxd.it/sWI7Y" rel="nofollow"><b>Birthday Year Challenge 5</b></a>
 
@@ -37,7 +39,3 @@ Dean Stockwell shouldn't work in this role, but he does?? Maybe I'm underselling
 The credit sequence is so weird! It continues the story, I think?? It even has a post-credit sequence.
 
 This movie came together eloquently! It goes through many familiar troupes and puts a personal spin on each one. This movie is the first time I've felt like Jonathan Demme as auteur has made sense to me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6m9XgL)

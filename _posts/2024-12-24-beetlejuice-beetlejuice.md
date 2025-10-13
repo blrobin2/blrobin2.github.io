@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Beetlejuice Beetlejuice (2024)"
 excerpt: "My review of Beetlejuice Beetlejuice (2024)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/88xP3d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <blockquote><i>I swear, the afterlife is so random!</i></blockquote>
 
@@ -27,7 +29,3 @@ I appreciate that Burton toned down the CGI effects compared to his recent outpu
 I also love seeing Michael Keaton do a comedic role again, even if it's a character thoroughly explored 30 years ago.
 
 If this movie is about anything, it's how much Tim Burton regrets marrying everyone except Monica Bellucci.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/88xP3d)

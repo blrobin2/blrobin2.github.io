@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Isolation (2005)"
 excerpt: "My review of Isolation (2005)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6YVmQZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 28/31 | Monster 3/5">Hooptober 2.0 | 28/31 | Monster 3/5</a></b>
 
@@ -27,7 +29,3 @@ The effects are all practical and quite grotesque. We get explicit cow labor and
 The script has some melodrama between Dan and Orla. John Lynch plays it broad, but Essie Davis keeps it grounded and motivated.
 
 It's a contagion episode of<i> X-Files</i>, but no one has hero armor. What a nightmare!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6YVmQZ)

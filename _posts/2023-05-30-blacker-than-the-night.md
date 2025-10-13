@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blacker Than the Night (1975)"
 excerpt: "My review of Blacker Than the Night (1975)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4jaSSp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Four women in various states of undress live in a house together. One of the women learns that she inherits the house and a substantial sum from her recently deceased aunt, with the condition that she cares for her cat Bequer 
 
@@ -17,7 +19,3 @@ While living there, they hear a voice in the garden calling for Bequer, but they
 Soon after the death, the women start dying one after another, each seeing the dead aunt just before something happens to her
 
 It’s pretty tame and predictable but the cinematography is pretty great, especially when it goes psychedelic
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4jaSSp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cat-Women of the Moon (1953)"
 excerpt: "My review of Cat-Women of the Moon (1953)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/bk4U8B
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Mary Jo Pehl and Bridget Jones Nelson riff on this one. This was their first "almost movie" riff, as they call it (the movie is barely over 60 minutes).
 
@@ -22,7 +24,3 @@ See <a href="https://boxd.it/59qQlD" rel="nofollow">my review from two years ago
 * It’s a lucky thing we came along, what with our sperm.
 * You're too smart for me, baby. I like 'em stupid. That's why I'm so fond of me.
 * A gentle, feminine stab.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bk4U8B)

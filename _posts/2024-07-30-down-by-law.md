@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Down by Law (1986)"
 excerpt: "My review of Down by Law (1986)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6Zsco3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 31/52 | Michael Shannon’s Closet Picks</a></b>
 
@@ -31,7 +33,3 @@ John Lurie does the score for the movie, while Tom Waits provides a few songs. T
 I don’t like Roberto Benigni, but he’s the film’s sole source of life this movie has for long swaths. I’m glad he met his real-life wife, Nicoletta Nraschi while working on the movie. It never gets more dynamic than the opening with Laurette and the records. I don’t know, it’s quite good and even funny. I’m not always on Jarmusch’s wavelength, but this wasn’t as off-putting as some of his other flicks.
 
 Also, John Lurie's hot, so that helps.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Zsco3)

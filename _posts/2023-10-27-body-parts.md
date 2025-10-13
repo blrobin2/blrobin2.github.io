@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Body Parts (1991)"
 excerpt: "My review of Body Parts (1991)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/53KD0N
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>I've heard of muscle memory, but this is ridiculous!</b>
 
@@ -40,7 +42,3 @@ Still, this absurd pulp hits a few pleasure centers for me.
 * The saw in the soundtrack is sci-fi spoopy.
 * The prop gun still has the safety notch on it
 * Wife decides that getting expert finger blasting is worth the safety of the kids
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53KD0N)

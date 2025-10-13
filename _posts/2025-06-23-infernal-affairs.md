@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Infernal Affairs (2002)"
 excerpt: "My review of Infernal Affairs (2002)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/a5CBg7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 12/52 | Heroic Bloodshed</a></b>
 
@@ -33,7 +35,3 @@ Where the movie has more to offer thematically is in how the characters' identit
 Tony Leung and Andy Lau are both powerhouse actors, giving stellar action performances here. You won't see Leung give the subtlety he gives Wong Kar-wai or what Lau does for directors like Ann Hui, but this movie doesn't demand it. I also really like Anthony Wong in this—I have a backlog of horror movies he's been in that I'm looking forward to.
 
 Overall, I think much of the movie's thematic richness comes from discussing it more than the experience of watching it. Still, I enjoyed the intrigue and watching this cast psyche each other out. Though Scorsese won his only Oscar for remaking this as <i>The Departed</i>, I believe this is the superior film.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a5CBg7)

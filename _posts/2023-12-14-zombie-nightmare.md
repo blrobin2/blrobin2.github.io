@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Zombie Nightmare (1987)"
 excerpt: "My review of Zombie Nightmare (1987)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5jYHxD
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Mike is in a blue jumpsuit now — the single most important development in the history of the show
 
@@ -20,7 +22,3 @@ Mike is in a blue jumpsuit now — the single most important development in the 
 * Your worst nightmare: a cop with a learner's permit
 * There's a lot of cars in here... a little too much lot of cars in here
 * Don't be afraid, he won't bite you. He might snap your neck, but he won't bite you
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jYHxD)

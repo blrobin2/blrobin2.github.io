@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ashes and Diamonds (1958)"
 excerpt: "My review of Ashes and Diamonds (1958)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6VM8xp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 25/52 | Made in Poland">Criterion Challenge 2022 | 25/52 | Made in Poland</a></b>
 
@@ -33,7 +35,3 @@ Zbigniew Cybulski's Maciek is a bit of an anachronism, reading more James Dean t
 </i><i>— You keep forgetting you're one of us. And that counts.</i></blockquote>The film has heavy themes but presents them with a breezy effortlessness. It has so many iconic moments and scenes. I've never seen a wartime film handle its subjects this way. It's disorienting but in a good way.
 
 If I were Maciek, I would simply defect for Ewa Krzyżewska.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6VM8xp)

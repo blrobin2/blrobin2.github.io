@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Modern Times (1936)"
 excerpt: "My review of Modern Times (1936)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5OkjqH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist">Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist</a></b>
 
@@ -27,7 +29,3 @@ I appreciate Chaplin's massive influence, but I never get much pleasure from his
 * Little dog!
 * The boat going out to sea is funny
 * The roller skate gag is iconic
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OkjqH)

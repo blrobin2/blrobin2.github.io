@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera vs. Gyaos (1967)"
 excerpt: "My review of Gamera vs. Gyaos (1967)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4KVqUp
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * Joel? How does Gamera fly? Why is the sky blue? What's Vietnam?
 * Oh great, now you made the sun god mad
@@ -14,7 +16,3 @@ category: movie_review
 * i hope that's not Mr Bubble, or Gamera is going to get a kidney infection
 * (sobbing) and then we approached from the rear, using the same strategy we used in Normandy
 * The logging industry! Over 3 billion down!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KVqUp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Video Dead (1987)"
 excerpt: "My review of The Video Dead (1987)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9EWja3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 36/52 | USA Up All Night</a></b>
 
@@ -43,8 +45,3 @@ I'm not the biggest zombie movie fan, but this movie is fun enough that I quite 
 * The rats are crawling out of the zombie's guts! [puke]
 * I always carry copies of How to Kill (Vol. 1), Understanding Guerrilla Warfare Techniques: A Step-by-Step Analogy, and The Bible.
 * I love the pick slide when Joshua hits a zombie with an arrow.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9EWja3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Seventh Grave (1965)"
 excerpt: "My review of The Seventh Grave (1965)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5ZtdJF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 6/32 | film from before 1966 6/6</a></b>
 
@@ -23,7 +25,3 @@ You'll notice the similarities if you are familiar with <i>The Cat and The Canar
 The movie is slow and poorly filmed but has a consistent atmosphere and decent performances.
 
 While this movie isn't great, I'm happy when any movie receives a restoration and becomes more widely available. Groups like Arrow, Severin, and Vinegar Syndrome are performing a tremendous service to movie history.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ZtdJF)

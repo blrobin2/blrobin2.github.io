@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Space Mutiny (1988)"
 excerpt: "My review of Space Mutiny (1988)"
+rating: ""
+letterboxd_url: https://boxd.it/5V3qmh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <i>Movie CW // Violence, Murder, Blood, Misogyny
 MST3K CW // Misogyny, Homophobia, Transphobia, Ageism, Eating Disorders, Body Shaming</i>
@@ -23,7 +25,3 @@ I would watch this movie outside of <i>MST3K</i>. The exterior shots are all fro
 * — Hey you! — You mean me or my familiar?
 * Ow, my mask!
 * Big McLargehuge
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5V3qmh)

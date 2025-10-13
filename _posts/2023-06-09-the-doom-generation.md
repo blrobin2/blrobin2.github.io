@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Doom Generation (1995)"
 excerpt: "My review of The Doom Generation (1995)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4lHEMh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 “Ever feel like reality is more twisted than dreams?”
 
@@ -19,7 +21,3 @@ James Duval in a Ministry tee shirt. Parker Posey in heart sunglasses wielding a
 In some ways, I hate how it ends, but it also — relatively speaking — makes the most sense. I also like how open-ended some of the plot points end up being. There’s room for several interpretations, as well as none — it’s all oblivion.
 
 So glad that Criterion Channel has the new uncut version of the movie! I don’t know how I’d feel about it if I saw the R-rated cut. As it stands, probably my favorite road movie, at least for the moment.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4lHEMh)

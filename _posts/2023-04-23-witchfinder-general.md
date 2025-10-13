@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Witchfinder General (1968)"
 excerpt: "My review of Witchfinder General (1968)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/49zS1b
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Letterboxd keeps erasing my reviews when I set them aside mid-movie, so my reviews have been shit lately. 
 
@@ -23,7 +25,3 @@ The movie also plays on the morality of the hero, having him in military service
 The movie is an excellent example of a film using its runtime wisely — it manages to be under 90 minutes and not feel economical or stripped of character moments
 
 Whenever anyone talks about “elevated horror” as a new thing, point them to this — films like The VVITCH fall into the legacy of “folk horror” that this movie helped kick-off
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/49zS1b)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wind Rises (2013)"
 excerpt: "My review of The Wind Rises (2013)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/916KNV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 3/52 | Anime</a></b>
 
@@ -37,7 +39,3 @@ Why did they get Hideaki Anno to voice the lead? His voice is so affectless.
 The use of voice effects for the sound effects is a fascinating choice. 
 
 It deeply saddens me that Miyazaki made this instead of his planned sequel to <i>Ponyo</i>. I would have preferred it to this or <i>The Boy and the Heron</i> any day.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/916KNV)

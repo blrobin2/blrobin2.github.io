@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "He Who Gets Slapped (1924)"
 excerpt: "My review of He Who Gets Slapped (1924)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/64Sb8R
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 17/32 | Makeup: Lon Chaney</a></b>
 
@@ -31,7 +33,3 @@ The movie has a cute horse who gives a humanizing performance
 This is the first movie to feature MGM's lion mascot!
 
 I'm unsure why this gets put in the thriller/horror bucket, but it's a well-made tragedy.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/64Sb8R)

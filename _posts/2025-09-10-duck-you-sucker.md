@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Duck, You Sucker (1971)"
 excerpt: "My review of Duck, You Sucker (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/b1BwPV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 11/52 | Spaghetti Western</a></b>
 
@@ -40,7 +42,3 @@ Of course, I enjoyed the Ennio Morricone score — the drone elements are excell
 If Leone did not intend to make a political film, he failed. Here, intentionally or otherwise, he argues for the populist — no gods, no masters, no loyalty to anyone save those who will support your personal ideals. Currently, the United States is seeing the fruit of such beliefs in action.
 
 I'm not the biggest fan of Westerns about men, though I'm reluctantly coming around on them. I can appreciate when one works. This one does, but it never earns its 2.5-hour runtime.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b1BwPV)

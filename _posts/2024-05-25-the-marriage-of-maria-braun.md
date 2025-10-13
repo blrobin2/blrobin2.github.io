@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Marriage of Maria Braun (1979)"
 excerpt: "My review of The Marriage of Maria Braun (1979)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6xtlmb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 17/52 | Directed by Rainer Werner Fassbinder</a></b>
 
@@ -35,7 +37,3 @@ It feels a little surreal seeing so many actors from <i>Berlin Alexanderplatz</i
 Hanna Schygulla exudes something like femme fatale energy, but she never plays the game to full effect. Still, her Maria is unknowable — her secrets live at the edge of the eyes.
 
 For all its eccentricities, the movie isn't as alienating as some of his other movies. It may not be a romping good time, but its story is human. Still, no one's ever made a movie like Fassbinder did — it's magic I hope to understand someday.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6xtlmb)

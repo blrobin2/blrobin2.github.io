@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tetsuo II: Body Hammer (1992)"
 excerpt: "My review of Tetsuo II: Body Hammer (1992)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Q7Wjx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 15/32 | 2nd film in franchise 7/7 | Body Horror 1/4</a></b>
 
@@ -29,7 +31,3 @@ I was worried that, with a higher budget, this would have fewer charms. And whil
 This one is less sexual — no pipes sexually inserted in legs or drill penises. It's also more political — to survive in this world, you must become a machine, whether you want to or not.
 
 Regardless, this is a radical piece of 90s cyberpunk weirdness.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Q7Wjx)

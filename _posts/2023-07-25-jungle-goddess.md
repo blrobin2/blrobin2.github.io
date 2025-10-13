@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jungle Goddess (1948)"
 excerpt: "My review of Jungle Goddess (1948)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4zY617
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 is there a Gilligan's Island reference in every mst3k episode?
 
@@ -15,7 +17,3 @@ is there a Gilligan's Island reference in every mst3k episode?
 * let me hear you spell "patronize"
 * when you were in flight school, did they teach you how to scream?
 * are we still in this film or what?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4zY617)

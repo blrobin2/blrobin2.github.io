@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Stray Cat Rock: Delinquent Girl Boss (1970)"
 excerpt: "My review of Stray Cat Rock: Delinquent Girl Boss (1970)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8t8RCX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 38/52 | Pinku Violence</a></b>
 
@@ -21,7 +23,3 @@ The counterculture movement soaks the film's structure and ambiance. The camera 
 The film loses the most steam when it spends time with the boy gangs and their minutia. Even the camera sits still while they talk, almost as if it is as bored as I am.
 
 Still, this movie is rad — I had a blast.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8t8RCX)

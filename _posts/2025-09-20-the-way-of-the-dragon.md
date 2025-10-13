@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Way of the Dragon (1972)"
 excerpt: "My review of The Way of the Dragon (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/b7rRgV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 15/52 | Chuck Norris</a></b>
 
@@ -23,7 +25,3 @@ The fight scenes are pretty bare-bones, but by focusing on authentic martial art
 This movie would rip on the big screen, especially that final fight with Chuck Norris.
 
 I'm sure I've seen this restaurant in another martial arts movie, but it could just be a template used for fight scenes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b7rRgV)

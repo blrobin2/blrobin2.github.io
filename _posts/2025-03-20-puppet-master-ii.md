@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Puppet Master II (1990)"
 excerpt: "My review of Puppet Master II (1990)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9aMYeb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 10/52 | Full Moon Entertainment</a></b>
 
@@ -46,8 +48,3 @@ I wish the movie was just pulpy puppet nonsense, but it spends SO MUCH time watc
 * — "I feel like this guy can explain everything." — "I don't care. We have another half-hour to kill, so don't!"
 * Oh, Toulon without the wraps looks pretty gross!
 * Ooo, the uncanny animated life-size dolls are creepy!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9aMYeb)

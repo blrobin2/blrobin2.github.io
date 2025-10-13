@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Destroy All Monsters (1968)"
 excerpt: "My review of Destroy All Monsters (1968)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6607Ih
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 20/32 | Reptile Rampage | Countries 3/6 | Japan</a></b>
 
@@ -25,7 +27,3 @@ Though the movie features eleven different monsters, the plot streamlines the ev
 The special effects are the best they've been thus far, and we get significantly more fights and action sequences.
 
 It'll be hard to surpass this one. I'm not sure if any of the remaining Honda Godzillas for me to see will top this.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6607Ih)

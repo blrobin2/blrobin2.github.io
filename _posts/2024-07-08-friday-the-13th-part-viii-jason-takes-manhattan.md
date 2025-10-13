@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th Part VIII: Jason Takes Manhattan (1989)"
 excerpt: "My review of Friday the 13th Part VIII: Jason Takes Manhattan (1989)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6PjhuH
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 4/31 | Franchise 4/5">Hooptober 2.0 | 4/31 | Franchise 4/5</a></b>
 
@@ -32,7 +34,3 @@ Anyway, we won't be in Manhattan for most of this movie, but on a cruise full of
 * Fake rowing until Lewis hits his mark
 * I started drifting out around this time. The movie is way too long 
 * Toby!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6PjhuH)

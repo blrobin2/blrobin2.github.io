@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Captain Blood (1935)"
 excerpt: "My review of Captain Blood (1935)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4WhzNv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b>England 1685
 </b>
@@ -29,7 +31,3 @@ This is the most fun I've seen Basil Rathbone! I love him in the horror stuff he
 The film utilizes regular text overlays to explain situations or plot elements too laborious to spend time on — these days the text would be given to a narrator that rarely shows up but the text on screen works for me
 
 The script is full of quips, funny characters, adventure and romance — this is Golden Age Hollywood at its most crowd-pleasing. I had a blast
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4WhzNv)

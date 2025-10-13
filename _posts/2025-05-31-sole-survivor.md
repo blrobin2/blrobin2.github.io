@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sole Survivor (1984)"
 excerpt: "My review of Sole Survivor (1984)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9R9OU1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 43/52 | Slasher</a></b>
 
@@ -43,7 +45,3 @@ This is often compared to <i>Final Destination</i>, but it also has significant 
 * The movie really labors to give Brian a chance to find a dead body so he can see it come back to life. AND THEN HE DOESN'T.
 * The J cut with the guy's eyes opening and the record scratch is great!
 * What an ending!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9R9OU1)

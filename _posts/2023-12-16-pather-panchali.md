@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pather Panchali (1955)"
 excerpt: "My review of Pather Panchali (1955)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5kv2RD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 44/52 | 1950s</b>
 
@@ -39,7 +41,3 @@ While the film captures an authentic Bengali experience, it also conforms to mor
 The soundtrack is perfect. Ravi Shankar's sitar transcends cultures and speaks with universal emotions.
 
 The movie paints gorgeous landscapes and genuinely incredible compositions. It offers a unique window into a different time and life.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kv2RD)

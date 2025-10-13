@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Children Are Watching Us (1943)"
 excerpt: "My review of The Children Are Watching Us (1943)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6GLADN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 25/52 | Italian Neorealism</a></b>
 
@@ -28,7 +30,3 @@ Many of my childhood memories are things my parents said and did around me — s
 Unlike later De Sica, the material conditions that underlie the social conflict are not as in the forefront.  The film takes place in Italy just after the collapse of fascist rule, and German forces still occupied the country. If the film is allegorical, though, it's lost on me.
 
 The film's message is never subtle. It doesn't need to be. The story verges on melodramatic, but I don't mind that. What stands out most to me is how authentic its observation of children feels, at least as it relates to my childhood.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6GLADN)

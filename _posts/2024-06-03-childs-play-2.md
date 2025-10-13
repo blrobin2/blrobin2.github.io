@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Child's Play 2 (1990)"
 excerpt: "My review of Child's Play 2 (1990)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6BnxB7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 1/31 | Franchise 1/7</a></b>
 
@@ -29,7 +31,3 @@ The kids reading Pinocchio in school is funny.
 When Chucky starts killing, I like the movie less. I get it — he's a killer, but the silly kills and Chucky's wisecracking clash with the more emotional aspects of the script excels at. The first movie succeeded because it took the kills as seriously as the characters.
 
 I get why folks love this one — it's slicker, bigger, and zanier. But these movies need to go in a different direction if I'm going to be on board for the sequels.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6BnxB7)

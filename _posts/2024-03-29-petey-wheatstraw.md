@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Petey Wheatstraw (1977)"
 excerpt: "My review of Petey Wheatstraw (1977)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/69EnXT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 28/32 | black director or predominantly black cast</a></b>
 
@@ -29,7 +31,3 @@ This film came after Moore's success as Dolemite, establishing his reputation as
 The filmmakers did not intend this movie and Rudy Ray Moore's comedy for me. Still, I appreciate Moore's story and his unique comedic perspective. He never takes himself too seriously, and he knows how to entertain.
 
 Also, this is as close to a horror movie as he made.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/69EnXT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tongues Untied (1989)"
 excerpt: "My review of Tongues Untied (1989)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5gvam3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Citerion Challenge 2023</a> | 32/52 | Directed by Marlon Riggs</b>
 
@@ -23,7 +25,3 @@ The trans body, the body in drag, fetishized and hidden away, questions of passi
 The segment about vogueing is like <i>Paris is Burning,</i> except t feels like a view from the inside rather than an outsider looking in.
 
 The snap demonstration is so good!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5gvam3)

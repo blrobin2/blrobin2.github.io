@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Showgirls (1995)"
 excerpt: "My review of Showgirls (1995)"
+rating: ""
+letterboxd_url: https://boxd.it/8jJgXj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 * An exploitation flick about exploitation is such an outrageous gamble.
 * Marguerite Pomerhn Derricks brought her choreography experience from this movie to such classics as <i>Donnie Darko</i>, <i>Step Brothers</i>, and <i>Tropic Thunder</i>.
@@ -16,7 +18,3 @@ category: movie_review
 * A monkey wearing lipstick? Now THAT's comedy.
 * Why is she dipping her fingers in the champagne and sucking on them?
 * Do you know how you can recognize real art? Everyone's booing it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8jJgXj)

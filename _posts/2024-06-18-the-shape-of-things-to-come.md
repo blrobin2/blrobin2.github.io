@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Shape of Things to Come (1979)"
 excerpt: "My review of The Shape of Things to Come (1979)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6HltRZ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Emily episode! I hate these cold opens! Gun to my head, if I had to pick one host going forward, it would be Emily. But please don't put a gun to my head.
 
@@ -21,7 +23,3 @@ I love the movie's art direction! It's like Star Wars ships, Logan's Run civilia
 * Jim Henson's Sniper Babies
 * Drop the beat! Drop the beat! For the love of god, drop the beat!
 * They're dead. They died to death
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6HltRZ)

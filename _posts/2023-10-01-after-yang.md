@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "After Yang (2021)"
 excerpt: "My review of After Yang (2021)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4Vg42d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <blockquote><i>Do you believe it?... That a cup of tea can contain a world? A place? A time?</i></blockquote><blockquote><i>What a caterpillar calls the end, the rest of the world calls a butterfly</i></blockquote>Yang is a techno-sapien and adopted brother to Mika, who is also adopted. Jake and Kyra, their parents, purchased Yang to help Mike better connect with her Chinese heritage
 
@@ -25,7 +27,3 @@ The movie has such beautiful set design and costumes and a wonderfully soothing 
 All of the primary performances have such a gentleness to them — these are not characters in dire straits, just beautiful and kind people who forgot what they valued for a little bit
 
 This film snuck up on me hard — I went from liking it to being deeply moved
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Vg42d)

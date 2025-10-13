@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Woman Condemned (1934)"
 excerpt: "My review of The Woman Condemned (1934)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/59tlaF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 15/52 | Early Women Filmmakers</b>
 
@@ -23,7 +25,3 @@ Surrealist visions, twins, prank marriages, and many misdirection takes us on a 
 Dorothy Davenport, a rare female director during the Pre-Code era, plays with the traditional detective storyline. She blends humor and melodrama with classic exploitation tropes to arrive at an ending where the leading man wasn't necessary after all.
 
 The movie is cheap, and the pacing leaves something to be desired. The actors are game, and the story is wild. I had a fun time!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/59tlaF)

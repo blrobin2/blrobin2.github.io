@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Werewolf in a Girls' Dormitory (1961)"
 excerpt: "My review of Werewolf in a Girls' Dormitory (1961)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5YCnfp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 3/32 | film from before 1966 3/6</a></b>
 
@@ -31,7 +33,3 @@ The dubbing of the leads is solid, but the minor characters are pretty awful. Th
 The camera work is pretty good! The sets also have gothic notes that do a fine job of establishing the atmosphere.
 
 Overall, the surface flaws make this a hard sell. If you can see past them, the movie's biggest problem is that it's boring.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5YCnfp)

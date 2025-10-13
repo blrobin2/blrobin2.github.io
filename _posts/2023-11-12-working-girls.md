@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Working Girls (1986)"
 excerpt: "My review of Working Girls (1986)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/598kUl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 14/52 | Sundance Hits</b>
 
@@ -37,7 +39,3 @@ The jaunty soundtrack tinges every session, no matter how tame, with dread.
 The script is brilliant in the way it characterizes everyone. It pieces together a world that feels real yet also maintains a pace and dynamic with the characters that it feels like a hangout comedy for stretches.
 
 How do you follow up on the explosive and original <i>Born in Flames</i>? By making a sincere, human, and radical portrait of sex work that is still controversial today.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/598kUl)

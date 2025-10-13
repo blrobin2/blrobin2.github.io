@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Earth Mama (2023)"
 excerpt: "My review of Earth Mama (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5lRVCL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Gia is a mother. She has two kids, Trey and Shaynah. Both of them are in foster care because Gia is a recovering addict.
 
@@ -27,7 +29,3 @@ Tia Nomore, who plays Gia, gives an amazing acting performance. Tia was pregnant
 Thematically, it looks at cycles of abuse and neglect — how children from broken homes came from mothers with broken homes, and so on. Add to that being a black woman, and the system is rooting against you, even when you're doing everything right.
 
 This film is somber but not dour, as it looks at what realistic hope can be.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5lRVCL)

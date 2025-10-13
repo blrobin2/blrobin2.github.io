@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Shall We Dance (1937)"
 excerpt: "My review of Shall We Dance (1937)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6Y6B9f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 * Love the reflective pool title cards
 * Dance flip book!
@@ -18,7 +20,3 @@ category: movie_review
 * Let's Call The Whole Thing Off on roller skates, with the pratfall at the end!
 * The mask serenade is so off-putting but I'm glad it worked for Linda?
 * So many gay men!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Y6B9f)

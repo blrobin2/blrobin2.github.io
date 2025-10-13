@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Evil Dead Rise (2023)"
 excerpt: "My review of Evil Dead Rise (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4eA0y3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 As I said in my Evil Dead remake review, I don’t have a strong tie to the original movies, so there’s nothing precious about them that this movie could sully
 
@@ -17,7 +19,3 @@ Pacing-wise, it’s hit-or-miss. It never builds off its previous scare, so it d
 I also liked how the book was discovered, and the demon summoned
 
 Overall, not bad, very gross, and so on
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4eA0y3)

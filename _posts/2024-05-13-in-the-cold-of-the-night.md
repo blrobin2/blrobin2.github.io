@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In the Cold of the Night (1990)"
 excerpt: "My review of In the Cold of the Night (1990)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6sLzSh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 20/52 | Shannon Tweed">Cult Movie Challenge 2024 | 20/52 | Shannon Tweed</a></b>
 
@@ -39,7 +41,3 @@ This movie is so whacky. It's also way too long. I got so many laughs from this 
 * Sleeping in jeans and a belt
 * Watching laserdiscs
 * "If I can't have her, I don't really care if she's dead," says our hero!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sLzSh)

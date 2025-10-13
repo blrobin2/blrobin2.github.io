@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Poison for the Fairies (1986)"
 excerpt: "My review of Poison for the Fairies (1986)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4gRC0v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Veronica is a poor orphan raised by her grandmother and her nanny. The nanny fills Veronica’s head with stories about witches, which excites Veronica’s curiosity
 
@@ -24,7 +26,3 @@ Stray Thoughts
 * Veronica picking up spiders and frogs is braver than the troops
 * I feel like if a parent saw this movie, they’d never let their kids outside again 
 * I knew a girl like Veronica briefly. In 2nd grade, she would boss me and this other boy around, holding us to promises of buying her expensive things in exchange for sex — you know, usual 7-year-old stuff. Thankfully, she moved away before I did anything rash
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4gRC0v)

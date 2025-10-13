@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Catalina Caper (1967)"
 excerpt: "My review of Catalina Caper (1967)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/8UCRVD
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 The writers struggled with this episode since the movie had so much music and was trying to be funny. It's one of the writers's most loathed movies from Season 2 (except for Frank, who loves the worst movies).
 
@@ -20,7 +22,3 @@ I was too hard on this episode last time. The movie still sucks, but there are s
 * Haha, she has water in her lungs.
 * I have no right to say this, but god, your hair smells good.
 Take a rest. You've provided enough comic relief
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8UCRVD)

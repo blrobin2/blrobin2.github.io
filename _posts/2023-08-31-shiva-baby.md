@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Shiva Baby (2020)"
 excerpt: "My review of Shiva Baby (2020)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4MdvfB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Danielle is a 20-something who, like most of us, has trouble juggling her family and her private life, keeping some half-truths and lives spinning as she attends a shiva. Those lives come to a head when her sugar daddy shows up to the shiva with his wife and baby
 
@@ -21,7 +23,3 @@ At times, the movie veers into tired misogynistic tropes — not one woman can s
 Also, a few plot contrivances kink up the story thread, but they didn't take me out of it. Having seen the original short, I can see how much expansion of the central conceit the story required, and the filmmakers did a mostly great job
 
 What a debut! I can't wait to see Bottoms
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4MdvfB)

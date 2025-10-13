@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Girl Slaves of Morgana Le Fay (1971)"
 excerpt: "My review of Girl Slaves of Morgana Le Fay (1971)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6sdc75
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 11/31 | Countries 5/6 | France</a></b>
 
@@ -29,7 +31,3 @@ The movie has a soft, slow pace. It chases a vibe far more than a concrete plot.
 Several actors have the same dyed red hair, so I had difficulty differentiating some of them.
 
 Put this movie on in the background at a party. Otherwise, there is not much here to recommend.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sdc75)

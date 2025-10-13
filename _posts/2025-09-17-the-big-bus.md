@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Big Bus (1976)"
 excerpt: "My review of The Big Bus (1976)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/b5P1Wb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>
 
@@ -42,7 +44,3 @@ Like any comedy, your experience will largely depend on your sense of humor. If 
 * The vet is the only doctor on the bus.
 * — Papa, why'd you take this road? — I just felt like it! Who knows where fate will take us?
 * The movie features both Pepsi and Coca-Cola prominently. I think Pepsi is in it solely because Coca-Cola didn't want to be associated with the guy who bombed the bus.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b5P1Wb)

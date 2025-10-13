@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th Part III (1982)"
 excerpt: "My review of Friday the 13th Part III (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6osQpH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 2/31 | Sequels 2/6</a></b>
 
@@ -35,8 +37,3 @@ This movie is so formulaic that I should be bored. On the contrary, it’s so pr
 * Reading Fangoria
 * 3D eyeball
 
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6osQpH)

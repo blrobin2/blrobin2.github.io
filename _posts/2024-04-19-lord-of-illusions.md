@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lord of Illusions (1995)"
 excerpt: "My review of Lord of Illusions (1995)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6iJZzL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 18/32 | Clive Barker</a></b>
 
@@ -39,7 +41,3 @@ The special effects range from "pretty cool" to "David Lynch's <i>Dune</i>,"�
 The movie's biggest problem is how slow it is. It thinks we care about the characters, but there isn't enough character for anyone to warrant caring.
 
 For a particular horror movie nerd, this is what they want. Most people will find this too indulgent. It has a perspective that I appreciate. It doesn't make the best use of the material.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6iJZzL)

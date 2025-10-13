@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Seventh Curse (1986)"
 excerpt: "My review of The Seventh Curse (1986)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/99X0qp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 9/52 | CAT III</a></b>
 
@@ -32,7 +34,3 @@ This movie moves a mile a minute! I initially wrote so much more for the summary
 * Just churning up those kids!
 * The Buddha statue fight scene is an all-timer!
 * Oh, sweetie, the movie thinks it's progressive when its last message is, "Women's beauty comes from the heart."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/99X0qp)

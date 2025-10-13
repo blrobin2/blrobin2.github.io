@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hungry Wives (1972)"
 excerpt: "My review of Hungry Wives (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5UJ6IR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Cult Movie Challenge 2026 | Psychotronic Encyclopedia</a></b>
 
@@ -52,7 +54,3 @@ Regardless, the film is thoughtful and an essential watch for any Romero fans.
 * Joan kills her husband who comes resembling the intruder from her dream.
 * The movie closes with Joan in an occult ritual that binds her neck and ties her like a dog to an altar — a mirror of the dream she has.
 * "You remember Jack's wife."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5UJ6IR)

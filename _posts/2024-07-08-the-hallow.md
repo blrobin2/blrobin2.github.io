@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hallow (2015)"
 excerpt: "My review of The Hallow (2015)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6PnunR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland">Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland</a></b>
 
@@ -32,7 +34,3 @@ The film's greatest foil is that it reveals everything early into the movie, so 
 While not a great film, it is a promising one. Director Corin Hardy's follow-up to this was <i>The Nun</i>, which received pretty negative reviews, so ¯\_(ツ)_/¯ 
 
 I want that tome on fae — it looks sick as hell.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6PnunR)

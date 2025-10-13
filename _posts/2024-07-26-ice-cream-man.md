@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ice Cream Man (1995)"
 excerpt: "My review of Ice Cream Man (1995)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6XveiJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 25/31 | Slasher 5/5</a></b>
 
@@ -34,7 +36,3 @@ The film is a bit of a mess, but it has enough charm to keep me from hating it. 
 
 <b>*** SPOILER TALK ***</b>
 The last 20 minutes totally undermined the direction the rest of the movie was going! It hinted that the ice cream man, in his demented way, was protecting the kids — hence, why he kills the creepy dude in the park. But nope, he just kills — well, except for Small Paul who "understands" him. Until he doesn't.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6XveiJ)

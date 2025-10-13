@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cemetery Man (1994)"
 excerpt: "My review of Cemetery Man (1994)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/acMbxz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 27/52 | 90s Horror</a></b>
 
@@ -27,7 +29,3 @@ Rupert Everett's Francesco has a tragic appeal reminiscent of Lee Pace in Pushin
 The Gnaghi character is… unfortunate.
 
 The 1990s certainly loved their horror comedies! I'm not complaining, but it's hard for them to feel special when they're in such ample supply. That said, Italy wasn't exactly at the forefront in this market. This movie has its charms, and I get why some folks love it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/acMbxz)

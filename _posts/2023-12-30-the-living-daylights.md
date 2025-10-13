@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Living Daylights (1987)"
 excerpt: "My review of The Living Daylights (1987)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5rk5dH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -35,7 +37,3 @@ It's wino-o-clock, let's see how handsome boy Timothy Dalton pairs with this pin
 * Staircar escape! Tres Arrested Development
 * Ah, back when the US funded the Mujahideen
 * hahaha Joe Don Baker
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5rk5dH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Defending Your Life (1991)"
 excerpt: "My review of Defending Your Life (1991)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/3WQz7r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Probably a bad first Albert Brooks movie, oh well!
 
@@ -19,7 +21,3 @@ The multiple trials are so boring, the point is made early and then hammered ove
 Neat idea, funny approach to the afterlife, I do like the concept of being judged based on your bravery to ask for what you want out of it
 
 However, there’s not enough meat on the bone to sustain the two hour runtime. If the lesson was more profound, if they devoted the runtime to something other than trials and food, anything really, it might have been a more enjoyable experience
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3WQz7r)

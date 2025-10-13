@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dream Scenario (2023)"
 excerpt: "My review of Dream Scenario (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5fRPKb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Paul Matthews is a tenured professor in biology. He has a lovely wife and two daughters, all of whom find him perfectly fine. 
 
@@ -29,7 +31,3 @@ Nic Cage is perfect, though I would have liked to see  Adam Sandler, who was sup
 I'm always happy to see Michael Cera and adore seeing Kate Berlant in anything, but neither gets much to do.
 
 Another pass or two on the script, and this might have been something worth seeing. As it stands, it's good, but only that.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fRPKb)

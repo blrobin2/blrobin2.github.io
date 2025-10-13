@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Danger!! Death Ray (1967)"
 excerpt: "My review of Danger!! Death Ray (1967)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5ydqv7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * Yes, all of you could be hand models
 * C'mon, death ray something
@@ -24,7 +26,3 @@ category: movie_review
 * The day they killed Chad and Jeremy
 * You can tell their mom's gone
 * Bart Fargo is Hard To Watch
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ydqv7)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Wolf Creek (2005)"
 excerpt: "My review of Wolf Creek (2005)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6WaEub
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="">Hooptober 2.0 | 22/31 | Slasher 2/5</a></b>
 
@@ -38,7 +40,3 @@ Mick tortures and murders tourists, or anyone who's too posh (Ben, being from Sy
 It doesn't help that Liz and Kristy make completely nonsensical choices. They escape! They made it! But they push the truck over the ledge?? I don't understand.
 
 I could go on, but you get it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6WaEub)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Touch of Zen (1970)"
 excerpt: "My review of A Touch of Zen (1970)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9bVU99
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 46/52 | 1970s</a></b>
 
@@ -33,7 +35,3 @@ Chinese opera influenced the fight sequences—like many Shaw Brothers kung fu f
 Based on this and <i>Legend of the Mountain</i>, I assumed King Hu just made long movies, but I guess these are his two longest. I'm looking forward to watching more of his films and seeing what he does with a more condensed runtime.
 
 A final note: I love how the movie pushes against Confucian aspects of traditional Chinese culture with the Buddhist monks, who seem to function in harmony with nature rather than at war with it. There's a moment towards the end where they show up, and it's one of the most beautiful scenes I've seen in a wuxia.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9bVU99)

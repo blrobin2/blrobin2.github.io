@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Day for Night (1973)"
 excerpt: "My review of Day for Night (1973)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9pqhyj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 François Truffaut plays Ferrand, a director working on a melodrama called <i>Meet Pamela</i> about a woman falling in love with her husband's father. The film follows <i>Meet Pamela</i>'s production and the melodrama behind the scenes.
 
@@ -21,7 +23,3 @@ Seeing this at the Rialto with the film club was nice because they appreciated t
 Oh, and there's a scene where they try to get a kitten to act, and everyone (myself included) was losing it over how adorable it was.
 
 Knowing what the film is now, I may revisit it and score it higher. But as it stands, the film's slight nature left me wanting something more.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9pqhyj)

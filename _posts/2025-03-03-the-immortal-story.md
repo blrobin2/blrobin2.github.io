@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Immortal Story (1968)"
 excerpt: "My review of The Immortal Story (1968)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/90iR73
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Criterion Challenge 2024 | 36/52 | Genre: Made for TV</a></b>
 
@@ -25,7 +27,3 @@ The script follows the story on which it's based, by Danish writer Karen Blixenâ
 The score is sparse but primarily uses Erik Satie's compositions. While this is a tired cliche now, this film was the first to do it, setting the now-overused trend.
 
 Perhaps these deviations from Welles's proclivities helped me enjoy this movie more than his other work from the period. This film does, however, lead into Welles' fixation on the line between story and reality, which he explores in exhaustive detail in his documentary <i>F for Fake</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/90iR73)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Crossing Delancey (1988)"
 excerpt: "My review of Crossing Delancey (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8KaXbF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 39 / 52 | Cinematography by Theo van de Sande</a></b>
 
@@ -33,7 +35,3 @@ Neither option is perfect for Isabelle. She must change something about her life
 You may think you know where this movie is going, but, you know, music, surprises, and all that.
 
 Man, this one crept up on me! I love the Roches soundtrack. I love Peter Riegert, Reizl Bozyk, and David Hyde Pierce. This film is a rom-com that earns both parts of the genre.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8KaXbF)

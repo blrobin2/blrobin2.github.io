@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Black Sleep (1956)"
 excerpt: "My review of The Black Sleep (1956)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/61E8jx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s">Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s</a></b>
 
@@ -24,7 +26,3 @@ Ramsay becomes Cadman's assistant, knowing little more than that Cadman is worki
 The movie is quite dry, as it tries to present its ideas systematically. It gets more interesting as we learn the extent of Cadman's experiments, including one of John Carradine's most outrageous performances.
 
 This movie won't win over any new horror fans, but the formula hits a cozy medium that I found enjoyable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/61E8jx)

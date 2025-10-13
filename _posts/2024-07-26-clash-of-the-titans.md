@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Clash of the Titans (1981)"
 excerpt: "My review of Clash of the Titans (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6XAjpb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 30/52 | A character that has more than 4 limbs</a></b>
 
@@ -27,7 +29,3 @@ The plotting is the weak link here. I don’t care about anyone or why they do a
 The Gorgon fight is so good! If only the whole movie was of this caliber.
 
 Also, Judi Bowker.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6XAjpb)

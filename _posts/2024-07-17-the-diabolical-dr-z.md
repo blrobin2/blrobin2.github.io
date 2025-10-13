@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Diabolical Dr. Z (1966)"
 excerpt: "My review of The Diabolical Dr. Z (1966)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6Tu7VB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 16/31 | Before 1970 1/5</a></b>
 
@@ -27,7 +29,3 @@ For a Jess Franco movie, it isn't too gory or horny. I understand that Franco ha
 Miss Death's cabaret show is more bizarre than seductive. She dances with a mannequin that may or may not be alive. We see its eyes darting around, but it remains stiff throughout.
 
 The movie is so full of ideas. At 87 minutes, it's in and out before it could get boring.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Tu7VB)

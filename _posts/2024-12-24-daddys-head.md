@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Daddy's Head (2024)"
 excerpt: "My review of Daddy's Head (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/88CiP9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Isaac and his stepmother, Laura, walk the hospital halls to find James, Isaac's father, on life support. They are here to say goodbye. Bloody bandages obscure James's face.
 
@@ -23,7 +25,3 @@ The best part of the movie is Laura — her pain feels genuine as she refuses to
 Also, The Prodigy's Destroy plays during a major scene, so that kind of rules.
 
 But yeah, this movie isn't very good!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/88CiP9)

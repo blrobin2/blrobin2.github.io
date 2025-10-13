@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Linnea Quigley's Horror Workout (1990)"
 excerpt: "My review of Linnea Quigley's Horror Workout (1990)"
+rating: ""
+letterboxd_url: https://boxd.it/85ClBd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pRQY0">Hoop-Tober | 3/31 | Decades 3/10 | 90s</a></b>
 
@@ -21,7 +23,3 @@ The whole thing has a budget — there's a chase scene with a dozen decent-looki
 <blockquote><i>What about what you do when you watch my movies — you think that doesn't burn any calories?</i></blockquote>
 
 As a cultural object, it's pretty singular, so I don't know how I would rate this. But I can advise anyone who isn't a diehard 80s horror fan to skip this one.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/85ClBd)

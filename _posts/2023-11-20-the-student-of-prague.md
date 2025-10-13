@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Student of Prague (1913)"
 excerpt: "My review of The Student of Prague (1913)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5bMISL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 20/34 | German Silent | Decades 7/8 | 1910s</b>
 
@@ -23,7 +25,3 @@ I love how the staging of the opening introduces characters through a curtain pu
 I watched the most complete version of this, which has two minutes missing and slowed down to compensate for under-cranking. They slowed it down too much. People move like they're in space. It flows better at 1.5x.
 
 This movie has such a cursed atmosphere. Its plot is threadbare, but its scenes with the double are unnerving. I enjoyed it!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5bMISL)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Village of the Damned (1995)"
 excerpt: "My review of Village of the Damned (1995)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6vpleb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 19/31 | Carpenter">Hooptober 4.0 | 19/31 | Carpenter</a></b>
 
@@ -31,7 +33,3 @@ Kirstie Alley is one of the most successful bad actors. She's horrendous in this
 The acting in general in this movie is very "daytime soap," but it's not like this film demands nuanced performances.
 
 I spent most of the movie asking, "... but why?" I wish I got a satisfactory answer.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6vpleb)

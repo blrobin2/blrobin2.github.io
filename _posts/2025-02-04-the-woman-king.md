@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Woman King (2022)"
 excerpt: "My review of The Woman King (2022)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8IQyb7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 37/52 | Edited by Terilyn A. Shropshire</a></b>
 
@@ -22,7 +24,3 @@ Finally, we get a big-budget historical action flick directed by and starring bl
 I hate <i>Braveheart</i> and don’t give a fuck about <i>Gladiator</i>. I didn’t like Robert Eggers’s attempt with <i>The Northman</i>. This was never going to be something I loved.
 
 This movie was wildly successful, and it would be idiotic for studios not to fund more projects like this. Just because I’m not the target audience doesn’t mean I don’t support it being made.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8IQyb7)

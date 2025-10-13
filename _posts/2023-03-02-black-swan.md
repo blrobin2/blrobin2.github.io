@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Black Swan (2010)"
 excerpt: "My review of Black Swan (2010)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/3VwLY9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Rewatching for a podcast
 
@@ -32,7 +34,3 @@ If the themes of the movies are ever unclear, Vincent Cassel tells the audience 
 * The third act pulls the whole thing together. It helps that Aronofsky didn't write this.
 
 Overall, this is tied with <i>The Wrestler</i> as the best things Aronofsky has directed, and likely will direct.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3VwLY9)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cult of Chucky (2017)"
 excerpt: "My review of Cult of Chucky (2017)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6D74LN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 7/31 | Franchise 7/7</a></b>
 
@@ -42,7 +44,3 @@ The movie contains multiple in-jokes for fans — for example, a throwaway line 
 With so much material to play with, the movie moves effortlessly between its set pieces. This film brings some comedy back, but not in the predominant tone the way it was in <i>Bride</i> and <i>Seed</i>. The kills are creative and brutal. Mancini worked on <i>Hannibal</i>, and it shows — he even throws in a brief mention as Chucky laments its cancellation.
 
 I wasn't planning on checking out the <i>Chucky</i> TV show. But I'm invested! Over a week, I went from Chucky skeptic to Chucky die-hard.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6D74LN)

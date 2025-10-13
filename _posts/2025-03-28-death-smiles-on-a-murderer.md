@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Death Smiles on a Murderer (1973)"
 excerpt: "My review of Death Smiles on a Murderer (1973)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9fl8Gt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 14/52 | Joe D'Amato</a></b>
 
@@ -40,7 +42,3 @@ Oh, now Eva is in love with Greta!
 That quickly turned into a Black Cat
 Greta shows up at the masquerade ball. Are we now doing The Masque of the Red Death?
 I am glad we have an Incan historian to explain everything at the end. Or, you know, nothing.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9fl8Gt)

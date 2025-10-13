@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "News from Home (1976)"
 excerpt: "My review of News from Home (1976)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/6wBbkL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 16/52 | Directed by Chantal Akerman</a></b>
 
@@ -19,7 +21,3 @@ She captured the footage without sound, adding incidental sound effects after th
 Akerman captured the footage in 1976, three years after she returned to Belgium. Places hold memories, yet they change as time passes - haunts close, people move. The footage is like revisiting an old letter. In a letter, people remain frozen in a moment. You, the recipient, are the city, evolving and disconnecting from that time.
 
 I don’t speak to my mother and have never had the type of relationship with my father where we correspond regularly. In my inbox is an email my father sent me this morning — his first in three months. I’ll reply before the end of the week.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wBbkL)

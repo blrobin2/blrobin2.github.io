@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hateful Eight (2015)"
 excerpt: "My review of The Hateful Eight (2015)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6MFZXv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 27/52 | Ennio Morricone</a></b>
 
@@ -33,7 +35,3 @@ I would not praise a single actor’s performance in this movie. Everyone is ham
 The racism and unambiguous misogyny, while in line with the historical period, do nothing but give a certain subset of the viewership something to keep them invested. Yes, Domgergue is a killer, just like the rest of them, but nobody gets the shit beat of them with zero repercussions like her. And thinking up every synonym for the n-word you can muster isn’t creative writing, just like constantly using the word isn’t world-building.
 
 Many people love this movie. I won’t say they’re wrong about it. I’m not fond of Tarantino’s schtick as much as they are. From where I’m sitting, three hours later, this experience sucked.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6MFZXv)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Terror Train (1980)"
 excerpt: "My review of Terror Train (1980)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/583CC1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Med students are flush with limbs and cadavers</b>
 
@@ -27,7 +29,3 @@ I initially mistook Ed for Kenny, but I figured it out when they discussed Kenny
 The kids cheer for the train arriving in a very Francis Bourgeois way.
 
 Overall, this is a goofy little slasher with a faint impression on me. Jamie Lee Curtis is a superb scream queen, and David Copperfield is hilarious in his brooding. I get why folks who grew up with this love it. I still enjoyed the experience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/583CC1)

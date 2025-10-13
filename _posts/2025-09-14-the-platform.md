@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Platform (2019)"
 excerpt: "My review of The Platform (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/b3VVtj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 38/52 | Hispanic Horror</a></b>
 
@@ -23,8 +25,3 @@ Whoa, Atonia San Juan makes an appearance! I've only seen her in <i><a href="htt
 The filmmaking is competent, the performances are solid, but I never found an in that allowed me to enjoy what was happening. 
 
 Extra points for boy butt and dong.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b3VVtj)

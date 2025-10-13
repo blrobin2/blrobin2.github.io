@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lokis: A Manuscript of Professor Wittembach (1970)"
 excerpt: "My review of Lokis: A Manuscript of Professor Wittembach (1970)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5MC67v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <blockquote><i>There are more things in Lithuanian forests than are dreamt of in your philosophy.</i></blockquote>
 
@@ -39,8 +41,3 @@ In the right frame of mind, I could enjoy this more, but I found this a little t
 * And then he comes right back for a wedding
 * The doctor is not good at the organ
 * The guy coughing during the wedding
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5MC67v)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Legend of Boggy Creek (1972)"
 excerpt: "My review of The Legend of Boggy Creek (1972)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5cMhej
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 23/34 | Charles B. Pierce</b>
 
@@ -34,7 +36,3 @@ The narrator is well-spoken instead of dialect-appropriate. It makes sense from 
 The film contains charming story and character songs, helping create a homespun feel.
 
 By the end, the movie gets repetitive as the run-ins with the monster increase, and the same people keep encountering it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5cMhej)

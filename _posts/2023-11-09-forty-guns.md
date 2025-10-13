@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Forty Guns (1957)"
 excerpt: "My review of Forty Guns (1957)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/58iUPR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Tombstone, Arizona in the 1880s</b>
 
@@ -23,7 +25,3 @@ We're the only ones being played with here. We barely see the forty guns or Stan
 The black and white Cinemascope is clunky as it tries to navigate tighter spaces. Despite that, the landscapes are breathtaking. The opening shot of the Dragoons overtaking the wagon is so triumphant.
 
 I still like this movie! I hoped I would like it more.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58iUPR)

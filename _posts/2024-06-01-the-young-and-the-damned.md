@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Young and the Damned (1950)"
 excerpt: "My review of The Young and the Damned (1950)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6Ap9Vx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 22/52 | Directed by Luis Buñuel</a></b>
 
@@ -37,7 +39,3 @@ Buñuel’s surrealism shows most prominently when Pedro has a nightmare. The so
 The film also showcases superstitions. One child carries a dead man’s tooth he stole from a graveyard to keep bad luck away. A sick woman holds a dove tied up beneath her bed to absorb her sickness. When the dove dies, she should be healed.
 
 This film’s influence spans from <i>400 Blows</i> to <i>Amores Perros</i> — a bleak film for Buñuel, but compelling.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Ap9Vx)

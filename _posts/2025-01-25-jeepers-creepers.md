@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jeepers Creepers (2001)"
 excerpt: "My review of Jeepers Creepers (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8B7Zy5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 29/31</a></b>
 
@@ -31,7 +33,3 @@ The movie pivots hard after a point. I'll discuss this further in the spoiler se
 Due to budget cuts, the writer rewrote the third act during production. So, instead of whatever the original plan was, we have a psychic black woman show up to explain away the monster. Then, we have an epic battle with the creature, which happens entirely over police radios. When we see it, it looks like a Buffy monster of the week.
 
 You're telling me this monster that has been hiding for decades, feeding in the dark, suddenly makes itself known to police forces in multiple counties because it wants to eat Justin Long's eyes?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8B7Zy5)

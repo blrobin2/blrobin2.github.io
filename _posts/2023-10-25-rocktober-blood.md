@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rocktober Blood (1984)"
 excerpt: "My review of Rocktober Blood (1984)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5399yB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Billy, a rock singer for Rocktoberblood, goes on a killing spree. Only Lynn survives. Billy gets the chair
 
@@ -21,7 +23,3 @@ The music sounds decent because the band <i>Sorcery</i> portrayed the band in th
 The lighting on this is horrendous. The exception is the live performance finale, which has the benefit of stage lighting.
 
 I'm swinging back and forth on whether this is awesomely bad or not. In a few scenes, it is, but several scenes are slow and tedious. And the nudity is so pervy that it's hard to imagine putting together a group of friends who won't feel awkward in the TWO extended nude jacuzzi scenes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5399yB)

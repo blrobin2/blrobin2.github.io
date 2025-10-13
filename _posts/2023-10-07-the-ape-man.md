@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ape Man (1943)"
 excerpt: "My review of The Ape Man (1943)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4X7IO7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 9/34 | Decades 3/8 | 1940s</b>
 
@@ -26,7 +28,3 @@ Overall, it's a silly little thing only for genre enthusiasts
 
 Stray Thoughts
 * “Shooting that one-eyed monster for Uncle Sam.” — the quote is about a camera, but come on man
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4X7IO7)

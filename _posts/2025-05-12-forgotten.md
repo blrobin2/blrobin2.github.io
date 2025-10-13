@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Forgotten (2017)"
 excerpt: "My review of Forgotten (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9FDEld
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 20/52 | Korean Horror</a></b>
 
@@ -24,7 +26,3 @@ The film uses classic tropes to signal that all is not what it seems. Jin-seok t
 You can poke a million holes in this, but the filmmaking and pacing are solid, and the performances are big enough for the material. I might have been more into this if these sort of mindfuck psychological thrillers weren't churned out by the dozens in the early 2000s. It's clumsy and doesn't earn its emotional moments, but it's entertaining.
 
 Dude, I want some jajangmyeon.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9FDEld)

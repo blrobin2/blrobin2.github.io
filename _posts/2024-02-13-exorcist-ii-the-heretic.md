@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Exorcist II: The Heretic (1977)"
 excerpt: "My review of Exorcist II: The Heretic (1977)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5OUm8j
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 12/32 | 2nd film in franchise 4/7 | Decades 4/6 | 1970s</a></b>
 
@@ -35,7 +37,3 @@ This movie suffers in the same way as <i>Doctor Sleep</i> — when it's in fresh
 Because of the glut of possession movies we've had (and another reboot of <i>The Exorcist</i>), a possession movie like this feels relatively refreshing.
 
 This movie isn't great, but it's far from the "worst sequel in the history of film." 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OUm8j)

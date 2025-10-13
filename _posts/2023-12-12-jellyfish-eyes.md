@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jellyfish Eyes (2013)"
 excerpt: "My review of Jellyfish Eyes (2013)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5jdgk9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 40/52 | Rated 3.0 or Lower</b>
 
@@ -51,7 +53,3 @@ The film's overt themes can be grating and naïve. The film will also not permit
 And perhaps it is. Its themes, however, are consistent with Murakami's work and would have likely found more success if marketed through high-art Western channels. But that would be missing the point.
 
 Also, it's a fucking kids' movie. Chill out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jdgk9)

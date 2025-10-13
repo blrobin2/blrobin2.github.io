@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Evil Dead II (1987)"
 excerpt: "My review of Evil Dead II (1987)"
+rating: ""
+letterboxd_url: https://boxd.it/46Cs1j
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 I went to Bruce-O-Rama with Bruce Campbell at Carolina Theater. There was a game show that Bruce hosted called Last Fan Standing before the movie, and it was entertaining, but the nerds in the audience were so vocally angry when someone onstage didn’t know their favorite IP
 
@@ -17,7 +19,3 @@ I haven’t seen this movie since high school, and I was eager to give it a reev
 If you ever have the chance to watch Evil Dead 2 with an auditorium of Bruce Campbell fans, don’t. A miserable experience of nerds trying to out-riff each other over every second of the movie. I gave it as long as I could manage, but I couldn’t sit through the movie with this audience
 
 Next time I’ll try the Alamo or some venue where people like watching movies
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/46Cs1j)

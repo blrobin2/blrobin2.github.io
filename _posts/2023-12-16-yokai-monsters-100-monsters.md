@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yokai Monsters: 100 Monsters (1968)"
 excerpt: "My review of Yokai Monsters: 100 Monsters (1968)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5kEzTP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>There are strange things in this world that are beyond our understanding </i></blockquote>
 A landowner wants to tear down a tenement house, as well as its shrine, to build a brothel.
@@ -24,7 +26,3 @@ I love all of the Yokai designs so much. If a bunch of fellas who looked like th
 I love how the umbrella yokai is just a boy who wants to chill and get whacky.
 
 The fight choreography is weak, and the story lags in places. But this was so much fun!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kEzTP)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Watermelon Man (1970)"
 excerpt: "My review of Watermelon Man (1970)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5OQKWz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 7/52 | Blaxploitation</a></b>
 
@@ -33,7 +35,3 @@ It is, of course, a fucking shame how relevant this movie still is. Thankfully, 
 <blockquote><i>Hello, Althea? Guess who’s coming to dinner?</i></blockquote>
 
 Thank you to Racquel J. Gates. Her writing helped me piece together my perspective in this review.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OQKWz)

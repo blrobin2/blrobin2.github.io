@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Day the Earth Froze (1959)"
 excerpt: "My review of The Day the Earth Froze (1959)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/561MyL
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 This movie's pretty good! I like the atmospheric and special effects, costumes, and some of the cinematography. Might seek out the non-mst3k version 
 
@@ -17,7 +19,3 @@ This movie's pretty good! I like the atmospheric and special effects, costumes, 
 * Will someone please turn the Wagner off?
 * Is this sampo?
 * Marty Feldman in a role that won't surprise you
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/561MyL)

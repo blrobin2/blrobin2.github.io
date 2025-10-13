@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "House of Games (1987)"
 excerpt: "My review of House of Games (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5X073H
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 9/52 | Criterion Staff Picks</a></b>
 
@@ -40,7 +42,3 @@ The classic noir soundtrack with the cymbal hiss is satisfying.
 The movie's psychotherapy is nonsense that only serves the plot. Not only that, but every character is equally intimate with Freudian psychoanalysis. It's a tad trite.
 
 Overall, this movie is a lot of fun. Much of it feels a little familiar, but it never gets dull.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5X073H)

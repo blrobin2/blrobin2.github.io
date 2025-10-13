@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Black Christmas (2006)"
 excerpt: "My review of Black Christmas (2006)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5k0opT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 With Andrea Martin, Michelle Trachtenberg, Mary Elizabeth Winstead, and Lacey Chabert in the cast, how could this be bad?
 
@@ -27,7 +29,3 @@ With Andrea Martin, Michelle Trachtenberg, Mary Elizabeth Winstead, and Lacey Ch
 * I've heard of Girl Scout cookies, but girl SKIN cookies?!
 * Eyeball screensaver
 * "Dick Cheney's a better sister to you than your own sister."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5k0opT)

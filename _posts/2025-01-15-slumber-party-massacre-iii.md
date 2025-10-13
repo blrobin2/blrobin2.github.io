@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Slumber Party Massacre III (1990)"
 excerpt: "My review of Slumber Party Massacre III (1990)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8tAcV1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 3/52 | Threequels</a></b>
 
@@ -21,7 +23,3 @@ Also, the movie doesn't have characters. We have a pile of women the film introd
 Ken and Juliette meet on the beach, and the camera pulls out and recreates The Creation of Adam, where Juliette is God and Ken is the reposed Adam. I'm unsure what the movie says with this scene, but it's an unusual choice.
 
 I don't think this movie is bad — it's just not all that interesting.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8tAcV1)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood for Dracula (1974)"
 excerpt: "My review of Blood for Dracula (1974)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/a8Z6CT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 2/52 | Gothic Horror</a></b>
 
@@ -31,7 +33,3 @@ The film is meant to be funny, but I don't find it particularly amusing. I think
 Udo Kier brings a certain sympathy for Dracula, especially after we see him painfully vomiting blood over and over as he accidentally drinks non-virgin blood. If this film had been released a decade later, one could draw parallels with the AIDS crisis. It is amusing that, in a decade where Dracula became a symbol of sexual liberation and repressed desires, the film sticks to Dracula as an old-world mechanism of exploitation.
 
 Let me clarify: I don't think this is a bad movie. It's weird and entertaining in its own fucked up way. But I don't think I am the target audience for this movie's sensibilities. The last ten minutes are a wild gorefest!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a8Z6CT)

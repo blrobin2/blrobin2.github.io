@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Field in England (2013)"
 excerpt: "My review of A Field in England (2013)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/99RM3L
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 12/52 | Spring Fever</a></b>
 
@@ -27,7 +29,3 @@ At first, I wasn't having a good time with this movie, but then I decided to smo
 The movie wins points with me for being obstinant—the weirder it got, the more on-board I became. Like, a human divining rod? I'm in. 
 
 I totally get why folks don't like this—the plot is downright tedious. I get why people love it, too. I'm leaning more towards not liking it, but because I only really liked the aesthetics.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/99RM3L)

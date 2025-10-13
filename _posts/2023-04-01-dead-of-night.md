@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dead of Night (1945)"
 excerpt: "My review of Dead of Night (1945)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/43vQoF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 A man trapped in a recurring dream, or believes it so, drives up to a farmhouse and knows everyone in a room full of strangers. Most everyone is into it save a psychoanalyst who can recall any number of theories for his experience
 
@@ -66,7 +68,3 @@ It’s all so British, everyone sitting back and enjoying the discussion, talkin
 The ending is so crazy and intense!
 
 Overall, one of the best anthology movies with multiple directors I’ve seen
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/43vQoF)

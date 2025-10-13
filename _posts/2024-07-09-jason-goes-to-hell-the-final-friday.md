@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jason Goes to Hell: The Final Friday (1993)"
 excerpt: "My review of Jason Goes to Hell: The Final Friday (1993)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6PM6uT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 5/31 | Franchises 5/5</a></b>
 
@@ -32,7 +34,3 @@ Some of the plotting is pretty tedious, especially when mistaken identity comes 
 Though the gore is hit-or-miss, its hits are wild and make up the difference.
 
 I wouldn't call this a hidden masterpiece, but it's underappreciated. If you love slashers, you might hate this. But if you can stomach some genre fuckery, this one is a lot of fun.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6PM6uT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In a Violent Nature (2024)"
 excerpt: "My review of In a Violent Nature (2024)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6EAFEB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 It starts with a locket in a rundown fire tower. Some friends wandering the woods find it, and one pockets it. Moments later, someone emerges from the ground — a once dormant killer, reawakened.
 
@@ -21,7 +23,3 @@ Also, this is a horror film first, so the editors truncated the long tracking sh
 Still, I heard some exasperated sighs near the end of the movie. The person to my left folded and unfolded their arms as the movie continued. I don't know what they expected, but it wasn't this.
 
 Part of me wants to see that arthouse movie that doesn't cut up the shots. But what we get makes effective use of that cinematic language, even if it isn't towards anything more than a fresh way to shoot a slasher. It might be the most tense and unsettling slasher I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6EAFEB)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gregory's Girl (1980)"
 excerpt: "My review of Gregory's Girl (1980)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9rab1T
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 28/52 | 80s Teen Comedy</a></b>
 
@@ -56,7 +58,3 @@ This film may be my favorite teen comedy from the 1980s—at least that I've see
 * — "Can you drive?" — "No, but it runs in the family."
 * That camera turns when they're Earth dancing is *chef's kiss*
 * —" Put me down for six! Nah, make it a half-dozen." I know this movie didn't originate that joke, but it still makes me laugh.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9rab1T)

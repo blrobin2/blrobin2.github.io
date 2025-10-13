@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "As Above, So Below (2014)"
 excerpt: "My review of As Above, So Below (2014)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Ywi0p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 13/34 | Something is Underground</b>
 
@@ -24,7 +26,3 @@ George knows a guy who knows a guy that can get them into the forbidden area of 
 Straight away, the movie lets you know it won’t adhere to logic in its filming or character motivations. Scarlett, like my boy Nic Cage, has a sixth sense for conjuring up outlandish conclusions.
 
 The movie makes no sense, but the more it goes off the rails, the more fun I had — I couldn’t stop giggling. This is an awful movie, but I love it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Ywi0p)

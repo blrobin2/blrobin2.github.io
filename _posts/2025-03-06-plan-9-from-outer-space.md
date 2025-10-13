@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Plan 9 from Outer Space (1957)"
 excerpt: "My review of Plan 9 from Outer Space (1957)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/92jdUJ
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I think nostalgia is making this movie better each time I watch it.
 
@@ -17,8 +19,3 @@ I think nostalgia is making this movie better each time I watch it.
 * Where are we in relation to each other?
 * Officer Child investigates.
 * Honey, the white men we ordered are here.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/92jdUJ)

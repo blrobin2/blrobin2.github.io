@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hercules Against the Moon Men (1964)"
 excerpt: "My review of Hercules Against the Moon Men (1964)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4XYr35
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b>Deep Hurting</b>
 
@@ -17,7 +19,3 @@ category: movie_review
 * I'm sending you good vibes, Herc. I am!
 * Hey Herc, James Brolin wants his beard back
 * Herc will be back in Herc Goes Bananas
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XYr35)

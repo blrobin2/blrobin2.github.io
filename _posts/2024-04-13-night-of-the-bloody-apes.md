@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night of the Bloody Apes (1969)"
 excerpt: "My review of Night of the Bloody Apes (1969)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6gmz2d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 47/52 | Lucha Libre</a></b>
 
@@ -28,8 +30,3 @@ It’s also exploitative, full of blood splatter and naked women. Like, he scalp
 
 My favorite scene is probably when the Ape Monster exits a bedroom, wearing pajamas, and the music sting suggests imminent terror.
 
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6gmz2d)

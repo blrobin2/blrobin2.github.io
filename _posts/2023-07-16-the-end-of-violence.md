@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The End of Violence (1997)"
 excerpt: "My review of The End of Violence (1997)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4wsmRn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Just by looking at something, you can completely change it — or destroy it</i></blockquote>Big fan of The American Friend, so I was curious to see Wender’s approach to an America-oriented Neo-Noir
 
@@ -36,7 +38,3 @@ I wouldn’t call this a successful film, but I do think critics misunderstood w
 * Dude, don’t fuck the maid!
 * Netscape Navigator 3.0
 * Poster for a movie called <i>Creative Killing</i> — très créative
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4wsmRn)

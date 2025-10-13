@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Laughing Woman (1969)"
 excerpt: "My review of The Laughing Woman (1969)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4eccuT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A rich man abducts his new assistant with the intent of torturing her and then murdering her at the point of orgasm
 
@@ -22,7 +24,3 @@ The movie can get away with many insane choices by never being anything other th
 * The blowup replica of himself reminds me of Tracy Jordan buying a life-size sex doll of himself
 * “sexual aberrations and the stars” is a good band name
 * The woodwind quartet playing on the back of the train while he gets road head — pretty funny
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4eccuT)

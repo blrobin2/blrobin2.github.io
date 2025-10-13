@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Housemaid (2016)"
 excerpt: "My review of The Housemaid (2016)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4UzZu3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 1/34 | Countries 1/6 | Vietnam</b>
 
@@ -35,7 +37,3 @@ The historical horror seems to be heavily influenced by Guillermo Del Toro, espe
 The film itself functions as a (not so subtle) metaphor for the French occupation and the turn that the war was taking at the time
 
 Overall, this is a decently constructed movie — a "wow them in the end" finale that paves over some of the internal inconsistencies
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4UzZu3)

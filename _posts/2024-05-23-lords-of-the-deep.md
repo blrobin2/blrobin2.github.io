@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lords of the Deep (1989)"
 excerpt: "My review of Lords of the Deep (1989)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6wFKNh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Roger Corman has a speaking role in this?? For a cheapie, (some of) the special effects are pretty good! I wish the movie was better
 
@@ -16,7 +18,3 @@ Roger Corman has a speaking role in this?? For a cheapie, (some of) the special 
 * Another successful adventure for Young Al Bundy
 * He's dead. We'll be sitting shiva in the conference room
 * She's in a Matthew Barney video (not funny, but an unexpected reference)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wFKNh)

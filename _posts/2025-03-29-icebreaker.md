@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Icebreaker (2000)"
 excerpt: "My review of Icebreaker (2000)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9fZVEB
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Wow, I never thought I'd watch another David Giancola movie other than <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a>. Time makes fools of us all, don't it? This is the prototype for the 2-star movie—more bad than good, but not incapable of entertaining, especially with Bruce Campbell and Stacy Keach getting a non-trivial amount of screen time.
 
@@ -21,8 +23,3 @@ This is the first time I've heard the entire Rifftrax theme. I can see why they 
 * We want this calm and powerful, like Tilda Swinton.
 * Every biathlete in the audience is getting a huge boner right now.
 * Sandra! Answers me! Or text me! I'm pretty flexible!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9fZVEB)

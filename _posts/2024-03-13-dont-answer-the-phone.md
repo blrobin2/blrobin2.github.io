@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Don't Answer the Phone! (1980)"
 excerpt: "My review of Don't Answer the Phone! (1980)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/62uKGt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 33/53 | Crown International</a></b>
 
@@ -29,7 +31,3 @@ No one's giving a stellar performance. The director's performance as the Lab Man
 The synth-heavy soundtrack is good. Like, really good! One-time composer, Byron Allred, gives us some tension and bops. I believe he's the same Byron Allred who played with Steve Miller Band and is on their song, Threshold. If I ever watched this movie again, it would be for the music, because I can find it anywhere.
 
 For a one-time director, Robert Hammer's movie cuts together pretty well. It's not art, but it's effective.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/62uKGt)

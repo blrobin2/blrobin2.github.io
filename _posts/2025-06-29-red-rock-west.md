@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Red Rock West (1993)"
 excerpt: "My review of Red Rock West (1993)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/a9nfjp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Ex-Marine Michael drove from Texas to Wyoming because a friend said he could offer him a job in an oilfield. The foreman, however, doesn't want to take on the liability of hiring someone with a bum knee. His friend chastises him for bringing up the knee at all, but Michael refuses to be dishonest. He drives to a nearby gas station to fill up. He looks for the gas station attendant but finds a wad of cash sticking out of a safety deposit box. Michael shakes his head, and the gas station attendant arrives to pump gas. While filling up on Michael's last five dollars, the gas station attendant suggests that Michael head to Red Rock and ask around for work there.
 
@@ -27,7 +29,3 @@ Perhaps my score is going a little higher than I would usually because I watched
 I'm thrilled to have had the opportunity to see a screening of this at the Carolina Theatre! This movie is notorious for being rarely screened and difficult to find. The latter is likely due to the studio's total lack of faith in John Dahl, as evidenced by their decision to sell TV rights to HBO and Showtime before the movie hit theaters.
 
 This movie won't change your life, but if this sounds appealing to you, you'll probably get a kick out of it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a9nfjp)

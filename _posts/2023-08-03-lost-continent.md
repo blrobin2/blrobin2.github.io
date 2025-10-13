@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lost Continent (1951)"
 excerpt: "My review of Lost Continent (1951)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4Do2Nb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * uh, genocide has a "c" in it, sir
 * lets form a soccer team and eat each other
@@ -17,7 +19,3 @@ category: movie_review
 * hey there's another mountain up here
 * this movie makes Shoah look like a 2-reeler
 * turns out i'm just a herbivore, these guys have nutin to worry about, im just a red herring, so enjoy the picture
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Do2Nb)

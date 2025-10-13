@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Godzilla vs. Megalon (1973)"
 excerpt: "My review of Godzilla vs. Megalon (1973)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4GHlW7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Put on at a party — the fights don't have enough narrative and are too long. But this movie does have Godzilla's iconic flying kick
 
@@ -16,7 +18,3 @@ Put on at a party — the fights don't have enough narrative and are too long. B
 * Eat a peach, dude!
 * He forgot his semaphore flags
 * It's like we never know you! Who are you, Jet Jaguar?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4GHlW7)

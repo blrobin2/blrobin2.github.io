@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Don't Open Till Christmas (1984)"
 excerpt: "My review of Don't Open Till Christmas (1984)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5unO8v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Whoops, got too high. Let's see how this plays out
 
@@ -26,7 +28,3 @@ Whoops, got too high. Let's see how this plays out
 * Okay it's not Santas, it's Christmas — or evil or something?
 * He saw mommy fucking Santa Claus
 * ...and then it just ends
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5unO8v)

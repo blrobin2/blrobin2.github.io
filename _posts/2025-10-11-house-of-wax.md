@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "House of Wax (1953)"
 excerpt: "My review of House of Wax (1953)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/bkcvW3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 41/52 | 50s Horror</a></b>
 
@@ -35,7 +37,3 @@ The fight and fire scene in the opening is so harrowing! Watching the wax figure
 I love how, regardless of gender, folks are trying to get peeks at the wax figures' private parts.
 
 If you've seen movies, this won't surprise you, but it's so well done that it's a joy to watch it all unfold. 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bkcvW3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "High and Low (1963)"
 excerpt: "My review of High and Low (1963)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6Tni2t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 21/52 | Bill Hader's Top 10</a></b>
 
@@ -37,7 +39,3 @@ The movie, though in monochrome, has moments of color pop — I won't say more a
 If I had one complaint, it would be the ending — it wraps up but it is unsatisfying.
 
 Still, this movie is incredible, and the hype is real.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Tni2t)

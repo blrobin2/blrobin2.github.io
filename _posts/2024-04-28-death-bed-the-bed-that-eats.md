@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Death Bed: The Bed That Eats (1977)"
 excerpt: "My review of Death Bed: The Bed That Eats (1977)"
+rating: ""
+letterboxd_url: https://boxd.it/6miwDr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 27/32 | Inanimate Object Comes Alive</a></b>
 
@@ -37,7 +39,3 @@ This movie is so fucking odd — card games with words written are the cards or 
 The pacing is terrible, and the acting is whatever — this is a categorically bad movie. It makes so many bizarre choices that I love, but it's so tedious.
 
 I don't know! 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6miwDr)

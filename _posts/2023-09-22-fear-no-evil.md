@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fear No Evil (1981)"
 excerpt: "My review of Fear No Evil (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4SzmFN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Three angels spend multiple lifetimes trying to stop Lucifer. Each lifetime, he is reborn, as are the angels, and they must track him down and kill him (I think)
 
@@ -29,7 +31,3 @@ the ramones - blitzkrieg bop 
 talking heads - psycho killer
 
 Overall, this was a bunch of fun — I highly recommend watching it with friends
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4SzmFN)

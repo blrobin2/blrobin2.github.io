@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Earthquake (1974)"
 excerpt: "My review of Earthquake (1974)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9dJIbB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 13/52 | 70s Disaster</a></b>
 
@@ -31,7 +33,3 @@ If I'm being honest, my favorite aspect of this movie is Ava Gardner's theatrics
 The grocer obsessed with Rosa is the scariest part of this movie — he made my skin crawl.
 
 I don't think these disaster movies are for me, but lord knows I'll keep trying.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9dJIbB)

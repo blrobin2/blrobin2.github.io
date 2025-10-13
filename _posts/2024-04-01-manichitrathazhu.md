@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Manichitrathazhu (1993)"
 excerpt: "My review of Manichitrathazhu (1993)"
+rating: ""
+letterboxd_url: https://boxd.it/6bpRDH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 31/32 | Countries 6/6 | India">Hooptober 6.0 | 31/32 | Countries 6/6 | India</a></b>
 
@@ -32,7 +34,3 @@ The movie's concept of mental illness is bizarre, but it's interesting to watch 
 The movie climaxes with a song and dance routine that includes convincing someone they're murdering another person.
 
 I'm not giving this a rating because I have no idea what to give it. I'll watch more Indian horror and hopefully get a better idea of its conventions.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6bpRDH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Resolution (2012)"
 excerpt: "My review of Resolution (2012)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8CqkdH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober 31/31</a></b>
 
@@ -23,7 +25,3 @@ Humans are storytelling creatures. It's how we make sense of the infinite. From 
 Making a movie about that is fascinating in concept but not always the most interesting to watch. That said, if you can remain open and curious, the movie has some compelling ideas. I wouldn't call it a horror movie, though.
 
 And that's a wrap on Hooptobers! I missed 11 last year, but looking at the criteria made me want to claw my eyes out, so I probably won't be doing them anymore. But they were a satisfying way to negotiate the endless stream of horror movies on my watchlist.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8CqkdH)

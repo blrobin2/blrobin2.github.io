@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Freddy's Dead: The Final Nightmare (1991)"
 excerpt: "My review of Freddy's Dead: The Final Nightmare (1991)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4XW3O3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <blockquote><i>Do you know the terror of he who falls asleep?
 </i><i>To the very toes he is terrified,
@@ -33,7 +35,3 @@ The movie abandons the pretense of horror and goes full cartoon — something I 
 I thought I would enjoy this one more than <i>The Dream Child</i> based on how this one started, but once it got down to resolving the plot, it became so tedious
 
 I'll watch <i>New Nightmare</i> another day
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XW3O3)

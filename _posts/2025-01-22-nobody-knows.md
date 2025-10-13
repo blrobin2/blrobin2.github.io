@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nobody Knows (2004)"
 excerpt: "My review of Nobody Knows (2004)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/8zl3pz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Movie Challenge 2023 | 1/52 | Kinema Junpo Awards Winner</a></b>
 
@@ -27,7 +29,3 @@ As the film covers a year, filming took place over a year, with everything filme
 My heart hurts so much from watching this — I started crying around 20 minutes in, and it didn't let up. Unlike <i>Shoplifters</i>, which explored similar themes, this film does not dissolve into melodrama. The result is tragic and unbelievably beautiful.
 
 I don't know if I can watch this one again.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8zl3pz)

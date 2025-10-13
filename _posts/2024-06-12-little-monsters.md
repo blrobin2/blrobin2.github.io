@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Little Monsters (2019)"
 excerpt: "My review of Little Monsters (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6ESQtP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 9/31 | Countries 2/6 | Australia</a></b>
 
@@ -37,7 +39,3 @@ The zombie special effects are impressive! They're not the main feature, but the
 I'll admit, seeing echidnas made me giggle. I did a school project on them in 7th grade, and believe it or not, it had nothing to do with Sonic the Hedgehog!
 
 Though this movie verges on cute more than good, it's still an emotional and satisfying watch.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ESQtP)

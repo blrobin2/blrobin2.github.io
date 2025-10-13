@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Purple Noon (1960)"
 excerpt: "My review of Purple Noon (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4GU0Gj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Based on the book <i>The Talented Mr. Ripley</i>, Tom Ripley (Alain Delon) and Philippe Greenleaf (Maurice Ronet) are two assholes cavorting about Rome. Through Philippe, we learn that Tom is a great liar and forger — traits we can only assume but cannot confirm, as Philippe's rich boy's disregard for others is hard to stomach
 
@@ -19,7 +21,3 @@ Alain Delon is perfect as Tom Ripley — he's a great actor but is also pretty e
 The movie does diverge from the book for its ending, and in so doing, misses out on an opportunity that would have brought the film into higher regard
 
 Still, this is a well-paced, slow burn of a thriller whose fingerprints are all over the genre
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4GU0Gj)

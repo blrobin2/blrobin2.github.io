@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Jekyll and Mr. Hyde (1920)"
 excerpt: "My review of Dr. Jekyll and Mr. Hyde (1920)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4yZTjH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Stray Thoughts</b>
 * The microorganisms under the microscope are neat — I love how much they freak out Dr. Lanyon
@@ -16,7 +18,3 @@ category: movie_review
 * Is the movie moralizing about getting blackout drunk? Excuse me, “black abyss of torment” drunk?
 * The giant Hyde spider crawling around his room is creepy
 * There’s a point where he’s reaching his hands up to god in desperation, and it looks like he’s miming making it rain for god
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4yZTjH)

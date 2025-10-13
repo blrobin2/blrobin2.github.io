@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fright Night (1985)"
 excerpt: "My review of Fright Night (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9ldYEx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 15/52 | 80s Horror</a></b>
 
@@ -25,7 +27,3 @@ The neighbor, Jerry Dandrige, lives with his familiar, Billy Cole. The film all 
 Chris Sarandon brought the humor out of his villain, choosing to have Dandridge all but say he's a vampire to throw off the trail and eat fruit in several scenes because he has "fruit bat in his DNA." He's also super hot, so he pulls off seductive vampire effortlessly.
 
 I'd probably like it more if this movie had less '80s filler. Still, I enjoyed watching it, and I totally understand the love for it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ldYEx)

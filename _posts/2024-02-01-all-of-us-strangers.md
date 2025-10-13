@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "All of Us Strangers (2023)"
 excerpt: "My review of All of Us Strangers (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5JCOWP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Adam (Andrew Scott) leads a solitary life in his high-rise apartment in London. We catch him at his computer working on a script. One night, the fire alarm goes off, and he evacuates. No one else is on the street except him. Looking up at the building, he sees only two lights: his and a stranger's.
 
@@ -35,7 +37,3 @@ The magic of Adam seeing his parents again never gets (or needs) an explanation.
 This script is a personal one and one written during the quarantine. At points, you get the sense that Andrew Haigh is putting his traumas on the page — at other times, it feels like a period on an unfinished sentence.
 
 Many people will connect to the movie. About 2/3 of the film had me hooked. I really like this movie. It does a lot very well. The trip to the end, however, is divisive and will affect people differently. For me, it was enough to keep me from loving it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5JCOWP)

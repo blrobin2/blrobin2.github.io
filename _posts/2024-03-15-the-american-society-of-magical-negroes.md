@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The American Society of Magical Negroes (2024)"
 excerpt: "My review of The American Society of Magical Negroes (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/63ko2l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Was <i>Sorry to Bother You</i> too confrontational? Did <i>Dear White People</i> still make you feel guilty? Was <i>American Fiction</i>'s dated critique too pointed? 
 
@@ -15,7 +17,3 @@ Here's a toothless movie about white fragility that doesn't functionally critiqu
 Here's what I liked: the movie had some funny jokes, Justice Smith and An-Li Bogan had moments of palpable on-screen chemistry, and I'm always happy to see Drew Tarver or Michaela Watkins.
 
 Still, the thread was not enough to hold up the messy yarn sculpture that is this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/63ko2l)

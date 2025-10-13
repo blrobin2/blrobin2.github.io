@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Abominable Dr. Phibes (1971)"
 excerpt: "My review of The Abominable Dr. Phibes (1971)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5a6fw9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 15/34 | Bloodthirsty old person/people film | Decades 5/8 | 1970s</b>
 
@@ -31,7 +33,3 @@ The movie is full of indulgent decadence and 70s colors. Price's Phibes is a sho
 The humor of the movie comes from the absurdity of the kills. For example, Dr. Phibes launches a brass unicorn head from a catapult to pierce a guy's heart. It's not a laugh riot but a fun showcase of silliness.
 
 The movie's pacing is not consistently tight. I get a little antsy during the many music numbers. Still, I can appreciate the showmanship of it all.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5a6fw9)

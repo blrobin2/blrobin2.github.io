@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Walked with a Zombie (1943)"
 excerpt: "My review of I Walked with a Zombie (1943)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/58bugn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 8/34 | Decades 2/8 | 1940s</b>
 
@@ -38,7 +40,3 @@ The film’s finale sent a chill up my spine — one of the greatest horror endi
 Symbols of racial violence are the specters that haunt this island, personified in Carrefour, the black zombie walking the island.
 
 Likewise, the garden includes the statue of St. Sebastian, once the masthead of the slave ship. Water pours like sweat and tears, arrows piercing his body, suffering in silence.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58bugn)

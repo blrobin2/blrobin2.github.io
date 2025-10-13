@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Doctor Sleep (2019)"
 excerpt: "My review of Doctor Sleep (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/509yAF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Danny and Wendy move to Florida after the events of <i>The Shining</i>. The spirit of Dick Hallorann shows up to Danny, showing him how to trap the evil spirits that want to consume his shine.
 
@@ -36,7 +38,3 @@ In <i>The Shining</i> book, The Overlook caught fire when the boilers overheated
 This movie follows the events of <i>The Shining movie</i>, where The Overlook still stands. This also has <i>The Shining</i> book’s ending. The boiler overheats. The Overlook burns down.
 
 All the tiny details from <i>The Shining</i> movie are satisfying, but it’s telling when the best parts of your movie are images from the previous one.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/509yAF)

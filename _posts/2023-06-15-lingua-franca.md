@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lingua Franca (2019)"
 excerpt: "My review of Lingua Franca (2019)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4nmkRR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Olivia (Isabel Sandoval) cares for an older woman, Olga (Lynn Cohen), whose grandson Alex (Eamon Farren) is coming home after some time abroad and will be staying with Olga and helping to care for her.
 
@@ -23,7 +25,3 @@ Unlike Sandoval’s film <i>Señorita</i>, the filmmaking does not hammer you ov
 Overall, a quiet but engaging film — I wish I had checked it out sooner
 
 This film is leaving Netflix at the end of the month — check it out before it goes into streaming platform hell!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4nmkRR)

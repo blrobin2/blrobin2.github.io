@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Zone of Interest (2023)"
 excerpt: "My review of The Zone of Interest (2023)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5KTtSZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Rudolf and Hedwig have their ideal life. They have a big house for all of their children. They have a beautiful yard with a pool and a garden.
 
@@ -19,7 +21,3 @@ The film quality has a strange BBC frame rate that took a bit to get used to. So
 The score is ruptured and unsettling — the movie has a captivating opening overture.
 
 This movie is a nightmare encoded in banality.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5KTtSZ)

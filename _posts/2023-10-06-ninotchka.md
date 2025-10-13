@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ninotchka (1939)"
 excerpt: "My review of Ninotchka (1939)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4WUBQf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Capitalist propaganda, but make it funny</b>
 
@@ -36,7 +38,3 @@ I like it! I just wanted to like it more because it theoretically has everything
 * Garbo plays Champagne Drunk at one point, and it's delightful
 * Garbo and Douglas did one more film together. The film bombed, so she retired from movies and lived a secluded life :(
 * The snow scene near the end looks so pleasant — and hey, Boris Karloff!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4WUBQf)

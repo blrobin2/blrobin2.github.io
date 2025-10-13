@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Ghost Story (2017)"
 excerpt: "My review of A Ghost Story (2017)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5DNNIZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 18/34 | Haunted House 1/2</a></b>
 
@@ -29,7 +31,3 @@ But we do experience the manifestations of her grief — eating a pie alone on t
 Time for C expands and contracts — days pass in seconds, and seconds feel like an eternity. Waiting for...
 
 I hate Casey Affleck, so I'm glad he was under a sheet for most of the movie. He's probably my biggest hinderance from liking this more.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5DNNIZ)

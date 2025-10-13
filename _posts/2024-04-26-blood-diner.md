@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood Diner (1987)"
 excerpt: "My review of Blood Diner (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6lqurF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 25/32 | Woman-Directed 1/2</a></b>
 
@@ -31,7 +33,3 @@ Kong also brought her crew from Night Patrol, comprised mostly of women. Also, E
 The film started as a sequel to <i>Blood Feast</i>, but the distributor didn’t think anyone would remember it. I don’t love HG Lewis or Splatter, so adding a more absurdist layer over it makes it much more tolerable.
 
 This movie isn’t for everyone, but genre fans may find its gory hijinks charming.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6lqurF)

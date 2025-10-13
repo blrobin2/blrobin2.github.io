@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "An American Werewolf in Paris (1997)"
 excerpt: "My review of An American Werewolf in Paris (1997)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/649fLD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 16/32 | Makeup: Screaming Mad George | Countries 1/6 | Luxembourg</a></b>
 
@@ -35,7 +37,3 @@ The script is painful. "Your sadness moved me. No one so beautiful should be so 
 Most of the werewolf effects are CGI. I don't mind mediocre CGI — it's disappointing that the sequel to one of the greatest werewolf transformation movies is so cheaply rendered.
 
 I have a high tolerance for 90s movie mediocrity. But this goes above and beyond to create a grating experience. I'm truly stunned at how unbearable this is.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/649fLD)

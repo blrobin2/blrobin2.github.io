@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Penalty (1920)"
 excerpt: "My review of The Penalty (1920)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6Vj8KZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 20/31 | Before 1970 5/5</a></b>
 
@@ -36,7 +38,3 @@ The movie surprised me with scenes of nudity. Barbara Ferris is a sculptor and h
 The film was the first collaboration between Lon Chaney and director Wallace Worsley. Because of the success of this, they worked on a few more movies together, most famously with 1923’s adaptation of <i>The Hunchback of Notre Dame</i>.
 
 While it drags in places and has a… convenient ending, I still quite enjoyed this.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Vj8KZ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Working Girl (1988)"
 excerpt: "My review of Working Girl (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4ED2gb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 When <i>Bob's Burgers</i> merged <i>Die Hard </i>and <i>Working Girl</i>, I knew I would have to watch Working Girl sooner or later
 
@@ -25,7 +27,3 @@ Of course, it has to do the third act romcom misunderstanding and redemption, bu
 * "$6000!? It's not even leather!"
 * Oren Trask is Jack Donaghey — saw the future in microwave technology?
 * Harrison Ford whistled, "If I only had a brain."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ED2gb)

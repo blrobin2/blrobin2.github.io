@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Toolbox Murders (2004)"
 excerpt: "My review of Toolbox Murders (2004)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Jud4l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 31/34 | Tobe Hooper</a></b>
 
@@ -44,7 +46,3 @@ This movie is well-paced, decently acted, and has several of my favorite horror 
 * His name is Coffin Baby??
 * As the killer takes the bolt cutters to Bryon's back, he complains, "Just kill me!"
 * I know some critics didn't like the supernatural component, but once those runes showed up, you should've known.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Jud4l)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gentlemen Prefer Blondes (1953)"
 excerpt: "My review of Gentlemen Prefer Blondes (1953)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9EuvvL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Howard Hawks directed Marylin Monroe's iconic performance to fulfill a contractual obligation to Fox. To be fair, Jack Cole directed the musical numbers.
 
@@ -31,7 +33,3 @@ Howard Hawks directed Marylin Monroe's iconic performance to fulfill a contractu
 * Jane Russell impersonating Marylin Monroe is so fun!
 * "Sonny! Run along. I want to be alone with your father."
 * A "Diamonds" reprise at the wedding!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9EuvvL)

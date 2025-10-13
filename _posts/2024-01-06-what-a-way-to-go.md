@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "What a Way to Go! (1964)"
 excerpt: "My review of What a Way to Go! (1964)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5vFxWt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Louisa, a recent widow, tries to give the IRS her inherited millions. No one believes the money is real, so they send her to a psychiatrist, where she recounts her four marriages.
 
@@ -25,7 +27,3 @@ Shirley MacLaine is perfect. She hits every beat and gives the most memorable p
 Paul Newman is hot, and Gene Kelly is adorable and gay. Dick Van Dyke is Dick Van Dyke — zany, physical, but scrambling with a loose script. Robert Mitchum has a deep voice that rivals Stephin Merritt.
 
 I like the aesthetics! That's about it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5vFxWt)

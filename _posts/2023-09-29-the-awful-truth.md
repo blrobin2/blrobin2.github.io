@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Awful Truth (1937)"
 excerpt: "My review of The Awful Truth (1937)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4UyHxr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 Jerry (Cary Grant) lied and said he went to Florida for 2 weeks, but he doesn't have a tan, so he gets a fake one at the health club
 <blockquote><i>The road to Reno is paved with suspicions</i></blockquote>Wife Lucy (Irene Dunne) has been running around with Armand (Alexander D'Arcy), and Jerry masks his suspicions poorly. Armand is Lucy's voice teacher, but Jerry lays into them
@@ -21,7 +23,3 @@ Skippy plays their dog Mr. Smith, and he's perfect! Eddie from Fraiser plays a s
 The direction allows them to laugh at each other — more when the other flails physically than with jokes. Leo McCarey loves spontaneity above all else so several scenes were improvised or written on the spot — Cary Grant tried to get out of the movie because McCarey threw the script away and said they would, "have fun." In addition, they would do as few takes as possible to keep the energy up
 
 A perfect romantic comedy — perhaps not the originator, but the archetype for the screwball comedy— combining witty repartee with sharp physical comedy is rarely done as well as it is here — to make a comedy that is still just as funny 90 years later is nothing short of a miracle
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4UyHxr)

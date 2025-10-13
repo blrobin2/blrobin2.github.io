@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Frozen Scream (1981)"
 excerpt: "My review of Frozen Scream (1981)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/9jjXVB
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Rifftrax are cowards. They keep all the gore and self-harm but censor the nudity.
 
@@ -23,8 +25,3 @@ Renee Harmon wrote, directed, and starred in this. It's hard to tell where techn
 * She's making the face women in yogurt commercials make after eating yogurt.
 * Niles will never forgive Fraiser for getting him into this mess!
 * Oh, her name's Anne?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9jjXVB)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Face of Another (1966)"
 excerpt: "My review of The Face of Another (1966)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5J8vkH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 30/34 | Asian horror 3/3 | Decades 8/8 | 60s</a></b>
 
@@ -57,7 +59,3 @@ This film is one of the few experimental films I've seen that maintains a cohere
 * He has sex with his wife as someone else. Does he not think she knows his smell, knows his body? She wants to be near him, and if the only way he'll allow it is through this fantasy, she plays along.
 * The strange image of the brother crying at the window, the voice clipping and distorting, the image inverting and unveiling him as a slab of meat. The bright flash of another bomb, another war.
 * Crowd without faces — what a striking image
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5J8vkH)

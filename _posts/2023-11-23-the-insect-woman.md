@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Insect Woman (1963)"
 excerpt: "My review of The Insect Woman (1963)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5cMjwz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" style="font-weight: bold;">Criterion Challenge 2023</a><b> | 23/52 | Gasper Noé's Closet Picks</b>
 
@@ -39,7 +41,3 @@ The filmmaking is sharp, almost at the cost of audience connection. The time jum
 Whenever Tomé experiences an event that changes the trajectory of her life, the movie freezes, and the music turns disjointed and sharp, almost like a horror movie.
 
 I liked the movie, but I wish it connected with me more. I want to rewatch it now that I understand it better.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5cMjwz)

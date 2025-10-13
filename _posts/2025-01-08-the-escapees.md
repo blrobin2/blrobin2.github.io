@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Escapees (1981)"
 excerpt: "My review of The Escapees (1981)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8mttVv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 35/52 | Jean Rollin</a></b>
 
@@ -34,7 +36,3 @@ An ice skating scene at the middle point is such a transcendent moment.
 It's also worth mentioning that one of the exotic dancers performs to a disco interpolation of Für Elise.
 
 This may not be Rollin's most beloved film, but it is his most effective filmmaking I've seen to date.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8mttVv)

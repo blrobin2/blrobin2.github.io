@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jurassic Shark (2012)"
 excerpt: "My review of Jurassic Shark (2012)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/b5RVqz
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 The opening crawl literally copies and pastes the Wikipedia entry for "megalodon."
 
@@ -21,7 +23,3 @@ This director has multiple movies featuring sharks: <i>Ouija Shark</i>, <i>Raide
 * I'm afraid Mike is rowing bikini-clad women across the River Styx.
 * It was fun watching her sleep, everybody, but she's awake now.
 * What's in your comeuppance? A shark or something?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b5RVqz)

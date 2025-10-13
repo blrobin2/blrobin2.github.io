@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Curse of the Cat People (1944)"
 excerpt: "My review of The Curse of the Cat People (1944)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3WRJm9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Amy’s birthday wish to “be a good girl” is so upsetting, especially as her father looks on smiling, like, “yeah, that’d be nice”. when the bad behavior is that she doesn’t play with the other kids and daydreams. He’s still a huge asshole
 
@@ -22,7 +24,3 @@ This whole movie actually feels like a couple of episodes from a 90s cartoon
 Ann Carter was so good in this, I was on the verge of tears at times
 
 Wow, this really has nothing to do with cat people at all
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3WRJm9)

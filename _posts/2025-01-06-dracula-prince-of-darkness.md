@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dracula: Prince of Darkness (1966)"
 excerpt: "My review of Dracula: Prince of Darkness (1966)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8kZJUz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 14/31 | Terence Fisher 4/5</a></b>
 
@@ -27,7 +29,3 @@ This film has so many little moments that heighten the experience. Watch how the
 The special effects for Dracula's rematerializing look so good!
 
 Good stuff!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8kZJUz)

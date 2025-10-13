@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Scooby-Doo Project (1999)"
 excerpt: "My review of The Scooby-Doo Project (1999)"
+rating: ""
+letterboxd_url: https://boxd.it/5JQOzJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 34/34 | Bonus 3/3</a></b>
 
@@ -21,7 +23,3 @@ The clips combine actual footage with the characters animated in the scenes. Oth
 In the story, the police find a bag of videos — Scooby-Doo episodes and their investigation.
 
 It's pretty fun and meta. I'm glad that folks have assembled this. Cartoon Network's official version doesn't have all the clips.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5JQOzJ)

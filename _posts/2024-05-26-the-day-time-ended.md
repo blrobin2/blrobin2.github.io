@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Day Time Ended (1980)"
 excerpt: "My review of The Day Time Ended (1980)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6xYe2F
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 TV's son of TV's frankfurter 
 
@@ -24,7 +26,3 @@ The little animated alien is nightmare fuel — I love him. Why are there so man
 * Come, sweet death
 * Crap, I think that thing imprinted on me
 * At least give the horse a weapon, jeez!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6xYe2F)

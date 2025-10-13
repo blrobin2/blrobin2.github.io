@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Attack of the Crab Monsters (1957)"
 excerpt: "My review of Attack of the Crab Monsters (1957)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8v80c1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 40/52 | Kaiju</a></b>
 
@@ -25,7 +27,3 @@ I was initially surprised by how many folks have watched this. But with a title 
 Was this movie an inspiration for <i>Annihilation</i>??
 
 While the movie isn't outstanding, it's cozy to an MST3K-head such as myself.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8v80c1)

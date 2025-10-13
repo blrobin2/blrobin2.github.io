@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tales from the Hood (1995)"
 excerpt: "My review of Tales from the Hood (1995)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6nCi3D
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 31/32 | Bonus 1/2</a></b>
 
@@ -51,7 +53,3 @@ Crazy K is a homicidal killer who uses his gang as an excuse to murder whomever 
 Four years later, the prison puts him through an experimental trial that could set him free. To do so, however, Crazy K must equate the violence he showed to black people with the violence that white people have done to black people over the years.
 
 I’m unsure how to feel about this one. People of all races have opinions and tirades regarding “black-on-black violence.”
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6nCi3D)

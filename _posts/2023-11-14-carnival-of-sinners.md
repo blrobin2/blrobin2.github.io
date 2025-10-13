@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Carnival of Sinners (1943)"
 excerpt: "My review of Carnival of Sinners (1943)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/59XrNt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A turn on the Faustian legend, where Roland, a mediocre painter with a dissatisfied girlfriend, buys a talisman that grants him any ability his heart desires. The seller sold it for half of what he bought it for, because it must be sold at a loss. He bought it for two pennies, and sells it for one.
 
@@ -19,7 +21,3 @@ The art made for the movie is cool! The paintings are sinister surrealistic work
 The highlight of the movie is a scene with Roland at a dinner table during Carnivàle. I won't say anything else, but it's visually one of the most playful and entertaining sequences I've seen in a French movie from the era.
 
 In a post-Twilight Zone world, this story has no major surprises, but it has some fun little turns here and there. I ended up enjoying this a lot!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/59XrNt)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "ThanksKilling (2008)"
 excerpt: "My review of ThanksKilling (2008)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/8TSNG3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="">Anti-Criterion Challenge 2024 | 50/52 | Holiday horror for any holiday</a></b>
 
@@ -23,7 +25,3 @@ Look, this is a $3500 student film, with only porn star Wanda Lust getting paid 
 The lack of real actors sometimes makes the cutaways funny, as we'll see someone with a dead face waiting for their turn to speak.
 
 Overall, this movie isn't funny. It suffers from 2008's tolerance of every slur except the n-word, which is often The Joke. But every once in a while, it pulled a laugh out of me, intentionally or otherwise.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8TSNG3)

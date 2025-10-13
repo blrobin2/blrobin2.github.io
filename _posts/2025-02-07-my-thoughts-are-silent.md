@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Thoughts Are Silent (2019)"
 excerpt: "My review of My Thoughts Are Silent (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8KHKMp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 41/52 | Made in a country with land north of the Tropic of Cancer by a director from that country (Ukraine)</a></b>
 
@@ -29,7 +31,3 @@ More simply, the movie is also about motherhood. From Mary the Mother of Christ 
 I'm pretty unfamiliar with Ukrainian history, so if I've misrepresented something here, call me out. I've tried to do some reading for this review to understand why Ukraine considers this one of their best movies.
 
 I can't say I fully understand. I can say that the movie treats its audience with intelligence, building a subtly clever and reflective film that made my mouth drop when the credits rolled.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8KHKMp)

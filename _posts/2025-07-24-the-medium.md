@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Medium (2021)"
 excerpt: "My review of The Medium (2021)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/arUsjb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 30/52 | Folk Horror</a></b>
 
@@ -31,7 +33,3 @@ Additionally, the movie is excessively long.
 Banjong Pisanthanakun has shown his ability to mimic Western horror. See also his movie, <i><a href="https://boxd.it/4V6qmT">Shutter</a></i>. If he can learn to eschew the tropes, he might be a formidable director. Still, the film has some haunting moments that kept me invested.
 
 Those pink church lights are AESTHETIC.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/arUsjb)

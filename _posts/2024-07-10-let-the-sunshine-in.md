@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Let the Sunshine In (2017)"
 excerpt: "My review of Let the Sunshine In (2017)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6QmjAR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 19/52 | Directed by Claire Denis</a></b>
 
@@ -33,7 +35,3 @@ Does Juliette Binoche ever disappoint?
 The episodic quality leaves the movie with little momentum, making it difficult to stay invested. We get vignettes more than arcs. 
 
 The film might not have anything grand to say about love. But it does give hope to a single gal like me that, even if I don't find love today, it may still be out there.<blockquote><i>Stop getting yourself all in a stew. It serves no purpose whatsoever. Live what you have to live. Take care of yourself. Don't fall into traps. That's all I ask.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QmjAR)

@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Force Majeure (2014)"
 excerpt: "My review of Force Majeure (2014)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/2PWewL
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** 4/5
-
 #yesAllMen
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/2PWewL)

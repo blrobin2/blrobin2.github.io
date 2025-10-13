@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "It Comes at Night (2017)"
 excerpt: "My review of It Comes at Night (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5T3rDZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 21/32 | disease-based 1/3</a></b>
 
@@ -35,7 +37,3 @@ So, it's pretty clear Travis is already sick before Will arrives. The dream reca
 Travis' surreal exploration of the house and sleep delulus is our second signifier that he is losing it. It is our way into the subjective experience of the illness.
 
 Our third signifier is how often Travis is in the same position as Bud was when Travis found him sick.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5T3rDZ)

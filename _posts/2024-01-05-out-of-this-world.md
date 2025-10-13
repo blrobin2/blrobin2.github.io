@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Out of This World (1954)"
 excerpt: "My review of Out of This World (1954)"
+rating: ""
+letterboxd_url: https://boxd.it/5uX1kJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 I used some clips from this for a project in college. No, you can't see it.
 
@@ -17,7 +19,3 @@ I used some clips from this for a project in college. No, you can't see it.
 * But why does the strip club need bread?
 * I have only one rule I follow: kill or be killed
 * It's gonna turn out the bread truck driver is Jesus
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5uX1kJ)

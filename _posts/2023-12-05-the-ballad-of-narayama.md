@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ballad of Narayama (1958)"
 excerpt: "My review of The Ballad of Narayama (1958)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5gOjob
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 33/52 | Directed by Keisuke Kinoshita</b>
 
@@ -39,7 +41,3 @@ The meta-textual qualities extend to the chanter telling the story, whom Tatsuhe
 Shot in widescreen, the cinematography is gorgeous and intentional, reminiscent of Max Ophüls’s camera work. There are moments where the characters pause in consideration. The camera pans in a pivot around them. It has so much impact, and it’s such a slight gesture.
 
 The film is full of rich reds and greens, reminiscent of Technicolor’s early color processing. The red skies at sunset, the green of dark rooms, the total red tone of the screen when Tatsuhei learns Orin has broken out her teeth.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5gOjob)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Grave Robbers (1989)"
 excerpt: "My review of Grave Robbers (1989)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5MKkqn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 6/32 | Countries 6/6 | Mexico</a></b>
 
@@ -33,7 +35,3 @@ This isn't amazing, but it's plenty of fun. To anyone who says this is a generic
 * And coking through the wall!
 * I love that the cops instantly go to the priest like, "This is some devil shit"
 * The dude ends up looking like a <i>Buffy</i> baddie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5MKkqn)

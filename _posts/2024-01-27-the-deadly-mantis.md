@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Deadly Mantis (1957)"
 excerpt: "My review of The Deadly Mantis (1957)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5GVGYJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 This is the first episode that lines up with the premise presented in the opening credits — Pearl chasing them through space
 
@@ -21,7 +23,3 @@ This is the first episode that lines up with the premise presented in the openin
 * Those gosh darn heteros. What are you gonna do?
 * Mr. Mantis Goes to Washing-DEATH
 * He's flipping us off!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5GVGYJ)

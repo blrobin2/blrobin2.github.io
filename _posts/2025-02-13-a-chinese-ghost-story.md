@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Chinese Ghost Story (1987)"
 excerpt: "My review of A Chinese Ghost Story (1987)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/8OK17N
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 7/52 | Love and Horror</a></b>
 
@@ -31,7 +33,3 @@ One character gives us some gender fuckery — I don't want to spoil it, but she
 It makes sense why this HK ghost movie broke through in America. It's fast-paced, funny, and full of surprises.
 
 Leslie Cheung and Joey Wong 💖
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8OK17N)

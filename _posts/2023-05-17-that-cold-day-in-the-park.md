@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "That Cold Day in the Park (1969)"
 excerpt: "My review of That Cold Day in the Park (1969)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4fRXep
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Sandy Dennis passes a boy — Michael Burns — in the park on her way home to her apartment, still able to see him from her window as the family arrives and eats a decadent meal on fine china. During their visit, the rain begins, and she cannot stop looking and worrying about the boy
 
@@ -21,7 +23,3 @@ He returns and continues the game, and boy, is it a messy game
 Throughout the movie, Dennis looks through distorted windows and mirrors, her face or the boy’s face morphed or fractured — classic psycho-thriller stuff
 
 It is a great first half, but the second half rushes through some plot and arrives at a place that doesn’t feel motivated by what came before. I have no problems with where it arrived — and I expected it to reach where it did. I just thought it needed more groundwork to get there
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4fRXep)

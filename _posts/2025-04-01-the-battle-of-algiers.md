@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Battle of Algiers (1966)"
 excerpt: "My review of The Battle of Algiers (1966)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9hRyCT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 52/52 | Any Criterion film from your watchlist</a></b>
 
@@ -34,7 +36,3 @@ And I can see why — the film still hits! The action is tense, the cinematograp
 The Pentagon has screened this movie to help commanders and troops better understand the guerilla warfare they faced in occupied Iraq.
 
 It's rare to see a movie that acts as such a benchmark for filmmaking—this one changed movies from then on.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9hRyCT)

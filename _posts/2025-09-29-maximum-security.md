@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Maximum Security (1997)"
 excerpt: "My review of Maximum Security (1997)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/bd4twj
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 Yet another reminder that Rifftrax are cowards who cut sex scenes.
 
@@ -20,7 +22,3 @@ Yet another reminder that Rifftrax are cowards who cut sex scenes.
 * — Don't be too anxious. — She's an efficient therapist!
 * Don't do anything stupid. You don't want to go to double jail.
 * This one's on the house. That's what Hugh Laurie said at the bar.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bd4twj)

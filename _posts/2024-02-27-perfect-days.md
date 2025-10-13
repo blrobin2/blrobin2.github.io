@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Perfect Days (2023)"
 excerpt: "My review of Perfect Days (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5VxjEX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b>Wim Winders had to make a movie about those sick toilets in Tokyo</b>
 <blockquote><i>KOMOREBI - the Japanese word for the shimmering of light and shadows that is created by leaves swaying in the wind.
@@ -27,7 +29,3 @@ The soundtrack is shitty classic rock from the 60s and 70s. I hated every time o
 Still, the movie has touching and impactful moments that drew me back in when I felt myself growing cold to it.
 
 Overall, this is an old man movie by an old man.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5VxjEX)

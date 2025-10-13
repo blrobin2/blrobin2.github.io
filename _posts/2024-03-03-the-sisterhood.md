@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sisterhood (1988)"
 excerpt: "My review of The Sisterhood (1988)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5XKEw5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 3</a></b>
 
@@ -30,7 +32,3 @@ The third act is where most of the budget is — it goes full <i>Fury Road</i> w
 <b>*** SPOILER TALK ***</b>
 
 If the Sisterhood follows a goddess who can free them at any time, why does the goddess wait until the last possible moment to show up?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5XKEw5)

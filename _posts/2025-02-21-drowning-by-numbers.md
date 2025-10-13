@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Drowning by Numbers (1988)"
 excerpt: "My review of Drowning by Numbers (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8TXNkh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="">Birth Year Challenge 30</a></b>
 
@@ -25,7 +27,3 @@ Each scene has a dense composition of elements, like a classical painting. You c
 There's an inherent Britishness to this movie that prevents me from fully understanding it. While playful and absurd, I found it difficult to care about much. So much of the film is Smut giving rules to non-existent games, and the repetition, while thematic, is tiresome.
 
 This film is artful, but I missed the connection that would have made it great.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8TXNkh)

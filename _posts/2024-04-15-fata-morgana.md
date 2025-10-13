@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fata Morgana (1971)"
 excerpt: "My review of Fata Morgana (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6h9gO1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 16/52 | Slow cinema, but it’s 95 minutes or less</a></b>
 
@@ -27,7 +29,3 @@ What is onscreen is ambiguous in intent but amounts to the purest road movie. It
 In other words, the film is an incomplete drawing begging to be completed.
 
 In college, I attended a guest lecture, and he asked the audience if anyone had seen <i>Fata Morgana</i>. I was the only one who raised my hand. And I was lying! I don't know why I lied about it, but a professor said after the lecture, "I can't believe you've seen that obscure Herzog movie." Panicked, I said, "I eat Herzog for breakfast." He laughed, and it never came up again.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6h9gO1)

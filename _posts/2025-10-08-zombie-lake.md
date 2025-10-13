@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Zombie Lake (1981)"
 excerpt: "My review of Zombie Lake (1981)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/biIzMd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 6/31 | Countries 4/6 | France | Zombie 4/5</a></b>
 
@@ -23,7 +25,3 @@ The movie is shoddy work. Shots last way too long. The makeup is bare, and the p
 As others have noted, this movie went through three different directors. While Franco worked on it, the producers slashed the budget. Rollin came in as a favor to the producers. While Rollin worked on it, the producers wouldn't show him the script, as only one copy of the screenplay existed. When Rollin finally saw the script, he inquired about locations, and the producer would tear out the pages for that scene, and they would continue elsewhere. Everyone on set could tell it was a shit show, so they put in way less effort.
 
 That said, these are professionals, so the movie isn't an incomprehensible mess. The film has a couple of moments, brief glimmers of a better movie that could have emerged from this project. For example, the Helena subplot is occasionally touching and really snaps the movie into focus. But those moments are buried under the film that is — the one that reflects the lack of care that extended from the producers downward.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/biIzMd)

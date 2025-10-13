@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Killing Birds (1988)"
 excerpt: "My review of Killing Birds (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5CXE9R
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail#item-3630807379">Hooptober 8.0 | 17/34 | From birth year 2/2</a></b>
 
@@ -52,7 +54,3 @@ Overall, the movie is decent, but it makes such poor use of its runtime that it'
 * Necklace caught in the generator — they milked that. So brutal.
 * All the effort to board up the doors and windows and the zombie breaks through the walls and ceilings.
 * So, like, the birds reanimated the corpses to enact revenge on Fred Brown? Because it's the birds that kill him in the end.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CXE9R)

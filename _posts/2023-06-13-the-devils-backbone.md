@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Devil's Backbone (2001)"
 excerpt: "My review of The Devil's Backbone (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4mVEh1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Cool practical effects, meh CG effects, long, fairly predictable, well constructed from a script standpoint, it’s not gonna stick with me
 
@@ -17,7 +19,3 @@ Cool practical effects, meh CG effects, long, fairly predictable, well construct
 * Have to go through all the new kid tropes (including the bully/reluctant friend), all the “misunderstanding the ghost” tropes
 * I don’t know why Concinta is with a cartoonishly evil dude — I mean, had to be a small dating pool at the school
 * Chekov’s wooden leg
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4mVEh1)

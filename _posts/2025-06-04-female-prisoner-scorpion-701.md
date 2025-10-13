@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Female Prisoner Scorpion: #701 (1972)"
 excerpt: "My review of Female Prisoner Scorpion: #701 (1972)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9TEthx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>To be deceived is a woman's crime.</i></blockquote>
 
@@ -23,8 +25,3 @@ The camera work is quite agile and expressive, making even the smallest scene dy
 I already knew Meiko Kaji was a badass from <i>Stray Cat Rock: Delinquent Girl Boss</i>, where she outshone Aikko Wada in every scene. Here, she gets to take center stage, kicking ass and pleasuring women into submission.
 
 I wanted to revisit this movie since my tastes have changed in the couple of years since I initially watched this. While I appreciated it the last time, I don't think I fully realized how special this movie is. This movie might be the quintessential women-in-prison film and one of the coolest exploitation movies from the era.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9TEthx)

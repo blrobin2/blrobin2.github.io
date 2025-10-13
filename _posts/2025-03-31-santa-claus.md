@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santa Claus (1959)"
 excerpt: "My review of Santa Claus (1959)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/9haQWV
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 Watching the Rifftrax Live version, which is not edited down like the MST3K version.
 
@@ -17,7 +19,3 @@ Watching the Rifftrax Live version, which is not edited down like the MST3K vers
 * Craig was born in a bed of straw??
 * — I'm going to ask Santa Claus for two pretty dollies. If he brings two, I'll give one to little Jesus. — [tearfully] Give it to Craig instead.
 * We forgot Santa is a NATO signatory!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9haQWV)

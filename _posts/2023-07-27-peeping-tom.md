@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Peeping Tom (1960)"
 excerpt: "My review of Peeping Tom (1960)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4ADaVv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <blockquote><i>— Anyone with you?
 — No, just my camera.</i></blockquote>Mark Lewis (Carl Boehm) is a man obsessed with terror, driven to capture it on camera. To fulfill his desire, he finds women to murder and films their dying expression
@@ -36,7 +38,3 @@ of his locked expression of neutrality
 * haunted distant piano in the soundtrack
 * the director yelling "Ye gods!" is so good
 * scoptophilia - the morbid urge to gaze
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ADaVv)

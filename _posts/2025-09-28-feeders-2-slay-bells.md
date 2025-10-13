@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Feeders 2: Slay Bells (1998)"
 excerpt: "My review of Feeders 2: Slay Bells (1998)"
+rating: ""
+letterboxd_url: https://boxd.it/bcj6Hp
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Dude, I think <a href="https://boxd.it/bawkpx" rel="nofollow"><i>Hallucinations</i></a><i></i> gave me Polonia Brothers toxoplasmosis. I'm so into this.
 
@@ -20,7 +22,3 @@ The Rifftrax riffs are especially mean-spirited this episode.
 * Have a blessed Diwali, bitches!
 * Season's Greetings from Tiny Lamp
 * Candle is my favorite holiday character!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bcj6Hp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Last of the Wild Horses (1948)"
 excerpt: "My review of Last of the Wild Horses (1948)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4t65Cf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * You lost the last of the wild horses, you dink!
 * Way to go Ted, now we have to talk to him again
@@ -21,7 +23,3 @@ category: movie_review
 <b>From the actual movie</b>
 
 <blockquote><i>Resist arrest? That’s just an excuse to legalize murder! The person didn’t even have a gun on him when he ‘resisted’…</i></blockquote>we’ve been having this conversation for so long (:
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4t65Cf)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Drive-Away Dolls (2024)"
 excerpt: "My review of Drive-Away Dolls (2024)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/601v1p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>The queer dream of the 90s is alive and fucking in <i>Drive-Away Dikes</i> — the actual title, revealed at the end of the movie.</b>
 
@@ -31,7 +33,3 @@ The movie drops out of the story for brief psychedelic trips a la <i>The Big Leb
 That said, the movie is both funny and horny. For all its flaws, it's nice to see a film where feminine desire is the primary driving force behind the story.
 
 Let's hope the brothers reconcile or learn to make movies without the other's ethos.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/601v1p)

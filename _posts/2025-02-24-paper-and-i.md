@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Paper And I (1960)"
 excerpt: "My review of Paper And I (1960)"
+rating: ""
+letterboxd_url: https://boxd.it/8VVmFL
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 * <i>Paper and I</i>, the searing love story of our time.
 * Here I am, Willie! I'm just serving gruel to the other captured children.
@@ -14,7 +16,3 @@ category: movie_review
 * And now Willie is visited by the Paper Bag of Christmas Future.
 * Paper, paper, paper…
 * Welp, time to become Freddy Kreuger.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8VVmFL)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Daughter Of Destiny (1928)"
 excerpt: "My review of A Daughter Of Destiny (1928)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6fEowX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 10/32 | Anniversary Film 9/10 | Countries 6/6 | Germany | Silent Film</a></b>
 
@@ -29,7 +31,3 @@ Different versions exist, but all derive from one Italian translation. If you ca
 I've heard of a better cut, but it's not online. So, based on the one I saw, this movie is... fine. Brigitte Helm is a gift. This plot is a whole thing.
 
 By the way, I retranslated the opening quote because the German-to-Italian-to-English one I read was a whole mouthful. It's probably less accurate, but oh well! What are you going to do? Kill me?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6fEowX)

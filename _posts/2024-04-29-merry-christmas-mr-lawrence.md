@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Merry Christmas, Mr. Lawrence (1983)"
 excerpt: "My review of Merry Christmas, Mr. Lawrence (1983)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6mJQzX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 18/52 | Dreaming of a Holiday Movie Marathon</a></b>
 
@@ -41,7 +43,3 @@ The influence on <i>Beau Travail</i> is apparent in a few ways. If I'm being hon
 I don't think everything works for me here. The movie overstays its welcome a bit, and its critique of bushido isn't as layered as the movie seems to think. The flashback is odd, and I'm unsure how I feel about it.
 
 Still, the movie has moments of beauty that stick with me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6mJQzX)

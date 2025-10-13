@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Day of the Animals (1977)"
 excerpt: "My review of Day of the Animals (1977)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6SzMGj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen">Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen</a></b>
 <blockquote><i>In June 1974, Drs. F. Sherwood Rowland and Mario Molina of the University of California startled the scientific world with their finding that fluorocarbon gases used in aerosol spray cans are seriously damaging the Earth's protective ozone layer. Thus, potentially dangerous amounts of ultraviolet rays are reaching the surface of our planet, adversely affecting all living things. This motion picture dramatizes what COULD happen in the near future IF we continue to do nothing to stop the damage to Nature's protective shield for life on this planet.</i></blockquote>Steve Buckner leads a group of tourists in Northern California on a hike. Only he and Santee, the Native American assistant, know how to survive the wilderness.
@@ -28,7 +30,3 @@ Leslie Nielsen's character says the most out-of-pocket racist shit throughout. H
 I can't say this was a good time, but I appreciate how much animals wreaking havoc we get.
 
 I need to track down the Rifftrax!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6SzMGj)

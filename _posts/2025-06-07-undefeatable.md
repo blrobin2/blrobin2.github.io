@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Undefeatable (1993)"
 excerpt: "My review of Undefeatable (1993)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9Vj2en
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <a href="https://boxd.it/q7TYk/detail" title="Cult Movie Challenge 2017 | 49/52 | Godfrey Ho">Cult Movie Challenge 2017 | 49/52 | Godfrey Ho</a>
 
@@ -47,7 +49,3 @@ Man, this movie is so stupid. Why do I like it so much?!
 * The hook in the other eye, which they then lift him and carry him away on! So much eye trauma!
 * "Keep an eye out for you, Stingray." "Yeah, see ya!"
 * Everyone enrolled everyone in college!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Vj2en)

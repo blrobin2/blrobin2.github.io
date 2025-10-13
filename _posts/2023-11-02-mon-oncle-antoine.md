@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mon oncle Antoine (1971)"
 excerpt: "My review of Mon oncle Antoine (1971)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/563Lbv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 4/52 | Made in Canada 
 </b>
@@ -21,7 +23,3 @@ If the first half of the movie explores Benoît's childhood, the second half exp
 The film watches people closely, finding small moments with each. It paints a picture so specific that it has to be based on the writer or filmmaker's personal experiences.
 
 Also, Quebecois French is a nightmare. It starts familiar but then becomes chaotic.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/563Lbv)

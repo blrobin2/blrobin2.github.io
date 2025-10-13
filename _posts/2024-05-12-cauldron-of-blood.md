@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cauldron of Blood (1970)"
 excerpt: "My review of Cauldron of Blood (1970)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6sbwOT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 10/31 | Countries 4/6 | Spain | Decades 5/6 | 70s</a></b>
 
@@ -29,7 +31,3 @@ The movie makes Batman-like stylistic jumps — slow-motion, cut frames, psyched
 My favorite thing in movies about artists is when they show the art, and it sucks. Valerie paints “realistic portraits,” which Claude declares out of style — they are barely recognizable as human. Franz’s sculptures are fine, but I can’t remember what a single one looks like. Tania’s harp playing is almost melodic despite the instrument being out of tune.
 
 I probably rated this higher than it deserves, but it’s such an oddity to watch that I couldn’t deny being entertained.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sbwOT)

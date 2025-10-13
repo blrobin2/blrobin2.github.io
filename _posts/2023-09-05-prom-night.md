@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Prom Night (1980)"
 excerpt: "My review of Prom Night (1980)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4NNbRV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Four kids play a game that gets out of hand,
 and one of the girls, Kelly, falls out of a window to her death. The others swear to secrecy
@@ -22,7 +24,3 @@ Overall, I say skip this one and watch <i>Hello Mary Lou: Prom Night II</i>, whi
 Also, this movie has too many:
 — "Do [uncomfortable thing]"
 — "But you're my sister!"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4NNbRV)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Child's Play (2019)"
 excerpt: "My review of Child's Play (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6CqP5t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 5/31 | Franchise 5/7 | Remake</a></b>
 
@@ -37,7 +39,3 @@ I despise Ty Consiglio in this — he seems like an okay actor, but his characte
 Let me be clear: I have no childhood affinity associated with the <i>Child’s Play</i> franchise, so I don’t care about its relationship to the original. Besides the names, this movie has nothing to do with the originals, so I watched it with that in mind.
 
 I wouldn’t call this an awful movie — it just didn’t give me what I wanted from a horror movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6CqP5t)

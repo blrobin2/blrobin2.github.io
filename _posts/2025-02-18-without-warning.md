@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Without Warning (1980)"
 excerpt: "My review of Without Warning (1980)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/8SanNP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 8/52 | Aliens</a></b>
 
@@ -39,7 +41,3 @@ I keep running into Greydon Clark movies. This one looks solid, thanks to Dean C
 Like <i>Uninvited</i>, the title is factually incorrect. Everyone in <i>Uninvited</i> was invited, and the teens went into the woods with ample warning. Also, like <i>Uninvited</i>, this has entertaining moments, but the thread in between leaves much to be desired.
 
 I am Jack Pallance yelling, "Alien!"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8SanNP)

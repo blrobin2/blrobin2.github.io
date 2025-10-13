@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Whose Shoes? (1969)"
 excerpt: "My review of Whose Shoes? (1969)"
+rating: ""
+letterboxd_url: https://boxd.it/9jktUl
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 * Quick question: what the hell was that?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9jktUl)

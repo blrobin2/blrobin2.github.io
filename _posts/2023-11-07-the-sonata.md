@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sonata (2018)"
 excerpt: "My review of The Sonata (2018)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/57DLuj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 We open on the first-person perspective of someone at a desk, writing out musical notation. They take a candle downstairs and grab a canister of gas. They step outside, open the canister, and douse themselves with the gas, dropping the candle at their feet and self-immolating. These are the last moments of Richard Marlowe (Rutger Hauer), a notorious British composer who disappeared at the peak of his career.
 
@@ -23,7 +25,3 @@ The film explores success and the lengths people go for it. The idea of someone 
 The soundtrack fluctuates between cliches and feverous intensity. The movie goes to dark places and saves its most intense music for those reveals.
 
 Horror fans won’t find any surprises here, but if you like houses full of secrets, you’ll find plenty to enjoy.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57DLuj)

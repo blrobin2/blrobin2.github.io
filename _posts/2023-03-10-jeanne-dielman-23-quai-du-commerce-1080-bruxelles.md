@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)"
 excerpt: "My review of Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/3XFDhH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 “How could you know? You’re not a woman”
 
@@ -34,7 +36,3 @@ This is extremely my deal, I love this
 * I want the silverware drawer to be built into the table!
 * Watching her peel potatoes was so nerve-wracking, I was so sure she was going to cut herself somehow
 * Belgian waffles in the display case at the grocery, that rules
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3XFDhH)

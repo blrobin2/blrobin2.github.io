@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Double Team (1997)"
 excerpt: "My review of Double Team (1997)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/64Bx8v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme">Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme</a></b>
 
@@ -47,7 +49,3 @@ Somehow, Rodman made the best movie starring a Chicago Bull in the 90s.
 * Dennis Rodman has brothers — Italian cybermonks!!
 * The explosion in the Colosseum.
 * The house music in the closing credits
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/64Bx8v)

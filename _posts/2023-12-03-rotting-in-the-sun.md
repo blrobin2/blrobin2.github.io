@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rotting in the Sun (2023)"
 excerpt: "My review of Rotting in the Sun (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5g9g6h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Sebastián Silva sits in the park reading passages from E.M. Cioran's <i>The Trouble with Being Born</i>.
 
@@ -47,7 +49,3 @@ The performances are good, especially Jordan Firstman as a frenetic gay nightmar
 I like the movie. I'm glad the movie pushed for a more honest "horny gays with K and poppers" vibe because that kept the movie weirdly grounded.
 
 I would love to hear the kids who hate sex scenes think of this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5g9g6h)

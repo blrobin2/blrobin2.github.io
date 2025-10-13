@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Morvern Callar (2002)"
 excerpt: "My review of Morvern Callar (2002)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4aVIZt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 The uncomfortable quiet of Samantha Morton lying on the floor next to her boyfriend’s body, dead by suicide, lights on the Christmas tree flickering light and shadow across them. “Don’t try to understand. It just felt like the right thing to do,” his suicide note reads. “Be brave.”
 
@@ -34,7 +36,3 @@ Stray Thoughts:
 * “Morvern, you are so lovely to me,” her friend Lanna says, made me tear up
 * Twee as hell 2002 soundtrack, but man, I love some of these songs
 * I can only assume “hoovering” used in this context is cocaine, right?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4aVIZt)

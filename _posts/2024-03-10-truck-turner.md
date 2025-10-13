@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Truck Turner (1974)"
 excerpt: "My review of Truck Turner (1974)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/60TwXd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 31/52 | Blaxploitation">Cult Movie Challenge 2016 | 31/52 | Blaxploitation</a></b>
 
@@ -36,7 +38,3 @@ This movie is the prototype for the buddy cop movie. Shane Black owes a lot to t
 The movie loses some steam towards the end, but it never falls off, and the climax is a thrill.
 
 What a treat!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/60TwXd)

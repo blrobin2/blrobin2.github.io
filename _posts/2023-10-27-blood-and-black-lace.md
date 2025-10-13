@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blood and Black Lace (1964)"
 excerpt: "My review of Blood and Black Lace (1964)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/53JujT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a><b> | 29/34 | Mario Bava</b>
 
@@ -24,7 +26,3 @@ Bava may have invented giallo with <i>The Girl Who Knew Too Much</i>, but this i
 * The color in the opening credits is perfect. I love the way it introduces each actor.
 * The red doll with no face and a black wig is such a weird image.
 * You can't beat a faceless assailant in a trench coat.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53JujT)

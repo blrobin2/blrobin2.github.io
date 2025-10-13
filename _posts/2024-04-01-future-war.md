@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Future War (1997)"
 excerpt: "My review of Future War (1997)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/6bqYPx
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 I'm skipping <i>Merlin's Shop of Mystical Wonders</i> because someone datamoshed my copy, and I was deeply uncomfortable. I'll review it when I find a better version.
 
@@ -16,7 +18,3 @@ I always forget I've seen this movie until I watch it. This director did additio
 * Dustbuster Galactica
 * Van Dammit
 * He's beating up his memories
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6bqYPx)

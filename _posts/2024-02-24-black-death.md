@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Black Death (2010)"
 excerpt: "My review of Black Death (2010)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5TTwBt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 23/32 | disease-based 3/3</a></b>
 
@@ -42,7 +44,3 @@ Overall, the movie is uneven and a bit of a drag. You might enjoy the story bett
 * Langiva rolling her eyes during the prayer is a mood.
 * Of course, Sean Bean's death is brutal — dismemberment by horses.
 * I don't know why we needed Osmund to become Anakin in the movie's final five minutes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5TTwBt)

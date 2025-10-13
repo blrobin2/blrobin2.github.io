@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Day of the Triffids (1963)"
 excerpt: "My review of The Day of the Triffids (1963)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8CZMTL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 5/52 | 60s Horror</a></b>
 
@@ -29,7 +31,3 @@ The triffid design is fun. Several folks find them hokey, but I haven't seen mon
 I haven't read the book or seen the canonical 1980s adaptation, so I can't speak to what this movie did right or wrong there. The comparison I made to <i>28 Days Later</i> earlier applies throughout the film — they share several similar story beats.
 
 I can't say this is the most exciting story, but I enjoyed myself.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8CZMTL)

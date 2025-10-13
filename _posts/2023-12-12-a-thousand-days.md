@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Thousand Days (2023)"
 excerpt: "My review of A Thousand Days (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5jnQYJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <i>East Java, 2003</i>
 
@@ -33,7 +35,3 @@ If Sri going into the dream is what can save her, why didn't they try the day th
 Also, it didn't seem like they had found anyone that could go into the dream like that, so what would they do do if none of the people they hired could do that?
 
 The "you can't know more than that this. Ignorance is God's gift" line is such a cop-out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jnQYJ)

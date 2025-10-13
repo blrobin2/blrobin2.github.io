@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Brave One (2007)"
 excerpt: "My review of The Brave One (2007)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4nTvs5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Meditation on total loss — loss of the city of your childhood, the loss of your loved ones, the loss of hope that anything that can change
 
@@ -21,7 +23,3 @@ The movie suffers from saccharine sentimentality — flashbacks set to Sarah McL
 Thankfully, Jodie Foster finds a human being in her character, raising the movie above your standard revenge exploitation flick. She has some lame monologues/narration, but she makes them sound sincere. Her performance is what makes this movie good
 
 No joke, I cheered in the finale. It’s not good, but they made it work for me
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4nTvs5)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Teenage Cave Man (1958)"
 excerpt: "My review of Teenage Cave Man (1958)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4O8eiB
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * and then came man, who screwed the whole thing up
 * yeah yeah, "are we not men?"
@@ -16,7 +18,3 @@ category: movie_review
 * something goofy this way comes
 * this is how dinosaurs died: you bored them to death
 * if a tree fell in the forest, would Roger Corman go over budget?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4O8eiB)

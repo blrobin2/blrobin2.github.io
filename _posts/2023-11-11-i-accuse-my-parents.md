@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Accuse My Parents (1944)"
 excerpt: "My review of I Accuse My Parents (1944)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/58P2u7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * 🎵They laugh when I accuse my parents, so I kill them, we'll see who's laughing now!
 * Maybe he just suspects his parents at this point
@@ -23,7 +25,3 @@ category: movie_review
 * Here, stab this into your thigh
 * You learn things about people in this business. For instance, they're bipeds!
 * Son, its been two months and you haven't touched your hamburger
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58P2u7)

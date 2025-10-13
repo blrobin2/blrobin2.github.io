@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Swimming Pool (1969)"
 excerpt: "My review of The Swimming Pool (1969)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4KdcmZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b>Longer French version</b>
 
@@ -30,7 +32,3 @@ If I had one complaint, it's that the pacing, while well-done, feels a bit slow 
 * Jean-Paul is incapable of kissing Marianne without taking her top off
 * I think Delon mentioned something about some days not being worth it and skipping to the next in both this and<i> Purple Noon</i>
 * When Jean-Paul keeps kicking Harry into the pool, it reminds me of the <i>King of the Hill</i> episode where Hank kept doing it to the paleontologist who humiliated Peggy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KdcmZ)

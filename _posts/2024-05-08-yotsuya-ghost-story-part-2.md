@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yotsuya Ghost Story Part 2 (1949)"
 excerpt: "My review of Yotsuya Ghost Story Part 2 (1949)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6qM8wR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>As poor Oiwa finds no peace even in death, what fate awaits Iemon, tormented by his conscience, and Naosuke, the incarnation of evil?</i></blockquote>
 
@@ -33,7 +35,3 @@ The filmmakers did not intend it to be in two parts — it is one continuous sto
 Although the beginning was elegant in setting up the downfall, this feels slightly messy. I still like how it all happens — it's just that the movie has several plotlines to address.
 
 Still, the ending hits.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6qM8wR)

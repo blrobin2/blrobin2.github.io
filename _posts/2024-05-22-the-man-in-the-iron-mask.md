@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Man in the Iron Mask (1939)"
 excerpt: "My review of The Man in the Iron Mask (1939)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6wbw1X
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 21/31 | James Whale</a></b>
 
@@ -33,7 +35,3 @@ Louis Hayward is outstanding in playing both Louis and Philippe, making the form
 I tried to find Peter Cushing, but I did not spot him. This was his first role!
 
 Overall, I quite liked this! While some may find this boring, folks like me will find it quite enjoyable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wbw1X)

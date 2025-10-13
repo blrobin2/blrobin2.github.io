@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Seventh Continent (1989)"
 excerpt: "My review of The Seventh Continent (1989)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/65a8Ld
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 12/52 | First Films - watch a directorial debut</a></b>
 
@@ -33,7 +35,3 @@ Even with knowledge of their every waking moment, the film reminds us we still d
 Between scenes is a prolonged blackout of a couple of seconds. The remaining world exists in those seconds.
 
 I despise the fish scene.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/65a8Ld)

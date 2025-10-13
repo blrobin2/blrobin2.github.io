@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Happiness of the Katakuris (2001)"
 excerpt: "My review of The Happiness of the Katakuris (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6R6qjl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 11/31 | Takashi Miike 1/5</a>
 
@@ -23,7 +25,3 @@ The film is a genre-bending collection of ideas — a surrealist farce, a musica
 Because the movie is so scattershot, some moments had me dying laughing and other parts had me impatiently tapping my fingers. I wish this were, like, 30 minutes shorter.
 
 Still, this film never takes itself seriously and always commits to the bit, so I'm on board.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6R6qjl)

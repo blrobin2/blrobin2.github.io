@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Downrange (2017)"
 excerpt: "My review of Downrange (2017)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6Hi1ZZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 25/52 | Ryûhei Kitamura</a></b>
 
@@ -29,7 +31,3 @@ Sharni Vinson's character in <i>You're Next</i> may not have been the first of t
 Despite everything mentioned, the film's major flaw is the lack of likable characters. Everyone is a tremendous asshole to each other, so it's impossible to root for anyone to survive. But that seems to be the point: to watch folks suffer. Scared, grossed-out kids puking, bleeding, and pissing everywhere. Crows picking at eyeballs and brain matter.
 
 For some, that's entertainment — honestly, no judgment, love what you love. I need a little more to get into it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Hi1ZZ)

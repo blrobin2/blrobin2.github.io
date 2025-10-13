@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Slayer (1982)"
 excerpt: "My review of The Slayer (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5A4HPX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Cult Movie Challenge 2016 | 6/52 | Video Nasties</a></b>
 
@@ -47,7 +49,3 @@ This movie will only appeal to slasher enthusiasts. While it isn't a great movie
 * Maxwell House instant coffee — when literally anything will do.
 * The skeleton creature is silly and creepy. It has classic "Tales from the Crypt" vibes.
 * Was it all a dream? Or is this a flashback? She sees the cat and worries.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5A4HPX)

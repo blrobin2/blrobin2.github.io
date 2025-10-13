@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Butterfly Murders (1979)"
 excerpt: "My review of The Butterfly Murders (1979)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/bhWJsB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 5/31 | Countries 3/6 | Hong Kong</a></b>
 
@@ -25,7 +27,3 @@ The blending of wuxia and giallo sounds odd in theory, but totally works here. T
 Michelle Yim, who plays Green Shadow, brings an enormous amount of charisma to the screen. She makes everyone look manic and hasty with her chill demeanor and swift moves. 
 
 This movie is brilliant! I was in awe throughout. It is unquestionably one of the most underrated gems I've seen. My Christmas wish is that a boutique shop like Vinegar Syndrome or Arrow pick this movie up.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bhWJsB)

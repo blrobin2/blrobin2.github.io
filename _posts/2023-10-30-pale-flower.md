@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pale Flower (1964)"
 excerpt: "My review of Pale Flower (1964)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/54UJZL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q" rel="nofollow">Criterion Challenge 2023 </a>| 1/52 | Random Number Generator (564)</b>
 
@@ -23,7 +25,3 @@ The dream sequence looks so good! The lighting, the slow motion, the framing —
 My only real complaint is that the gambling parts are pretty boring, but it's essential to the plot, so I don't know.
 
 What a vibe movie! I could have this on all the time. And that ending! Woof
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/54UJZL)

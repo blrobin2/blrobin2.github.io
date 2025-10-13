@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Runaway Train (1985)"
 excerpt: "My review of Runaway Train (1985)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5E7tP7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 13/52 | 70s Disaster</a></b>
 <blockquote><i>— You're an animal
@@ -41,7 +43,3 @@ Holy shit, that ending.
 This movie is so fun and satisfying! I've seen many similar films growing up, but this puts just enough moving pieces in place and develops compellingly.
 
 I wasn't sure I was going to get from this what other folks have, but I liked this!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5E7tP7)

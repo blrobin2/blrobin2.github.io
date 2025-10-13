@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Creator (2023)"
 excerpt: "My review of The Creator (2023)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4UDzKx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I dictated this so sorry if it's nonsense, I'm tired
 
@@ -21,7 +23,3 @@ Joshua's got this kid and Allison Janey is looking for him. He supposed to kill 
 It's beautifully shot, and does great job of establishing place by giving us a lot of incidental footage of humans and AI coexisting in spaces. Sometimes they're just like hanging out at a bar, driving a car, listening to music or one scene where an AI is telling about a future of peace, and a great thing that is going to come and save them all
 
 Problem? The script, dialogue, and third act in particular are a mess. I like Garrett Edwards' movie <i>Monsters</i>, I didn't love <i>Godzilla</i> and I didn't love <i>Rogue One</i>, and I don't think I love this either
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4UDzKx)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Andromeda Strain (1971)"
 excerpt: "My review of The Andromeda Strain (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/546xE7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 The military enters a small town and finds no sign of life. Bodies strewn everywhere. No signs of pain or struggle, just struck down where they were — adults, children, pets — everyone. Their blood turned to clotted powder — nothing on earth can do this.
 
@@ -21,7 +23,3 @@ It's odd, but the cinematography only stood out when they were surveying the tow
 They kill a rhesus monkey to see if the virus affects them. :( In real life, the cage had oxygen, and they filled the room with CO2, so when they opened the cage, it passed out and was immediately revived — you can see the person's shadow with the oxygen mask in the shot.
 
 I'm into a thriller that can keep my attention and keep violence to a minimum.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/546xE7)

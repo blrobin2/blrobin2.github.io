@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Nightmare on Elm Street Part 2: Freddy's Revenge (1985)"
 excerpt: "My review of A Nightmare on Elm Street Part 2: Freddy's Revenge (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4T5R2r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Closeted queer boy Jesse Walsh is having nightmares starring your boy Freddy Kreuger
 <blockquote><i>— Mommy, why can't Jesse wake up like everyone else?
@@ -28,7 +30,3 @@ I think the movie's greatest success is how fun it all is. While the first one i
 * Opening the fridge in the middle of the night and spilling things is also my M.O.
 * The bird attacking the family and then blowing up in a cloud of feathers is funny
 * Jesse's a scream queen — he belts some real squealers
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4T5R2r)

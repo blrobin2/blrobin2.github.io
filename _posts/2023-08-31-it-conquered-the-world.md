@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "It Conquered the World (1956)"
 excerpt: "My review of It Conquered the World (1956)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4MkvdJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * I've looked at clouds from both sides joe
 * its the days of wine and roses
@@ -16,7 +18,3 @@ category: movie_review
 * I'm doing this for Jodie Foster, it's nothing personal
 
 A young Les Van Cleef is surreal, I just assumed he was born an old cowboy. He looks like he exclusively attends noise shows
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4MkvdJ)

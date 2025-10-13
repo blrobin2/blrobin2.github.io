@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Cat and the Canary (1939)"
 excerpt: "My review of The Cat and the Canary (1939)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3ZmMZt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 I’m gonna end up watching all the <i>The Cat & the Canary </i>adaptations, aren’t I?
 
@@ -21,7 +23,3 @@ Also, it doesn’t really change up the core story or even the scenes, so it was
 Still, it’s a creepy house with secrets so I’m into it
 
 Oh and great cat!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3ZmMZt)

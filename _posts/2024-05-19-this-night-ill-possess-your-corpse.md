@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "This Night I'll Possess Your Corpse (1967)"
 excerpt: "My review of This Night I'll Possess Your Corpse (1967)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6uWeTD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 18/31 | Before 1970 6/6">Hooptober 4.0 | 18/31 | Before 1970 6/6</a></b>
 
@@ -25,7 +27,3 @@ The movie is pretty front-loaded. The story gets meandering and slow for large s
 I like facets of this — it is an improvement on the previous film, even if it isn't consistently exciting.
 
 The version on Shudder has long swaths of dialogue with no subtitles. I understand a little Portuguese, but only enough to know I was missing parts of the story.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6uWeTD)

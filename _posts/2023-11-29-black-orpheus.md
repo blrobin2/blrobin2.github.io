@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Black Orpheus (1959)"
 excerpt: "My review of Black Orpheus (1959)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5eSDjZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 27/52 | <a href="https://www.criterion.com/current/top-10-lists/72-sonic-youth-s-top-10">Sonic Youth’s Top 10</a></b>
 
@@ -29,7 +31,3 @@ The movie is visually striking — elaborate costumes, colorful decor, and sweat
 The simple plot could have led to this being a musical. It is, except they break out into dance instead of song. The waves of music are unending, keeping the party alive.
 
 This isn’t a compelling story for me. It doesn’t have much plot development until the film has twenty minutes left. It has enjoyable moments throughout, especially the ending.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5eSDjZ)

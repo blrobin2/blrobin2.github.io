@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sailor Who Fell from Grace with the Sea (1976)"
 excerpt: "My review of The Sailor Who Fell from Grace with the Sea (1976)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/75AGxJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 32/52 | Rarelust</a></b>
 
@@ -23,7 +25,3 @@ I don’t understand the boys at all. Like, I can’t get into any of their head
 The film starts weird as hell, but then it tries to make something sentimental out of Anne and Jim’s relationship. Perhaps we’re meant to feel those contrasts, but Kris Kristofferson doesn’t feel right in the role.
 
 I don’t know — I like how weird and off the movie feels, but it lacks something that would make me love it, and I can’t figure out what it is.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/75AGxJ)

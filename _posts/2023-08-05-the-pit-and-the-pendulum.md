@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Pit and the Pendulum (1961)"
 excerpt: "My review of The Pit and the Pendulum (1961)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4E0qXb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Francis Barnard (John Kerr) comes to the Castle Medina to see after his late sister Elizabeth's (Barbera Steele) death. Her husband Nicholas (Vincent Price) and Nicholas' sister Catherine (Luana Anders), however, remain unyielding in revealing the details of her death. And so, Francis stays at the Castle to learn what he can
 
@@ -21,7 +23,3 @@ Great costumes and set design — the titular pit isnone of the coolest sets I'v
 This film is one of the better Corman Poe movies — I think the freedom granted in the loose adaptation allowed a tighter and better-paced film
 
 Good stuff!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4E0qXb)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Daytrippers (1996)"
 excerpt: "My review of The Daytrippers (1996)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4jM2Uf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Eliza (Hope Davis) finds a love note she didn’t write that may be directed to her husband Louis (Stanley Tucci), so she goes into the city with her family — her sister Jo (Parker Posey), Jo’s boyfriend Carl (Liev Schreiber), and her mother and father (Anna Meara and Pat McNamara) — to investigate
 
@@ -20,7 +22,3 @@ Stray Thoughts:
 * Low budget, filming in the car with closeups by necessity, putting everyone’s thought processes in different frames — people talk, and no one listens — makes the movie feel cozy
 * The wavering focus of the camera moving through the party is so effective 
 * Woo, good ending!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4jM2Uf)

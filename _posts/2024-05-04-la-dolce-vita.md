@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "La Dolce Vita (1960)"
 excerpt: "My review of La Dolce Vita (1960)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6oVEbV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 6/52 | 1960s</a></b>
 
@@ -39,7 +41,3 @@ I feel like I'm only getting part of the meaning. Fellini's message about Rome i
 The first half of the movie breezes by. The second half, by design, is a slow descent into chaos.
 
 This film is difficult to get into. It took about an hour for me to get a sense of its structure. I'll need to watch this movie again in ten years to get a deeper understanding.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6oVEbV)

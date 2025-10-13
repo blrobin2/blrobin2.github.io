@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eating Raoul (1982)"
 excerpt: "My review of Eating Raoul (1982)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/58svVZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | Decades 3/8 | 1980s</b>
 
@@ -42,7 +44,3 @@ The movie's destination is obvious. I only wish it got there sooner. The movie's
 * I've never heard someone being called a "hard-off" before.
 * Chez Bland is an amazing restaurant name
 * Ed Begley Jr as a hippie is… well, accurate
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58svVZ)

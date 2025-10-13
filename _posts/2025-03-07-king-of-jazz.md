@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "King of Jazz (1930)"
 excerpt: "My review of King of Jazz (1930)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/92EYAD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 38/52 | Genre: Animation</a></b>
 
@@ -25,7 +27,3 @@ The Melting Pot number is so sinister when they melt the people down!
 Cut the Fish Story song! It's so dull.
 
 I wouldn't call this exciting, but the revue has plenty of awe-inspiring dance numbers, and the film is an excellent time capsule, especially for an era of film that is mostly lost.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/92EYAD)

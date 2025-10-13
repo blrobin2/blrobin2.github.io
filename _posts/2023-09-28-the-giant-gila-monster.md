@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Giant Gila Monster (1959)"
 excerpt: "My review of The Giant Gila Monster (1959)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4Uk4SH
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * gosh, the moonlight does crazy things to your hair, sir
 * have an accident? no thanks, just had one
@@ -16,7 +18,3 @@ category: movie_review
 * ugh, blue cheese-flavored vodka
 
 everyone is so nice to each other in this movie, it's so pleasant!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Uk4SH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Le Samouraï (1967)"
 excerpt: "My review of Le Samouraï (1967)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/9R6bbl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 52/52 | Any Criterion film on your watchlist</a></b>
 
@@ -41,7 +43,3 @@ I think I have to say it: this is a technically perfect movie. It has not a seco
 — A habit.</i></blockquote>
 
 Alain Delon is perfect for this role. No one would call him a world-class actor, but the man can walk around and look pretty. What doesn't get talked about enough is how much cooler Caty Rosier is. 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9R6bbl)

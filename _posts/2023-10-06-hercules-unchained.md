@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hercules Unchained (1959)"
 excerpt: "My review of Hercules Unchained (1959)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4WW70R
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 * hey, stop feeding my bride!
 * there.
@@ -22,7 +24,3 @@ I bet a remaster would pop off with some of the color choices — I'd give Mario
 Sylvia Lopez gives a wild performance — it's sad that she died of leukemia the same year this came out
 
 I love that Letterboxd gives Sophocles and Aeschylus writing credits
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4WW70R)

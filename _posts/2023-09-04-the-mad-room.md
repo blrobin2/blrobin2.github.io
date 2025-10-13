@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Mad Room (1969)"
 excerpt: "My review of The Mad Room (1969)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4NpjCh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Two small children (4 and 6) murder their parents and go to a mental institution. Their older sister Ellen, who witnessed it all, goes into foster care
 
@@ -19,7 +21,3 @@ This movie is pretty uninspired, and the outcome is predictable the second you s
 The performances aren't bad except for the actor portraying Ellen, who is in a whole other world
 
 That said, being boring does not mean terrible, and it's glued together decently. I wouldn't recommend it to anyone, though
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4NpjCh)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween H20: 20 Years Later (1998)"
 excerpt: "My review of Halloween H20: 20 Years Later (1998)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/53nqa5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
 
@@ -31,7 +33,3 @@ Steve Miner, who is best known for <i>Soul Man</i>, directed this film, but the 
 * Watching <i>Scream 2</i> in the background
 * So many babies! We get Joseph Gordon-Levitt, Josh Hartnett, Michelle Williams, that kid who played young Robin Williams in Jumanji, and whatnot.
 * The kills are brutal! The person hanging from the light fixture was shocking (oh god, no pun intended).
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53nqa5)

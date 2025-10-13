@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jessica Forever (2018)"
 excerpt: "My review of Jessica Forever (2018)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4OZ1AD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 In a future (?) where Violent Orphan Boys (VOBs) run rampant (?) Jessica forms a support group/cult (?) of these VOBs, arming them to fight the Special Forces, who are trying to take them out (?)
 
@@ -21,7 +23,3 @@ The closest thing I can compare this to is <i>Only God Forgives</i>, where peopl
 I don't mind a tone poem, despite hating that term, but I assume the poem has clear thematic elements at play. Here, the viewer must construe any theme. Is this an incel army? Is this a recovery group?
 
 There's a scene where the boys come across the littlest kitten, and they all take turns holding it — half a star for the kitten
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4OZ1AD)

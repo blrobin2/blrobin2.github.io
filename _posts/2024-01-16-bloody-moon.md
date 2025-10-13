@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bloody Moon (1981)"
 excerpt: "My review of Bloody Moon (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5BBPQ5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 15/34 | From 1981 4/4</a></b>
 
@@ -42,7 +44,3 @@ This movie is the first Jesús Franco I've seen, and I believe fans consider it 
 * Oh, money
 * Wait, what?
 * The shots that weren't remastered are pretty scary when intercut with remastered shots
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5BBPQ5)

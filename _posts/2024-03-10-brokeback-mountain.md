@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Brokeback Mountain (2005)"
 excerpt: "My review of Brokeback Mountain (2005)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/617Vin
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 27/52 |  director's highest-rated film (Ang Lee)</a></b>
 
@@ -29,7 +31,3 @@ The landscapes are beautiful. The colors are impossibly lush when they're happy 
 In the end, it's a very straight conception of gay love. When we were starving for representation, it was essential. Now, it's a good movie, but here in 2024, it doesn't hit the way it might have twenty years ago.
 
 <blockquote></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/617Vin)

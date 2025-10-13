@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Two Thousand Maniacs! (1964)"
 excerpt: "My review of Two Thousand Maniacs! (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9HJr9D
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 38/52 | HG Lewis</a></b>
 
@@ -30,7 +32,3 @@ Unlike the "dumb redneck" caricature that most audiences knew, this film gives u
 I love the organ stab score. How else am I supposed to know that something is amiss?
 
 Yes, it's slow, silly, and probably offensive, but it's perhaps the most coherent movie H.G. Lewis put out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9HJr9D)

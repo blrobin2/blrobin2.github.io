@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Still Walking (2008)"
 excerpt: "My review of Still Walking (2008)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5aHk5r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 18/52 | Food on Film</b>
 
@@ -46,7 +48,3 @@ While some performances are exaggerated, overall, they are superb.
 Shohei Tanaka, the actor who plays Atsushi, does some incredible acting, especially in the scenes where he has nothing to say.
 
 This is a brilliantly directed and realized movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5aHk5r)

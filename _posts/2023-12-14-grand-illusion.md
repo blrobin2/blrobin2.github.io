@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Grand Illusion (1937)"
 excerpt: "My review of Grand Illusion (1937)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5jT1CV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 42/52 | 1930s</b>
 
@@ -51,7 +53,3 @@ A black officer attempts to speak to other officers, but they consistently ignor
 The vaudeville show is a delightful display of men embracing drag, at least by the other prisoners. The German soldiers look horrified.
 
 This film is another one whose reputation made me worry it wouldn't hit me the way it has others. This picture is brilliant, nuanced, and enthralling, keeping me invested.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jT1CV)

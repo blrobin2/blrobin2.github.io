@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Body Beneath (1970)"
 excerpt: "My review of The Body Beneath (1970)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/aZMBud
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <a href="https://boxd.it/q9zuy/detail" title="Cult Movie Challenge 2018 | 9/52 | Andy Milligan"><b>Cult Movie Challenge 2018 | 9/52 | Andy Milligan</b></a>
 
@@ -35,7 +37,3 @@ Deeply flawed, but admirable in it's ambition, the film probably won't wow anyon
 * Yes, kill the impure Ford because you don't have any use for it? How about diversifying your bloodline?
 * Why did offering the Reverend cigarettes offend him so much? Oh, the mirror.
 * Wow, this shit gets wild.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aZMBud)

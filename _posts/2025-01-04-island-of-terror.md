@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Island of Terror (1966)"
 excerpt: "My review of Island of Terror (1966)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8iPwHp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hooptober | 12/31 | Terence Fisher 2/5</a></b>
 
@@ -25,7 +27,3 @@ Also, the movie is quite gory, which is a nice change of pace from the sterile 5
 The movie echoes a myth that Napoleon invented Solitaire, but we don't have any evidence of him doing so.
 
 This movie won't be everyone's cup of tea, but I found it delightful.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8iPwHp)

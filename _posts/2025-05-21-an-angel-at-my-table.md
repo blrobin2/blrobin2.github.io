@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "An Angel at My Table (1990)"
 excerpt: "My review of An Angel at My Table (1990)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/9KNiXT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 49/52 | Agnes Varda's Closet Picks</a></b>
 
@@ -29,7 +31,3 @@ If this movie sounds grim, you're not wrong. However, the filmmaking has such wa
 Kerry Fox does unbelievable work. The film owes much of its power to her empathetic performance as such a singular person as Frame. Her pains became mine, and her victories, too. I don't think I've ever cheered so much when someone got laid in a movie. 
 
 <i>An Angel at My Table</i> was Campion's breakthrough, earning her the esteem of being the first New Zealand film to be screened at the Venice Film Festival. New Zealand's most brilliant filmmaker brings the story of its most distinguished authors to life in such a moving and engrossing portrait.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9KNiXT)

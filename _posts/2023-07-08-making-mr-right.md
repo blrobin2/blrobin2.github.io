@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Making Mr. Right (1987)"
 excerpt: "My review of Making Mr. Right (1987)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4tXhx3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Dating in the 80s — ain’t it a drag? But when consultant Frankie Stone (Ann Magnuson) gets the opportunity to refine the personality of an android named Ulysses (John Malkovich) to appeal more to women, she finds herself drawn to him
 
@@ -27,7 +29,3 @@ Overall, a charming rom-com
 * “It takes a man this sensitive to understand your needs.”
 * The Parent Trap playing at the theater — another movie in which one actor plays dual roles
 * Where else do you go to experience the real world, except the mall?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4tXhx3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bride of the Monster (1955)"
 excerpt: "My review of Bride of the Monster (1955)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/56mhm7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Bela Legosi crushes it! This is far from Ed Wood's worst. It's not good, but I could follow what was happening for the most part
 
@@ -17,7 +19,3 @@ Bela Legosi crushes it! This is far from Ed Wood's worst. It's not good, but I c
 * Kiss the bird, professor
 * This is Motel 666, you get it?
 * Hello! Ancillary character waiting to be killed off!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56mhm7)

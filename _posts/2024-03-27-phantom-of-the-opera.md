@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Phantom of the Opera (1943)"
 excerpt: "My review of Phantom of the Opera (1943)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/68Pkgb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 26/32 | Classic Universal</a></b>
 
@@ -17,7 +19,3 @@ The phantom's role in the plot is minimal. They turned the film into a musical a
 This turn influenced Andrew Lloyd Webber's musical, overtaking the public's perspective on what <i>The Phantom of the Opera</i> is.
 
 If you can accept the movie on its terms, it's pleasant.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/68Pkgb)

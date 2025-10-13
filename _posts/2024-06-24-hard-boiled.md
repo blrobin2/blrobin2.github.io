@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hard Boiled (1992)"
 excerpt: "My review of Hard Boiled (1992)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6JAqPT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 26/52 | Hong Kong Cinema">Criterion Challenge 2024 | 26/52 | Hong Kong Cinema</a></b>
 
@@ -36,7 +38,3 @@ That said, the actual stars of the movie are the action scenes — so many top-n
 The maternity ward section of the movie is inspired. Put this in a double feature with <i>The Heroic Trio</i>!
 
 Chow Yun-Fat is great, but I love Tony Leung Chiu-wai. He rules in this.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6JAqPT)

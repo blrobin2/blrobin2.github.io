@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Perks of Being a Wallflower (2012)"
 excerpt: "My review of The Perks of Being a Wallflower (2012)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6vVgsh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 21/52 | Directed by a director with three or less feature films</a></b>
 
@@ -37,7 +39,3 @@ Cast talk:
 * Woah, I like Ezra Miller in this! They embody that self-assuredness I wish I had in high school. And they're so sweet to Charlie that it warms my heart.
 
 This movie has so much love baked into it — it's cheesy, earnest, and it hits.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6vVgsh)

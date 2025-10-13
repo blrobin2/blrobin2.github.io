@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Somebody I Used to Know (2023)"
 excerpt: "My review of Somebody I Used to Know (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5hQQxX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Hey babes! You know what time it is! It’s <b>#wineoclock</b>, where we curl up on the couch, polish off a bottle of wine, and watch a <i>delicious</i> rom-com.
 
@@ -53,7 +55,3 @@ It’s a drunk 3, a sober 2.5!
 * Cassidy’s band sucks ass. It makes sense they’re local. Touring with Sleater-Kinney???
 * It was so close to being gay!
 * Ending your movie with Semi-Charmed Life is unfair.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5hQQxX)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Alien Dead (1980)"
 excerpt: "My review of The Alien Dead (1980)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/aXrcMh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 36/52 | Zombies</a></b>
 
@@ -31,7 +33,3 @@ Buster Crabbe is slumming in this no-budget shlock, but he makes a meal of his s
 The movie has a couple of comedic moments that are charming, only because the extras and more minor roles can't help but break character or make eye contact with the camera. Any sign that someone had fun making this is welcome in my book.
 
 I think you know already that this movie doesn't have much going for it. That said, I can't say I was ever bored. Then again, I have a high tolerance for these types of movies.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aXrcMh)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "New Nightmare (1994)"
 excerpt: "My review of New Nightmare (1994)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/51cEKr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X ">Hooptober X </a>| 21/34 | Wes Craven | Decades 6/8 | 90s</b>
 
@@ -28,7 +30,3 @@ In the end, it's self-justifying, but wasn't worth making, with Wes Craven or ot
 
 <b>*** SPOILERS ***</b>
 This Freddy is supposed to be darker and scarier, but besides his clothes and claws, he's the same. His tongue is pretty gross, though
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/51cEKr)

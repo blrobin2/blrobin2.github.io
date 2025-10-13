@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Black Scorpion (1957)"
 excerpt: "My review of The Black Scorpion (1957)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4yvub9
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 * guys, get out of the way, that’s why you’re dying!
 * And then tragedy struck: we ran out of stock footage
@@ -16,7 +18,3 @@ category: movie_review
 * I got $20 that says the scorpion wins this one
 
 It’s a shame this movie is so boring because the stop motion scorpions look so good
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4yvub9)

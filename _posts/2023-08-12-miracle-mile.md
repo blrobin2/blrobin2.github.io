@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Miracle Mile (1988)"
 excerpt: "My review of Miracle Mile (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4GgPXF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Harry has met the perfect girl, Julie. When his alarm doesn't go off, he misses picking her up at the end of her shift at the coffee shop. He tries calling her on a pay phone but receives a call — "It's happening! This is the big one!" — followed by machine gun fire — "Forget what you heard. Go back to sleep."
 
@@ -26,7 +28,3 @@ The third act is where the movie tightens up, and the movie's message comes into
 * "Nuclear war. What a crock! Over what?"
 * Who walks fully nude through a gym? I guess the 80s were a different time
 * "Oh no!" billboard
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4GgPXF)

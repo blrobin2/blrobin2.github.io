@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dracula Has Risen from the Grave (1968)"
 excerpt: "My review of Dracula Has Risen from the Grave (1968)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9VdEvp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 48/52 | Hammer Horror</a></b>
 
@@ -31,7 +33,3 @@ Barbara Ewing is the proper star of this movie, giving us the most nuanced perfo
 The movie feels the absence of Peter Cushing, but it doesn't drag the film down too terribly. It's also the first without Terence Fisher directing. Freddie Francis does fine, bolstered, no doubt, by Hammer's in-house production team.
 
 As Hammer continued making films, they became less shy with the sexual innuendos and undertones. Dracula has always been horny, but they've never been this explicit about it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9VdEvp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Five Fingers of Death (1972)"
 excerpt: "My review of Five Fingers of Death (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/926Txr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 4/52 | Shaw Brothers</a></b>
 
@@ -27,7 +29,3 @@ This film was the first Hong Kong film to top the US box office, paving the way 
 I was surprised to learn that Shaw Brothers, a HK company, made movies primarily in Mandarin. Historically, however, this makes sense—their primary audience was the Nanyang (南洋) market, which spoke Mandarin. After the Chinese Civil War and the establishment of the PRC, this market relied entirely on HK for Mandarin films.
 
 Wang Chin-Feng.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/926Txr)

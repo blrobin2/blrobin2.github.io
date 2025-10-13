@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ninja Terminator (1985)"
 excerpt: "My review of Ninja Terminator (1985)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/6iqodl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 49/52 | Godfrey Ho</a></b>
 
@@ -27,7 +29,3 @@ Ninja Master Harry sends Jaguar Wong to protect Machiko. Baron and Harry suspect
 The script is incoherent. Part of this is Godfrey Ho’s filmmaking method. Ho would film footage to add to footage from existing movies to make a new story, usually involving ninjas. Over 50% of this movie is <i><a href="https://boxd.it/a3Le" rel="nofollow">The Uninvited Guest of the Star Ferry</a></i>.
 
 The Garfield phone is fucking iconic.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6iqodl)

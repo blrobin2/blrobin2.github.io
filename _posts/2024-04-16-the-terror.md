@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Terror (1963)"
 excerpt: "My review of The Terror (1963)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6hHQJT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 15/32 | Before 1970 6/6</a></b>
 
@@ -24,7 +26,3 @@ You could spend more time talking about the production of this movie over the mo
 The movie I saw was a mess. Corman made a version in the 90s that supposedly ties off the loose ends. Really, it exists so Corman could put a copyright on it.
 
 The movie’s sole redeeming quality is its fantastic Gothic vibes. But with no thread to tie it together, it’s exhausting to pay attention to.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6hHQJT)

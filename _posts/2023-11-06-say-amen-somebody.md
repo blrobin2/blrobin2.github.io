@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Say Amen, Somebody (1982)"
 excerpt: "My review of Say Amen, Somebody (1982)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/57iaPx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 8/52 | Black Music Films</b>
 
@@ -29,7 +31,3 @@ This is what documentary does best — it preserves history, gives it a story to
 But a story requires omission and manipulation. Nierenberg did so by setting up scenes and pushing folks to talk about contentious subjects. It's the practice at the heart of reality television. Still, this has truth at the heart of it that outshines the petty drama.
 
 "Jesus Dropped the Charges" is too catchy!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57iaPx)

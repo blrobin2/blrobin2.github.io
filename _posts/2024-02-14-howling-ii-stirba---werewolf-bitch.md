@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Howling II: Stirba - Werewolf Bitch (1985)"
 excerpt: "My review of Howling II: Stirba - Werewolf Bitch (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5Pf2Kz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 13/32 | 2nd film in franchise 5/7</a></b>
 
@@ -41,7 +43,3 @@ I wasn't a massive fan of the first Howling, only because it did very little wer
 * What are they pulling out of the priest's throat?
 * Christopher Lee makes "In the Name of God" sound so cool.
 * The credits have Stirba ripping off her top repeatedly — it's so silly.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Pf2Kz)

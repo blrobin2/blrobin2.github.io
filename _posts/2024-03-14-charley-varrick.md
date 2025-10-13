@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Charley Varrick (1973)"
 excerpt: "My review of Charley Varrick (1973)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/62P2Qh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 11/52 | Composer: Lalo Schifrin</a></b>
 
@@ -52,7 +54,3 @@ Lalo Schifrin's score doesn't always work for me. He swings from harsh tension f
 I don't know why I watched this before <i>Dirty Harry</i>. If it's anything like this movie, I'll watch it ASAP. Then again, I like Walter Matthau a lot more than Clint Eastwood.
 
 Overall, this was way more fun than I was expecting!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/62P2Qh)

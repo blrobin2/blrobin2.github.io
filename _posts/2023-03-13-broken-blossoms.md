@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Broken Blossoms (1919)"
 excerpt: "My review of Broken Blossoms (1919)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/3YuIPL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Seedy streets, a woman in trouble, and a man from overseas with a message of peace in his heart, and a hostile world in which to spread it
 
@@ -19,7 +21,3 @@ Richard Barthelmess seems to be following Gish’s lead in giving a quiet and su
 And only 1.5 hours long?
 
 A tragic love story, where love is first and foremost a refuge from the pain of the world
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3YuIPL)

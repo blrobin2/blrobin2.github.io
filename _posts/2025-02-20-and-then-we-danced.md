@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "And Then We Danced (2019)"
 excerpt: "My review of And Then We Danced (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8Tixjv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY">Anti-Criterion Challenge 2024 | 48/52 | Made in Georgia (Country)</a></b>
 
@@ -29,7 +31,3 @@ Georgian cursing hits hard! I gotta learn some so I can hack in someone's face w
 The scene with Robyn's <i>Honey</i> lives up to the hype. Also, I wish they hadn't cut so much in that final dance scene, but that dance goes hard.
 
 While the film is a little long and hits many familiar beats, the performances and setting create a meaningful experience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Tixjv)

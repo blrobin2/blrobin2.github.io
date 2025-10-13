@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Shin Godzilla (2016)"
 excerpt: "My review of Shin Godzilla (2016)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4Yj5bN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 12/34 | Distaster 2/2</b>
 
@@ -25,7 +27,3 @@ Once he started glowing pink, I got more on board — about an hour in — after
 This movie, being the third of the Shin films I've watched — after <i>Shin Ultraman</i> and <i>Shin Kamen Rider</i> — doesn't do it any favors, especially when <i>Shin Ultraman</i> was wall-to-wall monsters
 
 Still, I had a pleasant time watching this
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Yj5bN)

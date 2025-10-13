@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Tenant (1976)"
 excerpt: "My review of The Tenant (1976)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/62nWTl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 12/32 | film whose year ends in '6' 6/6 | decades 6/6 | 1970s</a></b>
 
@@ -23,7 +25,3 @@ Roman Polanski is an awful actor. I don't understand why he cast himself in the 
 The conceit doesn't justify the movie's length. This could have worked in an Amicus anthology. The movie is about as clever and competently constructed as one.
 
 Isabelle Adjani is a gem, so an extra half-star is for her.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/62nWTl)

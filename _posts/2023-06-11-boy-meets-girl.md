@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Boy Meets Girl (1994)"
 excerpt: "My review of Boy Meets Girl (1994)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4mlstH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 A woman brings a man home for a one-night stand, watches some porn, and sedates him. He wakes up tied to a dentist's chair. Why? I don’t know, really
 
@@ -25,7 +27,3 @@ If the movie were any good, I’d think about it more, but the film is so tediou
 * Jar of penises? Sure, why not
 * Does he recognize slugs and maggots by taste?
 * “God is dead. She died broken-hearted by her critics.”
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4mlstH)

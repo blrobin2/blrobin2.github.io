@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Road to Salina (1970)"
 excerpt: "My review of Road to Salina (1970)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4ggfG5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Rocky (Robert Walker Jr) drives off in a yellow convertible, leaving Mara (Rita Hayworth) at the gas station, crying in the pouring rain. His car dies, so he hitches a ride to the police station. Riding back with the cop, Rocky tells his story on the road to Salina. Or is it Jonas telling the story?
 
@@ -28,7 +30,3 @@ I ended up enjoying this a good bit. It’s nothing exceptional, but I was engro
 * Robert Walker Jr looks like Clint Eastwood’s stunt double
 * The lounge jazz version of <i>Bouree</i> is so funny
 * Wow, this is the first Rita Hayworth movie I have watched — I didn’t realize
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ggfG5)

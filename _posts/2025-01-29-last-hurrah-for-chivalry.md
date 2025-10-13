@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Last Hurrah for Chivalry (1979)"
 excerpt: "My review of Last Hurrah for Chivalry (1979)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8Et9H1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 48/52 | John Woo</a></b>
 
@@ -25,7 +27,3 @@ Here, we see several of Woo's preferences: a heroic duo, high body counts, and g
 With so many fight sequences, several have fun set pieces to help them stand out. For example, Tsing Yi is an avid wine drinker, drinking from a pot of wine while taking out a hoard of men. In another fight, Chang San holds a flag to block hits from his opponent, and the flag gets shorter as the fight continues.
 
 Though Woo's hypermasculine (see homoerotic) take on wuxia loses some of what I enjoy about the genre, I still appreciate the inventive craftwork here and had a lot of fun.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Et9H1)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Shaky Shivers (2022)"
 excerpt: "My review of Shaky Shivers (2022)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/55t2i5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X">Hooptober X</a> | 34/34 | Bonus 3/3</b>
 
@@ -23,7 +25,3 @@ Sung Kang, known for his role as Han in the Fast & Furious movies, directed the 
 Brooke Markham and VyVy Nguyen have good friendship chemistry. The characters’s shared history allows them to draw on that past to move the plot forward and keep it (somewhat) believable.
 
 This isn't a great movie, but it's watchable.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/55t2i5)

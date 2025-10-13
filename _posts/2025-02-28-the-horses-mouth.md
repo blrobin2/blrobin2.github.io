@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Horse's Mouth (1958)"
 excerpt: "My review of The Horse's Mouth (1958)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8Ydqqz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 34/52 | Alan Arkin's Top 10</a></b>
 
@@ -19,7 +21,3 @@ Alec Guinness wrote the screenplay, based on an Irish novel of the same name, wi
 I'm not saying the movie isn't funny, only that it goes to great lengths to arrive there and only occasionally. The film hits on something I felt while in art school: to be an artist is, in one way or another, to be an extortionist. You cannot merely create something—somebody must buy it, and the artist's character sells the art just as much as the art itself.
 
 I appreciate the film's intentions and always enjoy Guinness—even his worst performance still has its charm. However, unless you are nostalgic for a particular style of British humor, I'd say skip this one.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Ydqqz)

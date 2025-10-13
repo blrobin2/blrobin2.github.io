@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Witchhammer (1970)"
 excerpt: "My review of Witchhammer (1970)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5zhkIr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 11/34 | Folk Horror 2/2</a></b>
 
@@ -49,7 +51,3 @@ This movie escalates brilliantly in its intensity. It's infuriating because I've
 But it's enough. In black and white, the gore is more believable.
 
 This film is one of the best depictions of the witch trials I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5zhkIr)

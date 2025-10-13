@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Puppet Master (1989)"
 excerpt: "My review of Puppet Master (1989)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5CAYn9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures">Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures</a></b>
 
@@ -44,7 +46,3 @@ While not my favorite killer toy movie — that's still <i>Dolls (1987)</i> — 
 * Oh, I guess they serve a master? But then they change their mind because he said something negative about them?
 * "Open that door, you fucking little cretin."
 * Hehehe Leroy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CAYn9)

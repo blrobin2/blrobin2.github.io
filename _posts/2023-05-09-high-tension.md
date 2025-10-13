@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "High Tension (2003)"
 excerpt: "My review of High Tension (2003)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4e2JyT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I saw Aja’s remake of <i>The Hills Have Eyes</i> in high school, and it was the first time I had seen a movie that violent — the first half felt so over-the-top I couldn’t process what I was experiencing — and the first time I felt that sense of vindication and cheering for violence during the second-half revenge. I anticipated something akin to that in this movie
 
@@ -21,7 +23,3 @@ Is it gory? Yeah, dude, it’s gory. Is it sub-90 minutes? Hell yeah, it is. Is 
 
 <b>***SPOILERS***</b>
 If the opening dream sequence isn’t a dead giveaway, there is a twist that… doesn’t work. Logistically, it doesn’t make any sense. The filmmakers would be better off just letting it be some dude and sticking closer to the revenge film formula instead of trying to upturn it as carelessly as this
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4e2JyT)

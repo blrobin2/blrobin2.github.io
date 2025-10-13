@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Band Wagon (1953)"
 excerpt: "My review of The Band Wagon (1953)"
+rating: ""
+letterboxd_url: https://boxd.it/5icKyz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 I feel like I'm missing something.
 
@@ -21,7 +23,3 @@ The dancing is incredible, and they pull off some memorable stuff there. But the
 I feel like I watched a spoof on something I haven't seen. Did I?
 
 I had to watch "No Dames" from <i>Hail, Caesar</i> as a palette cleanser.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5icKyz)

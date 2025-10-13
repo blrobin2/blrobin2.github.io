@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Sadness (2021)"
 excerpt: "My review of The Sadness (2021)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6PQkbT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 7/31 | Countries 2/5 | Taiwan</a></b>
 
@@ -31,7 +33,3 @@ In that way, this film comes across as quite misanthropic — who can you trust 
 The score also hits pretty hard, opting to only go big at pivotal moments.
 
 Plenty of people believe that the organizing principles of civilization are the only things keeping people from raping and killing as they please. This movie shows that it wouldn’t take much to fall apart. Things are pretty shit, but not THIS shit.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6PQkbT)

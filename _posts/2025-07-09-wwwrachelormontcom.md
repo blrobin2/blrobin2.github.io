@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "www.RachelOrmont.com (2024)"
 excerpt: "My review of www.RachelOrmont.com (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/agw8uh
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <blockquote><i>I've never loved anyone the way I've loved myself.</i></blockquote>
 
@@ -27,7 +29,3 @@ The film seems to be all about how we are targets of an endless parade of advert
 While it doesn't succeed at what it's setting out to do, it's a big swing of a movie that I find difficult to hate. I could see this film's target audience loving it.
 
 I'm not going to look at a computer or phone ever again, starting…
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/agw8uh)

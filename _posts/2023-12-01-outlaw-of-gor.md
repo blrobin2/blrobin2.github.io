@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Outlaw of Gor (1988)"
 excerpt: "My review of Outlaw of Gor (1988)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5ftVhh
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 This episode won a Peabody Award? It is the first good Mike episode
 
@@ -29,7 +31,3 @@ Mike's acting portfolio where he's always in a sailor suit is so funny
 * You can't kill me, I quit!
 * Look, his eyeball comes right out
 * I've come to chew bubblegum and kick ass, and I'm out of ass
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ftVhh)

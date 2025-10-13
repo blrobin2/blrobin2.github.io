@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bad Seed (1956)"
 excerpt: "My review of The Bad Seed (1956)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/3Z3u7b
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Our introduction to the family has major <i>Leave It to Beaver</i> vibes — wholesome and unassuming. “By gum, I’ll try!” Gee whiz
 
@@ -27,7 +29,3 @@ This movie fucked me up! It doesn’t hold punches, and it doesn’t relent
 * The scenes with Claude’s mother are devastating, she’s so lost and heartbroken
 * The credits are voiced and the actors step out, like it’s a stage play. I guess to show that the actors actually like each other
 * Another movie with a card at the end asking people not to spoil it! Very neat
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3Z3u7b)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Strange Possession of Mrs. Oliver (1977)"
 excerpt: "My review of The Strange Possession of Mrs. Oliver (1977)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4QPk9p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Written by horror regular Richard Matheson, the movie begins with visions of a house on fire. We then see Miriam (Karen Black) and her husband, Greg (George Hamilton), on their way to a funeral. They walk down the aisle to the casket, Miriam desperate to turn around. The walk takes ages and ages before Miriam sees Greg is not Greg. He walks over to open the casket, and Miriam sees herself in it
 
@@ -20,7 +22,3 @@ You can read the film as a queer/trans allegory — Miriam feels like she isn't 
 <blockquote><i>it just isn't you</i></blockquote>Nevertheless, everything inside her tells her that she must change, and each one feels more natural as if she is remembering who she is supposed to be
 
 I love Karen Black, and I hate how difficult it has been to find her movies. Several of them are made-for-tv movies, including this one, but they are still pretty great
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4QPk9p)

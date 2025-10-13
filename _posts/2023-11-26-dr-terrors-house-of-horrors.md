@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Terror's House of Horrors (1965)"
 excerpt: "My review of Dr. Terror's House of Horrors (1965)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5dBFc9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail" rel="nofollow">Hooptober 9.0</a> | 27/34 | Christopher Lee films 2/2 | Decades 8/8 | 1960s</b>
 
@@ -55,7 +57,3 @@ The Amicus anthology that started it all. Peter Cushing is perfect as the creepy
 The actor's commitment, rather than the stories, drives most successes in Amicus collections. Though this tried to copy the success of Dead of Night, it didn't hit the mark.
 
 Still, any horror anthology watcher knows that a middle-of-the-road collection is a high watermark.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5dBFc9)

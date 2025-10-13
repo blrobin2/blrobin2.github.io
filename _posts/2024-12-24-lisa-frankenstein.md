@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lisa Frankenstein (2024)"
 excerpt: "My review of Lisa Frankenstein (2024)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/88u6yT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 When in Rome's <i>The Promise</i> introduces us to Lisa creating tombstone rubbings in Bachelor's Grove. Later, we watch her get ready for a party. Hairspray, tanning bed, and blush blindness — it's 1989, baby.
 
@@ -38,8 +40,3 @@ That said, this movie has so much heart—this scratches an itch that I can't de
 * — "You know what song she's putting in that jukebox." — "[Tearfully nodding] Kokomo"
 * How did this PG-13 movie get a silhouette of a dismembered penis pass the censors?
 * Nooooo, don't talk Cole Sprouse!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/88u6yT)

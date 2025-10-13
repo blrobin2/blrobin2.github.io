@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "For Your Eyes Only (1981)"
 excerpt: "My review of For Your Eyes Only (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5qBBCp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -30,7 +32,3 @@ category: movie_review
 * I never get tired of watching dummies fall from high places. Almost serene
 * Bond throwing the Maguffin off the cliff!
 * Parrot flirting with Margaret Thatcher surrogate. This is hell
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5qBBCp)

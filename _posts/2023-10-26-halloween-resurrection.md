@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween: Resurrection (2002)"
 excerpt: "My review of Halloween: Resurrection (2002)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/53oCPV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
 
@@ -27,7 +29,3 @@ Katee Sackhoff shows up just before her <i>Battlestar Galactica</i> gig. I wish 
 Moustapha Akkad inserted a clause that prevented Michael from being killed off. Jamie Lee Curtis negotiated to have <i>H20</i> at least appear as though Michael died and that she dies as soon as possible in the sequel. She knew we could throw this one away.
 
 <blockquote><i>Trick or treat, mother fucker</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53oCPV)

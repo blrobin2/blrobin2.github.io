@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Minion (1998)"
 excerpt: "My review of The Minion (1998)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/aDrPDj
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Woo doggy, this script is amazingly clunky. The film has a fun premise, but the structure and dialogue are messy.
 
@@ -25,8 +27,3 @@ TECHNICALLY, this is a Christmas movie.
 * You're the Cleveland Browns of evil!
 * — Don't tempt me, demon! — That's what I say when the waiter brings the dessert menu.
 * I'm a carving of Terry O'Quinn now.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aDrPDj)

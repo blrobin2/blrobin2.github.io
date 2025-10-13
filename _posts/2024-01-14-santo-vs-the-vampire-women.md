@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santo vs. the Vampire Women (1962)"
 excerpt: "My review of Santo vs. the Vampire Women (1962)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5AxeVv
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 TV's Frank's last episode :(
 
@@ -29,7 +31,3 @@ I watched <i>Cassandro</i> recently, which is about Luchador wrestling, so Santo
 * keystone vampires
 * Hey, wrestling!
 * You wanna untie me real quick before you die?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5AxeVv)

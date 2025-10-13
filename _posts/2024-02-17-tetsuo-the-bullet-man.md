@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tetsuo: The Bullet Man (2009)"
 excerpt: "My review of Tetsuo: The Bullet Man (2009)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5Qu6Tp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 16/32 | Body Horror 2/4</a></b>
 
@@ -19,7 +21,3 @@ The man seems to change. Water and static shoot from around him. Yadda yadda yad
 The digital artifacts and terrible lighting make the movie look cheap. The audio is poorly mixed, so all the whispered lines are impossible to understand under the abrasive soundtrack. Where a wild visual effect should be, the camera shakes a bunch.
 
 The only thing this has going for the film is the Nine Inch Nails song in the credits. Otherwise, it feels like a total retread of the previous movie, but worse. I don't get who this is for.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Qu6Tp)

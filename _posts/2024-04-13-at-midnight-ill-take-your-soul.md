@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "At Midnight I'll Take Your Soul (1964)"
 excerpt: "My review of At Midnight I'll Take Your Soul (1964)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6gjkZN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 12/32 | Before 1970 3/6</a></b>
 
@@ -23,7 +25,3 @@ Terezinha refuses him, driving him into a frenzy. He murders Lenita and gets awa
 This film is brutal! Coffin Joe is cutting off fingers, whipping bar patrons bloody.
 
 The movie is also low-budget exploitation. Are you looking for subtlety or good acting? Prepare for disappointment. But if you can accept the film on its terms, it’s a classic for a reason.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6gjkZN)

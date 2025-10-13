@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Polyester (1981)"
 excerpt: "My review of Polyester (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4lilp9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 God I’ll never get over Baltimore accents, they’re so good. Did John Waters invent smell-o-vision?
 
@@ -16,7 +18,3 @@ God I’ll never get over Baltimore accents, they’re so good. Did John Waters 
 * “Oh Francine, there might be a god, everything is so beautiful!”
 * "Gee, Francine! You're the most drinkin'est gal I know!"
 * “Let me kiss away your DTs honey”
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4lilp9)

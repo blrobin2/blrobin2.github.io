@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "God Told Me To (1976)"
 excerpt: "My review of God Told Me To (1976)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6631gx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 36/52 | USA Up All Night</a></b>
 
@@ -33,7 +35,3 @@ This film is the first great movie I've seen by Larry Cohen. He's always been un
 
 <b>*** SPOILERS ***</b>
 This is a superior <i>Scanners</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6631gx)

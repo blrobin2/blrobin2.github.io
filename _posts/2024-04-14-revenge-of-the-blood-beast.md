@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Revenge of The Blood Beast (1966)"
 excerpt: "My review of Revenge of The Blood Beast (1966)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6gJqEj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 13/32 | Before 1970 4/6</a></b>
 
@@ -30,7 +32,3 @@ I’m furious that no one told me this is a comedy! It’s not a funny comedy �
 Ladislav Groperis is such a gross character, and I don’t know what purpose he serves. He peeps on Veronica and Phillip having sex, and he rapes his niece because she’s scared.
 
 I don’t know, this movie sucks! I wish I watched it ages ago and forgot about it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6gJqEj)

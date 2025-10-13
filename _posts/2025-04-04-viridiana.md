@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Viridiana (1961)"
 excerpt: "My review of Viridiana (1961)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9jhpVN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 27/52 | Made in Mexico</a></b>
 
@@ -29,7 +31,3 @@ Similarly, Viridiana wishes to help a group of beggars by offering them a place 
 In this way, Viridiana and Jorge both represent shortsightedness. Jorge is only concerned with his own material interests and finds it foolish to care about anyone else's needs but his own. Viridiana is doing a good deed, but all while living alongside Jorge. It is like a shantytown next to a renovated downtown center—who does this help?
 
 Some people read the film to suggest that you should never show charity to anyone because people are animals. While I can certainly see that perspective, I think it misses the movie in total. This movie is one I'll have to revisit and consider more because I still feel like I only scratched the surface.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9jhpVN)

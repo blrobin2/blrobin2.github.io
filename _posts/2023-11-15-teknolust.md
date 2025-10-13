@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Teknolust (2002)"
 excerpt: "My review of Teknolust (2002)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5acMRr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Babe, I'm throwing some jizz in the kettle — you want some?</b>
 
@@ -35,7 +37,3 @@ Despite appearances, this movie is also pretty funny and intentionally so. It le
 The biggest problem I have with the movie is the script. Lynn Hershman-Leeson's dialogue and characters are so flat and clunky. The movie might be more successful with a little less earnestness. But then she would lose her message about love being love, AI or otherwise.
 
 Despite its flaws, this ambitious movie still made me laugh.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5acMRr)

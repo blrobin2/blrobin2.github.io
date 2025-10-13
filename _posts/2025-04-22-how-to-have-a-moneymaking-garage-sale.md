@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "How to Have a Moneymaking Garage Sale (1987)"
 excerpt: "My review of How to Have a Moneymaking Garage Sale (1987)"
+rating: ""
+letterboxd_url: https://boxd.it/9u02Pd
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 This is another Bridget Jones Nelson (Mike's wife) and Mary Jo Pehl riff.
 
@@ -18,7 +20,3 @@ So far, I've seen this and <i>A Bug's Life</i>, which features Phyllis Diller. Y
 * Will you turn that music down? It's copyrighted!
 * — Garage sale time! — Please set us free!
 * You may not always get the price you ask for, but ask it. You have to tell the universe what you want!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9u02Pd)

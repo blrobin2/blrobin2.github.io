@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lady Mobster (1988)"
 excerpt: "My review of Lady Mobster (1988)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/b3YLdB
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Mary Jo Pehl and Bridget Jones Nelson riff on this one.
 
@@ -21,7 +23,3 @@ This movie is daytime step-bro porn.
 * Today, I am a more reasonable man. I quit caffeine.
 * Robert, you're getting the room keycard wet!
 * Did I file it under L for Lady, or M for Mobster?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b3YLdB)

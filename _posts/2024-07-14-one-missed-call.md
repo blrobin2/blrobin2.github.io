@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "One Missed Call (2003)"
 excerpt: "My review of One Missed Call (2003)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6S4pbb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 13/31 | Takashi Miike 3/5</a></b>
 
@@ -25,7 +27,3 @@ Hideo Yamamoto has been Miike’s cinematographer for his best-looking movies. T
 About halfway through is a live broadcast about the occurrences. It has Late Night With the Devil vibes and brings a brief jolt of life to the movie. The movie would be a blast if it kept up that baroque insanity.
 
 I don’t care about the story feeling derivative of <i>Ringu</i> or <i>Pulse</i>. I care that it’s way too long and boring as hell.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6S4pbb)

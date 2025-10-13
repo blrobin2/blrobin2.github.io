@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Girl in Gold Boots (1968)"
 excerpt: "My review of Girl in Gold Boots (1968)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6ajU1v
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Sci-Fi enforced an overarching plot on this season in a desperate attempt to draw in viewers. The writers knew that no one watched the episodes in order or remotely close to each other but were at the network's mercy.
 
@@ -24,7 +26,3 @@ The movie's "continuity problems" were almost entirely the fault of <i>MST3K</i>
 * I reproduced asexually while I was out, sir
 * I'm sure you know whats wrong with her Leo.  You used to be on staff at the Mayo Clinic
 * Nobody is calling a doctor. I'm a Christian Scientist
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ajU1v)

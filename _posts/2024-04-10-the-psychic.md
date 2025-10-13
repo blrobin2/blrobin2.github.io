@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Psychic (1977)"
 excerpt: "My review of The Psychic (1977)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6fjA5n
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 44/52 | Lucio Fulci</a></b>
 
@@ -41,7 +43,3 @@ I wish I found this as fun as others do. I like it, but it's not a movie I would
 * A guy hangs up without saying goodbye, and the person on the other says, "Hello? Hello?" It wasn't always a movie trope, I suppose.
 * The movie hits us over the head with, "You saw into the future."
 * — "Let me see your license, senore." — "No, so frig you." [speeds off]
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6fjA5n)

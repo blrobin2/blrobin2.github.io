@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Dazed and Confused (1993)"
 excerpt: "My review of Dazed and Confused (1993)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/43nX7l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 4/5
-
 These boys sure like butts
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/43nX7l)

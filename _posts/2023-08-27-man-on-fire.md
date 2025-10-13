@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Man on Fire (2004)"
 excerpt: "My review of Man on Fire (2004)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4L1BNL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Watching for a podcast
 
@@ -27,7 +29,3 @@ I didn't go into this with high hopes, but I ended up enjoying this more than I 
 * I hope Dakota Fanning is in therapy
 * Shooting a shotgun in the air at a rave seems dangerous
 * The bomb in the guy's ass takes the movie to exploitation territory — you strapped him to a car — you couldn't put the bomb in the car?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4L1BNL)

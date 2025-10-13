@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Bat Woman (1968)"
 excerpt: "My review of The Bat Woman (1968)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6FJ0s7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Emily episode! She learns she's part bot, so she has a bot-mitzvah. It had a cold open — the first of the series??
 
@@ -22,7 +24,3 @@ I have been dying to watch this movie since I saw it on the roster. Dame copyrig
 * Pork chop sandwiches!
 * Be a doll and make me a creatine and everclear
 * Dreaming she's the statue of liberty
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6FJ0s7)

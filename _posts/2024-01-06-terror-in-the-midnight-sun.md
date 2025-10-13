@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Terror in the Midnight Sun (1959)"
 excerpt: "My review of Terror in the Midnight Sun (1959)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5vlYzV
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden">Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden</a></b>
 
@@ -26,7 +28,3 @@ It's not like I could follow this plot anyway.
 * The audience demands a lot more skiing!
 * The movie discovered editing?? Where were you when we needed you, editing?
 * The reindeer are barking up a storm
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5vlYzV)

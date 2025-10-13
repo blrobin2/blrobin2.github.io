@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Blood Spattered Bride (1972)"
 excerpt: "My review of The Blood Spattered Bride (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4eenj7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 The template for the majority of psychological horror movies — especially those in which dreams/visions invade someone’s reality — lies in this film (not that it invented anything, just that it exemplifies that formula)
 
@@ -23,7 +25,3 @@ Cool movie! It has a bit of a lull before the third act, but nothing heinous
 
 <b>*** SPOILERS***</b>
 Towards the end, some imagery evokes the husband as the state trying to shut down a rebellion — the way the girl in the red shirt puts her head down, hands outstretched, as he shoots her in the back of the head. Maybe talking out of my ass, though
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4eenj7)

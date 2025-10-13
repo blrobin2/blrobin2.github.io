@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Breaking the Waves (1996)"
 excerpt: "My review of Breaking the Waves (1996)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5b0GnZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 19/52 | Faith on Film</b> 
 
@@ -33,7 +35,3 @@ Lars Von Trier did everything he could to reduce the character of Bess to someon
 Lars Von Trier’s dedication to misery only works every so often. This time works because it answers its questions with a redemptive irony.
 
 Good lord, what an ending!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5b0GnZ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Witches (1990)"
 excerpt: "My review of The Witches (1990)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8VSuiT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 9/52 | Horror Hotel</a></b>
 
@@ -31,7 +33,3 @@ Rowan Atkinson is perfect as the uptight hotel manager. I imagine his performanc
 I can see how this movie influenced Danny DeVito's adaptation of <i>Matilda</i>. The cinematography reminds me of Czapsky's more playful stuff.
 
 What a riot, but what a disappointing ending! I would've loved this as a kid. Or it would've given me endless nightmares.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8VSuiT)

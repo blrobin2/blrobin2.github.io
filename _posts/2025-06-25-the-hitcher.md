@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hitcher (1986)"
 excerpt: "My review of The Hitcher (1986)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/a6Ql5f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 26/52 | Sweaty Horror</a></b>
 
@@ -31,7 +33,3 @@ The film boasts numerous visual spectacles, particularly for those who enjoy car
 I'm open to more surreal interpretations of this film. I'm also open to the possibility that this may not be a very good movie. From what I've read, it would be easy to blame studio execs, who chopped this movie to bits to avoid making a straight horror movie.
 
 It's a bit gay, though!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a6Ql5f)

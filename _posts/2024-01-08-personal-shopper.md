@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Personal Shopper (2016)"
 excerpt: "My review of Personal Shopper (2016)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5x5afH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Maureen (Kristen Stewart) is a personal shopper and medium living in Paris. She hates her job but feels like she cannot move forward until she receives a sign from her brother, Lewis.
 
@@ -25,7 +27,3 @@ Kristen Stewart performs incredibly, creating a complicated human with tics and 
 I loved this! The cinematography was captivating. The story wound around and kept me engaged from start to finish. I initially thought the movie could have ended earlier, but the actual ending was perfect.
 
 While I've enjoyed everything I've seen from Assayas, this has been my favorite.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5x5afH)

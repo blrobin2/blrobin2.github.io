@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Charli XCX: Alone Together (2021)"
 excerpt: "My review of Charli XCX: Alone Together (2021)"
+rating: ""
+letterboxd_url: https://boxd.it/3w9UGR
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 Bo Burnham’s “Inside”, but good
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3w9UGR)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Race with the Devil (1975)"
 excerpt: "My review of Race with the Devil (1975)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/alRrJH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 28/52 | Horror in the Desert</a></b>
 
@@ -32,7 +34,3 @@ I wouldn't say the ending saves it, but it emphasizes that this film is about sp
 * The motorcycle races aren't terribly exciting, probably because the actors are actually riding them.
 * I'm not sure if the movie itself is censored or just the version I found, but it was unusual.
 * The Kraft Mac-n-Cheese jump scare.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/alRrJH)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Cannibal Man (1972)"
 excerpt: "My review of The Cannibal Man (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5tIecf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 2/34 | Countries 2/6 | Spain</a></b>
 
@@ -59,7 +61,3 @@ Also, Marcos becomes the slaughterhouse, killing with little regard for the cons
 The murder scenes are visceral. They are likely why several countries banned this movie and why the UK put it on their Video Nasties list. But this film is closer to Pasolini than it is to Deodato.
 
 While a flawed movie, this strange blend of slasher and art-house is surprising and more complex than its promotional material suggests.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5tIecf)

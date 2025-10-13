@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Be My Cat: A Film for Anne (2015)"
 excerpt: "My review of Be My Cat: A Film for Anne (2015)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6a8bUN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 40/52 | Troma</a></b>
 
@@ -36,7 +38,3 @@ The intro statement is correct — Țofei captured 25 hours of footage, 10 in gu
 Like <i>The Blair Witch Project</i>, this is a film that people have and will continue to repeat. Once the audience is in on it, the mystique is gone. But the quality of this filmmaking stands.
 
 I don't think this film is as successful as <i>The Blair Witch Project</i> because no matter how meta it gets, we know it's a film. No one can recreate that deception.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6a8bUN)

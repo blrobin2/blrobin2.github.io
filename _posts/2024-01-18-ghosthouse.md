@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ghosthouse (1988)"
 excerpt: "My review of Ghosthouse (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5CqMHr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail#item-3630807378" rel="nofollow">Hooptober 8.0 | 16/34 | From birth year 1/2</a></b>
 
@@ -76,7 +78,3 @@ Still, this is a blast.
 * "Maybe we never should have come here — this house is weird!"
 * "The simple fact that the computer doesn't know proves I'm right."
 * "Listen, people just wanna be reassured. Believe me. I mean, they don't wanna know about ghosts and curses and whatnot."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CqMHr)

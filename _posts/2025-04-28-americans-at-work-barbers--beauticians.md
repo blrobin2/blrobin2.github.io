@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Americans at Work: Barbers & Beauticians (1969)"
 excerpt: "My review of Americans at Work: Barbers & Beauticians (1969)"
+rating: ""
+letterboxd_url: https://boxd.it/9xEv8f
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>From Rifftrax Live: MST3K Reunion</b>
 
@@ -17,7 +19,3 @@ Jonah Ray and Joel Hodgson riffing
 * So when you see a woman on the street, be sure to give her a shrill whistle and tell her to smile!
 * Alright, it's your turn again.
 * — Can I have a smoke, Dad? — You mean, "May I have a smoke?" And sure!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xEv8f)

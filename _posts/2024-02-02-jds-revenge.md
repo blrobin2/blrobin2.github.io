@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "J.D.'s Revenge (1976)"
 excerpt: "My review of J.D.'s Revenge (1976)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5JOvOL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 32/34 | Bonus 1/3</a></b>
 
@@ -44,7 +46,3 @@ This film is flawed and deeply fucked up, but everyone is fully committed to the
 * Oh fuck, why does that guy keep jumping after JD when JD keeps slicing him with the razor??
 * Elijah's crisis of faith is so heavy!
 * After all that, they all walk away laughing?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5JOvOL)

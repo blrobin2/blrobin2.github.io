@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dry Summer (1963)"
 excerpt: "My review of Dry Summer (1963)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8Yovut
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2024 | 8/52 | Middle Eastern Films</a></b>
 
@@ -29,8 +31,3 @@ My biggest complaint about the movie is the number of scenes with nearly identic
 It's worth mentioning that this film depicts actual animal deaths. Osman cuts off a chicken's head. Also, someone shoots and kills a dog, and we see the bloodied body multiple times. Both scenes are graphic, so be warned.
 
 Though this film received a Golden Bear and had a brief run in the US, the Turkish Ministry of Interior's film censorship board banned it for its "negative images of Turkish society." We can watch a restored version thanks to filmmaker Fatih Akin, who brought this film to the World Cinema Foundation's attention.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Yovut)

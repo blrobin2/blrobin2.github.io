@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Frankenstein General Hospital (1988)"
 excerpt: "My review of Frankenstein General Hospital (1988)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/8zdVZl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 11</a></b>
 
@@ -23,7 +25,3 @@ This movie is so silly. It rides that line of amusing and groan-inducing that I 
 Director Deborah Romare (operating under one of her many aliases, Deborah Roberts) has worked alongside several big names as a producer. Between this and [reads card] <i>Patients</i>, however, she didn't make much of an impact as a director.
 
 Yet, here I am, in the year of our lord 2025, watching this dumb comedy! Put yourself in your preferred state of intoxication and give it a whirl.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8zdVZl)

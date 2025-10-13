@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Monsters Crash the Pajama Party (1965)"
 excerpt: "My review of Monsters Crash the Pajama Party (1965)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/5fuwBN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <blockquote><i>— Igor likes sex!
 </i><i>— Yeah, we know.</i></blockquote>A guy with a robe labeled "Mad Doctor" warns the audience about shadows.
@@ -29,7 +31,3 @@ The movie is supposed to be funny — cue [wonky instrumental music]. I laughed 
 They made the movie to be played in front of a crowd, as there's some audience interaction and a scene where the henchmen run offscreen and abduct an audience member.
 
 It's a cheap oddity that doesn't do anything particularly well.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fuwBN)

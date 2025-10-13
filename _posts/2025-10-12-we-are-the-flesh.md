@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: review
 title: "We Are the Flesh (2016)"
 excerpt: "My review of We Are the Flesh (2016)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/blWNKv
 category: movie_review
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober 12 | 12/31 | Mexican Director</a></b>
 
@@ -23,7 +23,3 @@ There is something political in the way they shared in singing the national anth
 Something about how the grind to survive creates monsters in all of us? Or the boredom of fascism always leads to "defiling the flesh"? Or is it merely #theDirectorsBarelyConcealedFetish?
 
 It's hard to analyze something that's so brazenly confrontational. I can appreciate a grotesque allegory, but I appreciate it more when it adds up to something beyond mere despair.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/blWNKv)

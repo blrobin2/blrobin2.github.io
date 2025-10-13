@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gestapo's Last Orgy (1977)"
 excerpt: "My review of Gestapo's Last Orgy (1977)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6QewCF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 28/52 | Nazisploitation</a></b>
 
@@ -27,7 +29,3 @@ From a filmmaking perspective, the film is well-assembled, with selective cuts a
 Daniela Poggi has since voiced her regret for being in this movie, citing being young and pressured by her team. This remains one of her most popular films, as most of her work never broke out of Italy.
 
 Let me be clear: this is a supremely fucked up movie. Don't bother.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QewCF)

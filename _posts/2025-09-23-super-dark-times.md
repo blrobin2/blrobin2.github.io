@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Super Dark Times (2017)"
 excerpt: "My review of Super Dark Times (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/b9sX5p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 39/52 | Fall Horror</a></b>
 
@@ -31,8 +33,3 @@ The movie kicks back into gear for the third act to give us some necessary tensi
 * The movie does a good job of making the katana feel dangerous. 
 * No boys in 1996 were touching each other's cheeks as much as Josh and Zach do each other.
 * Also, no Macarena anywhere?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b9sX5p)

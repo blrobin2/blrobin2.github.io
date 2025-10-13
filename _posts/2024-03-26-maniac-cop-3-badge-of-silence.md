@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Maniac Cop 3: Badge of Silence (1992)"
 excerpt: "My review of Maniac Cop 3: Badge of Silence (1992)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/68vysb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 25/32 | Larry Cohen</a></b>
 
@@ -23,7 +25,3 @@ Robert Forster showing up was a delightful surprise. He's on screen for, like, s
 Lustig's a good director, and there is an entertaining movie buried in here.
 
 The third act is the best part, with the flaming bride of Maniac Cop and the overlapping gun sound effects. And when Caitlin Dulany screamed, "I hate this!" And when she looks lovingly at Robert Davi as he lights a cigarette with a severed hand.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/68vysb)

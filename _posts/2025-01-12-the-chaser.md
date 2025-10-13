@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Chaser (2008)"
 excerpt: "My review of The Chaser (2008)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8qAuJP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 18/35 | Countries 3/5 | South Korea</a></b>
 
@@ -21,7 +23,3 @@ Like <i>Memories of Murder</i>, the film deals with police incompetence. In some
 The filmmaking complements this incompetence, letting the camera roll throughout the struggle. The resulting tension is more effective (and frustrating) than your traditional crime thriller. The closest comparison would be <i>The Nice Guys</i> or a Coen Brothers movie. But way bleaker. 
 
 I've watched a fair number of South Korean crime thrillers — this one stands out by playing deftly with genre conventions without straying too far from what makes them compelling.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8qAuJP)

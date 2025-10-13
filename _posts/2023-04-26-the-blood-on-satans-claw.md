@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Blood on Satan's Claw (1971)"
 excerpt: "My review of The Blood on Satan's Claw (1971)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4avDCH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Well, this certainly paints witchcraft in a negative light. It gets all muddled up with Satan worship, with the floral crowns and whatnot giving it all a pagan feel
 
@@ -21,7 +23,3 @@ I like the idea of satanism being a disease that affects the body and compels yo
 The soundtrack oscillates between foreboding and whimsical, so some scenes feel goofy as a result
 
 It meanders a bit, but it has some good moments throughout
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4avDCH)

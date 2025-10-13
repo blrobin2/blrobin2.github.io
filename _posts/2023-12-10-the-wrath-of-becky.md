@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wrath of Becky (2023)"
 excerpt: "My review of The Wrath of Becky (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5ipUeP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Becky has been running away from foster home after foster home. Two years later, she remains off the grid, working as a waitress in a diner and training herself in self-defense and parkour.
 
@@ -21,7 +23,3 @@ Unlike the first movie, the villains don’t speak in vague racial purity terms,
 The kills are pretty good, but too few. The choreography is clumsy but not heinous.
 
 I had reservations about this sequel, but the news of another coming piqued my interest.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ipUeP)

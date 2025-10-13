@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Thriller: A Cruel Picture (1973)"
 excerpt: "My review of Thriller: A Cruel Picture (1973)"
+rating: ""
+letterboxd_url: https://boxd.it/4AgFpz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Madeleine (Christina Lindberg) was sexually assaulted as a child, leaving her psychosomatically mute
 
@@ -25,7 +27,3 @@ That said, this isn't a very exciting movie to watch. Despite all the pieces bei
 What does stand out is the iconic Christina Linberg with her eye patch, leather jacket, and sawn-off shotgun, mowing down baddies
 
 I have no idea how to rate this. I'll have to think about it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4AgFpz)

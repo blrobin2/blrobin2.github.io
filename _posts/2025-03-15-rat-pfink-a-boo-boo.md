@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rat Pfink a Boo Boo (1966)"
 excerpt: "My review of Rat Pfink a Boo Boo (1966)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/97Gibv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 8/52 | Ray Dennis Steckler</a></b>
 
@@ -23,7 +25,3 @@ The only time I've watched a Ray Dennis Steckler movie was through MST3K, and I 
 There were several moments in the movie when I thought, "Man if I could see what was going on, this might look pretty cool."
 
 This movie is almost impossible to hate. It isn't well-made, but it has such a wild energy.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/97Gibv)

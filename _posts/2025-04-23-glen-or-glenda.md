@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Glen or Glenda (1953)"
 excerpt: "My review of Glen or Glenda (1953)"
+rating: ""
+letterboxd_url: https://boxd.it/9uuy3F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 30/52 | Psychotronic Encyclopedia</a></b>
 
@@ -29,7 +31,3 @@ Bela Lugosi's presence here is sweeter than in his other performances. He has no
 The best part of the movie is the dream sequence. Yes, it has all the footage that the producers injected of whipping and sadomasochism. Still, it also has Glenda reckoning with her identity by meeting several trans people and fellow cross-dressers.
 
 Still, Ed Wood's moviemaking is so singular that, for all its failures and misgivings, it remains compelling, making it a perfect 'good-bad' movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9uuy3F)

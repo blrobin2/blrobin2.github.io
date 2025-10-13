@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House That Screamed (1969)"
 excerpt: "My review of The House That Screamed (1969)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/93QSdV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 5/52 | Giallo</a></b>
 
@@ -19,7 +21,3 @@ The film has some palpable symbolism that gives some of the darker moments an al
 The cinematography and lighting are so eloquent and considered. The score's haunted groans felt like Colin Steton's work for horror movies.
 
 We put this movie on, thinking it would be a silly exploitation flick. Instead, we watched a tense, beautifully rendered, Bava-coded thriller. 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/93QSdV)

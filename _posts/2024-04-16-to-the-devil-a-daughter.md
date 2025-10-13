@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "To the Devil a Daughter (1976)"
 excerpt: "My review of To the Devil a Daughter (1976)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6hMWXd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 48/52 | Hammer Horror</a></b>
 
@@ -31,7 +33,3 @@ Like several of these movies, it hits the 20-minute left mark and says, “Oh ye
 This was Hammer’s last horror film. The film feels like it’s following the 70s trends of religious horror, which is likely why they stopped making films.
 
 It isn’t terrible, it’s just boring! Satanic panic shit shouldn’t be boring.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6hMWXd)

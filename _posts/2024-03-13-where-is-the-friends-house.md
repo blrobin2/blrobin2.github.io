@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Where Is the Friend's House? (1987)"
 excerpt: "My review of Where Is the Friend's House? (1987)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/62lIzd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qWjuA">Criterion Challenge 2024 | 11/52 | a film in the Saturday Matinee series "Observations on Film Art"</a></b>
 
@@ -63,7 +65,3 @@ who will lift a chick out of a nest of light.
 Ask him,
 'Where is the friend's house?'"</i>
 — <i>Address</i>, Sohrab Sepehri</blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/62lIzd)

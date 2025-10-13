@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Day the Earth Stood Still (1951)"
 excerpt: "My review of The Day the Earth Stood Still (1951)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/b6Rxzr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 14/52 | 50s Sci-Fi</a></b>
 
@@ -38,8 +40,3 @@ Still, the structure and pacing have that icy 50s sci-fi feel that I dig. After 
 * The lighting and set design on the ship are so sick. I love how they only play score in there, no foley.
 * Tom is the worst!
 * Thanks to <a href="https://letterboxd.com/owensp/">Owen</a> for the DVD! The DVD menu is fantastic.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b6Rxzr)

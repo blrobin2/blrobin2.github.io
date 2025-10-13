@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Story of Women (1988)"
 excerpt: "My review of Story of Women (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8TtjyD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 29 </a></b>
 
@@ -33,7 +35,3 @@ The film has biopic energy in a way I find hard to ignore. But Isabelle Huppert 
 Though I detest the biopic formula, this is a person worth making one about. Somehow, this subject is still in contest in the USA.
 
 <blockquote><i>They want to punish me? Let them do it. And it's all men. How could men understand, anyway? </i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8TtjyD)

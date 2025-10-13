@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Once Upon a Time in America (1984)"
 excerpt: "My review of Once Upon a Time in America (1984)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9lNLi1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 23/52 | Euro Crime</a></b>
 
@@ -36,7 +38,3 @@ In some ways, the movie also goes against some troupes. For example, Noodles is 
 — Yes, it was. It still is.</i></blockquote>
 
 Those two lines sum up this movie, and the mobster movie in general.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9lNLi1)

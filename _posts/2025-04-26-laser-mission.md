@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Laser Mission (1989)"
 excerpt: "My review of Laser Mission (1989)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9w7LK5
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Oh, Brandon Lee: so pretty, and in so many terrible movies.
 
@@ -20,8 +22,3 @@ Oh, Brandon Lee: so pretty, and in so many terrible movies.
 * Sign for the package — it's my dying wish!
 * Laser mission, is that you??
 * 🎵 Mercenary man! He's a mercenary man!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9w7LK5)

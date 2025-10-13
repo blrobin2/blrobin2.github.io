@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pitch Black (2000)"
 excerpt: "My review of Pitch Black (2000)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6l5huT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 23/32 | Flying Thing that Kills You 2/2</a></b>
 
@@ -27,7 +29,3 @@ Every time the plot finds a path forward, everything comes to a halt so we can r
 The world-building is also sloppy. None of the buildings have lights because the three suns never set. But they consistently eclipse one another, creating the pitch black that only Riddick can navigate. They would need lights then, right?
 
 The movie does nothing well enough for me to enjoy it. The film has a fan base — sci-fi fans have survived on table scraps and mediocrity since the genre’s inception. I never found an in that kept me engaged.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6l5huT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bunny Lake Is Missing (1965)"
 excerpt: "My review of Bunny Lake Is Missing (1965)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4cYWqh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Excellent opening credits with the paper tear revealing the title and credits — of course, it’s Saul Bass
 
@@ -27,7 +29,3 @@ What an upsetting movie, what a pleasant surprise 
 * Hell yeah, Zombies on the television
 * Doll Hospital. What a nightmare
 * I did not recognize Laurence Olivier without his little mustache!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4cYWqh)

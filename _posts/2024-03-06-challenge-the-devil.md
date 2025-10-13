@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Challenge the Devil (1963)"
 excerpt: "My review of Challenge the Devil (1963)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5Z6U9p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 5/32 | film from before 1966 5/6</a></b>
 
@@ -58,7 +60,3 @@ Overall, this is quite an inept piece of filmmaking. I don't think a living soul
 * I guess they're all going mad? Lots of laughing and screaming in front of an out-of-focus camera.
 * A DRUMROLL OVER AN OUT-OF-FOCUS CAMERA SHARPENING INTO FOCUS. Hello, David Lynch!
 * Okay, that's it? Never mind about the riches, I guess?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Z6U9p)

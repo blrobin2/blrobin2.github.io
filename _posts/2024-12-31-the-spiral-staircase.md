@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Spiral Staircase (1946)"
 excerpt: "My review of The Spiral Staircase (1946)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8eVPWJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 8/31 | Decades 8/10 | 40s</a></b>
 
@@ -21,7 +23,3 @@ Robert Sidomak brilliantly combines film noir aesthetics and conversation with a
 Nicholas Musuraca, a cinematographer and RKO regular, brings a similarly gothic and subtle eye to the film. The film will jump into the killer's perspective, giving us his surreal and warped worldview. When he sees Helen, he sees her with no mouth.
 
 This movie may not surprise you, but its effortless genre-blending and cinematography are a delight to experience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8eVPWJ)

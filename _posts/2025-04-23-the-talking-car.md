@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Talking Car (1969)"
 excerpt: "My review of The Talking Car (1969)"
+rating: ""
+letterboxd_url: https://boxd.it/9uvh0B
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 And that little boy in the short, Jimmy, grew up to be John Lasseter, sexual predator and director of <i>Cars</i>.
 
@@ -15,8 +17,3 @@ And that little boy in the short, Jimmy, grew up to be John Lasseter, sexual pre
 * Do you promise not to marry, but to devote your life and chastity to us?
 * After Jimmy's visitation, his hair turned white, and he never spoke again.
 * Good morning, Jimmy. There are some… cars outside that want to see you?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9uvh0B)

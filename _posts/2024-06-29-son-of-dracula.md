@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Son of Dracula (1943)"
 excerpt: "My review of Son of Dracula (1943)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6LvJmT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 28/31 | Classic Universal horror | Before 1970 5/5</a></b>
 
@@ -37,7 +39,3 @@ Historians often group this movie with other 40s Universal Horror movies, which 
 That said, there are a handful of scenes, where relationships and betrayal are at the forefront, where the movie shines.
 
 I like this movie! Despite its flaws, it maintains more consistent intrigue than <i>Dracula's Daughter</i>, even if it lacks the homoerotic undertones that I associate with Dracula.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6LvJmT)

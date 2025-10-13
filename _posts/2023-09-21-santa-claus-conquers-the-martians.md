@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santa Claus Conquers the Martians (1964)"
 excerpt: "My review of Santa Claus Conquers the Martians (1964)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/4SlhU1
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 Believe it or not, I have only seen the movie without <i>MST3K</i> commentary — a college friend lent it and <i>2001</i> to me (two movies he watched every year — certifiably insane)
 
@@ -24,7 +26,3 @@ Believe it or not, I have only seen the movie without <i>MST3K</i> commentary �
 * Santa's gonna cut ya, man. Santa's a blade man, man
 * Santa Claus, you're coming with us... to town
 * Have you ever seen a grown man cry?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4SlhU1)

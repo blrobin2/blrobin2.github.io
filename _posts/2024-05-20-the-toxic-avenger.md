@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Toxic Avenger (1984)"
 excerpt: "My review of The Toxic Avenger (1984)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6vw9Hz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Melvin Ferd is a shitty janitor at the Tromaville Health Club. When a toxic waste disposal truck parks outside the club to do drugs, Melvin falls into a vat of toxic waste and becomes Toxie.
 
@@ -29,7 +31,3 @@ How did this piece of shit win me over?
 * The weight machine partial decapitation
 * Chief Himmel
 * The Body Talk song in the credits is too catchy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6vw9Hz)

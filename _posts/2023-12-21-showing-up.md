@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Showing Up (2022)"
 excerpt: "My review of Showing Up (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5myNCT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Lizzy is a ceramic sculptor and illustrator. She has a show coming up. She's trying to get everything ready, but nothing goes right.
 
@@ -23,7 +25,3 @@ I imagine a rewatch would add some nuance to that take.
 Michelle Williams is in her character. I forgot I was watching Michelle Williams.
 
 This movie is delightful and slight. It didn't hit me, but it was confident and trusting of its audience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5myNCT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Lagaan: Once Upon a Time in India (2001)"
 excerpt: "My review of Lagaan: Once Upon a Time in India (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8JvVMx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 38/52 | Music by A.R. Rahman</a></b>
 
@@ -28,7 +30,3 @@ While this is a better-made movie than <i>R.R.R.</i>, it lacks the absurd physic
 Gracy Singh, who plays Gauri, is the best actor in the movie. She hits the sweet spot between comic and sincere, even when the script relegates her character to pine after Bhuvan. Aamir Khan commits to the stoic expressionlessness of a handsome protagonist whose intrigue comes second.
 
 This movie is surprisingly easy to watch for its 4-hour runtime. But much of what it does isn't what I enjoy watching, whether Hollywood or Bollywood.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8JvVMx)

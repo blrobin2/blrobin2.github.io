@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cube 2: Hypercube (2002)"
 excerpt: "My review of Cube 2: Hypercube (2002)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5WB5n1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 32/32 | Bonus</a></b>
 
@@ -43,7 +45,3 @@ I am highly tolerant of cheap special effects, especially when they serve a func
 Simon performs the same role as Quentin in the first movie — he's needlessly violent. But his motivations are more confusing.
 
 Overall, if you think of Kafka instead of Neal Stephenson, you'll appreciate some of it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5WB5n1)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Mangler (1995)"
 excerpt: "My review of The Mangler (1995)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5WAUwh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 31/32 | Tobe Hooper</a></b>
 
@@ -36,7 +38,3 @@ I don't love this movie as much as some Tobe Hooper fans. But I had fun and got 
 
 <blockquote><i>— Are you crazy?!
 — No, I'm a policeman!</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5WAUwh)

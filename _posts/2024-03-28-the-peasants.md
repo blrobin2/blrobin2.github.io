@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Peasants (2023)"
 excerpt: "My review of The Peasants (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/69nxzt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b>Lipce, Poland, 1900</b>
 
@@ -27,7 +29,3 @@ Here, with how much detail they render — including, unfortunately, cheap studi
 The story is a horror show, and it has nothing to say other than, "That's people for you." Why the filmmakers would dedicate five years to this story is beyond me. From a time and setting perspective, I get it — evoking the paintings of peasants from the era (and referencing them) speaks to an artistic history. But why this story?
 
 This film occasionally stumbles into beauty but is such a failure of imagination that the experience isn't worth it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/69nxzt)

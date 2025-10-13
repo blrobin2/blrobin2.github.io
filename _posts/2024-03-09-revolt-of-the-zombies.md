@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Revolt of the Zombies (1936)"
 excerpt: "My review of Revolt of the Zombies (1936)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/60gMQp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="">Hooptober 6.0 | 8/32 | film whose year ends in '6' 2/6 | decades 2/6 | 1930s</a>
 
@@ -27,7 +29,3 @@ The movie has brief moments of treasure hunting and puzzles that are kind of coo
 This movie was intended to be a sequel to <i>White Zombie</i> but couldn't secure the rights or Bela Lugosi. They still regularly use the eyes close-up from <i>White Zombie</i> to show when zombies are afoot.
 
 This movie is probably okay, but I'm on an unintentional "bad movie" streak, so this feels extra shitty today. I mean, it's racist trash with a lot of talking, so I don't know how it could be okay. But I wanted to note my mood for when I come back to this review.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/60gMQp)

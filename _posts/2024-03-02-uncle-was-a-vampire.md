@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Uncle Was a Vampire (1959)"
 excerpt: "My review of Uncle Was a Vampire (1959)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5X4blX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 1/32 | film from before 1966 1/6</a></b>
 
@@ -31,7 +33,3 @@ Rascel's physicality transcends the language barrier. He's a goofy little guy �
 The movie has some pretty images and vistas — a composition or two is above average.
 
 Still, this is a dull movie — only the Christopher Lee completionists should seek this out
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5X4blX)

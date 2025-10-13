@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Day of the Dead (1985)"
 excerpt: "My review of Day of the Dead (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6zjIoR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 28/31 | Romero Dead</a></b>
 
@@ -43,7 +45,3 @@ I love the score! It has a satisfying blend of emotional and haunting moments.
 Bub is the most inspiring aspect of the movie — rediscovering the humanity of who the military reduced to "the enemy." The rest of the movie undermines this for the sake of kills, but the kills are the best part of the movie.
 
 Overall, this is a significantly weaker film than the predecessors, helped by moments of humanity and disgusting gore.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6zjIoR)

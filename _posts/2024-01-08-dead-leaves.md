@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dead Leaves (2004)"
 excerpt: "My review of Dead Leaves (2004)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5x9Xcv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 1/52 | Anime</a></b>
 
@@ -17,7 +19,3 @@ The manic art style is fascinating, but the characters, story, pacing, and prett
 Then again, I’m not the target audience. This is for 14-year-old boys.
 
 I don’t mean to be mean. It just isn’t for me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5x9Xcv)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "New York Ninja (2021)"
 excerpt: "My review of New York Ninja (2021)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8r8JKr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 37/52 | Cynthia Rothrock</a></b>
 
@@ -23,7 +25,3 @@ The result is remarkable for what it is. The key phrase is "for what it is." Tho
 It would never have been a great movie and may have stayed forgotten if finished in 1984. Today, the market for "so bad it's good" movies is only growing.
 
 I'd love an "I ❤️ NY Ninja" shirt (*cough cough* birthday hint *cough cough*).
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8r8JKr)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Skyscraper (1996)"
 excerpt: "My review of Skyscraper (1996)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/9kOhA3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <a href="https://boxd.it/q7TYk/detail" rel="nofollow"><b>Cult Movie Challenge 2017 | 22/52 | PM Entertainment</b></a>
 
@@ -23,7 +25,3 @@ This movie also has an SA scene that seems only to exist to follow the rules of 
 Charles M. Huber is such a wacko as Fairfax that we couldn't tell what accent he was trying to imitate. Looking it up, he's a German politician in real life, and he was trying to imitate a South African accent, which is hard enough without the endless supply of Shakespeare quotes.
 
 The first act was so entertaining, and the movie fell off hard, making this a more unpleasant than enjoyable watch. It has moments throughout, but this one is bad enough that I'd reserve it for folks with a high tolerance for crap or people who have no reservations about making fun of Anna Nichole Smith (which excluded us).
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9kOhA3)

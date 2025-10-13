@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Music Man (1962)"
 excerpt: "My review of The Music Man (1962)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9jhAWR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 A movie about a gay con man trying to hook up with a lesbian librarian.
 
@@ -25,8 +27,3 @@ FUCK SHIPOOPI. This movie is cursed.
 * Eulalie Mackenchnine Shinn
 * Ye Gods!
 * Showing up to the candy shop looking like a chess piece
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9jhAWR)

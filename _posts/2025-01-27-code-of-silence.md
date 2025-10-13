@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Code of Silence (1985)"
 excerpt: "My review of Code of Silence (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8DasEt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 46/52 | Chuck Norris</a></b>
 
@@ -25,7 +27,3 @@ Chuck Norris has always been a weak actor who makes up for it with his stunts an
 The pacing is satisfying, giving us plenty of plot to experience without rushing through all the details. We spend time with characters from all facets of the story, so we watch the pinpoints slowly converge.
 
 On paper, this looks like yet another cheeseball Chuck Norris flick. But this film has an emotional core that helps this movie stand out from your typical cop thriller fare.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8DasEt)

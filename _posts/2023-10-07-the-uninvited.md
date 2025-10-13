@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Uninvited (2003)"
 excerpt: "My review of The Uninvited (2003)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Xc1aN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Jung-won falls asleep on a train — he wakes up just in time for his stop, but as he gets off, he sees two kindergarten-aged kids sleeping on the train with no one else around. Before he can think, the doors close, so he goes on his way
 
@@ -27,7 +29,3 @@ The violence in this is brutal — it does not shy away from showing you people 
 The plotting is a little complicated, and I felt lost a couple of times — I condensed the events of the movie for the above summary — but it all came around by the end
 
 The film ranges from devastating to borderline silly, but the vision for this story is unlike anything I've seen. I don't know if it all works, but it's certainly a memorable experience
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Xc1aN)

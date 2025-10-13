@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yokai Monsters: Along with Ghosts (1969)"
 excerpt: "My review of Yokai Monsters: Along with Ghosts (1969)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5kGcEh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 An older man prays as Yakusa plans an ambush.
 
@@ -25,7 +27,3 @@ The plot is unremarkable, and it's hard not to get restless waiting for our mons
 They get a remarkable amount of mileage from, "This little girl sure is cute."
 
 Half-star deduction for no umbrella guy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kGcEh)

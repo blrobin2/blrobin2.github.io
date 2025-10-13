@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Emanuelle and the Last Cannibals (1977)"
 excerpt: "My review of Emanuelle and the Last Cannibals (1977)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6yM3Yt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 26/31 | people eating people (non-zombie) 2/3</a></b>
 
@@ -25,7 +27,3 @@ This film was on an Italian horror list. All I knew beforehand was that it was a
 It’s also disorienting because the gore is quite brutal. We have brief moments of gore throughout, followed by a veritable orgy in the last act.
 
 Overall, this is the purest distillation of pulp I can recall. Joe D’Amato knows exactly what softcore and cannibal audiences want, and blends the two as clumsily as necessary to fit all the troupes. Since I’m not a fangirl of either genre, I can’t say I like this. But it’s hard to hate something so hilariously crass.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6yM3Yt)

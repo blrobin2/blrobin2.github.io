@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Brief Encounter (1945)"
 excerpt: "My review of Brief Encounter (1945)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/99i8F1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 43/52 | 1940s</a></b>
 
@@ -29,7 +31,3 @@ Every scene has a brilliant moment. I love it when Laura stands on the train pla
 Noel Coward's exploration of forbidden love is open to several interpretations beyond the affair itself. The one I find most compelling is that Alec and Laura's plight mirrors that of many gay men of the time, especially with the rise of laws surrounding homosexuality, making the social conditions in which their relationship could be consummated neigh impossible.
 
 I adore this movie. Between this, <i>The Bridge on the River Kwai</i>, and <i>Blithe Spirit</i>, David Lean is quickly becoming a favorite director of mine.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/99i8F1)

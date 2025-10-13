@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Assault of the Killer Bimbos (1988)"
 excerpt: "My review of Assault of the Killer Bimbos (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8zVnQR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 12</a></b>
 
@@ -23,7 +25,3 @@ Peaches has the most outrageous pair of sunglasses — one lens is a massive tri
 The movie uses The New Artistocrats (formerly Knight Time)'s "I've Been Watching You," which is an absolute bop. Here's <a href="https://newaristocrats.bandcamp.com/album/new-aristocrats-featuring-knight-time-ive-been-watching-you-80s-extended-vocal-instrumental-remixes">the best version</a>.
 
 A favorite at the 1988 Cannes Film Festival, I knew I had to include this in my birthday year challenge. It's nothing groundbreaking, but its charm is hard to deny.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8zVnQR)

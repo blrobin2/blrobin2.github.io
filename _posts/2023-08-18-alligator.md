@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Alligator (1980)"
 excerpt: "My review of Alligator (1980)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Ijvkd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b>COPS SEEK SEWER PSYCHO</b>
 
@@ -27,7 +29,3 @@ The alligator stunts and effects in this look great! The movie goes all out — 
 * Marisa is the girl who won Ramon but never finds out
 * I'm already terrified of the sewer, at least how they portray it in movies — so sludgy and gross! Add a gator, and I'm losing it, just barfing with anxiety. Exception: the 90s <i>Teenage Mutant Ninja Turtles</i> movies made the sewers look cool as hell
 * Oh, the explosions also pop off
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Ijvkd)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Child's Play 3 (1991)"
 excerpt: "My review of Child's Play 3 (1991)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6BH2wb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 2/31 | Franchise 2/7</a></b>
 
@@ -27,7 +29,3 @@ The puppet work is at its worst thus far. With a lower budget and smaller timeta
 The script is a rehash of story beats from the previous movies. Andy replaces Kyle, and Tyler replaces Andy, but the dynamic is the same. Screenwriter Don Manici said that he was out of ideas at that point — more accurately, his ideas were too expensive, so he scrambled to arrive at this story.
 
 Honestly, this isn’t much worse than the previous movie — it’s predictable. The third-act set pieces are fun enough. I’m looking forward to the decidedly weirder <i>Bride of Chucky</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6BH2wb)

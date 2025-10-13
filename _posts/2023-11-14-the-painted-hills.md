@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Painted Hills (1951)"
 excerpt: "My review of The Painted Hills (1951)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/59TIbj
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Beautifully photographed — great matte paintings and sets! Lassie is a true star, she's so dang cute.
 
@@ -20,7 +22,3 @@ Beautifully photographed — great matte paintings and sets! Lassie is a true st
 * Life is pain, Tommy
 * Either this boy is dead or his heart has stopped
 * The Most Tedious Game
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/59TIbj)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Abbott and Costello Meet the Mummy (1955)"
 excerpt: "My review of Abbott and Costello Meet the Mummy (1955)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Dj8o5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a rel="nofollow">Cult Movie Challenge 2016 | 12/52 | Abbott and Costello</a></b>
 <blockquote><i>It has been said that a man's best friend is his mummy. In Egypt today, this theory is to be in great dispute. For two bold adventurers are about to discover another kind of mummy.</i></blockquote>Abbott and Costello sit down at the club in their safari gear. They overhear that Dr. Zoomer needs men to accompany his mummy back to the States. Of course, Costello thinks that Dr. Zoomer meant his mother.
@@ -42,7 +44,3 @@ This movie isn't high art, but I got some chuckles.
 * Yep, he ate it.
 * A giant lizard shows up as a quick visual gag.
 * In every vase is a snake. But now and then, there's a beautiful woman waiting to kiss you.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Dj8o5)

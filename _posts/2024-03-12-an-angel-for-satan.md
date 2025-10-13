@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "An Angel for Satan (1966)"
 excerpt: "My review of An Angel for Satan (1966)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/61WYzj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 11/32 | film whose year ends in '6' 5/6 | decades 5/6 | 1960s</a></b>
 
@@ -33,7 +35,3 @@ Barbara Steele does a tremendous job. Her character has an unusual tone and beha
 The film does not treat its deaths lightly — the village mourns and acts on them.
 
 This is a good movie made great by Barbara Steele's singular performance.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/61WYzj)

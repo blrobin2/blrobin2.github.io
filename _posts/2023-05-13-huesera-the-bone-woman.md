@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Huesera: The Bone Woman (2022)"
 excerpt: "My review of Huesera: The Bone Woman (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4f1gNR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Natalia Solián is trying to get pregnant. At the start of the movie, her family takes her on a pilgrimage to a huge Virgin Mary statue to ask for help
 
@@ -28,7 +30,3 @@ Not a very scary movie, but well-crafted
 
 Stray Thoughts
 * The crib she makes a pretty cool with the diagonal bars and spider web design — spiders and webs being a recurring motif in the movie (and a psychic tells her that she’s caught in something’s web, so not subtle)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4f1gNR)

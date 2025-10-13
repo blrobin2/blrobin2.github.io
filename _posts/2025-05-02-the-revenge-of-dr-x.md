@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Revenge of Dr. X (1967)"
 excerpt: "My review of The Revenge of Dr. X (1967)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/9zF3Ex
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 I stopped watching the Rifftrax for <i>Fist of Fury </i> because the barrage of racist jokes annoyed me. I thought I was safe here, but Dr. Bragan travels to Japan, and, sure enough, the gross riffs start flying. The movie itself has its fair share of Orientalism. It's not a good movie, I'm sorry to say!
 
@@ -18,7 +20,3 @@ I stopped watching the Rifftrax for <i>Fist of Fury </i> because the barrage of 
 * Every time I try to steal blood, something bad happens!
 * Meanwhile, someone slowly empties a bag of marbles onto a snare drum.
 * Somewhere, lava exists!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9zF3Ex)

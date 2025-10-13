@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Curse of Frankenstein (1957)"
 excerpt: "My review of The Curse of Frankenstein (1957)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5dgkzp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://letterboxd.com/blrobin2/list/hooptober-90-retroactive/detail/">Hooptober 9.0</a> | 26/34 | Christopher Lee films 1/2</b>
 
@@ -35,7 +37,3 @@ I enjoy Terrence Fisher's updates on the classic Universal horror stories. He kn
 Adding Paul to the story is a mixed bag. Paul is such a strong foil that Frankenstein acts less on blind ambition than amoral arrogance. His intercessions result in redundant scenes that do little except take up time.
 
 Christopher Lee's role is an odd choice. He leans more into the id-driven monster of the Universal film over the novel's intelligent beast.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5dgkzp)

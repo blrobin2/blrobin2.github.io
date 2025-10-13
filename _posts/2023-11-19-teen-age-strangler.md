@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Teen-Age Strangler (1964)"
 excerpt: "My review of Teen-Age Strangler (1964)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/5bnQQN
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 They got Mike singing and doing characters, which fits him better. There are some truly offensive trans jokes this episode — the early 90s really couldn't help themselves, could they?
 
@@ -16,7 +18,3 @@ They got Mike singing and doing characters, which fits him better. There are som
 * Bored Straight
 * Interrogation room and showers
 * Leave Mikey alone! He's working on his novel!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5bnQQN)

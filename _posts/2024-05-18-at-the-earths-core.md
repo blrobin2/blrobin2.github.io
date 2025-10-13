@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "At the Earth's Core (1976)"
 excerpt: "My review of At the Earth's Core (1976)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6uBgi3
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 TV's son of TV's Frank admitted this movie is fun. Hey Joel McHale
 
@@ -19,7 +21,3 @@ The Georges Méliès opening rules!
 * You're not gonna believe this, but I'm the protagonist 
 * Doug, stop, there's a man in there! That's his blood!
 * He died as he lived, falling down a ravine on fire
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6uBgi3)

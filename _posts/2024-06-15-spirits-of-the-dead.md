@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Spirits of the Dead (1968)"
 excerpt: "My review of Spirits of the Dead (1968)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6G0Y8l
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 14/31 | Before 1970 1/5 | Decades 1/5 | 60s</a></b>
 
@@ -65,7 +67,3 @@ This story takes the most liberties with the Poe story but also captures the sen
 The atmosphere is quite surreal and artificial — more so than I've seen in any Fellini, but I also have seen nothing past <i>8 1/2 </i>and his LSD experiments.
 
 I'm going to give up on trying to analyze this one — it's like, uh, trying to describe a Fellini movie. I love it, though.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6G0Y8l)

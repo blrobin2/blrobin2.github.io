@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In the Name of the King: A Dungeon Siege Tale (2007)"
 excerpt: "My review of In the Name of the King: A Dungeon Siege Tale (2007)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/8BhbHL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 45/52 | Uwe Boll</a></b>
 
@@ -21,7 +23,3 @@ This movie has so many fight sequences, and they all look identical.
 Matthew Lillard is great. Ray Liotta is so funny. Bert Reynolds looks at the camera.
 
 In a world where so many projects never take off, Uwe Boll receives 60 million dollars to make this. Not only that but there are TWO sequels. Cool.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8BhbHL)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Brawl in Cell Block 99 (2017)"
 excerpt: "My review of Brawl in Cell Block 99 (2017)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/9oll3P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 27/52 | Neo-Exploitation</a></b>
 
@@ -25,7 +27,3 @@ But that's not why people talk about this movie. They want that ultra-violence. 
 Of course, it looks like I'm in the minority here. And I don't think anyone "should" feel the same way about it. I'm sure you can find inconsistencies in my reviews about when this stuff rubs me the wrong way. But here, it did.
 
 Also, in no world did this need to be over 2 hours long.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9oll3P)

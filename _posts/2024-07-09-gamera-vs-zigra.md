@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera vs. Zigra (1971)"
 excerpt: "My review of Gamera vs. Zigra (1971)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6PXyVF
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <blockquote><i>Hi Guys, Gypsy, you're gorgeous, absolutely radiant! I love your show. Your movies are so tacky! I don't know where you get them. It's a good thing you narrate for me, otherwise I would never understand them! Keep up the good work!</i>
 — Call from viewer</blockquote>
@@ -19,7 +21,3 @@ Crow is finally unfrozen. Tom Servo has retained his "mighty" voice.
 * We're gonna take his brain, and put it in HIS chest
 * Oh wow
 * That's him alright. That's Gamera.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6PXyVF)

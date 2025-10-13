@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "They Cloned Tyrone (2023)"
 excerpt: "My review of They Cloned Tyrone (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5gC6Nj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Fontaine (John Boyega) is a drug dealer in a neighborhood called The Glen. He has his schedule — lift weights, buy a lotto ticket, pour some of his 40 for the old guy outside the gas station.
 
@@ -31,7 +33,3 @@ Everyone gives stellar performances, especially Boyega, who has a lot of wildly 
 It’s the emotional core of the movie that keeps it working. Although the plot loses coherence in the end, it remains enjoyable from start to finish.
 
 This is a solid debut film. I look forward to seeing what Juel Taylor does next.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5gC6Nj)

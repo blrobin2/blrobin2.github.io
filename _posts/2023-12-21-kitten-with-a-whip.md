@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kitten with a Whip (1964)"
 excerpt: "My review of Kitten with a Whip (1964)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5mAMYX
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 It's hard not to enjoy unhinged Ann-Magret
 
@@ -15,7 +17,3 @@ It's hard not to enjoy unhinged Ann-Magret
 * Oh thats right I rented the spare room to Elmer Fudd
 * Isotope models! Get your isotope models!
 * This movie's lost its creaminess
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5mAMYX)

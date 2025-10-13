@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="rating-header">
+  <h2 class="post-title">{{ page.title }}</h2>
+
+  {% if page.rating != "" %}
+  <div class="rating">{{ page.rating }}</div>
+  {% endif %}
+
+  <p class="meta">{{ page.date | date_to_string }}</p>
+</div>
+
+<article
+  role="article"
+  class="post"
+  itemprop="articleBody"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  {% if page.mst3k %}
+  <p>
+    <i
+      >This movie was watched as part of a Mystery Science Theater 3000
+      episode.</i
+    >
+  </p>
+  {% endif %} {% if page.rifftrax %}
+  <p><i>This movie was watched as part of a RiffTrax commentary.</i></p>
+  {% endif %} {{ content }}
+
+  <p><a href="{{ page.letterboxd_url }}">See Review on Letterboxd</a></p>
+</article>

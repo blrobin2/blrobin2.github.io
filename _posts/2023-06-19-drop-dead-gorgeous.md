@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Drop Dead Gorgeous (1999)"
 excerpt: "My review of Drop Dead Gorgeous (1999)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4oA37f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Mockumentary about a local beauty pageant that heats up when some of the contestants die in mysterious accidents
 
@@ -25,7 +27,3 @@ Denise Richards has done roles similar enough to this that she can get by on jus
 I like the idea of this more than what is onscreen. It has the editing of a Christopher Guest movie, but not the script or performances to make this stand out
 
 That said, it’s not like this is taking itself all that seriously, so it’s an easygoing view. I probably would like this more if they workshopped some of the jokes and found a consistent tone
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4oA37f)

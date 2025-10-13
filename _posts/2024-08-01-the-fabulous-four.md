@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Fabulous Four (2024)"
 excerpt: "My review of The Fabulous Four (2024)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/70jC5H
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Look, this movie sucks. It is quite cringey and no one has a character. But I snuck in some box wine, and girl, I was gagged.
 
@@ -15,7 +17,3 @@ I love Megan Mullally, she is so hot in this as Diet De Sade. I love Susan Saran
 The boys were so handsome and adorable, especially Ernest Hemingway reincarnated in Timothy V. Murphy.
 
 I got some good giggles out with all the moms in the audience!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/70jC5H)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Phibes Rises Again (1972)"
 excerpt: "My review of Dr. Phibes Rises Again (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8z1JtX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 42/52 | Vincent Price</a></b>
 
@@ -23,7 +25,3 @@ The humor is more pronounced, leaning into the silliness of the whole setup. The
 This movie was around when Vincent Price started poisoning his well by asking for more money and disavowing himself from AIP, leading to him getting fewer acting roles. His career never stopped until his final role in Edward Scissorhands, but the quality of the films he acted in was spottier.
 
 Still, this is a fun movie that never takes itself too seriously. It has plenty of cartoony set pieces and jokes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8z1JtX)

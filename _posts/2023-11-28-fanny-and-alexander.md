@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fanny and Alexander (1984)"
 excerpt: "My review of Fanny and Alexander (1984)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5eCrqd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 26/52 | Bong Joon-Ho's Top 10</b>
 
@@ -51,7 +53,3 @@ Bong Joon-Ho had the theatrical version on his list, but I wanted to watch the t
 I can't imagine this story without the imagination bits! Bergman cut that for the theatrical version. I'm glad I saw this one first.
 
 The stage plays are beautiful! One stands out where it is raining on stage. A man wears a candle on his head, covering it with an umbrella. It's such a surreal image.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5eCrqd)

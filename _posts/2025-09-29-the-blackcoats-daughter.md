@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Blackcoat's Daughter (2015)"
 excerpt: "My review of The Blackcoat's Daughter (2015)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/bd1iYv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 40/52 | Religious Horror</a></b>
 
@@ -38,8 +40,3 @@ Perkins crafts a meditation on grief disguised as a horror movie — a recurring
 <b>*** SPOILER TALK ***</b>
 The film's meditation on grief is the loss of God. Through the entity that possessed her, Kat had a meaning and purpose. When they exorcise it out of her, she loses that sense of belonging. She spends years fighting and killing to get out of the asylum where they put her, desperate to find the entity again. When Bill gives his speech about little coincidences, Kat cannot help but see this as a sign that the entity is waiting for her. But, as many of us know, when we've already lost faith, we cannot force its return. We can pretend, but it isn't the same.
 <b>*** END SPOILER TALK ***</b>
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bd1iYv)

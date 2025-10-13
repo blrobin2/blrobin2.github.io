@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Spy Who Loved Me (1977)"
 excerpt: "My review of The Spy Who Loved Me (1977)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5pY5Qr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -26,7 +28,3 @@ category: movie_review
 * Giving Bond an ensemble to work with helps the finale's pacing
 * The score had a sexy sax as one of the sharks wiggled
 * The gay sailor show-tune version of the theme at the end is icing
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5pY5Qr)

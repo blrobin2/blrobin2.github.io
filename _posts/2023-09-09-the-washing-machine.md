@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Washing Machine (1993)"
 excerpt: "My review of The Washing Machine (1993)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4ON4DL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <i>The Washing Machin</i>e is a giallo <i>Rashomon</i> about three sisters who live together — one of the sisters finds Yuri, the pimp/boyfriend of another sister, dead in a washing machine
 
@@ -17,7 +19,3 @@ This movie is one of the most outrageous giallo I've seen. Everyone is ridiculou
 Gore-wise, it's surprisingly tame except for one gnarly scene in the middle
 
 Is this good? I don't know! Was I laughing throughout most of it? Hell yeah
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ON4DL)

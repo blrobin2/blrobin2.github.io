@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "We Need to Talk About Kevin (2011)"
 excerpt: "My review of We Need to Talk About Kevin (2011)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4JE8MJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>Mommy was happy before widdle Kevin came along, did you know dat?</i></blockquote>A Bad Seed-like thriller where Eva (Tilda Swinton) knows from day one that there's something wrong with her son, Kevin. Worse still, she tries to get help for him, but medical doctors say he's fine, and her husband, Franklin (John C. Riley), does not believe her
 
@@ -29,7 +31,3 @@ Still, a small problem in an otherwise excellent movie
 * I firmly believe this is about Ezra Miller's actual childhood
 * I know we're supposed to dislike some of Tilda Swinton's choices, but I hate kids too much that I would have made similar choices — hence, not having kids
 * The target in the eye reflection shot is great
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4JE8MJ)

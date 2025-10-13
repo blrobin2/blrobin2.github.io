@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Red Desert (1964)"
 excerpt: "My review of Red Desert (1964)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4eJBMf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 What is the color of lust? The color of sex with a stranger? The color of greed? The color of poison — the place you refuse to let your mind go?
 
@@ -19,7 +21,3 @@ Perhaps what we call sickness is just the alienation we feel in an industrial wa
 You could try to take your own life, only to survive with the stigma hovering over you. Or you could jump aboard a boat, only to find that they don’t speak your language. Or you could walk with your child through the factory smog, only for him to see the same yellow that you see erupting from the stacks
 
 I wanted to end on a positive note, but this movie is a bummer. I can understand why after this, Vitti told Antonioni to fuck off and do comedies. Find your community, the world needs you here!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4eJBMf)

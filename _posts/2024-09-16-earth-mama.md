@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Earth Mama (2023)"
 excerpt: "My review of Earth Mama (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/7kXggX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 The intentionality of every shot really shot out this time
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/7kXggX)

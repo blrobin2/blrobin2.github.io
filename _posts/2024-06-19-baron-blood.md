@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Baron Blood (1972)"
 excerpt: "My review of Baron Blood (1972)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6HxHLb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 18/31 | Mario Bava | Decades 5/5 | 70s</a></b>
 
@@ -27,7 +29,3 @@ The castle has great Gothic vibes. It's a shame more of the movie doesn't take p
 Somewhere in the text is a critique of greed or consumer culture — a group of wealthy bidders show up at the baron's castle to purchase a bunch of big-screen TVs. I won't pretend to understand it.
 
 Overall, I'd call this movie cozy more than brilliant, but I dig it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6HxHLb)

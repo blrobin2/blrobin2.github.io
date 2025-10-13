@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Anatomy of a Fall (2023)"
 excerpt: "My review of Anatomy of a Fall (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5ZHjTJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Sandra's son, Daniel, goes on a walk with his dog Snoop. As he leaves, he hears Sandra and his father, Samuel, talking. When he comes back from his walk, he discovers his father dead in front of the house, bleeding from a head wound.
 
@@ -25,7 +27,3 @@ I still think it's a terrific script. The film has outstanding performances, inc
 <b>Watch it so we can talk about it! I have theories!</b>
 
 As an aside, I want to mention how thrilled I was when I saw Jehnny Beth's name in the opening credits. I'm a fan of her band, Savages, and she had a radio show on Apple Music called Start Making Sense that I think about at least once a week. I knew she acted, but this was my first time seeing her in anything. It was just cool seeing her in a movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ZHjTJ)

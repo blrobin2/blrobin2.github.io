@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Blow the Man Down (2019)"
 excerpt: "My review of Blow the Man Down (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4LloRl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 After her mother's wake, Mary Beth gets drunk at the bar. She talks to a guy who promises to give her a ride home, but when he pops the trunk, she sees blood, hair, and women's clothes. He chases her into the docks, where she kills him
 
@@ -23,7 +25,3 @@ Perfect ending! What a great little movie — such a welcome surprise 
 <b>Stray Thoughts</b>
 * "Go watch some TV. I TiVo'd some Buffy." — What year is this?
 * Putting Marceline Hugot and Margo Martindale in the same movie is confusing. Could you imagine if Ann Dowd got in the mix?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LloRl)

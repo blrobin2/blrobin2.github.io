@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Demons of Ludlow (1983)"
 excerpt: "My review of The Demons of Ludlow (1983)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5aVrXj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 18/34 | Bill Rebane</b>
 
@@ -33,7 +35,3 @@ This movie is delightfully cuckoo.
 Though it builds slowly, its effects are unexpected and surreal. The finale is one I'll be recounting to friends for a while.
 
 This is Bill Rebane's <i>The Shining</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5aVrXj)

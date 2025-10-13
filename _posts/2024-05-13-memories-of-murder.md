@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Memories of Murder (2003)"
 excerpt: "My review of Memories of Murder (2003)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6sPedP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 10/52 | 2000s">Criterion Challenge 2022 | 10/52 | 2000s</a></b>
 
@@ -29,7 +31,3 @@ Part of my disconnect likely is not knowing Korean culture or history. But I'm a
 Boon Joon-ho said in interviews that he wanted to solve the murder since it was unsolved when the movie came out and that his method was not too dissimilar from Park's — looking at photos for a sign. 
 
 This movie is well made — it's grim, sometimes engaging, and darkly funny. But it overstays its welcome without delving into its subject with sufficient curiosity.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sPedP)

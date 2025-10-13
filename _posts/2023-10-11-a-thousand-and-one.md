@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Thousand and One (2023)"
 excerpt: "My review of A Thousand and One (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4YAe7p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Inez (Teyana Taylor) is living at the shelter again. She finds Terry on the corner. She tells him she’s his mother and that she’s going to be around now.
 
@@ -26,7 +28,3 @@ We meet Terry at three ages. Each actor does a great job bringing out a differen
 The film delves into the complex relationship between Inez and Terry, exploring the impact of their individual traumatic experiences. The film also explores gentrification and systemic issues, showing how even good intentions can backfire.
 
 This is a solid debut film from A.V. Rockwell. I hope the recognition critics are giving this presents more opportunities for her.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4YAe7p)

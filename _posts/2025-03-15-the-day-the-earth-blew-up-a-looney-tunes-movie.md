@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Day the Earth Blew Up: A Looney Tunes Movie (2024)"
 excerpt: "My review of The Day the Earth Blew Up: A Looney Tunes Movie (2024)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/97B2gf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Farmer Jim raised Daffy Duck and Porky Pig from duckling and suckling, respectively. When he went to that great farm in the sky, he left his house to the two, telling them, "As long as you stick together, you'll be alright."
 
@@ -19,7 +21,3 @@ This movie was such a pleasant surprise. Farmer Jim is the funniest character th
 Owen and I laughed throughout. Afterward, another enthusiastic audience member stood up and said, "That was awesome! Tell everyone you know to go see this!"
 
 So here I am, telling you to see a Looney Tunes movie in the year of our lord 2025 that is actually very good.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/97B2gf)

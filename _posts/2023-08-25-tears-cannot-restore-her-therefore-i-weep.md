@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Tears Cannot Restore Her: Therefore, I Weep (2011)"
 excerpt: "My review of Tears Cannot Restore Her: Therefore, I Weep (2011)"
+rating: ""
+letterboxd_url: https://boxd.it/4KmRuN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 I'm pretty sure I give better head than her
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KmRuN)

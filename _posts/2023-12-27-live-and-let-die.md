@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Live and Let Die (1973)"
 excerpt: "My review of Live and Let Die (1973)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5ptMr3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -25,7 +27,3 @@ category: movie_review
 * You can see the buoys they placed for the stunt driver to hit the right trajectory
 * Chekov's magnetic watch
 * Mr. Big inflated and exploded
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ptMr3)

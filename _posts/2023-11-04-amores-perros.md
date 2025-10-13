@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Amores Perros (2000)"
 excerpt: "My review of Amores Perros (2000)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/56Er5B
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 6/52 | Animals in the Collection</b>
 
@@ -27,7 +29,3 @@ Of the three stories, the middle story is the weak link. The car wreck is the on
 The movie's most notable success is making it look like dogs fight and die. Iñárritu discussed using clever editing and sound design to make all the scenes with dogs fighting look real. The dogs were actually playing with one another. Once you know that, it's easier to tell in the movie.
 
 Time has diminished the movie's sheen since 2000. But it's still a wonderful movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56Er5B)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Magic Sword (1962)"
 excerpt: "My review of The Magic Sword (1962)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4YXy0T
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 * Basil Rathbone with pesto please
 * I guess you can be too thin
@@ -16,7 +18,3 @@ category: movie_review
 * oh my braces, owie
 
 I kind of like this! It's not the most interesting story, snd the acting is unremarkable, but some of the effects and set pieces are neat — the dragon looks cool as hell
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4YXy0T)

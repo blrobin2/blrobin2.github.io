@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Saw the TV Glow (2024)"
 excerpt: "My review of I Saw the TV Glow (2024)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/6ufQsf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <blockquote><i>I couldn't sleep last night, so I started my favorite TV show again</i></blockquote>Growing up, TV felt more real than real life. Days felt like a liminal space — the waiting room for real life to begin. Years pass like seconds, and memory blurs and distorts.
 
@@ -21,7 +23,3 @@ Nostalgia is never for the thing itself — when I revisit things from my childh
 * Pete & Pete are the two zombies outside his house
 * Mr. Melancholy is the moon monster from the Tonight, Tonight music video. There's even a cover of the song in the movie.
 Every color is perfect and felt like a half-forgotten memory
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ufQsf)

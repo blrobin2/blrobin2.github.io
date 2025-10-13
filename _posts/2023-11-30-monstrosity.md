@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Monstrosity (1963)"
 excerpt: "My review of Monstrosity (1963)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5fbs8T
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 * Do not adjust your dryer! We control your air flow!
 * Boss, was I really a mistake?
@@ -17,7 +19,3 @@ category: movie_review
 *  🎵There's a girl on the run, and she thinks she's a cat
 * By the time I read this, you'll be dead
 * [Freeze frame on cat] The 400 Blows
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fbs8T)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "You Only Live Twice (1967)"
 excerpt: "My review of You Only Live Twice (1967)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5oE1Dz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -29,7 +31,3 @@ category: movie_review
 * Kissy Suzuki
 * This movie is the de facto inspiration for <i>Austin Powers</i>.
 * Donald Pleasence! Why did he only play Blofeld once? He played Loomis like five times.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5oE1Dz)

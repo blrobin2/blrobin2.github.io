@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Incredible Melting Man (1977)"
 excerpt: "My review of The Incredible Melting Man (1977)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5D1YNP
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Rick Baker worked on this! 
 
@@ -22,7 +24,3 @@ The writers thought this was worse than <i>Manos</i>. It's not good, but it's no
 * Grab a nose hole and pull!
 * The movie has to mop up after itself now
 * Jonathan Demme?! Ah, who cares
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5D1YNP)

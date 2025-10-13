@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Skin I Live In (2011)"
 excerpt: "My review of The Skin I Live In (2011)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6FGCVv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 13/31 | Countries 6/6 | Spain</a></b>
 
@@ -36,7 +38,3 @@ It's hard to say much about this movie since so much of it is about its dramatic
 
 <b>*** SPOILER TALK ***</b>
 The movie isn't that horrifying, perhaps because I'm jealous of Vincente. Free transition to a beautiful woman and fuck Antonio Banderas?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6FGCVv)

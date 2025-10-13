@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The First Omen (2024)"
 excerpt: "My review of The First Omen (2024)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6e4RaP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <blockquote><i>— Sister, why is there a bad room?
 </i><i>— Because some girls are bad.</i></blockquote>Arkasha Stevenson and I like many of the same movies — I caught a few references, including one to <i>Possession</i>. The difference between her and many other directors who enjoy the same films is that she has melded those influences into something impactful, unnerving, and inspiring.
@@ -21,7 +23,3 @@ The teeth imagery!! The stairs, the candles... <b>*chefs kiss*</b>
 
 <blockquote><i>— don't you hear God's voice?
 </i><i>— no, I only hear my own</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6e4RaP)

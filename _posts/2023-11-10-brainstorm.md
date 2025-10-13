@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Brainstorm (1983)"
 excerpt: "My review of Brainstorm (1983)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/58Bn6d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Dr. Michael Brace (Christopher Walken) is on a research team. They are working on an interface that records and replays the subject's sensory and emotional experiences. The team includes his ex-wife, Karen (Natalie Wood), and the brilliant Dr. Lillian Reynolds (Louise Fletcher).
 
@@ -25,7 +27,3 @@ As a film, this has multiple problems. The structure itself is a mess. The cast 
 Still, the tech stuff was pretty fun, and the opening credits were bonkers with extravagant patterns.
 
 Gordy getting a tape of someone having sex and looping the orgasm is the realest person in the movie. Yes, it nearly kills him and forces him into early retirement. I'll be goddamned if he wouldn't say it was worth it. 🫡
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/58Bn6d)

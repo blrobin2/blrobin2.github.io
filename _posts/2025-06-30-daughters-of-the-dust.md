@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Daughters of the Dust (1991)"
 excerpt: "My review of Daughters of the Dust (1991)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/aaiazh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 In 1902, on the Gullah islands off the coast of Georgia, a Creole blend of West African traditions was kept alive by generations of enslaved people who followed those who practiced them. They speak a variation of Creole English developed on the island, called Gullah Creole. The film explores the Peazant family as some of their relatives return from the mainland to bring them a new life up north.
 
@@ -17,7 +19,3 @@ Julie Dash's experience is still common for women filmmakers. She barely got the
 I wasn't expecting such a difficult watch going in, but I found it hard to follow the dense dialects at times. Additionally, several scenes passed that I wasn't sure were from a different time period. At first, I was wary of experiencing a two-hour, free-form film in a dark theater, but by the time I reached the end, it had enraptured me. I didn't understand everything, but it wasn't my film to understand. I did get to bear witness to one of the most creative and unabashedly Black films I've seen.
 
 Also, the score rules.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aaiazh)

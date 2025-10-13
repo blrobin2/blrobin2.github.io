@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "City Lights (1931)"
 excerpt: "My review of City Lights (1931)"
+rating: ""
+letterboxd_url: https://boxd.it/6jZ2GJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 17/52 | In the 2022 Sight & Sound Top 100</a></b>
 
@@ -21,7 +23,3 @@ I've voiced it before, but I don't get much out of Charlie Chaplin movies. I get
 I know I'm in the minority, and I don't expect folks to agree with me.
 
 I'm 90% certain I've seen this before — at least, I've seen the big gags. Regardless, I fell asleep during the second half. So, I won't rate it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6jZ2GJ)

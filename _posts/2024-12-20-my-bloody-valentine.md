@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "My Bloody Valentine (1981)"
 excerpt: "My review of My Bloody Valentine (1981)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/869pIt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 4/31 | Decades 4/10 | 80s</a></b>
 
@@ -21,8 +23,3 @@ Unlike the burgeoning slashers of the time, this film is not focused on a group 
 This film has some gruesome kills! I think I watched the restored version because the goriest shots looked unpolished compared to the rest of the film. The miner in a gas mask looks perfect and is creepy as hell.
 
 If you don't like slashers, this will feel like another holiday-themed kill fest. Otherwise, this film has a tremendous atmosphere. The scene with Sylvia in the back of the truck is legitimately great filmmaking.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/869pIt)

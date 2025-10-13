@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Blood of a Poet (1932)"
 excerpt: "My review of The Blood of a Poet (1932)"
+rating: ""
+letterboxd_url: https://boxd.it/9l1PtL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 29/52 | Out of Print Criterion Releases</a></b>
 
@@ -23,7 +25,3 @@ We arrive at Act 1 of 4: The Wounded Hand, or The Scars of the Poet. The shirtle
 Féral Benga's appearance in the film is satisfying. His androgynous look is perfect for the guardian angel role. And it's fascinating to see Lee Miller in her only movie role—I understand why so many artists went gaga over her.
 
 Visually, the film is a masterwork. Its editing is precise yet, at times, interpretive. The black-and-white is rich and dynamic. The compositions are compelling and innovative. Aesthetically, the film lacks the nuance that Cocteau sought, but it is a beautiful start to a rich career.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9l1PtL)

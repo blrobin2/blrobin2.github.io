@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Walkabout (1971)"
 excerpt: "My review of Walkabout (1971)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5d5PQJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 24/52 | <a href="https://boxd.it/iYuVa">Alicia Malone's Closet Picks</a></b>
 
@@ -43,7 +45,3 @@ They both liked it! We chatted about the meaning of different scenes and the mov
 That experience alone made for a memorable watch.
 
 Experiencing that with a thoughtful film makes it even better.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5d5PQJ)

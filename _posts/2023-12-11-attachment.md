@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Attachment (2022)"
 excerpt: "My review of Attachment (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5iX5AD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Maja, a Danish actress, has a meet-cute with Leah, an English academic, on a trip from London. The two hit it off and fall for one another.
 
@@ -21,7 +23,3 @@ The strength of this movie is Maja and Leah's relationship. Though the actors do
 But they also treat the viewer like they can't put 2 and 2 together. So, the plot threading is labored, erring on the side of making sure everything is obvious to the viewer.
 
 I wanted to like this movie more, but I like several aspects. I need more horror romances in my life.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5iX5AD)

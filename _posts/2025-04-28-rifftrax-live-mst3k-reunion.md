@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "RiffTrax Live: MST3K Reunion (2016)"
 excerpt: "My review of RiffTrax Live: MST3K Reunion (2016)"
+rating: ""
+letterboxd_url: https://boxd.it/9xEONh
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 I guess this was Jonah Ray's trying ground before the Netflix <i>MST3K</i>? Frank seemed like he was in outer space. I wish I had gone to see this live when it happened. Oh well!
 
@@ -18,7 +20,3 @@ I guess this was Jonah Ray's trying ground before the Netflix <i>MST3K</i>? Fran
 * <a href="https://boxd.it/9xEv8f">Barbers and Beauticians</a>
 * <a href="https://boxd.it/5Opk">Stamp Day for Superman</a>
 * <a href="https://boxd.it/9xEzUd">At Your Fingertips: Grasses</a> 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xEONh)

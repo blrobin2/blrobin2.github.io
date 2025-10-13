@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Koko-di Koko-da (2019)"
 excerpt: "My review of Koko-di Koko-da (2019)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6Fgw07
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 10/31 | Countries 3/6 | Denmark</a></b>
 
@@ -29,7 +31,3 @@ Maja was perfectly cast — her death was heartbreaking. If life holds meaning, 
 Once the conceit catches on, the movie becomes tedious. We learn very little about the couple as they loop through. We get one moment of “revelation,” a repeated animation we saw earlier but from another character’s perspective.
 
 This movie started tremendously and fizzled out fast. It’s not a terrible movie. Those with kids or a different audience may find this more enjoyable than I did.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6Fgw07)

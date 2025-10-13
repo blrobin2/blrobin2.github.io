@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Female Prisoner Scorpion: Jailhouse 41 (1972)"
 excerpt: "My review of Female Prisoner Scorpion: Jailhouse 41 (1972)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9U06H7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q7TYk">Cult Movie Challenge 2017 | 45/52 | Pinky Violence</a></b>
 
@@ -29,8 +31,3 @@ The movie seems to suggest that some women deserve to be in prison. But it also 
 The moment when the audio goes silent is so shocking. I don't think we needed another SA as a motivating scene, but I guess it's thankfully not graphic.
 
 The movie makes a choice about 35 minutes in that immediately bumped up my review score. This movie is wild!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9U06H7)

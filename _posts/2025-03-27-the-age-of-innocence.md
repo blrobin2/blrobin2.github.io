@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Age of Innocence (1993)"
 excerpt: "My review of The Age of Innocence (1993)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9eVmxD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 48/52 | 1990s</a></b>
 
@@ -44,7 +46,3 @@ Scorcese makes his movie fixations more apparent with the contrast from his more
 * Robert Sean Leonard jump scare!
 
 Is this my favorite Scorcese movie? So far, yes! I still have, like, 20 more films of his I want to watch, so we'll see if that changes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9eVmxD)

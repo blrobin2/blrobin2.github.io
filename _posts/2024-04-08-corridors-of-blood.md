@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Corridors of Blood (1958)"
 excerpt: "My review of Corridors of Blood (1958)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6erK9h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 7/32 | Anniversary Film 6/10 | Decades 5/6 | 50s</a></b>
 
@@ -24,7 +26,3 @@ Karloff has such a tenderness that watching Ben and Joe's exploitation is heart-
 The film is a beautiful black-and-white, creating rich shadows to interplay with the fog and lights. The movie drips in Gothic dread but pulls it into the slums and darker recesses of the city.
 
 The movie falls into a bit of a circular routine, but at 86 minutes, it accomplishes what it needs to with a moderate pace.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6erK9h)

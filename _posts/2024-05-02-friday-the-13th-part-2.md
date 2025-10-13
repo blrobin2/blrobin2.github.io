@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th Part 2 (1981)"
 excerpt: "My review of Friday the 13th Part 2 (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6o3KZJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 1/31 | Sequels 1/6 | Decades 1/6 | 80s</a></b>
 
@@ -41,7 +43,3 @@ The sweater trick is a great twist!
 Muffin!
 
 Dumb, funny, horny — it does what it says on the box.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6o3KZJ)

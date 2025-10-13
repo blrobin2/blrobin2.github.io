@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Christiane F. (1981)"
 excerpt: "My review of Christiane F. (1981)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4vQ6DN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Based on the true story of Christiane Felscherinow’s teenage life, the movie follows Christiane (Natja Brunckhorst) from 13-year-old crush on a boy in trouble to a 14-year-old prostitute and heroin addict
 
@@ -26,7 +28,3 @@ And seeing Bowie perform early in the movie is pretty cool
 * The kids running through the mall to Heroes has big Sofia Coppola vibes
 * The mom inviting her boyfriend over to withdrawal together is such a kind gesture given the circumstances. But man what a fucking brutal scene
 * David Bowie and Brian Eno’s Berlin music is perfectly ominous for the back half of the movie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4vQ6DN)

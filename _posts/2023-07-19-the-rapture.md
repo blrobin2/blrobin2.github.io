@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Rapture (1991)"
 excerpt: "My review of The Rapture (1991)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4xmssF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Sharon (Mimi Rogers) is a telephone operator by day and a swinger by night, seeking sexual encounters with her friend Vic (Patrick Bauchau)
 
@@ -23,7 +25,3 @@ The movie makes several choices, never staying in one place too long, but follow
 Some conversations go in circles because there aren’t many minor religious details, just “the Pearl,” “the Boy,” and salvation before the end of days, but it’s not a big issue
 
 This movie is out of control, and I love it. Being the director’s first film is wild — it has so much confidence in its choices
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4xmssF)

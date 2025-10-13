@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ichi the Killer (2001)"
 excerpt: "My review of Ichi the Killer (2001)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Icgdl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 29/34 | Asian horror 2/3</a></b>
 
@@ -57,7 +59,3 @@ Like, I think it's clever how Kakihari fetishizes Ichi — how he imagines somet
 <blockquote><i>I really want to lose myself in despair.</i></blockquote>
 
 There's a brilliant movie buried in here. If the movie were 80 minutes (really, if it were <i>Riki-Oh</i>) I might have loved it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Icgdl)

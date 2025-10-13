@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Projected Man (1966)"
 excerpt: "My review of The Projected Man (1966)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5XrJnJ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <i>Movie CW // Misogyny, Abuse, Murder
 MST3K CW // Homophobia, Misogyny, Transphobia</i>
@@ -18,7 +20,3 @@ This is basically <i>The Fly</i>, but with general disfigurement instead of merg
 * They're making so many keys in there
 * Let's project the hell out of this rat
 * He's going to come out half-man, half-watch
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5XrJnJ)

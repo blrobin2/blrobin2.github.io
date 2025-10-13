@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Salò, or the 120 Days of Sodom (1975)"
 excerpt: "My review of Salò, or the 120 Days of Sodom (1975)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5w6SdX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 6/34 | Countries 6/6 | Italy</a></b>
 
@@ -29,7 +31,3 @@ Though diegetic music comes and goes, a deep rumbling rises slowly throughout th
 The silencing is the essential part. It is silencing any wants beyond those the masters give them. The wealthy men divulge their philosophies of hostility and will to power. Like all Fascist movements, they believe they are the true Anarchists and rebels.
 
 Salò remains an important film because Fascism and anti-queer politics are alive and well. We may have grown numb to the banality of their existence, but as long as it exists, we are complicit in its power.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5w6SdX)

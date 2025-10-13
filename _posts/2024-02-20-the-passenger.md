@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Passenger (2023)"
 excerpt: "My review of The Passenger (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Sg8j9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 19/32 | from this year 1/2">Hooptober 7.0 | 19/32 | from this year 1/2</a></b>
 
@@ -31,7 +33,3 @@ The movie evolves beyond its setup, and that's when it becomes engaging.
 This movie was so close to being gay, and it isn't. 
 
 Good performances, shocking gore, and an emotional core help save this stilted script.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Sg8j9)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Giant Spider Invasion (1975)"
 excerpt: "My review of The Giant Spider Invasion (1975)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5OB3W7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The giant spider is so delightfully goofy that it's hard to hate this
 
@@ -20,7 +22,3 @@ The giant spider is so delightfully goofy that it's hard to hate this
 * I've called for the national guard, but he's not in
 * I guess someone tampered in god's domain or something 
 * [tearfully] go packers
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OB3W7)

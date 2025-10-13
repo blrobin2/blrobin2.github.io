@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Manos: The Hands of Fate (1966)"
 excerpt: "My review of Manos: The Hands of Fate (1966)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/9mCzJ7
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 * Ooo, you can really taste the codeine.
 * Look, there's someone at the door. He looks great! I trust him implicitly.
@@ -16,7 +18,3 @@ category: movie_review
 * This is the weirdest tampon commercial I've ever seen.
 * Margaret, open the door! Don't worry—I'm panicky and have a loaded gun!
 * In high school, Torgo was voted most likely to get stabbed on a freight train.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9mCzJ7)

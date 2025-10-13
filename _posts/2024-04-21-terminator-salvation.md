@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Terminator Salvation (2009)"
 excerpt: "My review of Terminator Salvation (2009)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6jqoRT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b>2003</b>
 Dr. Serena Kogan (Helena Bonham Carter) convinced death row inmate Marcus Wright (Sam Worthington) to sell his body to #science.
@@ -35,7 +37,3 @@ Also, since Marcus is a former convict, it looks at how he wants redemption in a
 Anton Yelchin says, "Come with me if you want to live," because I guess someone has to say it at least once every Terminator movie. 
 
 This movie is so dull.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6jqoRT)

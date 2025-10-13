@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bingo Hell (2021)"
 excerpt: "My review of Bingo Hell (2021)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6a3q43
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 29/32 | Mexican director</a></b>
 
@@ -31,7 +33,3 @@ Adriana Barraza and L. Scott Caldwell have so much fun with the roles. They rare
 The deaths are the movie's strong suit — they're gross and made me cringe several times.
 
 The movie doesn't always hit, but I enjoyed seeing a cast full of older actors giving it their all. This is a solid debut film! I'm looking forward to more from Gigi Saul Guerrero.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6a3q43)

@@ -1,17 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Truck Song (1988)"
 excerpt: "My review of Truck Song (1988)"
+rating: ""
+letterboxd_url: https://boxd.it/9aXfEl
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 * You know what going into a tunnel represents, don't you? Death and its eternal void.
 * Frankly, trucks are everywhere and could bring this country to its knees whenever they want.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9aXfEl)

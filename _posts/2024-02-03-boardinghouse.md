@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Boardinghouse (1982)"
 excerpt: "My review of Boardinghouse (1982)"
+rating: ""
+letterboxd_url: https://boxd.it/5Kp9Cd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 17/52 | Shot on Video</a></b>
 
@@ -74,7 +76,3 @@ I also had a glass of wine, so who knows?
 * Debbie tending to her flowers
 * Hand cuts always mess me up, even if they look fake
 * I started cooking, but the band played, Victoria had more weirdo dreams, and folks had a psychic fight in colorful fog. It ruled.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Kp9Cd)

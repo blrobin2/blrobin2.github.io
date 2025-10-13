@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wicker Man (1973)"
 excerpt: "My review of The Wicker Man (1973)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4awMJ5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 “Corn rigs are bonny!” That’s not leaving my head anytime soon
 
@@ -23,7 +25,3 @@ This is the most carefree I’ve seen Christopher Lee in anything. He’s usuall
 Of course, May Day is when shit pops off. Masks, a bread representation of John Barleycorn, conspiracy to murder, kilts…
 
 I don’t think I’ve ever seen a movie quite like this one, a welcome surprise, and a tense, outstanding experience
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4awMJ5)

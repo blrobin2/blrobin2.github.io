@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Orphanage (2007)"
 excerpt: "My review of The Orphanage (2007)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8nf3UR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 16/31 | Countries 1/5 | Spain</a></b>
 
@@ -21,7 +23,3 @@ The Guillermo Del Toro comparisons are expected—he, after all, helped produce 
 So many contemporary horror movies aim for the slow burn with an explosive finale. What often happens is the film is boring. Here, we have a prime example of how to develop your story without boring the audience. Still, it's long for a horror movie and could probably use some cuts for pacing, but nothing significant.
 
 For horror veterans, this film won't do much surprising. Instead, we have all the genre expectations and dread seeing how it plays out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8nf3UR)

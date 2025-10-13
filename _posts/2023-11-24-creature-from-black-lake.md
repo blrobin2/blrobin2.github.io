@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Creature from Black Lake (1976)"
 excerpt: "My review of Creature from Black Lake (1976)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5cYr8T
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> |  25/34 | Joy N. Houck Jr.</b>
 
@@ -29,7 +31,3 @@ But then they meet some redheads and spend a fair chunk of the movie trying to s
 It's got a couple of okay scenes, and the third act is strong, but this movie is more interested in its flat main characters than the monster itself.
 
 It's fun seeing a young (er) Dennis Fimple. Otherwise, this is a slow, dry monster flick.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5cYr8T)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Through a Glass Darkly (1961)"
 excerpt: "My review of Through a Glass Darkly (1961)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9aU2Bn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 45/52 | 1960s</a></b>
 
@@ -44,7 +46,3 @@ Martin wishes to embody the patient and kind love that 1 Corinthians 13 suggests
 David builds a theory that God is love, and love is God. In this way, he wishes to give meaning to his life and counter his son's message from the play that "death alone shall love him." Though the film ends on this idea, Bergman returns to it in an almost mocking way in <i>Winter Light</i>—he said in interviews that he regretted how he ended <i>Through a Glass Darkly</i>, suggesting that he had created "a diffuse veneer of love all over it."
 
 However, these sentiments also reflect Bergman's self-concept as an exploitative filmmaker who cannot create art without drawing from his own life. As David sees the artist as himself in Minus' play, Bergman sees himself as David, too. This remorseless self-regard informs the cold, inhuman touch of so many of his movies. This austere reflection on mortality and meaning may feel humorless, even quaint. But the humanity that pours through these characters still feels alive today.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9aU2Bn)

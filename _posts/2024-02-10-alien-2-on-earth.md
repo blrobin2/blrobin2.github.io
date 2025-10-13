@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Alien 2: On Earth (1980)"
 excerpt: "My review of Alien 2: On Earth (1980)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5NqOQf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 9/32 | 2nd film in franchise 1/7 | Decades 3/6 | 1980s</a></b>
 
@@ -35,7 +37,3 @@ The caving footage is pretty cool, though!
 This movie has the SLOWEST PAN OF ALL TIME! LIKE TWO MINUTES TO GO FROM TOE TO FACE.
 
 But once it goes, it’s pretty good! Do the aliens look like hand puppets? Yes. Do I care? Not really.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5NqOQf)

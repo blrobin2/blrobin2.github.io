@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Caligari (1989)"
 excerpt: "My review of Dr. Caligari (1989)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4k1U0F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 “Your wife has a disease of the libido”
 
@@ -17,7 +19,3 @@ It’s one of those things you might show to a friend to make them go “What th
 Worst of all, it’s just boring — there’s no indicator of where it wants to go, so you just let it unfold for 90 tedious minutes
 
 Neat visuals, though, gross and cartoony, sort of like Nickelodeon’s take on Hellraiser. If only it were enjoyable to watch
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4k1U0F)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Quiet Place (2018)"
 excerpt: "My review of A Quiet Place (2018)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9ptf4n
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 16/52 | PG-13 Horror</a></b>
 
@@ -27,7 +29,3 @@ The smartest move the filmmakers made was putting the film on Netflix, where mil
 The filmmakers' dumbest move was continuing to develop the rules around the monsters as the movie progressed. Seeing that they painted themselves into a corner, they found an exception that allowed them to skirt it.
 
 The film is a great horror movie idea. It's equal parts fun and frustrating to imagine what a director who actually liked the genre could do with it. I tried to suspend disbelief for this story, but when there is so much quiet for reflection, it becomes increasingly harder to accept. Still, I never had a bad time.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ptf4n)

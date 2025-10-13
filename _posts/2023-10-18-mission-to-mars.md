@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mission to Mars (2000)"
 excerpt: "My review of Mission to Mars (2000)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/50Q23F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 20/34 | De Palma</b>
 
@@ -32,7 +34,3 @@ For a space movie, this isn’t all that fun or interesting.
 The creation museum ending is so half-baked that it makes all the build-up to it a bummer. Also, the filmmakers put so much of the film following their trouble getting there. And it doesn’t matter (beyond Tim Robbins’ character dying).
 
 Compare this with a similar movie, <i>Contact</i>, and you can see how uninspired and flat this movie is.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/50Q23F)

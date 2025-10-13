@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Seed of Chucky (2004)"
 excerpt: "My review of Seed of Chucky (2004)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6C52tz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 4/31 | Franchise 4/7</a></b>
 
@@ -33,7 +35,3 @@ To signal the camp vibe they’re going for, John Waters shows up as reporter Pe
 Like the previous movie, this goes for black comedy over all-out horror. The earlier film had some difficulty signaling that transition, but it allows this movie to go all out as a queer cult joyride.
 
 I had a great time watching this! I’m curious to see where the next two direct-to-video movies take the story.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6C52tz)

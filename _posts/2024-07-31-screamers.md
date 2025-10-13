@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Screamers (1995)"
 excerpt: "My review of Screamers (1995)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6ZKACT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 30/31 | Monster 5/5</a></b>
 
@@ -34,7 +36,3 @@ I like (most of) the story! You can see the seams of all the sci-fi cliches they
 The effects are corny and cheap. I’m a big fan of claymation robots, so I never minded them too much. But man, they ran out of kid actors for the Type 3s and it looks awful. But the close-ups are gross and neat. Also, I’m so basic — give me a good explosion or two, and I’ll hang around.
 
 The psychedelic porno glasses are so funny. They’re the most Philip K. Dick thing about this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ZKACT)

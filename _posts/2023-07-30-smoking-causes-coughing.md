@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Smoking Causes Coughing (2022)"
 excerpt: "My review of Smoking Causes Coughing (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4BJnUh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Tobacco Force — five avengers who each represent an ingredient in cigarettes — Benzene, Methanol, Nicotine, Mercury, Ammonia — give a humanoid tortoise (Tortusse) cancer, which causes it to explode in gallons of blood
 
@@ -21,7 +23,3 @@ A very funny and absurd movie. Initially, it felt incomplete, but I think I've j
 <b>Stray Thoughts</b>
 * Nicotine would be a pretty name to give a child
 * Hulu doesn't seem to understand post-credit sequences, so I haven't seen the last 15 seconds of the movie
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4BJnUh)

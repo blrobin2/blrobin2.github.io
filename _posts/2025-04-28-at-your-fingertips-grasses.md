@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "At Your Fingertips: Grasses (1970)"
 excerpt: "My review of At Your Fingertips: Grasses (1970)"
+rating: ""
+letterboxd_url: https://boxd.it/9xEzUd
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>From Rifftrax Live: MST3K Reunion</b>
 
@@ -16,7 +18,3 @@ Riff-a-palooza: Mary Jo, Bridgett Jones Nelson, Frank, Trace Beaulieu, Jona, Joe
 * This artwork is interesting: it reminds me of a young John Wayne Gacy.
 * Unlike that uptight girl on the subway, grass won't mace you when try and braid it!
 * Using yarn instead of grass—is that even allowed??
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xEzUd)

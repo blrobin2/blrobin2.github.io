@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "No One Will Save You (2023)"
 excerpt: "My review of No One Will Save You (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5nbmPz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Brynn (Kaitlyn Dever) lives alone in a house on the outskirts. By all appearances, she is doing well.
 
@@ -39,7 +41,3 @@ This movie also doesn't look like it had a big budget. The creature's CGI is oka
 I find the ending concept appealing. I'm unsure, however, if it fits well with this movie.
 
 Like others, I agree that the film had potential as a short. As it is, it doesn't resonate with me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5nbmPz)

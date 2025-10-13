@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Deliverance (1972)"
 excerpt: "My review of Deliverance (1972)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5FvFG9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 21/34 | Set in the Woods</a></b>
 
@@ -59,7 +61,3 @@ It's the cultural shock of witnessing a man raped in a mainstream movie that gav
 And it's pretty tedious.
 
 I don't hate this movie. It has just lost its luster.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5FvFG9)

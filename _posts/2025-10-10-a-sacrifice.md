@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Sacrifice (2024)"
 excerpt: "My review of A Sacrifice (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/bjGc6X
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 9/31 | Decades 5/9 | 2020s | Cults 2/3</a></b>
 
@@ -31,7 +33,3 @@ Sadie Sink is good, making the most of a weak script. She and Jonas Dassler, who
 Written and directed by Ridley Scott's daughter, Jordan Scott, the film wants to be a taught psychological thriller, but it doesn't want to do any of the work. Instead, it relies on genre cliches and predictable structures.
 
 I don't care if a movie is predictable — it's not what happens, but how it happens that makes a movie entertaining. Here, it happens exactly like you expect it to, including the "twist" in the third act.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bjGc6X)

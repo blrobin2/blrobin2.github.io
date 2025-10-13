@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Thunderball (1965)"
 excerpt: "My review of Thunderball (1965)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5ol8Ml
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
@@ -27,7 +29,3 @@ category: movie_review
 * The rocket pack that shoots yellowish green bubbles rules
 * Did they actually shoot a shark? It was bleeding out of its gills.
 * A plane yeets them out of the raft. THE END
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ol8Ml)

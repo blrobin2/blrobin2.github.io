@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Mutilator (1984)"
 excerpt: "My review of The Mutilator (1984)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4hT3hp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Ed Jr is cleaning his dad’s guns for his dad’s birthday and accidentally shoots his mom in the back — the way he looked down the barrel, I was hoping it would be him. The dad comes home and chases his son off with one of the guns and proceeds to take the body into his den and have a drink with it
 
@@ -25,7 +27,3 @@ Overall, very funny
 * Ed Jr tied up is the most realistically whiney I’ve seen someone 
 * (Sobbing) “Jesus Christ, that’s my dad.”
 * We even get a couple of bloops at the end, hell yeah
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4hT3hp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Visitor (1979)"
 excerpt: "My review of The Visitor (1979)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/86vRut
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 5/31 | Decades 5/10 | 70s</a></b>
 
@@ -21,7 +23,3 @@ There are a few laugh-out-loud scenes. The gun at the birthday party is pretty g
 Critics at the time unfairly compared this to <i>The Exorcist</i>, <i>The Birds</i>, <i>The Omen</i>, and any horror movies with vaguely similar elements. But critics were also dead-set on anything Italian being a rip-off of something from Hollywood.
 
 I wanted to like this as much as other folks on Letterboxd. I enjoyed the movie, but it never reaches the fever pitch the material craves.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/86vRut)

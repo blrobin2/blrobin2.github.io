@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Basket Case 2 (1990)"
 excerpt: "My review of Basket Case 2 (1990)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6J4CFx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 22/31 | Frank Henenlotter</a></b>
 
@@ -38,7 +40,3 @@ Overall, this film is a delightful creature feature, even if it doesn't have muc
 
 <b><i>*** Stray Thoughts  ***</i></b>
 The subtitle for the word shit bleeped out on TV is "sh♪t"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6J4CFx)

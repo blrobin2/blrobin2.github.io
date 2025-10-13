@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Killers of the Flower Moon (2023)"
 excerpt: "My review of Killers of the Flower Moon (2023)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5MpWCz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>I sure do love money. I almost love it as much as I love my wife.</i></blockquote><i>Oklahoma, 1920s</i>
 The Osage Nation discovers oil on their land during the annual flower moon. The white residents witness their ascent as the wealthiest people in the USA.
@@ -40,7 +42,3 @@ DiCaprio is good, but his fake teeth and shaky accent only detract from the stor
 Lily Gladstone is incredible, so I'm excited to watch more with her.
 
 In a lesser hand, this would be abysmal. Here, the filmmakers achieve something that works, considering everything. To do honor to this story, Scorsese shouldn't have made such a lengthy film. This movie might end up like <i>The Irishman</i> — once it leaves theaters, nobody will watch it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5MpWCz)

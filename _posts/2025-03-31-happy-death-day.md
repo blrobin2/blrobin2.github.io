@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Happy Death Day (2017)"
 excerpt: "My review of Happy Death Day (2017)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9hgOHB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href=""https://boxd.it/q7TYk/detail>Oh My Horror 2025 | 14/52| Slashers</a></b>
 
@@ -25,7 +27,3 @@ There's <b>a lot</b> of ableist humor mocking several groups with special needs.
 The <i>Sixteen Candles</i> reference was cute.
 
 It's not a bad movie—I get why the folks who love it do—but it just didn't do much for me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9hgOHB)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Strait-Jacket (1964)"
 excerpt: "My review of Strait-Jacket (1964)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4N78FD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <i><b>WARNING! 'Strait-Jacket' vividly depicts ax murders!</b></i>
 
@@ -28,7 +30,3 @@ Joan Crawford and Diane Baker give their all in this wild — and surprisingly g
 * Michael's dad keeping a pitcher of milk out like some folks keep liquor is the most psychotic thing anyone does in this movie
 * His parents also have a Mona Lisa print on their wall — it's so tacky
 * The beheaded Columbia Pictures logo at the end!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4N78FD)

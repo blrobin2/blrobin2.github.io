@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ballad of Tam Lin (1970)"
 excerpt: "My review of The Ballad of Tam Lin (1970)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5Qz4ux
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>There is a story and verse that belongs to this country — the border of England and Scotland. It is hundreds of years old. It tells the adventures of a young man, held in thrall by the queen of the fairies, who, in the centuries before pantomime, was reckoned a dangerous lady. It is called "A Ballad of Tam Lin."</i></blockquote>
 
@@ -37,7 +39,3 @@ This is Roddy McDowall's only movie he directed, and it's understandable why. Th
 The movie explores a little of Christian faith versus Occult traditions. Though Janet is the daughter of a priest, her mother had charms and read tarot. It also reflects on the Free Love '60s and what remains, leaning into the nuclear family as the only true salvation.
 
 Overall, the movie has its charms. It isn't a movie I love, but the right audience might.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Qz4ux)

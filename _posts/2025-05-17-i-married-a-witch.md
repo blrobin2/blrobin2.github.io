@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Married a Witch (1942)"
 excerpt: "My review of I Married a Witch (1942)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9IjKlF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 47/52 | Sean Baker's Closet Picks</a></b>
 
@@ -35,7 +37,3 @@ Susan Hayward gets plenty of laughs as the "shrew" fiancée. Her best moments ar
 I love the minor key wedding march motif in the opening credits!
 
 The film is silly, but it packs a lot of fun into a small package.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9IjKlF)

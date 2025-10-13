@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Heiress (1949)"
 excerpt: "My review of The Heiress (1949)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4U38YF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Taking place in New York in the 1840s,<i> The Heiress</i> is about Catherine Sloper (Olivia de Havilland), the naive and "unrefined" daughter of Dr. Austin Sloper (Ralph Richardson). Or, as her father describes her, an "entirely mediocre and defenseless creature without a shred of poise."
 
@@ -21,7 +23,3 @@ This act convinces Dr. Sloper that Morris is only after Catherine's inheritance 
 It's hard to talk about this movie without spoiling the direction it takes — maybe you can guess, perhaps not — but I can say that it is incredibly acted, beautifully shot, and an emotional whirlwind whose final shot sent chills up my spine
 
 I'm not a period piece person, and this movie does not shy away from the flowery language and near impenetrable courtesy that each statement must contain — it's practically essential to the plot. However, it let the characters and their emotions speak the loudest, and I was able to fall into its charms
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4U38YF)

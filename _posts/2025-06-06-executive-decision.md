@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Executive Decision (1996)"
 excerpt: "My review of Executive Decision (1996)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9UEcsn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 46/52 | Steven Segal</a></b>
 
@@ -31,7 +33,3 @@ My favorite aspect of the script is how often people disagree with one another, 
 My biggest complaint is the movie's length. It's decent with the action beats and offers a surprise or two along the way, but my eyes glazed over for large swaths of the movie. The second hour is better than the first.
 
 I watched this movie in two parts. I'm glad I did — I was able to enjoy the latter half much more. This movie is still dumb as hell, but it's pretty entertaining.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9UEcsn)

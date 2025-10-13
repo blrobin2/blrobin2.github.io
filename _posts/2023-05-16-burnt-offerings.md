@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Burnt Offerings (1976)"
 excerpt: "My review of Burnt Offerings (1976)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4fDz43
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A family — mother, daughter, son, aunt — moves out into the country to rent an old mansion for the summer. The place is decadent, yet the owners ask for a cheap price. The only exception — the owners’ 85-year-old mother will stay in the house with them
 
@@ -29,7 +31,3 @@ I enjoyed this one a good bit!
 Stray Thoughts
 * Trying to make Oliver Reed look like an average dad when he has that face
 * The kid brings Twister to the house — who exactly does he expect to play Twister with him?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4fDz43)

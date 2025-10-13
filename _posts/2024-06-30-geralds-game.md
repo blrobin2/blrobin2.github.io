@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gerald's Game (2017)"
 excerpt: "My review of Gerald's Game (2017)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6LSn3h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 29/31 | Stephen King Adaptation</a></b>
 
@@ -35,7 +37,3 @@ The hand trauma in this movie is the most brutal I remember seeing. Jesus Christ
 Mike Flanagan is consistently as bad as Stephen King at endings, and this movie is no exception. The movie didn't exactly have subtext, but the ending erases any shades of nuance. The last moment is so baffling.
 
 Still, those final fifteen minutes don't undo the tense and engaging experience before it. Folks have often considered the original Stephen King story unfilmable. This movie doesn't disprove that, but it's the best possible attempt I can imagine.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6LSn3h)

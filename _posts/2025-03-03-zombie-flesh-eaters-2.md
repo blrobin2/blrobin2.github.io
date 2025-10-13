@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Zombie Flesh Eaters 2 (1988)"
 excerpt: "My review of Zombie Flesh Eaters 2 (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/90tLjp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk">Cult Movie Challenge 2017 | 2/52 | Bruno Mattei</a></b>
 
@@ -21,7 +23,3 @@ The film is an unsubtle allegory for the dangers of pollution. A DJ on the radio
 While the movie doesn't do much for the zombie genre, especially compared to Fulci's <i>Zombi 2</i>. The production was fraught since Fulci left partway through, leaving a cut of about 50 minutes. Mattei and Claudio Fragasso finished it but left directing credit to Fulci.
 
 That said, the movie has some fun and gory sequences, especially once the flamethrower enters the picture. I get why genre fans love this one. While I don't share their enthusiasm, I did enjoy myself.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/90tLjp)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "9 Deaths of the Ninja (1985)"
 excerpt: "My review of 9 Deaths of the Ninja (1985)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5CvCEx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail#item-3706935415">Cult Movie Challenge 2024 | 3/52 | Crown International Pictures</a></b>
 
@@ -41,7 +43,3 @@ I’m not hating on anyone who likes this — this just isn’t for me.
 * I know Sho Kosugi is beloved for his roles in <i>Enter the Ninja</i> and whatnot, but I’ve only seen him in stinkers thus far :(
 * Spike having lollipops with the kids at the end is cute
 * "Take Me High" is a banger
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CvCEx)

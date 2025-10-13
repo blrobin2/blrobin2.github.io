@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Late Spring (1949)"
 excerpt: "My review of Late Spring (1949)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/56R6v5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 7/52 | Films to Fall Asleep To</b>
 
@@ -35,7 +37,3 @@ His sense of timing and space slows the story down, intentionally so, giving the
 Quiet, beautiful, and lighthearted, the film tells a slice-of-life story with deep emotional undercurrents.
 
 It's hard to overstate the impact of this landmark film on cinema history.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56R6v5)

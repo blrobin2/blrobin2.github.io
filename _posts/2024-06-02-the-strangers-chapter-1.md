@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Strangers: Chapter 1 (2024)"
 excerpt: "My review of The Strangers: Chapter 1 (2024)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6AM7Pj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Somewhere in Oregon, Maya and Ryan are on a multi-day cross-country road trip to Portland. They pull into Venus, a small town where folks eye outsiders suspiciously. At a diner, they hear about a guy who passed through, ate at the same restaurant, and went missing.
 
@@ -35,7 +37,3 @@ Still, as a former <i>Riverdale</i> fan, I am pleased that Madelaine Petsch is g
 * Axes the door with hello written on it so it says "hell."
 Maya is an architect, so she uses her knowledge of houses to survive.
 * Two of the masks look so similar that I didn't realize there were three killers.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6AM7Pj)

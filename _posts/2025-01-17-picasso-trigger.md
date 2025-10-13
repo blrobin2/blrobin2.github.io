@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Picasso Trigger (1988)"
 excerpt: "My review of Picasso Trigger (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8veSSR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 9</a></b>
 <b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a>
@@ -42,7 +44,3 @@ Don't get me wrong—this movie is silly and entertaining, but it pales compared
 * The interstitials are fucking killer. I love the red lines through the white text look. These movies have always had solid graphic design.
 * — Didn't I tell you, Jade? I got a black belt in shotgun.
 * The Picasso Trigger theme in the credits is a bop! "Pullin' the trigger, jumpin' the gun!"
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8veSSR)

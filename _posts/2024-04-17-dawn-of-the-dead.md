@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dawn of the Dead (1978)"
 excerpt: "My review of Dawn of the Dead (1978)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6i63QV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 16/32 | Romero | Anniversary Film 10/10</a></b>
 
@@ -45,7 +47,3 @@ Something, something consumerism — it's not subtle and overstated throughout. 
 The film delves into the strain of quarantine on relationships. Reality fades, and the world stands still — the routines, the anger, the alcoholism. The feeling that you have everything you want, but it isn't enough.
 
 I'd probably rate this higher if it were shorter. This version has so much hanging out. On one hand, it engenders us to the characters. But there's a point where I felt like I was waiting for the movie to make a move.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6i63QV)

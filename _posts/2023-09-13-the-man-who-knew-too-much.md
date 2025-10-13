@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Man Who Knew Too Much (1934)"
 excerpt: "My review of The Man Who Knew Too Much (1934)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4Q22dl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 A ski trip, a skeet competition, a bullet through the glass — the assassination of a new acquaintance and the kidnapping of their daughter enmesh Bob and Jill in a secret plot
 
@@ -22,7 +24,3 @@ Much like <i>Strangers on a Train</i>, a tedious shootout severely undercuts the
 * There is a tremendous shot of Jill surveying the music hall while the chorus sings, "God save the child," and her eyes blur with tears as she realizes what is happening
 * Peter Lore hovering on the outskirts of every scene — was there ever a time when he didn't outshine everyone else on screen?
 * It's wild that Lore didn't speak English yet and had to learn his lines phonetically
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Q22dl)

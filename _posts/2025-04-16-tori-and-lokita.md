@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tori and Lokita (2022)"
 excerpt: "My review of Tori and Lokita (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9q6L0Z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 35/52 | Growing Pains: coming-of-age films</a></b>
 
@@ -28,7 +30,3 @@ It's difficult to determine the line between representation of real issues and e
 The only other movie I've seen from the Dardenne's is <i>Rosetta</i>, which feels similar to this in that it looks at troubled youth surviving in Belgium. Following the social realist model, the Dardennes focus on the working class and youth. Their films tend not to moralize, only observe. They follow that model to a degree but take the movie in uncharacteristic directions.
 
 Still, aspects of this story feel vital, especially in a world where the treatment of immigrants and overseas workers only grows worse as Late Capitalist exploitation corrodes. This film elicits empathy for its characters, who are otherwise invisible.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9q6L0Z)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Jin-Roh: The Wolf Brigade (1999)"
 excerpt: "My review of Jin-Roh: The Wolf Brigade (1999)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/anIjjh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 3/52 | Anime</a></b>
 
@@ -33,7 +35,3 @@ Why do people join ICE, MAGA, or the military? Because they see a world of fract
 <blockquote><i>It's not a human being you're betraying.</i></blockquote>
 
 Fuse's journey begins when he sees another possibility. As long as we believe that this shift is possible for individuals, the fight isn't over. Whether this film agrees is left for the viewer to discover.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/anIjjh)

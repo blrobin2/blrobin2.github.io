@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Raising Arizona (1987)"
 excerpt: "My review of Raising Arizona (1987)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/apisKR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 * I'd also fall in love with Ed
 * He tried to stay straight but it was "hard with Reagan in office."
@@ -18,7 +20,3 @@ category: movie_review
 * "Don't print that — if his mama read that she'd lose all hope."
 * "I don't know, they're jammies — they got Yodas and shit on them!"
 * "I loooove to drive." "You said something right there."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/apisKR)

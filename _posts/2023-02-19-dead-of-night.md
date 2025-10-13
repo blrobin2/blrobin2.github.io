@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Dead of Night (1974)"
 excerpt: "My review of Dead of Night (1974)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3SfiON
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 “Had me a dog once, ate a pickle!” Now that’s small talk
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3SfiON)

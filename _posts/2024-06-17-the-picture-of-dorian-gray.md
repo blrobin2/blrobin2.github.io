@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Picture of Dorian Gray (1945)"
 excerpt: "My review of The Picture of Dorian Gray (1945)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6GQR0t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 15/31 | Before 1970 2/5 | Decades 2/5 | 40s</a></b>
 
@@ -34,7 +36,3 @@ Hurd Hatfield gives a decent performance as someone who lost their soul but stil
 The film tones down the homoeroticism of the novel, but not by that much. The men can talk of women and whatnot, but how they discuss beauty, especially Dorian's, has no straight reading.
 
 Overall, I was impressed with how bleak and close to the novel the movie was, especially for the period.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6GQR0t)

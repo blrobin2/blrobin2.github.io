@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Class of Nuke 'Em High (1986)"
 excerpt: "My review of Class of Nuke 'Em High (1986)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5DS5zJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Even if there were some radiation around here, who gives a shit?</i></blockquote>Welcome to Tromaville, the toxic waste capital of the world!
 
@@ -39,7 +41,3 @@ The filmmakers are fully aware of the tropes and clichés they are lampooning.
 Unsurprisingly, homophobia and transphobia are rampant, as the movie doesn't want to waste an opportunity to upset or offend.
 
 Don't watch this fucking movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5DS5zJ)

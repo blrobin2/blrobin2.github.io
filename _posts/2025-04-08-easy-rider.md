@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Easy Rider (1969)"
 excerpt: "My review of Easy Rider (1969)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9lCJnh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 30/52 | America Lost and Found: The BBS Story</a></b>
 
@@ -23,7 +25,3 @@ The best part of the movie is the cinematography. Hopper, who is also a photogra
 Ultimately, the film feels like boys in Hollywood wanting to make an exploitation flick. Hopper tried to bring the movie to Roger Corman to produce, but Hopper scared off potential buyers. So, they took the project to Bert Schneider and Bob Rafelson, who created The Monkees.
 
 I'm sure the movie was exciting for all the trust-fund babies and rebellious upper-class kids it depicts. Today, however, the movie is a time capsule of a particular brand of self-indulgence that still draws in libertarians and the occasional teenager despite its obvious indictment of counterculture's self-destructive tendencies. Or maybe I'm giving the filmmakers too much credit.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9lCJnh)

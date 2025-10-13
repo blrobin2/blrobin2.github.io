@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Intruder Within (1981)"
 excerpt: "My review of The Intruder Within (1981)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5AOZi5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="">Hooptober 8.0 | 13/34 | From 1981 2/4</a></b>
 
@@ -52,7 +54,3 @@ This will rock no one's world, but because it is a functional human drama, the d
 * I like Mark and Robyn's friendship! He shows her brotherly affection and care, making them comfortable around each other.
 * The fully grown monster looks closer to Nemesis from <i>Resident Evil</i> than a Xenomorph.
 * The 80s had a knack for creating wet creatures.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5AOZi5)

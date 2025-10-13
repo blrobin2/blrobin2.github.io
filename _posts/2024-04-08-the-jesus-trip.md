@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Jesus Trip (1971)"
 excerpt: "My review of The Jesus Trip (1971)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6eocFx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 15/52 | Biker</a></b>
 
@@ -33,7 +35,3 @@ I don't know! It's got decent vibes. It isn't good, but I wouldn't dismiss it en
 * That helicopter explosion looked not cheap.
 * — Who knows how to cook a chicken? — Who needs to cook him?
 * The crossfade of Anna screaming and the cross
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6eocFx)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Secret Ceremony (1968)"
 excerpt: "My review of Secret Ceremony (1968)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4w8jYb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Let no one snatch me from this heaven</i></blockquote>Leonora (Elizabeth Taylor) and Cenci (Mia Farrow) find solace in other another — Cenci thinks Leonora is her lost mother, Leonora sees a surrogate child for the one she lost in a drowning accident
 
@@ -21,7 +23,3 @@ Elizabeth Taylor is good when the emotions have to get big, but the needy person
 Robert Mitchum is creepy as hell, totally confident in the choices he’s made and the things he’s done to Cenci — his character went to prison for child molestation
 
 Overall, I enjoyed the actors doing weird stuff, but this isn’t one I plan to revisit
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4w8jYb)

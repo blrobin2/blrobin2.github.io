@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Disco Godfather (1979)"
 excerpt: "My review of Disco Godfather (1979)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9vFmYb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 31/52 | Blaxploitation</a></b>
 
@@ -36,7 +38,3 @@ The parts that lose me a bit are the dance sequences. They have some moments, bu
 Keith David makes an appearance somewhere. Alas, I did not spot him.
 
 This movie is probably the best anti-drug film I've seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9vFmYb)

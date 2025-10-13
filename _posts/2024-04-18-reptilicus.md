@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Reptilicus (1961)"
 excerpt: "My review of Reptilicus (1961)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6iuovx
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Despite my better judgment (and because of my completionist tendencies), I'm giving the <i>MST3K</i> reboot a shot
 
@@ -17,7 +19,3 @@ TV's son of TV's Frank is funny
 * Fire in the aquarium? That'll sort itself out
 * — Dr. Darby? — No, these are just glasses, Dr. Darby was much taller 
 * What about shooting him? I mean REALLY shooting him?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6iuovx)

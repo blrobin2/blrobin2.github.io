@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Village of the Damned (1960)"
 excerpt: "My review of Village of the Damned (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/b0pMYV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 37/52 | Black & White Horror</a></b>
 
@@ -38,7 +40,3 @@ Of the John Wyndham adaptations I've seen, this one is by far the best. And 77-m
 * I like that the psychic powers are slow-moving — a, more dramatic, but b, it makes it clear that they're not just speaking words into his brain but manipulating brain functioning itself.
 * — Why would he ask YOU to take care of me? — I don't know, manner of speech, I suppose.  
 * THE EYES!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b0pMYV)

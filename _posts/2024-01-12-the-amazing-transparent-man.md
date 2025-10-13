@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Amazing Transparent Man (1960)"
 excerpt: "My review of The Amazing Transparent Man (1960)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5zk3jv
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * Am I that amazingly transparent?
 * I'm glad its not the annoying transparent man
@@ -24,7 +26,3 @@ category: movie_review
 * Oppenheimer cupped Einstein's breasts as Nils Bohr let his mock slip to the lab floor
 * Either he's invisible or the rice is done
 * I'll be right back after this
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5zk3jv)

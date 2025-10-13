@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Trouble in Paradise (1932)"
 excerpt: "My review of Trouble in Paradise (1932)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/bfT3L3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 21/52 | Pre-Code</a></b>
 
@@ -25,7 +27,3 @@ The film briefly touches on the woes of the Great Depression through factory wor
 <blockquote><i>You have to be in the social register to keep out of jail. But when a man starts at the bottom and works his way up, a self-made crook, then you say, "Call the police. Put him behind bars. Lock him up."</i></blockquote>The sets are immaculate Art Deco. The gowns are numerous and elegant—one gown looks so sparkling that it almost appears blue in this monochrome film. The performances are good, Miriam Hopkins is hysterical, but Kay Francis steals every scene she's in.
 
 Watch it, ya dork!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bfT3L3)

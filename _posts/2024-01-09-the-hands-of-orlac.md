@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hands of Orlac (1924)"
 excerpt: "My review of The Hands of Orlac (1924)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5xyw4J
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 7/34 | Decades 1/8 | 20s</a></b>
 
@@ -33,7 +35,3 @@ The film drags a bit, even by silent movie standards, as it indulges in dread an
 The film is full of beautifully composed shots that create a ton of space, putting characters at the edges.
 
 Although the film has elements of long shadows and dark edges, it doesn't cross into the abstract world of German Expressionism. It fits closer to Fritz Lang regarding formal qualities and the pulpy mystery at the center.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5xyw4J)

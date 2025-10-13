@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Crippled Avengers (1978)"
 excerpt: "My review of Crippled Avengers (1978)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/asRg6H
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 4/52 | Shaw Brothers</a></b>
 
@@ -35,8 +37,3 @@ I'm still new to Shaw Brothers movies, so I'm not sure how this one compares to 
 * Why do those guys fight with cymbals? Oh, I guess to distract the blind guy.
 * Iron foot to the heart — fucking brutal.
 Oh hell yeah, they brought back the rings.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/asRg6H)

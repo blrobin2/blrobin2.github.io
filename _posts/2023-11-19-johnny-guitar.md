@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Johnny Guitar (1954)"
 excerpt: "My review of Johnny Guitar (1954)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5bqvVN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b>Vienna is nonbinary — I won't be taking questions at this time</b>
 
@@ -45,7 +47,3 @@ Emma is a fantastic villain — her motives make sense, as flawed as they are, a
 Vienna only wears a dress once. She typically opts for jeans and the most colorful button-up. I want all of them.
 
 <i>Fallout: New Vegas</i> has made it impossible for me not to hear the movie's theme without getting chills. They don't play the version with lyrics until the denouement — phew!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5bqvVN)

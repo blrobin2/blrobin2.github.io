@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cecil B. Demented (2000)"
 excerpt: "My review of Cecil B. Demented (2000)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9SqavN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 44/52 | John Waters</a></b>
 
@@ -29,7 +31,3 @@ Ah, Baltimore, the city of stars. We all recognize its iconic skyline. Honey Whi
 * "Action fans! Help us!"
 * Kevin Nealon stars as Forest Gump in Forest Gump 2: Gump Happens, filmed entirely in Baltimore.
 * Is Cecil B. Demented supposed to look like Toby Dammit?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9SqavN)

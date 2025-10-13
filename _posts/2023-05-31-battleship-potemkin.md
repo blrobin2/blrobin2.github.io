@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Battleship Potemkin (1925)"
 excerpt: "My review of Battleship Potemkin (1925)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4jmP5t
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 A group of sailors stands in solidarity to mutiny against the unlivable conditions of their ship, refusing the maggot-filled food. The non-rebelling soldiers kill the leader, and the mutiny is quelled
 
@@ -23,7 +25,3 @@ Hard to overstate how important this is and how watchable it still is. Glad I re
 Stay Thoughts
 * The priest looks like Moses on Mt Sinai
 * The water in the fog looks so good — it’s hypnotic
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4jmP5t)

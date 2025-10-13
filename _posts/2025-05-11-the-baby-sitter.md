@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Baby Sitter (1949)"
 excerpt: "My review of The Baby Sitter (1949)"
+rating: ""
+letterboxd_url: https://boxd.it/9EOJW7
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Bridget Nelson & Mary Jo Pehl riffing
 
@@ -14,8 +16,3 @@ Bridget Nelson & Mary Jo Pehl riffing
 * See you later, Mary, when I freak you out by trying to breastfeed. Goo goo ga ga.
 * Just help yourself to ice cubes and breast milk.
 * Wait, you don't just go home when they're in bed?
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9EOJW7)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Gamera vs. Guiron (1969)"
 excerpt: "My review of Gamera vs. Guiron (1969)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6QO4mr
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Joel's cut his long hair! He's looking like the Joel I know (aka slightly less of a massive pothead).
 
@@ -18,7 +20,3 @@ This movie has the worst dubbing I've ever seen. It's so scattered. But the spac
 * — How can I make mom understand? — Psst, the telescope, over there
 * Wake up, or I'm dying
 * People from the future are so smug. Did you know that?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QO4mr)

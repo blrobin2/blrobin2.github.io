@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hellcats (1968)"
 excerpt: "My review of The Hellcats (1968)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4EzAXl
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * meanwhile on route 66, James Dean takes a lazy spin
 * steve's dead, from now on steve will be represented by the oboe
@@ -16,7 +18,3 @@ category: movie_review
 * this guy has a thing or two to learn about tying people to furniture 
 * oh thank goodness, they found a dremel tool with a cutting blade
 * she ran... and she ran... and she ran, and they caught it on film
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4EzAXl)

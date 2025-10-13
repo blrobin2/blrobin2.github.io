@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Perfection (2018)"
 excerpt: "My review of The Perfection (2018)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9ShagP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail
 ">Oh My Horror 2025 | 23/52 | LGBTQ+ Horror</a></b>
@@ -32,7 +34,3 @@ If you've seen horror movies, you might be able to predict some of the direction
 No one who worked on this movie knows music. Like, at all. It's kind of funny when the film gives up before it makes it too obvious.
 
 I want that "Made in China" neon sign in Lizzie's hotel room!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ShagP)

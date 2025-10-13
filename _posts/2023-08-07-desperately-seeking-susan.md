@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Desperately Seeking Susan (1985)"
 excerpt: "My review of Desperately Seeking Susan (1985)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4EI5fZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>Desperate. I love that word — it's so romantic.</i></blockquote>Roberta is married and unhappy with her life, following the exploits of Susan and Jim in their want ad romance, whose title is always "Desperately Seeking Susan." She decides to go to their meeting place and follow Susan, getting to know her mannerisms and style. 
 
@@ -27,7 +29,3 @@ I love it!
 * Coffee shop playing "Someday, Someway" by Marshall Crenshaw — I love that song
 * Woah, the reunited triplets from the Three Identical Strangers documentary have a cameo!
 * Rum and Tab, I wish I could order that
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4EI5fZ)

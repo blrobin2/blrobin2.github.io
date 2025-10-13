@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Embrace of the Vampire (1995)"
 excerpt: "My review of Embrace of the Vampire (1995)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/66OJ2N
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 22/32 | women-directed film 2/2</a></b>
 
@@ -29,7 +31,3 @@ That said, this isn't high art. It's like a Harlequin Romance. Charlotte has lit
 The score is by Joseph Williams, the lead singer of Toto and son of Barbara Ruick and John Williams. It sounds like every low-budget horror movie from the 90s. I need to find out if he's scored any Charles Band movies.
 
 As erotica, this is tame but evocative. As a movie, it's a little silly. However, it's not a complete disaster.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/66OJ2N)

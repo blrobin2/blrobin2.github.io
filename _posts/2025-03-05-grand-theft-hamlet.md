@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Grand Theft Hamlet (2024)"
 excerpt: "My review of Grand Theft Hamlet (2024)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/91DFQr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>This film is shot entirely inside the video game Grand Theft Auto Online, a violent and beautiful virtual world where almost anything is possible…</i></blockquote>
 
@@ -19,7 +21,3 @@ Sam's partner, Pinny, creates a new character and meets Sam at his apartment. Sh
 So, let's get this out of the way — this isn't a documentary. Its scripted nature becomes more apparent when other online players join in. Also, moments of fun seeming randomness come to a grinding halt with discussions of COVID, lockdown, and joblessness.
 
 I don't think these details ruin the movie. I enjoyed watching the process unfold. But I wasn't excited about it and wouldn't necessarily recommend it unless the concept appeals to you.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/91DFQr)

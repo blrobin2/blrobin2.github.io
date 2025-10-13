@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mark of the Devil (1970)"
 excerpt: "My review of Mark of the Devil (1970)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5yH92d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 10/34 | Folk Horror 1/2 | Decades 4/8 | 70s</a></b>
 
@@ -39,7 +41,3 @@ In the end, it doesn't do much with its premise, leaning more into the brutality
 * I guess Lord Cumberland is impotent. He goes into a frenzy whenever it comes up. He strangles Albino to death over it.
 * Puppets genuinely confuse the advocate, and he declares the puppeteer a witch.
 * The most fucked up thing is the guy tying strings to a rabbit and playing with it like a puppet :(
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5yH92d)

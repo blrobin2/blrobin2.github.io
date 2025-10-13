@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Exterminating Angel (1962)"
 excerpt: "My review of The Exterminating Angel (1962)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4wxheZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 After an opera, a rich dude hosts a dinner party. But after the help leave and everyone stays the night, they discover that they cannot leave the room they’re in
 
@@ -24,7 +26,3 @@ It also captures the tensions felt during quarantine — the typhoid quarantine 
 * “Three things I’ve hated since I was a child — violence, starvation, and filth”
 * Thing?!
 * “We don’t want reason; we want out of here”
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4wxheZ)

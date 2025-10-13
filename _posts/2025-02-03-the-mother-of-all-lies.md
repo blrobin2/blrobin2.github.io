@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Mother of All Lies (2023)"
 excerpt: "My review of The Mother of All Lies (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8IoAzJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 36/52 | Documentary about Africa by an African director</a></b>
 
@@ -23,7 +25,3 @@ Asmae spent years trying to convince her grandmother to be in the documentary. A
 What feels like a gimmick at first arrives at a place of catharsis and processing of trauma for people whose stories went unheard until this documentary. Through this form of storytelling, the documentary unveils darker stories, such as the violent military crackdown in Asmae's neighborhood during the 1981 Bread Riots.
 
 This film is rough to get through in parts but such a vital document.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8IoAzJ)

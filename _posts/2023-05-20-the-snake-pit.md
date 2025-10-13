@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Snake Pit (1948)"
 excerpt: "My review of The Snake Pit (1948)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4gAKpz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Virginia (Olivia de Havilland) is sitting on a bench in a park, not knowing where she is. Though we realize she is in an asylum, she cannot deduce where she is or why she is there. She hears voices that convince her not to trust people, even if she thinks she knows them
 
@@ -27,7 +29,3 @@ Stray Thoughts
 * All the women gathered around the nurse with a lit match to light their cigarettes — big mood
 * Everyone singing Dvorak’s “Goin’ Home” at the dance was so sad
 * A movie where the leads don’t end up in love? That’s an achievement in and of itself
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4gAKpz)

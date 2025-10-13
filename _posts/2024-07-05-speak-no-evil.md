@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Speak No Evil (2022)"
 excerpt: "My review of Speak No Evil (2022)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6O9dxD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b></b><a href="https://boxd.it/pRQY0/detail" title="Hoop-Tober | 27/31"><b>Hoop-Tober | 27/31</b>
 </a>
@@ -23,7 +25,3 @@ I find it difficult to understand why the family stays as long as they do. It ha
 </i><i>— Because you let me.</i></blockquote>The film has several Biblical allusions, but I'm unsure how it all adds together to say anything.
 
 I like this — it has one of the more terrifying scenes I can recall — but I feel like it's a little empty.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6O9dxD)

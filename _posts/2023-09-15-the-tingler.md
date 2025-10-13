@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Tingler (1959)"
 excerpt: "My review of The Tingler (1959)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4QwEqH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <i>The Tingler</i> is the story of Dr. Warren Chapin (Vincent Price) investigating the effect of fear on the body. He believes that it is the scream that releases the deadly tension and that without the ability to scream, fear will shock you and perhaps kill you
 
@@ -25,7 +27,3 @@ While William Castle made his career out of being a campier Hitchcock, he finds 
 * "Cut my head off. Boil me in oil," David says with a smile as he walks in the door
 * incredible use of color for the scene with the blood in the sink
 * Vincent Price saying that he has taken LSD to "induce paranoia" is a treat
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4QwEqH)

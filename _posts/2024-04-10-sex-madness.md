@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sex Madness (1938)"
 excerpt: "My review of Sex Madness (1938)"
+rating: ""
+letterboxd_url: https://boxd.it/6fgb8v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 9/32 | Anniversary Film 8/10 | Before 1970 1/6</a></b>
 
@@ -25,7 +27,3 @@ Also, like <i>Reefer Madness</i>, it's a boring curio more than anything. Exploi
 * The Hays Code made an exception to taboo subjects if the filmmakers framed it as "educational." It's the same loophole that allows fetish and sexually explicit videos to exist on YouTube.
 * Dwain Esper also engaged in satirical takes on educational films such as <i>How to Undress in Front of Your Husband</i>. The short is mostly about watching Elaine Barrie undress but is told from the perspective of a peeping tom trying to inform the public.
 * Kino released an audio commentary for <i>Sex Madness</i> with Patton Oswalt and Rob Zabrecky pretending to give a history of the film. I'd love to track it down.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6fgb8v)

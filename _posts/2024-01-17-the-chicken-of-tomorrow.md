@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Chicken of Tomorrow (1948)"
 excerpt: "My review of The Chicken of Tomorrow (1948)"
+rating: ""
+letterboxd_url: https://boxd.it/5CccCH
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 * Dedicated to the chicken who lost their lives in the great war
 * These are your chickens on drugs
@@ -18,7 +20,3 @@ category: movie_review
 * Some eggs don't even exist
 * These chickens were smoking in bed
 * Did America really need to be sold on the automotive industry at this point?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5CccCH)

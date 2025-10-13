@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Westworld (1973)"
 excerpt: "My review of Westworld (1973)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/54nhDB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Delos has developed the vacation of the future — a set of themed worlds that create immersive experiences with the aid of near-human-looking robots.
 <blockquote><i>There's no way to get hurt here, so enjoy yourself</i></blockquote>
@@ -26,7 +28,3 @@ Don't get me wrong, I still found this entertaining. It's just one of those conc
 * Dying at the guy's wife slobbering over the idea of lax moral orgies
 * pixelated robot vision is cool
 * big backrooms energy in the underground
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/54nhDB)

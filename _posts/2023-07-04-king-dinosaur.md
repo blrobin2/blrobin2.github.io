@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "King Dinosaur (1955)"
 excerpt: "My review of King Dinosaur (1955)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/4sVMh3
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 I am obsessed with the CGI DVD menu
 
@@ -15,7 +17,3 @@ I am obsessed with the CGI DVD menu
 * Boy, you burn a human body, there’s not much left of ‘em!
 * I don’t know about this lemur, tastes kinda gamey
 * Red flair at night, lizards fight — Red flair at morning, lizards take warning
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4sVMh3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Radar Men from the Moon (1952)"
 excerpt: "My review of Radar Men from the Moon (1952)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4xswER
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * isn’t any amount of atomic energy on the moon unusual?
 * Why do they hate trains so much? Well, it’s not so much the trains as what they stand for
@@ -17,7 +19,3 @@ category: movie_review
 * Hate to shoot a butt like that!
 * I think I’m gonna go cut an apple in half and watch it brown
 * Have you ever kissed a dog? Like, right on the mouth?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4xswER)

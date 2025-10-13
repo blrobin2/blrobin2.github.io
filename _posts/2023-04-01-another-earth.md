@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Another Earth (2011)"
 excerpt: "My review of Another Earth (2011)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/43zJtB
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 A woman accidentally kills a family in a car crash while trying to look at a planet ostensibly identical to ours in the sky called Earth 2. When she gets out of prison, she learns that the father was just in a coma and woke up
 
@@ -25,7 +27,3 @@ Stray Thoughts
 * Some fantastic shots with the second earth and the moon in the background. They feel out of place in the digital blue handheld cinematography of the rest of the movie
 * I see the Asimov novels on the desk. I get it movie
 * Of course, they fall in love. Of course, these actors have zero chemistry
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/43zJtB)

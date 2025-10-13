@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The She-Creature (1956)"
 excerpt: "My review of The She-Creature (1956)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5NwfMf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The monster rules — nowhere near enough screen time
 
@@ -20,7 +22,3 @@ The monster rules — nowhere near enough screen time
 * Sometimes I just trail off, I...
 * What?
 * His emotional memory is the previous scene
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5NwfMf)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Vitelloni (1953)"
 excerpt: "My review of I Vitelloni (1953)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9JDHel
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 48/52 | Amy Heckerling's Closet Picks</a></b>
 
@@ -25,7 +27,3 @@ The boardwalk becomes the locus point where the boys' dreams seem closest to rea
 Amy Heckerling called <i>I Vitelloni</i> "<i>Mean Streets</i> before <i>Mean Streets</i>… [but] sadly lacking in Ronnettes songs." The comparison is apt—the narrator is conversational, asking questions and reflecting as he breaks down who is who and what is what. As we meet our cast, the camera leans into long, moving dolly shots. The story uses montage to connect large swaths of passing time as we see our characters' lives unfold.
 
 Even in the ending, which gives no clear resolution, we see Fellini's inability to commit. As an artist, he wishes to draw the audience in and let them take off on their own journey. And so he returns home to the same wells, unable to move on, disconnecting further from reality.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9JDHel)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Man on Earth (1964)"
 excerpt: "My review of The Last Man on Earth (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/b12nTz
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <a href="https://boxd.it/87hb3V">I kind of like this movie</a>, but I get why the Rifftrax folks chose this one. It's slow and dry, but I enjoy the worldbuilding and Vincent Price. Speaking of Price, all the Rifftrax boys try their hand at an impersonation of him, but none really land it. Also, way too many dick jokes, including one about getting a dog to lick peanut butter off of…
 
@@ -20,8 +22,3 @@ category: movie_review
 * [sadly] honk shoo, honk shoo, honk shoo…
 * What do you say, you and I, and this garland of garlic, find a beautiful place out in the country?
 * This death squad isn't very reasonable!
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b12nTz)

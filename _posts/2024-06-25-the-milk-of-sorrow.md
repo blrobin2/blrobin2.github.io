@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Milk of Sorrow (2009)"
 excerpt: "My review of The Milk of Sorrow (2009)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6K45SH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 26/52 | Made in a country with a border that crosses the Equator by a director from that country (Peru)</a></b>
 
@@ -35,7 +37,3 @@ The potato is an intentional choice for its prominence in Quechua culture. The p
 The film does not chase any straightforward answers. Her fear is justified and understandable. Even when she attempts to trust no men in her life, men still betray it. How she can escape it is uncertain. How it manifests in Fausta belongs to her and grows abstract in places — the presence of a man can cause as much fear as a drill. 
 
 The movie acts as a glimpse into a culture folks like myself know little to nothing about. Fausta's trauma gives us one aspect, but the film is multifaceted in its intent, for better or worse.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6K45SH)

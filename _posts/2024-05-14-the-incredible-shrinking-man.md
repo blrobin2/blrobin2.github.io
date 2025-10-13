@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Incredible Shrinking Man (1957)"
 excerpt: "My review of The Incredible Shrinking Man (1957)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6tbrrp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 13/31 | Before 1970 1/6</a></b>
 
@@ -37,7 +39,3 @@ This movie may have killed Jack Arnold’s career. His films before, including <
 Overall, this movie is incredibly my shit. It’s not perfect — I could have done without the narration — but it’s 80 minutes and still looks great.
 
 The big match is cool as shit.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tbrrp)

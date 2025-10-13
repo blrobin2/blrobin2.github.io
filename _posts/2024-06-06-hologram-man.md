@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Hologram Man (1995)"
 excerpt: "My review of Hologram Man (1995)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6CwGet
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 23/52 | PM Entertainment</a></b>
 
@@ -48,7 +50,3 @@ This sucks! I would love to do a super-cut of this to show to friends. But at an
 * Natalie has sex with holographic Kurt, and it causes all the appliances to go haywire and catch fire.
 * Natalie forgot to ionize Kurt’s particles, so Slash could theoretically destroy him. At the very least, Slash is stronger than him.
 * Kurt kills the Corporate President!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6CwGet)

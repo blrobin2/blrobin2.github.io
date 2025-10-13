@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Night Killer (1990)"
 excerpt: "My review of Night Killer (1990)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/8GyQoz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 52/52 | Bruno Mattei</a></b>
 
@@ -25,7 +27,3 @@ The movie will cut to random murder scenes unrelated to the main story. I assume
 The detective's, "Fuck!" is an all-timer for me. I laughed so hard.
 
 If you love terrible movies, this one has a lot to offer. It's fucking abysmal, and I had a great time.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8GyQoz)

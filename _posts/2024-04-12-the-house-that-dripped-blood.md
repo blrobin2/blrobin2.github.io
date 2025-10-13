@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House That Dripped Blood (1971)"
 excerpt: "My review of The House That Dripped Blood (1971)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6g3UkT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 46/52 | Amicus</a></b>
 
@@ -45,7 +47,3 @@ I will say that Chloe Franks, who plays Jane, is pretty ideal for this role. For
 We return to Paul Henderson from the framing narrative. Paul is starring in a vampire film and wants it to feel more authentic, so he purchases a cloak at an antique store. But the cloak may bring more authenticity than Paul can handle.
 
 Jon Pertwee claimed the movie was supposed to be a comedy. If any story suggests it, it’s this one. Pertwee plays it silly and gets a couple of laughs out of me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6g3UkT)

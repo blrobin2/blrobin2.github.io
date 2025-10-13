@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "When a Stranger Calls (1979)"
 excerpt: "My review of When a Stranger Calls (1979)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9ODBw9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 22/52 | Home Sweet Horror</a></b>
 
@@ -31,7 +33,3 @@ I also appreciate that the film is a slow-burning investigation. It doesn't cove
 The score is pretty decent! Nothing outstanding, but it kicks off with what sounds like the Dolby Digital legato, which is kind of cool.
 
 I always get Charles Durning and Brian Doyle-Murray mixed up, even though they don't look much alike.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9ODBw9)

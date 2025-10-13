@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Time Chasers (1994)"
 excerpt: "My review of Time Chasers (1994)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5VTZmb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * He cut the lawn way too short — he's down to the bedrock
 * The X-Files goes to Dublin
@@ -17,7 +19,3 @@ category: movie_review
 * 🎵 It's Time Chasers
 * General Washington's plane has landed
 * Johnny CEO, Johnny CFO sold separately
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5VTZmb)

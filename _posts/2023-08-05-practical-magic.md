@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Practical Magic (1998)"
 excerpt: "My review of Practical Magic (1998)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4DUJcr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>That's the point; the guy I dreamed up doesn't exist. And if he doesn't exist, I'll never die of a broken heart</i></blockquote>Sisters are witches whose bloodline is cursed such that if they fall in love, the person with whom they fall in love will die
 
@@ -24,7 +26,3 @@ A perfect lazy weekend, "put something on while doing chore" kind of movie
 * the driving sequence to "a case of You" is so surreal — the way daylight shifts through the scene
 * The dude says "my wife," like Borat
 * don't fall in love with a cop! come on
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4DUJcr)

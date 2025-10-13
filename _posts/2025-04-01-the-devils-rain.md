@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Devil's Rain (1975)"
 excerpt: "My review of The Devil's Rain (1975)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/9hXIZv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 18/52 | Splatter</a></b>
 
@@ -27,7 +29,3 @@ Mr. Satanist Anton LaVey makes an appearance, along with his wife, Diane.
 I really like Robert Fuest's Dr. Phibes movies! I wanted to like this one more.
 
 The last five minutes rule!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9hXIZv)

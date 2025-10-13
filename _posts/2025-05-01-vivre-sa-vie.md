@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Vivre Sa Vie (1962)"
 excerpt: "My review of Vivre Sa Vie (1962)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/9z6Tkf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 42/52 | Starring Anna Karina</a></b>
 
@@ -38,7 +40,3 @@ In this way, the film also rejects a progressive storytelling flow. A scene happ
 We can understand this: Nana does not know where she belongs in the world. And the world does not give her a perch to rest—only a way to obliteration.
 
 <blockquote><i>Le bonheur n'est pas gai.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9z6Tkf)

@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Three Colours: White (1994)"
 excerpt: "My review of Three Colours: White (1994)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/3bQyiF
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
 
-**Rating:** 3.5/5
-
 A dude fails upward and can’t take the W
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3bQyiF)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dr. Mabuse, the Gambler (1922)"
 excerpt: "My review of Dr. Mabuse, the Gambler (1922)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5y7xs3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 2/52 | 1920s</a></b>
 
@@ -35,7 +37,3 @@ I'm curious about the filmmakers' assumptions regarding the audience's familiari
 The first half is slow plotting and schemes. The second half is the pursuit of Mabuse, which has more action as Mabuse "mercilessly annihilates" anyone who gets in his way, even his allies. Both parts need one another — you won't care about the action if you don't have the story, and the story requires the catharsis of the action.
 
 I enjoyed this, but I wish it were shorter and tighter. I've heard the rumor of an Eisenstein cut. Still, this movie is foundational for action and mystery films.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5y7xs3)

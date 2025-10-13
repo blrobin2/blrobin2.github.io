@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Peanut Butter Solution (1985)"
 excerpt: "My review of The Peanut Butter Solution (1985)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4LCn7F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Michael gives all of his money to a couple of unhoused folks. He later learns that the building in which they were squatting burned down
 
@@ -21,7 +23,3 @@ His artist dad Billy is so funny, and the actor played Colonel Tigh in <i>Battle
 Once the movie establishes stakes, it gets dramatically less fun, but the air of whimsy doesn't disappear completely
 
 It's still a kids movie, but it doesn't condescend to its audience
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LCn7F)

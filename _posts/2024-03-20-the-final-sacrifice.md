@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Final Sacrifice (1990)"
 excerpt: "My review of The Final Sacrifice (1990)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/65Hqc7
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 * — I want to know what happened to you. — I died
 * No wonder dad lost his money, he invested in lemon mines!
@@ -18,7 +20,3 @@ category: movie_review
 * He's evoking the power of Bryan Adams!
 * A horse! My six pack for a horse!
 * Rowsdower
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/65Hqc7)

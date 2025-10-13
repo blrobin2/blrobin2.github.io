@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Pennywise: The Story of ‘It’ (2021)"
 excerpt: "My review of Pennywise: The Story of ‘It’ (2021)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5fnDIx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 34/34 | Bonus 3/3</b>
 
@@ -33,7 +35,3 @@ Of all the movies "prescribed" to me to watch, I cannot think of a less interest
 * Everyone hates the spider. All the alternatives were unfilmable, and even the spider had severe budget limits.
 * Props for ace representation from Eddie.
 * I can't believe they made those actors do the bicycle stunt. So insanely dangerous.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fnDIx)

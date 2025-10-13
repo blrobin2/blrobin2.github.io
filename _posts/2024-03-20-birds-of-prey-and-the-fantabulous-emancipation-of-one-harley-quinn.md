@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
 excerpt: "My review of Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/65Aa0b
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 12/52 | 2020s</a></b>
 
@@ -39,7 +41,3 @@ Similar to <i>Barbie</i>, the film maintains a diet "fuck the patriarchy" spirit
 Dark, moody Hit Me With Your Best Shot is…
 
 While I'm not a comic book movie person, this movie was a lot of fun. The dark humor sometimes works for me, but it teeters into edgelord shit now and again. Still, this is likely the best DC can achieve with a movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/65Aa0b)

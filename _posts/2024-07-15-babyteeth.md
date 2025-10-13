@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Babyteeth (2019)"
 excerpt: "My review of Babyteeth (2019)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6SoV9r
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qBmUY/detail" title="Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene">Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene</a></b>
 
@@ -36,7 +38,3 @@ From the outside, you wonder what the hell my mom is thinking. But when you grow
 My projection is probably making the movie better than it is. Also, my love of Aussie/Kiwi accents probably obscured some glaring flaws. But this movie charmed my pants off. Is that a phrase? It charmed me and got right under my skin.
 
 Also, the soundtrack fucking rules. Tune-Yards followed by Donnie & Joe Emerson? And "Just Another Diamond Day" by Vashti Bunyan?? Fuck off.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6SoV9r)

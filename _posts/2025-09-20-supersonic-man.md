@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Supersonic Man (1979)"
 excerpt: "My review of Supersonic Man (1979)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/b7szKl
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Yet another Cameron Mitchell vehicle for 2025! His catchphrase in this movie seems to be, "You idiot."
 
@@ -29,7 +31,3 @@ This might be one of the best Rifftrax eps.
 * Now we'll see how he reacts to the corrosive gases. Most people love them, but let's get his feedback, knowing it'll only help the final product.
 * Water damage in his rumpus room!
 * Don't tell my wife what color jumpsuit I died in!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b7szKl)

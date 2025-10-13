@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Day of Wrath (1943)"
 excerpt: "My review of Day of Wrath (1943)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4leb8p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 An older woman in a village stands accused of witchcraft. To the priest who tortures her for her confession, she begs him to spare her as he had the mother of his wife — a much younger woman than he — who was also accused of witchcraft. He denies her pleas, and the men cast her into the fire
 
@@ -26,7 +28,3 @@ This is a perfect movie. Every moment is so carefully and attentively rendered
 * The older woman accused of being a witch is so fucking good — I love every second of her performance
 * The confession torture scene is such a contrast to the usual high-intensity scenes in other films. You see the resignation and guilt the men feel as they put this woman who could be their mother — someone they know in the community — through this
 * The scene of the older woman being thrown into the fire looks so real!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4leb8p)

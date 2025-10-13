@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ghost Galleon (1974)"
 excerpt: "My review of The Ghost Galleon (1974)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/bja67h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 7/31 | Countries 5/6 | Spain | Zombie 5/5</a></b>
 
@@ -23,7 +25,3 @@ Howard Tucker believes that money solves all his problems — it buys trust and 
 I like the galleon ghost designs. I haven't seen any of the other <i>Blind Dead</i> movies, so I'm not familiar with how the design compares to those films or if it's the same. I also like the spoopy vibes on the ship. I'm always a sucker for a haunted ship. The gore is whatever—if you care, you might be annoyed, but I found it good enough.
 
 If you're not a horror fan, you might find this movie a little slow. While I don't think it necessarily makes the best use of its time, I believe the film builds effective tension through its patient unveiling. Still, this one is for the diehards.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bja67h)

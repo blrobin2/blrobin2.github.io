@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Manila in the Claws of Light (1975)"
 excerpt: "My review of Manila in the Claws of Light (1975)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/a0pW2p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 10/52 | Made in the Philippines</a></b>
 
@@ -31,7 +33,3 @@ The flashbacks bleed into the film, overtaking Julio's vision as though he can t
 What helps this film stand out is its portrayal of sex work and how gender influences one's experience within it. The film does not shy away from the queerness intrinsic to male-presenting sex workers despite many not being queer themselves. Movies like Midnight Cowboy could only hint at what this film is unafraid to tell.
 
 This film is one of the most sharply realized political allegories I've seen, beautifully balancing its bleak tone with a humanity that many Western filmmakers would be too scared to include, lest it "soften" the tone. It doesn't — it only reflects the complexity of the human condition.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/a0pW2p)

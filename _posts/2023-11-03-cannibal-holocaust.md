@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cannibal Holocaust (1980)"
 excerpt: "My review of Cannibal Holocaust (1980)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/56fL0V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 2/34 | Countries 2/6 | Columbia</b>
 
@@ -23,7 +25,3 @@ Except the people doing horrible things were the people making this film.
 I've read the arguments that this is social commentary. I'm not convinced.
 
 I once again ruined my life by letting curiosity get the best of me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56fL0V)

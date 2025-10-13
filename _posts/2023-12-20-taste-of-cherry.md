@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Taste of Cherry (1997)"
 excerpt: "My review of Taste of Cherry (1997)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5m4tXx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 48/52 | 1990s</b>
 
@@ -33,7 +35,3 @@ It is a reminder that we can empathize with and understand Mr. Badii and his con
 When the film ends, we don't know Mr. Badii's choice. Because the movie is not concerned with his choice — it's yours. You are the person whose pain no one else knows. You are the one who hears these arguments for and against suicide. And you are the one who makes the choice.
 
 The film concludes with behind-the-scenes camcorder footage of its production. Kiarostami gives us his taste of cherries — that which inspires him to keep living.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5m4tXx)

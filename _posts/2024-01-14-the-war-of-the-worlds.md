@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The War of the Worlds (1953)"
 excerpt: "My review of The War of the Worlds (1953)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5A8LBj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 7/52 | 50s Sci-Fi</a></b>
 
@@ -27,7 +29,3 @@ category: movie_review
 * After the second act of info-dump, this has become boring and heavy on god
 * Let's all hang out and watch an atomic bomb go off. At least the effects are still cool
 * And it ends with a miracle??
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5A8LBj)

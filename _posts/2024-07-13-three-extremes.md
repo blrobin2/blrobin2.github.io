@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Three... Extremes (2004)"
 excerpt: "My review of Three... Extremes (2004)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6RsbhN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 12/31 | Takashi Miike 2/5</a></b>
 
@@ -51,7 +53,3 @@ As he leaves, he sees a woman standing in the hallway closet. When he approaches
 Japan in winter is so gorgeous, so the exteriors are effortlessly breathtaking. But the images that Miike assembles are so striking. The subjectivity of the experience is disorienting but comes together eloquently.
 
 Yesterday, I developed a theory that Miike would be a better director if he worked in shorter forms. This segment is a sound argument in its favor, as it draws on his depraved inclinations while ending at a high point.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6RsbhN)

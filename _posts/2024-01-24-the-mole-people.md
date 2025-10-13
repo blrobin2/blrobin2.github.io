@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Mole People (1956)"
 excerpt: "My review of The Mole People (1956)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5FEgWf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The only episode with a guest star? It's Robert Smith (no, not THAT Robert Smith :()
 
@@ -21,7 +23,3 @@ The only episode with a guest star? It's Robert Smith (no, not THAT Robert Smith
 * You guys know Data?
 * — You shall die in the fire of Ishtar — Hey, the movie wasn't THAT bad
 * Remember, I know everything
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5FEgWf)

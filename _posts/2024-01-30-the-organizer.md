@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Organizer (1963)"
 excerpt: "My review of The Organizer (1963)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5IKD8V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 5/52 | Most recently added film in your watchlist</a></b>
 
@@ -52,7 +54,3 @@ This movie embraces tragedy with its comedy instead of using comedy solely as a 
 As an experiment, it doesn't work. The ending feels unexpected and more depressing than the material suggests.
 
 But it is still a fascinating attempt.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5IKD8V)

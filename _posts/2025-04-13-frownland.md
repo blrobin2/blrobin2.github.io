@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Frownland (2007)"
 excerpt: "My review of Frownland (2007)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9oc9NX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 34/52 | Midnight Madness: Cult Movies</a></b>
 
@@ -30,7 +32,3 @@ Sean Price Williams's manic cinematography makes every scene feel intense, but w
 The score consists of slimy synths with sci-fi twirls, which further add to the movie's off-kilter, uncomfortable tone.
 
 Maybe I have a terrible sense of humor, but I found this quite funny in that painful way. Dore Mann's over-explanatory awkwardness is pitch-perfect.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9oc9NX)

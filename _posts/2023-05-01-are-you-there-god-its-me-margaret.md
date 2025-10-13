@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Are You There God? It's Me, Margaret. (2023)"
 excerpt: "My review of Are You There God? It's Me, Margaret. (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4bJxvn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Life is what happens when you’re busy making plans and no longer praying to god
 
@@ -19,7 +21,3 @@ Benny Safdie and Rachel McAdams are the parents we all wish we could have — th
 The grandparents are my grandparents, who still give me Max Lucado books for Christmas. One time they gave me a desk organizer, and I really needed one, so I was so thankful, and I could tell how mad they were that it was that and not <i>God Will Carry You Through</i> that received such thanks
 
 Happy I saw this in a theater full of weepies like me
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4bJxvn)

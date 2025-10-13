@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fiend Without a Face (1958)"
 excerpt: "My review of Fiend Without a Face (1958)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6TOChR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 17/31 | Before 1970 2/5</a></b>
 
@@ -34,8 +36,3 @@ We don't see the "fiends" until the climax — a bold approach that is confident
 
 As someone who's watched nearly every <i>MST3K</i> episode, and therefore a hefty pile of 50s sci-fi and brainsploitation, this film stands out. I finished this movie with a big dopey smile.
 
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6TOChR)

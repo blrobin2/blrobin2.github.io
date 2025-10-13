@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Come and See (1985)"
 excerpt: "My review of Come and See (1985)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5lMDdD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a><b> | 47/52 | 1980s</b>
 
@@ -21,7 +23,3 @@ And yet, it’s all effective. If the goal was to render the atrocities they exp
 This film isn’t a story of heroism, betrayal, morality, or ambiguity. It’s all chaos. Every moment left alive is an accident of circumstance. For every tragic moment, nothing can happen but witness it. By the time any partisans arrive, the village is engulfed in flames.
 
 Of all the reasons to make a war movie, this one makes the most sense to me. The filmmakers witnessed these things, and few people knew about it. This film was their sole means of telling this story.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5lMDdD)

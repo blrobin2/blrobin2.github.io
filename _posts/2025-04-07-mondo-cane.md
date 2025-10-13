@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mondo Cane (1962)"
 excerpt: "My review of Mondo Cane (1962)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/9l7RHR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 21/52 | Mondo</a></b>
 
@@ -17,7 +19,3 @@ This film launched the "mondo" genre: a pseudo-documentary style meant to explor
 Like all mondo films, this one presents itself as a travelogue, letting us see the world as it "truly" is, but it contains many fictions. This film's most controversial scenes are either manipulated or staged, propagating racist, misogynistic, and *-phobic beliefs. In 2025, none of it is shocking, and most of it is eye-rolling.
 
 The movie does that familiar judo of exploitation films where it is so obviously crass and tasteless that meaningful critique does little more than show the critic's preferences. So here's my preference: not this. It's <i>Ripley's Believe It or Not</i> cruelty does nothing for me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9l7RHR)

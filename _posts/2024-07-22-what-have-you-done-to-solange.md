@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "What Have You Done to Solange? (1972)"
 excerpt: "My review of What Have You Done to Solange? (1972)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6VBS0p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 21/31 | Slasher 1/5">Hooptober 2.0 | 21/31 | Slasher 1/5</a></b>
 
@@ -27,7 +29,3 @@ The film also hints at the repressive nature of Catholicism and how that fuels t
 Genre fans may find the film a bit too tame or straightforward. The pacing is also a little lax. But I appreciate a film that manages a twist without contorting the plot into nonsense.
 
 The milk-themed photo shoot is a weird detail.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6VBS0p)

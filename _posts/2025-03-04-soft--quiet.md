@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Soft & Quiet (2022)"
 excerpt: "My review of Soft & Quiet (2022)"
+rating: ""
+letterboxd_url: https://boxd.it/90XhNf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 10/52 | Women in Horror</a></b>
 
@@ -27,7 +29,3 @@ The film is yet another single-take gimmick. The filmmakers did multiple one-tak
 Otherwise, the filmmaking is quite well done. By design, I am supposed to feel disgusted, and I haven't felt this repulsed during a horror movie in ages. So, like, how do I rate this?
 
 I'm still curious to see what Beth de Araújo does. In the meantime, I might check out some of her shorts.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/90XhNf)

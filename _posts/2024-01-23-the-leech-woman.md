@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Leech Woman (1960)"
 excerpt: "My review of The Leech Woman (1960)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5F8PfV
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 The published episode guide only goes through season 7, so I was pleased to learn that the staff did <a href="https://www.mst3kinfo.com/aceg/index.html" title="episode guides for seasons 8-10 online!">episode guides for seasons 8-10 online!</a>
 
@@ -23,7 +25,3 @@ The published episode guide only goes through season 7, so I was pleased to lear
 * Is it true? Kroger has double coupons?
 * — Will you marry me? — No I can't, Starfleet forbids it
 * Bad liar, down!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5F8PfV)

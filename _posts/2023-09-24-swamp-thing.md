@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Swamp Thing (1982)"
 excerpt: "My review of Swamp Thing (1982)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4T2CBl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Not long ago, in the unexplored reaches of an unmapped swamp, the creative genius of one man collided with another's evil dream, and a monster was born. Too powerful to be destroyed, too intelligent to be captured, this being still pursues its savage dream</i></blockquote>Alex Holland (Ray Wise) is a scientist working on a top-secret formula that will allow plants to grow in inhospitable places. After a group of paramilitaries — led by Anton Arcane (Louis Jourdan), intent on hijacking the project for their nefarious plans  — kill one of his researchers, Alice Cable (Adrienne Barbeau) takes the researcher's place in the bog lab
 
@@ -31,7 +33,3 @@ Overall, I like the setup more than the payoff, but there's some fun cheese in t
 * I love the neon green substance
 * The henchman trying the formula is pretty wild
 * "Sorry, Bruno — it's every man for himself, and God against all." Brutal
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4T2CBl)

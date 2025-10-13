@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Simon of the Desert (1965)"
 excerpt: "My review of Simon of the Desert (1965)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5feO5X
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 Priests and pilgrims come to a pillar. Atop is Simon, who has stood there for six years, six months, and six days. To convey gratitude, they present Simon with a taller pillar.
 
@@ -45,7 +47,3 @@ Satan drop-kicks a goat. A frog explodes. A shepherd talks about his goat's exce
 I would simply comply if Silvia Pinal asked me to step down from the pillar.
 
 The stories on why this is only 45 minutes differ between Buñuel and Pinal, but it doesn't matter. As abrupt as the ending, it all comes together.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5feO5X)

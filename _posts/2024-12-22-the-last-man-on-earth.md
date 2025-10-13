@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Man on Earth (1964)"
 excerpt: "My review of The Last Man on Earth (1964)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/87hb3V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 6/31 | Decades 6/10 | 60s</a></b>
 
@@ -21,7 +23,3 @@ Like the novel, the film explores hubris and the ill-fated notion of heroic indi
 I imagine this will be boring for many people — you know where it's going, and it doesn't get there fast. Still, I could watch a movie of Vincent Price eating a sandwich, so that was never a concern of mine.
 
 Though <i>I Am Legend</i> would be adapted several more times, this version likely remains the most faithful and well-realized.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/87hb3V)

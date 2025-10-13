@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Edge of the Knife (2018)"
 excerpt: "My review of Edge of the Knife (2018)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6ZR2pP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 31/52 | Directed by an Indigenous director whose work you haven’t seen before</a></b>
 
@@ -36,7 +38,3 @@ The film is full of symbolic imagery. For example, when Adiitsʹii runs into the
 The film effortlessly integrates rituals — celebration, mourning, storytelling — that help us see and understand facets of Haida culture.
 
 I wouldn’t call this a great movie, but I’m glad it exists as a document of Haida culture.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ZR2pP)

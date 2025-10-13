@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Killing of Satan (1983)"
 excerpt: "My review of The Killing of Satan (1983)"
+rating: ""
+letterboxd_url: https://boxd.it/5OZNbf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 21/52 | Asian Horror">Cult Movie Challenge 2016 | 21/52 | Asian Horror</a></b>
 
@@ -19,7 +21,3 @@ Lando, along with his wife, Langring, and his daughter, Becky, travel to Miguel'
 And who is that master? Satan, duh, read the title.
 
 Psychic fighting, snakes taking human form, ocean zombies — this movie fucking rules.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OZNbf)

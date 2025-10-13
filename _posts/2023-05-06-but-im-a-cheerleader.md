@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "But I'm a Cheerleader (1999)"
 excerpt: "My review of But I'm a Cheerleader (1999)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4d7jTn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Excellent 90s color palate. Truly obsessed with all of the duo-tone scenes
 
@@ -22,7 +24,3 @@ Still, happy this exists!
 * Thank god Melanie Lynsky gets to speak in her Kiwi accent
 * Oh, hey, Rufio!
 * All the cutouts in the boys' training area are hilarious
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4d7jTn)

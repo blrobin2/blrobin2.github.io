@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Santo in the Treasure of Dracula (1969)"
 excerpt: "My review of Santo in the Treasure of Dracula (1969)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6B0CJf
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Apologies to <a href="https://boxd.it/MltZ" rel="nofollow">CinemaMystic</a>, I jumped on the Gizmoplex season. And judging by how poorly the crowdfunding went, probably the last season for a while.
 
@@ -23,7 +25,3 @@ Thin Jonah! No more Elliott Kalan on the writing staff :(
 * You fool! I've been me the whole time!
 * Santo, don't make me kill you over that sweater
 * Most of wrestling is different types of hugs
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6B0CJf)

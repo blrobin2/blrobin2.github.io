@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Kentucky Fried Movie (1977)"
 excerpt: "My review of The Kentucky Fried Movie (1977)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6q3kd3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 19/52 | USA Up All Night">Cult Movie Challenge 2024 | 19/52 | USA Up All Night</a></b>
 
@@ -26,7 +28,3 @@ While no one is on their A-game, the movie had me laughing occasionally. As a 70
 The longest-running bit is a kung-fu parody. It's mostly racism as the joke, so it drags down the experience. Similarly, one "joke" is a guy walking into a circle of black men and yelling the N-word.
 
 While I mostly like this, I wouldn't recommend this to anyone. Just watch <i>Airplane!</i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6q3kd3)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Murders in the Rue Morgue (1932)"
 excerpt: "My review of Murders in the Rue Morgue (1932)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/57UQIp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 7/34 | Decades 1/8 | 1930s</b>
 
@@ -35,7 +37,3 @@ For an hour-long movie, it's still a little slow in places, opting for character
 The third act makes up for it with a <i>Frankenstein</i> meets <i>King Kong</i> finale.
 
 This is a fun little Pre-Code flick.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57UQIp)

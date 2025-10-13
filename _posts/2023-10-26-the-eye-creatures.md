@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Eye Creatures (1967)"
 excerpt: "My review of The Eye Creatures (1967)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/53rvOR
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 * Attack of the The Eye Creatures
 * it was a dumb movie, and Allstate was there
@@ -17,7 +19,3 @@ category: movie_review
 * Hey! Keep your lips on the wheel
 * Sorry folks, we're out of gas. Get ready to make out
 * They just didn't care
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53rvOR)

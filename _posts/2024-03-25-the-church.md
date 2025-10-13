@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Church (1989)"
 excerpt: "My review of The Church (1989)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/67YExb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b>Hooptober 6.0 | 24/32 | The men and women of the church are having a bad day</b>
 
@@ -25,7 +27,3 @@ The movie has plenty of great images — demons, costumes, and statues. A signif
 The third act ramps up the kooky. It needed to get weird enough... and by the end, it did!
 
 I'm probably overrating this, but I needed this unhinged creature in my life.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/67YExb)

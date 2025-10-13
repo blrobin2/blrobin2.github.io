@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Dark Song (2016)"
 excerpt: "My review of A Dark Song (2016)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/aIJJzh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Oh My Horror 2025 | 33/52 | Witches</a></b>
 
@@ -31,7 +33,3 @@ Joseph also seems to be someone haunted by grief. He has seen too much, and besi
 I wouldn't go into this movie looking for spooks and scares. It's almost unfair to put this in the horror genre, even though there are plenty of horror moments throughout. Also, several people dislike the ending. I understand why, but I believe it's because they brought the wrong expectations.
 
 Overall, the filmmaking is sharp, especially for a first film. Not something I plan to revisit anytime soon, but one I recommend for folks who like a strong emotional core to their genre flicks.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aIJJzh)

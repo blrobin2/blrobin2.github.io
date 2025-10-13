@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "House of the Long Shadows (1983)"
 excerpt: "My review of House of the Long Shadows (1983)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6QbXKl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 9/31 | Countries 4/5 | England</a></b>
 
@@ -29,7 +31,3 @@ I watched this because Vincent Price, Christopher Lee, Peter Cushing, and Jon Ca
 I haven’t seen Desi Arnaz, Jr. in anything — he has a classic charm and handsomeness that make up for his meh acting skills. 
 
 The movie is delightful for Hammer and classic horror fans. It takes an hour before the plot commences, but the atmosphere is satisfying. I wouldn’t venture to watch this unless inclined before my mention of it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QbXKl)

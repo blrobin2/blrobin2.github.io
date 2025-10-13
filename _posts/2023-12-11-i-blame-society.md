@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Blame Society (2020)"
 excerpt: "My review of I Blame Society (2020)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5iZaCN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Gillian received a compliment once that she would make a good murderer. So, she starts on a documentary called<i> I, Murderer</i>, about how to perform the perfect murder.
 
@@ -19,7 +21,3 @@ The film is not subtle in the language it lampoons — unlikeable leads, strong 
 It gets off to a rocky start, but once it gets into her making the documentary, it's so funny and uncomfortable.
 
 It gets fucked up, but it does so by committing to the bit. I don't love all of it, but that's the point.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5iZaCN)

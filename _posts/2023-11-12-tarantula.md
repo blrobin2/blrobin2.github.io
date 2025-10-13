@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tarantula (1955)"
 excerpt: "My review of Tarantula (1955)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/594lTP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 11/34 | Insect-centered 2/2</b>
 
@@ -41,7 +43,3 @@ I also enjoy the small talk between characters. It develops character without be
 The effects, while obvious, are very well done! The scaling and perspective are smart, at least compared to other sci-fi shlock that just scales it up as big as it can.
 
 This is a standout 50s Sci-Fi flick. It isn't brilliant, but it sure is fun.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/594lTP)

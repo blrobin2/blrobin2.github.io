@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "American Ninja (1985)"
 excerpt: "My review of American Ninja (1985)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/9gAunn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 16/52 | The Cannon Group</a></b>
 
@@ -43,8 +45,3 @@ This movie isn't very good, but it's pretty funny.
 * Corporal Jackson kicks a gun out of an officer's hand but then apologizes for it.
 * While the man is dying, Armstrong gives him a gnarly kick to the nuts for good measure.
 * Woah, this outro is so epic.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9gAunn)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Butterfly (2001)"
 excerpt: "My review of The Butterfly (2001)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Uh79p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 An "oblivion virus" that erases memories wanders in a city polluted by acid rain and lead poisoning. Many people started to visit to get rid of their painful memories
 <blockquote><i>You see the butterflies? They'll guide us to the virus</i></blockquote>Anna arrives in Korea and meets her virus guide, a pregnant teenage girl named Yuki. With the aid of their driver, K, they go to construction sites where the virus has been spotted, but Anna doesn't seem to be able to catch it
@@ -19,7 +21,3 @@ The film is an extended metaphor for Korean identity in a post-colonialist, glob
 Being shot in the early 2000s on digital video means some shots look alright, but others have that uncanny home video quality. In some ways, this helps to ground the story and enhance the feeling that we are also watching the memories of someone's pain
 
 Overall, the film is atmospheric and has slow cinema qualities, taking a high concept and making an intimate human portrait — not an original idea, but a well-executed version of it
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Uh79p)

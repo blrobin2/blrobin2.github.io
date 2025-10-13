@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "...And God Created Woman (1956)"
 excerpt: "My review of ...And God Created Woman (1956)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6TUe6d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 22/52 | Ana Lily Amirpour's Top 10</a></b>
 
@@ -28,7 +30,3 @@ Though Brigette Bardot had acted in a dozen or more movies prior, including one 
 Bardot is a tremendous force, but that isn't enough to sustain the movie. No one else is likable — they all have ulterior motives and selfish whims. Only Juliette is pure of heart, never wishing to lead anyone astray or do them wrong. She does, but only because of unbearable temptation.
 
 Still, the film is decent, and its success makes sense.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6TUe6d)

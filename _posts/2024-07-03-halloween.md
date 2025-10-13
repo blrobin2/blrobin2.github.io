@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween (2018)"
 excerpt: "My review of Halloween (2018)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6NhKHX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 1/31 | Franchises 1/5">Hooptober 2.0 | 1/31 | Franchises 1/5</a></b>
 
@@ -23,7 +25,3 @@ Laurie shows up at the prison for the transfer, gun in hand. But she can't bring
 Michael goes after Laurie and Laurie's family.
 
 There isn't much to this movie. It feels referential and flat. Laurie is not a character — she's a first draft. The final 20 minutes is where the film begins, and it's in a way that doesn't suggest two sequels, so I'm curious to see where this goes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6NhKHX)

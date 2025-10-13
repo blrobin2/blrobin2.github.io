@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bride of Chucky (1998)"
 excerpt: "My review of Bride of Chucky (1998)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6BLq6J
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 3/31 | Franchise 3/7</a></b>
 
@@ -29,7 +31,3 @@ The puppet work is so much better in this one! They have so many more puppetry j
 Having an openly gay character is a pleasant change of pace. The film relegates him to token sidekick, but at least he isn’t a walking stereotype.
 
 This movie is silly fun, and the best one since the first. I don’t love it as much as the first, but I appreciate the change in direction.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6BLq6J)

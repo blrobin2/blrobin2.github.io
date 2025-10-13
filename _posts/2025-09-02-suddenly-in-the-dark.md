@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Suddenly in the Dark (1981)"
 excerpt: "My review of Suddenly in the Dark (1981)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/aWwATx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 15/52 | Korean Horror Films</a></b>
 
@@ -33,7 +35,3 @@ The family has embraced many Western aesthetics and values. Mi-ok, coming from a
 We also get the sense that the old ways are fighting for their own survival. Yu-jin's colleagues discuss how pesticides are making some of Korea's native butterfly populations dwindle. Science, in its efforts to possess and know, is erasing traditional ways, so they must retaliate.
 
 Yes, this film is yet another hysterical wife movie, but the surreal filmmaking and grounded performances help it stand out from the standard fare. The ending alone pushed it up a half-star.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aWwATx)

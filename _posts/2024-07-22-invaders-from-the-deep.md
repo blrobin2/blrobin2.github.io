@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Invaders from the Deep (1981)"
 excerpt: "My review of Invaders from the Deep (1981)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6VOwob
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 The first episode of the show! Found a new source so I'm going back to watch the episodes I missed. Joel doesn't have robots in the opening, and there are no segments beyond the opening and closing. He doesn't enter the theater to watch the movie until after the opening scene and credits. Crow comes in 30 minutes into the movie.
 
@@ -17,7 +19,3 @@ The movie is four episodes of the supermarionation show Stingray stapled togethe
 * Just let go and let the strings guide you
 * These boots weren't made for walking!
 * Milk's leaking in from outside
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6VOwob)

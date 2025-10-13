@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Time Travelers (1964)"
 excerpt: "My review of The Time Travelers (1964)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6kuvPx
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Elliott Kalan and Joel spotting! There are a couple of jokes in this episode that have Elliott's sense of humor written all over them.
 
@@ -18,7 +20,3 @@ I don't hate this movie! The special effects are pretty neat — a couple are fu
 * And that was the day we ate the last eagle
 * Do as I say, not as I do!
 * Nightingale effect setting in... now
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6kuvPx)

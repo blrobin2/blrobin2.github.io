@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Malibu Express (1985)"
 excerpt: "My review of Malibu Express (1985)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6YjG8R
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
@@ -34,7 +36,3 @@ Of course, it’s not without its problems. Despite its bisexual gaze, it has so
 This movie is shameless, tasteless schlock. It never pretends to be anything else. It’s also undeniably entertaining.
 
 How did this movie get an R rating??
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6YjG8R)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sting of Death (1966)"
 excerpt: "My review of Sting of Death (1966)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5cVVrP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 24/34 | William Grefe</b>
 
@@ -31,7 +33,3 @@ This movie features a monumental amount of dancing butt shots as people dance to
 I'm conflicted about my rating. On one hand, this is an objectively terrible movie. On the other, it is entertaining, often at its own expense.
 
 I'm landing on this movie being so bad it's good.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5cVVrP)

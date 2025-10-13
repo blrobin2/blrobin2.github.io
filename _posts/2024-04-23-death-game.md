@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Death Game (1977)"
 excerpt: "My review of Death Game (1977)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6kwCfv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>Should we drown Dad?</i></blockquote><b>San Francisco, 1975</b>
 George and Karen have a delightful day of croquet and wine for his 40th birthday. A call interrupts their evening, and Karen has to fly off to deal with a family emergency.
@@ -30,7 +32,3 @@ The script makes some choices that it doesn't know how to get out of and makes s
 Seymour Cassel is such an odd lead choice, but he has such '70s dad energy that it's perfect.
 
 It all comes down to Colleen Camp and Sondra Locke's performances. It's a dark, inverted <i>Daisies</i>, full of wanton excess.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6kwCfv)

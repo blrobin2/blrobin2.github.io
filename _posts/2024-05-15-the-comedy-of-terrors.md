@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Comedy of Terrors (1963)"
 excerpt: "My review of The Comedy of Terrors (1963)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6trJB5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 14/31 | Before 1970 2/6</a></b>
 
@@ -35,7 +37,3 @@ The cat in this movie, Orangey, has his credit as “Rhubarb.” He’s the same
 Jacques Tourneur directed several of my favorite horror movies. Here, he works expertly with an AIP budget to match the tone and pacing the script requires.  
 
 Overall, the film is a goofy romp — not my sense of humor, but entertaining throughout.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6trJB5)

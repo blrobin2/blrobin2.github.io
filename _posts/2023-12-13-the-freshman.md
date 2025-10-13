@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Freshman (1925)"
 excerpt: "My review of The Freshman (1925)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/5jxtkV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 41/52 | 1920s</b>
 
@@ -39,7 +41,3 @@ The scene with Lloyd trying to save the cat and hiding the kitten under his swea
 The updated soundtrack is perfect. It's contemporary and fits every scene.
 
 Charlie Chaplin is iconic, Buster Keaton is impressive, but Harold Lloyd is funny.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jxtkV)

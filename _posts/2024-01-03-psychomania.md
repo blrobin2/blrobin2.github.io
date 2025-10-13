@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Psychomania (1973)"
 excerpt: "My review of Psychomania (1973)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5tsh7v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw" title="Cult Movie Challenge 2016 | 1/52 | Biker">Cult Movie Challenge 2016 | 1/52 | Biker</a></b>
 
@@ -30,7 +32,3 @@ The gang — with excellent names like Hatchet, Chopped Meat, and Gash — decid
 <blockquote><i> Oh man, what are we waiting for?</i></blockquote>That is, everyone except for Abby.
 
 What a fun movie! And it has an absolutely bananas ending. It's a bit tedious at points, but the plot is surprisingly structured for such a kooky idea.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5tsh7v)

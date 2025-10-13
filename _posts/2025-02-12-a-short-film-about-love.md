@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Short Film About Love (1988)"
 excerpt: "My review of A Short Film About Love (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8NYl0h
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y/detail" rel="nofollow">Birth Year Challenge 25</a></b>
 
@@ -31,7 +33,3 @@ The film also expands on Tomek's mental state, giving us a more complex sense of
 We also get a better sense of Magda's pain and why she would entertain the attention of a 19-year-old peeping tom. So many men have come and gone in her life—love starts at arousal and ends at orgasm. She carries a self-loathing that she deems the root of her problems in life—she isn't a good person, so why should anything good come to her?
 
 This film is about love, but it isn't a love story.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8NYl0h)

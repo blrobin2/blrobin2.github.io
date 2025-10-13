@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Angel's Egg (1985)"
 excerpt: "My review of Angel's Egg (1985)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5HuqOj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href=""https://boxd.it/pOvfW/detail">Hooptober 8.0 | 28/34 | Asian horror 1/3</a></b>
 
@@ -35,7 +37,3 @@ I can enjoy dream logic/tonal movies so long as they sustain a thread to tether 
 1985 was a big year for Amano — he worked on this and the first <i>Vampire Hunter D</i> anime. The two share some animation style and gothic settings but feel distinct.
 
 I liked this! I didn't connect with the Ghost in the Shell movies like others, so I'm delighted this worked for me.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5HuqOj)

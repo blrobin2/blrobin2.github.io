@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Deadly Dreams (1988)"
 excerpt: "My review of Deadly Dreams (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8G18KP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 51/52 | Christmas Horror</a></b>
 
@@ -25,7 +27,3 @@ Alex's fixation on Maggie has classic disorganized attachment written all over i
 I'm not saying this is a lost classic. I'm just saying this movie is better than any straight-to-VHS psychological horror ought to be. 
 
 Give me more horror movie shower scenes with handsome, fit dudes!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8G18KP)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Cat in the Brain (1990)"
 excerpt: "My review of A Cat in the Brain (1990)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6sDvHX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 12/31 | Countries 6/6 | Italy | Decades 6/6 | 90s</a></b>
 
@@ -35,7 +37,3 @@ The hypnosis scenes threaten to unveil something honest about Fulci, but he is n
 The interpolation of In the Hall of the Mountain King is funny.
 
 The end credits song is a bop!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sDvHX)

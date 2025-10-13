@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Rebel Set (1959)"
 excerpt: "My review of The Rebel Set (1959)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/547Mwz
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 One of my favorite MST3Ks
 
@@ -23,7 +25,3 @@ One of my favorite MST3Ks
 * George Leeland didn't commit suicide. I did
 * Father, I had three impure thoughts last week... about you!
 * He's beating up a milkman, he hates people in uniform
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/547Mwz)

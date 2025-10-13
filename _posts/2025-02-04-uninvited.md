@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Uninvited (1988)"
 excerpt: "My review of Uninvited (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/8IVK5v
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 20</a></b>
 
@@ -27,7 +29,3 @@ That cat comes on screen, runs along an air duct, tail in the air, and I giggle 
 The boat that takes them to the yacht is called "Slam Dunk."
 
 I ended up reading a lot about bladder effects. They use quite a few in this movie. 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8IVK5v)

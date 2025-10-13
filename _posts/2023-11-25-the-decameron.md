@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Decameron (1971)"
 excerpt: "My review of The Decameron (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5diNSf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 25/52 | <a href="https://boxd.it/iYvcK" rel="nofollow">Laurie Anderson's Closet Picks</a></b>
 
@@ -61,7 +63,3 @@ The film also explores the disconnect between artistic ambition and the fruit of
 All the stories are told well. Some of them are funny, but none of them connected with me on an emotional level.
 
 Laurie Anderson picked this because "she couldn't resist."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5diNSf)

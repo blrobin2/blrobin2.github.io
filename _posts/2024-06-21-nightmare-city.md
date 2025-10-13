@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Nightmare City (1980)"
 excerpt: "My review of Nightmare City (1980)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6IohFd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 20/31 | Umberto Lenzi</a></b>
 
@@ -29,7 +31,3 @@ Mel Ferrer, who plays General Murchison, seemed familiar to me. It turns out I�
 I only know Hugo Stiglitz by name, as Tarantino paid tribute to him by naming a character after him in <i>Inglourious Basterds</i>. He’s been in hundreds of movies, so I’ll see him again.
 
 Look, is this film nonsense? Kind of! Did I enjoy it? Kind of! Similar to <i>Ghosthouse</i>, I kind of gave up following exactly what was happening and rolled with it. I think anyone who isn’t a fan of goofy genre fare will have a miserable time. Honestly, even genre freaks might have a bad time.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6IohFd)

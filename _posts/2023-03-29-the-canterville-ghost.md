@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Canterville Ghost (1944)"
 excerpt: "My review of The Canterville Ghost (1944)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/42KydP
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 Pre-Hollywood blacklist Jules Dassin makes an unexpectedly charming comedy about restoring the honor of disgraced ghost Sir Simon de Canterville — Charles Laughton — by his descendant, the six-year-old heiress Lady Jessica de Canterville — Margaret O’Brien — and fellow Canterville, Cuffy Williams of the US Army Rangers — Robert Young
 
@@ -32,7 +34,3 @@ It all adds up to American propaganda in the end — it takes the bravery of an 
 * Sir Simon riding a bomb, what is this, <i>Dr Strangelove?
 
 </i>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/42KydP)

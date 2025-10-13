@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Red Zone Cuba (1966)"
 excerpt: "My review of Red Zone Cuba (1966)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/5xdSE3
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 * 61? Which century?
 * You know I've got an oily zone cuba
@@ -18,7 +20,3 @@ category: movie_review
 * So that's tungsten? I thought it would be cooler
 * Ah coffee, a Coleman Francis motif
 * Great job on The Bay of Pigs, honey
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5xdSE3)

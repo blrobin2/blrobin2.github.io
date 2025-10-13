@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In My Mother's Skin (2023)"
 excerpt: "My review of In My Mother's Skin (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5jWYVN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <i>1945, Philippines</i>
 
@@ -41,7 +43,3 @@ The Guillermo Del Toro vibes are strong here, but I don't mind. We haven't seen 
 Felicity Kyle Napuli, who plays Tala, has a devastating role for a child to perform. She heightens her intensity without exaggerating. She does better than the adult actors.
 
 It's not a nuanced film, but it is bleak and unnerving.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5jWYVN)

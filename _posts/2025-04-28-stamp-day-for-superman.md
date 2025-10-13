@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Stamp Day for Superman (1954)"
 excerpt: "My review of Stamp Day for Superman (1954)"
+rating: ""
+letterboxd_url: https://boxd.it/9xExql
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b>From Rifftrax Live: MST3K Reunion</b>
 
@@ -18,8 +20,3 @@ Riff-a-palooza: Mary Jo, Bridgett Jones Nelson, Frank, Trace Beaulieu, Jona, Joe
 * If you can get a word to Superman, ask him why he didn't stop Hitler.
 * Let me give you the gift of typing before I die.
 * Look at this guy, looking for any excuse to bend something.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9xExql)

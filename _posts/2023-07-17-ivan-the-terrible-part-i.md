@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ivan the Terrible, Part I (1944)"
 excerpt: "My review of Ivan the Terrible, Part I (1944)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/4wNuQf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 A biopic of Ivan IV, who tried to take absolute power to unify Russia into one state. Wouldn’t you know it, the powers that be weren’t exactly chill about it
 
@@ -30,7 +32,3 @@ Love going into a movie cold like this and having such a great experience. Gotta
 * The smoke rolling in reverse from explosives is hypnotic
 * The framing of his giant head looking onto the tiny crowd
 * There’s a through line from this to the<i> Lord of the Rings </i>movies with approach to scale and heightened grandiosity of character entrances
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4wNuQf)

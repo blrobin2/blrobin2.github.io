@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tapeheads (1988)"
 excerpt: "My review of Tapeheads (1988)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6wIRUZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/sWI7Y" title="Birthday Year Challenge 7">Birthday Year Challenge 7</a></b>
 
@@ -25,7 +27,3 @@ But if you can ignore how clever it thinks it is, it becomes mindless eye candy 
 * I keep seeing Doug McClure in things! 
 * Weird Al has a brief cameo where he shoves a door in John Cusack's face.
 Jessica Walter!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wIRUZ)

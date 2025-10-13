@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kung-Fu Master! (1988)"
 excerpt: "My review of Kung-Fu Master! (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8KRpPn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 22</a></b>
 
@@ -41,7 +43,3 @@ A pivotal moment in this movie is when Julien explains Dungeons & Dragons to Mar
 Loneliness finds fixations. Limerance is its favorite pastime. But people have feelings and their own fixations. It's easier to long for what you can't have: an ex, a memory, an expensive trip. People who have a partner, the family, the vacations love to tell you that love will find you when you least expect it. Or urge you to have fun on their behalf because you're single and they aren't. It's all projections of desire.
 
 I haven't seen much Varda, but one consistency in her work is my inability to describe the plot. It's a setup or pretense, and the characters follow it through—choice and consequence.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8KRpPn)

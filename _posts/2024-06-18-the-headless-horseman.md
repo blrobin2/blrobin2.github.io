@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Headless Horseman (1922)"
 excerpt: "My review of The Headless Horseman (1922)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6HcmCZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 17/31 | Before 1970 4/5 | Decades 4/5 | 20s</a></b>
 
@@ -22,7 +24,3 @@ The film follows Ichabod’s foibles as he loses favor with the town and eventua
 I’m a little lost regarding the negative reviews. I don’t think it’s a tremendous achievement in film, but it’s a faithful adaptation with effective ghost special effects. Will Rogers hams it up as the arrogant idiot Ichabod Crane, giving the film a more comedic tone than outright horror. The film spends more time showcasing his foolishness than dealing with the headless horseman, so maybe that’s why it’s disappointing folks.
 
 This movie has the most adult-looking baby I’ve ever seen. Not an elderly man baby, but a tax-paying, 9-to-5-working adult the size of an infant.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6HcmCZ)

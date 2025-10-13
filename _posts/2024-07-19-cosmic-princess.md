@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cosmic Princess (1982)"
 excerpt: "My review of Cosmic Princess (1982)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6UooDL
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 This episode aired during Super Bowl XXIII. Interesting that they chose this movie instead of the later <i>Superdome</i>, which is about a Super Bowl.
 
@@ -17,7 +19,3 @@ The movie is two episodes of <i>Space 1999</i> glued together. It's so silly, bu
 * Nice blazer, Martin
 * That's gotta hurt
 * Don't shoot to kill — shoot to annoy
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6UooDL)

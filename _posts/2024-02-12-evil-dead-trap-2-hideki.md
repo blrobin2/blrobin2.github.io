@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Evil Dead Trap 2: Hideki (1992)"
 excerpt: "My review of Evil Dead Trap 2: Hideki (1992)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5OyYV5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 11/32 | 2nd film in franchise 3/7</a></b>
 
@@ -25,7 +27,3 @@ For a good part of the movie, this works well and sets an uncomfortable mood. Bu
 Be warned — this movie is quite gory — a fair bit of cutting, dismemberment, and disemboweling.
 
 I wanted to like this more! While I appreciate the unique tone, it didn't come together satisfyingly.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5OyYV5)

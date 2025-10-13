@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Strange Vengeance of Rosalie (1972)"
 excerpt: "My review of The Strange Vengeance of Rosalie (1972)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4RNNDj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 The film opens to the sound of wind and a shovel pulling dirt out of the ground — the sun rises, the silhouettes of seas chickens hanging across the horizon, and a single figure digging
 
@@ -23,7 +25,3 @@ Virgil, on the other hand, cannot hide his contempt for Rosalie, throwing insult
 Though compared to Misery, the two stories feel pretty different. I will say that Misery's story has enough variety to keep it from getting monotonous — here, we have the same conversations over and over until circumstances change — logical and realistic, but not all that entertaining
 
 Still, there are entertaining moments, and the ending is a surprise that fits the narrative. It's not a movie I'd watch again, but nothing offensively wrong with it beyond the tired gender politics of the era
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4RNNDj)

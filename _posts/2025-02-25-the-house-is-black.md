@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The House Is Black (1963)"
 excerpt: "My review of The House Is Black (1963)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/8WKStT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 6/52 | Iranian New Wave</a></b>
 
@@ -21,7 +23,3 @@ Critics considered this film the forerunner to the Iranian New Wave. The film re
 The science of the film is out of date in a number of ways. Most importantly, the disease is not as contagious as common knowledge suggests. When this movie was made, the disease had become resistant to all known treatments. As of 1982, we have a cure for the disease but have not eradicated it completely.
 
 <blockquote><i>One day, the heavens turned, and I fell into this asylum.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8WKStT)

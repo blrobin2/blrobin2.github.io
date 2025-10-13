@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Yellow Earth (1984)"
 excerpt: "My review of Yellow Earth (1984)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/bfOCOL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 20/52 | Chinese Cinema: The Fifth Generation</a></b>
 
@@ -38,7 +40,3 @@ This film elided government censorship through ambiguity, not criticizing the Co
 Once the sheen of Fifth Generation filmmakers wore off, their influence did not seem to have a lasting impact on Chinese filmmaking. However, their reputation persists worldwide, and their films remain among the most celebrated to emerge from China.
 
 Criterion is finally giving attention to Fifth Generation films, so hopefully, they will add this movie to the collection soon.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bfOCOL)

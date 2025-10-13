@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "You Won't Be Alone (2022)"
 excerpt: "My review of You Won't Be Alone (2022)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/55WWLl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 1/34 | Countries 1/6 | Serbia</b>
 
@@ -27,7 +29,3 @@ With a poetic cadence, this movie is a folktale that relishes the humanity of ev
 Except for the gore, I wouldn't classify this as a horror movie. However, I must admit that I'm not the best judge here.
 
 I'm curious to see what Goran Stolevski's follow-up, <i>Of an Age</i>, is like.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/55WWLl)

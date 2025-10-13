@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Trash Humpers (2009)"
 excerpt: "My review of Trash Humpers (2009)"
+rating: ""
+letterboxd_url: https://boxd.it/5TWi6d
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 29/52 | Found Footage</a></b>
 
@@ -27,7 +29,3 @@ Similarly, he originally wanted to leave VHS tapes around so that they became au
 Korine wanted something that felt like a bit of magic in ordinary life, but its artifice was too prevalent. This isn't Diane Arbus — this is pretending.
 
 That doesn't mean the film is an outright failure — I appreciate some of the weirdness on display and the degraded Americana. But its insistence that it is being transgressive doesn't land, especially now 15 years after its release.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5TWi6d)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Monterey Pop (1968)"
 excerpt: "My review of Monterey Pop (1968)"
+rating: ""
+letterboxd_url: https://boxd.it/6SvV9Z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 29/52 | Yo La Tengo’s Closet Picks</a></b>
 
@@ -26,7 +28,3 @@ I'm getting high to watch this — I hope it helps.
 * So much of the behind-the-scenes are just cameramen creeping on pretty girls.
 * Otis Redding 😢
 * I love how much Jimi Hendrix freaked out the audience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6SvV9Z)

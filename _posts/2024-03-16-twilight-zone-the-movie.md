@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Twilight Zone: The Movie (1983)"
 excerpt: "My review of Twilight Zone: The Movie (1983)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/63F6Hd
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 15/32 | Makeup: Rob Bottin</a></b>
 
@@ -47,7 +49,3 @@ What a stacked cast
 
 <b>Nightmare at 20,000 Feet Remake - George Miller ***</b>
 John Lithgow plays William Shatner's role as a guy who sees a Gremlin on the wing of his plane. Matheson adapts his short story a second time. I don't think he changes much of anything, letting the updated effects and unhinged Lithgow justify its existence. Also, George Miller's wacky cinematography helps.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/63F6Hd)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Brighter Summer Day (1991)"
 excerpt: "My review of A Brighter Summer Day (1991)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/9Em1aR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 44/52 | Paul Dano's Closet Picks</a></b>
 
@@ -51,7 +53,3 @@ The film has a deliberate pace, letting the story and characters unfold organica
 I loved the relationships, the writing, everything. Yang drew on his childhood for so many details—the film almost overflows with them in each scene, never asserting them. So many moments had me in tears, positive and negative. Yes, it will require patience to finish, but the experience is one of the most rewarding I've had while watching a movie.
 
 <blockquote><i>We have all the time in the world.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Em1aR)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "It Must Be Heaven (2019)"
 excerpt: "My review of It Must Be Heaven (2019)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8Oxg2H
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 44/52 | Arab Film & Media Institute’s Cinema of Palestine</a></b>
 
@@ -23,7 +25,3 @@ The quiet absurdity of the style reminds me of Roy Andersson, but it is not quit
 I believe I watched something brilliant, but I would be lying if I said I understood the movie in total. I can't say if every scene has some political undertone—some scenes felt absurd for their own sake—but the commentary is unambiguous in places.
 
 Even if I walked away understanding nothing about what the movie was saying, it was still a weird and hilarious experience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Oxg2H)

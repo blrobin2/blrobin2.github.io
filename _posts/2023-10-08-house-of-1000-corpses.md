@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "House of 1000 Corpses (2003)"
 excerpt: "My review of House of 1000 Corpses (2003)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/4XyPIf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Some nerds get themselves in trouble when they ask for directions to where Dr. Satan worked and fall into the hands of the Firefly family — think The Munsters if every one of them was a psycho killer
 
@@ -29,7 +31,3 @@ This movie isn't great, but it has weird promise (see spoiler talk below).
 
 <b>*** Spoilers ***</b>
 The best part of the movie is when they lower Denise into Dr. Satan's lair — his goon squad and lair are creepy, and Denise is the only character we have a chance to care about. The tension mounts, the mystery unfolds from her perspective, and we genuinely don't know what will happen. The movie eventually gets in its way again, but the promise of a legitimately good filmmaker is there
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XyPIf)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Heroic Trio 2: Executioners (1993)"
 excerpt: "My review of Heroic Trio 2: Executioners (1993)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/3Zorin
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Between the first and second movie, the world became a nuclear apocalyptic wasteland — no biggie
 
@@ -19,7 +21,3 @@ It’s still got the occasional fight — more gunfights than king fu — but no
 Don’t get me wrong, it still has some fun goofiness, especially in the last 30 minutes. It’s just a pretty different movie for most of its runtime
 
 So many exploding bodies!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3Zorin)

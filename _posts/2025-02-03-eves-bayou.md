@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eve's Bayou (1997)"
 excerpt: "My review of Eve's Bayou (1997)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8I4NZb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 6/52 | Black Directors</a></b>
 
@@ -29,7 +31,3 @@ Both Eve and her Aunt Mozelle have visions. The images are black-and-white monta
 <blockquote><i>All I know is that most people's lives are a great disappointment to them, and no one leaves this earth without feeling terrible pain.</i></blockquote>
 
 What a heartbreaking and compelling first feature.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8I4NZb)

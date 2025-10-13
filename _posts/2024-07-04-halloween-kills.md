@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween Kills (2021)"
 excerpt: "My review of Halloween Kills (2021)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/6NHJHz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 2/31 | Franchises 2/5">Hooptober 2.0 | 2/31 | Franchises 2/5</a></b>
 
@@ -19,7 +21,3 @@ Reference after reference after reference! And then almost pornographic kills. T
 They spend a trillion hours trying to understand who Michael is, but he isn't anything.
 
 Wow, this sucks ass.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6NHJHz)

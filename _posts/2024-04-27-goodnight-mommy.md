@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Goodnight Mommy (2014)"
 excerpt: "My review of Goodnight Mommy (2014)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6lMAvn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 26/32 | Woman-Directed 2/2</a></b>
 
@@ -29,7 +31,3 @@ It didn’t matter whether she was my mom — I didn’t feel safe in her presen
 The movie is a slow burn and long for its simple premise, but it develops, and the dynamics change. It also gets fucked. There’s some mouth trauma that has me squirming in my seat.
 
 This movie hit me in a way I wasn’t expecting. My score may be higher than your expectations.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6lMAvn)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "To the Limit (1995)"
 excerpt: "My review of To the Limit (1995)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5Pl08Z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 22/52 | PM Entertainment</a></b>
 
@@ -48,7 +50,3 @@ This movie sucks, but it's hilarious.
 * A showdown at Hoover Dam
 * Colette throws the disc into Arthur's face, embedding it into his skin. She shoots him off the edge of the dam!
 * RIGHT before the credits roll, Colette reveals her name is Vicky Lynn. Okay, good to know. Bye?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Pl08Z)

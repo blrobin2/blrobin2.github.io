@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Swing Girls (2004)"
 excerpt: "My review of Swing Girls (2004)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/9Z4xh9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <blockquote><i>There are two types of people in the world: those who swing and those who don't.</i></blockquote>
 
@@ -34,7 +36,3 @@ My heart is so full!
 * Yuta Hiraoka is an adorable nerd. Is he gay for Inoue, the baseball player?!
 * Yuika Motokariya made me tear up! She loves the trombone so much :cry:
 * Shihori Kanjiya and the mouse… that is all.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Z4xh9)

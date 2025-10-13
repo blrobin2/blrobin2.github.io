@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween II (2009)"
 excerpt: "My review of Halloween II (2009)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4FiyUJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
 
@@ -24,7 +26,3 @@ received so much attention (and this is another remake of a horror classic). But
 * Half a star for the Weird Al cameo
 * "Are you a giant? Can we be friends?!"
 * That Halloween party seems insufferable
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4FiyUJ)

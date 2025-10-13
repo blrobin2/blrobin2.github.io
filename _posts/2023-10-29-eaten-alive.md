@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eaten Alive (1976)"
 excerpt: "My review of Eaten Alive (1976)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/54ko5P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 31/34 | Tobe Hooper</b>
 
@@ -38,7 +40,3 @@ I think Judd is a latent bisexual, if not homosexual. He doesn't want Miss Hatti
 Similarly, the women who understand their role to these men are left alive. When they cry and resist, that's when the violence comes. When they smoke a cigarette and roll their eyes, that's when the violence comes.
 
 But since Faye isn't a sex worker, Judd doesn't know how to respond to her. He has her in his grasp, but he doesn't want to kill her, and he doesn't want to fuck her either. So he ties her up, putting her on pause so that he has some sense of domination.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/54ko5P)

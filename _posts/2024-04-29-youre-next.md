@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "You're Next (2011)"
 excerpt: "My review of You're Next (2011)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/6mLuon
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 28/32 | Barbara Crampton</a></b>
 
@@ -33,7 +35,3 @@ Also, killing your three best actors in the first 30 is unexpected, but it also 
 The movie may have felt more revelatory when it came out over a decade ago. Today, home invasion needs to do more than exist to warrant attention.
 
 Rob Moran sounds like Greg from <i>Succession</i>.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6mLuon)

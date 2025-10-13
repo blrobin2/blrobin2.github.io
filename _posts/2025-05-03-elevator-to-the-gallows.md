@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Elevator to the Gallows (1958)"
 excerpt: "My review of Elevator to the Gallows (1958)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/9Aefyh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 43/52 | Starring Jeanne Moreau</a></b>
 
@@ -25,7 +27,3 @@ The film's crime story leads folks to consider it noir, but in some ways, it fun
 That said, Miles Davis's score gives this film its place in history. Through his improvisations for the soundtrack, Davis developed his modal jazz style, which he would fully employ the following year on <i>Kind of Blue</i>.
 
 Still, the script is whip-smart, building tension in tiny measures, crafting a thread that doesn't give way until the final minutes.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Aefyh)

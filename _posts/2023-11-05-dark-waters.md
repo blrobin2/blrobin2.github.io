@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dark Waters (1993)"
 excerpt: "My review of Dark Waters (1993)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/56Pb4z
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 4/34 | Countries 4/6 | Ukraine</b>
 
@@ -33,7 +35,3 @@ The soundtrack has a synth orchestration, distorted like old tape running and sk
 The movie never treats the audience like they're stupid — we get to the island, we get the rundown, and the exploration begins. Sarah loves Sherlock Holmes, so she is also eager to unravel the mystery. What they learn won't shock or surprise any horror fans, but the journey is fun.
 
 Stuart Gordon should have made this movie. Dagon is the closest I've seen him get. But Mariano Baino channels Lovecraft with a more mainstream appeal (for what that's worth), matching lore and horror in equal measure.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/56Pb4z)

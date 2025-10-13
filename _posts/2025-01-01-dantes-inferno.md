@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dante's Inferno (1911)"
 excerpt: "My review of Dante's Inferno (1911)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/8fHWf9
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail" rel="nofollow">Hoop-Tober | 10/31 | Decades 10/10 | 1910s</a></b>
 
@@ -22,7 +24,3 @@ With trippy special effects, intricate sets, and nude bodies for days, this film
 My only complaint is the frequent and text-heavy interstitials — they're necessary for the story, but I wish they could just let the images speak for themselves.
 
 Still, this movie rules. Put on some brutal music (I chose Colin Stetson's The Love It Took to Leave You), and watch the bodies flail and nightmare unfold.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8fHWf9)

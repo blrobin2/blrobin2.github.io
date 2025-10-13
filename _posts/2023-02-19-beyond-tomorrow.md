@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Beyond Tomorrow (1940)"
 excerpt: "My review of Beyond Tomorrow (1940)"
+rating: ""
+letterboxd_url: https://boxd.it/3Sca0f
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** /5
 
 Couldn’t sleep so I put on this wild-ass movie
 
@@ -27,7 +29,3 @@ The lover? She “had no soul to go on with” so presumably faded into the ethe
 Finally, George comes back, having paid for his crimes and he and Michael walk off into the glowing light of heaven
 
 Watching this movie is my new Christmas tradition
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3Sca0f)

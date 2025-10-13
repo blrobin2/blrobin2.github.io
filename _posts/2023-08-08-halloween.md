@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Halloween (2007)"
 excerpt: "My review of Halloween (2007)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4F1ay1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
 
@@ -23,7 +25,3 @@ Also, for a movie so heavy on backstory, it doesn't consider answering why Micha
 Malcolm McDowell gives a decent performance, although his theatric temperament is at odds with everyone else
 
 All in all, an okay script but too indebted to the original to overcome the weight of backstory, references, and other plot points
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4F1ay1)

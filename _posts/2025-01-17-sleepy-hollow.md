@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Sleepy Hollow (1999)"
 excerpt: "My review of Sleepy Hollow (1999)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8v3tbr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 21/31</a></b>
 
@@ -21,7 +23,3 @@ The film's inarguable success is its visual choices. The bleach bypass has a was
 Did Mia Goth base her aesthetic on Christina Ricci in this movie?
 
 I'm a basic bitch who likes Hammer horror. This movie doesn't strike the same chord, but it sufficiently ramps up the silly dramatics to make for a fun and memorable watch.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8v3tbr)

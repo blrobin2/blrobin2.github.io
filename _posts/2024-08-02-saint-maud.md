@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Saint Maud (2019)"
 excerpt: "My review of Saint Maud (2019)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/70vg2F
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 1/31 | Decades 1/10 | 2010s</a></b>
 
@@ -37,8 +39,3 @@ Like <i>Love Lies Bleeding</i>, the film lives in Maud's subjective experience, 
 Morfydd Clark's performance is pitch-perfect. I felt in lockstep with Maud's experiences, which made the film physically unbearable in places.
 
 This film has one of the most horrifying last images I've seen in a movie.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/70vg2F)

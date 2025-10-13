@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Long Day Closes (1992)"
 excerpt: "My review of The Long Day Closes (1992)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/6vkztp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 21/52 | LGBTQ+</a></b>
 
@@ -34,7 +36,3 @@ Intrinsic to this form of identity-making is a distancing. You speak a language 
 Through abstractions and melodrama, the film achieves an indescribable honesty.
 
 I don’t want pity or adoration — I want to be known.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6vkztp)

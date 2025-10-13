@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Romy and Michele's High School Reunion (1997)"
 excerpt: "My review of Romy and Michele's High School Reunion (1997)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6BfCWX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 23/52 | Annie’s B-movies for the GIRLS</a></b>
 
@@ -33,7 +35,3 @@ I love love love the color! Romy and Michele's outfits are outstanding, and they
 The songs are choice, and Steve Bartek's score goes some surprising places — his work with Danny Elfman comes through in spots.
 
 This movie is so cozy! Add it to the list of sick-day movies.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6BfCWX)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Man in the White Suit (1951)"
 excerpt: "My review of The Man in the White Suit (1951)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/72pZvD
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 31/52 | 50s Sci-Fi</a></b>
 
@@ -25,7 +27,3 @@ By most accounts, clothes that never wear out would be tremendous. In a system r
 Alec Guinness gives a charming performance as a brilliant but naïve scientist who believes success can occur in a vacuum.
 
 This film is short, smart, and only slightly wears out its welcome.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/72pZvD)

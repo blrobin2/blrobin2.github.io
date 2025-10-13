@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Ganja & Hess (1973)"
 excerpt: "My review of Ganja & Hess (1973)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5VPgWl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 28/32 | black director or predominantly black cast or lead 1/2</a></b>
 
@@ -44,7 +46,3 @@ The film has an unconventional structure and pace, where events happen out of se
 The producers approached director Bill Gunn to make a "black vampire film." Gunn took creative control and directed the vampire metaphor to one of addiction. The metaphor goes deeper than that, drawing on Christian allegory and mythmaking to create a distinctly Black vampirism.
 
 This film is a rare and incredible piece of Black filmmaking. Though its complete version lay buried under the producer's re-cut, <i>Blood Couple</i>, we now have access to the uncut version, as Gunn meant it to be seen.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5VPgWl)

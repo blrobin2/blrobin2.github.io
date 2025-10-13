@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Circus (2010)"
 excerpt: "My review of The Last Circus (2010)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5eP78p
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 32/34 | Bonus 1/3</b>
 
@@ -60,7 +62,3 @@ The site was also where they buried Franco. Years after this movie, the governme
 As both scale the monument to claim Natalia, she falls to her death. Neither got what they desired.
 
 History is, of course, not that simple, and I am an idiot. So, take my ramblings with a grain of salt.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5eP78p)

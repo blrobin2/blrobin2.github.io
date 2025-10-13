@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In Vanda's Room (2000)"
 excerpt: "My review of In Vanda's Room (2000)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/68KjOL
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 13/52 | Virtually Reality</a></b>
 
@@ -19,7 +21,3 @@ Armed with a single digital camera, Costa centers Vanda Duarte and her heroin ad
 The story is fictional, but the people and places are real. The characters speak a rehearsed script, but the narrative comes from authentic experiences.
 
 This film is one you could sit around and philosophize about. Just see it, that’s all.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/68KjOL)

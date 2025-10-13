@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Viva Knievel! (1977)"
 excerpt: "My review of Viva Knievel! (1977)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/9FKbA3
+mst3k: false
+rifftrax: true
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 Gene Kelly?? Lauren Hutton?? Leslie Nielsen?? Oh, Cameron Mitchell, that makes sense.
 
@@ -22,8 +24,3 @@ This Evel Knievel vanity project is a strange one—he thinks he's in a kid's mo
 * — Don't call me Shirley. — I didn't!
 * Who in their right mind listens to a bike jump on the radio?
 * This is the Fitzcarraldo of stunt bike movies.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9FKbA3)

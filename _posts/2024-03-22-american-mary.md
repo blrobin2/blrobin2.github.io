@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "American Mary (2012)"
 excerpt: "My review of American Mary (2012)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/66rLcf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 21/32 | women-directed film 1/2 | Countries 4/6 | Canada</a></b>
 
@@ -31,7 +33,3 @@ Katharine Isabelle nails the role and meets the contradicting moods with grace.
 The closest film I can compare it to would be <i>May</i>. <i>May</i>, however, cares about the lead's inner life and personality. So, when May does horrifying things, we understand why. Here, Mary remains an enigma.
 
 Still, the filmmaking remains confident and is not as indulgent as the premise implies. I understand why folks love it, but I can only appreciate it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/66rLcf)

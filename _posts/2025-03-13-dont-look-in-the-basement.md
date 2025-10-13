@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Don't Look in the Basement (1973)"
 excerpt: "My review of Don't Look in the Basement (1973)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/96EHkT
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 6/52 | Video Nasties</a></b>
 
@@ -31,8 +33,3 @@ This movie isn't for everyone's tastes—it kind of sucks. But I'm so captivated
 * Man, I'm so good. 😎 Or it was obvious, I don't know.
 * Charlotte being a patient too is… hmm…
 * The closing credits over all the dead bodies are inspired.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/96EHkT)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Muriel, or the Time of Return (1963)"
 excerpt: "My review of Muriel, or the Time of Return (1963)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5Y1sfl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites">Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites</a></b>
 
@@ -48,7 +50,3 @@ Helene is gambling her life away, trying to forget.
 Alphonse is in Boulogne, looking for a job. His wife, Simone, is at home.
 
 We cannot keep people in our lives as souvenirs.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Y1sfl)

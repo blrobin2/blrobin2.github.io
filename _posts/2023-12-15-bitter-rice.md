@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Bitter Rice (1949)"
 excerpt: "My review of Bitter Rice (1949)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5kbqSl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 43/52 | 1940s</b>
 
@@ -51,7 +53,3 @@ Silvana gets some redeeming lines. She works in the same rice fields as everyone
 The film briefly addresses the privileges given to conventionally attractive women but will not allow it significant focus because of the importance placed on prettiness.
 
 My gripes aside, this film is still a well-shot, smartly-paced experience that helped push the next generation of Italian filmmakers forward.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5kbqSl)

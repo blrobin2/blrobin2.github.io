@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Ghost Goes West (1935)"
 excerpt: "My review of The Ghost Goes West (1935)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4bqEN1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Beautiful cinematography, especially when Peggy first meets the ghost outside on an overcast night, the composition of his reveal, the shadow cast just over his face
 
@@ -24,7 +26,3 @@ It took me a bit to warm up to this, but once it got going, it won me over
 * I, too, would instead be playing in the field with women than go to war
 * A little premonitory, the idea of a castle in Florida becoming a public attraction
 * "And now, we're gonna hear some real Scotch music!" Enter: a twelve-piece band in kilts playing swing
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4bqEN1)

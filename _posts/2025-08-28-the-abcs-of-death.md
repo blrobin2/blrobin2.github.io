@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The ABCs of Death (2012)"
 excerpt: "My review of The ABCs of Death (2012)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/aSYabJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 35/52 | Anthology Horror</a></b>
 
@@ -171,7 +173,3 @@ This is shot like a comedy. You know, rape revenge, but it's a child. Hilarious,
 I think I got too high to understand this one. It's like, Dr. Strangeluv is shown a bizarre depiction of how similar America and Japan are.
 
 It's <i>Tokyo Gore Police</i> dude being the horniest weirdo he can be. There's a shot where a woman with enormous breasts has a depiction of 9/11 painted on them, and she's shaking them about.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aSYabJ)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Over Your Dead Body (2014)"
 excerpt: "My review of Over Your Dead Body (2014)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6SVwfZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 15/31 | Takashi Miike 5/5</a></b>
 
@@ -26,7 +28,3 @@ I’m not sure why I watched this movie of Miike’s. I made this list ages ago,
 The version of Tubi is dubbed, and poorly so at that, which may have contributed to my liking this less than others. The last 15 minutes are incredible visually, so dubbing doesn't ruin that.
 
 The director who did <i>Audition</i> remains elusive in his other films — nothing I’ve watched of his captures that same, or even similar, magic.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6SVwfZ)

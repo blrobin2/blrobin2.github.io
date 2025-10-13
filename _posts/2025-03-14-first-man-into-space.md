@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "First Man into Space (1959)"
 excerpt: "My review of First Man into Space (1959)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/97bvIZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 7/52 | 50s Sci-Fi</a></b>
 
@@ -23,7 +25,3 @@ On paper, this movie is yet another space horror from the 50s. But in the textur
 That said, this isn't the most exciting movie. You can predict most of it, and the characterization isn't groundbreaking. But with so many MST3Ks under my belt (including this movie's rip-off, <i>The Incredible Melting Man</i>), a decent 50s sci-fi flick goes a long way for me.
 
 This movie is supposedly a <i>Quatermass Xperiment</i> rip-off, so I should probably check that out.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/97bvIZ)

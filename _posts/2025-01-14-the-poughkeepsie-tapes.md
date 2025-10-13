@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Poughkeepsie Tapes (2007)"
 excerpt: "My review of The Poughkeepsie Tapes (2007)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/8t5c37
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 2/52 | Found Footage</a></b>
 
@@ -21,7 +23,3 @@ From there, we get interviews with actors who can barely keep a straight face, r
 The film is not a disaster — it has uneasy and horrifying moments. Also, it remains a cult favorite for a reason.
 
 I'd be curious to see the intersection of true crime fans and fans of this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8t5c37)

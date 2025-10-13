@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Brides of Dracula (1960)"
 excerpt: "My review of The Brides of Dracula (1960)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5G4ibn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 24/34 | Hammer films 2/2</a></b>
 
@@ -30,7 +32,3 @@ Yvonne Monlaur is the ideal Hammer woman — beautiful, and foreign, and her hai
 Marita Hunt has the vampiric energy of loneliness and madness, exhaustion at the edge of every phrase.
 
 David Peel is silly and annoying.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5G4ibn)

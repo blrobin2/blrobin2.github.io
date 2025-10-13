@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Certified Copy (2010)"
 excerpt: "My review of Certified Copy (2010)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/57WQKz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  10/52 | Heartbreak Heaven</b>
 
@@ -29,7 +31,3 @@ Echoes of love — its hopeful beginnings, its forgetful middles, and its shambl
 Love and its happiness aren’t about whose memories are correct. It’s allowing both copies to exist and to grant authenticity to both.
 
 I got more out of thinking about this instead of watching it. The movie is still compelling.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57WQKz)

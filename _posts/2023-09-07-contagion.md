@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Contagion (2011)"
 excerpt: "My review of Contagion (2011)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4OlAr7
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <blockquote><i>Why can't they invent a shot that keeps time from passing?</i></blockquote>A deadly disease spreads, creating an epidemic and mass hysteria
 
@@ -19,7 +21,3 @@ I would expect a lingering shot of a dead child covered in vomit or the camera m
 Maybe the only movie Soderberg has made where the puke green/yellow tint he gives everything makes sense
 
 Overall, this is a well-structured film with solid cinematography, but it is one that left me feeling cold
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4OlAr7)

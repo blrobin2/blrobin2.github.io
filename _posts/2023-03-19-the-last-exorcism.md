@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Exorcism (2010)"
 excerpt: "My review of The Last Exorcism (2010)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/405Hod
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Basic concept; sham exorcist accidentally attends a real exorcism — or is it!?!?
 
@@ -26,7 +28,3 @@ This commits a sin that a lot of movies do, where it gets to the last 10 minutes
 The movie up until that point does a good job of showing how mental illness can manifest, and the ways in which this type of insular upbringing can persuade individuals into thinking they are possessed…
 
 And then in the last 10 minutes they turn it into a <i>Rosemary’s Baby</i>, undercutting the work they had done for the sake of a cheap twist. It’s for that reason that I can’t rate the movie higher
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/405Hod)

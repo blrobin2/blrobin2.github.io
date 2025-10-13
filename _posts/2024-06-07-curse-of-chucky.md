@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Curse of Chucky (2013)"
 excerpt: "My review of Curse of Chucky (2013)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6CLoeF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 6/31 | Franchise 6/7</a></b>
 
@@ -31,7 +33,3 @@ Fiona Dourif, who plays Nica, looks so much like her father. You could convince 
 With the lowered direct-to-video budget, the gore isn’t as impactful as <i>Seed of Chucky</i>. That doesn’t stop the filmmakers from going all out — this has the most brutal kills thus far.
 
 I like this movie! Despite being formulaic in certain parts, the movie skillfully generates suspense and provides several unexpected moments. This was the right place to take the franchise and solidified my love for it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6CLoeF)

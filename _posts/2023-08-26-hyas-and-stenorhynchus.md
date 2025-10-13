@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: review
 title: "Hyas and Stenorhynchus (1929)"
 excerpt: "My review of Hyas and Stenorhynchus (1929)"
+rating: ""
+letterboxd_url: https://boxd.it/4KCsI3
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
 
-**Rating:** /5
-
 We stan a clumsy crab
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4KCsI3)

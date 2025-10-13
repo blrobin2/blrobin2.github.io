@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wages of Fear (1953)"
 excerpt: "My review of The Wages of Fear (1953)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/4GdEKf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 The movie opens in a village where men throw rocks at dogs and children torture bugs — violence begot — a place held in American imperialist grips for the oil in the land — a purgatory where people end up but do not have the means to get out
 
@@ -17,7 +19,3 @@ This film has an incredible pace, expressive and snappy cinematography, and set 
 A dark piece of work but ultimately a hopeful one — it looks at the world as it is and asks if we can do better
 
 One of the most heart-racing movie-watching experiences I can remember — what a movie!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4GdEKf)

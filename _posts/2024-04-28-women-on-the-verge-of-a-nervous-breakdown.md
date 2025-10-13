@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Women on the Verge of a Nervous Breakdown (1988)"
 excerpt: "My review of Women on the Verge of a Nervous Breakdown (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6mp47V
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 (Retroactive) | 1/52 | Year I Was Born (1988)</a></b>
 
@@ -33,7 +35,3 @@ Overall, I liked it — I didn't find that connection that could excite me, but 
 * Mother of the killer role, then a laundry commercial based on that character 
 * Woman dancing naked in the window
 * Ivan's first wife is villainous because she went to a mental hospital or something??
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6mp47V)

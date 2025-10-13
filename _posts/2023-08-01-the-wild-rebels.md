@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Wild Rebels (1967)"
 excerpt: "My review of The Wild Rebels (1967)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/4CH4iX
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 Joel's facial hair is awful. This is now the most high I've seen Joel
 
@@ -18,7 +20,3 @@ Joel's facial hair is awful. This is now the most high I've seen Joel
 * At least they haven't broken any traffic laws
 * Did you see Cop Rock last night? It sucked (just excited that someone referenced that show)
 * You killed a tree, Banjo!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4CH4iX)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Secret Agent Super Dragon (1966)"
 excerpt: "My review of Secret Agent Super Dragon (1966)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/584e9h
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 * And of course, Technicolor as Himself
 * You can tell by the lawn furniture that he's a secret agent
@@ -21,7 +23,3 @@ category: movie_review
 * would somebody answer the table please?
 * its my roommate's dress!
 * Super Dragon worked the deep fryers at Arby's — he knows what he's doing
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/584e9h)

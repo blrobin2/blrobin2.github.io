@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Starling Girl (2023)"
 excerpt: "My review of The Starling Girl (2023)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/5fJg8l
+mst3k: 
+rifftrax: 
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Jem Starling whispers a prayer before her dance troupe performs an interpretive dance in front of their congregation.
 
@@ -35,7 +37,3 @@ When the "correct" path feels wrong, how do you handle that?
 When I was in high school, I courted someone for three years. I didn't want to. I believed it was God's will for me. Soon after we broke up, she returned to her hometown and married her youth pastor.
 
 This film shows that a movie can be excellent without needing to innovate. This film may not surprise you, but its spectacular performances and perspective make for a riveting and tense experience.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5fJg8l)

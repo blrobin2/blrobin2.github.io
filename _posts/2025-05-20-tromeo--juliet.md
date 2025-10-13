@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Tromeo & Juliet (1996)"
 excerpt: "My review of Tromeo & Juliet (1996)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/9K3C7B
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 40/52 | Troma</a></b>
 
@@ -48,8 +50,3 @@ I was so on the fence with this movie, but through the magic of love and tastele
 * I love the sparkle effects of the apothecary's potion working!
 * "I'm going to wipe you off the earth like a piece of shit from God's ass!"
 * William Shakespeare laughs like Vincent Price.
-
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9K3C7B)

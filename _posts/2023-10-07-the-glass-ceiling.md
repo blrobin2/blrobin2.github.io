@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Glass Ceiling (1971)"
 excerpt: "My review of The Glass Ceiling (1971)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/4X8Gsv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Martha is a bored housewife. Her husband, Michael, goes out of town all the time. In her loneliness and boredom, she tries to be sociable, but they misunderstand her intentions — a delivery boy invited up for wine makes an advance that she turns down
 
@@ -19,7 +21,3 @@ The film has moments of energy and captivating filmmaking, but they’re so spar
 It isn’t until the final few minutes that the plot progresses forward in an explosion of exposition and physicality (vague enough to avoid spoilers?), but it’s hard to make up for the previous 80-odd minutes
 
 This is a solid movie that’s easy enough to watch, but I won’t be thinking about it anytime soon (though I may try to give it a rewatch since it seems folks are getting more out of it than I did)
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4X8Gsv)

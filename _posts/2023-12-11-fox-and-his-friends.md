@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Fox and His Friends (1975)"
 excerpt: "My review of Fox and His Friends (1975)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/5iNnLp
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 39/52 | Spine #800-950 (#851)</b>
 
@@ -33,7 +35,3 @@ Fassbinder has the perfect Biberkopf face — the clever smirk that every subtle
 These rich men exploit his simplicity, luring him to take everything away.
 
 All the while, Fox believes he is happy.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5iNnLp)

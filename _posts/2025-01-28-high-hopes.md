@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "High Hopes (1988)"
 excerpt: "My review of High Hopes (1988)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/8E00rl
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 14</a></b>
 
@@ -23,7 +25,3 @@ Ruth Sheen has British Shelley Duvall energy. Her performance is the standout of
 Why the hell does Criterion have Americans writing closed captions for British films? There are so many [inaudible]s throughout and for every accent.
 
 This film is the first Mike Leigh I've seen that resonated with me. Granted, I haven't seen many, but it makes me optimistic to watch more in the future.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8E00rl)

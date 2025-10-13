@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Gun for Jennifer (1997)"
 excerpt: "My review of A Gun for Jennifer (1997)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4ytuaV
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 Allison (Deborah Twiss) has just arrived in New York City when two men attack her. But before they can go too far, a woman vigilante gang shows up, castrating and killing them
 
@@ -19,7 +21,3 @@ The aesthetic has a grindcore, low-budget feel, making all the bloody violence m
 Deborah Twiss — who also co-wrote the script — is great in this. No one is going for realism in the acting, but she has a complicated role to play in the story, and she makes it work
 
 I had a blast with this one! It’s been in distribution hell since it came out in 97 — primarily due to licensing rights on the soundtrack — only getting a physical release in Europe, so you gotta Tubi it, but it’s worth the commercial breaks
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4ytuaV)

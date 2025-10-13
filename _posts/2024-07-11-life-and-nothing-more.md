@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Life, and Nothing More… (1992)"
 excerpt: "My review of Life, and Nothing More… (1992)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/6QJ7kt
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 28/52 | Ari Aster’s Closet Picks</a></b>
 
@@ -36,7 +38,3 @@ By design, we don’t know if the director and his son will arrive in Koker, let
 
 
 <blockquote><i>What can I do? The World Cup comes once every four years, and life goes on.</i></blockquote>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6QJ7kt)

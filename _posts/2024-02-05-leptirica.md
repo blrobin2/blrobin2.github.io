@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Leptirica (1973)"
 excerpt: "My review of Leptirica (1973)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5Ly145
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 4/32 | Countries 4/6 | Yugoslavia</a></b>
 
@@ -27,7 +29,3 @@ Sava Savanović is a legend in Serbian folklore. They consider him the first vam
 Vampire bites in this movie aren't the two neck pricks we know — it's a hole burrowed into the chest.
 
 The filmmaking is competent, even if the story barely knows what to do with its one-hour runtime. The movie isn't essential watching, but worthwhile for vampire or horror enthusiasts.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Ly145)

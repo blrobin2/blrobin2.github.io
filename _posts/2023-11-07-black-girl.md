@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Black Girl (1966)"
 excerpt: "My review of Black Girl (1966)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/57GGTf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 9/52 | Black Lives Collection</b>
 
@@ -29,7 +31,3 @@ They call her an animal but a “good maid.”
 Sharp, precise, and heartbreaking. I don’t have a historical understanding beyond France’s centuries-long occupation and enslavement of Senegal.
 
 We cannot pay off the debt of colonialism.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/57GGTf)

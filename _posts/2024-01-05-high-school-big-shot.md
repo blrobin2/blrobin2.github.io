@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "High School Big Shot (1959)"
 excerpt: "My review of High School Big Shot (1959)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5uZofL
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 TW: Suicide
 
@@ -26,7 +28,3 @@ The movie is grim. We see the main character's dad hang himself.
 * I get it, sex metaphor!
 * I wish this movie had these guys in it
 * Unfortunately, Marve will get caught when he turns in his timecard with these hours
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5uZofL)

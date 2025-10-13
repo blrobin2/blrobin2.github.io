@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "In a Lonely Place (1950)"
 excerpt: "My review of In a Lonely Place (1950)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4Qwwhx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>There's no sacrifice too great for a chance at immortality </i></blockquote>Dixon Steele is a washed-up screenwriter working in a city that sells popcorn and repeats — he joins the actors of yesteryear on the barstool as opportunities flutter across them. But Steele won't do any work that his heart isn't in
 
@@ -25,7 +27,3 @@ But love is cruel in how it chooses for us our romantic interests. And this isn'
 <b>Stray Thoughts</b>
 * It's wild how many speaking roles go uncredited here! Ruth Gillett, who plays Martha, provides crucial plot points
 * We need to go back to launching music careers from movie performances
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Qwwhx)

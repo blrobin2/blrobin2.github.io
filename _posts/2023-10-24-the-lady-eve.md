@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Lady Eve (1941)"
 excerpt: "My review of The Lady Eve (1941)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/52UPoX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 On a ship leaving South America for the US, Jean (Barbara Stanwyck), the hottest woman who ever lived, meets Charles (Henry Fonda), a beautiful idiot who studies snakes. Did I mention that he's also obscenely wealthy?
 
@@ -25,7 +27,3 @@ Preston Sturges has a sharp ear for witty dialogue. He fills every page of his s
 I've seen it in every review, but it's worth noting. This movie has an Oscar-winning horse performance. That horse is so funny.
 
 This movie had me entranced from start to finish — one of the great romantic comedies.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/52UPoX)

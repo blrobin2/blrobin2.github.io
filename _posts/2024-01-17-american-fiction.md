@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "American Fiction (2023)"
 excerpt: "My review of American Fiction (2023)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/5C7DKN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 Adam and I were in the theater during the closing credits.
 
@@ -23,7 +25,3 @@ This movie has an audience. I'm just not that audience.
 I'm disappointed that this adaptation avoided the novel's messier and more nuanced meta-textual elements. We get close to it with the conversation between Jeffrey Wright and Issa Rae.
 
 The movie feels like it had the edges whittled down so the filmmakers could make it, which tells you everything.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5C7DKN)

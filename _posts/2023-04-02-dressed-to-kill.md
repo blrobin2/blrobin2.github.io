@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Dressed to Kill (1980)"
 excerpt: "My review of Dressed to Kill (1980)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/43KnPn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 The movie has such a sweeping, dramatic score. The entire film has the defuse gauze over it. It’s so beautifully shot; I don’t care how meandering the plot is
 
@@ -21,7 +23,3 @@ Suddenly Tinto Brass makes a lot of sense visually. As De Palma is Hitchcock amp
 The scene where two scenes are shown side-by-side has big TikTok aesthetic
 
 It sucks how many great movies have fucked up portrayals of trans people. I want to say we’ve come a long way, but… At the very (very, very) least, there’s the talk-show scene interviewing the trans woman
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/43KnPn)

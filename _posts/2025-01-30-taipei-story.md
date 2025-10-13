@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Taipei Story (1985)"
 excerpt: "My review of Taipei Story (1985)"
+rating: "4.5"
+letterboxd_url: https://boxd.it/8F7fxh
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4.5/5
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 2/52 | Hong Kong Film Awards Top 100 Films</a></b>
 
@@ -41,7 +43,3 @@ Also, the night photography is so gorgeous. Every Tumblr photographer aspired to
 <blockquote><i>After all this time, you don't know what I need? I don't need anything.</i></blockquote>
 
 What a sharp, minimal movie — I loved being lost in its melancholy for a few hours.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8F7fxh)

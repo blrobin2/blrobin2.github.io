@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Hunchback of Notre Dame (1923)"
 excerpt: "My review of The Hunchback of Notre Dame (1923)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4WytyX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 7/34 | Decades 1/8 | 1920s</b>
 
@@ -28,7 +30,3 @@ I love the massive sets and the hoards of extras — Lon Chaney does a great job
 I think my biggest complaint is just how plot-heavy this is. We need title cards practically every time someone speaks, and every scene needs so much plot setup
 
 Still, the third act is massive and intense, making the less enjoyable parts worth sitting through
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4WytyX)

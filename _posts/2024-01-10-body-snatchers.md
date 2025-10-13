@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Body Snatchers (1993)"
 excerpt: "My review of Body Snatchers (1993)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5ybd8P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 9/34 | Decades 3/8 | 90s</a>
 
@@ -34,7 +36,3 @@ The best part about this movie is that it's less than 90 minutes, so it doesn't 
 * Boy butts
 * Oops, all out of budget. That's a weird helicopter shot.
 * Oh, because they had a fuck ton of explosions to do.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ybd8P)

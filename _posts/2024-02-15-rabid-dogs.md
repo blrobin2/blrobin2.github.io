@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Rabid Dogs (1974)"
 excerpt: "My review of Rabid Dogs (1974)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5PIpOR
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 23/52 | Eurocrime</a></b>
 
@@ -37,7 +39,3 @@ Still, this is a solid movie if you forget it's a Mario Bava project — the pac
 This will be a revelation for people who rarely connect to Bava's films. Bava fans might find this sterile and impersonal.
 
 That ending, though.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5PIpOR)

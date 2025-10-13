@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Demon Squad (2019)"
 excerpt: "My review of Demon Squad (2019)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/6ECRXT
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 I might be crying... The Satellite of Love goes through The Bag of Time to bring a certified, grade A, original host... and it's Joel! The last episode hinted at it, but this episode confirmed it. Hearing his voice is so pleasant. He receives Emily's bots to riff with him.
 
@@ -24,7 +26,3 @@ I might be crying... The Satellite of Love goes through The Bag of Time to bring
 * The doctor is in, and there's a copay!
 * My one weakness: a firm but gentle push!
 * I'll slide myself out
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6ECRXT)

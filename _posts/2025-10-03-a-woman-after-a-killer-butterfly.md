@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Woman After a Killer Butterfly (1978)"
 excerpt: "My review of A Woman After a Killer Butterfly (1978)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/bf5uXP
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 1/31 | Decades 1/9 | 1970s | Zombie 1/5</a></b>
 
@@ -37,7 +39,3 @@ Overall, it's challenging to analyze the movie without discussing all its detail
 * The movie becomes a beach movie about 80 minutes in for about 10 minutes.
 * Yeong-geol talks about masterpieces and how artists can't die without one great piece, which motivates Kyeong-mi. Her great work is to capture Yeong-geol and die alongside him. In her words, this is the most significant expression of love. Yeong-geol becomes a butterfly in others' nets.
 <b>*** END Stray Thoughts / Spoilers ***</b>
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bf5uXP)

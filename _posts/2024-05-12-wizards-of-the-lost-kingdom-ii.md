@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Wizards of the Lost Kingdom II (1989)"
 excerpt: "My review of Wizards of the Lost Kingdom II (1989)"
+rating: "1.0"
+letterboxd_url: https://boxd.it/6sq7P3
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1/5
 
 The liquid movie distributor leaking is a decent lampshade for when they have to make cuts to the movie for time/content.
 
@@ -26,7 +28,3 @@ I accidentally got too high to tell if this movie is any good. David Carradine w
 * Overhand!
 * She just murdered a mime. And our heroes are delighted!
 * Let my wizards go!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6sq7P3)

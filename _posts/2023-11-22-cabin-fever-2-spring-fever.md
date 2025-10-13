@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Cabin Fever 2: Spring Fever (2009)"
 excerpt: "My review of Cabin Fever 2: Spring Fever (2009)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5ci1lX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 22/34 | Ti West</b>
 
@@ -33,7 +35,3 @@ Larry Fendersen shows up to blow up and bleed everywhere — they do not hide th
 Noah Segan can't get a break outside of a Rian Johnson movie.
 
 I don't remember loving <i>Cabin Fever</i>. The only thing this has over it is that this movie is impressively nauseating.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5ci1lX)

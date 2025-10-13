@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Final Justice (1984)"
 excerpt: "My review of Final Justice (1984)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/6foqUl
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 I have several of director Greydon Clark's movies on my watchlist. This movie is not one of them.
 
@@ -18,7 +20,3 @@ It's funny how the <i>MST3K</i> editors added a blurred bar to the strippers bec
 * Stop, or we'll surrender!
 * Akimbo-vision
 * Now, let's look at this
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6foqUl)

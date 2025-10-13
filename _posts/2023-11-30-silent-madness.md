@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Silent Madness (1984)"
 excerpt: "My review of Silent Madness (1984)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5f5iGz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 33/34 | Bonus 2/3</b>
 
@@ -37,7 +39,3 @@ The murders are pretty brutal! Some of the set pieces are tense, at least to a d
 * Coca-Cola in a bowl of cereal??
 * TIL fax is short for facsimile
 * One of them plays Dragon's Lair! Laserdisc got around, huh?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5f5iGz)

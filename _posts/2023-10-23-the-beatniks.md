@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Beatniks (1959)"
 excerpt: "My review of The Beatniks (1959)"
+rating: "0.5"
+letterboxd_url: https://boxd.it/52qpon
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 0.5/5
 
 * i like it, i'll take 300 of these shirts
 * would you like heavy smoking or moderate smoking?
@@ -15,7 +17,3 @@ category: movie_review
 * 🎵 love wears a mask, a tight leather mask
 * Everything I want is right here, in Dianetics
 * I'm not a Punk, I'm a New Romantic!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/52qpon)

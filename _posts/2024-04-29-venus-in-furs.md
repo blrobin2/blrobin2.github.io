@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Venus in Furs (1969)"
 excerpt: "My review of Venus in Furs (1969)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6mTvDJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 18/52 | Jess Franco</a></b>
 
@@ -29,7 +31,3 @@ This movie has that hazy feel that I get from a David Lynch movie. Maybe it's th
 Manfred Mann Chapter Three, his avant jazz group, did the score. It's outstanding and does everything to set the sinister and otherworldly vibes.
 
 Jess Franco finally makes sense to me. I assumed his cult was about his awesomely bad movies. But this movie is quite good!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6mTvDJ)

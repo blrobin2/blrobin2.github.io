@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Kramer vs. Kramer (1979)"
 excerpt: "My review of Kramer vs. Kramer (1979)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8NDsJr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 43/52 | Title formatted as X vs. X</a></b>
 
@@ -23,7 +25,3 @@ Dustin Hoffman went method, which I guess means he had to hit, groupe, and taunt
 The script is what shines here. I love how it captures Ted's changing priorities in small bits—walking at night hearing his boss's stories vs. walking during the day hearing his son's stories, then telling his boss stories about Billy.
 
 My eyes glazed over during the court scenes. Also, the ending is total nonsense. Still, as a child of divorce, I think this movie got enough of it right that I appreciated what the movie did.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8NDsJr)

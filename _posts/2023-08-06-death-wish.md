@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Death Wish (1974)"
 excerpt: "My review of Death Wish (1974)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4Ef6h5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <blockquote><i>What about the old American social custom of self-defense? If the police don't defend us, maybe we ought to do it ourselves</i></blockquote>Some "freaks" break into the Kersey household, beat Joanna (Hope Lange) to death, and rape Carol (Kathleen Tolan), Joanna's daughter
 
@@ -31,7 +33,3 @@ Overall, the movie is a well-constructed Conservative wet dream
 * Jeff Goldblum shows up as "Freak 1", wearing a Jughead cap. He is going to end up in my most-watched actors this year for all the minor roles he keeps cropping up in. "Don't jive, Mother; you know what I want." Ugh, shut up
 * Liver and spaghetti for dinner, that's Paul's biggest crime
 * All these haggard men from the 70s were probably, what, 25 when this was filmed?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4Ef6h5)

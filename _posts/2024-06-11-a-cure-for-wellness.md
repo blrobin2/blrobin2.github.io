@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Cure for Wellness (2016)"
 excerpt: "My review of A Cure for Wellness (2016)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6EuCxZ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 8/31 | Countries 1/6 | Germany</a></b>
 
@@ -41,7 +43,3 @@ Mia Goth is always perfect as the siren. She says weird shit, walks around and s
 Harry Groener plays Mr. Penbroke, so that’s a treat for <i>Buffy</i> fans.
 
 Overall, there’s a great movie buried here, but the length and structure obscure more than elevate. This film could be someone's gateway drug to weirder movies.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6EuCxZ)

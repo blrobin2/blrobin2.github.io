@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Amityville Horror (1979)"
 excerpt: "My review of The Amityville Horror (1979)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/4XvQUv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <blockquote><i>houses don't have memories</i></blockquote>Some guy murders a bunch of people in a house. One year later, newlyweds George and Kathy Lutz make an offer on the house, fully aware of the murders
 
@@ -34,7 +36,3 @@ I didn't love this movie — I'm glad I can take it off the watchlist
 * Such an anticlimactic ending! The owner was a witch or something, and the basement was a literal gateway to hell, but all that happened was the walls shook and bled. Nothing tried to keep them in the house, nothing told them to get out of the house. Is the imaginary friend the witch? A ghost of one of the murdered people? Why does it want the windows closed, does
 the ghost pay the A/C bill? Why flies? Is it Beelzebub, the lord of the flies, messing with them? How does the spirit/devil/witch affect people in cars or churches miles away? What's the limits to its powers?
 * Why are they still making these movies? I guess the formula and openendedness allow for a lot of leeway, and filming predominantly at one house is gotta be pretty cheap
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4XvQUv)

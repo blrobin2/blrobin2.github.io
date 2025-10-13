@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Passenger (1975)"
 excerpt: "My review of The Passenger (1975)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/4LWY8P
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <blockquote><i>— People disappear every day
 </i><i>— Every time they leave the room</i></blockquote>David Locke is a journalist in Chad during a civil war, trying to reach the guerrillas to complete a documentary. At a hostel, he meets David Robertson — an English businessman who shares an uncanny resemblance to Locke
@@ -26,7 +28,3 @@ Still, this is a satisfying blend of arthouse sensibilities and mainstream story
 <b>Stray Thoughts</b>
 * The scene with him on the gondola, his arms outstretched through the window, flying over the water — the mistaken sense that his change has granted him freedom
 * The single-take final shot is top-tier
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4LWY8P)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Mr. Vampire (1985)"
 excerpt: "My review of Mr. Vampire (1985)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5gWsCx
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 An apprentice tends to a waning candle. Keep it lit, or they'll come to life.
 
@@ -29,7 +31,3 @@ There's some sexual assault humor that I wish wasn't there. Thankfully, it is no
 There are a couple of great fight sequences, but the movie is more interested in sloppy physical comedy from the terminally unfunny Ricky Hui.
 
 It may not be as fun as <i>Encounter of the Spooky Kind</i>, but it has some enjoyable moments. I'd like this more if I saw it before <i>Encounter</i>. Or if Sammo Hung was in it.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5gWsCx)

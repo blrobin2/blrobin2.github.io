@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Weird Woman (1944)"
 excerpt: "My review of Weird Woman (1944)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9OHQcr
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 42/52 | Shock Theater</a></b>
 
@@ -31,7 +33,3 @@ Norman's such an asshole! Lon Chaney Jr. does surprisingly well as a brow-beatin
 Some audiences may not appreciate the small-scale and straightforward story, but this one holds up quite nicely compared to many movies from that era, especially by the third act. Yes, it's got some 40s Orientalism, but it only makes up a small portion of the film. Also, 63 minutes is just right for the story.
 
 I love those old desk lighters you dab down like a pen in an inkwell to light the tip. 
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9OHQcr)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Phantom Planet (1961)"
 excerpt: "My review of The Phantom Planet (1961)"
+rating: "1.5"
+letterboxd_url: https://boxd.it/5YOKKT
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 1.5/5
 
 <i>Movie CW // Misogyny 
 MST3K CW // Misogyny, Ableism, Racism, Fatphobia, Homophobia</i>
@@ -16,7 +18,3 @@ I wouldn't say this had a promising start, but I didn't expect it to fall apart 
 * Frank, my tummy's feeling better
 * So why don't you kill me? I'm a loser, baby
 * Uh oh, that cicada is in trouble
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5YOKKT)

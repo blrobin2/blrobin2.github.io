@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Matrix Resurrections (2021)"
 excerpt: "My review of The Matrix Resurrections (2021)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/8Ut6gF
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 51/52 | Someone holds a cat</a></b>
 
@@ -33,7 +35,3 @@ But I don't care <b>that</b> much about effects and choreo. I care about the sto
 We didn't have to revisit The Matrix—or maybe we did. It doesn't live up to the original experience—it never could. Regardless, this is probably the best way we could have returned to this world.
 
 Jessica Henwick is too cool. Want her? Want to be her? Why the binary?
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8Ut6gF)

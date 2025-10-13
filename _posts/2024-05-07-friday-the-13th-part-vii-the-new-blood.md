@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Friday the 13th Part VII: The New Blood (1988)"
 excerpt: "My review of Friday the 13th Part VII: The New Blood (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6qn9yJ
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 6/31 | Sequels 6/6</a></b>
 
@@ -39,7 +41,3 @@ Where it gets interesting is the third act, when it’s Tina v. Jason. Tina has 
 I didn’t expect to like this one! The return to formula, while dull, still helped the movie. By adding Tina, I was into it.
 
 With that, I’m done with <i>Friday the 13th</i> for this month. I’ll get to the rest of them next month.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6qn9yJ)

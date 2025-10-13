@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Too Beautiful to Die (1988)"
 excerpt: "My review of Too Beautiful to Die (1988)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/8GFvbj
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 18</a></b>
 
@@ -25,7 +27,3 @@ The movie features several computer shots, from Alex playing something called "P
 The film feels like it's going for a Tony Scott slo-mo fest. Director Dario Piana had worked in commercials before this, so the highly stylized aesthetic makes sense. I don't know how much it adds beyond verisimilitude for the video shoots—the same aesthetic applied to a lingerie shoot and putting sheets on a bed is pretty funny—but beautiful cinematography helps the slasher go down.
 
 Florence Guérin
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/8GFvbj)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "I Was a Teenage Werewolf (1957)"
 excerpt: "My review of I Was a Teenage Werewolf (1957)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5O07FZ
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 Michael Landon does his best "James Dean" impersonation as a troubled teen with a problem with authority. He launches into uncontrolled bouts of violence at school and with friends.
 
@@ -26,7 +28,3 @@ This film, however, was the first to turn a teenager into a literal beast/monste
 * Werewolves are just as afraid of you as you are of them
 * Uh, sir, I think I saw a werewolf with a Chinese menu in his hand
 * Good thing we switched to standard-issue silver bullets
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5O07FZ)

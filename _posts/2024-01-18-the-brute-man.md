@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Brute Man (1946)"
 excerpt: "My review of The Brute Man (1946)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5Cyoc1
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 Lot of wordy jokes in this one. Their Rondo Hatton jokes are so fucking cruel.
 
@@ -22,7 +24,3 @@ Lot of wordy jokes in this one. Their Rondo Hatton jokes are so fucking cruel.
 * I wonder what the odds are that I live here?
 * So this is a Persian rug
 * Hal, you're hurt. I hear blood
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5Cyoc1)

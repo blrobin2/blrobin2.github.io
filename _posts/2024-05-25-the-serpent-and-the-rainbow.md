@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Serpent and the Rainbow (1988)"
 excerpt: "My review of The Serpent and the Rainbow (1988)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/6xkllf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="">Hooptober 4.0 | 23/31 | Wes Craven</a></b>
 
@@ -35,7 +37,3 @@ Brent Jennings, who plays Louis Mozart, is charismatic and brings energy to the 
 The original cut for this movie was 3 hours. It’s clear from the narration and montage. As a result, the film feels a tad shallow. We lost some characterization, but I can’t tell if it would add to the experience. Perhaps what we’re losing is a more explicit or well-defined argument about the director’s feelings about voodoo and how white people appropriate it. Or maybe that was never on the filmmaker’s mind.
 
 My score is mostly for the bonkers effects
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6xkllf)

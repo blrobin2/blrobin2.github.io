@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "King of New York (1990)"
 excerpt: "My review of King of New York (1990)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/aYkDRN
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 8/52 | Abel Ferrera</a></b>
 
@@ -31,7 +33,3 @@ Even before Ferrera made <i>The Addiction</i>, he had a thing for vampires — h
 * Theresa Randle is carrying a gun and looking like a goddamn smokeshow.
 * Giancarlo Esposito! He maintains that classic stoic face while one of his team members moons the detectives.
 * Fucking David Caruso and Wesley Snipes as boy detectives.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/aYkDRN)

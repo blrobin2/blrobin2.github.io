@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Untold Story (1993)"
 excerpt: "My review of The Untold Story (1993)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/b0lhDf
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 10/52 | HK Cat III</a></b>
 
@@ -40,7 +42,3 @@ If I weren't a vegetarian before this movie, it would've definitely pushed me in
 * Chopping off the fingers for fingerprints. Gross! Man, I do not envy the tedium of print matching during the paper fingerprint system days.
 * Urinating on your hands to clean the blood off is wild.
 * It's deeply fucked what they do in front of kids and to kids in this movie. Like, this movie had to scar those child actors. What parent would sign their kids up for this?? I really need some way to know that those kids are okay.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/b0lhDf)

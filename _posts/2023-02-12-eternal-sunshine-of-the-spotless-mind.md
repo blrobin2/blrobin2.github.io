@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Eternal Sunshine of the Spotless Mind (2004)"
 excerpt: "My review of Eternal Sunshine of the Spotless Mind (2004)"
+rating: "5.0"
+letterboxd_url: https://boxd.it/3Qof27
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 5/5
 
 Saw at a screening at Alamo Drafthouse, fun to see all the little details on the big screen
 
@@ -21,7 +23,3 @@ Watching now, I can see that neither was the antagonist — they both were in a 
 If we erase those pains, we erase what made us know we want something different. Otherwise, if we forget — or block out — those lessons, we’ll just keep learning them over and over again
 
 That said, this movie is an imprinted memory at this point: I can’t erase the feelings I have about it. It doesn’t shake me to my core like it once did — except for the Jon Brion soundtrack, which is still perfect — but it’s still a nice memory I like to return to from time to time
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/3Qof27)

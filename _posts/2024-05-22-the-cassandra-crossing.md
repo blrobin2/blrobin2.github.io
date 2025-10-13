@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Cassandra Crossing (1976)"
 excerpt: "My review of The Cassandra Crossing (1976)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6wgxn1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 21/52 | 70s Disaster</a></b>
 
@@ -30,7 +32,3 @@ Ava Gardner and Martin Sheen have a thing going. Between this and <i>Tam Lin</i>
 It's so funny watching Eklund on the train sweating and touching everything — he picks up a kid to help them see out the window, and he curls over in pain over the food in the kitchen, sweat splashing on all the food. This is exactly how I would approach a parody.
 
 Once the movie got into an outrageous spectacle, I enjoyed it more. I wish it didn't take an hour to get there.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6wgxn1)

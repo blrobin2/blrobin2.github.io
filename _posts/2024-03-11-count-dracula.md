@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Count Dracula (1970)"
 excerpt: "My review of Count Dracula (1970)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/61nqJz
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 32/52 | Jesús Franco</a></b>
 
@@ -31,7 +33,3 @@ With Jesús Franco and Klaus Kinski involved you'd think this would be hornier. 
 The stuffed animals coming alive is hysterical.
 
 I don't mind a doggedly faithful adaptation of Dracula, even though I've seen a dozen. But I would be lying if I said I liked this a lot.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/61nqJz)

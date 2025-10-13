@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Last Emperor (1987)"
 excerpt: "My review of The Last Emperor (1987)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/96bJh5
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 39/52 | Genre: History</a></b>
 
@@ -33,7 +35,3 @@ To return to Puyi, he isn't much of a character in this movie, especially as an 
 Ryuichi Sakamoto and Cong Su brought their A-game with this score. David Byrne also showed up.
 
 If I found out Joan Chen would be my wife, I would be agog too.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/96bJh5)

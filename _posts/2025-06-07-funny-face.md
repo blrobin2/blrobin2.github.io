@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Funny Face (1957)"
 excerpt: "My review of Funny Face (1957)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/9Vopeb
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>*** Stray Thoughts / Spoilers ***</b>
 * Immediately love the aesthetic!
@@ -32,7 +34,3 @@ category: movie_review
 * "I love every broken bone in your body" sounds like a Sufjan Stevens lyric.
 * "S'Wonderful" is from this?
 * Oh, there's a 1927 <i>Funny Face</i> musical that only four songs from it made it to this movie.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/9Vopeb)

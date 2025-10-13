@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Beyond the Door III (1989)"
 excerpt: "My review of Beyond the Door III (1989)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/4HpDiH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 A high school field trip to Serbia goes off the rails... literally
 
@@ -25,7 +27,3 @@ This movie is pretty good! I'd recommend it to horror fans who don't mind budget
 * It turns out I've seen <i>BTD 2</i> — it's Mario Bava's <i>Shock</i> — none of these movies have anything to do with each other 
 * It's such a shame they threw this movie into the <i>Beyond the Door</i> "series" to appeal to international markets (although its original title <i>Amok Train</i> isn't that much better)
 * So many scenes with Serbian dialogue that receives no translation
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/4HpDiH)

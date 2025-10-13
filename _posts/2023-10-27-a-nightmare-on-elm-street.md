@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "A Nightmare on Elm Street (2010)"
 excerpt: "My review of A Nightmare on Elm Street (2010)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/53AANn
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b>Hey, Freddy! Leave those sleepy kids alone!</b>
 
@@ -35,7 +37,3 @@ Gigablast.
 <b>*** SPOILERS ***</b>
 
 I loved the reference to <i>New Nightmare</i>, where Nancy cuts off Freddy's hand. I laughed when she said, "You're in my world now, bitch."
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/53AANn)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Son of Frankenstein (1939)"
 excerpt: "My review of Son of Frankenstein (1939)"
+rating: "4.0"
+letterboxd_url: https://boxd.it/6duTUX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 4/5
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 42/52 | Shock Theater</a></b>
 
@@ -27,7 +29,3 @@ Wolf's son, Peter, is annoying but doesn't take up much screen time.
 This movie abandons the fruiter tone of the previous film, <i>Bride of Frankenstein</i>, and brings a more Gothic atmosphere. The lighting echoes the exaggerated German Expressionism angles and contrasts.
 
 The film shares one trait with <i>Bride of Frankenstein</i> — it's better than the original and more entertaining.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6duTUX)

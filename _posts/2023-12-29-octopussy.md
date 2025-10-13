@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Octopussy (1983)"
 excerpt: "My review of Octopussy (1983)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/5qFOi1
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 <b>
@@ -34,7 +36,3 @@ category: movie_review
 * Why would Magda be there if the bomb were going off in 90 seconds??
 * Even after Bond disarms the bomb, she just shrugs!
 * That stunt guy is on that plane! Woah!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5qFOi1)

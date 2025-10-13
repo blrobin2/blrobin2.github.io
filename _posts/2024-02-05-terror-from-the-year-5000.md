@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Terror from the Year 5000 (1958)"
 excerpt: "My review of Terror from the Year 5000 (1958)"
+rating: "2.0"
+letterboxd_url: https://boxd.it/5LhEqb
+mst3k: true
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2/5
 
 "When I Held Your Brain in My Heart" is The Ink Spots song I didn't know I needed
 
@@ -24,7 +26,3 @@ The movie isn't much, but there are a couple of pretty cool shots and ideas
 * The nurse is coming from inside the house!
 * Can I have my face back?
 * Remember! Moisturize and always use a sunscreen!
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5LhEqb)

@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Flowers in the Attic (1987)"
 excerpt: "My review of Flowers in the Attic (1987)"
+rating: "2.5"
+letterboxd_url: https://boxd.it/bdBJQv
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 2.5/5
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 19/52 | 80s Horror</a></b>
 
@@ -29,7 +31,3 @@ As a result, the film isn't about much beyond child abuse and repression. Throug
 That isn't to say the movie is terrible. Yes, you have to draw in some characterization on your own for the story's trajectory to make sense. But the end of the second act, leading into the third, sets up a tense, albeit silly, final act. And to be clear, I don't care about the cut salaciousness — I just wish this weren't so dang boring.
 
 From a distance, Jeb Stuart Adams looks like Robert Sean Leonard.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/bdBJQv)

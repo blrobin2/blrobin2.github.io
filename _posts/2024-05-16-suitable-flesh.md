@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "Suitable Flesh (2023)"
 excerpt: "My review of Suitable Flesh (2023)"
+rating: "3.0"
+letterboxd_url: https://boxd.it/6tUiHX
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3/5
 
 <b>Arkham, Massachusetts</b>
 
@@ -33,7 +35,3 @@ The score reminds me of Charles Band — goofy and over-the-top in the best way.
 The setup is solid! I wanted this to go as cuckoo bananas as the films it's paying homage to, but for whatever reason the film plays it safe. At least we get a coroner eating a pastrami sandwich during an autopsy.
 
 Still, this is (intentionally) silly and entertaining.
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/6tUiHX)

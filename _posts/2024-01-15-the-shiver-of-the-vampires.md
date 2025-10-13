@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: review
 title: "The Shiver of the Vampires (1971)"
 excerpt: "My review of The Shiver of the Vampires (1971)"
+rating: "3.5"
+letterboxd_url: https://boxd.it/5B5WQH
+mst3k: false
+rifftrax: false
 category: movie_review
 
 ---
-
-**Rating:** 3.5/5
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2026 | 8/52 | Jean Rollin">Cult Movie Challenge 2026 | 8/52 | Jean Rollin</a></b>
 
@@ -37,7 +39,3 @@ I would like this more without the cousin vampires. They're annoying and rape-ha
 Still, no one creates a vibe like Rollin.
 
 Nipple spikes
-
-<hr>
-
-[See Review on Letterboxd](https://boxd.it/5B5WQH)
