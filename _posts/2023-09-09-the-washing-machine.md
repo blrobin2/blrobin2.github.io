@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4ON4DL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>The Washing Machin</i>e is a giallo <i>Rashomon</i> about three sisters who live together — one of the sisters finds Yuri, the pimp/boyfriend of another sister, dead in a washing machine

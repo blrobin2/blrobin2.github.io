@@ -6,17 +6,16 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/57GGTf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 9/52 | Black Lives Collection</b>
 
 <blockquote><i>That morning, I went to the square as usual. The others were there, and I sat down on the curb, as I did every day, to wait for destiny.</i></blockquote>
 
-Diouana (Mbissine Thérèse Diop), a Senegalese woman, moves to France to care for a family’s children. 
+Diouana (Mbissine Thérèse Diop), a Senegalese woman, moves to France to care for a family’s children.
 
-When she arrives at the airport, waves of white eyes watch her movement, hesitant and suspicious. Security marks her suitcase for inspection. 
+When she arrives at the airport, waves of white eyes watch her movement, hesitant and suspicious. Security marks her suitcase for inspection.
 
 When Diouana arrives, she sees an African mask on the wall. The doors are closed, the Madame yells. She cooks and cleans. But where are the children?
 

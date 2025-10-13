@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5gvam3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Citerion Challenge 2023</a> | 32/52 | Directed by Marlon Riggs</b>
@@ -16,7 +15,7 @@ This film is a poetic documentary that breaks silence to proclaim stories of bla
 
 With segments of poetry, rap, snap demonstrations, and personal stories, it explores the intersection and marginalization of blackness and queerness.
 
-The racism of whiteness, queer and straight, that not only excludes but hypersexualizes black bodies. 
+The racism of whiteness, queer and straight, that not only excludes but hypersexualizes black bodies.
 
 It talks of the homophobia that engenders unrelenting violence.
 

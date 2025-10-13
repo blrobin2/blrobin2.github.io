@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5tsh7v
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw" title="Cult Movie Challenge 2016 | 1/52 | Biker">Cult Movie Challenge 2016 | 1/52 | Biker</a></b>
@@ -15,6 +14,7 @@ category: movie_review
 Psychedelic colors and downbeat funk as masked bikers ride slowly through a graveyard. Their helmets and goggles resemble skulls. Their jackets read "The Living Dead," spelled out in bones.
 
 Tom, the leader of the gang, talks with his girlfriend Abby, who is also in the gang, about killing themselves and crossing over.
+
 <blockquote><i>— Sometimes, you scare me.
 </i><i>— It's not me who scares you. It's the world.</i></blockquote>Tom questions his mother, who is a medium, and Shadwell, the family butler:
 
@@ -29,6 +29,7 @@ The Living Dead terrorizes the town, running from the fuzz before Tom rides off 
 The gang buries him at Seven Witches. Sure enough, he returns. And he's killing anyone who gets in his way.
 
 The gang — with excellent names like Hatchet, Chopped Meat, and Gash — decides to join him once they see it's possible.
+
 <blockquote><i> Oh man, what are we waiting for?</i></blockquote>That is, everyone except for Abby.
 
 What a fun movie! And it has an absolutely bananas ending. It's a bit tedious at points, but the plot is surprisingly structured for such a kooky idea.

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4fI3eb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 After a suicide attempt, Kathleen Quinlan, playing 16-year-old Deborah, is admitted to an institution. Straight away, we experience the whispers that are in her head — “traitor”, “secrets” — and a person in stereotypical tribal clothing and face paint that does not appear to be real
@@ -23,5 +22,6 @@ The passage of time in the movie is horrifying, where a couple of days feel like
 Overall, not a stellar movie, but it found moments of warmth that helped it through
 
 <b>Stray Thoughts</b>
-* Dennis Quaid and Clint Howard show up in the movie's last five minutes? It’s not a spoiler, they’re just playing baseball
-* Nice homage to <i>Christina’s World</i>, but a tad on the nose, yeah?
+
+- Dennis Quaid and Clint Howard show up in the movie's last five minutes? It’s not a spoiler, they’re just playing baseball
+- Nice homage to <i>Christina’s World</i>, but a tad on the nose, yeah?

@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/8WKStT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 6/52 | Iranian New Wave</a></b>

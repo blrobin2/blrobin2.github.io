@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/9R6bbl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 52/52 | Any Criterion film on your watchlist</a></b>
@@ -32,7 +31,7 @@ The film is one of the most influential in the crime thriller genre. From Ronin 
 
 The organ-heavy score works for me! It has that Baroque fugue-like layering that keeps in step with the film's tension. It reminds you that you're rooting for the killer for no other reason than it's his story you entered first. But all the different stories have been coming and going, their intersections merely blocks of time for Jef to account for and moments seared to memory for them. I like the way its motifs play out in the more "noir jazz" parts of the score.
 
-The detective who refuses to give up on Jef being the killer possesses the same temerity and stillness, fully confident in their actions because nothing has led the men to question them. But we, the viewer, can see what they won't admit to others, or perhaps even to themselves—words are just words, no matter how many or few you use. It's all "by the books," however, that looks for a hitman, and indeed not how US police act. 
+The detective who refuses to give up on Jef being the killer possesses the same temerity and stillness, fully confident in their actions because nothing has led the men to question them. But we, the viewer, can see what they won't admit to others, or perhaps even to themselves—words are just words, no matter how many or few you use. It's all "by the books," however, that looks for a hitman, and indeed not how US police act.
 
 <blockquote><i>The truth is not what you say. It's what I say—whatever the methods I use to get to it.</i></blockquote>
 
@@ -42,4 +41,4 @@ I think I have to say it: this is a technically perfect movie. It has not a seco
 — Is that a rule?
 — A habit.</i></blockquote>
 
-Alain Delon is perfect for this role. No one would call him a world-class actor, but the man can walk around and look pretty. What doesn't get talked about enough is how much cooler Caty Rosier is. 
+Alain Delon is perfect for this role. No one would call him a world-class actor, but the man can walk around and look pretty. What doesn't get talked about enough is how much cooler Caty Rosier is.

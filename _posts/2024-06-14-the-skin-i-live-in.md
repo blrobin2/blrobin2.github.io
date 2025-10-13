@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6FGCVv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 13/31 | Countries 6/6 | Spain</a></b>
@@ -25,16 +24,15 @@ With his research complete, Ledgard must figure out what to do about Vera. Maril
 
 While Ledgard is out, Marilia's estranged son, Zeca, comes to the estate. He robbed a store and wants Ledgard to give him a new face. He discovers Vera and threatens to uncover secrets that may undo everything Ledgard has worked for.
 
-Antonio Banderas returns to work with a more refined Almodovar, visiting somewhat familiar territory as their previous collaboration, <i>Tie Me Up! Tie Me Down!</i> Both deal with Banderas keeping a woman hostage and deal with how men demand ownership of women's bodies. 
+Antonio Banderas returns to work with a more refined Almodovar, visiting somewhat familiar territory as their previous collaboration, <i>Tie Me Up! Tie Me Down!</i> Both deal with Banderas keeping a woman hostage and deal with how men demand ownership of women's bodies.
 
 The film explores how our appearance doesn't necessarily reflect our identity. Kind and generous people are not always attractive to the ones they want. Aging skin can make us feel older than we are. Folks are born a sex, or assigned one, that doesn't reflect the one they experience inside. Whether it be the temporary change of a mask at Carnival or the permanent change of plastic surgery, many of us change ourselves in search of a more authentic self.
 
-What horrifying reality would it be, then, if someone were to change that against your will to their means? 
+What horrifying reality would it be, then, if someone were to change that against your will to their means?
 
 <blockquote><i>I breathe. I know I breathe.</i></blockquote>The film has a sterile quality that makes sense for the subject matter but is uncommon for Almodovar. It attempts to blend his usual melodrama with horror. I'm on the fence about it, but they help sell each other.
 
 It's hard to say much about this movie since so much of it is about its dramatic revelations. But this is a stunning and unusual film.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 The movie isn't that horrifying, perhaps because I'm jealous of Vincente. Free transition to a beautiful woman and fuck Antonio Banderas?

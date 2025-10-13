@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5w6SdX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 6/34 | Countries 6/6 | Italy</a></b>

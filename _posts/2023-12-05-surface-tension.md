@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5gXk7j
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The fish had me fucked up!

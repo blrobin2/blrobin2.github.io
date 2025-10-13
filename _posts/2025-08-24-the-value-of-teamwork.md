@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/aQ2wkf
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Yes, The Value of Teamwork — the educational film Ayn Rand hated most of all, right behind Let's Learn About Collective Rights and Atlas Bent Down to Help Others.
-* The pigs and the apex predator that wants to devour them: what a team!
+- Yes, The Value of Teamwork — the educational film Ayn Rand hated most of all, right behind Let's Learn About Collective Rights and Atlas Bent Down to Help Others.
+- The pigs and the apex predator that wants to devour them: what a team!

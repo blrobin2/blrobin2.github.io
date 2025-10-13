@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6xxWjh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 18/52 | Directed by Wong Kar-wai</a></b>
@@ -22,4 +21,4 @@ For a 90s movie, it's impressive that no one is performing gendered roles or act
 
 The story is a little too flat for a good chunk of the movie, but it finds a way to explore different dynamics.
 
-Still, the performances are heartbreaking, and every frame is beautiful. Rich black and white —  mesmerizing color — Christopher Doyle doesn't miss.
+Still, the performances are heartbreaking, and every frame is beautiful. Rich black and white — mesmerizing color — Christopher Doyle doesn't miss.

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/3WgP1x
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Daryl is the most annoying onscreen presence in recent memory. In fact, every dude in this movie sucks so hard

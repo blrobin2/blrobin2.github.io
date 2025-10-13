@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/3VxRCF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This movie has no interest in drawing in its audience, opening with dry business talk and a boss taking about how dumb his new wife is

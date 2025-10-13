@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/8J579N
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href=""https://boxd.it/qaTwm/detail>Asian Cinema Challenge 2023 | 3/52 | South Korea Blue Dragon Film Awards</a></b>
@@ -20,7 +19,7 @@ In 2004, a line of Santas, led by that preacher, sing hymns to welcome Geum-ja b
 
 Geum-ja calls in favors with those she met and cared for in prison. That night, Geum-ja dreams of leading a man with a dog's body to a wintry ridge and shooting him in the head. The next day, she puts her plan into motion for revenge.
 
-The thing is, the detective in her case never believed she did it. Still, he provided her with crucial details to make her confession believable. Why? What is this plan? 
+The thing is, the detective in her case never believed she did it. Still, he provided her with crucial details to make her confession believable. Why? What is this plan?
 
 <blockquote><i>It has to be pretty. Everything has to be pretty.</i></blockquote>
 

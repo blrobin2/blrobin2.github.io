@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4aVIZt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The uncomfortable quiet of Samantha Morton lying on the floor next to her boyfriend’s body, dead by suicide, lights on the Christmas tree flickering light and shadow across them. “Don’t try to understand. It just felt like the right thing to do,” his suicide note reads. “Be brave.”
@@ -27,12 +26,13 @@ The movie is a journey of mourning and reclamation of what selfishness stole, eb
 
 “It’s the same crap everywhere; stop dreaming.”
 
-The movie, at times, slips into some indie clichés — twirling around listening to music, baking and throwing flour everywhere, that sort of stuff — but they tend to live in brief montages, nothing indulgent 
+The movie, at times, slips into some indie clichés — twirling around listening to music, baking and throwing flour everywhere, that sort of stuff — but they tend to live in brief montages, nothing indulgent
 
 Stray Thoughts:
-* As much as I love the Scottish accent, I cannae understand it in contemporary movies without subtitles
-* They say “fortnight” a few times. I didn’t know that was still in use
-* Deeply jealous of how effortlessly she does a cat eye with her eyeliner
-* “Morvern, you are so lovely to me,” her friend Lanna says, made me tear up
-* Twee as hell 2002 soundtrack, but man, I love some of these songs
-* I can only assume “hoovering” used in this context is cocaine, right?
+
+- As much as I love the Scottish accent, I cannae understand it in contemporary movies without subtitles
+- They say “fortnight” a few times. I didn’t know that was still in use
+- Deeply jealous of how effortlessly she does a cat eye with her eyeliner
+- “Morvern, you are so lovely to me,” her friend Lanna says, made me tear up
+- Twee as hell 2002 soundtrack, but man, I love some of these songs
+- I can only assume “hoovering” used in this context is cocaine, right?

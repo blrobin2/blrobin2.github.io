@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9aU2Bn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 45/52 | 1960s</a></b>
@@ -26,7 +25,7 @@ Karin and Martin, when alone, talk of the sounds that only Karin hears and Marti
 
 The film follows these threads over 24 hours and watches the consequences unfold.
 
-The sets have a set-like minimalism, and Bergman blocks certain scenes like a stage play. The film's three distinct acts also mirror a play. 
+The sets have a set-like minimalism, and Bergman blocks certain scenes like a stage play. The film's three distinct acts also mirror a play.
 
 Harriet Andersson is so brilliant in this. Of course, Björnstrand and von Sydow are great but pale in comparison. Lars Passgård is fine, but there's a reason he isn't in any other Bergman films.
 
@@ -39,7 +38,7 @@ And so on. Later in the section that this film derives its name from:
 
 This passage suggests a partial insight into the way of the world that we will know in full once we are in heaven. These concepts play out in the movie themes in several ways. In some ways, Minus is the child who has not yet put down childish things. He experiences the separation from his father that the author of 1 Corinthians felt from God. Minus wishes his father would talk to him just once. Then Minus might know how much of his father he sees.
 
-Karin's illness (perhaps schizophrenia, though it isn't stated explicitly in the movie) allows her to hear voices that no one else does. Has she been granted a divine right to the word of God? Is she experiencing the maddening words of the devil? Or are these merely aspects of her illness? Her relationship with Minus distorts the notion of "brotherly love." As she comes to distrust Martin and David, this leaves Minus, to whom she confides her unusual thoughts.  
+Karin's illness (perhaps schizophrenia, though it isn't stated explicitly in the movie) allows her to hear voices that no one else does. Has she been granted a divine right to the word of God? Is she experiencing the maddening words of the devil? Or are these merely aspects of her illness? Her relationship with Minus distorts the notion of "brotherly love." As she comes to distrust Martin and David, this leaves Minus, to whom she confides her unusual thoughts.
 
 Martin wishes to embody the patient and kind love that 1 Corinthians 13 suggests. Though, like many believers, part of him seems only to want to do so because he fears the world without her. When Karin learns of the incurable nature of her condition, she pushes Martin to find love elsewhere, though perhaps unintentionally. David is more overt in his push for Martin to avoid what David considers to be "unnecessary suffering."
 

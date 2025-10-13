@@ -6,15 +6,14 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4WCd6B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Brenda (Rita Tushingham) lives in Liverpool with her mother — to her mother's protestations, she decides to leave for London to "find a father for her baby," as she puts it
 
 A blonde boy named Peter (Shane Briant) accidentally knocks a bag out of Brenda's hand but goes on, thinking about the drunk older woman he lives with and the games he played with her at her expense
 
-Brenda picks up a job at a retail shop. She goes to a party her roommate throws, trying to meet men wherever she is. She tries to get with a coworker, but he fancies her roommate 
+Brenda picks up a job at a retail shop. She goes to a party her roommate throws, trying to meet men wherever she is. She tries to get with a coworker, but he fancies her roommate
 
 She finds Peter's dog, Tinker. Rather than return it, she brings it home and bathes it before taking it to Peter's home. He knows she took him. She tries to leave, but he won't let her without explaining herself
 

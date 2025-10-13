@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4GdEKf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The movie opens in a village where men throw rocks at dogs and children torture bugs — violence begot — a place held in American imperialist grips for the oil in the land — a purgatory where people end up but do not have the means to get out

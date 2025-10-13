@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/1Pqx7X
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Moms, am I right?

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/7SLhqV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>We're just shaving our feet and braiding our vaginas!</i></blockquote>

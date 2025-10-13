@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6ESQtP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 9/31 | Countries 2/6 | Australia</a></b>
@@ -22,7 +21,7 @@ Tess threatens to kick Dave out unless he contributes, so Dave takes Felix to sc
 
 In the background, we've seen TV footage of war zone atrocities. We cut to a US Army testing facility, where two soldiers find a loose test subject from Project Regeneration chewing on a scientist's neck. They kill the subject and report it, only to discover that another sector is dealing with a large-scale breach.
 
-The kids cheer on the field trip school bus as several military vehicles race past them. At Pleasant Valley Farm, Teddy McGiggle surprises the kids with a visit. The escaped test subjects meander to the nearest area with people: Pleasant Valley Farm. 
+The kids cheer on the field trip school bus as several military vehicles race past them. At Pleasant Valley Farm, Teddy McGiggle surprises the kids with a visit. The escaped test subjects meander to the nearest area with people: Pleasant Valley Farm.
 
 This movie is efficient in doling out a ton of information. The sense of humor works for me. It's not a total laugh riot, but it's consistent. Dave continuing to call Audrey Miss Caroline is a good bit. Also, Miss Caroline quotes Neil Diamond as inspiration.
 

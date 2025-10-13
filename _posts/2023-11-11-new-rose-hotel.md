@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/58RrfP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Fox (Christopher Walken) and X (Willem Dafoe) are industry spies for high-tech companies, helping R&D scientists get out of their contracts. Easier said than done. These companies kill defectors.

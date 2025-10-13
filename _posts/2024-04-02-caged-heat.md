@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6bLns9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 14/52 | Psychotronic Encyclopedia</a></b>

@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5YCnfp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 3/32 | film from before 1966 3/6</a></b>

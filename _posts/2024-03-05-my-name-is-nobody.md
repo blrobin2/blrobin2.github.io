@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5YNj8L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 10/52 | Spaghetti Western</a></b>
@@ -30,7 +29,7 @@ Later, one of the dozens of men trying to kill Jack finds the man and makes him 
 
 Is Terrence Hill funny or just handsome? Regardless, Nobody is a goofy character and makes me laugh.
 
-That's what is most impressive about this movie — a 70s Italian import whose sense of humor still translates. It's not a laugh riot, 
+That's what is most impressive about this movie — a 70s Italian import whose sense of humor still translates. It's not a laugh riot,
 
 Henry Fonda's straight-man routine is a little too flat for me.
 
@@ -40,10 +39,10 @@ The end is a bit of a cop-out, putting most of the action in stills and montage,
 
 While this has its flaws, its warm-hearted style is rare in Westerns.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* A grave with the name Sam Peckinpah, the director of <i>The Wild Bunch</i>
-* Wild West Wagner
-* Like stealing an apple from a baby?
-* The letter at the end is way too long!
-* Freeze frame on Nobody sticking his finger in a barber's butt.
+- A grave with the name Sam Peckinpah, the director of <i>The Wild Bunch</i>
+- Wild West Wagner
+- Like stealing an apple from a baby?
+- The letter at the end is way too long!
+- Freeze frame on Nobody sticking his finger in a barber's butt.

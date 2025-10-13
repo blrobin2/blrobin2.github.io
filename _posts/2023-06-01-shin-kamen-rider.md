@@ -6,13 +6,12 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/4jEXNz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I don’t know what to say, this was a bad movie. I can’t think of one thing it did well
 
-Nothing felt like it had stakes, no character had more than a single-line description that summed up their entire personality, the pacing was a slog because no clear objectives  were ever set, and the costumes looked so cheap
+Nothing felt like it had stakes, no character had more than a single-line description that summed up their entire personality, the pacing was a slog because no clear objectives were ever set, and the costumes looked so cheap
 
 If nothing else, they should’ve focused on the fights, but every single one was so anime-core that they stood and talked, the camera blurred for a few minutes, and then the fight was over. No choreography, just quick cuts, and if you did see the fight it was CGI
 

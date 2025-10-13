@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5XGlCv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 2/32 | film from before 1966 2/6">Hooptober 6.0 | 2/32 | film from before 1966 2/6</a></b>
@@ -22,7 +21,7 @@ Grim statues fill the professor's studio, including one of a nude woman hanging 
 
 Hans meets Wahl's daughter, Elfie. She behaves strangely, but Hans is into it, to the chagrin of his girlfriend, Lisolette. Elfie asks him to meet her at the windmill at night. But when Elfie sees Hans with Lisolette, she demands to have him to herself. They argue, and she dies in his arms.
 
-But things are not as they appear. Is Hans ill, or something sinister at play? 
+But things are not as they appear. Is Hans ill, or something sinister at play?
 
 The movie has a perfect gothic tone, with beautiful sets and costumes. Being the first Italian horror movie shot in color, they went all out.
 

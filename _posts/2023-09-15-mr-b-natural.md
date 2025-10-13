@@ -6,12 +6,11 @@ rating: ""
 letterboxd_url: https://boxd.it/4QCfkh
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* Conform... conform...
-* I gotta finish my letter to Jodie Foster
-* You played the devil's tritone
-* What is this, Flight of the Bobblehead?
-* 🎵 Really white, really really white
+- Conform... conform...
+- I gotta finish my letter to Jodie Foster
+- You played the devil's tritone
+- What is this, Flight of the Bobblehead?
+- 🎵 Really white, really really white

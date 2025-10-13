@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/9n6CkJ
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* I'm a failure, goodbye cruel world, plastic bag, etc.
-* Norman's entire life is like the before part of an infomercial.
+- I'm a failure, goodbye cruel world, plastic bag, etc.
+- Norman's entire life is like the before part of an infomercial.

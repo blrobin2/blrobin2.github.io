@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8UlORJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 32</a></b>

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8tMaX9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 20/31 | Countries 5/5 | Indonesia</a></b>

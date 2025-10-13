@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5PIpOR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 23/52 | Eurocrime</a></b>
@@ -20,7 +19,7 @@ They know the cops see their stolen vehicle, so they take the car of a man, Rica
 
 The movie follows the tense journey and the perils along the way.
 
-Mario Bava, once given creative control over his movies, had difficulty drawing in audiences and profits. 
+Mario Bava, once given creative control over his movies, had difficulty drawing in audiences and profits.
 
 Production difficulties plagued this movie as the production company went bankrupt, the crew stopped working, and actors were fired and recast mid-shoot.
 

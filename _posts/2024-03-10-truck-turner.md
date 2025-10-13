@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/60TwXd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 31/52 | Blaxploitation">Cult Movie Challenge 2016 | 31/52 | Blaxploitation</a></b>

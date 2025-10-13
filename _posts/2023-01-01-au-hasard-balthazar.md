@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3CwwMh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 After watching <i>EO</i>, I figured I’d watch the film that influenced it, and by comparison this makes <i>EO</i> all the more confounding in its motivations

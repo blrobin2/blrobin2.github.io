@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5Pl08Z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 22/52 | PM Entertainment</a></b>
@@ -24,7 +23,7 @@ Colette takes out some would-be assassins and goes into hiding.
 
 Three months later, Colette finds Frank in Vegas. She reveals she was working with China and that she's a CIA agent. And that Arthur Jameson is her boss.
 
-This movie is a sequel to <i>DaVinci's War</i> — no, I haven't seen it. No, I won't watch it. Joey Travolta, the older brother of John Travolta, wrote, produced, and co-starred in this project with Anna Nicole Smith. 
+This movie is a sequel to <i>DaVinci's War</i> — no, I haven't seen it. No, I won't watch it. Joey Travolta, the older brother of John Travolta, wrote, produced, and co-starred in this project with Anna Nicole Smith.
 
 This movie was Smith's first starring role. She'd do two more movies with PM Entertainment, including the infamous <i>Skyscraper.</i>
 
@@ -34,19 +33,19 @@ The movie has some pretty stellar car stunts and explosions. There's an incredib
 
 This movie sucks, but it's hilarious.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* "It was like an atom bomb going on!"
-* Jameson interrogates Mona by taking off her Anne Klein top and fondling her breasts.
-* "Today, silver was up, gold was up, but pork bellies were down 5 points!"
-* When Arthur finds out that China got a copy of the dossier, Arthur shoots his computer.
-* Arther engages in some BDSM wax play and whipping, and I guess it's supposed to make him seem sinister.
-* — "Why did god make this happen?" — "We're not gonna know until we get to heaven someday."
-* "The bad news is, if you got this letter, then I'm playing gin rummy with Jimmy Hoffa. But don't be sad, because I'm winning."
-* Joey can't keep his hands off of… everyone. He gets a "Thai style massage" where a woman oils up her boobs and rubs them on his back.
-* With 20 minutes left, they sneak in another Anna Nicole Smith shower scene.
-* Joey Travolta, writing in a sex scene with Anna Nicole Smith, feels gross. She simulates fellatio on him, and it is upsetting.
-* All of her nude scenes are exceptionally exploitative.
-* A showdown at Hoover Dam
-* Colette throws the disc into Arthur's face, embedding it into his skin. She shoots him off the edge of the dam!
-* RIGHT before the credits roll, Colette reveals her name is Vicky Lynn. Okay, good to know. Bye?
+- "It was like an atom bomb going on!"
+- Jameson interrogates Mona by taking off her Anne Klein top and fondling her breasts.
+- "Today, silver was up, gold was up, but pork bellies were down 5 points!"
+- When Arthur finds out that China got a copy of the dossier, Arthur shoots his computer.
+- Arther engages in some BDSM wax play and whipping, and I guess it's supposed to make him seem sinister.
+- — "Why did god make this happen?" — "We're not gonna know until we get to heaven someday."
+- "The bad news is, if you got this letter, then I'm playing gin rummy with Jimmy Hoffa. But don't be sad, because I'm winning."
+- Joey can't keep his hands off of… everyone. He gets a "Thai style massage" where a woman oils up her boobs and rubs them on his back.
+- With 20 minutes left, they sneak in another Anna Nicole Smith shower scene.
+- Joey Travolta, writing in a sex scene with Anna Nicole Smith, feels gross. She simulates fellatio on him, and it is upsetting.
+- All of her nude scenes are exceptionally exploitative.
+- A showdown at Hoover Dam
+- Colette throws the disc into Arthur's face, embedding it into his skin. She shoots him off the edge of the dam!
+- RIGHT before the credits roll, Colette reveals her name is Vicky Lynn. Okay, good to know. Bye?

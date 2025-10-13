@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3YE4Jt
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I’m so glad they were able to have the expo

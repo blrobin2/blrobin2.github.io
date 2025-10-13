@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5OQKWz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 7/52 | Blaxploitation</a></b>

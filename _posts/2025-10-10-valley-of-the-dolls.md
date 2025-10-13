@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/bjLzgr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Anne Welles leaves New England for New York, leaving behind family and a suitor. She visits Bellamy and Bellows Law Offices to speak with Miss Steinberg about a secretary position at the firm for Mr. Henry Bellamy, a theatrical lawyer. Bellamy isn't convinced of Anne, so he tests her out by sending her to get signatures from Helen Lawson on some contracts. Little does Anne know that Lawson is a diva.
@@ -26,4 +25,4 @@ I don't think this movie is as terrible as critics say, and it does have moments
 
 <blockquote><i>Ted Casablancas is not a f*g! And I'm the dame to prove it.</i></blockquote>
 
-It took me about half the movie to get on its wavelength (that is, the wavelength that sees this as camp). While there are moments of fun, so many scenes in the movie just seem to drift in and out, rote and inconsequential. Still, I'm glad I saw it so that I can appreciate Beyond the Valley of the Dolls in comparison. 
+It took me about half the movie to get on its wavelength (that is, the wavelength that sees this as camp). While there are moments of fun, so many scenes in the movie just seem to drift in and out, rote and inconsequential. Still, I'm glad I saw it so that I can appreciate Beyond the Valley of the Dolls in comparison.

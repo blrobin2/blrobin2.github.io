@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5T3rDZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 21/32 | disease-based 1/3</a></b>
@@ -30,8 +29,7 @@ This would be a solid film to base conversations around media literacy.
 
 I don't love it, but it contains all the required beats for its story.
 
-
-<b>*** SPOILER TALK***</b>
+<b>**_ SPOILER TALK_**</b>
 So, it's pretty clear Travis is already sick before Will arrives. The dream recalls his exposure to Bud's disease. So, from 15 minutes in until the climax, it's a red herring game where they worry if Abbott's character, Will, will be their downfall.
 
 Travis' surreal exploration of the house and sleep delulus is our second signifier that he is losing it. It is our way into the subjective experience of the illness.

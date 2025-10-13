@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5xLnuf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Gael García Bernal is great in this. While too old for the part — his character is around my age — he gives an energetic and heartfelt performance.

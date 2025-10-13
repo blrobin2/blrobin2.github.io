@@ -6,13 +6,12 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4mRB1L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Lola wants to take Brent to prom, but Brent has a girlfriend and declines. So, with the help of her doting and incestuous father, she captures him and tortures him
 
-The film looks great — the sets, the colors, the gnarly practical effects. The wordless third act is subtly introduced but effectively executed. The story and character, not so much 
+The film looks great — the sets, the colors, the gnarly practical effects. The wordless third act is subtly introduced but effectively executed. The story and character, not so much
 
 Lola’s methods of torture and way of interacting with Brent once he’s in her grasps ranges from child not understanding the effect of violence to pervert with some specific kinks. Add to that the way she tries to seduce her father, and none of it really adds up to a person that seems real
 

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4ED2gb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 When <i>Bob's Burgers</i> merged <i>Die Hard </i>and <i>Working Girl</i>, I knew I would have to watch Working Girl sooner or later
@@ -23,7 +22,8 @@ So many great little choices — cinematography touches, hair and makeup, costum
 Of course, it has to do the third act romcom misunderstanding and redemption, but it hits the notes it needs to and still manages to maintain the fabric of the reality it has established
 
 <b>stray thoughts</b>
-* Great big hair on Melanie Griffith and Joan Cusack and all the other Jersey Queens
-* "$6000!? It's not even leather!"
-* Oren Trask is Jack Donaghey — saw the future in microwave technology?
-* Harrison Ford whistled, "If I only had a brain."
+
+- Great big hair on Melanie Griffith and Joan Cusack and all the other Jersey Queens
+- "$6000!? It's not even leather!"
+- Oren Trask is Jack Donaghey — saw the future in microwave technology?
+- Harrison Ford whistled, "If I only had a brain."

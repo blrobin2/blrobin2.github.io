@@ -4,7 +4,7 @@ title: "We Are the Flesh (2016)"
 excerpt: "My review of We Are the Flesh (2016)"
 rating: "2.0"
 letterboxd_url: https://boxd.it/blWNKv
-category: movie_review
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober 12 | 12/31 | Mexican Director</a></b>

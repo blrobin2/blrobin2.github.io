@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4Ywi0p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 13/34 | Something is Underground</b>
@@ -17,7 +16,7 @@ category: movie_review
 <blockquote><i>As above, so below — it’s said to be the key to all magic. It means that what is within me is outside of me. As it is on Earth, so it is in heaven. As I am, so are my cells, so are my atoms, so is God. Basically, as I believe the world to be, so it is.</i></blockquote>
 In Iran, Scarlett Marlowe, an architect and Ph.D. student, breaks a seal to uncover the Rose Key. She narrowly escapes with footage of all the engravings.
 
-The Rose Key translates alchemy formulas into Aramaic, guiding you to the Philosopher’s Stone. The Philosopher's Stone is an alchemical tool that can turn rock into gold and possibly grant eternal life. 
+The Rose Key translates alchemy formulas into Aramaic, guiding you to the Philosopher’s Stone. The Philosopher's Stone is an alchemical tool that can turn rock into gold and possibly grant eternal life.
 
 George, an old friend of Scarlett, knows Aramaic. With his help, they translate the clues. The evidence points to the Paris catacombs as the elusive hiding place of the philosopher’s stone.
 

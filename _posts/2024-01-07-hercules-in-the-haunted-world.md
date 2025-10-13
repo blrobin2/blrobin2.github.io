@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5vV1bd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 3/52 | Sword and Sandal">Cult Movie Challenge 2016 | 3/52 | Sword and Sandal</a></b>
@@ -24,9 +23,9 @@ Hercules goes to find his fiancée, Deianira. When Hercules arrives, King Lico t
 
 Hercules appeals to Medea, and she tells him to go to Hades to fetch The Stone of Forgetfulness.
 
-So Hercules grabs his boy, Theseus, who has talked Telemachus into breaking off his engagement to Arethusa so Theseus can fuck her some more. 
+So Hercules grabs his boy, Theseus, who has talked Telemachus into breaking off his engagement to Arethusa so Theseus can fuck her some more.
 
-Telemachus, being the much-unneeded comic relief, joins Hercules and Theseus on their quest to Hades and all of the fetch quests in between. 
+Telemachus, being the much-unneeded comic relief, joins Hercules and Theseus on their quest to Hades and all of the fetch quests in between.
 
 In Hades, the color is psychedelic, and the world has a surreal aura.
 
@@ -37,6 +36,7 @@ I like that we get monsters for Hercules to fight. It's more interesting, even i
 I'm all for blending peplum and horror. I'll be on the lookout for more.
 
 <b>Thoughts/Spoilers</b>
-* We got a weird stone monster — "You must be longer" is an ominous thing to say.
-* A nude woman chained to a wall begs Theseus to save him. A trap, but he's too horny.
-* Theseus, thinking with his dick, rescues Persephone from Hades.
+
+- We got a weird stone monster — "You must be longer" is an ominous thing to say.
+- A nude woman chained to a wall begs Theseus to save him. A trap, but he's too horny.
+- Theseus, thinking with his dick, rescues Persephone from Hades.

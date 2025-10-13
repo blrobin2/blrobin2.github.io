@@ -6,13 +6,12 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6VBS0p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 21/31 | Slasher 1/5">Hooptober 2.0 | 21/31 | Slasher 1/5</a></b>
 
-Elizabeth and Enrico lay in a rowboat together,  making out. Enrico tries to push her to go further, but she doesn't want to fuck in a boat. She briefly opens her eyes to see a man chasing a woman through the woods. Enrico treats her like an asshole for ignoring his advances. Elizabeth tries to focus, but the glint of a knife hits her eyes. She opens them to see the man shoving a knife between the woman's legs. Enrico forces her to stay quiet about what she saw. As her professor at the St. Mary's Catholic School for Girls, he could get into hot water for hooking up with her. If she brings the murder to authorities, their questions may reveal what they were doing.
+Elizabeth and Enrico lay in a rowboat together, making out. Enrico tries to push her to go further, but she doesn't want to fuck in a boat. She briefly opens her eyes to see a man chasing a woman through the woods. Enrico treats her like an asshole for ignoring his advances. Elizabeth tries to focus, but the glint of a knife hits her eyes. She opens them to see the man shoving a knife between the woman's legs. Enrico forces her to stay quiet about what she saw. As her professor at the St. Mary's Catholic School for Girls, he could get into hot water for hooking up with her. If she brings the murder to authorities, their questions may reveal what they were doing.
 
 Cue the Morricone score.
 

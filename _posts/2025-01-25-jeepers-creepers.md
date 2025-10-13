@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8B7Zy5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 29/31</a></b>
@@ -26,10 +25,9 @@ The first act has top-notch pacing. It's one of the best starts to a horror movi
 
 Is this the movie that made Justin Long a scream queen? Because he's great in this! Darry is annoying, but believably so. He gets to be the "hysterical" one that no one believes.
 
-The movie pivots hard after a point. I'll discuss this further in the spoiler section below. It doesn't get terrible, but it's such a departure from what I liked that it's disappointing. 
+The movie pivots hard after a point. I'll discuss this further in the spoiler section below. It doesn't get terrible, but it's such a departure from what I liked that it's disappointing.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 Due to budget cuts, the writer rewrote the third act during production. So, instead of whatever the original plan was, we have a psychic black woman show up to explain away the monster. Then, we have an epic battle with the creature, which happens entirely over police radios. When we see it, it looks like a Buffy monster of the week.
 
 You're telling me this monster that has been hiding for decades, feeding in the dark, suddenly makes itself known to police forces in multiple counties because it wants to eat Justin Long's eyes?

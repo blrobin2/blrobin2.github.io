@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5y7xs3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 2/52 | 1920s</a></b>
@@ -18,7 +17,7 @@ A train passes. We see a bag thrown out the window into a passing car.
 
 The bag contains a secret trade agreement between Holland and Switzerland. Without the contract, Switzerland may cancel the agreement. The market goes into a panic, selling off stock like crazy. Mabuse buys in the slump. The contract gets to Switzerland, and the stock market booms again, making Mabuse a ton of money.
 
-Dr. Mabuse chooses Edgar Hull, the only son of the industrialist Paul Hull, as his next victim. 
+Dr. Mabuse chooses Edgar Hull, the only son of the industrialist Paul Hull, as his next victim.
 
 Mabuse hypnotizes Hull, introducing himself as Hugo Balling. He follows Hull to the 17+4 club, where they play cards and gamble. Hull's advisors tell him to stop playing, but he continues losing money to Hull.
 

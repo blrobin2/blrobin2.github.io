@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/56ZaAf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This movie is only about demon possession because they call the monstrous thing a demon. But it's a zombie flick. Something called "rotten" births some unspeakable evil if you kill it. In the meantime, it spreads through (?) to people all over town, driving them to disperse it, and so on.

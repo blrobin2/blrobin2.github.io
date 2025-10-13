@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5TWi6d
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 29/52 | Found Footage</a></b>
@@ -16,7 +15,7 @@ category: movie_review
 
 <b>Jean Delmann for the Tim & Eric generation</b>
 
-People in masks hump things and other shenanigans. 
+People in masks hump things and other shenanigans.
 
 The film was shot on video to recreate a found footage aesthetic, complete with scan lines, auto tracking, and in-camera titles.
 

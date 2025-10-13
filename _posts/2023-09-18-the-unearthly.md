@@ -6,17 +6,16 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/4RxJOP
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* music by the edger allan poe marching band
-* [whispering] kiss me, I'm Irish
-* uh... my car ran out of tire
-* doctor, i killed three minutes
-* my dinner with andre had more locations than this film
-* i'll take the low road and be in scotland before you
-* take a look at these hands!
-* life's funny, huh?
+- music by the edger allan poe marching band
+- [whispering] kiss me, I'm Irish
+- uh... my car ran out of tire
+- doctor, i killed three minutes
+- my dinner with andre had more locations than this film
+- i'll take the low road and be in scotland before you
+- take a look at these hands!
+- life's funny, huh?
 
 You don't see any of the monsters from the poster until the last five minutes and it's for a minute, maybe two

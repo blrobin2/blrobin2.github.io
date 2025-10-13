@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4BJnUh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Tobacco Force — five avengers who each represent an ingredient in cigarettes — Benzene, Methanol, Nicotine, Mercury, Ammonia — give a humanoid tortoise (Tortusse) cancer, which causes it to explode in gallons of blood
@@ -21,5 +20,6 @@ Fear is the foundation of civilization — we have used stories with fatal moral
 A very funny and absurd movie. Initially, it felt incomplete, but I think I've just watched so many overstated movies that to see something that gets and gets out so effortlessly is a surprise
 
 <b>Stray Thoughts</b>
-* Nicotine would be a pretty name to give a child
-* Hulu doesn't seem to understand post-credit sequences, so I haven't seen the last 15 seconds of the movie
+
+- Nicotine would be a pretty name to give a child
+- Hulu doesn't seem to understand post-credit sequences, so I haven't seen the last 15 seconds of the movie

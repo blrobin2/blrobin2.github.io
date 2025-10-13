@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/bjGc6X
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 9/31 | Decades 5/9 | 2020s | Cults 2/3</a></b>
@@ -18,7 +17,7 @@ Ben receives a call from Max, calling him out to the site of a mass suicide. Nin
 
 On the train, Mazzy receives help navigating from a boy named Martin. People carry signs reading, "Sacrifice is Redemption." The two get on, exchange numbers, and get off at the same stop. After a disastrous school year following her parents' divorce, Ben has brought Mazzie to Berlin to attend school for the semester. The following day, Martin meets up with Lotte, who is obviously the shut-in from the beginning of the movie, because Martin is so proud of her for getting the courage to come. They attend an environmental activism group led by a woman named Hilma.
 
-We see where all this is going, right? 
+We see where all this is going, right?
 
 The film explores individualism versus community. Community provides a common place of mutual care and shared resources. Individualism protects one from cults and other means in which groups will prey on people's thirst for community. How does one find a place in the world without being pulled down into its chaos?
 
@@ -26,7 +25,7 @@ Ben wrote a book about the science of loneliness, focusing on the effects of iso
 
 I can't help but think of <i>First Reformed</i>, which also centered on an eco-terrorist group, but that movie made an effort to understand and pull us into that perspective. From the outset, this movie suggests that anyone who cares about the environment is probably in a cult.
 
-Eric Bana is profoundly bad in this movie. He's never been a good actor, but the script calls for someone who can deliver sarcasm and warmth in a way he seems wholly incapable of mustering. Every line is flat, and every gesture feels rehearsed to the point of meaningless routine. 
+Eric Bana is profoundly bad in this movie. He's never been a good actor, but the script calls for someone who can deliver sarcasm and warmth in a way he seems wholly incapable of mustering. Every line is flat, and every gesture feels rehearsed to the point of meaningless routine.
 
 Sadie Sink is good, making the most of a weak script. She and Jonas Dassler, who plays Martin, have decent chemistry! Like Bana, she also seems desperate for direction as she tries to make up the difference, which means her emotional scenes feel over-the-top.
 

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4c9j9J
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This is the earliest Miyazaki film I’ve seen, and while it doesn’t feel as mature, it still has some cool ideas, very Mœbius-inspired

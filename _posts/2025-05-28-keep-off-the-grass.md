@@ -6,12 +6,11 @@ rating: ""
 letterboxd_url: https://boxd.it/9PjpTJ
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* You don't believe nicotine is a vitamin.
-* Okay, okay, I'm sold! I'll buy some pot.
-* Why do you need art when there's football and scotch?
-* It's almost like the police were the real hep cats all along, right, kids?
-* Bunny's brother got the chair.
+- You don't believe nicotine is a vitamin.
+- Okay, okay, I'm sold! I'll buy some pot.
+- Why do you need art when there's football and scotch?
+- It's almost like the police were the real hep cats all along, right, kids?
+- Bunny's brother got the chair.

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KCsI3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 We stan a clumsy crab

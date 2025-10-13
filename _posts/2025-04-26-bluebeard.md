@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9wi4Kt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 40/52 | Animation Before the 2000s</a></b>
@@ -20,7 +19,7 @@ When a war calls, Bluebeard leaves keys with his new bride, allowing her to open
 
 So, of course, she's gonna open that door.
 
-1930s claymation is so wild! I kind of love it! The film makes regular use of the clay as clay, allowing characters to roll up as balls of clay before unspooling to a character. It seems that Bluebeard can decapitate without consequence because they're all clay? Or maybe I misread that. 
+1930s claymation is so wild! I kind of love it! The film makes regular use of the clay as clay, allowing characters to roll up as balls of clay before unspooling to a character. It seems that Bluebeard can decapitate without consequence because they're all clay? Or maybe I misread that.
 
 The zoom-ins are jarring, but I imagine it was difficult to rig the camera to move forward without using rails in the scene.
 

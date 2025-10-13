@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/53KD0N
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>I've heard of muscle memory, but this is ridiculous!</b>
@@ -29,16 +28,17 @@ From a filmmaking perspective, this is a hit-or-miss movie. It starts strong but
 Still, this absurd pulp hits a few pleasure centers for me.
 
 <b>Stray Thoughts/Spoilers</b>
-* Jeff Fahey thinks those ice-blue eyes can act for him. He might be right.
-* What a killer car wreck scene! I don't know how that stunt guy is still alive. Is he... is he still alive?
-* Why do they wait to put him under until after he's already getting his arm removed?
-* The surgeons carrying shotguns is so funny
-* I would be so scared to move my arm the way he does with all those sutures
-* The daughter sees his new arm. "I still love you, daddy." Nothing is more crushing than the words of an honest child
-* His new arm is better at fingering his wife
-* Kim Delaney is so pretty. If she were my wife, I would simply not hit my kids
-* Wow, this third act is ridiculous! The handcuffed car chase is hysterical! I laughed so much during the last 10 minutes
-* Charly walking away from the wreck, limbs in hand, big explosion — so funny 
-* The saw in the soundtrack is sci-fi spoopy.
-* The prop gun still has the safety notch on it
-* Wife decides that getting expert finger blasting is worth the safety of the kids
+
+- Jeff Fahey thinks those ice-blue eyes can act for him. He might be right.
+- What a killer car wreck scene! I don't know how that stunt guy is still alive. Is he... is he still alive?
+- Why do they wait to put him under until after he's already getting his arm removed?
+- The surgeons carrying shotguns is so funny
+- I would be so scared to move my arm the way he does with all those sutures
+- The daughter sees his new arm. "I still love you, daddy." Nothing is more crushing than the words of an honest child
+- His new arm is better at fingering his wife
+- Kim Delaney is so pretty. If she were my wife, I would simply not hit my kids
+- Wow, this third act is ridiculous! The handcuffed car chase is hysterical! I laughed so much during the last 10 minutes
+- Charly walking away from the wreck, limbs in hand, big explosion — so funny
+- The saw in the soundtrack is sci-fi spoopy.
+- The prop gun still has the safety notch on it
+- Wife decides that getting expert finger blasting is worth the safety of the kids

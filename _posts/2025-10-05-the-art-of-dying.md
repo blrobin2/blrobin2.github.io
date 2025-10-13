@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/bgG4mV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 22/52 | PM Entertainment</a></b>
@@ -20,23 +19,23 @@ Jack follows a lead on the location of Janet, another Latin Jerry recruit, at a 
 
 I'm genuinely shocked at how entertaining this movie is despite Wings Hauser doing everything possible to wreck it. Is this peak PM Entertainment in terms of film quality?
 
+<b>**_ STRAY THOUGHTS / SPOILERS _**</b>
 
-<b>*** STRAY THOUGHTS / SPOILERS ***</b>
-* Wings Hauser is a charisma black hole. He's trying SO HARD to look cool in his own movie.
-* Wait, they killed off Jessie so quickly!
-* After taking down the husband, Jack makes a quip about the dead woman on the street being "subdued."
-* Latin Jerry and Mr. Lawrence are absurdly queer-coded.
-* "I grew up on these streets… Hollywooood."
-* The soft piano ballad as Tina walks along the highway.
-* Sydney Lassick is such a gem!
-* Jack sticking his finger in the cherries and smearing them all over Holly's face, THEN grabbing a gallon of milk and pouring it all over her had me dying.
-* The contrasting scenes of Jack going down on Holly in the tub and Janet in the shower scene are almost poetic until they hammer at it with constantly flipping between Janet getting stabbed and Holly achieving orgasm.
-* Jack goes back to the phone sex gallery just to mourn, I guess?? The owner tells him to get out, and he throws a hissy fit.
-* Jack says he'll go gay as revenge for women's lib.
-* Jack calls his black police captain a racist asshole because the captain suspends him.
-* The Joan of Arc-style ending is insane.
-* "Don chu hurt her! Don chu. Don Don't! Don Don Don't!"
-* "Stop shooting me!"
-* — "Jack, may I please move in with you?" — "Mother, may I?"
-* The camera pans away from Jack and Holly kissing to follow the dude in the pink Speedo roller skating.*chef's kiss*
-<b>*** END SPOILERS ***</b>
+- Wings Hauser is a charisma black hole. He's trying SO HARD to look cool in his own movie.
+- Wait, they killed off Jessie so quickly!
+- After taking down the husband, Jack makes a quip about the dead woman on the street being "subdued."
+- Latin Jerry and Mr. Lawrence are absurdly queer-coded.
+- "I grew up on these streets… Hollywooood."
+- The soft piano ballad as Tina walks along the highway.
+- Sydney Lassick is such a gem!
+- Jack sticking his finger in the cherries and smearing them all over Holly's face, THEN grabbing a gallon of milk and pouring it all over her had me dying.
+- The contrasting scenes of Jack going down on Holly in the tub and Janet in the shower scene are almost poetic until they hammer at it with constantly flipping between Janet getting stabbed and Holly achieving orgasm.
+- Jack goes back to the phone sex gallery just to mourn, I guess?? The owner tells him to get out, and he throws a hissy fit.
+- Jack says he'll go gay as revenge for women's lib.
+- Jack calls his black police captain a racist asshole because the captain suspends him.
+- The Joan of Arc-style ending is insane.
+- "Don chu hurt her! Don chu. Don Don't! Don Don Don't!"
+- "Stop shooting me!"
+- — "Jack, may I please move in with you?" — "Mother, may I?"
+- The camera pans away from Jack and Holly kissing to follow the dude in the pink Speedo roller skating._chef's kiss_
+  <b>**_ END SPOILERS _**</b>

@@ -4,10 +4,9 @@ title: "Skinamarink (2022)"
 excerpt: "My review of Skinamarink (2022)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/3tW3cl
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 An anti-<i>House of Leaves</i> where space contracts, commentary is absent, and the camera can only manage to find the liminal spaces where something shouldn’t be

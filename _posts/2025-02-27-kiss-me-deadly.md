@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8XFkTR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 33/52 | Anthony Bourdain’s Top 10</a></b>

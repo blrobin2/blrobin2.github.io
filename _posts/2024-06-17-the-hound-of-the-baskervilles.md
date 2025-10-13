@@ -6,11 +6,10 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6GUbRX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0  | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>
 
 <b>1889</b>
 

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/bhWJsB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 5/31 | Countries 3/6 | Hong Kong</a></b>
@@ -24,6 +23,6 @@ With <i>The Butterfly Murders</i>, Tsui Hark's debut, he revitalized the HK expl
 
 The blending of wuxia and giallo sounds odd in theory, but totally works here. The larger-than-life legends and fights have a wuxia feel, but the ridiculousness of butterfly murders screams giallo. Once we get into Shum Castle, the Gothic dread kicks up with talk of ghosts. Part of the blend's success is due to the rapid cuts, creating unusual juxtopositions that never get the viewer a firm grounding, so that scenes can shift or change without warning. The score also brilliantly combines Eastern musical motifs with Giallo instrumentation. The horror-pizzicato strings during some of the fights are wild.
 
-Michelle Yim, who plays Green Shadow, brings an enormous amount of charisma to the screen. She makes everyone look manic and hasty with her chill demeanor and swift moves. 
+Michelle Yim, who plays Green Shadow, brings an enormous amount of charisma to the screen. She makes everyone look manic and hasty with her chill demeanor and swift moves.
 
 This movie is brilliant! I was in awe throughout. It is unquestionably one of the most underrated gems I've seen. My Christmas wish is that a boutique shop like Vinegar Syndrome or Arrow pick this movie up.

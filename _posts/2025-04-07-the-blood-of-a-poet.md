@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9l1PtL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 29/52 | Out of Print Criterion Releases</a></b>

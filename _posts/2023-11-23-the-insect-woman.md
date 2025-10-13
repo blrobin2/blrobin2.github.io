@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5cMjwz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" style="font-weight: bold;">Criterion Challenge 2023</a><b> | 23/52 | Gasper Noé's Closet Picks</b>

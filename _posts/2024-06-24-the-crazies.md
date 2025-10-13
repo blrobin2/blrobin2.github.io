@@ -6,14 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6JGOIJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" title="Hooptober 3.0 | 23/31 | George Romero">Hooptober 3.0 | 23/31 | George Romero</a></b>
 
 <b>Evans City, Pennsylvania</b>
-Billy and his sister run around the house. Billy pretends to be a zombie and scare her. They hide when their father enters the kitchen with a crowbar, breaking everything in sight. Billy smells kerosene, and the two run upstairs to wake their mother. The sister pulls back the sheet to find her throat slit. When Billy turns around, his father throws a torch into the kerosene, setting the house on fire. 
+Billy and his sister run around the house. Billy pretends to be a zombie and scare her. They hide when their father enters the kitchen with a crowbar, breaking everything in sight. Billy smells kerosene, and the two run upstairs to wake their mother. The sister pulls back the sheet to find her throat slit. When Billy turns around, his father throws a torch into the kerosene, setting the house on fire.
 
 The fire siren pulls David and Judy out of bed. David joins fellow firefighter Clank on the scene. Judy, a nurse, goes to a doctor's office to treat the burns on the surviving kids. When Judy arrives, Major Ryder and his team take over the office. The sister has died, and Billy is holding in.
 

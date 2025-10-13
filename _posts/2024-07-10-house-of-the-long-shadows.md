@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6QbXKl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 9/31 | Countries 4/5 | England</a></b>
@@ -28,6 +27,6 @@ The film has a classic horror structure. Perhaps it comes from the 1913 play on 
 
 I watched this because Vincent Price, Christopher Lee, Peter Cushing, and Jon Carradine are in it together, and this is the only time they were ever in a movie together. It’s nice to see them, even though they have little to do.
 
-I haven’t seen Desi Arnaz, Jr. in anything — he has a classic charm and handsomeness that make up for his meh acting skills. 
+I haven’t seen Desi Arnaz, Jr. in anything — he has a classic charm and handsomeness that make up for his meh acting skills.
 
 The movie is delightful for Hammer and classic horror fans. It takes an hour before the plot commences, but the atmosphere is satisfying. I wouldn’t venture to watch this unless inclined before my mention of it.

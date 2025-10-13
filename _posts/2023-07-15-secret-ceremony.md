@@ -6,13 +6,12 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4w8jYb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Let no one snatch me from this heaven</i></blockquote>Leonora (Elizabeth Taylor) and Cenci (Mia Farrow) find solace in other another — Cenci thinks Leonora is her lost mother, Leonora sees a surrogate child for the one she lost in a drowning accident
 
-But in their game, the edges of their trauma show. Their inability to accept reality shatters when Cenci’s father Albert (Robert Mitchum) comes home from prison 
+But in their game, the edges of their trauma show. Their inability to accept reality shatters when Cenci’s father Albert (Robert Mitchum) comes home from prison
 
 Honestly, I didn’t find the central story all that compelling. The movie presents itself like there is a mystery to solve, but I’m not sure what that mystery would be
 

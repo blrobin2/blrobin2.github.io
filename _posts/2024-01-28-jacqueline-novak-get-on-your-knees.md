@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5HBHMN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I've been dying to see this show for years. She did this show in London THE WEEK after I left.

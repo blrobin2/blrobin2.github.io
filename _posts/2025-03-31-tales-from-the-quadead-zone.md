@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/9h4qZx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 17/52 | Shot on Video</a></b>

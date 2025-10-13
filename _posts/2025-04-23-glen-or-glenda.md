@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9uuy3F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 30/52 | Psychotronic Encyclopedia</a></b>
@@ -20,9 +19,9 @@ Don't worry. I'm not following either.
 
 We then see Patricia's body. Inspector Warren enters, along with a doctor. They find Patricia's suicide note, which details her time in jail for cross-dressing. When not in women's clothing, Patricia is Patrick. But she cannot bear to live as Patrick, so she takes her life dressed as Patricia. Warren visits with Dr. Alton to better understand cross-dressing and transgender people and hopefully prevent future suicides in the community. And so, Dr. Alton relays the story of Glen, who secretly dresses as Glenda.
 
-George Weiss wanted to make an exploitation film based on Christine Jorgensen's sex reassignment surgery, which became a major news headline. Ed Wood volunteered to tell the story, suggesting his cross-dressing made him the perfect director for the project. 
+George Weiss wanted to make an exploitation film based on Christine Jorgensen's sex reassignment surgery, which became a major news headline. Ed Wood volunteered to tell the story, suggesting his cross-dressing made him the perfect director for the project.
 
- Instead of telling Jorgensen's story, Ed Wood made a movie about cross-dressing and transgender identities to appeal to understanding. Still, Wood fulfills the demand for a film about sex change by tacking on a second story, Alan or Anne, about an intersex person who undergoes surgery to become a woman.
+Instead of telling Jorgensen's story, Ed Wood made a movie about cross-dressing and transgender identities to appeal to understanding. Still, Wood fulfills the demand for a film about sex change by tacking on a second story, Alan or Anne, about an intersex person who undergoes surgery to become a woman.
 
 Calling this film a successful argument is an overstatement. Though well-intentioned, Ed Wood's inability to tell a story without layers of meta-text only obfuscates the message. Of course, the acting and dialogue also leave much to be desired. Most glaringly, the language used in the film is severely outdated and NOT helpful for contemporary audiences seeking to understand the subject matter.
 

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6a3q43
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 29/32 | Mexican director</a></b>

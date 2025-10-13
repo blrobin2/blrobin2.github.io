@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4jzjof
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Kid rebellion in a boarding school, aided in part by Supervisor Huguet (Jean Dasté), expressed in rioting, trashing classrooms and bedrooms, and several feats of magic — the world made in the kids’ vision

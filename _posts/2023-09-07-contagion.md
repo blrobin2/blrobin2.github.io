@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4OlAr7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Why can't they invent a shot that keeps time from passing?</i></blockquote>A deadly disease spreads, creating an epidemic and mass hysteria

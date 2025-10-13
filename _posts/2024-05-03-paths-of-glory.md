@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6ouAv9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 5/52 | 1950s</a></b>

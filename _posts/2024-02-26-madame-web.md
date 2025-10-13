@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5UK6QX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Peru, 1973</b>
@@ -18,7 +17,7 @@ Cassie Webb (Dakota Johnson) is a paramedic. Her co-worker and closest friend is
 
 Ben saves her, but Cassie experiences déjà vu. After a trillion hours, she connects the dots and realizes her power to predict the future. While trying to understand what is happening to her, she sees a man trying to kill three women — Julia (Sydney Sweeney), Anya (Isabela Merced), and Mattie (Celeste O'Connor). That man is Ezekiel Sims.
 
-Every night, Ezekiel has the same nightmare of the women killing him. With the powers granted to him by the spider he stole and the aid of hacker Amaria (Zosia Mamet), Ezekiel intends to find those women and kill them before they kill him. What he didn't expect, however, was that Cassie would see his plan and thwart it. 
+Every night, Ezekiel has the same nightmare of the women killing him. With the powers granted to him by the spider he stole and the aid of hacker Amaria (Zosia Mamet), Ezekiel intends to find those women and kill them before they kill him. What he didn't expect, however, was that Cassie would see his plan and thwart it.
 
 Cassie tries to protect Julia, Anya, and Mattie while learning about her powers and their origin. The truth will grant her access to <b>LIMITLESS POWER</b>.
 

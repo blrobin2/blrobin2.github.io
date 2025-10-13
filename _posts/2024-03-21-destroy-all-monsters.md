@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6607Ih
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 20/32 | Reptile Rampage | Countries 3/6 | Japan</a></b>

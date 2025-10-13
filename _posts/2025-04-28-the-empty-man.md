@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9xCpc7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 18/52 | Cults</a></b>
@@ -18,7 +17,7 @@ Greg, Fiona, Ruthie, and Paul hike up a mountain. Greg recognizes a snowstorm co
 The storm intensifies, and they search for shelter for the night. Fiona spots a house over a ridge, and the four pile in, finding it abandoned. Ruthie holds Paul while Greg strips him. Ruthie sees a bejeweled bone in Paul's jacket. The following morning, Greg and Fiona go out to look for a path down to no avail. During the night, Paul whispers into Ruthie's ear. On the third morning, they discover Paul missing and footprints leading from the house. They find Paul sitting in front of the bridge they crossed, blowing into a bejeweled bone like a flute. Paul whispers something, and Ruthie draws the knife, stabbing Greg, slitting Fiona's throat, and throwing them and herself off the cliff. Greg tearfully looks on, playing the bone flute.
 
 <b>Webster Mills, Missouri, 2018</b>
-Former detective James Lasombra goes on his morning run. Since his wife, Allison, and son, Henry, died in a car accident a year ago, James is still grieving and unsure what to do with himself. Coming home, he finds his neighbor Nora's daughter, Amanda, sitting outside. She, too, is grieving the loss of a father, but says she has found something that has brought her freedom: the belief that nothing is real—the belief that whatever we manifest internally becomes our reality—that our thoughts are not our own, but messages transmitted to us. 
+Former detective James Lasombra goes on his morning run. Since his wife, Allison, and son, Henry, died in a car accident a year ago, James is still grieving and unsure what to do with himself. Coming home, he finds his neighbor Nora's daughter, Amanda, sitting outside. She, too, is grieving the loss of a father, but says she has found something that has brought her freedom: the belief that nothing is real—the belief that whatever we manifest internally becomes our reality—that our thoughts are not our own, but messages transmitted to us.
 
 The following day, Nora finds Amanda missing. On the mirror is a message, in blood, reading, "The Empty Man made me do it." James leaps at the chance to solve a mystery and be useful. Of course, unimaginable horrors ensue.
 

@@ -6,15 +6,14 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/65a8Ld
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 12/52 | First Films - watch a directorial debut</a></b>
 
 In 1987, Anna and Georg sit in the car as it runs through an automatic car wash. The camera sits in the backseat as the wash goes through its steps.
 
-At 6 AM, the alarm goes off. Anna and Georg get up, put on their robes, and start their day. 
+At 6 AM, the alarm goes off. Anna and Georg get up, put on their robes, and start their day.
 
 Brush teeth. Wake up their daughter, Eva. Tie Oxfords. Feed fish. Make coffee. Remind Georg to wear his red sweater. Pack up the briefcase. Eat breakfast. Drop off Eva at school. Drop off Anna at her workplace. Go to Georg's engineering job.
 

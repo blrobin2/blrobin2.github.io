@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/b3VVtj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 38/52 | Hispanic Horror</a></b>
@@ -18,10 +17,10 @@ A platform moves from the top down, allowing each floor to eat what it wants for
 
 And so on, you get it, yadda yadda yadda capitalism. It's <i><a href="https://boxd.it/5VnJXV">Cube</a></i> meets <i>Snowpiercer</i>, but even <i>Snowpiercer</i> had a complete idea. This film is a thin metaphor stretched out to 1.5 hours. The direction the story takes is so disappointing.
 
-The gore gets quite visceral in places. 
+The gore gets quite visceral in places.
 
 Whoa, Atonia San Juan makes an appearance! I've only seen her in <i><a href="https://boxd.it/9ncq8X">All About My Mother</a>, and she was tremendous in that.
 
-The filmmaking is competent, the performances are solid, but I never found an in that allowed me to enjoy what was happening. 
+The filmmaking is competent, the performances are solid, but I never found an in that allowed me to enjoy what was happening.
 
 Extra points for boy butt and dong.

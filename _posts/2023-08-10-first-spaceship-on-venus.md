@@ -6,17 +6,16 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4FKBK9
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* the goofy desert?
-* dear diary, today I became a diary
-* 🎵this is the day the teddy bears fly to Venus
-* stop that nutty horn section!
-* we secretly replaced their planet with Folgers Crystals
-* Go ahead, I sit at the right hand of the devil!
-* I am filled with life, get to know me, friends!
+- the goofy desert?
+- dear diary, today I became a diary
+- 🎵this is the day the teddy bears fly to Venus
+- stop that nutty horn section!
+- we secretly replaced their planet with Folgers Crystals
+- Go ahead, I sit at the right hand of the devil!
+- I am filled with life, get to know me, friends!
 
 Tom Servo's sarcasm drive set on random is pretty funny
 

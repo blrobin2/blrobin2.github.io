@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/61WYzj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 11/32 | film whose year ends in '6' 5/6 | decades 5/6 | 1960s</a></b>

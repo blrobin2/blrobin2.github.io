@@ -6,7 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/blSfSd
 mst3k: false
 rifftrax: false
-category: movie_review
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 42/52 | One-Word Title Horror</a></b>

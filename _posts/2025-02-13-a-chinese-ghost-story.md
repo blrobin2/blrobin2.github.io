@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/8OK17N
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 7/52 | Love and Horror</a></b>
@@ -18,7 +17,7 @@ The wind scatters leaves across the ground toward a door. The torn paper of the 
 
 Ning Choi-san is a debt collector traveling in the pouring rain. He comes across thieves running from Hsia-hou. Hsia-hou decapitates one and slashes up the other, retrieving his bag. Once Ning arrives at his destination, he pulls out his balance book, only to find the rain has caused the ink to spread, making it impossible to decipher. Without a record, he cannot collect the tax.
 
-So, Ning asks a nearby shopkeeper for a place to stay. The shop-keep suggests the Orchid Temple, which silences all townspeople in his vicinity. As night falls, wolves chase Ning to the temple. There, he witnesses Hsia-hou and Yin Chik-ha sword fighting. Hsia-hou escapes to the caves below to nurse his wounds. Yin Chik-ha warns Ning of the dangers inside the temple. Still, Ning enters and finds a place to rest. 
+So, Ning asks a nearby shopkeeper for a place to stay. The shop-keep suggests the Orchid Temple, which silences all townspeople in his vicinity. As night falls, wolves chase Ning to the temple. There, he witnesses Hsia-hou and Yin Chik-ha sword fighting. Hsia-hou escapes to the caves below to nurse his wounds. Yin Chik-ha warns Ning of the dangers inside the temple. Still, Ning enters and finds a place to rest.
 
 Beneath the temple, Hsia-hou finds Nip Siu-sin. As they kiss, shriveled remains come to life, and something rushes into Hsia-hou and sucks the life out of him. Nip Siu-sin watches tearfully. Yin Chik-ha, aware of the disturbance, finds Hsia-hou's body shriveled like the others. Meanwhile, Ning hears the clanking of bones upstairs and starts to investigate. But before he can, he hears a song. He follows the sound to find Nip Siu-sin.
 

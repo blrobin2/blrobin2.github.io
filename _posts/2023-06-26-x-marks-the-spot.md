@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/4qrDZd
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* Hot dog, I got a date with death!
-* So help me Me!
-* That’s when he stepped in a wormhole and was transported to the 16th century
+- Hot dog, I got a date with death!
+- So help me Me!
+- That’s when he stepped in a wormhole and was transported to the 16th century

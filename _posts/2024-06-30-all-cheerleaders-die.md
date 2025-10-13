@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6LXk9L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 30/31 | Witchcraft</a></b>

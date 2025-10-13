@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/7f69nB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 33/52 | Splatter Movie Guide</a></b>

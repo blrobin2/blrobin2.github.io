@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6h9gO1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 16/52 | Slow cinema, but it’s 95 minutes or less</a></b>

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6WzdHH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC">Cult Movie Challenge 2024 | 30/52 | Shinya Tsukamoto</a>

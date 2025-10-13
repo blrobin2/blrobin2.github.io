@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6JAqPT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 26/52 | Hong Kong Cinema">Criterion Challenge 2024 | 26/52 | Hong Kong Cinema</a></b>
@@ -31,7 +30,7 @@ Tequila has ruined his love life for work and his bad habits. He has to learn to
 
 I'm very annoyed with Amazon's lazy subtitles. A lot of the plot is conveyed through newspapers that it doesn't translate, so the plot gets confusing.
 
-Like many great action movies, the relationship between Tequila and Alan takes on homoerotic qualities. I don't want to say too much and spoil anything, but there is a scene where Alan looks at Tequila in such a specific way *chefs kiss*
+Like many great action movies, the relationship between Tequila and Alan takes on homoerotic qualities. I don't want to say too much and spoil anything, but there is a scene where Alan looks at Tequila in such a specific way _chefs kiss_
 
 That said, the actual stars of the movie are the action scenes — so many top-notch set pieces, stellar choreography, and squibs for days. John Woo perfected the action sequences that are so good you'll forgive a nonsense plot.
 

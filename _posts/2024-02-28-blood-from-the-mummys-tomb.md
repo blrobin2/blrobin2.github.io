@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5VHBCv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 27/32 | Non-Dracula Hammer</a></b>
@@ -16,7 +15,7 @@ Margaret (Valerie Leon) tosses in her bed.
 
 From the night sky, the camera pulls back to expose a cliff face. Into the cliffside, we go to see Queen Tera (Valerie Leon) passed out and dressed in the horniest Egyptian garb imaginable.
 
-A priest drips a black substance into her nose, putting her into a state of suspended animation. They remove her hand and take it outside to feed to wild dogs. The priests lay the cover on her sarcophagus. The hand escapes the dogs, crawling along the sand, the red ring on its finger shimmering in the moonlight. 
+A priest drips a black substance into her nose, putting her into a state of suspended animation. They remove her hand and take it outside to feed to wild dogs. The priests lay the cover on her sarcophagus. The hand escapes the dogs, crawling along the sand, the red ring on its finger shimmering in the moonlight.
 
 Once the priests leave and seal the tomb, a strong wind blows, tearing into their necks like animal bites and killing them.
 

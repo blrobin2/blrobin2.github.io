@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/85HzBh
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— why do they hate trains?

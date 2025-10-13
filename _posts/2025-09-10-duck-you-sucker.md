@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/b1BwPV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 11/52 | Spaghetti Western</a></b>

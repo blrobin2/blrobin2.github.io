@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/3ze0RL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Being disillusioned with the art world and it’s ability to reflect life, Nan Goldin reminds us that art can — no seriously — change the world

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5HU3Ch
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 5/52 | Ralph Bakshi</a></b>

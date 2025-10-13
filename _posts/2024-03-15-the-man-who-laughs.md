@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/63bv6h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 14/32 | Makeup: Jack Pierce</a></b>

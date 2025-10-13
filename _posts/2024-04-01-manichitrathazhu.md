@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6bpRDH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 31/32 | Countries 6/6 | India">Hooptober 6.0 | 31/32 | Countries 6/6 | India</a></b>
@@ -15,7 +14,7 @@ category: movie_review
 <i>A note before my review</i>
 I am unfamiliar with Indian movies, so I don't know what is unusual in this movie. If I've misunderstood a facet of the story or misrepresented a cultural component, I apologize and welcome any feedback.
 
--------- 
+--------
 
 Nakulan and Ganga come to visit. They plan to stay at Madampalli for a few months. Thambi, Nakulan's uncle, warns him that a murdered woman haunts the place. Nakulan dismisses them as local superstition.
 

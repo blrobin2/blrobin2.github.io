@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6zB3DH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 29/31 | Terrible oversight</a></b>

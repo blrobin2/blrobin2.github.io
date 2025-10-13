@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5B5WQH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2026 | 8/52 | Jean Rollin">Cult Movie Challenge 2026 | 8/52 | Jean Rollin</a></b>

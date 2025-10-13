@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/9lP5j1
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Norman is the platonic ideal of the Def Jam comic impersonation of a white person.
-* The world is one big "Calvin peeing on Norman" sticker.
+- Norman is the platonic ideal of the Def Jam comic impersonation of a white person.
+- The world is one big "Calvin peeing on Norman" sticker.

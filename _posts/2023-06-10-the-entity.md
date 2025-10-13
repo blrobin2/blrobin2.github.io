@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4m3Gg7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A woman with a son and two daughters begins to experience brutal beatings and rapes from an unknown, unseen entity. Her son sees it, and in trying to protect her, the thing breaks his arm

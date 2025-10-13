@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/9GENbH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 45/52 | Ethan Hawke and Jonathan Marc Sherman's Closet Picks</a></b>
@@ -16,9 +15,9 @@ It's Friday morning. A caravan of motorcycles, horseback riders, and trucks appr
 
 Meanwhile, Delphine teaches ballet to children while her fraternal twin sister, Solange, plays the piano. As the children leave, Delphine and Solange tell us about their upbringing in Rochefort, their romantic hearts that long for art and love, and their desire to move to Paris, where Delphine will dance and Solange will compose.
 
-Delphine and Solange's mother, Yvonne, runs a café in the town square, where Étienne and Bill go for some fries. She, who feels she should be living on the Pacific shore, instead lives in her glass aquarium: the café. Maxence, a sailor and café regular, is also a painter searching for his ideal love. He has painted her and put the painting in an art gallery. He awaits her arrival someday. 
+Delphine and Solange's mother, Yvonne, runs a café in the town square, where Étienne and Bill go for some fries. She, who feels she should be living on the Pacific shore, instead lives in her glass aquarium: the café. Maxence, a sailor and café regular, is also a painter searching for his ideal love. He has painted her and put the painting in an art gallery. He awaits her arrival someday.
 
-Delphine arrives at the art gallery to meet with her boyfriend and gallery owner, Guillaume. He confesses his love of her body, assuming she will marry him, even though she has said no. She sees Maxence's painting and is sure it is of her. Guillaume assumes Delphine posed for it but will not tell her the artist's name, saying the artist is dull and insignificant. Still, she wants to meet the artist, but Guillaume lies and tells her that the artist has left for Paris. 
+Delphine arrives at the art gallery to meet with her boyfriend and gallery owner, Guillaume. He confesses his love of her body, assuming she will marry him, even though she has said no. She sees Maxence's painting and is sure it is of her. Guillaume assumes Delphine posed for it but will not tell her the artist's name, saying the artist is dull and insignificant. Still, she wants to meet the artist, but Guillaume lies and tells her that the artist has left for Paris.
 
 So Delphine breaks up with Guillaume, tells Solange about the artist, and decides to move to Paris. But first, Solange must meet with Simon Dame to arrange a meeting with American composer Andy Miller, who is giving a series of recitals in Paris. Though the sisters long for elsewhere, perhaps what they've longed for has been under their noses all along.
 

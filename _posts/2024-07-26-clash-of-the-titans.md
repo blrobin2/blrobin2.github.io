@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6XAjpb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 30/52 | A character that has more than 4 limbs</a></b>
@@ -20,7 +19,7 @@ Hera doesn’t understand why Zeus shows no mercy. Thetis and Aphrodite give her
 
 Because it’s Greek mythology, we get an onslaught of betrayals, retributions, and transforming dudes into monsters. Perseus is our hero, though, so we watch him use Zeus’s power and Thetis’ jealous rage to take on the Kraken, the Gorgon, and whatnot.
 
-This film has a few things going for it. Foremost, they get Ray Harryhausen to do the special effects in his signature Dynamation. Also, you get my boy Laurence Olivier to play Zeus, and baby, we got a stew going. 
+This film has a few things going for it. Foremost, they get Ray Harryhausen to do the special effects in his signature Dynamation. Also, you get my boy Laurence Olivier to play Zeus, and baby, we got a stew going.
 
 I could list off half the cast with excitement but look at the cast list. Producer Charles H. Schneer wanted the movie to feel like an epic theatrical experience and not a genre flick (which it is), so he sought bigger names for the gods. Many agreed to do it because their scenes took eight days to finish.
 

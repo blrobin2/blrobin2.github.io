@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/9gCgdH
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Happy Harmonies, locked in a bloody war with Merry Melodies and Silly Symphonies!
-* You're the only one who understands me, box of used matches.
-* There aren't enough Christmas carols about naked women dancing in France.
+- Happy Harmonies, locked in a bloody war with Merry Melodies and Silly Symphonies!
+- You're the only one who understands me, box of used matches.
+- There aren't enough Christmas carols about naked women dancing in France.

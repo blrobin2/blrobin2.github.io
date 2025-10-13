@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5POSwJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 1</a></b>

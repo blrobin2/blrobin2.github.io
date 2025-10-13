@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/4OZ1AD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 In a future (?) where Violent Orphan Boys (VOBs) run rampant (?) Jessica forms a support group/cult (?) of these VOBs, arming them to fight the Special Forces, who are trying to take them out (?)

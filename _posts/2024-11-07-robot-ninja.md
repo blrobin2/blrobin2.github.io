@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/7KgvTN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Went to the bar with some friends to watch the election countdown. It was going... poorly, so Neal and I watched this to distract ourselves.

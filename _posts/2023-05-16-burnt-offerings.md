@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4fDz43
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A family — mother, daughter, son, aunt — moves out into the country to rent an old mansion for the summer. The place is decadent, yet the owners ask for a cheap price. The only exception — the owners’ 85-year-old mother will stay in the house with them
@@ -29,5 +28,6 @@ The quiet intensity of the final sequence is so smart, deferring its final revea
 I enjoyed this one a good bit!
 
 Stray Thoughts
-* Trying to make Oliver Reed look like an average dad when he has that face
-* The kid brings Twister to the house — who exactly does he expect to play Twister with him?
+
+- Trying to make Oliver Reed look like an average dad when he has that face
+- The kid brings Twister to the house — who exactly does he expect to play Twister with him?

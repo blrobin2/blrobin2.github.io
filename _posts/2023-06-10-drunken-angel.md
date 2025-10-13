@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4m5ktx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A drunk doctor treats TB patients in post-war Japan, and his most recent patient is a yakuza member who must give up his lifestyle to receive treatment. The two become close, but tensions rise when another yakuza is released from prison and drags the patient back into the life

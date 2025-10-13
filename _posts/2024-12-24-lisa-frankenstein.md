@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/88u6yT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 When in Rome's <i>The Promise</i> introduces us to Lisa creating tombstone rubbings in Bachelor's Grove. Later, we watch her get ready for a party. Hairspray, tanning bed, and blush blindness — it's 1989, baby.
@@ -24,19 +23,19 @@ The script is funny, but I have no idea why Lisa does half the things she does. 
 
 That said, this movie has so much heart—this scratches an itch that I can't deny.
 
-
 <b>Cast Talk:</b>
-* Kathyrn Newton is pitch-perfect for these horror-tinged teen comedies.
-* Cole Sprouse makes a meal of his mute creature performance, but he could've used better direction. His physical mannerisms are mostly Edward Scissorhands.
-* Carla Gugino has some of the best lines — her character is a one-note foil, though, and this movie would be more fun without her.
-* Liza Soberano nails the vaguely Midwest accent. She gives the best performance of the movie, especially in the back half where things get fucked up. Her jokes got several audible laughs from me.
 
+- Kathyrn Newton is pitch-perfect for these horror-tinged teen comedies.
+- Cole Sprouse makes a meal of his mute creature performance, but he could've used better direction. His physical mannerisms are mostly Edward Scissorhands.
+- Carla Gugino has some of the best lines — her character is a one-note foil, though, and this movie would be more fun without her.
+- Liza Soberano nails the vaguely Midwest accent. She gives the best performance of the movie, especially in the back half where things get fucked up. Her jokes got several audible laughs from me.
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* "No one coddled me when my dad blew up in Da Nang. And that's why I am who I am today."
-* "How am I going to serve sambuca??"
-* Hawking up the worm into the fruit made me so nauseous!
-* "When you cry, it smells like a hot toilet at a carnival!"
-* — "You know what song she's putting in that jukebox." — "[Tearfully nodding] Kokomo"
-* How did this PG-13 movie get a silhouette of a dismembered penis pass the censors?
-* Nooooo, don't talk Cole Sprouse!
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- "No one coddled me when my dad blew up in Da Nang. And that's why I am who I am today."
+- "How am I going to serve sambuca??"
+- Hawking up the worm into the fruit made me so nauseous!
+- "When you cry, it smells like a hot toilet at a carnival!"
+- — "You know what song she's putting in that jukebox." — "[Tearfully nodding] Kokomo"
+- How did this PG-13 movie get a silhouette of a dismembered penis pass the censors?
+- Nooooo, don't talk Cole Sprouse!

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3T20Vp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 By expanding the <i>Gamera</i> mythos and acknowledging his destructive nature, the movie gets to tell a more complex story

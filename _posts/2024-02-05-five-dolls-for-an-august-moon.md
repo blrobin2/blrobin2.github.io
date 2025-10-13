@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5LvNGl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>
@@ -23,7 +22,7 @@ As they spend time together, the professor learns the reason for his invitation 
 
 To keep the professor from leaving, George sends the motor launch away. So, when Jill finds the body of George's manservant, Charles, on the beach, they have no choice but to keep an eye on each other.
 
-As the body count rises, the suspect list shrinks. And this is giallo, baby —  it's never as simple as it seems.
+As the body count rises, the suspect list shrinks. And this is giallo, baby — it's never as simple as it seems.
 
 Bava knew this was an <i>And Then There Were None</i> rip-off and tried to change it up, but his involvement was so last-minute that he couldn't do much.
 

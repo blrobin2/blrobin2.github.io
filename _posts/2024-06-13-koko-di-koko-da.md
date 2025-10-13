@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6Fgw07
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 10/31 | Countries 3/6 | Denmark</a></b>

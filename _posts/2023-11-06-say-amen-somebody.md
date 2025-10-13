@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/57iaPx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 8/52 | Black Music Films</b>

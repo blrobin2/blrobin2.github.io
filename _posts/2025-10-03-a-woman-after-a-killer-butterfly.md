@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/bf5uXP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 1/31 | Decades 1/9 | 1970s | Zombie 1/5</a></b>
@@ -26,16 +25,16 @@ The cinematography is quite good — it's fluid, and the compositions effectivel
 
 Overall, it's challenging to analyze the movie without discussing all its details, but I want to leave you with discoveries of your own. It's not that the film is difficult to understand— it just doesn't fit neatly into a box. Believe it or not, it all comes together in the end — the opening series of motifs recapitulated through the Kyeong-mi melodrama.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The poison woman has <a href="https://www.etsy.com/listing/1784587734/vintage-1971-35l-fanta-limonade-amber" rel="nofollow">a sick retro Fanta glass bottle</a>.
-* The mysterious old man keeps saying, "Triumph of the Will," but I don't think he's referring to Hitler. I could be wrong, though.
-* Yeong-geol only seems to play harmonica just before he makes a move to end his life.
-* TIL about the Silla Dynasty, which existed from 57 BCE - 935 CE, which is the time during which the skeleton woman lived.
-* Yeong-geol buys an automated cake maker to earn some extra dough (ha!). He and the skeleton woman have sex on top of a pile of them as the cake maker keeps shooting them off.
-* Kim Ja-ok, who plays Kyeong-mi, was in a bunch of K-dramas later in life. I wonder if she's a recognizable name to any contemporary K-drama fans?
-* The film becomes more overtly horror about an hour in, when there's a subplot about Professor Lee receiving mysterious packages with skulls —  for every skull he receives, a headless corpse is discovered. Every victim is someone Lee studied for their Mongolian traits.
-* Impressive how the incinerator can burn up all the bones except for the skull.
-* The movie becomes a beach movie about 80 minutes in for about 10 minutes.
-* Yeong-geol talks about masterpieces and how artists can't die without one great piece, which motivates Kyeong-mi. Her great work is to capture Yeong-geol and die alongside him. In her words, this is the most significant expression of love. Yeong-geol becomes a butterfly in others' nets.
-<b>*** END Stray Thoughts / Spoilers ***</b>
+- The poison woman has <a href="https://www.etsy.com/listing/1784587734/vintage-1971-35l-fanta-limonade-amber" rel="nofollow">a sick retro Fanta glass bottle</a>.
+- The mysterious old man keeps saying, "Triumph of the Will," but I don't think he's referring to Hitler. I could be wrong, though.
+- Yeong-geol only seems to play harmonica just before he makes a move to end his life.
+- TIL about the Silla Dynasty, which existed from 57 BCE - 935 CE, which is the time during which the skeleton woman lived.
+- Yeong-geol buys an automated cake maker to earn some extra dough (ha!). He and the skeleton woman have sex on top of a pile of them as the cake maker keeps shooting them off.
+- Kim Ja-ok, who plays Kyeong-mi, was in a bunch of K-dramas later in life. I wonder if she's a recognizable name to any contemporary K-drama fans?
+- The film becomes more overtly horror about an hour in, when there's a subplot about Professor Lee receiving mysterious packages with skulls —  for every skull he receives, a headless corpse is discovered. Every victim is someone Lee studied for their Mongolian traits.
+- Impressive how the incinerator can burn up all the bones except for the skull.
+- The movie becomes a beach movie about 80 minutes in for about 10 minutes.
+- Yeong-geol talks about masterpieces and how artists can't die without one great piece, which motivates Kyeong-mi. Her great work is to capture Yeong-geol and die alongside him. In her words, this is the most significant expression of love. Yeong-geol becomes a butterfly in others' nets.
+  <b>**_ END Stray Thoughts / Spoilers _**</b>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5JCOWP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Adam (Andrew Scott) leads a solitary life in his high-rise apartment in London. We catch him at his computer working on a script. One night, the fire alarm goes off, and he evacuates. No one else is on the street except him. Looking up at the building, he sees only two lights: his and a stranger's.

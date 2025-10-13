@@ -6,13 +6,13 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4YAe7p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Inez (Teyana Taylor) is living at the shelter again. She finds Terry on the corner. She tells him she’s his mother and that she’s going to be around now.
 
 After a head injury, Terry ends up in the hospital. Inez comes to visit but tells him she has to let him go back to foster care.
+
 <blockquote><i>Why do you keep leaving me?</i></blockquote>
 Inez offers him a chance to come with her for a few days. Days turn into years as they find a place to live. Inez gets some fake papers for Terry, so the foster care system can’t find them.
 <blockquote><i>There’s more to life than fucked-up beginnings</i></blockquote>

@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/6QJ7kt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 28/52 | Ari Aster’s Closet Picks</a></b>
@@ -30,11 +29,9 @@ Similarly the director, as a character, does not extend beyond the frame. When t
 
 By design, we don’t know if the director and his son will arrive in Koker, let alone find the actors. More than anything, this reveals Kiarostami’s faith in film to arrive somewhere, even if it’s a dead end. Like the director says when someone tells him his car won’t make it, “We’ll see how it goes.”
 
-
 <blockquote><i>— Do you think you are blessed?
 — Those are just words.
 — Then how do you explain it?
 — The way I see it, this disaster fell upon us like a hungry wolf. Those in its path were devoured while the rest were spared. No, this wasn’t God’s doing.</i></blockquote>I don’t want to dig too deep into the individual moments, because I don’t want to take away from the sense of discovery that makes this movie so beautiful.
-
 
 <blockquote><i>What can I do? The World Cup comes once every four years, and life goes on.</i></blockquote>

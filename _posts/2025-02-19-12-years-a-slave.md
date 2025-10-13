@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8SICg5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 47/52 | Screenplay adapted from a work of nonfiction</a></b>
@@ -23,8 +22,9 @@ The film ignores the systems at play that not only perpetuated slavery then but 
 For more about Steve McQueen's intentions, read <a href="https://www.vulture.com/2013/12/steve-mcqueen-talks-12-years-a-slave.html">his 2013 interview with Vulture</a>
 
 For more in-depth analysis from people much smarter than me:
-* <a href="https://slate.com/culture/2013/10/12-years-a-slave-and-schindlers-list-how-american-movies-valorize-those-who-escape-historys-tragedies.html">We Can Be Heroes: 12 Years a Slave, Schindler’s List, and the hero problem in American movies</a>
-* <a href="https://web.archive.org/web/20160530101030/http://www.villagevoice.com/film/12-years-a-slave-prizes-radiance-over-life-6439775">12 Years a Slave Prizes Radiance Over Life</a>
-* <a href="https://slate.com/culture/2014/01/movie-club-2013-12-years-a-slave-it-would-be-one-of-the-strangest-best-picture-winners.html">12 Years a Slave: It would be one of the strangest best picture winners in a long while</a>
+
+- <a href="https://slate.com/culture/2013/10/12-years-a-slave-and-schindlers-list-how-american-movies-valorize-those-who-escape-historys-tragedies.html">We Can Be Heroes: 12 Years a Slave, Schindler’s List, and the hero problem in American movies</a>
+- <a href="https://web.archive.org/web/20160530101030/http://www.villagevoice.com/film/12-years-a-slave-prizes-radiance-over-life-6439775">12 Years a Slave Prizes Radiance Over Life</a>
+- <a href="https://slate.com/culture/2014/01/movie-club-2013-12-years-a-slave-it-would-be-one-of-the-strangest-best-picture-winners.html">12 Years a Slave: It would be one of the strangest best picture winners in a long while</a>
 
 I've heard that <a href="https://boxd.it/8dl2">Gordon Parks's adaptation of Solomon Northrup's memoir</a> is more accurate and focused.

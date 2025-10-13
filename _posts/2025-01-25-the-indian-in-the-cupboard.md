@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8BCb6H
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 My friend Neal put this on in the background of a party. By the third act, everyone was sitting down in the living room and watching

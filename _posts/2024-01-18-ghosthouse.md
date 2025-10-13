@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5CqMHr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail#item-3630807378" rel="nofollow">Hooptober 8.0 | 16/34 | From birth year 1/2</a></b>
@@ -64,17 +63,18 @@ None of the performances are that good. Everyone delivers lines like a <i>Shenmu
 
 The soundtrack is so 1988 — it reminds me of the <i>Goosebumps</i> TV show.
 
-The movie loses momentum before the climax while attempting to establish a plot for the events. 
+The movie loses momentum before the climax while attempting to establish a plot for the events.
 
 Still, this is a blast.
 
-<b>*** Thoughts / Spoilers ***</b>
-* "Did you find out who's more popular in Denver: Kim Basinger or Kelly Lebrock?"
-* "No one would play a prank like that — it's unethical!"
-* "Come to think of it, just about every place sucks."
-* "You should believe in ghosts, pea brain."
-* "Maybe there's something supernatural about all this, guys."
-* "It's like you get some perverted pleasure out of making things up!"
-* "Maybe we never should have come here — this house is weird!"
-* "The simple fact that the computer doesn't know proves I'm right."
-* "Listen, people just wanna be reassured. Believe me. I mean, they don't wanna know about ghosts and curses and whatnot."
+<b>**_ Thoughts / Spoilers _**</b>
+
+- "Did you find out who's more popular in Denver: Kim Basinger or Kelly Lebrock?"
+- "No one would play a prank like that — it's unethical!"
+- "Come to think of it, just about every place sucks."
+- "You should believe in ghosts, pea brain."
+- "Maybe there's something supernatural about all this, guys."
+- "It's like you get some perverted pleasure out of making things up!"
+- "Maybe we never should have come here — this house is weird!"
+- "The simple fact that the computer doesn't know proves I'm right."
+- "Listen, people just wanna be reassured. Believe me. I mean, they don't wanna know about ghosts and curses and whatnot."

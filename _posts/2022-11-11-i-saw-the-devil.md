@@ -4,10 +4,9 @@ title: "I Saw the Devil (2010)"
 excerpt: "My review of I Saw the Devil (2010)"
 rating: "2.5"
 letterboxd_url: https://boxd.it/3pV9wD
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 When he caught up with the killer an hour in, I was excited to see where this went… but it was just another 1.5 hours of catch and release, tit for tat, with a lot of gore and a bit of excrement for good measure

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6sguQX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 9/52 | 1990s">Criterion Challenge 2022 | 9/52 | 1990s</a></b>
@@ -16,7 +15,7 @@ Wong Chi-ming and his partner sit together, smoking cigarettes. Though they have
 
 The unnamed partner cleans a rundown apartment near the train tracks. She leaves a message in the fax machine and does her makeup before leaving. Later, Wong arrives at the same apartment. He relaxes with a cigarette and television.
 
-This is the nature of their relationship — she passes messages along (notes and faxes) and tends to his home needs (cleaning, grocery shopping, etc) when he is out. 
+This is the nature of their relationship — she passes messages along (notes and faxes) and tends to his home needs (cleaning, grocery shopping, etc) when he is out.
 
 Wong likes being an assassin. He never makes any choices — he receives his instructions and follows them. But having no one to care for and no family to speak of is a lonely life.
 

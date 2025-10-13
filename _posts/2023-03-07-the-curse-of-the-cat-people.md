@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3WRJm9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Amy’s birthday wish to “be a good girl” is so upsetting, especially as her father looks on smiling, like, “yeah, that’d be nice”. when the bad behavior is that she doesn’t play with the other kids and daydreams. He’s still a huge asshole

@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4jmP5t
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A group of sailors stands in solidarity to mutiny against the unlivable conditions of their ship, refusing the maggot-filled food. The non-rebelling soldiers kill the leader, and the mutiny is quelled
@@ -23,5 +22,6 @@ Great compositions and editing for the time — it feels fast-paced and intense.
 Hard to overstate how important this is and how watchable it still is. Glad I revisited this now — I feel like I didn’t know how to appreciate it when I watched it in college
 
 Stay Thoughts
-* The priest looks like Moses on Mt Sinai
-* The water in the fog looks so good — it’s hypnotic
+
+- The priest looks like Moses on Mt Sinai
+- The water in the fog looks so good — it’s hypnotic

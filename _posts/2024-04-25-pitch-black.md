@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6l5huT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 23/32 | Flying Thing that Kills You 2/2</a></b>

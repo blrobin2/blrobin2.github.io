@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5nfb3R
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 51/52 | 2020s</b>
@@ -40,11 +39,11 @@ The film's social critique — despite my joke subtitle, I honestly don't care t
 
 Of all the 140-odd-minute movies I've watched this year, this film made the best use of its time.
 
-
 <b>Stray Thoughts / Spoilers</b>
-* I can't imagine people that rich taking a cruise together. Wouldn't they take their private yachts?
-* The lady complained about the "dirty sails." 
-* A guy takes the jewelry off his wife's dead body.
-* Carl is excited to find a nice cologne on the beach.
-* Playing backgammon on the beach. What is this, <i>Lost</i>?
-* The donkey scene is, um, upsetting.
+
+- I can't imagine people that rich taking a cruise together. Wouldn't they take their private yachts?
+- The lady complained about the "dirty sails."
+- A guy takes the jewelry off his wife's dead body.
+- Carl is excited to find a nice cologne on the beach.
+- Playing backgammon on the beach. What is this, <i>Lost</i>?
+- The donkey scene is, um, upsetting.

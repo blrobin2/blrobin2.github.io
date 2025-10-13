@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/55t2i5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X">Hooptober X</a> | 34/34 | Bonus 3/3</b>

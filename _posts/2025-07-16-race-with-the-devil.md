@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/alRrJH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 28/52 | Horror in the Desert</a></b>
@@ -28,9 +27,9 @@ It isn't until the last 30 minutes that the movie starts to have any fun with it
 
 I wouldn't say the ending saves it, but it emphasizes that this film is about spectacle, not consideration. So, I consider it fine.
 
+<b>**_ Stray Thoughts _**</b>
 
-<b>*** Stray Thoughts ***</b>
-* The score has the idle bounce of something generic or made-for-TV. It doesn't necessarily match the mood most of the time, but I've heard worse.
-* The motorcycle races aren't terribly exciting, probably because the actors are actually riding them.
-* I'm not sure if the movie itself is censored or just the version I found, but it was unusual.
-* The Kraft Mac-n-Cheese jump scare.
+- The score has the idle bounce of something generic or made-for-TV. It doesn't necessarily match the mood most of the time, but I've heard worse.
+- The motorcycle races aren't terribly exciting, probably because the actors are actually riding them.
+- I'm not sure if the movie itself is censored or just the version I found, but it was unusual.
+- The Kraft Mac-n-Cheese jump scare.

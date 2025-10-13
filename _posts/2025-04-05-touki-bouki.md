@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9jLMvD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 28/52 | Made in Senegal</a></b>
@@ -16,7 +15,7 @@ A boy and several men herd cows through the arid plains of Dakar to a slaughterh
 
 Anta does schoolwork to the tune of babies crying. Unlike the boubou and manjak that the other women wear, Anta wears pants and a button-up shirt. Just blocks away, the high-rises of urban expansion lord over them. Aunt Oumy sells produce outside the house—when a woman comes by, promising to pay them back in the future, Anta steps up in defense. Both Oumy and the woman see it as a sign of disrespect. Anta leaves to meet up with Mory, whom Oumy sees as good-for-nothing, as he has no job and rides his bull-horn-adorned motorcycle everywhere.
 
-Speaking of which, Mory arrives at the school to pick up Anta. Some other students, Marxists ready for the next revolution, see Mory and think he's there to spy on them, so they tie him up and drag him to their car. The film juxtaposes one of the students pulling the horns off of Mory's motorcycle and men in the village slaughtering a goat. They tie Mory to their car and parade him around the city. Somewhere, Anta runs, presumably to Mory. She arrives at his bike and removes her clothes. The camera looks down, not at Mory, but at the goat, kicking and belting as the men slit its throat and drain its blood into a loose door panel. 
+Speaking of which, Mory arrives at the school to pick up Anta. Some other students, Marxists ready for the next revolution, see Mory and think he's there to spy on them, so they tie him up and drag him to their car. The film juxtaposes one of the students pulling the horns off of Mory's motorcycle and men in the village slaughtering a goat. They tie Mory to their car and parade him around the city. Somewhere, Anta runs, presumably to Mory. She arrives at his bike and removes her clothes. The camera looks down, not at Mory, but at the goat, kicking and belting as the men slit its throat and drain its blood into a loose door panel.
 
 Cut to Aunt Oumy dressing the goat. Anta arrives, looking for Mory. Oumy claims Mory threw himself off the cliff. We see Anta running again, on the exact steps we saw before, on the same cliffside. Oumy's laughter rings out and echoes, blending with electronic squeals. Images of the goat thrashing as it bleeds out are intercut with waves dashing against the rocks. She arrives at the bike, removes her clothes, and kneels to the ground, out of sight. We hear tears, but seeing Anta's hands gripping the back of Mory's motorcycle, the tears blend with sighs of pleasure.
 

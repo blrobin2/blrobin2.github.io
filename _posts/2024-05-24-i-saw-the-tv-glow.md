@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/6x9fWd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I had to go sit in front of a fire after this

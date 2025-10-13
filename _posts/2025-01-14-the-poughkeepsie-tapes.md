@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/8t5c37
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 2/52 | Found Footage</a></b>

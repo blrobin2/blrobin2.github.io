@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6B0CJf
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Apologies to <a href="https://boxd.it/MltZ" rel="nofollow">CinemaMystic</a>, I jumped on the Gizmoplex season. And judging by how poorly the crowdfunding went, probably the last season for a while.
@@ -16,12 +15,12 @@ Straight away, the opening is noticeably cheaper. Which I don't have a problem w
 
 Thin Jonah! No more Elliott Kalan on the writing staff :(
 
-* Remember, you've convinced your wife of 30 years that you're blind
-* Dream of earless, silver-faced demons
-* Madam, may I interest you in some cholera?
-* If you see my neck or legs, we'll have to be married
-* A vampire? In this economy?
-* The suspense is killing the orchestra
-* You fool! I've been me the whole time!
-* Santo, don't make me kill you over that sweater
-* Most of wrestling is different types of hugs
+- Remember, you've convinced your wife of 30 years that you're blind
+- Dream of earless, silver-faced demons
+- Madam, may I interest you in some cholera?
+- If you see my neck or legs, we'll have to be married
+- A vampire? In this economy?
+- The suspense is killing the orchestra
+- You fool! I've been me the whole time!
+- Santo, don't make me kill you over that sweater
+- Most of wrestling is different types of hugs

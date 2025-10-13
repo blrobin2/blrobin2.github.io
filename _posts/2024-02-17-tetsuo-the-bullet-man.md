@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5Qu6Tp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 16/32 | Body Horror 2/4</a></b>

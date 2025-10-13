@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6lvJWD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 50/52 | Best of the Worst</a></b>
@@ -31,19 +30,19 @@ The movie has so many weird little choices! They take an awful script and bring 
 
 This movie isn't so bad that it's good, but genre enthusiasts will appreciate seeing such an inept riff on <i>The Omen</i> and other "bad seed" movies.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* George looks like Quentin Tarantino and acts as well. He has a Frasier Crane air to his demeanor.
-* "Didn't my mommy tell you I hate being kissed?"
-* Cathy's manic repetition of nursery rhymes is her most haunting feature.
-* The doll's voice is a young girl pitched down like they're trying to keep her anonymous.
-* The time-lapse of the food decaying!
-* Cathy teleported around the room, and her mom was too angry at her to care.
-* — "She's a good dog, Cathy." — "She's a female."
-* "Old bitch! F*g whore! Fat, dried-up whore!" Cathy says to the medium. Paul joins in.
-* Suddenly, Paul is surrounded by snakes, rats, and tarantulas.
-* "Medium? I'd say a rare piece of shit!"
-* Cathy tries to commit suicide to escape Laura's spirit.
-* Leeches in the bathtub!
-* "You want to go upstairs because you're an old man. Old people like seeing other people die."
-* Paul successfully opens the door, which he isn't supposed to do, so he pulls it back closed and barges at it.
+- George looks like Quentin Tarantino and acts as well. He has a Frasier Crane air to his demeanor.
+- "Didn't my mommy tell you I hate being kissed?"
+- Cathy's manic repetition of nursery rhymes is her most haunting feature.
+- The doll's voice is a young girl pitched down like they're trying to keep her anonymous.
+- The time-lapse of the food decaying!
+- Cathy teleported around the room, and her mom was too angry at her to care.
+- — "She's a good dog, Cathy." — "She's a female."
+- "Old bitch! F\*g whore! Fat, dried-up whore!" Cathy says to the medium. Paul joins in.
+- Suddenly, Paul is surrounded by snakes, rats, and tarantulas.
+- "Medium? I'd say a rare piece of shit!"
+- Cathy tries to commit suicide to escape Laura's spirit.
+- Leeches in the bathtub!
+- "You want to go upstairs because you're an old man. Old people like seeing other people die."
+- Paul successfully opens the door, which he isn't supposed to do, so he pulls it back closed and barges at it.

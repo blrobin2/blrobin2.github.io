@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5Y1sfl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites">Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites</a></b>

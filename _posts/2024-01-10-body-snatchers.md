@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5ybd8P
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 9/34 | Decades 3/8 | 90s</a>
@@ -24,15 +23,15 @@ I don't care about the metaphor. It could be conformity or the American nuclear 
 
 The best part about this movie is that it's less than 90 minutes, so it doesn't overstay its welcome.
 
-
 <b>Thoughts / Spoilers</b>
-* Andy's painting is legitimately fantastic.
-* Tim's got the deadest eyes.
-* Meg Tilly rules
-* It was shocking to see the mom's head cave in.
-* Oh hey, they do the finger-point-and-yell
-* The special effects are so goopy. Larry Cohen likes melty people.
-* "I fucked your girlfriend." Like, no, you didn't? Why would the real Tim panic about that?
-* Boy butts
-* Oops, all out of budget. That's a weird helicopter shot.
-* Oh, because they had a fuck ton of explosions to do.
+
+- Andy's painting is legitimately fantastic.
+- Tim's got the deadest eyes.
+- Meg Tilly rules
+- It was shocking to see the mom's head cave in.
+- Oh hey, they do the finger-point-and-yell
+- The special effects are so goopy. Larry Cohen likes melty people.
+- "I fucked your girlfriend." Like, no, you didn't? Why would the real Tim panic about that?
+- Boy butts
+- Oops, all out of budget. That's a weird helicopter shot.
+- Oh, because they had a fuck ton of explosions to do.

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6ULxO5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Man, this is crazy. We're no commandos — we're weekend warriors, man!</i></blockquote>

@@ -6,17 +6,16 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8KRpPn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 22</a></b>
 
 <blockquote><i>Desire has a thousand forms, a thousand ruses, a thousand lies. Desire is an island lost at sea.</i> — Agnès Varda</blockquote>
 
-Julien, a 14-year-old boy, walks down the street in a gi, walking like a side-scrolling video game character, throwing punches and kicks. He is recreating the moves from his favorite arcade game, Kung Fu Master. The objective is to fight through the floors of a pagoda to rescue the damsel in distress. 
+Julien, a 14-year-old boy, walks down the street in a gi, walking like a side-scrolling video game character, throwing punches and kicks. He is recreating the moves from his favorite arcade game, Kung Fu Master. The objective is to fight through the floors of a pagoda to rescue the damsel in distress.
 
-Lucy, also a teenager, throws a party in the backyard. Lucy's mother, Mary-Jane, watches from the balcony, checking on Lucy's sick younger sister, Lou. Mary-Jane finds Julien in the bathroom, sitting on the floor drunk. She shows him a trick to induce vomiting. As the kids are leaving, Julian watches Mary-Jane sing to Lou. She tells Julien to go home. Lucy tells Mary-Jane a joke that Julien told her. Mary-Jane reflects on Julien's eyes as he watches her sing. How pathetic, yet how wonderful. 
+Lucy, also a teenager, throws a party in the backyard. Lucy's mother, Mary-Jane, watches from the balcony, checking on Lucy's sick younger sister, Lou. Mary-Jane finds Julien in the bathroom, sitting on the floor drunk. She shows him a trick to induce vomiting. As the kids are leaving, Julian watches Mary-Jane sing to Lou. She tells Julien to go home. Lucy tells Mary-Jane a joke that Julien told her. Mary-Jane reflects on Julien's eyes as he watches her sing. How pathetic, yet how wonderful.
 
 Mary-Jane drives to Lucy's school to see if she can run into Julian. Instead, she accidentally taps him with her car. Mary-Jane sees his hand is scuffed, so she offers to take him to a café. She buys him a Coke and gives him 5 francs to play Kung Fu Master. Mary-Jane watches him play and explain the game, inching closer to him.
 

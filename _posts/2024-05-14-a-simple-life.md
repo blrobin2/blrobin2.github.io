@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6t5R8r
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 20/52 | Directed by Ann Hui On-Wah</a></b>
@@ -32,7 +31,7 @@ Andy Lau is charming. Watching his transformation is delightful. He and Deanie I
 
 The film is a slice-of-life, uninterested in drama or big speeches. It has a grim sense of humor when observing the disassociation and frustration at the end of life. Having someone watch over you can make all the difference between misery and joy.
 
-The film is full of cameos from famous Chinese film stars and producers. I recognized Sammo Hung and Tsui Hark, just because I’ve looked them up. 
+The film is full of cameos from famous Chinese film stars and producers. I recognized Sammo Hung and Tsui Hark, just because I’ve looked them up.
 
 If I had one complaint, it would be the length. The story deserves a relaxed pace, especially when it's about developing relationships. However, I am particular about film length, so this might not pose an issue for you.
 

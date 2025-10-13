@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9c0RM3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 12/52 | Albert Pyun</a></b>
@@ -24,18 +23,18 @@ The biggest issue is that its relatively low budget overshadows the movie's ambi
 
 Looks, can anyone in this movie act? No. Are the costumes, hair, and makeup laughable? Yes. But I wasn't bored and can't say that for many sword and sorcery flicks.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* I like the guard who looks like Cliff from Cheers
-* Lee Horsley has the swagger of a much more talented actor. Honestly, props.
-* Is there a straight actor in this movie? No one is playing gay, and it's amusing.
-* Hell yeah, Talon's gonna invent democracy real quick.
-* Richard Lynch is going for that Oscar. By that, I mean he chews the fuck out of the scenery.
-* Poor Kathleen Beller
-* Talon, our hero, will save Alana's brother if she fucks him. Jesus.
-* Oh shit, she's also Cromwell's bride??
-* Did they add dog bark sfx to the rat invasion??
-* Of course, he has to fall into the harem chamber. And, of course, he makes out with one of the harem.
-* Stronger than Jesus, he pulls himself off the cross.
-* The slow-mo moments are silly but kind of epic!
-* Okay, Xusia's transformation is pretty fun and gross
+- I like the guard who looks like Cliff from Cheers
+- Lee Horsley has the swagger of a much more talented actor. Honestly, props.
+- Is there a straight actor in this movie? No one is playing gay, and it's amusing.
+- Hell yeah, Talon's gonna invent democracy real quick.
+- Richard Lynch is going for that Oscar. By that, I mean he chews the fuck out of the scenery.
+- Poor Kathleen Beller
+- Talon, our hero, will save Alana's brother if she fucks him. Jesus.
+- Oh shit, she's also Cromwell's bride??
+- Did they add dog bark sfx to the rat invasion??
+- Of course, he has to fall into the harem chamber. And, of course, he makes out with one of the harem.
+- Stronger than Jesus, he pulls himself off the cross.
+- The slow-mo moments are silly but kind of epic!
+- Okay, Xusia's transformation is pretty fun and gross

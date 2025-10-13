@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6ZR2pP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 31/52 | Directed by an Indigenous director whose work you haven’t seen before</a></b>

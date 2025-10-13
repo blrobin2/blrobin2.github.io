@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/56dmYd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Jerry Corrbett (Fredric March), drunk off his ass, hits a woman at a party named Joan Prentice (Slyvia Sidney) with a paper football. The two sit together on the balcony and kiss. Joan invites Jerry to a tea party the next day. Then, a man named Greg Boleslavsky grabs her, and they leave. Jerry offers a toast:
@@ -42,7 +41,8 @@ The movie stands out for its portrayal of extramarital relationships. It also di
 This may have played for laughs in 1932. It's more likely that Hollywood has called everything it doesn't understand a comedy since the beginning.
 
 <b>Stray Thoughts</b>
-* I can't believe Slyvia Sidney is the afterlife case worker from <i>Beetlejuice</i>! 
-* Fredric March does not have comedic chops. He fares better in genre films like his standout role in Dr. Jekyll and Mr. Hyde.
-* Cary Grant gets ninth billing, this being one of his earliest prominent roles
-* Joans's cute dog actor gets too little screen time!
+
+- I can't believe Slyvia Sidney is the afterlife case worker from <i>Beetlejuice</i>!
+- Fredric March does not have comedic chops. He fares better in genre films like his standout role in Dr. Jekyll and Mr. Hyde.
+- Cary Grant gets ninth billing, this being one of his earliest prominent roles
+- Joans's cute dog actor gets too little screen time!

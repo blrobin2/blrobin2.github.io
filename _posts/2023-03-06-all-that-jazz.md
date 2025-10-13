@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3WCfEn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I didn’t care about the Lenny Bruce surrogate movie, and it went on for sooo long, and it kept coming back. I know why, it makes sense in the movie, it was just tedious

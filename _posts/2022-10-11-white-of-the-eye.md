@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3jpL4f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I don’t fully understand why this feels so weird to me, but it has an uncanny valley quality throughout that I find intriguing

@@ -6,15 +6,14 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6yd74z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 22/52 | Andy Young’s “That” shot of someone in a theater watching a movie</a></b>
 
 Rick Dalton (Leonardo DiCaprio) starred in the TV show <i>Bounty Law</i> in the 50s. Cliff Booth (Brad Pitt) was his stunt double. Now, in 1969, the two are close friends — Rick mostly does TV villain roles, but Cliff can't find much work after the allegations that he murdered his wife.
 
-Rick's agent, Marvin Schwartz (Al Pacino), advises Rick to look into Spaghetti Westerns. Rick thinks he's above for that shit, even though he's done cheap exploitation that would, by all definitions, be more embarrassing. 
+Rick's agent, Marvin Schwartz (Al Pacino), advises Rick to look into Spaghetti Westerns. Rick thinks he's above for that shit, even though he's done cheap exploitation that would, by all definitions, be more embarrassing.
 
 Sharon Tate (Margot Robbie) and Roman Polanski (Rafał Zawierucha) return home after a long trip. They live next door to Rick. Sharon talks about a new friend she doesn't think Roman would like.
 

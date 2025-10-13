@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5JQOzJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 34/34 | Bonus 3/3</a></b>

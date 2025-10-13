@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/47AvsH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Drew Barrymore is doing the perfunctory “adult” movie that child actors do to prove that they’re “not a kid anymore” or something

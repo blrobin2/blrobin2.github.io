@@ -6,15 +6,14 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/biIzMd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 6/31 | Countries 4/6 | France | Zombie 4/5</a></b>
 
 Outside of a French village is a lake the villagers call the Lake of the Damned. A young woman goes out to the lake, taking down a sign that warns her of death, and skinny dips. After several minutes, a Nazi zombie emerges and presumably kills her, though we don't see that on screen. In the village, Chanac threatens to go to the mayor if the young woman doesn't return by morning. When Chanac visits the mayor, he says they should wait and see if she shows up before calling the police.
 
-The zombie attacks another villager and gives her a hickey, strawberry syrup leaking out of his mouth. Oh, wait, no, he's eating her, she's dead. The villagers discover her body and congregate around her as three men carry her to the mayor's office. The men are careful with her, yet ensure that her skirt lifts so the audience can get a peek at her panties. The mayor appears, lamenting that they cannot bury the woman until they determine the cause of death. 
+The zombie attacks another villager and gives her a hickey, strawberry syrup leaking out of his mouth. Oh, wait, no, he's eating her, she's dead. The villagers discover her body and congregate around her as three men carry her to the mayor's office. The men are careful with her, yet ensure that her skirt lifts so the audience can get a peek at her panties. The mayor appears, lamenting that they cannot bury the woman until they determine the cause of death.
 
 A reporter, Katya Moore, arrives in town to investigate the "weird lake." The townspeople send her to the mayor, who knows the most about the town's history. She brings the disgruntled mayor a book, and the two discuss why the lake is "damned." The name comes from events that started 10 years ago, during WWII, when the Nazis occupied the village.
 

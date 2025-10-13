@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5Jud4l
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 31/34 | Tobe Hooper</a></b>
@@ -34,15 +33,15 @@ The third act gets clunky in how it fits together. It bothered me initially, but
 
 This movie is well-paced, decently acted, and has several of my favorite horror elements. Sure, we've seen it before, but it's difficult to dislike when it works so well.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Drucilla!
-* No, not Julia! She and Nell had a legit bond.
-* I doubt that kid erased those videos on his hard drive.
-* No *04 room on every floor is fucking weird. The fact no one cares is maddening.
-* Fuck yeah, occult architecture. It makes me think of <i>Archive 81</i>.
-* Yep, the kid has the videos.
-* WELP, there goes Ned
-* His name is Coffin Baby??
-* As the killer takes the bolt cutters to Bryon's back, he complains, "Just kill me!"
-* I know some critics didn't like the supernatural component, but once those runes showed up, you should've known.
+- Drucilla!
+- No, not Julia! She and Nell had a legit bond.
+- I doubt that kid erased those videos on his hard drive.
+- No \*04 room on every floor is fucking weird. The fact no one cares is maddening.
+- Fuck yeah, occult architecture. It makes me think of <i>Archive 81</i>.
+- Yep, the kid has the videos.
+- WELP, there goes Ned
+- His name is Coffin Baby??
+- As the killer takes the bolt cutters to Bryon's back, he complains, "Just kill me!"
+- I know some critics didn't like the supernatural component, but once those runes showed up, you should've known.

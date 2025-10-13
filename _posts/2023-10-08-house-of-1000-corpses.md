@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4XyPIf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Some nerds get themselves in trouble when they ask for directions to where Dr. Satan worked and fall into the hands of the Firefly family — think The Munsters if every one of them was a psycho killer
@@ -20,14 +19,13 @@ Honestly, the only stylistic choice that I outright hated was the artificial zoo
 
 This movie isn't great, but it has weird promise (see spoiler talk below).
 
-
 <b>Stray Thoughts</b>
-* Doctor Wolfenstein calls himself "the ghost with the most." I thought that was Beetlejuice?
-* [spectral laughter]
-* Karen Black! She's better than the material, but I'm happy to see her let loose
-* I've heard the next one,<i> The Devil's Rejects</i>, is better and that <i>3 From Hell</i> divides fans, but I plan to check both out eventually
-* And I like Rob Zombie's <i>Halloween 2</i> — that's a movie that makes some odd style choices that work in its favor
 
+- Doctor Wolfenstein calls himself "the ghost with the most." I thought that was Beetlejuice?
+- [spectral laughter]
+- Karen Black! She's better than the material, but I'm happy to see her let loose
+- I've heard the next one,<i> The Devil's Rejects</i>, is better and that <i>3 From Hell</i> divides fans, but I plan to check both out eventually
+- And I like Rob Zombie's <i>Halloween 2</i> — that's a movie that makes some odd style choices that work in its favor
 
-<b>*** Spoilers ***</b>
+<b>**_ Spoilers _**</b>
 The best part of the movie is when they lower Denise into Dr. Satan's lair — his goon squad and lair are creepy, and Denise is the only character we have a chance to care about. The tension mounts, the mystery unfolds from her perspective, and we genuinely don't know what will happen. The movie eventually gets in its way again, but the promise of a legitimately good filmmaker is there

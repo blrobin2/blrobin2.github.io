@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5JYCGf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 16/52 | Cannon Group">Cult Movie Challenge 2016 | 16/52 | Cannon Group</a></b>
@@ -40,18 +39,18 @@ It's all so convoluted. The story, as it's structured, isn't a movie. With all t
 
 I was never super invested beyond wanting to know who the killer was. By the time it came around, it didn't matter.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Minor key Silent Night in the opening credits
-* You're not going to pick up the hitchhiker with a tire iron?
-* "I love you're such an important man."
-* Is that John Carradine?? Did he say no to anything? His was in <i>Red Zone Cuba</i>, so I guess not.
-* I thought the cop was looking at a centerfold, but he was looking at football players. Gay!
-* Why does Diane let Jeffrey in??
-* Tess's murder is upsetting
-* Of course, it's an incest story 
-* If Wilfred wanted to fake his death and for no one to touch the house, why didn't he live in the house?
-* Wait, so the town leaders are all asylum escapees?? And no one noticed??
-* Wait. Diane is Marianne??
-* No, Wilfred's just confused. I am, too!
-* Didn't the lawyer say something about the foundation being so thick the house couldn't be torn down? And then a single bulldozer tears it down?
+- Minor key Silent Night in the opening credits
+- You're not going to pick up the hitchhiker with a tire iron?
+- "I love you're such an important man."
+- Is that John Carradine?? Did he say no to anything? His was in <i>Red Zone Cuba</i>, so I guess not.
+- I thought the cop was looking at a centerfold, but he was looking at football players. Gay!
+- Why does Diane let Jeffrey in??
+- Tess's murder is upsetting
+- Of course, it's an incest story
+- If Wilfred wanted to fake his death and for no one to touch the house, why didn't he live in the house?
+- Wait, so the town leaders are all asylum escapees?? And no one noticed??
+- Wait. Diane is Marianne??
+- No, Wilfred's just confused. I am, too!
+- Didn't the lawyer say something about the foundation being so thick the house couldn't be torn down? And then a single bulldozer tears it down?

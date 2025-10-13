@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/9kOhA3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <a href="https://boxd.it/q7TYk/detail" rel="nofollow"><b>Cult Movie Challenge 2017 | 22/52 | PM Entertainment</b></a>

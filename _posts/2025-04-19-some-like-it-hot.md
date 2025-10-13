@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9s19k1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 "Nobody's perfect!" All-timer of a last line.

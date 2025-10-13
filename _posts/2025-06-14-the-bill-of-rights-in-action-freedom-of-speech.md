@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/9ZC3al
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Ladies and gentlemen, the First Amendment as interpreted by Tito Puente.
-* Temple Beth, I hear you calling.
+- Ladies and gentlemen, the First Amendment as interpreted by Tito Puente.
+- Temple Beth, I hear you calling.

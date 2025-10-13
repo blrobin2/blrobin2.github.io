@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5C7DKN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Adam and I were in the theater during the closing credits.

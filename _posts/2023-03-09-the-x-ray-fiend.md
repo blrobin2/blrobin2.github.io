@@ -4,10 +4,9 @@ title: "The X-Ray Fiend (1897)"
 excerpt: "My review of The X-Ray Fiend (1897)"
 rating: ""
 letterboxd_url: https://boxd.it/3XiLEN
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 Men not leaving women alone — a well-worn story by the birth of cinema

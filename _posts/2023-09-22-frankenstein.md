@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4Szsv5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The scene with Frankenstein forming in the pot or whatever is so wild

@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6hHQJT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 15/32 | Before 1970 6/6</a></b>

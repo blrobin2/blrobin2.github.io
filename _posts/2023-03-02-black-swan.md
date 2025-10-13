@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3VwLY9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Rewatching for a podcast
@@ -27,10 +26,11 @@ It's not a <i>Persona</i>-esque homage without mirrors, doppelgängers, narcissi
 If the themes of the movies are ever unclear, Vincent Cassel tells the audience — although his motives are less than pure, the movie never contradicts them. It's amusing how his presence in any film serves as an unspoken warning to the audience that this movie intends to make you uncomfortable.
 
 <b>Stray thoughts/Spoilers:</b>
-* The hand trauma messes with me.
-* The horror movie mirror scares are… fine.
-* Young Sebastian Stan spotting!
-* Stray paint in the stairwell like black feathers falling.
-* The third act pulls the whole thing together. It helps that Aronofsky didn't write this.
+
+- The hand trauma messes with me.
+- The horror movie mirror scares are… fine.
+- Young Sebastian Stan spotting!
+- Stray paint in the stairwell like black feathers falling.
+- The third act pulls the whole thing together. It helps that Aronofsky didn't write this.
 
 Overall, this is tied with <i>The Wrestler</i> as the best things Aronofsky has directed, and likely will direct.

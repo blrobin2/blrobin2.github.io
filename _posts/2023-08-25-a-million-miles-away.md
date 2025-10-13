@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KnvnH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 less silent treatment. less free jazz. more feeling. more feeling up

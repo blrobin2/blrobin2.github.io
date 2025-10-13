@@ -6,14 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5mAMYX
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 It's hard not to enjoy unhinged Ann-Magret
 
-* The hottest Garfield episode ever
-* Okay, bye!
-* Oh thats right I rented the spare room to Elmer Fudd
-* Isotope models! Get your isotope models!
-* This movie's lost its creaminess
+- The hottest Garfield episode ever
+- Okay, bye!
+- Oh thats right I rented the spare room to Elmer Fudd
+- Isotope models! Get your isotope models!
+- This movie's lost its creaminess

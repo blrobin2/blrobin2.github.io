@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4P9Erb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The bar has asked me to stop watching turn-of-the-century pornography in their family establishment, in case you wondered if fascism had taken over America

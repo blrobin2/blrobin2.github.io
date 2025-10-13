@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8nf3UR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 16/31 | Countries 1/5 | Spain</a></b>

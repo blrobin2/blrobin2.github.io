@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6v04BH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 6</a></b>
@@ -15,7 +14,7 @@ category: movie_review
 <b>Cumbria 1348</b>
 A young boy named Griffin looks to the sky. The moon gives him visions of men tossing torches and digging into the earth. The church bells ring. Someone jumps from the steeple.
 
-Connor brings news of The Black Death  — far worse than the villagers can imagine.
+Connor brings news of The Black Death — far worse than the villagers can imagine.
 
 <blockquote><i>All the churches are empty. And still not satisfied, the evil keeps striding forward with each full moon.</i></blockquote>The village believes their only hope is to place a cross on the steeple of the biggest church in all of Christendom. To do so is to ask god for his protection. 
 

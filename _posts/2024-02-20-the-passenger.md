@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5Sg8j9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 19/32 | from this year 1/2">Hooptober 7.0 | 19/32 | from this year 1/2</a></b>
@@ -24,12 +23,12 @@ Benson gets Randy to help Benson move the bodies and clean up the store. He push
 
 — Seven hours! Who knows where we'll be by then?
 
-Johnny Berchtold nails the quiet, repressed kid. 
+Johnny Berchtold nails the quiet, repressed kid.
 
 Kyle Gallner is playing a variation on the fucked up guy he's been typecast for ages. So yeah, he does a good job.
 
 The movie evolves beyond its setup, and that's when it becomes engaging.
 
-This movie was so close to being gay, and it isn't. 
+This movie was so close to being gay, and it isn't.
 
 Good performances, shocking gore, and an emotional core help save this stilted script.

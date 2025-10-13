@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/56fL0V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 2/34 | Countries 2/6 | Columbia</b>

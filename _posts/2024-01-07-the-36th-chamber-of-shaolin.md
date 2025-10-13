@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5whbvr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 4/52 | Shaw Brothers</a></b>

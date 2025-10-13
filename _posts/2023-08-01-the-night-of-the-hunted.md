@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4CF26B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 While driving one night, Robert finds Elysabeth walking out in the rain. He picks her up and learns she's running from something. Within minutes, she's forgotten why she's in the car in the first place

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4ouJhf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Silvia (Mimsy Farmer) is an industrial scientist and workaholic who puts work above all, including her budding relationship with Roberto (Maurizio Bonuglia), who cannot stand any lack of attention on her part
@@ -20,7 +19,7 @@ The wound of a father who went to sea and never came back, and of a mother who s
 
 The soundtrack is charged, turning from romantic to uneasy, capturing the unexpected dread that can come at any turn of the corner
 
-The penultimate scene is exactly what you expect after a point, but a few key details add an extra layer of discomfort 
+The penultimate scene is exactly what you expect after a point, but a few key details add an extra layer of discomfort
 
 The final scene tied up her fears about what the world wants from her, and it is one of the more disturbed and bizarre endings to a movie I’ve seen
 

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4FiyUJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
@@ -20,9 +19,10 @@ I get why this is so divisive — from a purely aesthetic viewpoint, this is as 
 received so much attention (and this is another remake of a horror classic). But for those who would be here regardless, they are getting what they want — high-budget surrealist shlock
 
 <b>Stray Thoughts</b>
-* White horse in the spotlight, I get the Twin Peaks comparisons now
-* "Nights in White Satin." I get it
-* Jack Nance would've been a great Uncle Meat
-* Half a star for the Weird Al cameo
-* "Are you a giant? Can we be friends?!"
-* That Halloween party seems insufferable
+
+- White horse in the spotlight, I get the Twin Peaks comparisons now
+- "Nights in White Satin." I get it
+- Jack Nance would've been a great Uncle Meat
+- Half a star for the Weird Al cameo
+- "Are you a giant? Can we be friends?!"
+- That Halloween party seems insufferable

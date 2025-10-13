@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5N6aTt
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 8/32 | Decades 2/6 | 1940s</a></b>
@@ -19,11 +18,12 @@ The lair set is amusing, John Carradine is hilarious, Lugosi gives it the old co
 I watched the RiffTrax version, and it was okay — a bunch of gay panic jokes.
 
 <b>Favorite RiffTrax jokes</b>
-* It was an odd time living in the 40s when a second, dimmer sun would shine all night long
-* Ah yes, another 27-year-old “girl”
-* This was before people understood the health risks of dying in a big explosion
-* I’m marrying the army
-* Meanwhile, we join The Monster Mash, already in progress
-* Sir, they canceled Gossip Girl. Please don’t beat me!
-* My husband tells me you’re a zombie
-* One! One dead sheriff!
+
+- It was an odd time living in the 40s when a second, dimmer sun would shine all night long
+- Ah yes, another 27-year-old “girl”
+- This was before people understood the health risks of dying in a big explosion
+- I’m marrying the army
+- Meanwhile, we join The Monster Mash, already in progress
+- Sir, they canceled Gossip Girl. Please don’t beat me!
+- My husband tells me you’re a zombie
+- One! One dead sheriff!

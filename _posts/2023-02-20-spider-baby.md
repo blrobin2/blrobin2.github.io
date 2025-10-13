@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3SzbEh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “Let’s not have a complete double duck fit”

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5myNCT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Lizzy is a ceramic sculptor and illustrator. She has a show coming up. She's trying to get everything ready, but nothing goes right.

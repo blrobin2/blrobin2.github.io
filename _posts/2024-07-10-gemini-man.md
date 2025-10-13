@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6QiZv7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 28/52 | That same director’s lowest-rated film (Ang Lee)</a></b>

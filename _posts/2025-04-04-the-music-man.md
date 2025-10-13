@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/9jhAWR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A movie about a gay con man trying to hook up with a lesbian librarian.
@@ -18,12 +17,13 @@ I like how they black out the background before ending the scene like it's on st
 
 FUCK SHIPOOPI. This movie is cursed.
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* "The last days of Pompeh-eye"
-* Amaryllis
-* "Pure boys!"
-* Zanita
-* Avis Grubb
-* Eulalie Mackenchnine Shinn
-* Ye Gods!
-* Showing up to the candy shop looking like a chess piece
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- "The last days of Pompeh-eye"
+- Amaryllis
+- "Pure boys!"
+- Zanita
+- Avis Grubb
+- Eulalie Mackenchnine Shinn
+- Ye Gods!
+- Showing up to the candy shop looking like a chess piece

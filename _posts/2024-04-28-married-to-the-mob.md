@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6m9XgL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <a href="https://boxd.it/sWI7Y" rel="nofollow"><b>Birthday Year Challenge 5</b></a>
@@ -24,11 +23,11 @@ Meanwhile, Tony chases Angela while Angela is on her way out. But when Tony make
 
 But Angela and Mike meet cute, and Mike lies about living in the building. With all these plates spinning, what's going to drop first?
 
-I had a hard time getting into the movie at first. I'm so over mob shit, and the first act wasn't doing much for me. When it gets soft and cute, though, I'm having a tremendous time.  
+I had a hard time getting into the movie at first. I'm so over mob shit, and the first act wasn't doing much for me. When it gets soft and cute, though, I'm having a tremendous time.
 
 The movie shows the most personality when a character's internal thought process leaks into reality — when dream logic and irrational fear overtake the movie. The hit at the restaurant has a weird dreaminess — a slo-mo clown with a gun in each hand.
 
-Michelle Pfeiffer is outstanding — this was her breakthrough role, and it makes sense. 
+Michelle Pfeiffer is outstanding — this was her breakthrough role, and it makes sense.
 
 I initially hated Matthew Modine — but as it got more into the romcom parts, I understood his choices. His room, having a Buster Keaton/Rube Goldberg method of getting dressed, is a bold choice, but it sets in our head that we're supposed to see him as a Harold Lloyd type — a sincere doof who falls in love and trouble with equal ease.
 

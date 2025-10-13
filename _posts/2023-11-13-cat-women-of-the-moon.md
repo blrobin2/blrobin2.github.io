@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/59qQlD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0 | 12/34 | Set in space or the future</b>

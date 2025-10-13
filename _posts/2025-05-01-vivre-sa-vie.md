@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9z6Tkf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 42/52 | Starring Anna Karina</a></b>

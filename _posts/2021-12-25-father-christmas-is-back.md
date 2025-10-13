@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/2obukJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I watched and waited for some redeemable moment, but it really is that bad from start to finish

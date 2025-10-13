@@ -6,13 +6,12 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/bbyGGD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>
 
-<b>*** SPOILERS FOR PATHER PANCHALI ARE INEVITABLE ***</b>
+<b>**_ SPOILERS FOR PATHER PANCHALI ARE INEVITABLE _**</b>
 
 <blockquote><i>One can't be happy without a family of one's own.</i></blockquote>
 
@@ -30,10 +29,11 @@ The film explores how Western individualization affects the family and one's per
 
 The cinematography is absolutely gorgeous. Subrata Mitra makes excellent use of the narrow city streets, the ghats at the Ganges, and other architectural elements to help frame the characters. Mitra pioneered bounce lighting with this movie, recreating the large-scale diffusion of studio lighting in location shooting.
 
-<b>*** MOMENTS I LIKED ***</b>
-* The scene with Kalicharan and Harihar standing in the rain.
-* The juxtaposition of Harihar and the birds flying off.
-* The passage of time with the flowers growing.
-* The montage of Apu educating himself and growing into a young adult.
+<b>**_ MOMENTS I LIKED _**</b>
+
+- The scene with Kalicharan and Harihar standing in the rain.
+- The juxtaposition of Harihar and the birds flying off.
+- The passage of time with the flowers growing.
+- The montage of Apu educating himself and growing into a young adult.
 
 After releasing an incredible first picture, Satyajit Ray follows it up with a film that technically exceeds its predecessor in nearly every way. This film is a beautiful document of a specific era of India's history, made by one of India's greatest directors.

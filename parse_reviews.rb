@@ -20,7 +20,7 @@ rating: "#{rating}"
 letterboxd_url: #{row['Letterboxd URI']}
 mst3k: #{mst3k}
 rifftrax: #{rifftrax}
-category: movie_review
+category: movie-review
 
 ---
   HEADER

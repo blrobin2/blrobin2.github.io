@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/49Uf0Z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Teenage melodrama slice of life, where love and friendship are quite literally life or death

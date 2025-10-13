@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5fdvIp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Nami's Late Late Night used to be a hot show, but the ratings are low.
@@ -27,9 +26,10 @@ Poor pacing and underdeveloped characters knock it down a tad.
 Still, it's wacky as hell.
 
 <b>Stray Thoughts</b>
-* The spastic blue-toned scenes remind me of <i>Tetsuo</i> — thanks to Japan Home Video.
-* Camera flash as the only light source is always creepy.
-* So many pranks! No wonder folks die.
-* One theme sounds like "All Around the World."
-* These women are braver than the troops — whenever you see me saluting, it will secretly be to them.
-* That last shot. Holy shit. I can't wait to watch the sequel.
+
+- The spastic blue-toned scenes remind me of <i>Tetsuo</i> — thanks to Japan Home Video.
+- Camera flash as the only light source is always creepy.
+- So many pranks! No wonder folks die.
+- One theme sounds like "All Around the World."
+- These women are braver than the troops — whenever you see me saluting, it will secretly be to them.
+- That last shot. Holy shit. I can't wait to watch the sequel.

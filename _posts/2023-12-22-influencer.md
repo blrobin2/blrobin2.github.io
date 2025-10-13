@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5mMMiB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Madison is a social media influencer with a massive following. She travels to Thailand to do some promotional spots and get good travel photos. Initially, her boyfriend Ryan was supposed to come with her, but he bailed at the last minute. She keeps in touch with her best friend, Jay, but the glamor of her trip distracts him from noticing that she isn't having a good time.
@@ -26,8 +25,7 @@ My major complaint is the abundance of small, seemingly important text on the sc
 
 Since the film is on Shudder, you may anticipate the direction of this movie. Still, the journey is quite fun.
 
-
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 
 At twenty minutes in, we get the opening credits after CW has abandoned Madison on a remote island to die — a great take on the Psycho structure.
 

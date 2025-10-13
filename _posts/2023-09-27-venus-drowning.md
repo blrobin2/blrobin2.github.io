@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4TZNlh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>everything's getting fucked up like it always does</i></blockquote>On the same day, Dawn's boyfriend Mike dies of cancer, and she has a miscarriage. After a suicide attempt, her doctor recommends going to a place that brings her comfort and gives her some time to heal
@@ -22,6 +21,5 @@ The movie is a mid-00s indie, so aesthetically, it looks like every other mid-00
 
 Overall, the movie has a unique approach to using body horror to discuss mental health and disassociation. It isn't for everyone, but the weirdos who like weird movies can handle it
 
-
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 The creature seems to have a vaginal opening. It has a fishy tail and sort of a fetus-like shape. It secretes when Dawn is aroused — it is Dawn's sex drive, disembodied from her — a repressed thing comes alive and that she is initially a slave to. Though its initial form is all-consuming, by the end, she learns how to have a small amount and experience pleasure without the compulsion

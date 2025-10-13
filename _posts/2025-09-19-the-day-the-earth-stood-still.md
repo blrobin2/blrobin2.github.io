@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/b6Rxzr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 14/52 | 50s Sci-Fi</a></b>
@@ -16,7 +15,7 @@ Through the cosmic void, something arrives on our planet. A military station pic
 
 <blockquote><i>We have come to visit you in peace and with goodwill.</i></blockquote>
 
-Still, the army men hold close to their weapons, and closer still as the alien pulls a small device out of its outfit. When the alien shakes the device, a nervous officer shoots and injures the alien. A thick robot emerges from the ship, sending the onlookers fleeing. The robot opens its visor, and a glowing beam emits as it disintegrates all of the weapons and tanks. The alien, Klaatu, stands up and stops the robot, Gort. Klaatu picks up the remnants of what he held — a gift for the President to study life on other planets. 
+Still, the army men hold close to their weapons, and closer still as the alien pulls a small device out of its outfit. When the alien shakes the device, a nervous officer shoots and injures the alien. A thick robot emerges from the ship, sending the onlookers fleeing. The robot opens its visor, and a glowing beam emits as it disintegrates all of the weapons and tanks. The alien, Klaatu, stands up and stops the robot, Gort. Klaatu picks up the remnants of what he held — a gift for the President to study life on other planets.
 
 <blockquote><i>Klaatu barada nikto!</i></blockquote>
 
@@ -32,11 +31,12 @@ The film's biggest flaw is its blatant pro-USA and Christian bias — Klaatu, di
 
 Still, the structure and pacing have that icy 50s sci-fi feel that I dig. After watching a trillion terrible 50s sci-fi movies, it's reassuring that I still find the good ones so captivating.
 
-<b>*** Stray Thoughts ***</b>
-* Love the opening credits over the space matte paintings.
-* The score is incredible! Bernard Herrmann has to be an influence on Danny Elfman, among others.
-* I love how it goes to so many locations to show people listening to the radio — it globalizes the community.
-* I don't think I've seen Frances Bavier in anything other than Andy Griffith. 
-* The lighting and set design on the ship are so sick. I love how they only play score in there, no foley.
-* Tom is the worst!
-* Thanks to <a href="https://letterboxd.com/owensp/">Owen</a> for the DVD! The DVD menu is fantastic.
+<b>**_ Stray Thoughts _**</b>
+
+- Love the opening credits over the space matte paintings.
+- The score is incredible! Bernard Herrmann has to be an influence on Danny Elfman, among others.
+- I love how it goes to so many locations to show people listening to the radio — it globalizes the community.
+- I don't think I've seen Frances Bavier in anything other than Andy Griffith.
+- The lighting and set design on the ship are so sick. I love how they only play score in there, no foley.
+- Tom is the worst!
+- Thanks to <a href="https://letterboxd.com/owensp/">Owen</a> for the DVD! The DVD menu is fantastic.

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8hLLsn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Hoop-Tober | 11/31 | Terence Fisher 1/5</a>

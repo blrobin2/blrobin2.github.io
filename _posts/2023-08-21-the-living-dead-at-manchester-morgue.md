@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4JeHft
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 "We can't even get the government to act on things with hard facts and data. Imagine getting anyone to do anything on a mere hypothesis."

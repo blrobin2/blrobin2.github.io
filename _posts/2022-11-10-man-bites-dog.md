@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/3pMu4n
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>Serial Mom</i> did it better

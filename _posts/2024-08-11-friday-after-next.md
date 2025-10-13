@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/74tElX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Less doo-doo, more rape humor and homophobia. No good jokes. What a waste.

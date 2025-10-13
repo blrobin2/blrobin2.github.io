@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/46Cs1j
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I went to Bruce-O-Rama with Bruce Campbell at Carolina Theater. There was a game show that Bruce hosted called Last Fan Standing before the movie, and it was entertaining, but the nerds in the audience were so vocally angry when someone onstage didn’t know their favorite IP

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5O07FZ
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Michael Landon does his best "James Dean" impersonation as a troubled teen with a problem with authority. He launches into uncontrolled bouts of violence at school and with friends.
@@ -19,12 +18,12 @@ Like many teensploitations, the film speaks to adult fears of juvenile delinquen
 <blockquote><i>The abolition of child labor and the lengthening span of formal education have given us a huge leisure class of the young, with animal energies never absorbed by tasks of production.</i></blockquote>
 This film, however, was the first to turn a teenager into a literal beast/monster.
 
-* Of London?
-* Don't eat any of the raw hamburger in the fridge — that's all the foreshadowing we can afford right now
-* The "Carnival of Souls" Boyfriend
-* So, no one has any memory or accumulated experience?
-* Here, try this. You'll kiss god
-* Well, that was the needle, the damage done. Why don't you schedule another appointment with the receptionist?
-* Werewolves are just as afraid of you as you are of them
-* Uh, sir, I think I saw a werewolf with a Chinese menu in his hand
-* Good thing we switched to standard-issue silver bullets
+- Of London?
+- Don't eat any of the raw hamburger in the fridge — that's all the foreshadowing we can afford right now
+- The "Carnival of Souls" Boyfriend
+- So, no one has any memory or accumulated experience?
+- Here, try this. You'll kiss god
+- Well, that was the needle, the damage done. Why don't you schedule another appointment with the receptionist?
+- Werewolves are just as afraid of you as you are of them
+- Uh, sir, I think I saw a werewolf with a Chinese menu in his hand
+- Good thing we switched to standard-issue silver bullets

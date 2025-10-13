@@ -6,12 +6,11 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/50jtQ9
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* An adventure from tomorrow for today's troubled teens
-* You ever dance with the devil in the pale moonlight?
-* This is the dark forbidden area, full of secrets and shame
-* Nice booger collection 
-* I'm not a traitor!
+- An adventure from tomorrow for today's troubled teens
+- You ever dance with the devil in the pale moonlight?
+- This is the dark forbidden area, full of secrets and shame
+- Nice booger collection
+- I'm not a traitor!

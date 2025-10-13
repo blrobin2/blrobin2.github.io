@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/9Ximgf
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Henry will buy any indistinguishable lump set in front of him.
-* Remember: grayer doesn't always equal better.
-* The world is your three pints of oysters.
+- Henry will buy any indistinguishable lump set in front of him.
+- Remember: grayer doesn't always equal better.
+- The world is your three pints of oysters.

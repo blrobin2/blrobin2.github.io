@@ -6,15 +6,14 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5X4blX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 1/32 | film from before 1966 1/6</a></b>
 
 <i>CW // Suicide, Misogyny, Animal Cruelty</i>
 
-A construction crew intends to blow up a castle and replace it with a nuclear plant. Before they can, a black horse-drawn carriage erupts from the gates.  The carriage holds a coffin — inside, the Baron Roderico.
+A construction crew intends to blow up a castle and replace it with a nuclear plant. Before they can, a black horse-drawn carriage erupts from the gates. The carriage holds a coffin — inside, the Baron Roderico.
 
 The carriage driver encloses the coffin in a shipping container at Frankfurt. The container will go to the Baron's last nephew in Italy, Count Osvaldo Lambertenghi. After ensuring the container's safety, the carriage driver jumps in front of a train and commits suicide.
 

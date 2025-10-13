@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4NKrMh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 David starts at a new school where bullies control everyone, and one of his best friends is in the bully group. He is initially content to assist others (particularly when the bullies corner and try to rape two girls), but when they crush his leg under a car and permanently cripple him, David escalates

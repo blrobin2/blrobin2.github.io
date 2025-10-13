@@ -6,7 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/bkuZY5
 mst3k: false
 rifftrax: true
-category: movie_review
+category: movie-review
 ---
 
 - From out of nowhere, the flying saucer mystery is with us, calling from Des Moines. Hello, flying saucer mystery. What's your question?

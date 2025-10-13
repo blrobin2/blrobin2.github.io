@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/59XrNt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A turn on the Faustian legend, where Roland, a mediocre painter with a dissatisfied girlfriend, buys a talisman that grants him any ability his heart desires. The seller sold it for half of what he bought it for, because it must be sold at a loss. He bought it for two pennies, and sells it for one.

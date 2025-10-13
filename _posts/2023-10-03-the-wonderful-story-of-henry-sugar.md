@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4W01zl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Needs more Richard Ayoade

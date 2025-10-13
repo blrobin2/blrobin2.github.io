@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/96bJh5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 39/52 | Genre: History</a></b>
@@ -18,7 +17,7 @@ category: movie_review
 Puyi arrives on a train as a political prisoner and war criminal in a crowd of other prisoners at Fushun Prison. Silently, they enter the main hall, where artists paint a mural depicting the Red Army's victory and the establishment of the PCR. A small group bows at Puyi, the former Emperor of China. Puyi steps away to the bathroom. A guard, noticing his absence, looks for him. In the bathroom, Puyi attempts suicide. The guard bangs at the door.
 
 <b>Peking 1908</b>
-A military escort enters the gates of the Forbidden City. The toddler Puyi clings to his mother. The Empress Dowager Cixi has summoned Puyi. His mother hands him off to his wet nurse, Ar Mo, who accompanies him to the Great Within. There, the Empress tells Puyi that the emperor has died, she is dying, and Puyi will be the next emperor. The impatient toddler tolerates his coronation, wishing to return home. "Not today," they tell him. 
+A military escort enters the gates of the Forbidden City. The toddler Puyi clings to his mother. The Empress Dowager Cixi has summoned Puyi. His mother hands him off to his wet nurse, Ar Mo, who accompanies him to the Great Within. There, the Empress tells Puyi that the emperor has died, she is dying, and Puyi will be the next emperor. The impatient toddler tolerates his coronation, wishing to return home. "Not today," they tell him.
 
 The film follows the story from these two points forward, giving us Puyi's life from infancy to imprisonment and political rehabilitation. It is about Puyi's slow decline from emperor to human being.
 

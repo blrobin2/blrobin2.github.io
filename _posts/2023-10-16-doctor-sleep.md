@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/509yAF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Danny and Wendy move to Florida after the events of <i>The Shining</i>. The spirit of Dick Hallorann shows up to Danny, showing him how to trap the evil spirits that want to consume his shine.
@@ -16,7 +15,7 @@ Years later, Danny is a drunk like his father, doing everything possible to dull
 
 A girl in New Hampshire named Abra feels Danny’s shine and the two communicate with one another.
 
-A group of psychic vampires called The True Knot build their numbers and seek children with the shine to torture and consume their pain. Abra experiences another child’s death, so she calls on Danny to help find these people. 
+A group of psychic vampires called The True Knot build their numbers and seek children with the shine to torture and consume their pain. Abra experiences another child’s death, so she calls on Danny to help find these people.
 
 When Rosie, the leader of The True Knot, detects Abra watching, they set their sights on the biggest source of shine they’ve consumed.
 
@@ -28,8 +27,7 @@ The reason <i>The Shining</i> movie works is that it throws away the parts of th
 
 This movie is a miniseries condensed into a bloated 2.5-hour movie. That’s what happens when you’re too married to the source material. This material was not worth it.
 
-
-<b>***SPOILERS***</b>
+<b>**_SPOILERS_**</b>
 
 The third act here is better than the <i>Doctor Sleep</i> book.
 

@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4eJBMf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 What is the color of lust? The color of sex with a stranger? The color of greed? The color of poison — the place you refuse to let your mind go?

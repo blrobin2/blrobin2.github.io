@@ -6,11 +6,10 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4mhTh1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-“Dad Rapes Daughter and Dies of Knife Wound,” reads the newspaper headline. Said daughter (Toni Lawrence, the director’s daughter) is put in a psych ward and given shock treatment, but when a nurse and doctor run off to fuck, she escapes 
+“Dad Rapes Daughter and Dies of Knife Wound,” reads the newspaper headline. Said daughter (Toni Lawrence, the director’s daughter) is put in a psych ward and given shock treatment, but when a nurse and doctor run off to fuck, she escapes
 
 An old farmer / former circus magician (Marc Lawrence, the director) steals bodies from the morgue to feed his pigs because that’s all they’ll eat after accidentally feeding them a person. “I don’t think it’s against the law to turn dead people into pigs,” says the sheriff
 

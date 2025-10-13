@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/61nqJz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 32/52 | Jesús Franco</a></b>
@@ -22,7 +21,7 @@ Jonathan Harker boards a train to Bistritz. He chats with a fellow on the train,
 
 From here, the story follows Bram Stoker's novel rather faithfully. The primary difference is that, in this movie, Dracula starts older and gets younger when he drinks blood.
 
-The mood is dreadful, almost to a cartoonish degree. You could convince me this is a parody if it weren't so slow. 
+The mood is dreadful, almost to a cartoonish degree. You could convince me this is a parody if it weren't so slow.
 
 The sets are gothic, albeit sparse in detail. The cobwebs are so intense that they seem to fall into food on the table — every nook and cranny has them.
 

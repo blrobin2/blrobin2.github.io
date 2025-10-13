@@ -6,12 +6,11 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/6wmiRn
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* Godspeed, stock footage
-* Great idea, put away your gun while looking for a missing child
-* — Another one — Don't you think you've had enough Coke Zero?
-* Aww, the suburban wants to help!
-* Let's rock and roll. Metaphorically speaking of course
+- Godspeed, stock footage
+- Great idea, put away your gun while looking for a missing child
+- — Another one — Don't you think you've had enough Coke Zero?
+- Aww, the suburban wants to help!
+- Let's rock and roll. Metaphorically speaking of course

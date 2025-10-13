@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4lN4TD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A nun receives brain surgery to remove a tumor — “cut away the evil,” as her mother says — and her life grows irreparably dark and painful — headaches, blackouts, and she can’t control her anger. Only heroin helps the pain, but she gets lost in a haze. Soon, murders happen all around her, and all the clues point to her

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/bfOCOL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 20/52 | Chinese Cinema: The Fifth Generation</a></b>

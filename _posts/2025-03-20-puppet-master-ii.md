@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9aMYeb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 10/52 | Full Moon Entertainment</a></b>
@@ -32,19 +31,19 @@ I like the puppet work and claymation! It's not high quality, but it's fun. Stev
 
 I wish the movie was just pulpy puppet nonsense, but it spends SO MUCH time watching people chat, and it adds nothing to the film.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Richard Band has three or four presets on his Casio that he loves, and he's not changing it for anyone.
-* Charlie Spradling
-* They find a vase no one broke thrown against the wall, and they don't seem to care.
-* "He can't handle alcohol—a trait he inherited from our father." I wonder if this will play into the plot. Nope!
-* Why is a candle burning in a box under the camera receiver?
-* The puppet autopsy
-* Martha's sadness over her broken doll was actually a pretty heartbreaking moment :(
-* Why would a French puppet maker fleeing Nazi Germany design one of his puppets after a Nazi stormtrooper?
-* I like Toulon's Invisible Man-esque attire.
-* So, Toulon's wife and some Egyptian guy manipulate him into using animating magic? To what end? I guess we'll have to wait for <i>Puppet Master III</i> to introduce another plot thread it won't tie up.
-* Oh my god, we are an hour in. I think you've done enough characterization, movie!
-* — "I feel like this guy can explain everything." — "I don't care. We have another half-hour to kill, so don't!"
-* Oh, Toulon without the wraps looks pretty gross!
-* Ooo, the uncanny animated life-size dolls are creepy!
+- Richard Band has three or four presets on his Casio that he loves, and he's not changing it for anyone.
+- Charlie Spradling
+- They find a vase no one broke thrown against the wall, and they don't seem to care.
+- "He can't handle alcohol—a trait he inherited from our father." I wonder if this will play into the plot. Nope!
+- Why is a candle burning in a box under the camera receiver?
+- The puppet autopsy
+- Martha's sadness over her broken doll was actually a pretty heartbreaking moment :(
+- Why would a French puppet maker fleeing Nazi Germany design one of his puppets after a Nazi stormtrooper?
+- I like Toulon's Invisible Man-esque attire.
+- So, Toulon's wife and some Egyptian guy manipulate him into using animating magic? To what end? I guess we'll have to wait for <i>Puppet Master III</i> to introduce another plot thread it won't tie up.
+- Oh my god, we are an hour in. I think you've done enough characterization, movie!
+- — "I feel like this guy can explain everything." — "I don't care. We have another half-hour to kill, so don't!"
+- Oh, Toulon without the wraps looks pretty gross!
+- Ooo, the uncanny animated life-size dolls are creepy!

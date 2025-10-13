@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8K1qmH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 21</a>

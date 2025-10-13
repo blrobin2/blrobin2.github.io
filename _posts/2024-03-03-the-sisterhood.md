@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5XKEw5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 3</a></b>
@@ -28,7 +27,6 @@ The music is cheesy, and the fight choreography is pretty awful. The camera leer
 
 The third act is where most of the budget is — it goes full <i>Fury Road</i> with wacky vehicles. military tanks, and explosions. It isn't as exciting as it sounds, but it's enough to get me to the finish line.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 
 If the Sisterhood follows a goddess who can free them at any time, why does the goddess wait until the last possible moment to show up?

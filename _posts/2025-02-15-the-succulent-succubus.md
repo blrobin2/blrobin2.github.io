@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8PK1uL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Momo was born under an unlucky star. Her mom ran off with another man. Her dad abandoned her at an orphanage. She's only dated losers. Now, she finds out she only has six months left to live.

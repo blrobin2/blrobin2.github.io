@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5Qf8uh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A pilot named Shoichi Tsukioka guides a fishing trawler to a school location. Another pilot, Koji Kobayashi, has engine trouble and has to land. Tsukioka goes to rescue him from Iwato Island.

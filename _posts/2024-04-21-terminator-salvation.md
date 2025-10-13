@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6jqoRT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>2003</b>
@@ -34,6 +33,6 @@ The most compelling idea is that Skynet weaponized Marcus without his knowledge.
 
 Also, since Marcus is a former convict, it looks at how he wants redemption in a system that won't give him the opportunity. The film has too many competing interests, so it underserved the theme.
 
-Anton Yelchin says, "Come with me if you want to live," because I guess someone has to say it at least once every Terminator movie. 
+Anton Yelchin says, "Come with me if you want to live," because I guess someone has to say it at least once every Terminator movie.
 
 This movie is so dull.

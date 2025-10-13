@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5fuJG7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Second-wave feminism strikes again — a message of redefining womanhood undermined by gender essentialist rhetoric

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/1oo82L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I liked a lot about this movie, I just think it confused “messy” with “ambiguous”

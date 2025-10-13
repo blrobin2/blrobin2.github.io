@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5aNE7f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Paul Hunham (Paul Giamatti) is a stiff-necked history teacher at a private school for rich idiots. He holds no leeway for his students. So, when he's put in charge of the kids with nowhere to go for the holiday break — the titular holdovers — he brings with him his ironclad rulings.

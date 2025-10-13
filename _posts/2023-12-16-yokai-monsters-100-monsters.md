@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5kEzTP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>There are strange things in this world that are beyond our understanding </i></blockquote>

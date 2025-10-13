@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/64Sb8R
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 17/32 | Makeup: Lon Chaney</a></b>

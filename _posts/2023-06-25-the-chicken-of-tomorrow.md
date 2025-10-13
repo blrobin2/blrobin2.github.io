@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4qbSxh
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 lick your eggs, or have a friend lick them!

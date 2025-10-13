@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4LWY8P
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— People disappear every day
@@ -26,5 +25,6 @@ Antonioni's style translates brilliantly in some ways and disappointingly in oth
 Still, this is a satisfying blend of arthouse sensibilities and mainstream storytelling
 
 <b>Stray Thoughts</b>
-* The scene with him on the gondola, his arms outstretched through the window, flying over the water — the mistaken sense that his change has granted him freedom
-* The single-take final shot is top-tier
+
+- The scene with him on the gondola, his arms outstretched through the window, flying over the water — the mistaken sense that his change has granted him freedom
+- The single-take final shot is top-tier

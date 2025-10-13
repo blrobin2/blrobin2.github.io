@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/70dE0R
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 31/31 | Tobe Hooper</a></b>

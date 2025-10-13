@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8VSuiT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 9/52 | Horror Hotel</a></b>
@@ -20,7 +19,7 @@ One day, the police come to Helga's door to inform her that Luke's parents were 
 
 For Luke's ninth birthday, Helga gives him some mice, which Luke names William and Mary. But Helga falls ill, and her doctor suggests rest and a summer by the sea. So they pack up and head to Hotel Excelsior in Bournemouth. Little do they know that the hotel is also hosting the Royal Society for the Prevention of Cruelty to Children, a covert convention for witches. And who else is attending but The Grand High Witch herself?
 
-What do these witches have in store? Will Luke and Helga be able to stop them? 
+What do these witches have in store? Will Luke and Helga be able to stop them?
 
 Based on the Roald Dahl book of the same name, this was the last film based on Dahl's material before his death. Dahl was vocally incensed about the movie, specifically how it changed the original ending—I'll avoid more details and spoilers.
 

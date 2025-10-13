@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3XWrMd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 It’s nice to watch the back and forth between Chantal Akermann and Delphine Seyrig, especially when Seyrig challenges a direction by asking for a reason why her character would do it — digging for the secrets that makes her tick. It becomes clearer that it was their collaboration that really made this movie something special

@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/69gDJF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Hooptober 6.0 | 27/32 | Dee Wallace | Countries 5/6 | New Zealand</a></b>

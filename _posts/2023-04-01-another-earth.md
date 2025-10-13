@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/43zJtB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A woman accidentally kills a family in a car crash while trying to look at a planet ostensibly identical to ours in the sky called Earth 2. When she gets out of prison, she learns that the father was just in a coma and woke up
@@ -23,7 +22,8 @@ Like Elon Musk trying to get to Mars, a rich guy is trying to get to this other 
 With a different director, budget, and other actors… this could’ve been something spectacular. What we get instead is pretty good, though. It makes some late movie choices that take this down a couple of pegs for me, but they don’t ruin the movie
 
 Stray Thoughts
-* The dad is Ethan from Lost!
-* Some fantastic shots with the second earth and the moon in the background. They feel out of place in the digital blue handheld cinematography of the rest of the movie
-* I see the Asimov novels on the desk. I get it movie
-* Of course, they fall in love. Of course, these actors have zero chemistry
+
+- The dad is Ethan from Lost!
+- Some fantastic shots with the second earth and the moon in the background. They feel out of place in the digital blue handheld cinematography of the rest of the movie
+- I see the Asimov novels on the desk. I get it movie
+- Of course, they fall in love. Of course, these actors have zero chemistry

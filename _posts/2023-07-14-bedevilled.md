@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4vMUoF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Hae-won (Ji Sung-won) is a bank teller forced on vacation after assaulting a coworker. She decides to vacation in Mudo, a Southern island where she grew up. There, her childhood friend Bok-nam (Seo Young-hee) welcomes her after years of ignored letters and messages, and Hae-won sees the terrible life Bok-nam has been forced to live

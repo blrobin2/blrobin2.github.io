@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/bkcvW3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 41/52 | 50s Horror</a></b>
@@ -18,7 +17,7 @@ Later, Bruce, a friend of Jarrod, brings Wallace, and Jarrod gives them a tour o
 
 Burke tells his fiancée, Cathy, about the incident, painting it as a tragic accident. No one found Jarrod after the fire, but Burke received the insurance money. Burke returns to his office to grab some of the cash when a man, dressed in black and with a scarred face, emerges and strangles Burke to death. When the coast is clear, the man ties a rope around Burke's neck and tosses him down the elevator shaft so that it appears like Burke committed suicide. The attacks continue when the scarred man murders Cathy, but Cathy's friend, Sue, walks in on the man arranging the scene and runs for her life to a friend's house.
 
-The murderer steals Cathy's body from the morgue with the aid of two other shadowy figures. Sidney Wallace receives a letter from Jarrod, who is not only alive but, with the help of two assistants, is opening a new exhibition that caters to people's more macabre tastes. 
+The murderer steals Cathy's body from the morgue with the aid of two other shadowy figures. Sidney Wallace receives a letter from Jarrod, who is not only alive but, with the help of two assistants, is opening a new exhibition that caters to people's more macabre tastes.
 
 <blockquote><i>— It's a portrait in wax.
 — Why should it seem so real?</i></blockquote>
@@ -29,11 +28,12 @@ Throughout the film, we see the morbidity of everyday people. Cathy is nonplusse
 
 The fight and fire scene in the opening is so harrowing! Watching the wax figures melt is pretty nightmarish! It reminds me of the face-melting scene from <i>Raiders of the Lost Ark</i>. There's a moment where Burke throws a sword at Jarrod, and the sword hits the camera! The actors are throwing each other into burning set pieces, tumbling about — it looks dangerous, frankly. But the result is wonderfully tense.
 
-<b>*** Actor Talk ***</b>
-* Carolyn Jones, who plays Cathy, talks like Harley Quinn. The actress played Morticia Addams on the Addams Family TV show!
-* This film turned Vincent Price's career around. Before this, he played bit parts. This movie made him highly sought after for horror roles. 
-* Young Charles Bronson plays Igor! He looks carved out of butter.
+<b>**_ Actor Talk _**</b>
+
+- Carolyn Jones, who plays Cathy, talks like Harley Quinn. The actress played Morticia Addams on the Addams Family TV show!
+- This film turned Vincent Price's career around. Before this, he played bit parts. This movie made him highly sought after for horror roles.
+- Young Charles Bronson plays Igor! He looks carved out of butter.
 
 I love how, regardless of gender, folks are trying to get peeks at the wax figures' private parts.
 
-If you've seen movies, this won't surprise you, but it's so well done that it's a joy to watch it all unfold. 
+If you've seen movies, this won't surprise you, but it's so well done that it's a joy to watch it all unfold.

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6mp47V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 (Retroactive) | 1/52 | Year I Was Born (1988)</a></b>
@@ -28,10 +27,10 @@ The emotional beats are earnest and feel genuine — most of the characterizatio
 
 Overall, I liked it — I didn't find that connection that could excite me, but I was engaged for most of it.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* They dub a movie where the priest gives the bride a condom just to be safe
-* Thank you for smoking sign in the mamba cab
-* Mother of the killer role, then a laundry commercial based on that character 
-* Woman dancing naked in the window
-* Ivan's first wife is villainous because she went to a mental hospital or something??
+- They dub a movie where the priest gives the bride a condom just to be safe
+- Thank you for smoking sign in the mamba cab
+- Mother of the killer role, then a laundry commercial based on that character
+- Woman dancing naked in the window
+- Ivan's first wife is villainous because she went to a mental hospital or something??

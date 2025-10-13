@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8QIjeL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The most labored musical! Every scene drags and drags with painful attempts at banter—superb costumes, stunning sets, but awful songs.

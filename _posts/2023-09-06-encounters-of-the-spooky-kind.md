@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4O2YEB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Written, directed by, and starring Sammo Hung, one of the foremost Hong Kong directors and choreographers who helped reinvent the martial arts film into the breakneck joyride we know today

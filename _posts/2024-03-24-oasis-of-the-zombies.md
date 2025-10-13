@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/67oQBn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access">Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access</a></b>
