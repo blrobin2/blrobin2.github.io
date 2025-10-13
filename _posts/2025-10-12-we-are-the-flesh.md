@@ -2,7 +2,7 @@
 layout: review
 title: "We Are the Flesh (2016)"
 excerpt: "My review of We Are the Flesh (2016)"
-rating: "2.5"
+rating: "2.0"
 letterboxd_url: https://boxd.it/blWNKv
 category: movie_review
 ---
