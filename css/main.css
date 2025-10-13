@@ -272,6 +272,11 @@ blockquote {
   text-align: left;
 }
 
+.rating-header .title {
+  display: inline-block;
+  max-width: 85%;
+}
+
 .rating {
   display: inline-block;
   position: absolute;
