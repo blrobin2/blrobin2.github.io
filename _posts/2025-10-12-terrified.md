@@ -22,3 +22,7 @@ Yep, it's a loose setup for gory kills. Art isn't getting revenge, isn't some re
 I understand that I should see this as an homage to 80s slashers, but most 80s slashers had some character development, hell, even a plot or two. Heck, part of the appeal of the slasher is the creative kill. This movie is a demo reel of effects, more concerned with rendering realistic torture and murder than any creative endeavor. The result is a movie that loses all tension in the pursuit of nausea.
 
 The movie's one mercy is that the gore is cheap. Also, why does it feel so long?
+
+<hr>
+
+[See Review on Letterboxd](https://boxd.it/blSfSd)
