@@ -9,7 +9,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="nonopener">Hooptober XII | 15/31 | Decades 7/9 | 1940s | Popular from 1940s</a></b>
 
-Despite the movie being called The Ghost of Frankenstein, the villagers gather in the town hall to complain about The Curse of Frankenstein. The Mayor reminds the townspeople that Baron Wolf von Frankenstein, son of TV's Frankenstein, threw the Monster into the sulfur pit and riddled Ygor with bullets. But the kindly residents are sure they have heard Ygor playing his weird instrument to lure the Monster "back from death to do his evil bidding." So melodramatic! So, these fearful peasants beseech the Mayor that they may blow up Frankenstein's castle. Resigned, the Mayor grants their wish.
+Despite the movie being called <i>The Ghost of Frankenstein</i>, the villagers gather in the town hall to complain about The Curse of Frankenstein. The Mayor reminds the townspeople that Baron Wolf von Frankenstein, son of TV's Frankenstein, threw the Monster into the sulfur pit and riddled Ygor with bullets. But the kindly residents are sure they have heard Ygor playing his weird instrument to lure the Monster "back from death to do his evil bidding." So melodramatic! So, these fearful peasants beseech the Mayor that they may blow up Frankenstein's castle. Resigned, the Mayor grants their wish.
 
 Ygor, from atop Frankenstein's castle, witnesses the town mob's arrival, explosives in tow. Ygor attempts to stave them off with debris, but the mob still lights the explosives. Ygor descends into the castle to the sulfur pit, dried up. An explosion breaks apart the hardened sulfur, and the Monster sits, preserved and alive. The two manage to escape before the mob finishes off the castle.
 
