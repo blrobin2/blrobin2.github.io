@@ -21,12 +21,12 @@ Stiffling, stilted, and formulaic, this movie does so little with the Frankenste
 
 That said, if you like the routine, then you'll enjoy this. And I have to say, despite seeing thicker seams than anything on the Monster's body, this one still has its charms.
 
-For one, the sets are gorgeous.
-Also, the cast is doing their damnedest. We're still in Bela Lugosi's better era, and Lon Chaney Jr.'s worst acting instincts are hidden behind prosthetics. And Lionel Atwill is always such a good asshole.
-It's also such a gorgeous remaster. The tone of the monochrome is perfect, and the lighting so elegantly captures such a broad range of tones.
-To top it all off, it's barely over 60 minutes. We stan a perfect-length classic horror.
+- For one, the sets are gorgeous.
+- Also, the cast is doing their damnedest. We're still in Bela Lugosi's better era, and Lon Chaney Jr.'s worst acting instincts are hidden behind prosthetics. And Lionel Atwill is always such a good asshole.
+- It's also such a gorgeous remaster. The tone of the monochrome is perfect, and the lighting so elegantly captures such a broad range of tones.
+- To top it all off, it's barely over 60 minutes. We stan a perfect-length classic horror.
 
 #### Stray Thoughts
 
-I love that they use the old school silhouette around a letter to help the audience read it. It also provides a convenient screen to project scenes from the previous three movies, helping anyone beligerent enough to skip them catch up.
-The scene where the police officer and Erik keep calling Ludwig's bluff and finding secret dungeons after secret passages within seconds is hysterical.
+- I love that they use the old school silhouette around a letter to help the audience read it. It also provides a convenient screen to project scenes from the previous three movies, helping anyone beligerent enough to skip them catch up.
+- The scene where the police officer and Erik keep calling Ludwig's bluff and finding secret dungeons after secret passages within seconds is hysterical.
