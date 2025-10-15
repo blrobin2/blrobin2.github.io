@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4lHEMh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “Ever feel like reality is more twisted than dreams?”

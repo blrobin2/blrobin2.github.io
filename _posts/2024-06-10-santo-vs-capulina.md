@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/6E2GJJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 24/52 | Lucha Libre</a></b>
@@ -24,6 +23,6 @@ These fight scenes are rough — no choreography and they feel endless.
 
 The soundtrack is so aggressively kitschy that it's grating. The score has one theme and plays it over and over.
 
-Santo taking off his mask and having another mask on is pretty funny 
+Santo taking off his mask and having another mask on is pretty funny
 
 It's not a total train wreck, but it's still a rough watch.

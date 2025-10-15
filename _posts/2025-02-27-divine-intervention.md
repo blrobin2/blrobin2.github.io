@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8XHZAb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 7/52 | Top 100 Arab Films</a></b>

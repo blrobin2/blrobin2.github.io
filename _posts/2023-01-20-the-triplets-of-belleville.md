@@ -4,10 +4,9 @@ title: "The Triplets of Belleville (2003)"
 excerpt: "My review of The Triplets of Belleville (2003)"
 rating: "3.5"
 letterboxd_url: https://boxd.it/3JsU0r
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 The exaggerated animation style stressed me out initially but I grew accustomed by about 1/2 way. Also the subtitles were not helpful, just [Sings in French] or the occasional sound effect

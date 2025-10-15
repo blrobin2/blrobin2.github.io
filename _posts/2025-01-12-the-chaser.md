@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8qAuJP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 18/35 | Countries 3/5 | South Korea</a></b>
@@ -20,6 +19,6 @@ While fumbling around in the car, Joong-ho finds one of the missing girls' phone
 
 Like <i>Memories of Murder</i>, the film deals with police incompetence. In some ways, it's incompetence all around. No one is good at what they're doing, and they pay for their endless mistakes. This movie would end in 30 minutes if people didn't make so many logical leaps.
 
-The filmmaking complements this incompetence, letting the camera roll throughout the struggle. The resulting tension is more effective (and frustrating) than your traditional crime thriller. The closest comparison would be <i>The Nice Guys</i> or a Coen Brothers movie. But way bleaker. 
+The filmmaking complements this incompetence, letting the camera roll throughout the struggle. The resulting tension is more effective (and frustrating) than your traditional crime thriller. The closest comparison would be <i>The Nice Guys</i> or a Coen Brothers movie. But way bleaker.
 
 I've watched a fair number of South Korean crime thrillers — this one stands out by playing deftly with genre conventions without straying too far from what makes them compelling.

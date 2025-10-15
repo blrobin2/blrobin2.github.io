@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/9oll3P
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 27/52 | Neo-Exploitation</a></b>

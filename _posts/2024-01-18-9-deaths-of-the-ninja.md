@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5CvCEx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail#item-3706935415">Cult Movie Challenge 2024 | 3/52 | Crown International Pictures</a></b>
@@ -27,6 +26,7 @@ The US military sends in our team to save the day.
 The film is supposedly a parody of spy films. It certainly refers to them. I suspect it isn’t a “parody” — it’s just a silly film.
 
 Spike goes to hire a sex worker:
+
 <blockquote><i>— I want a clean girl. No clap.
 — Are you kidding? My girls are sterilized, sanitized, and lobotomized.</i></blockquote>
 That’s the movie’s sense of humor.
@@ -35,11 +35,12 @@ I’m not a big James Bond fan, so watching a movie meant to target that market 
 
 I’m not hating on anyone who likes this — this just isn’t for me.
 
-<b>*** Thoughts / Spoilers ***</b>
-* There’s a reason that MST3K pulled so many movies from Crown International Pictures.
-* We get a training montage of Spike beheading some dummies.
-* One villain is a lesbian, trying to get a hostage on the bus to switch sides.
-* I guess Steve is the ladies’ man in that he lies about being rich to hook up with Filipino women
-* I know Sho Kosugi is beloved for his roles in <i>Enter the Ninja</i> and whatnot, but I’ve only seen him in stinkers thus far :(
-* Spike having lollipops with the kids at the end is cute
-* "Take Me High" is a banger
+<b>**_ Thoughts / Spoilers _**</b>
+
+- There’s a reason that MST3K pulled so many movies from Crown International Pictures.
+- We get a training montage of Spike beheading some dummies.
+- One villain is a lesbian, trying to get a hostage on the bus to switch sides.
+- I guess Steve is the ladies’ man in that he lies about being rich to hook up with Filipino women
+- I know Sho Kosugi is beloved for his roles in <i>Enter the Ninja</i> and whatnot, but I’ve only seen him in stinkers thus far :(
+- Spike having lollipops with the kids at the end is cute
+- "Take Me High" is a banger

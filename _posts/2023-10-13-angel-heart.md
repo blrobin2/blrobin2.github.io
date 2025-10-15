@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4Z9ZIn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 15/34 | Devil-Centered 2/3</a>
@@ -29,14 +28,14 @@ This is one of those films with a twist that I don’t think hurts knowing ahead
 
 The film is a blast! Check it out.
 
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 
-* It’s wild that this story is about someone who changed their face to hide from Satan. Didn’t Mickey Rourke do that?
+- It’s wild that this story is about someone who changed their face to hide from Satan. Didn’t Mickey Rourke do that?
 
-* Christopher Nolan said that this and <i>The Wall</i> were substantial influences on <i>Memento</i>. I can’t speak for <i>The Wall</i>, but Guy Pierce wears a suit nearly identical to Mickey Rourke’s in this. Also, you know, dude with memory loss who doesn’t realize he’s the villain.
+- Christopher Nolan said that this and <i>The Wall</i> were substantial influences on <i>Memento</i>. I can’t speak for <i>The Wall</i>, but Guy Pierce wears a suit nearly identical to Mickey Rourke’s in this. Also, you know, dude with memory loss who doesn’t realize he’s the villain.
 
-* I know why De Niro’s nails were long (he’s Lucifer, duh), but that doesn’t mean they didn’t make me uncomfortable.
+- I know why De Niro’s nails were long (he’s Lucifer, duh), but that doesn’t mean they didn’t make me uncomfortable.
 
-* I wanted chickens to play into the ending somehow, but maybe it’s better than they don’t.
+- I wanted chickens to play into the ending somehow, but maybe it’s better than they don’t.
 
-* Very <i>Oldboy</i>, making him have sex with his daughter.
+- Very <i>Oldboy</i>, making him have sex with his daughter.

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5FTzOp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Hooptober 8.0 | 23/34 | Hammer films 1/2

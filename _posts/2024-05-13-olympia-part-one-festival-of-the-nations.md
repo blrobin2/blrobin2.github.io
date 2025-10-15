@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6sApNT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 20/52 | 100 Years of Olympic Films</a></b>
@@ -20,7 +19,7 @@ In the Aryan myth, this is their heritage — the ideal they wish to return to.
 
 A solitary figure carries a torch through fields and beaches, along mountainsides, and into a town. As he passes the torch onto the next, townspeople line the street. We fly across the world, the flags of participating countries fluttering as we pass their homeland.
 
-As we enter Germany, the Nazi flag overwhelms the screen. A bell with the Nazi eagle perched on the Olympic rings tolls. Swaths of the crowd heil Hitler. 
+As we enter Germany, the Nazi flag overwhelms the screen. A bell with the Nazi eagle perched on the Olympic rings tolls. Swaths of the crowd heil Hitler.
 
 As other countries make their entrance, some smile nonchalantly — others gaze in fascination at the heiling crowd and Hitler. The other countries of the Third Reich also heil the crowd. Hitler declares the opening of the ceremonies.
 

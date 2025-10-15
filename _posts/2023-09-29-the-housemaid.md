@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4UzZu3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 1/34 | Countries 1/6 | Vietnam</b>
@@ -28,7 +27,7 @@ It is then that the ghost of the mistress returns to exact her revenge
 
 The house itself is gothic and full of shadows, especially when Linh walks the halls at night by oil lamp
 
-The music and sound are over-the-top, never letting a single moment go unscored or pushing jump scare sounds even if you don't see anything 
+The music and sound are over-the-top, never letting a single moment go unscored or pushing jump scare sounds even if you don't see anything
 
 Taking place near the end of the First Indochinese War, the film encouraged me to read more about French Indochina and how the Geneva Agreements that granted sovereignty to Vietnam from France also led to the Vietnam War
 

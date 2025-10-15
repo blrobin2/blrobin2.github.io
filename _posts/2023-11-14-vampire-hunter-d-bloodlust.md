@@ -6,15 +6,14 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/59PNu3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 14/34 | Animated Films 2/2</b>
 
 This sequel has little connection to the original, except for the main character. The first provides additional backstory, but it isn't necessary to understand the movie.
 
-While this movie still features elements of the original Gothic style in certain aspects, it is not as dominant throughout. 
+While this movie still features elements of the original Gothic style in certain aspects, it is not as dominant throughout.
 
 This movie has more of a Western, post-apocalyptic vibe.
 

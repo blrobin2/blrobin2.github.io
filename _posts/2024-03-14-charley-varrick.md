@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/62P2Qh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 11/52 | Composer: Lalo Schifrin</a></b>
@@ -16,7 +15,7 @@ category: movie_review
 
 The sun rises in a rural town in New Mexico. A yellow Continental pulls up in front of West Fidelity Bank. Two children swing on a swing set in front of the brick building. An older man, Charley, steps out of the passenger seat. He has a cheque in his hand. His foot is in a cast with a metal heel to support it. The driver, Nadine, waits in the car.
 
-A police officer notices the Colorado plate on the yellow Continental. He's sure he's seen that plate number on a hot sheet. 
+A police officer notices the Colorado plate on the yellow Continental. He's sure he's seen that plate number on a hot sheet.
 
 The teller must get the manager's approval before cashing it.
 
@@ -41,7 +40,7 @@ Everyone's got money on their mind, and no one is above suspicion.
 
 Charley Varrick is intelligent — slow to act, quick to reason. He'll get you through unless you get in his way. Walter Matthau's naturalism is perfect for this type of role. Well, until they expect him to play sexy — his sense of humor should be enough.
 
-This movie is a clockwork crime story — it ebbs and flows with such a logical progression. The film reveals details at the right time to keep the audience engaged. 
+This movie is a clockwork crime story — it ebbs and flows with such a logical progression. The film reveals details at the right time to keep the audience engaged.
 
 The stunts are stellar and economically use space to set up concrete obstacles. We get a little crop duster action, too.
 

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5BFvMl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 9/52 | CAT III</a></b>
@@ -24,27 +23,27 @@ I've wanted to watch this for years, as Stuart Wellington of <i>The Flop House</
 
 The film is brutally violent but also bizarrely comical. Everyone is getting hurt or killed in ridiculous ways.
 
-Fan Siu-Wong, who plays Ricky, is obscenely muscular and handsome. His shirt is off a whole bunch 
+Fan Siu-Wong, who plays Ricky, is obscenely muscular and handsome. His shirt is off a whole bunch
 
 I lost interest in some of the slower parts. Every moment that isn't outrageous violence isn't that interesting.
 
 Still, this movie is a landmark in live-action manga adaptation and a wild time. Watch with friends!
 
+<b>**_ Thoughts / Spoilers _**</b>
 
-<b>*** Thoughts / Spoilers ***</b>
-* Wood plane against the face — brutal 
-* Punching into a stomach and piercing a hole
-* Uncle Nice Ghost
-* The assistant warden has so many porno tapes
-* Ricky ties off the severed tendons in his arm so he can punch
-* Roaring Sea commits seppuku, rips his intestines out, and chokes Ricky with them.
-* The warden offers Ricky a spot in the Gang of Four after he kills Roaring Sea
-* The warden takes assorted candy as pills
-* He kicked that dog in half :(
-* A rebar cage, razors in the mouth, this is a fucking nightmare
-* The warden gingerly pulled razors out of his face with his pocket hanky
-* Punch the top of a guy's head off
-* Ricky's gotta punch through one SWAT for them to give up
-* Wait, why did the assistant warden explode? I guess it's whatever the warden is shooting at them
-* The warden taking a second form was unexpected
-* Punching down the walls of the prison — fucking iconic
+- Wood plane against the face — brutal
+- Punching into a stomach and piercing a hole
+- Uncle Nice Ghost
+- The assistant warden has so many porno tapes
+- Ricky ties off the severed tendons in his arm so he can punch
+- Roaring Sea commits seppuku, rips his intestines out, and chokes Ricky with them.
+- The warden offers Ricky a spot in the Gang of Four after he kills Roaring Sea
+- The warden takes assorted candy as pills
+- He kicked that dog in half :(
+- A rebar cage, razors in the mouth, this is a fucking nightmare
+- The warden gingerly pulled razors out of his face with his pocket hanky
+- Punch the top of a guy's head off
+- Ricky's gotta punch through one SWAT for them to give up
+- Wait, why did the assistant warden explode? I guess it's whatever the warden is shooting at them
+- The warden taking a second form was unexpected
+- Punching down the walls of the prison — fucking iconic

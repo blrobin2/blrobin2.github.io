@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6hcNkz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 16/52 | Karen Black">Cult Movie Challenge 2024 | 16/52 | Karen Black</a></b>
@@ -28,15 +27,15 @@ The movie feels like the missing link between <i>Texas Chainsaw Massacre II</i> 
 
 It's not a great movie, and it's honestly not that fun for the first hour, but it gets sufficiently weird and goofy to get me through
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Stretched skin artwork
-* Decapitation pantry 
-* Every door whooshes so ominously 
-* "I'm not the kind of guy you wanna push around — I'm from New York."
-* A lot of yelling at tires in this movie. Michael Berryman has an extended sequence of yelling at a spare tire.
-* The Baby character amps up the weird
-* "🎵Men are superior. Women are inferior. Come on, baby, I ain't no square. Look at me, I got really long hair."
-* Blacklight Stonehenge bedroom
-* "Sweet death, the final act of eroticism."
-* Poor Pat Morita :(
+- Stretched skin artwork
+- Decapitation pantry
+- Every door whooshes so ominously
+- "I'm not the kind of guy you wanna push around — I'm from New York."
+- A lot of yelling at tires in this movie. Michael Berryman has an extended sequence of yelling at a spare tire.
+- The Baby character amps up the weird
+- "🎵Men are superior. Women are inferior. Come on, baby, I ain't no square. Look at me, I got really long hair."
+- Blacklight Stonehenge bedroom
+- "Sweet death, the final act of eroticism."
+- Poor Pat Morita :(

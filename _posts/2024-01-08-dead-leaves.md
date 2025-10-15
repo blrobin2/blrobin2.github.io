@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5x9Xcv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 1/52 | Anime</a></b>

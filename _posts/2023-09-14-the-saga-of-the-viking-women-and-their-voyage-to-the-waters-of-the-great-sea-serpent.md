@@ -6,14 +6,13 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/4QmDkN
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* well, she's not coming in my car
-* oh no, it's the rinse cycle!
-* waffles
-* he was with the Donner party... the Richard Donner party! They threw a party for the Lethal Weapon cast
-* but for Fran Tarkington and the Minnesota Vikings, they would live to see another day
-* i love my dead gay son!
-* well son, you've got a hot chick waiting for you in the afterlife
+- well, she's not coming in my car
+- oh no, it's the rinse cycle!
+- waffles
+- he was with the Donner party... the Richard Donner party! They threw a party for the Lethal Weapon cast
+- but for Fran Tarkington and the Minnesota Vikings, they would live to see another day
+- i love my dead gay son!
+- well son, you've got a hot chick waiting for you in the afterlife

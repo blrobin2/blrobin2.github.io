@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/aXrcMh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 36/52 | Zombies</a></b>

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/423Nmr
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The shape of things to come is spaceship

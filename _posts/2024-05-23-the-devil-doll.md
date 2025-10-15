@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6wzDH5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 22/31 | Tod Browning</a></b>
@@ -17,7 +16,7 @@ A spotlight shines out from a prison tower on Devil's Island. A guard stands by 
 <blockquote><i>— You have only hatred in your heart. My work will help the world to live.
 — And my work will help three men die.</i></blockquote>
 
-Malita works in a lab on the outskirts of French Guiana when her dog, Briggs, barks a warning. The other dogs join in outside. They run to the door to find Malita's husband, Marcel, and Paul in a boat. When they go inside, Paul reveals how ill Marcel has been. 
+Malita works in a lab on the outskirts of French Guiana when her dog, Briggs, barks a warning. The other dogs join in outside. They run to the door to find Malita's husband, Marcel, and Paul in a boat. When they go inside, Paul reveals how ill Marcel has been.
 
 Marcel and Malita show Paul what he thinks are toy dogs, but are dogs reduced to 1/6th their original size. Marcel aims to reduce everyone to 1/6th their size and lower their demand on the Earth's limited resources.
 

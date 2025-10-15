@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8vCQyj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>It was just as though she were a possession of his. Like, she was a space that wasn't being occupied, so he absorbed her. And after he absorbed her, he became like her.</i></blockquote>

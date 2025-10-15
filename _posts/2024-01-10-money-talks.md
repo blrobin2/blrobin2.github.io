@@ -6,12 +6,11 @@ rating: ""
 letterboxd_url: https://boxd.it/5yjBE7
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* Money is fun!
-* Just reach for the gun...
-* I'm sorry, Bill, I'll have to break your legs
-* But it was too late. Bill filed Chapter 11
-* Thank you Mr. Franklin for making us laugh about love again
+- Money is fun!
+- Just reach for the gun...
+- I'm sorry, Bill, I'll have to break your legs
+- But it was too late. Bill filed Chapter 11
+- Thank you Mr. Franklin for making us laugh about love again

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/1k5Vz1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Before there was John Hughes, there was Martha Coolidge

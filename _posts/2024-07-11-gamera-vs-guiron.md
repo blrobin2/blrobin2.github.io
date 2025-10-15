@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6QO4mr
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Joel's cut his long hair! He's looking like the Joel I know (aka slightly less of a massive pothead).
@@ -16,7 +15,7 @@ This is the final Gamera episode of the KTMA era. Dr. Forrester suggests that Jo
 
 This movie has the worst dubbing I've ever seen. It's so scattered. But the spaceship effects rule, especially with the VHS scanlines and color distortions.
 
-* Kid's say the darnedest things. Did you know that?
-* — How can I make mom understand? — Psst, the telescope, over there
-* Wake up, or I'm dying
-* People from the future are so smug. Did you know that?
+- Kid's say the darnedest things. Did you know that?
+- — How can I make mom understand? — Psst, the telescope, over there
+- Wake up, or I'm dying
+- People from the future are so smug. Did you know that?

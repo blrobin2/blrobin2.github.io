@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4DUJcr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>That's the point; the guy I dreamed up doesn't exist. And if he doesn't exist, I'll never die of a broken heart</i></blockquote>Sisters are witches whose bloodline is cursed such that if they fall in love, the person with whom they fall in love will die
@@ -21,8 +20,9 @@ That said, this movie gets a surprising amount of mileage from Sandra Bullock an
 A perfect lazy weekend, "put something on while doing chore" kind of movie
 
 <b>stray thoughts</b>
-* 90s movie soundtracks are so saccharine
-* the use of "this kiss" works for me, and it shouldn't
-* the driving sequence to "a case of You" is so surreal — the way daylight shifts through the scene
-* The dude says "my wife," like Borat
-* don't fall in love with a cop! come on
+
+- 90s movie soundtracks are so saccharine
+- the use of "this kiss" works for me, and it shouldn't
+- the driving sequence to "a case of You" is so surreal — the way daylight shifts through the scene
+- The dude says "my wife," like Borat
+- don't fall in love with a cop! come on

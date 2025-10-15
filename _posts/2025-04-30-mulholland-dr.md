@@ -6,18 +6,16 @@ rating: ""
 letterboxd_url: https://boxd.it/9ywxxz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>You look like someone else...</i></blockquote>The significant differences between the pilot and the final movie, aside from the second half, are that scenes in the pilot tend to be longer and include more contextual information. The film used alternate takes in places that allowed scenes to end more quickly. The one noteworthy exception is the audition scene, which cuts out the introductions.
 
-
 <b>Other differences I noticed (no spoilers for the pilot or movie, I promise):</b>
-* The headshot of Camilla Rhodes is different: same actress, but the facial similarities to Betty aren't as immediately apparent.
-* Scott Coffey has an actual role as a friend who gives Justin Theroux a place to stay in the long term. 
-* We get a little more Robert Forster and Brent Briscoe trying to solve the mystery of the missing person from the car crash, and they follow a lead to Palmdale.
 
+- The headshot of Camilla Rhodes is different: same actress, but the facial similarities to Betty aren't as immediately apparent.
+- Scott Coffey has an actual role as a friend who gives Justin Theroux a place to stay in the long term.
+- We get a little more Robert Forster and Brent Briscoe trying to solve the mystery of the missing person from the car crash, and they follow a lead to Palmdale.
 
 One thing I noticed last night while watching the movie is that Rita's wig changes dramatically between when we first see it and when we see it later. I assumed it was because one was from pilot footage and one was from the movie, and the pilot suggests that, too.
 

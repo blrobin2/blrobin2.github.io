@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/39soCT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The only movie I can recall saying “cool lens flare” to

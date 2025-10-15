@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5HUxoJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 No, don't fight :(

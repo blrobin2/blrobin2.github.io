@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5kP72l
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023">Criterion Challenge 2023</a> | 45/52 | 1960s</b><blockquote><i>This film is not the story of a poet's life. Instead, the filmmaker has attempted to recreate the world of a poet — the modulation of his soul, his passions, and his torments — broadly utilizing the symbolism and allegories of medieval Armenian troubadours.</i></blockquote>

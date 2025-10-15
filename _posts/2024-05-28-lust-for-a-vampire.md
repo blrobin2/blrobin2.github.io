@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6yQI37
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 27/31 | people eating people (non-zombie) 3/3</a></b>

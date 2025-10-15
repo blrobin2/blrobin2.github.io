@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3Xxbnh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Johnny is hysterical. He swings off lampposts and plays air guitar like he will break out into song. Instead, he just whines like a 30-year-old playing a teenager.

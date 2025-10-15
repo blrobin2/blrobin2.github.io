@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4qeUWz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Two women leave to go to a concert, but a group of sickos pick them up and torture them

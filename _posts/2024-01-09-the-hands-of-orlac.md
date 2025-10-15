@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5xyw4J
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 7/34 | Decades 1/8 | 20s</a></b>

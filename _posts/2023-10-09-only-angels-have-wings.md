@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4XQz2D
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Bonnie Lee (Jean Arthur), a piano entertainer, steps off a banana boat in Barranca, a fictional port town near the Andes mountains. She encounters two pilots, Joe and Les, who offer her a drink, bringing her to their local hang, Dutchy's Bar. There, Bonnie meets Han Solo prototype Geoff Carter (Cary Grant), the boss of their air mail delivery service
@@ -26,6 +25,6 @@ The miniature work is terrific for 1939 — they built incredible sets and crash
 
 And they do have actual flights as well — the cinematographer had a special camera that could dynamically move and still allow him to fly his plane
 
-The movie doesn't use non-diegetic music  — the airplanes starting, taking off, and radio communication make up the sound field
+The movie doesn't use non-diegetic music — the airplanes starting, taking off, and radio communication make up the sound field
 
 Overall, this is Howard Hawks at the highest command of his art, combining his flight expertise and deft character direction to combine adventure, romance, and comedy into a beautiful little movie

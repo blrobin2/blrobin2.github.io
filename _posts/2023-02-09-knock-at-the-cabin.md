@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3PHcGx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Shyamalan takes a compelling idea and squashes out the ambiguity in favor of apocalyptic Christian pornography. I don’t think he meant to, he just has his proclivities as a filmmaker that he will never deny, movie be damned. Which also means that you know exactly how at least 3/4 of this movie will go if you’ve seen one of his movies before

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/68KjOL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 13/52 | Virtually Reality</a></b>

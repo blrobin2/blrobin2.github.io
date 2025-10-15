@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/56Er5B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 6/52 | Animals in the Collection</b>
@@ -18,7 +17,7 @@ Two boys, Octavio and Jorge, are speeding down the road. There's a bleeding blac
 
 The movie follows three stories about people making major transitions in their lives. The stories intertwine throughout the film. They all converge at the car wreck scene.
 
-Octavio and Jorge introduce Octavio's dog, Cofi, to the world of dogfighting after discovering that Cofi killed another dog in a fight. He intends to save up and run away with his brother Romero's wife, Susana. Life doesn't play fair, though, especially when you're unfaithful. 
+Octavio and Jorge introduce Octavio's dog, Cofi, to the world of dogfighting after discovering that Cofi killed another dog in a fight. He intends to save up and run away with his brother Romero's wife, Susana. Life doesn't play fair, though, especially when you're unfaithful.
 
 In the following story, Daniel leaves his wife and two kids to start a new life with a supermodel named Valeria. No sooner than when they move in together, Valeria gets in a car wreck. The wreck breaks her leg and effectively ends her modeling career. Daniel cares for her in their new apartment together. Things get worse for the couple when Valeria's dog, Richie, falls through a broken floorboard and gets stuck under the apartment floor.
 

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5IKD8V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 5/52 | Most recently added film in your watchlist</a></b>
@@ -19,7 +18,7 @@ From 5:30 AM until 8:30 PM, textile factory workers toil tirelessly. Near the en
 
 While visiting the hospital and gathering donations for his family, some workers form a committee and make a case for shorter hours. The management warns them against saying such things, as the boss might fire them if he heard them.
 
-So, they decide they need collective action to make their point. They try walking out an hour early but fumble it. 
+So, they decide they need collective action to make their point. They try walking out an hour early but fumble it.
 
 While trying to think of another strategy, Professor Sinigaglia, a professor and labor activist, encourages them to escalate into a full-blown strike.
 

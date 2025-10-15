@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/9o8GxP
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Karaoke <i>Ave Maria</i> really got me.

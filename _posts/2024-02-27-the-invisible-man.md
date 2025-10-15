@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5VyLS1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 26/32 | Invisible Person">Hooptober 7.0 | 26/32 | Invisible Person</a></b>

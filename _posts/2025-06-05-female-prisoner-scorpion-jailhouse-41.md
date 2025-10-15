@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/9U06H7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk">Cult Movie Challenge 2017 | 45/52 | Pinky Violence</a></b>
@@ -20,9 +19,9 @@ To punish them for starting the riot, the prison sends the women to a brutal lab
 
 Will Scorpion be able to reach the Warden and take him out? Will the traumatized inmates give her the chance?
 
-Everything I said about style in my previous review applies here. The visuals and cinematography are even more expressive here—a larger budget and longer schedule allowed for more experimentation. The gore is also way more intense. Some kills are slasher-movie intense. The movie plays with time by making scenes of torture drawn out and repetitive so that they feel endless, and we are stuck with Nami. 
+Everything I said about style in my previous review applies here. The visuals and cinematography are even more expressive here—a larger budget and longer schedule allowed for more experimentation. The gore is also way more intense. Some kills are slasher-movie intense. The movie plays with time by making scenes of torture drawn out and repetitive so that they feel endless, and we are stuck with Nami.
 
-I love the 4th wall break when the oboe player looks at the camera and pulls her head in toward it. 
+I love the 4th wall break when the oboe player looks at the camera and pulls her head in toward it.
 
 Scorpion has become a legend when we see her again. She feels like Clint Eastwood in a Western—the way she owns the space is stunning. Meiko Kaji is a fucking boss.
 

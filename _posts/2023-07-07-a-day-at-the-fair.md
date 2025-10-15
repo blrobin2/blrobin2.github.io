@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/4tLjbf
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* Later, these moths turn up in the mouth of Bob’s victims
-* Next up: freaks of nature!
-* The family of shame!
+- Later, these moths turn up in the mouth of Bob’s victims
+- Next up: freaks of nature!
+- The family of shame!

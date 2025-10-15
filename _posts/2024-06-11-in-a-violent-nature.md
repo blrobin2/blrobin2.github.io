@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6EAFEB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 It starts with a locket in a rundown fire tower. Some friends wandering the woods find it, and one pockets it. Moments later, someone emerges from the ground — a once dormant killer, reawakened.

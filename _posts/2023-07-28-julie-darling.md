@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4AYLIP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Julie (Isabelle Mejias) hates her mom and loves her dad — perhaps (no, definitely) too much. Mom has a guy take away Julie's pet snake —the guy tries to rape Mom and accidentally kills her. Julie witnesses the event and is elated that she now has Dad all to herself
@@ -21,5 +20,6 @@ The script is tight and considered — it takes a little time to get going, but 
 Overall, this movie wouldn't win any awards, but for genre shlock, it stands out
 
 <b>Stray Thoughts</b>
-* Tommy Shaw has a crush on Julie. The guy from Styx?
-* Julie walking in on dad and step-mom having sex and fantasizing about herself in stepmom's place is deeply upsetting
+
+- Tommy Shaw has a crush on Julie. The guy from Styx?
+- Julie walking in on dad and step-mom having sex and fantasizing about herself in stepmom's place is deeply upsetting

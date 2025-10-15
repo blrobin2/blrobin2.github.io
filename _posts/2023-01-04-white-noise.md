@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3DEEDn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Adam Driver slack-jawed watching Nazi footage is funny, but he just doesn’t work in this role. In a dream world, it would have been Phillip Seymour Hoffman

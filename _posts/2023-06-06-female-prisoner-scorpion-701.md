@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4l19u3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Two women attempt a breakout from a prison in broad daylight. For the attempt, the inmates all suffer the abuses of the prison guards

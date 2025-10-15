@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/aWwATx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 15/52 | Korean Horror Films</a></b>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6qKSPL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 7/31 | Countries 1/6 | Japan | Decades 2/6 | 40s</a></b>
@@ -24,7 +23,7 @@ Tamiya reminisces over his courtship with and marriage to Oiwa. He resents his m
 
 Osode tells Oiwa that Kohei is looking for her. Oiwa considers him merely a customer from her past teahouse job. Osode warns her that Kohei may snoop around, but Oiwa is faithful to her husband.
 
-Meanwhile, Naosuke plans for Ouma and Tamiya to meet. He hides his desire for Tamiya and Ouma's marriage to benefit Tamiya and gain a share for himself. Despite his initial doubts, Tamiya takes him up on the offer. 
+Meanwhile, Naosuke plans for Ouma and Tamiya to meet. He hides his desire for Tamiya and Ouma's marriage to benefit Tamiya and gain a share for himself. Despite his initial doubts, Tamiya takes him up on the offer.
 
 Thus, the pieces are in place. The film follows the familiar trajectory of a Kaidan. Part 1 shows the miserable person making a selfish choice for personal gain.
 

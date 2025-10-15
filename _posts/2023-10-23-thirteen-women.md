@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/52zVeR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>It is ordained that someone close to you will meet death thru an act of yours. It must be. It is written.</i></blockquote>Twelve women, all schoolmates, wrote to a swami to have their horoscopes read. Their ill fates trouble him, but Ursula (Myrna Loy), a schoolmate on the outskirts of their clique, sends out the letters without him knowing.

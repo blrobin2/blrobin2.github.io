@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4tG52N
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The easiest way to sum up the plot would be Cyrano de Bergerac if he were a computer
@@ -19,8 +18,9 @@ The film aspires to be more of an extended music video than a formal story. And 
 It’s fluffy and inconsequential, but it feels so good
 
 <b>Stray Thoughts</b>
-* I love the opening credits
-* Oh hey, it’s the recluse from Twin Peaks!
-* The first time I can recall seeing a computer illiterate make their house “smart”
-* Really cool visuals — the champagne running over the circuit board
-* Ooo, stay past the credits for a little goodbye
+
+- I love the opening credits
+- Oh hey, it’s the recluse from Twin Peaks!
+- The first time I can recall seeing a computer illiterate make their house “smart”
+- Really cool visuals — the champagne running over the circuit board
+- Ooo, stay past the credits for a little goodbye

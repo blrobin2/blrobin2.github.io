@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6r77HL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 8/31 | Countries 2/6 | Finland | Decades 3/6 | 50s</a></b>
@@ -46,4 +45,4 @@ Like other folk horror, this film doesn’t embody the typical horror style or a
 
 Mirjami Kuosmanen has such a strange energy to her. I saw another review comparing her to Barbara Steele, and I would say that's accurate. She also reminds me of Debbie Harry of Blondie.
 
-I liked this! 
+I liked this!

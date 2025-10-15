@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/b7rRgV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 15/52 | Chuck Norris</a></b>
@@ -18,7 +17,7 @@ On the drive, Chen explains how her father died, leaving her a restaurant. Her u
 
 The film follows Chen and Tang as Chen attempts to assist Tang in navigating Rome, while Tang helps Chen with her gangster-related issues.
 
-The humor isn't uproarious, but it is cute. Lee doesn't quite have the onscreen charisma of, say, Jackie Chan. But once Lee fights, the charisma comes out. Also, he's a delight to watch as he negotiates the cultural differences of Rome. 
+The humor isn't uproarious, but it is cute. Lee doesn't quite have the onscreen charisma of, say, Jackie Chan. But once Lee fights, the charisma comes out. Also, he's a delight to watch as he negotiates the cultural differences of Rome.
 
 The fight scenes are pretty bare-bones, but by focusing on authentic martial arts, the choreography is excellent, conveying a great deal of storytelling through movement, composition, and character beats. The kick sound effects are probably the best I've heard. I love the mix of hard-hitting effects and cartoonish boings.
 

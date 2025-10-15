@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/617Vin
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 27/52 |  director's highest-rated film (Ang Lee)</a></b>

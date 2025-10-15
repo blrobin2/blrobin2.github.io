@@ -6,11 +6,11 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5Dj8o5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a rel="nofollow">Cult Movie Challenge 2016 | 12/52 | Abbott and Costello</a></b>
+
 <blockquote><i>It has been said that a man's best friend is his mummy. In Egypt today, this theory is to be in great dispute. For two bold adventurers are about to discover another kind of mummy.</i></blockquote>Abbott and Costello sit down at the club in their safari gear. They overhear that Dr. Zoomer needs men to accompany his mummy back to the States. Of course, Costello thinks that Dr. Zoomer meant his mother.
 
 Madame Rontru, a businesswoman, knows that he refers to the Mummy of Klaris. She also knows the mummy holds the key to unlocking an ancient treasure.
@@ -33,14 +33,14 @@ Their dynamic has a <i>Scooby-Doo</i>-like quality, where Costello witnesses som
 
 This movie isn't high art, but I got some chuckles.
 
+<b>**_Stray Thoughts / Spoilers_**</b>
 
-<b>***Stray Thoughts / Spoilers***</b>
-* Costello thinks a statue is Mrs. Zoomer. When he discovers she's a wax figure, he almost smacks her ass, but he thinks better of it. What a weird inclination.
-* The mummy in this movie inspired the mummy toys I saw as a kid.
-* "Why don't you be a man? Be brave! Be tough like me!" Abbott's spilling out his childhood trauma for us.
-* Abbott and Costello break the 4th wall a lot.
-* I love it when Costello outsmarts Abbott.
-* Is Costello eating the medallion??
-* Yep, he ate it.
-* A giant lizard shows up as a quick visual gag.
-* In every vase is a snake. But now and then, there's a beautiful woman waiting to kiss you.
+- Costello thinks a statue is Mrs. Zoomer. When he discovers she's a wax figure, he almost smacks her ass, but he thinks better of it. What a weird inclination.
+- The mummy in this movie inspired the mummy toys I saw as a kid.
+- "Why don't you be a man? Be brave! Be tough like me!" Abbott's spilling out his childhood trauma for us.
+- Abbott and Costello break the 4th wall a lot.
+- I love it when Costello outsmarts Abbott.
+- Is Costello eating the medallion??
+- Yep, he ate it.
+- A giant lizard shows up as a quick visual gag.
+- In every vase is a snake. But now and then, there's a beautiful woman waiting to kiss you.

@@ -6,8 +6,7 @@ rating: "0.5"
 letterboxd_url: https://boxd.it/5Z6U9p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 5/32 | film from before 1966 5/6</a></b>
@@ -45,18 +44,19 @@ The flashback surpasses the framing story, which only exists to fill time. Its c
 
 Overall, this is quite an inept piece of filmmaking. I don't think a living soul would have seen it if Christopher Lee wasn't in it for a few minutes.
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The kid staring at the camera.
-* The actor glancing at the camera! More than once!
-* Cut to a dinner show 10 minutes into the movie.
-* Sonia, an Argentinian singer, does a number — awful lip-syncing between the recorded voice and the actress.
-* All the Italian cars are quite nice.
-* Pejo struggles to get his wallet out of his pocket — rather than cut, the camera sits for 30 seconds while he digs into his pocket.
-* Poor Bella Cortez has a visible camel toe — it doesn't seem intentional.
-* Bella Cortez spends ten minutes getting her pants back on once Christopher Lee goes off about his dead lover.
-* A tarantula with googly eyes!!
-* Oh, look, the cameraman's shadow.
-* Not quite a hall of mirrors — a hall of glass?
-* I guess they're all going mad? Lots of laughing and screaming in front of an out-of-focus camera.
-* A DRUMROLL OVER AN OUT-OF-FOCUS CAMERA SHARPENING INTO FOCUS. Hello, David Lynch!
-* Okay, that's it? Never mind about the riches, I guess?
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- The kid staring at the camera.
+- The actor glancing at the camera! More than once!
+- Cut to a dinner show 10 minutes into the movie.
+- Sonia, an Argentinian singer, does a number — awful lip-syncing between the recorded voice and the actress.
+- All the Italian cars are quite nice.
+- Pejo struggles to get his wallet out of his pocket — rather than cut, the camera sits for 30 seconds while he digs into his pocket.
+- Poor Bella Cortez has a visible camel toe — it doesn't seem intentional.
+- Bella Cortez spends ten minutes getting her pants back on once Christopher Lee goes off about his dead lover.
+- A tarantula with googly eyes!!
+- Oh, look, the cameraman's shadow.
+- Not quite a hall of mirrors — a hall of glass?
+- I guess they're all going mad? Lots of laughing and screaming in front of an out-of-focus camera.
+- A DRUMROLL OVER AN OUT-OF-FOCUS CAMERA SHARPENING INTO FOCUS. Hello, David Lynch!
+- Okay, that's it? Never mind about the riches, I guess?

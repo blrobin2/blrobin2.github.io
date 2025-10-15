@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KCiVB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Why did I think the title was metaphorical?

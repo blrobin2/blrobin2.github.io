@@ -4,10 +4,9 @@ title: "Between Two Ferns: The Movie (2019)"
 excerpt: "My review of Between Two Ferns: The Movie (2019)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/39b5mX
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 It’s all about those bloops

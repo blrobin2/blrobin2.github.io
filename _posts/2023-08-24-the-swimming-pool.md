@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4KdcmZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Longer French version</b>
@@ -26,9 +25,10 @@ Great performances, a beautiful setting, and hot chemistry between everyone — 
 If I had one complaint, it's that the pacing, while well-done, feels a bit slow for me — if some scenes progressed a little faster and the movie was a little tighter, it would be more effective for me
 
 <b>Stray Thoughts</b>
-* RIP Jane Birkin — she died just last month :(
-* Boy, those suntans look cancerous
-* It's fun seeing Delon and Ronet reunite after <i>Purple Noon</i> — it's wild that there are nine years between the two movies! They look even more like each other here
-* Jean-Paul is incapable of kissing Marianne without taking her top off
-* I think Delon mentioned something about some days not being worth it and skipping to the next in both this and<i> Purple Noon</i>
-* When Jean-Paul keeps kicking Harry into the pool, it reminds me of the <i>King of the Hill</i> episode where Hank kept doing it to the paleontologist who humiliated Peggy
+
+- RIP Jane Birkin — she died just last month :(
+- Boy, those suntans look cancerous
+- It's fun seeing Delon and Ronet reunite after <i>Purple Noon</i> — it's wild that there are nine years between the two movies! They look even more like each other here
+- Jean-Paul is incapable of kissing Marianne without taking her top off
+- I think Delon mentioned something about some days not being worth it and skipping to the next in both this and<i> Purple Noon</i>
+- When Jean-Paul keeps kicking Harry into the pool, it reminds me of the <i>King of the Hill</i> episode where Hank kept doing it to the paleontologist who humiliated Peggy

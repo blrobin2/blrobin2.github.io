@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8Oxg2H
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 44/52 | Arab Film & Media Institute’s Cinema of Palestine</a></b>
@@ -20,7 +19,7 @@ Smash cut to him walking up the street. He hears shuffling and sees a group of m
 
 The film continues in these little vignettes. Eventually, Elia takes a plane to Paris and then to New York City. Strange experiences seem to follow him wherever he goes. Tanks roam the streets, police harass people, and everyone totes a gun.
 
-The quiet absurdity of the style reminds me of Roy Andersson, but it is not quite as melancholic or grotesque. I thought I knew where several scenes were going, but they took an uncertain turn. 
+The quiet absurdity of the style reminds me of Roy Andersson, but it is not quite as melancholic or grotesque. I thought I knew where several scenes were going, but they took an uncertain turn.
 
 I believe I watched something brilliant, but I would be lying if I said I understood the movie in total. I can't say if every scene has some political undertone—some scenes felt absurd for their own sake—but the commentary is unambiguous in places.
 

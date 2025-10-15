@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/a4NaN7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 1/52 | Elvira's Movie Macabre</a></b>
@@ -24,17 +23,16 @@ The movie answers this question pretty quickly, but I'll leave it for the viewer
 
 The movie acknowledges that it lacks the budget to execute the kills in the story, so much of it occurs just out of frame or with carefully composed edits to suggest what it can't show. I could also see this being a deliberate choice to make the horror feel more "elevated" and not exploitative.
 
-In that same vein, the film has a more deliberate pace, bordering on slow. When we first see Ben, Nicky, and K.T. driving, the scene is silent for almost five minutes apart from the music. It eventually works as they notice the radio cutting out, but we could use a bit more in the scene to warrant the time. 
+In that same vein, the film has a more deliberate pace, bordering on slow. When we first see Ben, Nicky, and K.T. driving, the scene is silent for almost five minutes apart from the music. It eventually works as they notice the radio cutting out, but we could use a bit more in the scene to warrant the time.
 
 The makeup for the coven was probably more appropriate when the movie was of lower fidelity. However, with the remaster, it mostly appears as though the filmmakers were attempting to make the older characters look even older and more haggard.
 
-The film explores witchcraft and psychic powers as tools of the devil. I don't know if it has any thematic considerations in mind—the lack of coherence in many facets of the story suggests this. The screenwriter has stated outright that he chose the subjects only because they were popular at the time. 
+The film explores witchcraft and psychic powers as tools of the devil. I don't know if it has any thematic considerations in mind—the lack of coherence in many facets of the story suggests this. The screenwriter has stated outright that he chose the subjects only because they were popular at the time.
 
 That said, the horror moments are pretty fun. The way the movie uses children is familiar in some places but fairly unnerving in others. The coven sets are pretty great. For all my complaints, the film makes some aesthetic choices that I quite like. The dream sequence, in particular, is quite outrageous.
 
-
-<b>*** SPOILER ZONE ***</b>
+<b>**_ SPOILER ZONE _**</b>
 The film has some nods to <i>Rosemary's Baby</i> and <i>Village of the Damned</i>, but I think the best comparison is <i>Get Out</i>, but instead of black people it's children. To orphan the children, their toys come to life and kill their families. Then, the entranced children go with the other entranced children to the coven.
 
 I like that the doctor messes up his hair and puts on glasses to disguise himself, but no one outside of the coven knows he's the leader, so what's the point? It's like Superman only dressed as Clark Kent on Mars.
-<b>*** END SPOILER ZONE ***</b>
+<b>**_ END SPOILER ZONE _**</b>

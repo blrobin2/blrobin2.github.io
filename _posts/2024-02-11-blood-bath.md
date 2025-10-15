@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5O2So1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 An artist named Antonio Sordi, sweating and breathless, pulls back the curtains on a painting of a woman named Melizza. He tells Melizza that he needs her again.

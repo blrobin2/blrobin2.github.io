@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6o3KZJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 1/31 | Sequels 1/6 | Decades 1/6 | 80s</a></b>

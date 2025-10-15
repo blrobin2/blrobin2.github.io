@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5csMBN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 22/52 | Wilco's Closet Picks</b>

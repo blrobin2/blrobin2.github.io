@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/583CC1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Med students are flush with limbs and cadavers</b>

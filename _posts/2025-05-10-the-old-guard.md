@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9Etgxl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Dude looks like David Duchovny got plastic surgery to look more like Doug Funny.

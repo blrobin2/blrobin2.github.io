@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/3TKNU9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Haven’t watched much, if any, <i>il sadiconazista</i>, so I don’t know where this falls on that particular “quality” spectrum

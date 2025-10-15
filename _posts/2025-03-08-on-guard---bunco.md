@@ -6,12 +6,11 @@ rating: ""
 letterboxd_url: https://boxd.it/93fjLf
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Great job packing. You know you can't wear that phone book to your sister's wedding, right?
-* Men never rip off other men. It's true.
-* Excuse me, miss, I've been admiring your hat. Would you like to trade it for some low-grade oil?
-* He's in hell!
-* Pull your pants up to just below your nipples, and the ladies will flock to you.
+- Great job packing. You know you can't wear that phone book to your sister's wedding, right?
+- Men never rip off other men. It's true.
+- Excuse me, miss, I've been admiring your hat. Would you like to trade it for some low-grade oil?
+- He's in hell!
+- Pull your pants up to just below your nipples, and the ladies will flock to you.

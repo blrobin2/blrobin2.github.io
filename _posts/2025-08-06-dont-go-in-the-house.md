@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/aCF61t
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 6/52 | Video Nasties</a></b>

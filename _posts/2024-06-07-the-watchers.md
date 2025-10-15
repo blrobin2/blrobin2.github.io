@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6CYm53
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Mirrors, twins, and more than a slight nod to <i>Lost</i> — disappointing, only because the concept has a lot of promise but the execution tells us way more than it shows.

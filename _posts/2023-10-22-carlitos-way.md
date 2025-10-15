@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/523u7F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Like a veritable Franz Biberkopf, Carlito (Al Pacino) leaves prison after five years and proclaims that he will go straight and retire to Paradise. His lawyer and best friend, David (Sean Penn), helped him get out on technicalities and doesn't believe Carlito can change.
@@ -20,7 +19,7 @@ If I had seen this before Mission to Mars, I might have called this a lesser De 
 
 The movie has stellar music choices — some of my favorite disco/dance numbers.
 
-*** Complaining ***
+**_ Complaining _**
 Pacino's Puerto Rican accent is fucking abysmal.
 
 Viggo Mortensen showing up with a mouth full of Chicano slang is embarrassing.

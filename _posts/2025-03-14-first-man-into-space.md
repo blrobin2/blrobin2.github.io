@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/97bvIZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 7/52 | 50s Sci-Fi</a></b>

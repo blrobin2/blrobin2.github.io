@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/3EAtcB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Starting your biopic with a dude flying is a choice, it took me a while after that to get my bearings

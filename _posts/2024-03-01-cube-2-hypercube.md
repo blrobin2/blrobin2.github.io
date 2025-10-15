@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5WB5n1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 32/32 | Bonus</a></b>
@@ -22,7 +21,7 @@ Rebecca opens her eyes, recalling scenes from a science lab. She wanders through
 
 She enters another room through one hatch. As though gravity itself inverted, she pulls up and slams against the ceiling.
 
-Thomas opens a hatch, looking for the serial numbers that show the positioning of the room relative to the grid. He isn't wearing a shoe — he has tested a room for a trap. However, it differs from the prison in <i>Cube</i>. This is a <b>H Y P E R C U B E</b>. 
+Thomas opens a hatch, looking for the serial numbers that show the positioning of the room relative to the grid. He isn't wearing a shoe — he has tested a room for a trap. However, it differs from the prison in <i>Cube</i>. This is a <b>H Y P E R C U B E</b>.
 
 <blockquote><i>I want a chance! Don't I get a chance like the others?</i></blockquote>
 
@@ -38,7 +37,7 @@ Finally, a hatch opens, and Mrs. Paley comes through. She asks where the showers
 
 Straight away, the substantially lower budget is clear. The cubes are simpler in design. To avoid complex math for room positioning in the tesseract, every room is the same.
 
-The performances are similarly stilted to <i>Cube</i>, and the script is as weak. 
+The performances are similarly stilted to <i>Cube</i>, and the script is as weak.
 
 I am highly tolerant of cheap special effects, especially when they serve a function that would be impossible in practical effects. This movie has a bit of each, so it's a mixed bag. If you can tolerate the effects, they're the best part.
 

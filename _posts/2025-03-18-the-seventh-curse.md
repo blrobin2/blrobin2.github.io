@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/99X0qp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 9/52 | CAT III</a></b>
@@ -20,17 +19,17 @@ Dr. Yeun must travel to Northern Thailand to find a permanent cure for his curse
 
 This movie moves a mile a minute! I initially wrote so much more for the summary, but I put my favorite bits in the spoilers section below. The film is so full of delightful surprises and fun! I had a massive grin on my face nearly the entire runtime.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Ni Kuang plays himself! I can tell—he's such a smiley little nerd.
-* Tsui wants an interview with Dr. Yuen and tasteful nudes of him.
-* Wait, so a woman paid off Dr. Yuen's maid so that she could fuck him?
-* Dr. Yuen goes to Thailand to find treatments for AIDs. Is the blood curse a metaphor for AIDs?
-* Bachu is just bathing in a t-shirt for no reason.
-* The Great Wizard's worm baby.
-* Skeletons with glowing eyes are the 80's most significant contributions to cinema.
-* Bachu is using boob magic to help Yuen.
-* The bullet AND the arrow.
-* Just churning up those kids!
-* The Buddha statue fight scene is an all-timer!
-* Oh, sweetie, the movie thinks it's progressive when its last message is, "Women's beauty comes from the heart."
+- Ni Kuang plays himself! I can tell—he's such a smiley little nerd.
+- Tsui wants an interview with Dr. Yuen and tasteful nudes of him.
+- Wait, so a woman paid off Dr. Yuen's maid so that she could fuck him?
+- Dr. Yuen goes to Thailand to find treatments for AIDs. Is the blood curse a metaphor for AIDs?
+- Bachu is just bathing in a t-shirt for no reason.
+- The Great Wizard's worm baby.
+- Skeletons with glowing eyes are the 80's most significant contributions to cinema.
+- Bachu is using boob magic to help Yuen.
+- The bullet AND the arrow.
+- Just churning up those kids!
+- The Buddha statue fight scene is an all-timer!
+- Oh, sweetie, the movie thinks it's progressive when its last message is, "Women's beauty comes from the heart."

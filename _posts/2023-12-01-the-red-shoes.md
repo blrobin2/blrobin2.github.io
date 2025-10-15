@@ -6,11 +6,10 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5fs6xh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a>
+<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a>
 
 <blockquote><i>It's undeniably some kind of masterpiece. But what kind?</i> — Pauline Kael on <i>The Red Shoes</i></blockquote>
 The doors at Covent Garden ache as people pound against it. The doors open, and the students rush in, ravenous in religious fervor.
@@ -24,6 +23,7 @@ Also attending are Victoria Page and her aunt, Countess Isabel Neston. Victoria 
 Lady Neston invites Professor Palmer to an afterparty. Palmer invites Boris Lermontov, the company impresario.
 
 Victoria and Lermontov meet at the party. She tells him she wants to be a dancer.
+
 <blockquote><i>— Why do you want to dance?
 — Why do you live?
 — Well, I don't know exactly why, but… I must.
@@ -31,10 +31,12 @@ Victoria and Lermontov meet at the party. She tells him she wants to be a dancer
 Craster writes to Lermontov regarding the plagiarism. He gets cold feet and goes to Lermontov's home to retrieve the letter. It's too late — Lermontov read it. He asks Craster to play for him. Impressed, Lermontov offers him a job as répétiteur.
 
 Lermontov invites Victoria to a rehearsal at Ballet Lermontov. At the rehearsal, Irena breaks to announce her engagement to be married. Lermontov is furious.
+
 <blockquote><i>You cannot have it both ways. The dancer who relies upon the doubtful comforts of human love will never be a great dancer. Never.</i></blockquote>
 Lermontov sees Victoria perform Swan Lake for Ballet Rambert and offers her the lead in a new ballet, The Ballet of the Red Shoes, for which Craster will write the music.
 
 Once Craster and Victoria meet, they butt heads. Lermontov preps Victoria through strict regimens.
+
 <blockquote><i>And don't forget, a great impression of simplicity can only be achieved by great agony of body and spirit.</i></blockquote>
 And then we get to watch seventeen minutes of uninterrupted ballet.
 
@@ -42,7 +44,7 @@ We see what Victoria imagines — herself in the shoes, jumping into them as the
 
 The dancers can only perform the ballet on camera. It is an expressionist piece of filmmaking that does what is impossible on stage.
 
-The ballet itself is a horror story. The cobbler's shoes have a dark magic that forces the wearer to dance until they die. 
+The ballet itself is a horror story. The cobbler's shoes have a dark magic that forces the wearer to dance until they die.
 
 At the peak, the cobbler gets replaced by Lermontov, then Craster — they force her to dance, but she also wants to.
 
@@ -60,13 +62,13 @@ This is one of the greatest endings to one of the best movies I've seen. It's th
 
 Magic. Pure magic. I adore this movie.
 
-
 <b>Stray Thoughts</b>
-* I love the title card of the candle on top of the Hans Christian Andersen book.
-* "Forty-Five Minutes Later" scrolls across the screen, but no other visual indicator of time passing.
-* The spinning camera shot! <i>Black Swan</i> borrowed everything.
-* I nearly cried during the ballet. I was afraid of it being too long, but it's perfect.
-* When Craster and Victoria meet and the train rolls by — such innocuous foreshadowing!
-* I love they don't translate French. It's not critical, and it puts you in Victoria's headspace.
-* This movie brilliantly uses close-ups. The image is always startling and powerful. 
-* Silent credits!
+
+- I love the title card of the candle on top of the Hans Christian Andersen book.
+- "Forty-Five Minutes Later" scrolls across the screen, but no other visual indicator of time passing.
+- The spinning camera shot! <i>Black Swan</i> borrowed everything.
+- I nearly cried during the ballet. I was afraid of it being too long, but it's perfect.
+- When Craster and Victoria meet and the train rolls by — such innocuous foreshadowing!
+- I love they don't translate French. It's not critical, and it puts you in Victoria's headspace.
+- This movie brilliantly uses close-ups. The image is always startling and powerful.
+- Silent credits!

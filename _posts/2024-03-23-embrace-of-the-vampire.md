@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/66OJ2N
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 22/32 | women-directed film 2/2</a></b>

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5lliJz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Celie is a single mother, exhausted by long hours. Her job requires she give up time with her daughter, Lila, who feels neglected. She is a nurturing, empathetic presence in delivery rooms.
@@ -23,6 +22,7 @@ Celie goes to pick up Lila at her friend's, but her friend and Lila are missing.
 Lila comes into the morgue, having died of bacterial meningitis. Rose notes that organ failure may have occurred before brain death.
 
 Celie tries to see her daughter's body, but Rose tells her it isn't there. She follows Rose home, and finds Lila there. Alive.
+
 <blockquote><i>— Your child's genetic makeup made her an ideal candidate for an experimental procedure I'm working on.
 </i><i>— For meningitis?
 </i><i>— For death.</i></blockquote>This film does a remarkable job of drawing you into its established reality. The progression is logical, and the characters' subjective motives make sense.

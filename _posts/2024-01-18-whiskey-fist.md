@@ -6,13 +6,13 @@ rating: ""
 letterboxd_url: https://boxd.it/5Cwvof
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-<b>*** Favorite Moments / Spoilers ***</b>
-* Brands' lives matter
-* Describe your best friend: dEaD
-* How about you take a shot every time I say a member of the Dream Team?
-* The father is a bottle of Jameson Whiskey Reserve
-* It's not gay — I was just enjoying myself responsibly!
+<b>**_ Favorite Moments / Spoilers _**</b>
+
+- Brands' lives matter
+- Describe your best friend: dEaD
+- How about you take a shot every time I say a member of the Dream Team?
+- The father is a bottle of Jameson Whiskey Reserve
+- It's not gay — I was just enjoying myself responsibly!

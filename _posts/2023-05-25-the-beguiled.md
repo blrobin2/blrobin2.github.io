@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4hMsAn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A preteen girl finds a wounded Union soldier (Clint Eastwood) and brings him to the Confederate boarding school she belongs to. Eastwood tries out his rizz on everyone he can — including the younger girls — stirring their repressed desires and their fears of a Union soldier who may hurt them. And yet, when the Confederate patrol passes by, the women opt to keep his presence a secret

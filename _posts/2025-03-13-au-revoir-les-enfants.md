@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/96JCFn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 40/52 | Guillermo del Toro's Twitter Film recommendations</a></b>
@@ -28,6 +27,6 @@ Through the schoolyard bullying and interactions, we see the conflicts these chi
 
 I love how mean the piano teacher is. I am always happy to see Irène Jacob, however briefly. This movie was her first role!
 
-This script is one I could imagine teaching in a screenplay class. Each scene is rich with small details that give a sense of place, time, and character. The pacing is pretty much perfect. The movie is thoughtful and treats its audience as such. 
+This script is one I could imagine teaching in a screenplay class. Each scene is rich with small details that give a sense of place, time, and character. The pacing is pretty much perfect. The movie is thoughtful and treats its audience as such.
 
 May every Christian act with the same spirit as Père Jean.

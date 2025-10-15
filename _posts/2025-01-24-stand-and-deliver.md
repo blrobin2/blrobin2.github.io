@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8AI9tH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 13</a></b>
@@ -16,7 +15,7 @@ Jaime Escalante believes in his inner-city Latino students, helping raise their 
 
 I don't know if this movie is the first in this style, but I've seen so many rip-offs that it's hard to enjoy them: <i>Lean on Me</i>, <i>Dangerous Minds</i>, <i>Coach Carter</i>, <i>Freedom Writers</i>, etc.
 
- Similar to the idea of the benevolent benefactor, it takes the systemic problems out of the equation and positions us to pray for the benevolent teacher who has all the time, jokes, and smarts to save the day and the kids. They all operate on the assumption that everyone's a shitty teacher if they can't turn it around like the benevolent teachers do.
+Similar to the idea of the benevolent benefactor, it takes the systemic problems out of the equation and positions us to pray for the benevolent teacher who has all the time, jokes, and smarts to save the day and the kids. They all operate on the assumption that everyone's a shitty teacher if they can't turn it around like the benevolent teachers do.
 
 Edward James Olmos plays the weirdest version of the benevolent teacher, full of wisecracks and non-sequiturs, with a dose of gross, horny stuff for the teenage girls.
 

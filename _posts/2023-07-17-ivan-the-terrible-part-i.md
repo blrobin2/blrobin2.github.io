@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4wNuQf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A biopic of Ivan IV, who tried to take absolute power to unify Russia into one state. Wouldn’t you know it, the powers that be weren’t exactly chill about it
@@ -27,8 +26,9 @@ Memorable motifs in the score!
 Love going into a movie cold like this and having such a great experience. Gotta check out part 2 soon
 
 <b>Stray Thoughts</b>
-* the singer at the tsar’s anointment sounds like the singer of the eyes wide shut orgy music
-* The dude with the sunglasses with only one frame — no way that existed in the 16th century, right?
-* The smoke rolling in reverse from explosives is hypnotic
-* The framing of his giant head looking onto the tiny crowd
-* There’s a through line from this to the<i> Lord of the Rings </i>movies with approach to scale and heightened grandiosity of character entrances
+
+- the singer at the tsar’s anointment sounds like the singer of the eyes wide shut orgy music
+- The dude with the sunglasses with only one frame — no way that existed in the 16th century, right?
+- The smoke rolling in reverse from explosives is hypnotic
+- The framing of his giant head looking onto the tiny crowd
+- There’s a through line from this to the<i> Lord of the Rings </i>movies with approach to scale and heightened grandiosity of character entrances

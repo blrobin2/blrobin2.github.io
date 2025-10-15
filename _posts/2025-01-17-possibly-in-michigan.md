@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8vfwd5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>The three of them had two things in common: violence and perfume.</i></blockquote>

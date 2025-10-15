@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5a6fw9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 15/34 | Bloodthirsty old person/people film | Decades 5/8 | 1970s</b>

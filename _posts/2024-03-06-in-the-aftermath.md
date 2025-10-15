@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5Z09in
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 4</a></b>

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6UBZML
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 19/31 | Before 1970 4/5</a></b>
@@ -34,4 +33,4 @@ The audio is pretty shoddy. Almost no Foley or sound effects are present. You ca
 
 The version I watched also had colored, so the torches are a rich red and orange in the otherwise monochrome movie.
 
-The film is quick, running just over an hour. This era of horror is so cozy for me. They’d have to mess up pretty badly for me to hate this. 
+The film is quick, running just over an hour. This era of horror is so cozy for me. They’d have to mess up pretty badly for me to hate this.

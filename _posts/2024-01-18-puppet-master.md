@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5CAYn9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures">Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures</a></b>
@@ -33,16 +32,16 @@ I like the puppet designs. Some are conventional, but a couple are pretty out th
 
 While not my favorite killer toy movie — that's still <i>Dolls (1987)</i> — I'll check at least one of the twelve (12!) sequels.
 
+<b>**_ Thoughts / Spoilers _**</b>
 
-<b>*** Thoughts / Spoilers ***</b> 
-* I didn't know going in that Charles Band co-wrote this.
-* This movie has the signature Charles Band score — cloying
-* Frank and Carissa channel sexual energy. When she sits on her hotel bed, she experiences sex that happened between Clark Gable and Carol Lombard on that bed.
-* Robin Frates bears a striking resemblance to Cristin Milioti
-* When the doll vomited up leeches, I got on board
-* Dana's stuffed dog, Leroy, is so disconcerting.
-* I don't get why the puppets kill people.
-* Egyptian rites, huh?
-* Oh, I guess they serve a master? But then they change their mind because he said something negative about them?
-* "Open that door, you fucking little cretin."
-* Hehehe Leroy
+- I didn't know going in that Charles Band co-wrote this.
+- This movie has the signature Charles Band score — cloying
+- Frank and Carissa channel sexual energy. When she sits on her hotel bed, she experiences sex that happened between Clark Gable and Carol Lombard on that bed.
+- Robin Frates bears a striking resemblance to Cristin Milioti
+- When the doll vomited up leeches, I got on board
+- Dana's stuffed dog, Leroy, is so disconcerting.
+- I don't get why the puppets kill people.
+- Egyptian rites, huh?
+- Oh, I guess they serve a master? But then they change their mind because he said something negative about them?
+- "Open that door, you fucking little cretin."
+- Hehehe Leroy

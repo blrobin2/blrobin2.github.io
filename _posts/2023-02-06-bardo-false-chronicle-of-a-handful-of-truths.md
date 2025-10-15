@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/3OTIfj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i> Last Year at Bardo-is-bad? </i>(I refuse to workshop this joke)

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4Kn8Xd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 i need to know if you feel it too

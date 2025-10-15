@@ -6,15 +6,14 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5RINn9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 8/52 | Martin Scorsese's World Cinema Project</a></b>
 
 <blockquote><i>A rosy dream can't bloom in late Autumn when frost forms.</i></blockquote>On a rainy evening, the Kim sits together inside — the children, Chang-soon and Ae-soon, play with a string figure, the mother (unnamed) sews, and the father, Dong-sik, reads the newspaper. He shows his wife the headline about a man sleeping with his housemaid. She is dismissive of why someone would fall for a maid. He argues that the maid is what holds the house together.
 
-Seon-young Kwak and Kyeung-Hee Cho prepare a letter to give to the piano accompanist, Mr. Kim, of their choir group.  The letter is a confession of love. Miss Cho slips the letter under the keyboard cover.
+Seon-young Kwak and Kyeung-Hee Cho prepare a letter to give to the piano accompanist, Mr. Kim, of their choir group. The letter is a confession of love. Miss Cho slips the letter under the keyboard cover.
 
 Mr. Kim offers piano lessons to the group before opening the cover. Upon finding the letter, he turns it in, which inspires Miss Kwak to quit.
 

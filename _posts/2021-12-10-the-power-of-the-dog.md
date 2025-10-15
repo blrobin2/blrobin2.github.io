@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/2lBZWz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 If you can see the dog in the mountain, you’re gay

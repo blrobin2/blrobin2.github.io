@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9gFcEZ
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This movie grew on me this time around! I've watched some boring-ass Godzillas, and this one is quite cuckoo.

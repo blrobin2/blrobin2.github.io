@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/8XMQAh
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* The Lawrence Welk waltz music really helps when you're doing rhythmic ball skills.
-* Be sure to wear your nicest dress on Activities for Demonstrations Day.
+- The Lawrence Welk waltz music really helps when you're doing rhythmic ball skills.
+- Be sure to wear your nicest dress on Activities for Demonstrations Day.

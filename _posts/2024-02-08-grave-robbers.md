@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5MKkqn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 6/32 | Countries 6/6 | Mexico</a></b>
@@ -28,10 +27,11 @@ The soundtrack rules — cheap synth grooves to run from monsters to.
 
 This isn't amazing, but it's plenty of fun. To anyone who says this is a generic slasher — what the hell are you talking about?
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Running around with her hand cut off, the wound just shooting blood everywhere
-* The machine gun isn't allowed in the slasher rules. Of course, it's ineffective against the living dead
-* The hand through the chest to get the chain back
-* And coking through the wall!
-* I love that the cops instantly go to the priest like, "This is some devil shit"
-* The dude ends up looking like a <i>Buffy</i> baddie
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- Running around with her hand cut off, the wound just shooting blood everywhere
+- The machine gun isn't allowed in the slasher rules. Of course, it's ineffective against the living dead
+- The hand through the chest to get the chain back
+- And coking through the wall!
+- I love that the cops instantly go to the priest like, "This is some devil shit"
+- The dude ends up looking like a <i>Buffy</i> baddie

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5eSDjZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 27/52 | <a href="https://www.criterion.com/current/top-10-lists/72-sonic-youth-s-top-10">Sonic Youth’s Top 10</a></b>

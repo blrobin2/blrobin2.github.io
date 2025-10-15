@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4Q9GJv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Did I dream that you dreamed about me?</i></blockquote>Fred does not feel safe in his home. His wife, Renee, is distant and fearful. He knows she is lying about what she does, and his dreams suggest that something has possessed her. His saxophone wails aimlessly, ungrounded from the rhythm of the band — his jealousy a barbaric power he attempts to kill in himself
@@ -20,8 +19,9 @@ category: movie_review
 </i><i>— That's fucking crazy, man</i></blockquote>Here with the film again, I feel like I'm watching it for the first time, and I'm on board for this fucked-up little journey 
 
 <b>Stray Thoughts</b>
-* David Bowie & Brian Eno - "I'm Deranged" — such a killer track
-* I didn't realize that Bill Pullman plays those sax parts!
-* Having watched <i>Mulholland Dr</i> several times more than this, I didn't notice until now just how many camera and sound flourishes the two share
-* I love that David Lynch listens to the music for the scene while they're filming so he can get the rhythm down
-* Marilyn Manson being so prominent in this sours the experience
+
+- David Bowie & Brian Eno - "I'm Deranged" — such a killer track
+- I didn't realize that Bill Pullman plays those sax parts!
+- Having watched <i>Mulholland Dr</i> several times more than this, I didn't notice until now just how many camera and sound flourishes the two share
+- I love that David Lynch listens to the music for the scene while they're filming so he can get the rhythm down
+- Marilyn Manson being so prominent in this sours the experience

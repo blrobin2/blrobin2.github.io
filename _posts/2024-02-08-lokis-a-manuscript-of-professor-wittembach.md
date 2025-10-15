@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5MC67v
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>There are more things in Lithuanian forests than are dreamt of in your philosophy.</i></blockquote>
@@ -29,15 +28,15 @@ I appreciate the overall ambiguity of the story, but it reached a point where it
 
 In the right frame of mind, I could enjoy this more, but I found this a little too lacking for me to love.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Cool credits with everything out of focus except through the glasses sitting on the train window, giving only a glimpse of the passing landscape
-* "Tea without milk is poison!"
-* Everyone keeps saying his behavior is bear-like, but I don't see it
-* Did the swamp lady glide over the water?
-* He woke up growling in his sleep. The most bear-like thing I've seen.
-* Doctor being a creep and peeping on some bathing women
-* Finally, with 25 minutes left in the movie, Wittembach goes out and observes customs
-* And then he comes right back for a wedding
-* The doctor is not good at the organ
-* The guy coughing during the wedding
+- Cool credits with everything out of focus except through the glasses sitting on the train window, giving only a glimpse of the passing landscape
+- "Tea without milk is poison!"
+- Everyone keeps saying his behavior is bear-like, but I don't see it
+- Did the swamp lady glide over the water?
+- He woke up growling in his sleep. The most bear-like thing I've seen.
+- Doctor being a creep and peeping on some bathing women
+- Finally, with 25 minutes left in the movie, Wittembach goes out and observes customs
+- And then he comes right back for a wedding
+- The doctor is not good at the organ
+- The guy coughing during the wedding

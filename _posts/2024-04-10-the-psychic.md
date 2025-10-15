@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6fjA5n
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 44/52 | Lucio Fulci</a></b>
@@ -34,12 +33,12 @@ The film delights in the decadence of its setting — elaborate decor, horseback
 
 I wish I found this as fun as others do. I like it, but it's not a movie I would watch again. Then again, I may have burnt myself out on Giallo.
 
+<b>**_ Stray Thoughts/Spoilers _**</b>
 
-<b>*** Stray Thoughts/Spoilers ***</b>
-* "Look, Counselor, I've never killed any of my lovers, and there have been 56 so far. I keep count of them, you know!"
-* "I didn't think — it just came to me! I always make mistakes when I think."
-* Bruna is an excellent plot expediter — she's already done most of the leg work.
-* The zooms are, somehow, more over-the-top than usual. A scene involves a ringing phone with the camera zooming in and out to the ring's frequency.
-* A guy hangs up without saying goodbye, and the person on the other says, "Hello? Hello?" It wasn't always a movie trope, I suppose.
-* The movie hits us over the head with, "You saw into the future."
-* — "Let me see your license, senore." — "No, so frig you." [speeds off]
+- "Look, Counselor, I've never killed any of my lovers, and there have been 56 so far. I keep count of them, you know!"
+- "I didn't think — it just came to me! I always make mistakes when I think."
+- Bruna is an excellent plot expediter — she's already done most of the leg work.
+- The zooms are, somehow, more over-the-top than usual. A scene involves a ringing phone with the camera zooming in and out to the ring's frequency.
+- A guy hangs up without saying goodbye, and the person on the other says, "Hello? Hello?" It wasn't always a movie trope, I suppose.
+- The movie hits us over the head with, "You saw into the future."
+- — "Let me see your license, senore." — "No, so frig you." [speeds off]

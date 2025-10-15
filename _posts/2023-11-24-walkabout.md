@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5d5PQJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 24/52 | <a href="https://boxd.it/iYuVa">Alicia Malone's Closet Picks</a></b>

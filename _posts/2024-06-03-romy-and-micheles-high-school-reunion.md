@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6BfCWX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 23/52 | Annie’s B-movies for the GIRLS</a></b>
@@ -25,10 +24,11 @@ There are so many hot people in this movie. Justin Theroux in a cowboy hat, Jane
 Robin Schiff's script knows that Lisa Kudrow and Mira Sorvino are the movie, so the plot is little more than a frame to attach funny bits. They're both so funny. There are so many one-liners I had to pause and laugh for.
 
 Some favorites:
-* Can you excuse me? I cut my foot before, and my shoe is filling up with blood.
-* Do you have any businesswomen specials?
-* You know what? I bet everyone made someone else's life hell in high school.
-* See, I told you it would pay off to go to those clubs every night.
+
+- Can you excuse me? I cut my foot before, and my shoe is filling up with blood.
+- Do you have any businesswomen specials?
+- You know what? I bet everyone made someone else's life hell in high school.
+- See, I told you it would pay off to go to those clubs every night.
 
 I love love love the color! Romy and Michele's outfits are outstanding, and they have a new one in every scene. It feels like a Deee-Lite music video.
 

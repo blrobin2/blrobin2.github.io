@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/41SmpL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Bob Hope and Paulette Goddard reunite after <i>The Cat & the Canary</i> for another spooky house story in which Goddard inherits a castle in Cuba that everyone seems to want

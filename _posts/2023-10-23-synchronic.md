@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/52n643
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X">Hooptober X</a> | 24/34 | Moorhead & Benson</b>
@@ -29,6 +28,7 @@ The discussions of life and death, while not profound, ground the story and expr
 The ending, however, is nonsense.
 
 <b>Stray Thoughts</b>
-* I appreciate the hostile past the movie presents, especially for our Black lead. Time travel would suck for the majority of people.
-* I like seeing Anthony Mackey in a non-Marvel project! He isn't amazing, but he commits, and it helps this movie a lot.
-* Acting like Jamie Dornan is ugly is the least believable part of this movie. His American accent is shit, just let him be Irish.
+
+- I appreciate the hostile past the movie presents, especially for our Black lead. Time travel would suck for the majority of people.
+- I like seeing Anthony Mackey in a non-Marvel project! He isn't amazing, but he commits, and it helps this movie a lot.
+- Acting like Jamie Dornan is ugly is the least believable part of this movie. His American accent is shit, just let him be Irish.

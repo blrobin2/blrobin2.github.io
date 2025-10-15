@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8zevHd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>I'm afraid of dying, how is dying, mother?</i></blockquote>

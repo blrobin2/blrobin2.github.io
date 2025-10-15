@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4eccuT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A rich man abducts his new assistant with the intent of torturing her and then murdering her at the point of orgasm
@@ -21,6 +20,7 @@ The whole film has an espionage tone — maybe that’s just childhood inundatio
 The movie can get away with many insane choices by never being anything other than insane. It’s nothing brilliant, but it has more than a few ideas, however oversimplified the execution may be
 
 <b>Stray Thoughts</b>
-* The blowup replica of himself reminds me of Tracy Jordan buying a life-size sex doll of himself
-* “sexual aberrations and the stars” is a good band name
-* The woodwind quartet playing on the back of the train while he gets road head — pretty funny
+
+- The blowup replica of himself reminds me of Tracy Jordan buying a life-size sex doll of himself
+- “sexual aberrations and the stars” is a good band name
+- The woodwind quartet playing on the back of the train while he gets road head — pretty funny

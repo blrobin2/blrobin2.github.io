@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8eVPWJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 8/31 | Decades 8/10 | 40s</a></b>

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5yH92d
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 10/34 | Folk Horror 1/2 | Decades 4/8 | 70s</a></b>
@@ -30,14 +29,14 @@ Maybe in 1970, this required a vomit bag, but this is relatively tame by today's
 
 In the end, it doesn't do much with its premise, leaning more into the brutality of the torture being enough. It isn't.
 
+<b>**_Thoughts / Spoilers_**</b>
 
-<b>***Thoughts / Spoilers***</b>
-* This Vinegar Syndrome remaster looks amazing.
-* Young Udo Kier
-* The Lord Bishop rapes a nun and has her excommunicated from the convent. She miscarries the baby, and the witchfinder accuses her of using abortive witchcraft. She gets the worst of the torture, including having her tongue ripped out.
-* "You dare accuse the church of murder! What man of god would commit such a crime?"
-* Fingers in vices. Bleh.
-* Shaved legs in the 1700s
-* I guess Lord Cumberland is impotent. He goes into a frenzy whenever it comes up. He strangles Albino to death over it.
-* Puppets genuinely confuse the advocate, and he declares the puppeteer a witch.
-* The most fucked up thing is the guy tying strings to a rabbit and playing with it like a puppet :(
+- This Vinegar Syndrome remaster looks amazing.
+- Young Udo Kier
+- The Lord Bishop rapes a nun and has her excommunicated from the convent. She miscarries the baby, and the witchfinder accuses her of using abortive witchcraft. She gets the worst of the torture, including having her tongue ripped out.
+- "You dare accuse the church of murder! What man of god would commit such a crime?"
+- Fingers in vices. Bleh.
+- Shaved legs in the 1700s
+- I guess Lord Cumberland is impotent. He goes into a frenzy whenever it comes up. He strangles Albino to death over it.
+- Puppets genuinely confuse the advocate, and he declares the puppeteer a witch.
+- The most fucked up thing is the guy tying strings to a rabbit and playing with it like a puppet :(

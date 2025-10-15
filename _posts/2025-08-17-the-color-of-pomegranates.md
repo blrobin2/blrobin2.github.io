@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/aL7BKx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Immaculate vibes — I wish biopics would take big swings like this these days.

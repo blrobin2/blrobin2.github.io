@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/bgBmXv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 4/31 | Decades 3/9 | 1980s | Zombie 3/5</a></b>

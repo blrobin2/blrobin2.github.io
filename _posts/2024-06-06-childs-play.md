@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6CqP5t
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 5/31 | Franchise 5/7 | Remake</a></b>

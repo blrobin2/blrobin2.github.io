@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/7atqtx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>For extreme illnesses, extreme treatments are most fitting.</i> — Hippocrates</blockquote>

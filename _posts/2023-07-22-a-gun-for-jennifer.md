@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4ytuaV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Allison (Deborah Twiss) has just arrived in New York City when two men attack her. But before they can go too far, a woman vigilante gang shows up, castrating and killing them

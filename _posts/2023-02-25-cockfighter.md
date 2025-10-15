@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/3UaN11
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Buddy, I was not expecting real cockfighting, let alone so much of it, but I guess that was supposed to be the selling point?

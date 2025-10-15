@@ -6,15 +6,14 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/56R6v5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 7/52 | Films to Fall Asleep To</b>
 
 <blockquote><i>Only the color remains as it was back then</i></blockquote>
 
-Noriko (Setsuko Hara) is a twenty-seven-year-old who lives with her father, Professor Shukichi Somiya (Chishū Ryū). 
+Noriko (Setsuko Hara) is a twenty-seven-year-old who lives with her father, Professor Shukichi Somiya (Chishū Ryū).
 
 Shukichi is a widower, and his daughter has not been married. Noriko became sick during the war but is getting better.
 
@@ -30,7 +29,7 @@ And yet, Ozu could still subvert the censorship and present his appreciation for
 
 Ozu builds gorgeous compositions in every frame, insisting on a still, measured performance from the actors.
 
-His frequent use of multiple shots for establishing the scene for each transition influenced manga and anime. This stylistic choice is now almost synonymous with Japanese culture because of its prevalence in media. 
+His frequent use of multiple shots for establishing the scene for each transition influenced manga and anime. This stylistic choice is now almost synonymous with Japanese culture because of its prevalence in media.
 
 His sense of timing and space slows the story down, intentionally so, giving the film a more reflective nature. He lets us watch characters think and feel without giving us an explanation for what could motivate them. This stylistic pacing has become a staple of the contemporary slow cinema movement.
 

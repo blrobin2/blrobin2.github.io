@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5NlTWn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <a href="https://youtu.be/cKOSJ5AAwfc?si=pS2J7tWzQIUBQYEZ">Watch on YouTube</a>

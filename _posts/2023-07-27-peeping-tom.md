@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4ADaVv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— Anyone with you?
@@ -33,8 +32,9 @@ of his locked expression of neutrality
 <blockquote><i>Whatever I photograph, I always lose.</i></blockquote>Overall, this movie holds the blueprint for the American slasher, complete with our "final girl," Helen. While I didn't find an emotional connection that would make me love this movie, I appreciate just about every choice this movie makes
 
 <b>Stray Thoughts</b>
-* the dragonfly pin piercing her dress drives him crazy
-* the studio worried about losing a day interviewing folks
-* haunted distant piano in the soundtrack
-* the director yelling "Ye gods!" is so good
-* scoptophilia - the morbid urge to gaze
+
+- the dragonfly pin piercing her dress drives him crazy
+- the studio worried about losing a day interviewing folks
+- haunted distant piano in the soundtrack
+- the director yelling "Ye gods!" is so good
+- scoptophilia - the morbid urge to gaze

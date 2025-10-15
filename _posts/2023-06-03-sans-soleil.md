@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4k0ERB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A travelogue narrated by one who received the stories, philosophical musings, and meta-commentary on the nature of documentary from the traveler, collected in writing, bits of recounting, and the footage to match it, often in a more abstract sense

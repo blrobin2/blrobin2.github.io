@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/598kUl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 14/52 | Sundance Hits</b>
@@ -20,7 +19,7 @@ She then takes her bike to work — a brothel run out of a two-story apartment r
 
 The other women arrive, getting ready for their shifts. They serve clientele between those serviced by street workers or high-end call girls. Middle-class sex work, more or less.
 
-The film depicts a day in Molly's life. It highlights the physical labor of sex and the emotional labor of performance. They must be both assertive yet never bring the client's sexuality into question. 
+The film depicts a day in Molly's life. It highlights the physical labor of sex and the emotional labor of performance. They must be both assertive yet never bring the client's sexuality into question.
 
 Molly has worked at the brothel for two months. This makes her one of the new girls. She is still learning about some regulars and their fetishes.
 

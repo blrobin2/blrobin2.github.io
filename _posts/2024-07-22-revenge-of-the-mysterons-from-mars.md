@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6VOtrh
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Joel and Crow are stranded in space on Thanksgiving. They at least caught the Macy's Thanksgiving Parade. Tom Servo makes his first appearance after the commercial break.

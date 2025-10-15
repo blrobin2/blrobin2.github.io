@@ -6,15 +6,14 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6EuCxZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 8/31 | Countries 1/6 | Germany</a></b>
 
 Finance district, NYC. The sun sets and office lights dot the landscape like dying stars.
 
-Morris takes a swig of coffee before seeing a letter on his desk from the Volmer Institute to Mr. Hank Green (not that one). The letter has a black wax seal of two eels interweaving. He feels chest pains. He drinks water to help it, but it only brings him to the ground, convulsing and dead. 
+Morris takes a swig of coffee before seeing a letter on his desk from the Volmer Institute to Mr. Hank Green (not that one). The letter has a black wax seal of two eels interweaving. He feels chest pains. He drinks water to help it, but it only brings him to the ground, convulsing and dead.
 
 Cut to a train running through a mountain in the Swiss Alps. Lockhart is on the phone with his assistant, Josh, talking about a merger. Among his paperwork and newspapers is an eel-sealed letter, written by Roland Pembroke, the CEO of the financial firm for which Lockhart is an executive.
 

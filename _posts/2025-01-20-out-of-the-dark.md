@@ -6,13 +6,12 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8xHUIZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 10</a></b>
 
-A stilted voice calls, asking for Jo Ann. Jo Ann initiates phone sex, reading a script about about bus exchange. She stops briefly to swat a fly. The stilted voice takes heavy drags off his cigarette. Laying around him are open BDSM porno mags. He grabs a knife off the table and runs it along his nipples. "Nobody can handle nipples like Bobo," he says before hanging up. 
+A stilted voice calls, asking for Jo Ann. Jo Ann initiates phone sex, reading a script about about bus exchange. She stops briefly to swat a fly. The stilted voice takes heavy drags off his cigarette. Laying around him are open BDSM porno mags. He grabs a knife off the table and runs it along his nipples. "Nobody can handle nipples like Bobo," he says before hanging up.
 
 That night, Jo Ann goes on a run with her dog Asberry. She finds her dog held by a man wearing a clown mask. He performs a routine with a baseball bat, and Jo Ann laughs and goes along with it. She tries to leave, but he won't let her leave. Before she knows it, he swings the bat down onto her head.
 

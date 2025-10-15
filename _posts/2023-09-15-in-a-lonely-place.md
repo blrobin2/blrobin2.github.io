@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4Qwwhx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>There's no sacrifice too great for a chance at immortality </i></blockquote>Dixon Steele is a washed-up screenwriter working in a city that sells popcorn and repeats — he joins the actors of yesteryear on the barstool as opportunities flutter across them. But Steele won't do any work that his heart isn't in
@@ -25,5 +24,6 @@ As a contemporary audience member, it's impossible to root for Dixon and Laurel 
 But love is cruel in how it chooses for us our romantic interests. And this isn't a morality play — it's the story of two people the world has hurt too many times
 
 <b>Stray Thoughts</b>
-* It's wild how many speaking roles go uncredited here! Ruth Gillett, who plays Martha, provides crucial plot points
-* We need to go back to launching music careers from movie performances
+
+- It's wild how many speaking roles go uncredited here! Ruth Gillett, who plays Martha, provides crucial plot points
+- We need to go back to launching music careers from movie performances

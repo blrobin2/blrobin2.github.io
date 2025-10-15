@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4Nz5eb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>You won't kiss me just because you're getting married?</i></blockquote>Lulu is a woman whom boys keep messing up their lives for, and she's the one who pays the price — well, and that guy she kills in self-defense. And there's the Countess Augusta Geschwitz, who is clearly in love with Lulu, and they should have ended up together!
@@ -21,8 +20,9 @@ Her close-ups look so modern, despite her 20s bob haircut — which she populari
 I adore this — a testament to just how much silent movies were and are capable of, even as entertaining stories for general audiences
 
 <b>Contemporary casting of my remake:</b>
-* Phoebe Waller-Bridge as Lulu
-* Oscar Isaac as Alwa Schön
-* Melanie Lynskey as the Countess
-* Teller (from Penn and Teller) as Schigolch
-* Jon Hamm as Jack the Ripper (oh, did I forget to mention that Jack the Ripper shows up?!)
+
+- Phoebe Waller-Bridge as Lulu
+- Oscar Isaac as Alwa Schön
+- Melanie Lynskey as the Countess
+- Teller (from Penn and Teller) as Schigolch
+- Jon Hamm as Jack the Ripper (oh, did I forget to mention that Jack the Ripper shows up?!)

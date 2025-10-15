@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6aGNBR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 32/32 | Bonus</a></b>

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5KjwmF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 2/32 | Countries 2/6 | Germany</a></b>
@@ -42,21 +41,21 @@ A lot of puking in this one, so be warned.
 
 Overall, this film is devastating and melancholic. Unbelievable that this is a student film.
 
+<b>** Stray Thoughts / Spoilers \***</b>
 
-<b>** Stray Thoughts / Spoilers ***</b>
-* Gorgeous cat!
-* I think Albrun fucks these goats. At least she loves that goat’s milk a bunch.
-* It always feels weird when actors put their nipples in an actor baby’s mouth. Wouldn’t that confuse them?
-* Swinda seems like she has ulterior motives. Like she’s only friends with Albrun to convert her or something.
-* So Swinda occupies Albrun by letting some villager rape her? What the fuck?
-* Why did they kill her fucking goat? Why would you mess with someone you thought was a witch?
-* Poison the well. Brutal
-* Just gonna take some mushrooms I found and freak out in the woods with my baby
-* What the fuckkkkk
-* Dude, don't swim in bog water
-* Is that snake talking like her mom?
-* oh the skill duh
-* That's a dead baby
-* Mother's face superimposes on her's
-* Is she... eating her baby?
-* I'm guessing she has a similar experience to her mother
+- Gorgeous cat!
+- I think Albrun fucks these goats. At least she loves that goat’s milk a bunch.
+- It always feels weird when actors put their nipples in an actor baby’s mouth. Wouldn’t that confuse them?
+- Swinda seems like she has ulterior motives. Like she’s only friends with Albrun to convert her or something.
+- So Swinda occupies Albrun by letting some villager rape her? What the fuck?
+- Why did they kill her fucking goat? Why would you mess with someone you thought was a witch?
+- Poison the well. Brutal
+- Just gonna take some mushrooms I found and freak out in the woods with my baby
+- What the fuckkkkk
+- Dude, don't swim in bog water
+- Is that snake talking like her mom?
+- oh the skill duh
+- That's a dead baby
+- Mother's face superimposes on her's
+- Is she... eating her baby?
+- I'm guessing she has a similar experience to her mother

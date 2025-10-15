@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8Fi5QP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 16</a></b>

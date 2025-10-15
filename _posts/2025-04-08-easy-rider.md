@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/9lCJnh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 30/52 | America Lost and Found: The BBS Story</a></b>

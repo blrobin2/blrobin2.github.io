@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/50Q23F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 20/34 | De Palma</b>
@@ -28,8 +27,7 @@ The special effects are pretty good for 2000, even if what they’re depicting i
 
 For a space movie, this isn’t all that fun or interesting.
 
-
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 
 The creation museum ending is so half-baked that it makes all the build-up to it a bummer. Also, the filmmakers put so much of the film following their trouble getting there. And it doesn’t matter (beyond Tim Robbins’ character dying).
 

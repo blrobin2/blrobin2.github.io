@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6lqurF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 25/32 | Woman-Directed 1/2</a></b>

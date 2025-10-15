@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6lz5Iz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 51/52 | Italian Horror">Cult Movie Challenge 2016 | 51/52 | Italian Horror</a></b>
@@ -30,22 +29,22 @@ That's also when the film gets boring. I'm not into these "watching people posse
 
 I still like the movie — I just came away less excited for an underwhelming back half. I enjoyed how weird this movie was otherwise.
 
+<b>**_ STRAY THOUGHTS / SPOILERS_**</b>
 
-<b>*** STRAY THOUGHTS / SPOILERS***</b>
-* Dead silent credits with two title cards.
-* Beheaded frog in the tithe!
-* They put too much makeup on her brother — his face is one tone.
-* The Inquisition Rotunda!
-* The match cut to the father seeing a shadow and Ippolita stabbing her father's picture
-* The flashbacks are wild as hell
-* The coven orgy! The visuals are wild
-* The frog decapitation is horrifying
-* Woah, she's licking that goat's butthole
-* Haunted organ!
-* Everyone accepts immediately that she's possessed by Satan and that it's scientific.
-* Uh oh, she's trying to fuck her brother
-* I love the busts of the heads all looking down the hall! I would do that in my apartment if my landlord wasn't... well, a landlord
-* That's some goofy-looking floating
-* Disembodied arm choking a guy!
-* Eww, eating vomit
-* Bored
+- Dead silent credits with two title cards.
+- Beheaded frog in the tithe!
+- They put too much makeup on her brother — his face is one tone.
+- The Inquisition Rotunda!
+- The match cut to the father seeing a shadow and Ippolita stabbing her father's picture
+- The flashbacks are wild as hell
+- The coven orgy! The visuals are wild
+- The frog decapitation is horrifying
+- Woah, she's licking that goat's butthole
+- Haunted organ!
+- Everyone accepts immediately that she's possessed by Satan and that it's scientific.
+- Uh oh, she's trying to fuck her brother
+- I love the busts of the heads all looking down the hall! I would do that in my apartment if my landlord wasn't... well, a landlord
+- That's some goofy-looking floating
+- Disembodied arm choking a guy!
+- Eww, eating vomit
+- Bored

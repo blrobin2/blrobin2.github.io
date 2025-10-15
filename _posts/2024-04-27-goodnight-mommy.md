@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6lMAvn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 26/32 | Woman-Directed 2/2</a></b>
@@ -24,7 +23,7 @@ The house has several unusual characteristics. Several rooms have enlarged photo
 
 The film explores a genuine feeling from childhood, where parents change and they become unrecognizable.
 
-I grew up with an inconsistent mother. It felt like a different mom would come home some days. I felt like I was going crazy when she would punish me for no obvious reason at random times. 
+I grew up with an inconsistent mother. It felt like a different mom would come home some days. I felt like I was going crazy when she would punish me for no obvious reason at random times.
 
 It didn’t matter whether she was my mom — I didn’t feel safe in her presence.
 

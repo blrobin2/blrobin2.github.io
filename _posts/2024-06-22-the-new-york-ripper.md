@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6IIIUT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 21/31 | Lucio Fulci</a></b>
@@ -25,9 +24,9 @@ Meanwhile, a blue Mercury tails Rosie, a woman on a bicycle in Manhattan. She ri
 
 After the Beetle gets on the ferry and the driver leaves, Rosie jumps in the vehicle and writes a message in lipstick on the windshield. She gets “SHiT” written out before the Mercury driver approaches her. He jumps in the car with her and talks, sure enough, like a duck. He draws a switchblade and quacks, slashing into her.
 
-Barry, who performed the autopsy on Rosie, speaks with Williams and confirms that the murder is in the same style as Anne Lynne’s, as well as a Harlem case from a month back. Williams tells the press there’s a serial killer on the prowl. 
+Barry, who performed the autopsy on Rosie, speaks with Williams and confirms that the murder is in the same style as Anne Lynne’s, as well as a Harlem case from a month back. Williams tells the press there’s a serial killer on the prowl.
 
-Following up his Gates of Hell trilogy, Fulci takes a step back from the supernatural psych-outs and returns to form with a by-the-books serial killer story with all the sleaze and gore he can muster. 
+Following up his Gates of Hell trilogy, Fulci takes a step back from the supernatural psych-outs and returns to form with a by-the-books serial killer story with all the sleaze and gore he can muster.
 
 The actual gift the movie offers is all the early 80s footage of New York and Times Square when grindhouses and live sex shows littered the street like cheap flyers. Our killer hates the perversity and seeks women who enjoy sex.
 
@@ -35,15 +34,15 @@ The film makes the rare but admirable choice to depict sex workers as folks who 
 
 The kills are fucking brutal — lots of cringing, and “Oh god!”s and “Jesus Christ!”s exclaimed.
 
-That ending, too… 
+That ending, too…
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Cue opening credits over a still of the rotting hand! Classic Fulci.
-* Barry says the killer stuffed his blade in her “joy trail.” Is that the same as a happy trail?
-* Dardano Sacchetti did rewrites on the script, claiming Fulci “nurtures a profound sadism towards women.” Meanwhile, Fulci said he just wanted to make a Hitchcock tribute. Both can be true.
-* Fulci plays the chief of police. They dub him with the funniest Brooklyn cop accent. I guess this is his equivalent of a Hitchcock cameo?
-* Piles of porn, gay and straight, everywhere!
-* A dream sequence?? Get real.
-* Fay’s nuclear physicist boyfriend, Peter, is too hot.
-* Oh… oh no.
+- Cue opening credits over a still of the rotting hand! Classic Fulci.
+- Barry says the killer stuffed his blade in her “joy trail.” Is that the same as a happy trail?
+- Dardano Sacchetti did rewrites on the script, claiming Fulci “nurtures a profound sadism towards women.” Meanwhile, Fulci said he just wanted to make a Hitchcock tribute. Both can be true.
+- Fulci plays the chief of police. They dub him with the funniest Brooklyn cop accent. I guess this is his equivalent of a Hitchcock cameo?
+- Piles of porn, gay and straight, everywhere!
+- A dream sequence?? Get real.
+- Fay’s nuclear physicist boyfriend, Peter, is too hot.
+- Oh… oh no.

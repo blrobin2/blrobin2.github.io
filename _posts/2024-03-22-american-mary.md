@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/66rLcf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 21/32 | women-directed film 1/2 | Countries 4/6 | Canada</a></b>

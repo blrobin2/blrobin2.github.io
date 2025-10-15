@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/68Pkgb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 26/32 | Classic Universal</a></b>

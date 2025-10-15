@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6nge1f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 29/32 | Tobe Hooper 1/2</a></b>
@@ -32,10 +31,10 @@ Brian Dourif makes a meal of his hot-headed role. When his powers go into effect
 
 I may not love it as much as the Hoopsters, but it’s still better than critics claim.
 
-
 <b>** Stray Thoughts / Spoilers **</b>
-* It’s satisfying watching John Landis burst into flames.
-* Homeopathic migraine pills??
-* Why do they let him get angry? Shouldn’t they be trying to quell his anger, no matter what?
-* All Lisa’s translucent neon stuff rules — her phone, her jukebox, and so on. What is that design style called?
-* Neon green goo that fixes everything? Sure!
+
+- It’s satisfying watching John Landis burst into flames.
+- Homeopathic migraine pills??
+- Why do they let him get angry? Shouldn’t they be trying to quell his anger, no matter what?
+- All Lisa’s translucent neon stuff rules — her phone, her jukebox, and so on. What is that design style called?
+- Neon green goo that fixes everything? Sure!

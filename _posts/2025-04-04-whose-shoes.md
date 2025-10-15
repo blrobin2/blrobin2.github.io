@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9jktUl
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Quick question: what the hell was that?
+- Quick question: what the hell was that?

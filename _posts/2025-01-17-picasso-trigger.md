@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8veSSR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 9</a></b>
@@ -31,16 +30,17 @@ So far, this movie is the weakest in the Triple B series. It involves too much t
 
 Don't get me wrong—this movie is silly and entertaining, but it pales compared to its predecessors. Here's hoping <i>Savage Beach</i> gets back to basics.
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Dude, the score has some hooks! We keep the synth work from Hard Ticket to Hawaii.
-* Steve Bond's Travis is the least charismatic of the Abilene cousins thus far. He looks good in a speedo but delivers lines like Ryo Hazuki in Shenmue.
-* Samson the cat is so adorable!
-* A woman strips down while Travis is making a drink. "Check it out," she says like she's showing him a cool trinket.
-* The sex scenes in this are not too dissimilar from those in <i>The Room</i>.
-* Andy Sedaris shows up for the one comedic bit in the movie, where he sinks a hole in one.
-* — Whadaya say we make you an honorary member of the mile high club? — Travis, we're 7 miles up. — Then we better do it 7 times.
-* The Professor gives Travis a crutch that is also a weapon.
-* Edy!
-* The interstitials are fucking killer. I love the red lines through the white text look. These movies have always had solid graphic design.
-* — Didn't I tell you, Jade? I got a black belt in shotgun.
-* The Picasso Trigger theme in the credits is a bop! "Pullin' the trigger, jumpin' the gun!"
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- Dude, the score has some hooks! We keep the synth work from Hard Ticket to Hawaii.
+- Steve Bond's Travis is the least charismatic of the Abilene cousins thus far. He looks good in a speedo but delivers lines like Ryo Hazuki in Shenmue.
+- Samson the cat is so adorable!
+- A woman strips down while Travis is making a drink. "Check it out," she says like she's showing him a cool trinket.
+- The sex scenes in this are not too dissimilar from those in <i>The Room</i>.
+- Andy Sedaris shows up for the one comedic bit in the movie, where he sinks a hole in one.
+- — Whadaya say we make you an honorary member of the mile high club? — Travis, we're 7 miles up. — Then we better do it 7 times.
+- The Professor gives Travis a crutch that is also a weapon.
+- Edy!
+- The interstitials are fucking killer. I love the red lines through the white text look. These movies have always had solid graphic design.
+- — Didn't I tell you, Jade? I got a black belt in shotgun.
+- The Picasso Trigger theme in the credits is a bop! "Pullin' the trigger, jumpin' the gun!"

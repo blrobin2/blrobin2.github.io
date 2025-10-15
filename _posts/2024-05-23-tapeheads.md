@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6wIRUZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y" title="Birthday Year Challenge 7">Birthday Year Challenge 7</a></b>
@@ -24,6 +23,6 @@ The movie isn't funny, but it got better as I got higher. If it's trying to sati
 
 But if you can ignore how clever it thinks it is, it becomes mindless eye candy — tons of cameos and some odd music videos. One video is just voyeuristic zoom-ins on women's asses.
 
-* I keep seeing Doug McClure in things! 
-* Weird Al has a brief cameo where he shoves a door in John Cusack's face.
-Jessica Walter!
+- I keep seeing Doug McClure in things!
+- Weird Al has a brief cameo where he shoves a door in John Cusack's face.
+  Jessica Walter!

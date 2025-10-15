@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/3u8mR7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Watched to see just how bad it is — Andy Mulligan has been compared to Ed Wood — and yeah man, it’s bad, but not in a way that I can enjoy

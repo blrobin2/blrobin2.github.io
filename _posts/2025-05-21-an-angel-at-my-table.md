@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/9KNiXT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 49/52 | Agnes Varda's Closet Picks</a></b>
@@ -28,6 +27,6 @@ Each of the three actors who portray Janet gives phenomenal performances, bringi
 
 If this movie sounds grim, you're not wrong. However, the filmmaking has such warmth and lack of self-effacement that it would punish the experience. If you've seen other Campion films, you may have a sense of darkness in mind. Campion's films have a remarkable ability to explore darkness and trauma, excavating the interiority of women—the relationships they build or, more often, endure. The movie, however, is hopeful in Frame's undying resilience.
 
-Kerry Fox does unbelievable work. The film owes much of its power to her empathetic performance as such a singular person as Frame. Her pains became mine, and her victories, too. I don't think I've ever cheered so much when someone got laid in a movie. 
+Kerry Fox does unbelievable work. The film owes much of its power to her empathetic performance as such a singular person as Frame. Her pains became mine, and her victories, too. I don't think I've ever cheered so much when someone got laid in a movie.
 
 <i>An Angel at My Table</i> was Campion's breakthrough, earning her the esteem of being the first New Zealand film to be screened at the Venice Film Festival. New Zealand's most brilliant filmmaker brings the story of its most distinguished authors to life in such a moving and engrossing portrait.

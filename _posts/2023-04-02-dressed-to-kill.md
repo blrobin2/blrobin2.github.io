@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/43KnPn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The movie has such a sweeping, dramatic score. The entire film has the defuse gauze over it. It’s so beautifully shot; I don’t care how meandering the plot is

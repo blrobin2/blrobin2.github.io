@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/49pSNf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I laughed, Chris Pine charmed my little pants off, the movie MacGuffin’d the ever-living shit out of me, and in true D&D fashion, it ripped off as many movie tropes as it could

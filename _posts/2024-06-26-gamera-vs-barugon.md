@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6KxBZX
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 KMTA episodes time! The collection I found is missing the first 3 eps and the unaired pilot. Straight out of the gate, the show had its deal figured out. Because it was local access, they had a call-in number and would play calls. My personal favorite:

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3Xm47f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Obviously thankful for this if only it brought about one of my favorite TV shows. At this stage, however, the show has exhausted the humorous elements from this, so it’s hard to watch without the show in mind

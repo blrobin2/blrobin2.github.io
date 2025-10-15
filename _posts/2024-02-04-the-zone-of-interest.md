@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5KTtSZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Rudolf and Hedwig have their ideal life. They have a big house for all of their children. They have a beautiful yard with a pool and a garden.

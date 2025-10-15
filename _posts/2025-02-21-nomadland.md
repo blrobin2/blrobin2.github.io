@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8TL7n5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 49/52 | Made in Georgia (US State)</a></b>

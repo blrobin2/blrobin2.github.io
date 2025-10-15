@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8GiXVj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>If you don't have a rat, you can't be one of us</i></blockquote>

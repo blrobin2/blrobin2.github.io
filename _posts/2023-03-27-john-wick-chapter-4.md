@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/42krRr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>John Wick</i> has been a series that I’ve been conflicted about each time, especially once it moved beyond the relative simplicity of the first one

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4L1BNL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Watching for a podcast
@@ -25,7 +24,8 @@ Denzelwitu Washington is the perfect casting choice — few actors can read as p
 I didn't go into this with high hopes, but I ended up enjoying this more than I expected
 
 <b>Stray Thoughts</b>
-* St. Jude, Patron Saint of Lost Causes — sick burn, Pita
-* I hope Dakota Fanning is in therapy
-* Shooting a shotgun in the air at a rave seems dangerous
-* The bomb in the guy's ass takes the movie to exploitation territory — you strapped him to a car — you couldn't put the bomb in the car?
+
+- St. Jude, Patron Saint of Lost Causes — sick burn, Pita
+- I hope Dakota Fanning is in therapy
+- Shooting a shotgun in the air at a rave seems dangerous
+- The bomb in the guy's ass takes the movie to exploitation territory — you strapped him to a car — you couldn't put the bomb in the car?

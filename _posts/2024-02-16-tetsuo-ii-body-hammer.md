@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5Q7Wjx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 15/32 | 2nd film in franchise 7/7 | Body Horror 1/4</a></b>
@@ -24,7 +23,7 @@ Tomoo accidentally killed his son.
 
 Metal links surround him, entangle him. Visions flicker like channels changing stations. He remembers.
 
-The movie is not a sequel to <i>Tetsuo The Iron Man</i>, but a high-budget re-pass on the themes. Like the previous film, the story is only a loose thread to depict a man becoming a machine. 
+The movie is not a sequel to <i>Tetsuo The Iron Man</i>, but a high-budget re-pass on the themes. Like the previous film, the story is only a loose thread to depict a man becoming a machine.
 
 I was worried that, with a higher budget, this would have fewer charms. And while the movie doesn't have the pure chaos of the first one, it has some killer special effects and visuals. We still get some stop-motion transformation scenes that are pretty sick.
 

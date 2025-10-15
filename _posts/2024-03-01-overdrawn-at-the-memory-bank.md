@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5WFbId
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>Movie CW // Misogyny, Ableism, Fatphobia</i>
@@ -19,7 +18,7 @@ This movie is a solid cyberpunk idea, but it's SOV and made by public television
 
 It's pretty good, though!
 
-* See you on the dark side of my room
-* We'll return to Days of our Fingal after this
-* Finally, I killed my virtual pet
-* Eating Raúl
+- See you on the dark side of my room
+- We'll return to Days of our Fingal after this
+- Finally, I killed my virtual pet
+- Eating Raúl

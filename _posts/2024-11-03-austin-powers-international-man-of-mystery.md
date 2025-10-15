@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/7IdPYz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Still not sure if this is a good mushroom movie, but it got some chuckles out of me

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4d7jTn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Excellent 90s color palate. Truly obsessed with all of the duo-tone scenes
@@ -19,8 +18,9 @@ I’m just over conversion therapy as a central plot point to a queer story. Tha
 Still, happy this exists!
 
 <b>Stray Thoughts</b>
-* Ru Paul with a goatee is barely recognizable
-* This is the most earnest I’ve seen Natasha Lyonne
-* Thank god Melanie Lynsky gets to speak in her Kiwi accent
-* Oh, hey, Rufio!
-* All the cutouts in the boys' training area are hilarious
+
+- Ru Paul with a goatee is barely recognizable
+- This is the most earnest I’ve seen Natasha Lyonne
+- Thank god Melanie Lynsky gets to speak in her Kiwi accent
+- Oh, hey, Rufio!
+- All the cutouts in the boys' training area are hilarious

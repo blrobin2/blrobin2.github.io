@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4ZWsiJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Free! Free at last!</i></blockquote>

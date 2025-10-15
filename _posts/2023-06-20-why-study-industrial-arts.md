@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/4oOwAj
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* I like to sneak in and lay on the table saw
-*  🎵Tool operators, tooool operaterrrrs
+- I like to sneak in and lay on the table saw
+  \*  🎵Tool operators, tooool operaterrrrs

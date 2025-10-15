@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4wPEOx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A woman collapses on the road in front of an 18-wheeler

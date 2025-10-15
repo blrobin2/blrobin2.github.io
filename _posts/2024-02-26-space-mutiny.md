@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5V3qmh
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>Movie CW // Violence, Murder, Blood, Misogyny
@@ -17,11 +16,11 @@ And so begins perhaps the best run of movies on the show: <i>Space Mutiny</i>, <
 
 I would watch this movie outside of <i>MST3K</i>. The exterior shots are all from the original <i>Battlestar Galactica</i>.
 
-* I don't know if this helps, but "ho ho ho."
-* We've got some Benedictine monks in the floorboards, unfortunately
-* Thick McRunfast
-* Open fire on Blitzen
-* How dare you insult my knowledge of ancient dentistry?
-* — Hey you! — You mean me or my familiar?
-* Ow, my mask!
-* Big McLargehuge
+- I don't know if this helps, but "ho ho ho."
+- We've got some Benedictine monks in the floorboards, unfortunately
+- Thick McRunfast
+- Open fire on Blitzen
+- How dare you insult my knowledge of ancient dentistry?
+- — Hey you! — You mean me or my familiar?
+- Ow, my mask!
+- Big McLargehuge

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/azanDP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 For the first and only time in history, someone associates Alice in Wonderland with drugs

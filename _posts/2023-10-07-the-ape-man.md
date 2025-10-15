@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4X7IO7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 9/34 | Decades 3/8 | 1940s</b>
@@ -27,4 +26,5 @@ There’s a tone to the movie that suggests it may be trying to be funny or sati
 Overall, it's a silly little thing only for genre enthusiasts
 
 Stray Thoughts
-* “Shooting that one-eyed monster for Uncle Sam.” — the quote is about a camera, but come on man
+
+- “Shooting that one-eyed monster for Uncle Sam.” — the quote is about a camera, but come on man

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6tUiHX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Arkham, Massachusetts</b>

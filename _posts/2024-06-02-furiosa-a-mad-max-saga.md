@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6AR12v
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This movie has every flaw a prequel could have — it is entirely in service of another film with nothing new to offer.

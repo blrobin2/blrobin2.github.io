@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6NhKHX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 1/31 | Franchises 1/5">Hooptober 2.0 | 1/31 | Franchises 1/5</a></b>

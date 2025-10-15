@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5QcUS1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 24/52 | Godzilla</a></b>

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4U38YF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Taking place in New York in the 1840s,<i> The Heiress</i> is about Catherine Sloper (Olivia de Havilland), the naive and "unrefined" daughter of Dr. Austin Sloper (Ralph Richardson). Or, as her father describes her, an "entirely mediocre and defenseless creature without a shred of poise."

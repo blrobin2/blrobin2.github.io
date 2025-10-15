@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8ZmIvJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 yodelay hee boots

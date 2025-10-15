@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/7VTvrL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I decided to check out the other Hill - Newman - Redford flick. While Newman and Redford have plenty of charm and banter, the script is pretty weak. It does that <i>Midnight Cowboy</i> thing of two guys who got lost on the road to nowhere in particular.

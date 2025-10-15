@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6Zsco3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 31/52 | Michael Shannon’s Closet Picks</a></b>
@@ -22,11 +21,11 @@ Zack gets drunk and mopes outside a bar. Bob, an Italian tourist, starts a conve
 
 Who should meet each other at the jail but Jack and Zack? The film follows them as they figure out how to tolerate one another.
 
-In true Jarmusch form, we have a film that, on paper, is a tense neo-noir, but is more often a character study. No, you won’t learn how Jack or Zach got set up, who the body is, or any of that. Hell, when they escape, we don’t have any clue how. As a formalist exercise, it’s amusing. And lord knows we’ve had enough prison escape movies. 
+In true Jarmusch form, we have a film that, on paper, is a tense neo-noir, but is more often a character study. No, you won’t learn how Jack or Zach got set up, who the body is, or any of that. Hell, when they escape, we don’t have any clue how. As a formalist exercise, it’s amusing. And lord knows we’ve had enough prison escape movies.
 
 Somehow, Jim Jarmusch got the brilliant Robby Müller to do the cinematography. Müller would work with Jarmusch a few more times throughout his career, his last movie being Coffee and Cigarettes. The rich monochrome and eloquent camera placement add a dynamic missing from Stranger Than Paradise. Still, this is a movie where folks sit around and go through their feelings. It just also has a plot.
 
-Joy N. Houck Jr. makes an appearance as Detective Mandino. 
+Joy N. Houck Jr. makes an appearance as Detective Mandino.
 
 John Lurie does the score for the movie, while Tom Waits provides a few songs. The two actors have good brotherly chemistry — that love-hate where they'll fight but still help each other.
 

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5hQQxX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Hey babes! You know what time it is! It’s <b>#wineoclock</b>, where we curl up on the couch, polish off a bottle of wine, and watch a <i>delicious</i> rom-com.
@@ -26,7 +25,7 @@ Still, the two spend some time together. Sean and Ally even kiss! When Ally trie
 
 She does the sensible thing and tracks him down. When she gets to his place, his mom Jojo (Olga Merediz) is there! And the entire family! And Sean’s fiance, Cassidy (Kiersey Clemons)! Because this is a rehearsal dinner!
 
-Jojo tries to wrangle Ally into being the videographer for the wedding. Her son, Jeremy (Haley Joel Osment), was going to do it, but Jojo thinks he’s too ___ to do it.
+Jojo tries to wrangle Ally into being the videographer for the wedding. Her son, Jeremy (Haley Joel Osment), was going to do it, but Jojo thinks he’s too \_\_\_ to do it.
 
 Ally sees an opportunity to weasel back into Sean's life.
 
@@ -47,11 +46,12 @@ Also wine helps! <b>#wineoclock</b>
 It’s a drunk 3, a sober 2.5!
 
 <b>Stray Thoughts / Observations</b>
-* I thought Evan Jonigkeit was PewDiePie
-* She boards a plane. A baby cries. Her cat pukes and shits. She tries to sneak over the baby and parents, and pours puke and shit all over them.
-* Her mom is fucking her third-grade teacher now.
-* Pudi plays a guy named Benny with a jean jacket.
-* A white family listening to Return of the Mack at the family gathering is fucked up!
-* Cassidy’s band sucks ass. It makes sense they’re local. Touring with Sleater-Kinney???
-* It was so close to being gay!
-* Ending your movie with Semi-Charmed Life is unfair.
+
+- I thought Evan Jonigkeit was PewDiePie
+- She boards a plane. A baby cries. Her cat pukes and shits. She tries to sneak over the baby and parents, and pours puke and shit all over them.
+- Her mom is fucking her third-grade teacher now.
+- Pudi plays a guy named Benny with a jean jacket.
+- A white family listening to Return of the Mack at the family gathering is fucked up!
+- Cassidy’s band sucks ass. It makes sense they’re local. Touring with Sleater-Kinney???
+- It was so close to being gay!
+- Ending your movie with Semi-Charmed Life is unfair.

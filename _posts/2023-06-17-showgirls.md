@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4nXLkf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>You’ve got more natural talent when you dance than anybody I’ve ever seen</i></blockquote>I realized that I had only seen clips of this on TV and that I didn’t know much about this movie beyond its reputation. Now is as good a time as any to fix that

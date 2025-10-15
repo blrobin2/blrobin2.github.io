@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9dRMEj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 47/52 | 1980s</a></b>
@@ -28,4 +27,4 @@ The scene with the chest—wow, what a moment. I've thought about it often.
 
 <a href="https://boxd.it/5eCrqd">I watched the miniseries version of this a little over a year ago</a>. The curious viewer may find the total experience of the movie lacking precisely because the film removes some of the careful textures and relationships to arrive at a manageable runtime. Then again, these may just be things I notice because I've seen the full version. The parts I connected to the most from the miniseries were Alexander's flights of fancy, which are only represented here in the tiniest way.
 
-So, while this is still a tremendous film, I prefer the full-length version. That said, despite the title, neither gives much attention to Fanny. 
+So, while this is still a tremendous film, I prefer the full-length version. That said, despite the title, neither gives much attention to Fanny.

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/2YEDHJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Platonic ideal of 60s British horror

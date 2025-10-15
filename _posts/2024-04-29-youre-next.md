@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6mLuon
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 28/32 | Barbara Crampton</a></b>

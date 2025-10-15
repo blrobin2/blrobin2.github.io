@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5399yB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Billy, a rock singer for Rocktoberblood, goes on a killing spree. Only Lynn survives. Billy gets the chair

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4AgFpz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Madeleine (Christina Lindberg) was sexually assaulted as a child, leaving her psychosomatically mute

@@ -6,15 +6,14 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5yi9qf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Once upon a time, this really happened</i></blockquote>
 
 Oliva, standing in a clock tower, overlooks the village and its eccentricities.
 
-Robert gets milk for his cat Cica and Robert's gerbil before school. 
+Robert gets milk for his cat Cica and Robert's gerbil before school.
 
 He asks the kids to draw what they like or dislike about their town. We see those likes and dislikes projected on their papers, reflecting their honest feelings, even if it scares them to voice them.
 
@@ -28,7 +27,7 @@ Cica and Mourek run off together and hang out. Robert chases after them and meet
 
 At a performance, clothes dance without a body. They put on a show that mirrors events we've seen in the movie.
 
-Diana flies in as a red rose — the color of love. 
+Diana flies in as a red rose — the color of love.
 
 Cats appear, including Mourek. Diana takes off its sunglasses, and people change color. People group according to their colors and dancing.
 

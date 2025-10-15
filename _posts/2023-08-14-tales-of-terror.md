@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4GW9mV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Three tales based on Poe stories — a daughter returns after years to find her father still living with her mother's dead body — a lush who makes his wife miserable may lose her to another man — a dying man uses mesmerism to communicate from the dead

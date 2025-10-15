@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/9QpmXz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 51/52 | Essential Art House</a></b>
@@ -31,6 +30,6 @@ The filmmaking is grand and romantic, utilizing thousands of extras to populate 
 
 While the runtime may be intimidating, the film is divided into two parts, with a seven-year gap between the events. Additionally, much of the runtime is dedicated to watching the stage performances and the audience's responses, so it all feels well-balanced.
 
- My favorite characters are the trio of writers who complete each other's sentences. They're almost like fairy tale creatures!
+My favorite characters are the trio of writers who complete each other's sentences. They're almost like fairy tale creatures!
 
 Director Rebecca Miller said in an interview that Arletty is "an actual embodiment of the Mona Lisa," and I think that's the perfect way to describe her unusual beauty and presence.

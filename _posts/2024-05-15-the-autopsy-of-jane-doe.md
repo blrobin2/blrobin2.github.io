@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6tBoRL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Everyone has a secret. Some are better at hiding them than others</i></blockquote><b>Grantham, Virginia</b>
@@ -18,7 +17,7 @@ An officer calls the sheriff downstairs. They find a partially buried dead woman
 
 They take all the bodies to Tilden Morgue, where Austin and Tommy Tilden perform autopsies. Tommy quizzes his son on the cause of death. They look in the head cavity and conclude sub-dermal hematoma.
 
-Austin's girlfriend, Emma, surprises him. She asks to see a body. Austin says no, but Tommy enters and asks her to pick. The bell tied to the corpse's ankle jingles as it comes out of the tray  — an old morgue technique, just in case the body in the tray is still alive.
+Austin's girlfriend, Emma, surprises him. She asks to see a body. Austin says no, but Tommy enters and asks her to pick. The bell tied to the corpse's ankle jingles as it comes out of the tray — an old morgue technique, just in case the body in the tray is still alive.
 
 As they leave, the sheriff brings one more body — the Jane Doe. The sheriff needs a COD tonight. That may prove to be more difficult than they think.
 

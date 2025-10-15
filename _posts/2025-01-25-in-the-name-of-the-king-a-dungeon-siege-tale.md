@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/8BhbHL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 45/52 | Uwe Boll</a></b>

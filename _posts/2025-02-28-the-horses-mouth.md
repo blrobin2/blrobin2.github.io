@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8Ydqqz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 34/52 | Alan Arkin's Top 10</a></b>

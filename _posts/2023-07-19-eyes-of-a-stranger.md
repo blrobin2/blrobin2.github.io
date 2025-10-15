@@ -6,11 +6,10 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4xlPRB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-TV Reporter Jane Harris (Lauren Hughes) reports on  yet another woman found murdered, warning the women in her audience to take every precaution
+TV Reporter Jane Harris (Lauren Hughes) reports on yet another woman found murdered, warning the women in her audience to take every precaution
 
 Jane’s sister Tracy (Jennifer Jason Leigh) was raped as a child, and the experience left her psychosomatically deaf and blind, so her warnings come from a personal place for her
 

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3RwfTl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Seems Altman likes smart-asses who end up in trouble whether they like it or not

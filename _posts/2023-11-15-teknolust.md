@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5acMRr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Babe, I'm throwing some jizz in the kettle — you want some?</b>
@@ -16,13 +15,13 @@ Ruby (Tilda Swinton) fucks a guy stupid, taking the condom home with her, boilin
 
 In the green room is Olive (Tilda Swinton) and Marinne (Tilda Swinton). Ruby goes into the red room.
 
-Dr. Rosetta Stone (Tilda Swinton) wakes up. She puts her sick-as-hell Clamshell Mac iBook G3 in her bag. She runs off to a meeting with Prof. Crick to discuss SRAs — Self-Replicating Automatons. Dr Stone says they're only a theory, but we know otherwise. 
+Dr. Rosetta Stone (Tilda Swinton) wakes up. She puts her sick-as-hell Clamshell Mac iBook G3 in her bag. She runs off to a meeting with Prof. Crick to discuss SRAs — Self-Replicating Automatons. Dr Stone says they're only a theory, but we know otherwise.
 
 Sandy (Jeremy Davies) is in his room watching Ruby's E-Dream Portal before his mom comes in to give him a bagel. He's ostensibly a men's rights activist and virgin. They talk about him finding a woman, and he goes all Jeremy Davies on her.
 
 Spermometer's low — time to go fuck! Ruby tries to hit on Agent Hopper (James Urbaniak), but he's busy. So she takes the next guy over, Tim, to the bathroom. She asks for consent before throwing a condom on him and showing him a wild time.
 
-The men she has sex with get a virus that affects their computers and their bodies, leaving a small barcode on their forehead. Agent Hopper puts thirty-five men in quarantine as he looks for the source. 
+The men she has sex with get a virus that affects their computers and their bodies, leaving a small barcode on their forehead. Agent Hopper puts thirty-five men in quarantine as he looks for the source.
 
 With the help of Dr. Stone and Dirty Dick (Karen Black), will the team find the source of this virus? Can Dr. Stone keep her secret from these government agents? Can Dr. Stone get Ruby to stop fucking for like five seconds?
 

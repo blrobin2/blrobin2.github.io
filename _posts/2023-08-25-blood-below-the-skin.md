@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KnU0D
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 should i send her a message or should i endure eternal heartache?

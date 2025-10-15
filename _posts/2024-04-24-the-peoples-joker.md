@@ -6,11 +6,10 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6kQ3j3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-**** grew up in Smallville. Her only outlet was UCB Live, particularly the hilarious Ra's al Ghul. But when she questioned her gender identity, her mother took her to Arkham Asylum, and Dr. Crane gave her a drug to make her appear happier.
+\*\*\*\* grew up in Smallville. Her only outlet was UCB Live, particularly the hilarious Ra's al Ghul. But when she questioned her gender identity, her mother took her to Arkham Asylum, and Dr. Crane gave her a drug to make her appear happier.
 
 Fifteen years later, after bombing a <i>UCB Live</i> audition, she invents anti-comedy and opens a club with her friend, Penguin. There, she meets Mr. J and finds love.
 

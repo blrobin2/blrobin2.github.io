@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4IeqQN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— You're marrying a child
@@ -25,7 +24,8 @@ I appreciate the filmmaking and the boldness of the direction, but there are pro
 Still, lots of good stuff
 
 <b>Stray Thoughts</b>
-* Criterion calling this a "thriller" is a massive stretch
-* I had to see the movie that made Shirley Temple resign from judging film festivals
-* If you watched this with me, you would've heard me yell, "Paging Dr. Freud!" every three minutes
-* It's, unfortunately, a woman seeing a man she can fix and (spoiler alert) succeeding
+
+- Criterion calling this a "thriller" is a massive stretch
+- I had to see the movie that made Shirley Temple resign from judging film festivals
+- If you watched this with me, you would've heard me yell, "Paging Dr. Freud!" every three minutes
+- It's, unfortunately, a woman seeing a man she can fix and (spoiler alert) succeeding

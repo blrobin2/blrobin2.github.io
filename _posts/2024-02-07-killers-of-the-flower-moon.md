@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5MpWCz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>I sure do love money. I almost love it as much as I love my wife.</i></blockquote><i>Oklahoma, 1920s</i>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3WEC9B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The scene with Jeanne Crain playing the piano is so beautifully staged with the open window and the flowers

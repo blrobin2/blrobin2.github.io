@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/aMiexB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 In the afterlife, if people forget you, you disappear. So, ghosts haunt the living to stay on people's minds. The dark humor is reminiscent of the original <i>Beetlejuice</i> (without the rape jokes), complete with arbitrary afterlife bureaucracy.

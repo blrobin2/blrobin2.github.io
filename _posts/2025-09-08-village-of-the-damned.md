@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/b0pMYV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 37/52 | Black & White Horror</a></b>
@@ -24,19 +23,19 @@ The movie unfolds in that steady, old British horror kind of way — each moment
 
 We also get that 50s-grade misogyny, as all the women are emotional and the men are rational. No surprise, given the times, but it's noticeable. George Sanders' tone makes every line out of his mouth sound like mansplaining. Slap a woman to break her out of her hysterics and whatnot. And, despite being about a small village, it still manages to throw in some racism against indigenous folks.
 
-The kid actors are fantastic. Those eyes are still nightmarish 60-some years later. There's 
+The kid actors are fantastic. Those eyes are still nightmarish 60-some years later. There's
 
 Of the John Wyndham adaptations I've seen, this one is by far the best. And 77-minute runtime? Be still, my beating heart.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* To think, Russ Tamblyn almost became the star!
-* A "Beware of Children" sign is visible in the background when the military continues its investigation!
-* I'm Miss Ogle — nosey, airheaded, and easily manipulated.
-* I love that they recruit the priest to convince people that the women didn't get pregnant through infidelity.
-* If your baby freaks out a dog, then you haven't got a normal baby, guy.
-* Hell yeah, puzzle boxes
-* Thomas Heathcote has such a striking face.
-* I like that the psychic powers are slow-moving — a, more dramatic, but b, it makes it clear that they're not just speaking words into his brain but manipulating brain functioning itself.
-* — Why would he ask YOU to take care of me? — I don't know, manner of speech, I suppose.  
-* THE EYES!
+- To think, Russ Tamblyn almost became the star!
+- A "Beware of Children" sign is visible in the background when the military continues its investigation!
+- I'm Miss Ogle — nosey, airheaded, and easily manipulated.
+- I love that they recruit the priest to convince people that the women didn't get pregnant through infidelity.
+- If your baby freaks out a dog, then you haven't got a normal baby, guy.
+- Hell yeah, puzzle boxes
+- Thomas Heathcote has such a striking face.
+- I like that the psychic powers are slow-moving — a, more dramatic, but b, it makes it clear that they're not just speaking words into his brain but manipulating brain functioning itself.
+- — Why would he ask YOU to take care of me? — I don't know, manner of speech, I suppose.
+- THE EYES!

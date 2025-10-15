@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4cYWqh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Excellent opening credits with the paper tear revealing the title and credits — of course, it’s Saul Bass
@@ -22,10 +21,11 @@ A frenetic camera chases the characters around, zooming in wildly on faces and o
 
 The movie spends an awfully long time moving through the initial minutiae of the investigation, but all the details seem to matter as things take, well, unexpected turns
 
-What an upsetting movie, what a pleasant surprise 
+What an upsetting movie, what a pleasant surprise
 
 <b>Stray Thoughts</b>
-* Weirdo landlords must have small pets. Jesus, that dude sucks
-* Hell yeah, Zombies on the television
-* Doll Hospital. What a nightmare
-* I did not recognize Laurence Olivier without his little mustache!
+
+- Weirdo landlords must have small pets. Jesus, that dude sucks
+- Hell yeah, Zombies on the television
+- Doll Hospital. What a nightmare
+- I did not recognize Laurence Olivier without his little mustache!

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/bdBJQv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 19/52 | 80s Horror</a></b>
@@ -24,7 +23,7 @@ The film follows the children as they figure out how to survive and possibly esc
 
 The book is part of a series written for a young adult audience, but you can get away with a lot more in print than you can on screen. So, the producers went to great lengths to tame the source material. Even mid-production, writer and director Jeffrey Bloom had to handle multiple drastic changes to the script. At one point, Wes Craven was attached, having written a script. But the producers were horrified by the sex and violence, once again proving how Hollywood never understood Craven's career-long exploration of the family in crisis.
 
-Still, despite the cutting, the remnants of the earlier film version are evident throughout. For example, a scene where Chris watches Cathy get in the bath still has him rubbing her back while she's in the tub. And, there's still a moment where Chris sees Cathy changing.  
+Still, despite the cutting, the remnants of the earlier film version are evident throughout. For example, a scene where Chris watches Cathy get in the bath still has him rubbing her back while she's in the tub. And, there's still a moment where Chris sees Cathy changing.
 
 As a result, the film isn't about much beyond child abuse and repression. Throughout, we get hints at the role of repression in childhood on growing minds—take something away without any explanation, and watch youth fixate on it. Add to that violent repercussions, and how do you think children will learn to respond to their problems?
 

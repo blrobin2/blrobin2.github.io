@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8E00rl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 14</a></b>

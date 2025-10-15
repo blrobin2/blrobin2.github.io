@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6TOChR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 17/31 | Before 1970 2/5</a></b>
@@ -35,4 +34,3 @@ The film uses stop-motion for the special effects, a satisfying flavor to the fi
 We don't see the "fiends" until the climax — a bold approach that is confident in the power of its creature. The film relies on sound effects and pantomime to sell the invisible creatures, made visible through radiation. When we do, it's a gore fest as the team shoots and chops up these brain creatures.
 
 As someone who's watched nearly every <i>MST3K</i> episode, and therefore a hefty pile of 50s sci-fi and brainsploitation, this film stands out. I finished this movie with a big dopey smile.
-

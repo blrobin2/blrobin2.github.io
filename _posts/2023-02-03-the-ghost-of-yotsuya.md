@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3NSFCj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Every frame of this looks like a woodblock print. It’s also pretty fucked up, real unscrupulous dudes get what’s coming to them!

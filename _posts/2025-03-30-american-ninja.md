@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/9gAunn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 16/52 | The Cannon Group</a></b>
@@ -27,21 +26,21 @@ Back at the US Army base, Colonel Hickock counts the dead bodies coming in. The 
 
 This movie isn't very good, but it's pretty funny.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* "Have you heard of ninjitsu, sir?"
-* Judie Aronson is pulling off the miracle of one-sided chemistry, whereas Michael Dudikoff doesn't seem to have any way of expressing himself physically or psychologically.
-* Colonel Hickock has two pictures on his wall: his daughter and Ronald Reagan.
-* I love how colorful the ninja training grounds are. There are so many different-colored outfits for no reason. The poster labeling bones on the grounds is psychotic.
-* Steve James is killing it. He's giving this movie his all and making the film so much more entertaining.
-* Armstrong, you got several people killed, but you have sharp moves, so you're alright in our book.
-* "Those guys aren't amateurs, and neither am I."
-* "Your moves are too perfect—someone had to teach you!"
-* Corporal Jackson's secret dream is to enter the world of wrestling. And who better to be his meal ticket than Armstrong?
-* Ninjas, as we all know, are horrible at hide-and-seek.
-* Opening a door with a blade — classic ninja move.
-* The score hits in places! Part of it sounds like it was sampled for Gorillaz' "M1 A1," or this movie stole it from Dawn of the Dead.
-* I will never get over someone diving through a glass window to escape.
-* Corporal Jackson kicks a gun out of an officer's hand but then apologizes for it.
-* While the man is dying, Armstrong gives him a gnarly kick to the nuts for good measure.
-* Woah, this outro is so epic.
+- "Have you heard of ninjitsu, sir?"
+- Judie Aronson is pulling off the miracle of one-sided chemistry, whereas Michael Dudikoff doesn't seem to have any way of expressing himself physically or psychologically.
+- Colonel Hickock has two pictures on his wall: his daughter and Ronald Reagan.
+- I love how colorful the ninja training grounds are. There are so many different-colored outfits for no reason. The poster labeling bones on the grounds is psychotic.
+- Steve James is killing it. He's giving this movie his all and making the film so much more entertaining.
+- Armstrong, you got several people killed, but you have sharp moves, so you're alright in our book.
+- "Those guys aren't amateurs, and neither am I."
+- "Your moves are too perfect—someone had to teach you!"
+- Corporal Jackson's secret dream is to enter the world of wrestling. And who better to be his meal ticket than Armstrong?
+- Ninjas, as we all know, are horrible at hide-and-seek.
+- Opening a door with a blade — classic ninja move.
+- The score hits in places! Part of it sounds like it was sampled for Gorillaz' "M1 A1," or this movie stole it from Dawn of the Dead.
+- I will never get over someone diving through a glass window to escape.
+- Corporal Jackson kicks a gun out of an officer's hand but then apologizes for it.
+- While the man is dying, Armstrong gives him a gnarly kick to the nuts for good measure.
+- Woah, this outro is so epic.

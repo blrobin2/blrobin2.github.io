@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6vpleb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 19/31 | Carpenter">Hooptober 4.0 | 19/31 | Carpenter</a></b>

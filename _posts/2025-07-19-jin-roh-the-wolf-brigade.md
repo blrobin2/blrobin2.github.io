@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/anIjjh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 3/52 | Anime</a></b>

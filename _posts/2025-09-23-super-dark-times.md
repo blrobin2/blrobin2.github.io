@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/b9sX5p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 39/52 | Fall Horror</a></b>
@@ -26,10 +25,10 @@ The movie sort of devolves into vibes with dream sequences, surreal experiences,
 
 The movie kicks back into gear for the third act to give us some necessary tension. Still, it doesn't seem to add up to much in the end.
 
+<b>**_ Stray Thoughts _**</b>
 
-<b>*** Stray Thoughts ***</b>
-* Daryl is supposed to be obnoxious but funny. He's just obnoxious.
-* Zach's mom is cool. Like, whose mom is that cool?
-* The movie does a good job of making the katana feel dangerous. 
-* No boys in 1996 were touching each other's cheeks as much as Josh and Zach do each other.
-* Also, no Macarena anywhere?
+- Daryl is supposed to be obnoxious but funny. He's just obnoxious.
+- Zach's mom is cool. Like, whose mom is that cool?
+- The movie does a good job of making the katana feel dangerous.
+- No boys in 1996 were touching each other's cheeks as much as Josh and Zach do each other.
+- Also, no Macarena anywhere?

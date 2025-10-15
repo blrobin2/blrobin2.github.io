@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/54UJZL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q" rel="nofollow">Criterion Challenge 2023 </a>| 1/52 | Random Number Generator (564)</b>

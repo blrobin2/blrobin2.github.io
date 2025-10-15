@@ -6,15 +6,14 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/56xwNz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 3/34 | Countries 3/6 | Kazakhstan</b>
 
-Authorities warn against going into the woods. Women keep going missing. 
+Authorities warn against going into the woods. Women keep going missing.
 
-Dastan, sick of his nagging pregnant wife — how dare she need any attention or input from him? — dodges that bitch (his words) and goes fishing in the woods with his friends. 
+Dastan, sick of his nagging pregnant wife — how dare she need any attention or input from him? — dodges that bitch (his words) and goes fishing in the woods with his friends.
 
 Meanwhile, a moronic gang of four shoots someone in the head. Our fishing heroes witness it, so the gangsters chase them to kill them.
 

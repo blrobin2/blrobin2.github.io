@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/47AwIV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Hollis insisted we get high and watch this, so we did. Neat!

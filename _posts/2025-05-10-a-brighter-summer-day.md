@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/9Em1aR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 44/52 | Paul Dano's Closet Picks</a></b>
@@ -48,7 +47,7 @@ Their relationship feels so rich, in part, because Chang Kuo-Chu, who plays the 
 
 The film explores Taiwan's relationship with the USA through Wang, a colleague of Si'r's father, who regularly travels to the USA and espouses their politics. He jokes that if he could develop an atomic bomb, he'd use it to take out the Chinese Communists. I don't want to give away how that relationship plays out, but that direction and Wang's relationship with the USA are connected. Though one could make artificial comparisons between Taiwan and the USA regarding its colonist history, their current geopolitical status, and worldwide diaspora tell a more complicated story. That said, director Edward Yang explored the influence of the USA on Taiwan in many of his movies. <i>Taipei Story</i> is the most overt (that I've seen) in its exploration of cultural osmosis and identity loss in the face of modernity and globalization.
 
-The film has a deliberate pace, letting the story and characters unfold organically. This choice makes summarizing the film challenging, as a four-hour movie cannot be about just one thing. But it never feels like the movie is spinning its wheels or experimenting to the detriment of the audience's experience. It allows us plenty of room to contemplate the meaning of each scene—especially helpful when characters and relationships remain unexplained. 
+The film has a deliberate pace, letting the story and characters unfold organically. This choice makes summarizing the film challenging, as a four-hour movie cannot be about just one thing. But it never feels like the movie is spinning its wheels or experimenting to the detriment of the audience's experience. It allows us plenty of room to contemplate the meaning of each scene—especially helpful when characters and relationships remain unexplained.
 
 I loved the relationships, the writing, everything. Yang drew on his childhood for so many details—the film almost overflows with them in each scene, never asserting them. So many moments had me in tears, positive and negative. Yes, it will require patience to finish, but the experience is one of the most rewarding I've had while watching a movie.
 

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4fRXep
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Sandy Dennis passes a boy — Michael Burns — in the park on her way home to her apartment, still able to see him from her window as the family arrives and eats a decadent meal on fine china. During their visit, the rain begins, and she cannot stop looking and worrying about the boy

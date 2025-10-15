@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4oA37f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Mockumentary about a local beauty pageant that heats up when some of the contestants die in mysterious accidents

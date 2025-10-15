@@ -4,10 +4,9 @@ title: "Nothing Bad Can Happen (2013)"
 excerpt: "My review of Nothing Bad Can Happen (2013)"
 rating: "4.0"
 letterboxd_url: https://boxd.it/26IwjR
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 Joke review:

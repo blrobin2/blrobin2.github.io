@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8C1p9Z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I get all my hot, young news from ONN. I love you, Condo Mercury.

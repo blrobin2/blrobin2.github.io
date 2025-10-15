@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/9br8o1
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* In a world gone mad from smooth flute jazz, one mouse can't take it anymore.
-* This is unfair to Jeff — a mouse killed his parents!
+- In a world gone mad from smooth flute jazz, one mouse can't take it anymore.
+- This is unfair to Jeff — a mouse killed his parents!

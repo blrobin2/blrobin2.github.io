@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5BkrKX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Anton Yelchin, Kate Lyn Sheil, and Buck Henry aka Dick Lemon in your first short is a flex

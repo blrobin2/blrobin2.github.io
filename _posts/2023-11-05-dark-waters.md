@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/56Pb4z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 4/34 | Countries 4/6 | Ukraine</b>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6LSn3h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 29/31 | Stephen King Adaptation</a></b>
@@ -16,7 +15,7 @@ Jessie and Gerald pack small suitcases. Jessie packs a new silk slip alongside h
 
 The radio distracts Gerald with a story about a grave robber before Jessie draws him back to the road. He stops just before colliding with a dog munching on roadkill. Gerald honks to get it to move, but Jessie takes pity on the starving creature. Still, they leave the dog behind as they pull up to the lake house.
 
-Once there, Gerald steps aside to take a work call while Jessie dons her sun hat and takes in the lakeside view. Jessie finds some Kobe beef steaks in the fridge. She cuts one up to bring outside for the dog. Meanwhile, Gerald pops a 100mg pill of Viagra and ushers Jessie inside to "get comfy." 
+Once there, Gerald steps aside to take a work call while Jessie dons her sun hat and takes in the lakeside view. Jessie finds some Kobe beef steaks in the fridge. She cuts one up to bring outside for the dog. Meanwhile, Gerald pops a 100mg pill of Viagra and ushers Jessie inside to "get comfy."
 
 Jessie changes into her slip, pulling off the price tag. She poses seductively and fidgets with the slip and how it falls on her. Gerald enters shirtless, handcuffs in hand. He locks her arms to the bedposts. Jessie is visibly uncomfortable, but accommodating.
 

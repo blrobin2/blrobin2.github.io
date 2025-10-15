@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/b0lhDf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 10/52 | HK Cat III</a></b>
@@ -16,7 +15,7 @@ category: movie_review
 Chan Chi-Leung and Keung argue as they put away majhong tiles. Chan asks Keung to lend him money to pay an old debt, but Keung refuses and tells him to leave. So, Chan smashes him over the head, douses him in conveniently placed gasoline, and burns Keung alive. Chan burns his HK ID and gets a new Macau ID under the name Wong Chi Hang.
 
 <b>Macau 1986</b>
-Two children play on the beach as their mother sifts through the sand for clams. The two brothers find a bag lodged in the sand. It has a rotten smell. The mother comes over to see and finds the bag is full of severed human limbs. The police arrive on the scene to investigate, and we meet some detectives whom I assume we'll meet again. We also meet their supervisor, 
+Two children play on the beach as their mother sifts through the sand for clams. The two brothers find a bag lodged in the sand. It has a rotten smell. The mother comes over to see and finds the bag is full of severed human limbs. The police arrive on the scene to investigate, and we meet some detectives whom I assume we'll meet again. We also meet their supervisor,
 
 Cut to Wong Chi Hang working at the Eight Immortals Restaurant. A man delivers a letter for Cheng Lam, which Vong takes and rips up. Vong goes to a lawyer with the deed for Eight Immortals Restaurant to sign over from its previous owner, Cheng Lam, to him. But without any signature or approval from Cheng Lam, who has mysteriously vanished, the lawyer can do nothing for him.
 
@@ -32,13 +31,13 @@ I could do without the subplot where Bo, the only woman detective, tries to conv
 
 If I weren't a vegetarian before this movie, it would've definitely pushed me in that direction. Depending on the type of genre fan you are, that's either a warning or a ringing endorsement.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Anthony Wong really transforms himself just by making that unhinged face the whole time.
-* Ah, back when you could demonstrate competent chopping skills and get a job on the spot.
-* Watching Wong Chi Hang gleefully butcher a pig is, uh, gross!
-* Inspector Lee always has a different beautiful woman in his arms.
-* Detective Robert is always flirting with whoever Lee is seeing. He also has a sick switchblade comb.
-* Chopping off the fingers for fingerprints. Gross! Man, I do not envy the tedium of print matching during the paper fingerprint system days.
-* Urinating on your hands to clean the blood off is wild.
-* It's deeply fucked what they do in front of kids and to kids in this movie. Like, this movie had to scar those child actors. What parent would sign their kids up for this?? I really need some way to know that those kids are okay.
+- Anthony Wong really transforms himself just by making that unhinged face the whole time.
+- Ah, back when you could demonstrate competent chopping skills and get a job on the spot.
+- Watching Wong Chi Hang gleefully butcher a pig is, uh, gross!
+- Inspector Lee always has a different beautiful woman in his arms.
+- Detective Robert is always flirting with whoever Lee is seeing. He also has a sick switchblade comb.
+- Chopping off the fingers for fingerprints. Gross! Man, I do not envy the tedium of print matching during the paper fingerprint system days.
+- Urinating on your hands to clean the blood off is wild.
+- It's deeply fucked what they do in front of kids and to kids in this movie. Like, this movie had to scar those child actors. What parent would sign their kids up for this?? I really need some way to know that those kids are okay.

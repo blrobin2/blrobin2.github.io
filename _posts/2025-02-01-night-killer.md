@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/8GyQoz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 52/52 | Bruno Mattei</a></b>

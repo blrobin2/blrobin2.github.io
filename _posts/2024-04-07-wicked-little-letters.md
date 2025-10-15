@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6dXrDn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Women officers don't sleuth, love</i></blockquote>Edith (Olivia Coleman) is receiving dirty letters. Her father, Edward (Timothy Spall), and she believe it's her crass Irish neighbor, Rose (Jessie Buckley). But when hundreds of people receive similar letters, Woman Police Officer Moss (Anjana Vasan) looks into it, regardless of whether her supervisors permit it.

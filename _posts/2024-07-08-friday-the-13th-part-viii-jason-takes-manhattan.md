@@ -4,10 +4,9 @@ title: "Friday the 13th Part VIII: Jason Takes Manhattan (1989)"
 excerpt: "My review of Friday the 13th Part VIII: Jason Takes Manhattan (1989)"
 rating: "2.5"
 letterboxd_url: https://boxd.it/6PjhuH
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 4/31 | Franchise 4/5">Hooptober 2.0 | 4/31 | Franchise 4/5</a></b>

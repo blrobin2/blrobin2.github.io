@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/a196WR
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
 I can't believe they watch <i>The Amazing Colossal Man</i> at the drive-in and stop talking to watch scenes of that movie. No puppet people attack in this movie.
@@ -15,7 +14,7 @@ I can't believe they watch <i>The Amazing Colossal Man</i> at the drive-in and s
 White people — collect all seven!
 — Won't you try it for a day or two? — Exact words from my marriage proposal.
 Let us share in the spoils of this dead woman's mail!
-I begged him not to take you away… *mumbles* I turned him into a doll. *clearly* How sad it is when people go… *mumbles* so I turned him into a doll.
+I begged him not to take you away… _mumbles_ I turned him into a doll. _clearly_ How sad it is when people go… _mumbles_ so I turned him into a doll.
 Kids just love their John Agar dolls!
 Stay away from Buzz Lightyear. He's mine.
 Ah, a briefcase full of shrunken slaves. My life is going exactly like I thought it would!

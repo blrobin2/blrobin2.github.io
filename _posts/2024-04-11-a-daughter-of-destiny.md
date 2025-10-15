@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6fEowX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 10/32 | Anniversary Film 9/10 | Countries 6/6 | Germany | Silent Film</a></b>
@@ -16,7 +15,7 @@ category: movie_review
 
 Professor Briken is a scientist famed for his experiments regarding genetics and heredity.
 
-He declares to his peers his intentions to experiment with the mandrake. 
+He declares to his peers his intentions to experiment with the mandrake.
 
 He plans to impregnate a sex worker with a mandrake to observe the child's innate behavior and its environmental influence. No plant shows intention in its behavior, so why should a mandrake?
 

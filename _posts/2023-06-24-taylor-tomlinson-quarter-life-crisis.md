@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4pYXzB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Consistently funny, some of the parenting jokes fell flat for me near the end there, but overall great set

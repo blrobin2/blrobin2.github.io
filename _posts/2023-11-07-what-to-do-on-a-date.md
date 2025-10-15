@@ -6,12 +6,11 @@ rating: ""
 letterboxd_url: https://boxd.it/57Icxx
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* You can have a PHD in dating?
-* You can't eject puberty, it has to happen over time
-* With each dial, he comes closer and closer to the most humiliating moment of his life
-* Aaron Copeland throws a party
-* Hey Kay, will you marry me?
+- You can have a PHD in dating?
+- You can't eject puberty, it has to happen over time
+- With each dial, he comes closer and closer to the most humiliating moment of his life
+- Aaron Copeland throws a party
+- Hey Kay, will you marry me?

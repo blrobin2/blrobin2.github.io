@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/9WvgWB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 24|52 | Daddy Horror</a>
@@ -30,10 +29,10 @@ To get a hint at the movie's sense of humor, there's a scene where Cutter gets u
 
 I know many horror fans are into this movie. It could be that I'm losing my affinity for horror. Or maybe I prefer the original trash to neo-trash pastiche. I also like horror movies that don't waste 2 hours of my life for 30 minutes of story.
 
+<b>**_ Actor Talk _**</b>
 
-<b>*** Actor Talk ***</b>
-* Seeing E.G. Daily as Candy hits a weird place in my childhood.
-* I miss Karen Black as Mother Firefly :(
-* Sheri Moon Zombie's bit seems to be her butt.
-* Ken Foree!
-* William Forsythe becomes the most interesting character when he has a motivation-shifting dream.
+- Seeing E.G. Daily as Candy hits a weird place in my childhood.
+- I miss Karen Black as Mother Firefly :(
+- Sheri Moon Zombie's bit seems to be her butt.
+- Ken Foree!
+- William Forsythe becomes the most interesting character when he has a motivation-shifting dream.

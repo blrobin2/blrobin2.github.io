@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6631gx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 36/52 | USA Up All Night</a></b>
@@ -32,6 +31,5 @@ The film explores faith as a distancing object — how people use God to avoid l
 
 This film is the first great movie I've seen by Larry Cohen. He's always been unafraid to get weird, but this is the most successful execution I've seen.
 
-
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 This is a superior <i>Scanners</i>

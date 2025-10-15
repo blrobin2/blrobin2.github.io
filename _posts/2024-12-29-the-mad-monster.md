@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/8d61Kx
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Not the total disaster I thought it was first time around

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/546xE7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The military enters a small town and finds no sign of life. Bodies strewn everywhere. No signs of pain or struggle, just struck down where they were — adults, children, pets — everyone. Their blood turned to clotted powder — nothing on earth can do this.

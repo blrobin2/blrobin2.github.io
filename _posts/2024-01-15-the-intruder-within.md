@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5AOZi5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Hooptober 8.0 | 13/34 | From 1981 2/4</a></b>
@@ -42,15 +41,16 @@ The special effects are solid, probably because they had no issue ripping off th
 This will rock no one's world, but because it is a functional human drama, the disappointing horror elements don't kill the movie.
 
 <b>Thoughts / Spoilers:</b>
-* I like the alternate title, <i>The Lucifer Rig</i>. Less so, <i>Alien Rig</i>. <i>The Intruder Within</i> sounds like my intrusive thoughts.
-* Amazing IMDb trivia: "The design for the creature is sometimes misattributed to H.R. Giger; in fact, Giger had no involvement in its creation."
-* Robin takes off her clothes and bends over so everyone gets a good look at her thermals. Classic made-for-TV horniness.
-* Michael Hogan! He gives a signature freakout. "This ain't an oil rig — it's a floating graveyard!"
-* Jake's daughter is in India with a guru, searching for enlightenment.
-* They even do a chest-bursting scene — except the Xenomorph puppet is laughing as it bounces up and down on a guy.
-* The geologist returns to Noah's flood, pulling out an evolution chart. Then decides, "It's an underwater alien."
-* Okay, the alien makes them horny. Neat!
-* Oh, rapey, less neat.
-* I like Mark and Robyn's friendship! He shows her brotherly affection and care, making them comfortable around each other.
-* The fully grown monster looks closer to Nemesis from <i>Resident Evil</i> than a Xenomorph.
-* The 80s had a knack for creating wet creatures.
+
+- I like the alternate title, <i>The Lucifer Rig</i>. Less so, <i>Alien Rig</i>. <i>The Intruder Within</i> sounds like my intrusive thoughts.
+- Amazing IMDb trivia: "The design for the creature is sometimes misattributed to H.R. Giger; in fact, Giger had no involvement in its creation."
+- Robin takes off her clothes and bends over so everyone gets a good look at her thermals. Classic made-for-TV horniness.
+- Michael Hogan! He gives a signature freakout. "This ain't an oil rig — it's a floating graveyard!"
+- Jake's daughter is in India with a guru, searching for enlightenment.
+- They even do a chest-bursting scene — except the Xenomorph puppet is laughing as it bounces up and down on a guy.
+- The geologist returns to Noah's flood, pulling out an evolution chart. Then decides, "It's an underwater alien."
+- Okay, the alien makes them horny. Neat!
+- Oh, rapey, less neat.
+- I like Mark and Robyn's friendship! He shows her brotherly affection and care, making them comfortable around each other.
+- The fully grown monster looks closer to Nemesis from <i>Resident Evil</i> than a Xenomorph.
+- The 80s had a knack for creating wet creatures.

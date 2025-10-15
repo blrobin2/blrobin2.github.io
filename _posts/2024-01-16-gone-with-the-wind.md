@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5BvsjZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 3/52 | 1930s</a></b>
@@ -32,21 +31,20 @@ Some viewers may say, "setting controversies aside" when discussing the movie. B
 
 As someone who watches too many movies, I have invariably seen this movie's fingerprint on the films that follow it. I watch this with the intent of seeing its impact and informing my understanding of what people believe and what movies have the power to accomplish, for better or worse.
 
+<b>**_ Thoughts / Spoilers _**</b>
 
-
-<b>*** Thoughts / Spoilers ***</b>
-* The colors are gorgeous. This movie is a high watermark for Technicolor.
-* The lighting and compositions are immaculate.
-* The camera zooms in on each major player, adding to the sweeping drama.
-* The silhouette of Scarlett and her father with the tree, looking onto their plantation, is awe-inspiring.
-* The character of Scarlett O'Hara is a lingering contributor to the "not like other girls" trope.
-* I adore Olivia de Havilland — if I'm honest, she's the main reason I wanted to watch this. She's got a face made for melodrama.
-* Rhett Butler is the prototype for Han Solo — on the surface, he's all about profit and himself.
-* "So long as he's a Southerner and thinks the same as you."
-* "My life is over. Nothing will happen to me anymore." Been there, sister
-* Does Clark Gable ever stop arching one eyebrow?
-* "You should be kissed often and by someone who knows how." 😳
-* Scarlett's dad looks like Joe Lo Truglio in old-person makeup 
-* "Prostrate with grief" is how I describe myself when I'm hungover
-* Woah, they killed a kind
-* — Where shall I go? What shall I do? — Frankly, my dear, I don't give a damn
+- The colors are gorgeous. This movie is a high watermark for Technicolor.
+- The lighting and compositions are immaculate.
+- The camera zooms in on each major player, adding to the sweeping drama.
+- The silhouette of Scarlett and her father with the tree, looking onto their plantation, is awe-inspiring.
+- The character of Scarlett O'Hara is a lingering contributor to the "not like other girls" trope.
+- I adore Olivia de Havilland — if I'm honest, she's the main reason I wanted to watch this. She's got a face made for melodrama.
+- Rhett Butler is the prototype for Han Solo — on the surface, he's all about profit and himself.
+- "So long as he's a Southerner and thinks the same as you."
+- "My life is over. Nothing will happen to me anymore." Been there, sister
+- Does Clark Gable ever stop arching one eyebrow?
+- "You should be kissed often and by someone who knows how." 😳
+- Scarlett's dad looks like Joe Lo Truglio in old-person makeup
+- "Prostrate with grief" is how I describe myself when I'm hungover
+- Woah, they killed a kind
+- — Where shall I go? What shall I do? — Frankly, my dear, I don't give a damn

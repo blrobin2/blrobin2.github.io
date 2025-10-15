@@ -6,11 +6,10 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4Eiknd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Some priest throws a sack of Ghoulies in a vat of toxic waste, then accidentally falls in himself. The Ghoulies are fine — they climb out and jump onto a truck heading to the circus. 
+Some priest throws a sack of Ghoulies in a vat of toxic waste, then accidentally falls in himself. The Ghoulies are fine — they climb out and jump onto a truck heading to the circus.
 
 The son of the guy who owns the circus is trying to shut down Satan's Den, the haunted house that our hero runs. But the Ghoulies bring in the audiences while also managing to kill a few folks along the way
 

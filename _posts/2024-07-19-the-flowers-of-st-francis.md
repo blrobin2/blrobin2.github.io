@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6UgRfx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 23/52 | Richard Linklater’s Top 10</a></b>

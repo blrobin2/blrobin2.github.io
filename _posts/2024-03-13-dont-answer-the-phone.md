@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/62uKGt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 33/53 | Crown International</a></b>

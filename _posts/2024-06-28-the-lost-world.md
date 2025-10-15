@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6L7qDX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 27/31 | Crazy Animal 3/3 | Silent</a></b>
@@ -29,4 +28,3 @@ The movie is a delightful adventure, featuring footage of native animals and sto
 As you might expect from a 20s movie in South America, we get the full spectrum of racist caricatures. Jules Cowles dons blackface to play Zambo, an Indian servant.
 
 The version on Amazon Prime cuts 30+ minutes from the movie — you’ll get less backstory and more action if that’s your bag. The version of Wikipedia is the most complete, but it lacks audio. It’s silent anyway, so it’s not essential. Still, I listened to the album <i>Emergency!</i> by The Tony Williams Lifetime. “Sangria for Three” is great fighting dinosaur music.
-

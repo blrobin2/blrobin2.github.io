@@ -6,13 +6,12 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/58LA1b
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 13/52 | Danny Peary's "Guide for the Film Fanatic"</b>
 
-A semi-fictionalized conversation between real-life friends, Wallace Shawn and André Gregory. 
+A semi-fictionalized conversation between real-life friends, Wallace Shawn and André Gregory.
 
 Conceived initially as a biography, they took advantage of the opportunity to bring their notions of theater to the screen.
 
@@ -31,7 +30,8 @@ Wallace views the world as his enemy, longing for a quiet existence. Can't a the
 Both Wallace and Andre recognize the need for conscious action. For Andre, it depends on what makes that person uncomfortable.
 
 <b>Stray Thoughts</b>
-* I can now attest that Danny Putti did a remarkable job imitating Andre in <i>Community</i>'s "Cultural Film Studies" episode.
-* Louis Malle cut the script down from the original three-hour runtime. While disappointing Wallace Shawn, the movie would have had less cultural impact.
-* Ending with Erik Satie is unfair — <i>Gymnopédie 1</i> is an all-timer for me. Chills every time.
-* This is technically a Troma film!
+
+- I can now attest that Danny Putti did a remarkable job imitating Andre in <i>Community</i>'s "Cultural Film Studies" episode.
+- Louis Malle cut the script down from the original three-hour runtime. While disappointing Wallace Shawn, the movie would have had less cultural impact.
+- Ending with Erik Satie is unfair — <i>Gymnopédie 1</i> is an all-timer for me. Chills every time.
+- This is technically a Troma film!

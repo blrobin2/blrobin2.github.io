@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4KE3Op
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Pickpocket Skip McCoy steals Candy's wallet in a busy subway car. Once she realizes it's gone, she calls her ex, Joey, to let him know her final favor has gone awry
@@ -26,4 +25,5 @@ Despite the dull propaganda, the film, intentionally or not, doesn't paint Ameri
 <blockquote><i>It's so hard to get up in the morning, get dressed, walk the streets, climb the stairs. I go right on doing it. Well, what am I gonna do, knock it? I have to go on making a living so I can die... I'm so tired. You'd be doing me a favor, blowing my head off</i></blockquote>A flawed but significant film noir. And it's sub-90 minutes!
 
 <b>Stray Thoughts</b>
-* If Jean Peters looked at me like that opening shot of her on the subway, I would simply not steal her purse
+
+- If Jean Peters looked at me like that opening shot of her on the subway, I would simply not steal her purse

@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5DVslh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 20/34 | Worst Part II I Can Access</a></b>
@@ -26,17 +25,17 @@ As a result, it is much messier and bloated. AKA closer to the Troma quality I'm
 
 It's got a handful of weird little guys that I liked, especially Murray, the janitor subhumanoid.
 
+<b>**_ Stray Thoughts/Spoilers_**</b>
 
-<b>*** Stray Thoughts/Spoilers***</b>
-* Guest appearance by "Tromie" the Nuclear Squirrel
-* So many gorgeous early '90s neons
-* Roger, with the recorder, talks to Diane. Is this a <i>Twin Peaks</i> reference?
-* So much expository narration
-* Troma posters all over the place, including one for <i>Nuke 'Em High</i>
-* "Boner appetit — a little condom humor"
-* The belly button mouth
-* The kid eats all that glass
-* The stop-motion creatures are pretty cool
-* Crossfade from two enormous breasts to the nuclear plant smokestacks
-* Oh Diane's a real person
-* Kaiju squirrel
+- Guest appearance by "Tromie" the Nuclear Squirrel
+- So many gorgeous early '90s neons
+- Roger, with the recorder, talks to Diane. Is this a <i>Twin Peaks</i> reference?
+- So much expository narration
+- Troma posters all over the place, including one for <i>Nuke 'Em High</i>
+- "Boner appetit — a little condom humor"
+- The belly button mouth
+- The kid eats all that glass
+- The stop-motion creatures are pretty cool
+- Crossfade from two enormous breasts to the nuclear plant smokestacks
+- Oh Diane's a real person
+- Kaiju squirrel

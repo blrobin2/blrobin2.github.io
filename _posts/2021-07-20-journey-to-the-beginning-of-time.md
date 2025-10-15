@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/20ujEl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The story is a little dull, but the animal animations are cool

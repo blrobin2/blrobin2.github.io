@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3TtcHj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The plot unfolds deftly, it’s an interesting litmus test to see what reveal affects your opinions of which characters

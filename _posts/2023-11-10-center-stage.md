@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/58w5jX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 11/52 | Criterion Double Feature — Film 1</b>

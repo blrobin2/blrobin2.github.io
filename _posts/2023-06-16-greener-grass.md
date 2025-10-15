@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4nBuD1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I listened to a podcast where the directors talked about <i>Polyester</i>, UCB, and their approach to filmmaking, and it sounded right up my alley
@@ -23,8 +22,9 @@ It also has something to say about parenthood — much of it critiques the way p
 Like all sketch comedy, some scenes work better than others, but it’s consistently funny and enjoyable
 
 <b>Stray Thoughts</b>
-* “Oh, we just bonded. I’ve been her mom since she was born.”
-* Always delighted to see Mary Holland in anything — she’s so funny
-* The kid playing Julian is so good — the lines are funny, but his delivery is perfect
-* Beck Bennett’s obsession with drinking pool water should stop being funny at some point, but it isn’t
-* <i>Kids with Knives</i> seems like such a rad show
+
+- “Oh, we just bonded. I’ve been her mom since she was born.”
+- Always delighted to see Mary Holland in anything — she’s so funny
+- The kid playing Julian is so good — the lines are funny, but his delivery is perfect
+- Beck Bennett’s obsession with drinking pool water should stop being funny at some point, but it isn’t
+- <i>Kids with Knives</i> seems like such a rad show

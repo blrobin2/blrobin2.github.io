@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8PGuO3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 26</a></b>
@@ -22,7 +21,7 @@ Piotr Balicki gives his final interview for his bar exam. They ask him why he wa
 
 We follow our three characters as their lives overlap. Jacek will soon kill Waldemar. Piotr will have his first court case representing Jacek.
 
-Each scene is rich with details that give us insights into these characters. Kieślowski is not content to showcase archetypes but flawed and complex characters with competing motivations. Waldemar is bitter, but deep within is a kindness he only shows to those closest to him. Jacek is traumatized by his sister's death, leaving him aimless and antipathetic. Both characters have a "senseless malice" to them, as Charles V. Eidsvik puts it in his 1990 review. As much as we get to know about them, we still do not understand their choices. 
+Each scene is rich with details that give us insights into these characters. Kieślowski is not content to showcase archetypes but flawed and complex characters with competing motivations. Waldemar is bitter, but deep within is a kindness he only shows to those closest to him. Jacek is traumatized by his sister's death, leaving him aimless and antipathetic. Both characters have a "senseless malice" to them, as Charles V. Eidsvik puts it in his 1990 review. As much as we get to know about them, we still do not understand their choices.
 
 Piotr is our least complex main character, as he argues the film's thesis, but he is no less compelling. He wants to know people he wouldn't otherwise meet and hopefully save their lives. He sees capital punishment not as a means of reprimanding the criminal but as a deterrent from others committing the same crime.  He cites Article 50 of the Poland Penal Code, which allows the courts to publish the sentence due to the "social effect." In other words, he finds it a questionable justification for cruel punishment.
 

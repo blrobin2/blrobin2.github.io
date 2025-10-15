@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/6wBbkL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 16/52 | Directed by Chantal Akerman</a></b>

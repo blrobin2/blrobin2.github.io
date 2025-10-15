@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5nKfuJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 52/52 | Any Criterion film on your watchlist</b>
@@ -20,9 +19,9 @@ He photographs a caterpillar and then puts it in a jar. A dragonfly. A sand cric
 
 He lay in the sand, dreaming — the specter of a woman's face cast against a dune. Then, a woman traversing the sand. A memory of a lover's quarrel.
 
-The man missed the last bus leaving the remote village. So, the villagers invite him to stay the night with them. 
+The man missed the last bus leaving the remote village. So, the villagers invite him to stay the night with them.
 
-The village appears buried in sand, but the houses sit in deep pits to avoid harsh winds and erosion. 
+The village appears buried in sand, but the houses sit in deep pits to avoid harsh winds and erosion.
 
 He meets a widow who offers him a place and food. She asks him to stay beyond the night and help her.
 

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6XVYJX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" rel="nofollow">Hooptober 2.0 | 26/31 | Monster 1/5</a></b>
@@ -22,7 +21,7 @@ The next day, a constant rain falls on the boys as they hike. They soldier on th
 
 While hiking through the woods, the group spots an elk hanged in the tree branches. Someone (or something) cut open the elk and poured its guts out on the ground several feet below it. It’s also still bleeding, meaning the kill is fresh. The rain worsens as night falls, and the group finds an abandoned cabin. What they find inside will pull back the curtains and make these boys experience F E E L I N G S.
 
-The film also deals with colonialism. These are British boys marching into an unknown territory and acting as if it owes them passage. This troupe is common in folk horror. 
+The film also deals with colonialism. These are British boys marching into an unknown territory and acting as if it owes them passage. This troupe is common in folk horror.
 
 For most of the movie, the boys deal with their fear of the unknown. They each experience nightmares that travel into their fears and pains. What do Brits fear most? I’ll discuss more at the SPOILER ZONE.
 
@@ -34,8 +33,7 @@ We also get little in terms of story. We get some answers, but they won’t surp
 
 Overall, this movie is decent. I understand why some folks love it. I wanted the film to develop more themes than the obvious and tired one. When it ended, I felt like I experienced little.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 So, the biggest fear of the predominantly atheist England is a god they must bow to. As colonizers, they may bring their god to you, but never the other way around. So, when Luke must bow to the god of the forest, who gives the villagers eternal life, he would rather kill all of them and set their village on fire than bow.
 
 I know, I know, he’s showing he’s changed by facing his fear instead of hiding in cowardice like he did with Rob. But folk horror is often about how men think they can control nature, and how it overwhelms them. This film is about men who think they can control nature, and do.

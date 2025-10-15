@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6a8bUN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 40/52 | Troma</a></b>
@@ -20,8 +19,7 @@ This film showcases Adrian's filmmaking style, assembled to convince Anne Hathaw
 
 The film Adrian is making seems to be about a creep named Adrian, an aspiring filmmaker obsessed with Anne Hathaway.
 
-
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 
 Adrian Țofei went method for this movie, committing himself to being this character for five years.
 

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3PpEel
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Sometimes, instead of talking to someone you have a crush on, you gotta set a town on fire

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4NcwCX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Edward Parker (Richard Arlen) is a man from a shipwreck saved by a freighter full of animals en route to a remote island owned by Dr. Moreau (Charles Laughton). Instead of being taken to the nearest port, the captain throws him onto the boat that is heading for the island
@@ -31,6 +30,7 @@ Intentional or not, the film also (through gross racist caricature) explores col
 The movie still holds the capacity to upset — watching these people suffer at Dr. Moreau's unaffected hand is uncomfortable
 
 <b>Stray Thoughts</b>
-* Dr Moreau learned to whip as a boy in Australia
-* Charles Laughton is iconic in this — Colonel Sanders white suit — there's a similar energy between him here and Oscar Isaac in <i>Ex Machina</i>
-* I know Clara Bow is the inspiration for Betty Boop, but you could convince me it was Kathleen Burke
+
+- Dr Moreau learned to whip as a boy in Australia
+- Charles Laughton is iconic in this — Colonel Sanders white suit — there's a similar energy between him here and Oscar Isaac in <i>Ex Machina</i>
+- I know Clara Bow is the inspiration for Betty Boop, but you could convince me it was Kathleen Burke

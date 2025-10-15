@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5a8txJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 16/52 | Independent American Cinema</b>

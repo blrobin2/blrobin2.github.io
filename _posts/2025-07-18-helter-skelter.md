@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/an0euL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 29/52 | Japanese Horror</a></b>
@@ -24,7 +23,7 @@ What will Lilico lose first — her looks or her mind?
 
 <blockquote><i>We'll be forgotten. We're machines for the processing of desires.</i></blockquote>Director Mika Ninagawa is also a photographer, known for her brightly colored photographs. The film translates that perspective into film, heightening every moment with rich aesthetics that engage with and subvert the beauty industry's idealism. It's a style that works perfectly for the genre-blurring this movie does. Films like <i>Too Beautiful to Die</i> and <i>Nothing Underneath</i> work on a similar wavelength, but not to this extent.
 
-Lilico's behavior is challenging to tolerate — she's pretty cruel, even when she means to be kind. When her less attractive sister enters the picture, Lilico pressures her to get work done. The way she toys with her assistant, Hada, is heartbreaking. 
+Lilico's behavior is challenging to tolerate — she's pretty cruel, even when she means to be kind. When her less attractive sister enters the picture, Lilico pressures her to get work done. The way she toys with her assistant, Hada, is heartbreaking.
 
 Sex becomes the only way she knows how to keep people around, even when they don't want it. The film contrasts this with Hada's sex with her boyfriend, which is slow, joyful, and attentive — the type of sex that only comes from years of intimacy and care. Lilico can't force someone to love her.
 
@@ -32,10 +31,10 @@ Of course, the abuse doesn't begin with Lilico, nor her manager, who has crafted
 
 I compared this to <i>The Substance</i> because both deal with fighting time to maintain an unrealistic beauty standard. I like <i>The Substance</i>, but it lacks the complex character at the center that this film has.
 
+<b>**_ Stray Thoughts _**</b>
 
-<b>*** Stray Thoughts ***</b>
-* The score is whimsical, at times reminiscent of Danny Elfman's oom-pah style, with several nods to classical music and a bombastic use of Beethoven's Ode to Joy.
-* The film also explores that queer ambiguity — do I want you or do I want to be you?
-* I'm not gonna lie — I love her apartment.
-* The special effects are excellent, making me squirm in several places. 
-* The police subplot is a little annoying and obvious — the poetic cop isn't THAT poetic, stating the themes as bluntly and repeatedly as possible. Cutting it entirely would significantly sharpen this movie.
+- The score is whimsical, at times reminiscent of Danny Elfman's oom-pah style, with several nods to classical music and a bombastic use of Beethoven's Ode to Joy.
+- The film also explores that queer ambiguity — do I want you or do I want to be you?
+- I'm not gonna lie — I love her apartment.
+- The special effects are excellent, making me squirm in several places.
+- The police subplot is a little annoying and obvious — the poetic cop isn't THAT poetic, stating the themes as bluntly and repeatedly as possible. Cutting it entirely would significantly sharpen this movie.

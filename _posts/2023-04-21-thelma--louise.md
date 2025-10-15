@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/497y9D
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Felt like it was time to watch Ridley Scott’s magnum opus — and Hans Zimmer’s most well-renowned s<i>core after Cool Runnings</i>.

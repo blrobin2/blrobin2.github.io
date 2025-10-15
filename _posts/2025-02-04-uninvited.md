@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8IVK5v
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 20</a></b>
@@ -16,7 +15,7 @@ At a genetic research facility, two scientists look at a strange growth on an X-
 
 A lockdown goes into effect. One of the scientists grabs a security guard's gun as they sweep the parking deck for the mewing little dummy who doesn't know what's happening. But the kitty manages to take them all out and escape through an air duct into the bustling city.
 
-Meanwhile, Suzanne and Bobbi, dressed for spring break, try to stay at a luxury hotel, only for millionaire Walter Graham to take an interest in them. He feeds them dinner and offers them a spot on his luxury yacht, which takes off at midnight. Little do they know that Walter has set up this rendevous as a means of escaping criminal prosecution from the SEC. 
+Meanwhile, Suzanne and Bobbi, dressed for spring break, try to stay at a luxury hotel, only for millionaire Walter Graham to take an interest in them. He feeds them dinner and offers them a spot on his luxury yacht, which takes off at midnight. Little do they know that Walter has set up this rendevous as a means of escaping criminal prosecution from the SEC.
 
 I could describe the plot machinations that lead the cat to be on the boat. It involves a mugging, a car wreck, and the word "arbitrageur." Regardless, Suzanne finds him at the dock and brings him on. Suzanne and Bobbi also invite some horny boys, so the cat has more folks to murder.
 
@@ -28,4 +27,4 @@ That cat comes on screen, runs along an air duct, tail in the air, and I giggle 
 
 The boat that takes them to the yacht is called "Slam Dunk."
 
-I ended up reading a lot about bladder effects. They use quite a few in this movie. 
+I ended up reading a lot about bladder effects. They use quite a few in this movie.

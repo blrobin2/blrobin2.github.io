@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5cMhej
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 23/34 | Charles B. Pierce</b>
@@ -24,8 +23,8 @@ The monster is Bigfoot adjacent, especially with how his form cuts against the l
 
 Most Fouke Monster sightings occur around Boggy Creek, a swampy region that only experienced hunters and naturists can navigate.
 
-The movie begins with a child running through the fields. He’s off to inform a landowner about a Fouke Monster sighting. The framing and pacing in this segment suggest a skilled cinematographer at work. Most 
-of the cinematography is functional, although it has some small, beautiful moments. 
+The movie begins with a child running through the fields. He’s off to inform a landowner about a Fouke Monster sighting. The framing and pacing in this segment suggest a skilled cinematographer at work. Most
+of the cinematography is functional, although it has some small, beautiful moments.
 
 I’ve only seen the unofficial sequel, And the Legend Continues, on MST3K. I can’t believe Charles B. Pierce directed both.
 

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3NRl61
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “I sometimes wish I were ordinary like you. Ordinary and dead. Ordinary and dead like all the others”

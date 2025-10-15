@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/5UbDIx
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>Movie CW // Child Abuse, War Footage
@@ -17,4 +16,4 @@ Using war footage of Hitler and bomb drops in your kid's movie because you don't
 
 I like seeing Sonny Chiba as a dopey superhero, though
 
-* Stop zooming in — I have no emotions to show you
+- Stop zooming in — I have no emotions to show you

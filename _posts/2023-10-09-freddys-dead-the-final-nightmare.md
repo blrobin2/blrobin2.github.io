@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4XW3O3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Do you know the terror of he who falls asleep?
@@ -21,14 +20,16 @@ Freddy finds that kid and shoots him somewhere elsewhere to fetch something for 
 The memory mission takes them and some of the other kids back to Springwood, where we'll learn the secrets of Freddy's powers, his child, and, finally, how to kill him
 
 <b>Neat Effects</b>
-* Extra-long Q-tip
-* Hearing aid with tentacles
+
+- Extra-long Q-tip
+- Hearing aid with tentacles
 
 <b>Dull Effects</b>
-* Dream demons
-* Wizard of Oz house drop
-* In-a-gadda-da-vida psychedelic trip/video game
-* Endless unfolding map
+
+- Dream demons
+- Wizard of Oz house drop
+- In-a-gadda-da-vida psychedelic trip/video game
+- Endless unfolding map
 
 The movie abandons the pretense of horror and goes full cartoon — something I accused earlier ones of doing, but this is trying to be a cartoon, complete with Looney Tunes sound effects — at least for a little bit
 

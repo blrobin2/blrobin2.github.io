@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/53AANn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Hey, Freddy! Leave those sleepy kids alone!</b>
@@ -34,6 +33,6 @@ Also, they still gave him lame quips.
 
 Gigablast.
 
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 
 I loved the reference to <i>New Nightmare</i>, where Nancy cuts off Freddy's hand. I laughed when she said, "You're in my world now, bitch."

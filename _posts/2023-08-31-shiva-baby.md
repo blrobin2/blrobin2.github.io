@@ -6,15 +6,14 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4MdvfB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Danielle is a 20-something who, like most of us, has trouble juggling her family and her private life, keeping some half-truths and lives spinning as she attends a shiva. Those lives come to a head when her sugar daddy shows up to the shiva with his wife and baby
 
-The movie is a boiling pot of tension that induces "ha ha" laughs and "omg" laughs in equal measure.  Because it's not just Danielle's denial, but everyone's — not just her lies — that shake the foundations
+The movie is a boiling pot of tension that induces "ha ha" laughs and "omg" laughs in equal measure. Because it's not just Danielle's denial, but everyone's — not just her lies — that shake the foundations
 
-We like to pretend that life all comes together in your 30s and everything smooths out, but we trade those anxieties with new ones. As long as people are in your life, you will have conflicts and misunderstandings with them. The lesson is not that the trouble goes away, but that it cannot stay hidden or else *boom*
+We like to pretend that life all comes together in your 30s and everything smooths out, but we trade those anxieties with new ones. As long as people are in your life, you will have conflicts and misunderstandings with them. The lesson is not that the trouble goes away, but that it cannot stay hidden or else _boom_
 
 Everyone is great in this — Rachel Sennott has slightly less oblivious Hannah Horvath energy. Molly Gordon has a permanent intensity that never lets any detail pass idly. Ted Melamed and Polly Draper are such frustrating parents — supportive, which may be why (at least in part) Danielle feels so stuck and unable to find the independence she craves
 

@@ -6,13 +6,12 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/8w1g51
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 41/52 | Zombie</a></b>
 
-The Creeds move to Ludlow, Maine. Rachel and her daughter Ellie see kids in animal masks walking through the woods, carting a dead dog. Ellie follows them to a place labeled Pet Sematary. 
+The Creeds move to Ludlow, Maine. Rachel and her daughter Ellie see kids in animal masks walking through the woods, carting a dead dog. Ellie follows them to a place labeled Pet Sematary.
 
 Louis, Rachel's husband, works in an ER. When a teenager dies on him, the teenager comes back and warns him about crossing the border between life and death. In a dream that night, the teenager guides him to Pet Sematary, warning him not to go beyond the graveyard.
 
@@ -22,7 +21,7 @@ I saw the 1989 adaptation at a babysitter's house, and the scene with Gage stuck
 
 This adaptation remains mostly faithful to the novel, with a few significant changes to surprise those familiar with the source material and the original movie. It doesn't change much, so I don't care either way.
 
-The problem is that this movie lacks energy. I didn't realize you could adapt this material so lifelessly. Each story beat just sort of happens. None of the scares land and none of the performances are memorable. 
+The problem is that this movie lacks energy. I didn't realize you could adapt this material so lifelessly. Each story beat just sort of happens. None of the scares land and none of the performances are memorable.
 
 Did I watch this because I have a crush on Amy Seimetz? Maybe! God bless her—she acts the hell out of this movie. She used her salary from this movie to make <i>She Dies Tomorrow</i>, which I highly recommend.
 

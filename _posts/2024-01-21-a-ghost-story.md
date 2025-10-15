@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5DNNIZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 18/34 | Haunted House 1/2</a></b>

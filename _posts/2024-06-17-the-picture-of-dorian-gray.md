@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6GQR0t
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 15/31 | Before 1970 2/5 | Decades 2/5 | 40s</a></b>

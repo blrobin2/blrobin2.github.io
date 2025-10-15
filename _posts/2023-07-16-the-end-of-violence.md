@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4wsmRn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Just by looking at something, you can completely change it — or destroy it</i></blockquote>Big fan of The American Friend, so I was curious to see Wender’s approach to an America-oriented Neo-Noir

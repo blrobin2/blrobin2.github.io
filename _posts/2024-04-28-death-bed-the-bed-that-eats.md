@@ -6,17 +6,16 @@ rating: ""
 letterboxd_url: https://boxd.it/6miwDr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 27/32 | Inanimate Object Comes Alive</a></b>
 
 <blockquote><i>Aww shit — I'm being eaten alive</i></blockquote>
 
-Aubrey Beardsley lives behind a painting condemned to immortality. 
+Aubrey Beardsley lives behind a painting condemned to immortality.
 
-A couple opens the gate to the estate. Aubrey is afraid they will wake him. 
+A couple opens the gate to the estate. Aubrey is afraid they will wake him.
 
 When they get inside, they find a four-poster bed. The guy pulls the blankets back, lights a candle, and invites her girl into his arms. They set out food for a small picnic.
 
@@ -38,4 +37,4 @@ This movie is so fucking odd — card games with words written are the cards or 
 
 The pacing is terrible, and the acting is whatever — this is a categorically bad movie. It makes so many bizarre choices that I love, but it's so tedious.
 
-I don't know! 
+I don't know!

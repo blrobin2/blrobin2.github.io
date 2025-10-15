@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4g6Fld
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A girl walks home alone at night, accosted by someone with black gloves. When she thinks she’s found a friend, she sees the black gloves on them and a straight razor in their hands — we don’t see to whom the black gloves belong
@@ -25,6 +24,7 @@ It’s all pretty silly, and they really go out of their way for some misdirects
 I would love to watch this again with friends
 
 <b>strAy thoughts</b>
-* <i>Pretty Little Liars</i> fans will appreciate the all-black outfit of the killer
-* They’ll also enjoy the bell tower that plays into the plot
-* This might just be a bloodier <i>Pretty Little Liars</i>
+
+- <i>Pretty Little Liars</i> fans will appreciate the all-black outfit of the killer
+- They’ll also enjoy the bell tower that plays into the plot
+- This might just be a bloodier <i>Pretty Little Liars</i>

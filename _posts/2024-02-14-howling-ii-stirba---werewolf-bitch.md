@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5Pf2Kz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 13/32 | 2nd film in franchise 5/7</a></b>
@@ -28,18 +27,18 @@ To stop it, they must destroy Stirba. To find her, they must go to the dark coun
 
 I wasn't a massive fan of the first Howling, only because it did very little werewolf stuff and a lot of characterization that I didn't care about. This movie ramps up the fun and gives me what I wanted from Howling. It's hokey and outrageous, and I had a blast.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Christopher Lee can sell the most ridiculous dialogue.
-* The Babel song, "The Howling," plays over and over. It gets old fast.
-* Skeleton bell tower
-* I love a good blood sacrifice ritual to make your leader young and hot again — the face-melting scene is sick.
-* Vlad, fuck our daughter while I rip my top off.
-* We keep cutting back to their hairy werewolf sex. It's hilarious.
-* Room 666
-* When Ben and Jenny fuck, the werewolves in the village smell it.
-* Glowing cape! Lightning! Eyeballs exploding out of his skull! Those are some gnarly werewolf powers.
-* Werewolf orgy
-* What are they pulling out of the priest's throat?
-* Christopher Lee makes "In the Name of God" sound so cool.
-* The credits have Stirba ripping off her top repeatedly — it's so silly.
+- Christopher Lee can sell the most ridiculous dialogue.
+- The Babel song, "The Howling," plays over and over. It gets old fast.
+- Skeleton bell tower
+- I love a good blood sacrifice ritual to make your leader young and hot again — the face-melting scene is sick.
+- Vlad, fuck our daughter while I rip my top off.
+- We keep cutting back to their hairy werewolf sex. It's hilarious.
+- Room 666
+- When Ben and Jenny fuck, the werewolves in the village smell it.
+- Glowing cape! Lightning! Eyeballs exploding out of his skull! Those are some gnarly werewolf powers.
+- Werewolf orgy
+- What are they pulling out of the priest's throat?
+- Christopher Lee makes "In the Name of God" sound so cool.
+- The credits have Stirba ripping off her top repeatedly — it's so silly.

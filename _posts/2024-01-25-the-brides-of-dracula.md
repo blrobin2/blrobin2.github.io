@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5G4ibn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 24/34 | Hammer films 2/2</a></b>

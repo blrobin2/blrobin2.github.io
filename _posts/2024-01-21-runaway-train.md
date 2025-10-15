@@ -6,15 +6,15 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5E7tP7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 13/52 | 70s Disaster</a></b>
+
 <blockquote><i>— You're an animal
 </i><i>— No, worse. Human</i></blockquote><b>Stonehaven Maximum Security Prison, Alaska, USA</b>
 
-Oscar Mannheim, or Manny (Jon Voight), is a life-term prisoner. After two escape attempts, the warden welded him to his cell for three years. 
+Oscar Mannheim, or Manny (Jon Voight), is a life-term prisoner. After two escape attempts, the warden welded him to his cell for three years.
 
 After Manny wins a civil rights case against the prison, Associate Warden Ranken reluctantly lets Manny out of the hole and into the yard.
 

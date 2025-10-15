@@ -6,11 +6,10 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8HjLOr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Tina Fey always has to have a scene where she's messy with food, but also a scene where she's showing off skin. Oh, and also some German. Oh, and also racism. 
+Tina Fey always has to have a scene where she's messy with food, but also a scene where she's showing off skin. Oh, and also some German. Oh, and also racism.
 
 Why is the Futurama theme in the cafeteria montage?
 

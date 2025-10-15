@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5munsP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 49/52 | 2000s</b>
@@ -24,7 +23,7 @@ The doctor will help, but the cost differs from what they expected.
 
 Meanwhile, Otilia must handle her prying boyfriend Adi, who is making her come to his mother's birthday party that night. They argue over what would happen if she got pregnant. He either denies the possibility or says he would marry her. She doesn't want to raise his kids.
 
-The film has several long takes, letting conversations unfold naturally. 
+The film has several long takes, letting conversations unfold naturally.
 
 Anamaria Marinca, who plays Otilia, is brilliant here. Throughout the movie, she carries a heavy emotional burden while managing the details.
 

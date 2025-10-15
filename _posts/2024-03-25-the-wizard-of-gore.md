@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/680Cjb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Cult Movie Challenge 2016 | 38/52 / HG Lewis</b>

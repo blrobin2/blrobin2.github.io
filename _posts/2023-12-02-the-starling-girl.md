@@ -4,10 +4,9 @@ title: "The Starling Girl (2023)"
 excerpt: "My review of The Starling Girl (2023)"
 rating: "4.0"
 letterboxd_url: https://boxd.it/5fJg8l
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 Jem Starling whispers a prayer before her dance troupe performs an interpretive dance in front of their congregation.

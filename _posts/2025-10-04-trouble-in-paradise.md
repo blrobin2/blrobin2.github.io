@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/bfT3L3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 21/52 | Pre-Code</a></b>
@@ -20,7 +19,7 @@ François speaks to the police inspector about how he came to let a man in who p
 
 The film jumps years and locations to Paris to introduce us to the perfume manufacturer Colet and Co. Why? Because Gaston and Lily have a plot to steal from it.
 
-The film is whip-smart and wastes little time. It's full of little oddball jokes and bits of social satire. I love the dude who quotes Trotsky at Colet for buying an expensive handbag. As a pre-code film, the movie presents scenes that imply Gaston and Lily are having sex and includes other suggestive innuendos. It's nice to see actual chemistry in a 100-year-old movie. 
+The film is whip-smart and wastes little time. It's full of little oddball jokes and bits of social satire. I love the dude who quotes Trotsky at Colet for buying an expensive handbag. As a pre-code film, the movie presents scenes that imply Gaston and Lily are having sex and includes other suggestive innuendos. It's nice to see actual chemistry in a 100-year-old movie.
 
 The film briefly touches on the woes of the Great Depression through factory worker salaries, but relishes in highlighting the working class, who often fill the edges, a theme usually overlooked in screwball comedies. No one is an angel —  Gaston and Lily get to luxuriate in each other's lawless habits.
 

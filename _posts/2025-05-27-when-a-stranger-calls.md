@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9ODBw9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 22/52 | Home Sweet Horror</a></b>
@@ -28,7 +27,7 @@ It's okay once the movie moves beyond this, but the script is significantly weak
 
 I appreciate that we watch Duncan try to pick up a woman and have absolutely no luck — a lazier movie would've had someone find his vague British accent charming. Instead, the movie works for its moments, even if it isn't interesting.
 
-I also appreciate that the film is a slow-burning investigation. It doesn't cover a lot of ground. Duncan isn't a serial killer. The movie, despite appearances, is not a slasher. It's a tone that films like The Silence of the Lambs hit a better balance with. 
+I also appreciate that the film is a slow-burning investigation. It doesn't cover a lot of ground. Duncan isn't a serial killer. The movie, despite appearances, is not a slasher. It's a tone that films like The Silence of the Lambs hit a better balance with.
 
 The score is pretty decent! Nothing outstanding, but it kicks off with what sounds like the Dolby Digital legato, which is kind of cool.
 

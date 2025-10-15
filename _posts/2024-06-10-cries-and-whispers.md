@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6E05oF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 24/52 | Starring Liv Ullmann</a></b>
@@ -29,7 +28,7 @@ Like many siblings, each sister feels alone in their pain, physical or mental. T
 
 Thanks to Roger Corman, this film received solid US distribution, which likely aided in the movie receiving a Best Picture Oscar nomination.
 
-As with Bergman's best films, the human qualities that give the story life are in the cinematic language — that which words alone cannot convey. The cinematography swings between stillness and cursive freneticism, pushing in and drawing across characters. 
+As with Bergman's best films, the human qualities that give the story life are in the cinematic language — that which words alone cannot convey. The cinematography swings between stillness and cursive freneticism, pushing in and drawing across characters.
 
 This color scheme gives the movie an almost allegorical quality. The interiors are every shade of red and white, some brightly tinted and others subdued. The transitions fade to red and then to the next scene.
 

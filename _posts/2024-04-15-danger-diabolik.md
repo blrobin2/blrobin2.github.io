@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6hr3Bf
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Here it is — the last episode of the original MST3K run. While I'm sad to see it end — the last scene made me tear up — it was also time. The show bounced back a few times when it jumped to Sci-Fi, but the magic was waning, and the movie choices were more questionable.
@@ -18,10 +17,10 @@ I'm a movie lover, good or bad, and <i>MST3K</i> has been my gateway drug. I'll 
 
 I love this movie! It has one of my favorite Ennio Morricone themes. The style is a perfect heightening of Bond and Batman aesthetics. I want to inject this movie into my bloodstream at death so my final dreams look like it.
 
-* Na na na na na na na na This Guy!
-* Who's straight in this scene?
-* I exfoliate while I creep
-* Omaha Beach, June 5th. I was early
-* That's this room — I'd know it anywhere!
-* Oh, this is what they -apult their cats with
-* Good job, tree. Take it easy
+- Na na na na na na na na This Guy!
+- Who's straight in this scene?
+- I exfoliate while I creep
+- Omaha Beach, June 5th. I was early
+- That's this room — I'd know it anywhere!
+- Oh, this is what they -apult their cats with
+- Good job, tree. Take it easy

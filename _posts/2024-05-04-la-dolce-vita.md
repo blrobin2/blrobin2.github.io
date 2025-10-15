@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6oVEbV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 6/52 | 1960s</a></b>
@@ -24,7 +23,7 @@ Sylvia follows her whims — she howls with the wolves and mews with a kitten sh
 
 <blockquote><i>She's right. I've had it all wrong. We've all had it all wrong.</i></blockquote>
 
-Steiner plays the organ with such passion. His life looks stable and happy. 
+Steiner plays the organ with such passion. His life looks stable and happy.
 
 <blockquote><i>Your life is a refuge —  your children, your wife, your books, your extraordinary friends. I'm wasting my life. I'm not going anywhere.</i></blockquote>
 

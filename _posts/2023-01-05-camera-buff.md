@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/3EeP1r
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I picked up photography in college and put a big focus of my degree on it. I decided quickly that the camera doesn’t tell the truth, that it can distort reality and still look like facts, and so much of what I did was try to intentionally lie as much as possible with the camera

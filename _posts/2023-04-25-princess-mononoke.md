@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4ai2zP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A god-turned-demon attacks a tribe, staining a boy with its hatred. Seeking a cure, he seeks the spirit of the forest. In the process, he meets the town destroying the forest and creating these demons. But it isn’t as simple as all that, as prejudices and wounds blind both sides

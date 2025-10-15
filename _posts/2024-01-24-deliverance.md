@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5FvFG9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 21/34 | Set in the Woods</a></b>
@@ -36,7 +35,7 @@ Ed takes Lewis' bow to shoot a deer the following morning. His nerves shake, and
 
 Lewis is tired of Bobby, so Lewis tells Ed to take him in his canoe. Lewis and Drew are further back. Ed and Bobby stop on the side of the river to wait for them. In the woods, they see a couple of locals. One of them is carrying a shotgun.
 
-Ed and Bobby don Southern accents and tell the locals they're canoeing  to Aintry. Locals inform them that the river doesn't go that way, suggesting they are lost. And with Lewis guiding them, that's a strong possibility.
+Ed and Bobby don Southern accents and tell the locals they're canoeing to Aintry. Locals inform them that the river doesn't go that way, suggesting they are lost. And with Lewis guiding them, that's a strong possibility.
 
 Bobby, trying to be amicable, says that maybe they are. He tries to put on Lewis's peacocking, but it doesn't fit him.
 

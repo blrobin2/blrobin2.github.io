@@ -6,13 +6,12 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/49zS1b
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Letterboxd keeps erasing my reviews when I set them aside mid-movie, so my reviews have been shit lately. 
+Letterboxd keeps erasing my reviews when I set them aside mid-movie, so my reviews have been shit lately.
 
-Vincent Price has the power of a witch hunter, who can claim anyone as a witch for the right price, and who takes what he wants without repercussion 
+Vincent Price has the power of a witch hunter, who can claim anyone as a witch for the right price, and who takes what he wants without repercussion
 
 When Price has his way with the wife of Ian Ogilvy — who I would describe as a hotter Anthony Hopkins — Ogilvy seeks revenge, tracking down Price and his lackey, even when abandoning his military post may cost him his life
 

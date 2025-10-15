@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8z1JtX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 42/52 | Vincent Price</a></b>

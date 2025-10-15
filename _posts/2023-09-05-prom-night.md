@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4NNbRV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Four kids play a game that gets out of hand,

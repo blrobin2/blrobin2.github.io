@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/49pHeD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I like a lot about this movie: the land just absorbing these people, the blasé cult leader, faces in the trees, blood in the soil…

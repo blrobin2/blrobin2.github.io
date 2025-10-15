@@ -6,13 +6,12 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/59zSNn
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* You do the voice, I'll move the jaw
-* War-torn Wisconsin
-* I woke up and you weren't there, I hate that!
-* I didn't mean to kill her so much
+- You do the voice, I'll move the jaw
+- War-torn Wisconsin
+- I woke up and you weren't there, I hate that!
+- I didn't mean to kill her so much
 
 I spaced out during a lot of this.

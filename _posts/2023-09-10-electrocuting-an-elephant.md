@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4P9o1L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 If you can stomach this, you can handle <i>A Serbian Film</i>

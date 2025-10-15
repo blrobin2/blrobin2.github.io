@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/49ZwPZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A Goofy Movie meets M3GAN meets Be Kind Rewind ??

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8IoAzJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 36/52 | Documentary about Africa by an African director</a></b>

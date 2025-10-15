@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4RujPr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Tom grew up afraid that being good-looking and dumb wouldn't get him anywhere. Aaron knew he was smarter than everyone else and thought that was the ticket to getting everything he wanted. From childhood, Jane gave herself self-imposed deadlines, keeping herself too busy to worry
@@ -33,7 +32,8 @@ Still, I found this to be charming, funny, and engaging. Holly Hunter is a gift,
 A tremendous movie, and a huge influence on things I love, so it's hard not to love it back
 
 <b>Stray Thoughts</b>
-* I'm happy to see Joan Cusack — I wish she got to do more in this
-* Sorkin wanted Hurt to play Jeff Daniels' part in <i>The Newsroom</i>, I'm sure of it
-* <i>Great News!</i> is another show that this movie had to inspire
-* Jack Nicholson gets just enough screen time to show how shallow and cruel he is
+
+- I'm happy to see Joan Cusack — I wish she got to do more in this
+- Sorkin wanted Hurt to play Jeff Daniels' part in <i>The Newsroom</i>, I'm sure of it
+- <i>Great News!</i> is another show that this movie had to inspire
+- Jack Nicholson gets just enough screen time to show how shallow and cruel he is

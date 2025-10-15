@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/83rPg5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I love Film

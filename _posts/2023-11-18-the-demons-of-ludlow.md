@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5aVrXj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 18/34 | Bill Rebane</b>

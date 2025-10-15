@@ -6,13 +6,12 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/a9nfjp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Ex-Marine Michael drove from Texas to Wyoming because a friend said he could offer him a job in an oilfield. The foreman, however, doesn't want to take on the liability of hiring someone with a bum knee. His friend chastises him for bringing up the knee at all, but Michael refuses to be dishonest. He drives to a nearby gas station to fill up. He looks for the gas station attendant but finds a wad of cash sticking out of a safety deposit box. Michael shakes his head, and the gas station attendant arrives to pump gas. While filling up on Michael's last five dollars, the gas station attendant suggests that Michael head to Red Rock and ask around for work there.
 
-Michael pulls up to a bar in Red Rock. The bartender, Wayne, sees the Texas license plate and assumes Michael is Lyle and is there for the job. Michael, desperate for work, doesn't contradict Wayne and follows him back to the office, where Wayne places $5,000 on the table. Half now, half when he finishes the job. And what is this job? It's to murder Wayne's wife, Suzanne. 
+Michael pulls up to a bar in Red Rock. The bartender, Wayne, sees the Texas license plate and assumes Michael is Lyle and is there for the job. Michael, desperate for work, doesn't contradict Wayne and follows him back to the office, where Wayne places $5,000 on the table. Half now, half when he finishes the job. And what is this job? It's to murder Wayne's wife, Suzanne.
 
 Michael has been honest to a fault up to this point. What will this simple lie cost him for such a generous reward?
 

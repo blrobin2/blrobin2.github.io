@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8TXNkh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Birth Year Challenge 30</a></b>

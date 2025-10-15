@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/3ZjGGJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Yet another movie I watched at too young an age because my mom rented it. Only rewatching for a podcast
@@ -25,9 +24,10 @@ And that ending is possible… like 85 minutes in? But then the movie drags anot
 I don’t hate the actual ending as much as some people do, but I get why people hate it
 
 <b>Stray Thoughts
-</b>* Seeing the kid from Malcom in the Middle in this is like seeing the kid from Lizzie McGuire in The Cell — hilarious and jarring
-* Are New Yorkers regularly forced into meet cutes by trash-filled winds?
-* French former boxer who lives books and looks like that? And he’s single? 
-* His “take a book” strategy for a second encounter is the highbrow version of George Costanza leaving his keys at their place
-* Chad Lowe!
-* When they clap for his prayer before the Thanksgiving meal, I laughed so hard
+</b>\* Seeing the kid from Malcom in the Middle in this is like seeing the kid from Lizzie McGuire in The Cell — hilarious and jarring
+
+- Are New Yorkers regularly forced into meet cutes by trash-filled winds?
+- French former boxer who lives books and looks like that? And he’s single?
+- His “take a book” strategy for a second encounter is the highbrow version of George Costanza leaving his keys at their place
+- Chad Lowe!
+- When they clap for his prayer before the Thanksgiving meal, I laughed so hard

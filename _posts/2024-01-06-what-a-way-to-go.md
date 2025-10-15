@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5vFxWt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Louisa, a recent widow, tries to give the IRS her inherited millions. No one believes the money is real, so they send her to a psychiatrist, where she recounts her four marriages.

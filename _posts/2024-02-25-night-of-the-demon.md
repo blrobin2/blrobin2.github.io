@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5UhkZh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 24/32 | highest-rated horror film from the 50s that you haven't seen and can access</a></b>
@@ -28,7 +27,7 @@ Holden joins Williamson and Professor O'Brien to pick up where Harrington left o
 
 The movie explores the line between the scientific and the pseudoscientific.
 
-The soundtrack gives me goosebumps — more still when it cuts out the soundtrack and lets the silence accumulate 
+The soundtrack gives me goosebumps — more still when it cuts out the soundtrack and lets the silence accumulate
 
 The cinematography is sharp and builds tension. It creates a sense of isolation at times and the feeling of an unknowable presence at others.
 
@@ -40,11 +39,11 @@ The demon manifesting special effects are incredible — billowing smoke adds an
 
 Love, love, love the climax!
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The amount of space they had on the plane is truly astonishing. Holden could almost go horizontal in his seat without bothering the person behind him
-* I love the niece chastising Holden for mansplaining psychology to her
-* Greymalken the cat is perfect
-* The footprints!!
-* Sure, they're going to bring this guy out of catatonia with meth
-* That demon rips him to shreds! (to shreds, you say?)
+- The amount of space they had on the plane is truly astonishing. Holden could almost go horizontal in his seat without bothering the person behind him
+- I love the niece chastising Holden for mansplaining psychology to her
+- Greymalken the cat is perfect
+- The footprints!!
+- Sure, they're going to bring this guy out of catatonia with meth
+- That demon rips him to shreds! (to shreds, you say?)

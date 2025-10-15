@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8T9u8h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>She had to jump on things. She couldn't ask 'cause we might have said, "Ooh," and we would have lost time. So she was a thief—a happy thief, at that.</i></blockquote>

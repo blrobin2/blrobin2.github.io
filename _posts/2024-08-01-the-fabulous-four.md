@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/70jC5H
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Look, this movie sucks. It is quite cringey and no one has a character. But I snuck in some box wine, and girl, I was gagged.

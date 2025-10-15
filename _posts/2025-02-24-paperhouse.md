@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8W9pHt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 35</a></b>

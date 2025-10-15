@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5dXzul
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 30/34 | Lon Chaney</b>

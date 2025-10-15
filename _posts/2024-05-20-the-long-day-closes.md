@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6vkztp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 21/52 | LGBTQ+</a></b>

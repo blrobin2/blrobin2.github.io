@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/96EHkT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 6/52 | Video Nasties</a></b>
@@ -24,12 +23,12 @@ With a Z-grade budget, the movie looks like a made-for-TV movie from the era. Th
 
 This movie isn't for everyone's tastes—it kind of sucks. But I'm so captivated by it?? Also, as others have said, this movie doesn't belong on the Video Nasties list.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Dr. Masters is another one of the patients, isn't she? Or the woman pretending to be Dr. Masters. She gets so weirdly bent out of shape.
-* The phone guy is sassy as hell — I kind of dig it.
-* I hate how much I relate to Allyson.
-* The lack of locks on the door is wild. That's another reason I think Masters is a patient—of course, she lives on that floor, but the doctors shouldn't live in the same space, right? Or am I giving this movie too much credit?
-* Man, I'm so good. 😎 Or it was obvious, I don't know.
-* Charlotte being a patient too is… hmm…
-* The closing credits over all the dead bodies are inspired.
+- Dr. Masters is another one of the patients, isn't she? Or the woman pretending to be Dr. Masters. She gets so weirdly bent out of shape.
+- The phone guy is sassy as hell — I kind of dig it.
+- I hate how much I relate to Allyson.
+- The lack of locks on the door is wild. That's another reason I think Masters is a patient—of course, she lives on that floor, but the doctors shouldn't live in the same space, right? Or am I giving this movie too much credit?
+- Man, I'm so good. 😎 Or it was obvious, I don't know.
+- Charlotte being a patient too is… hmm…
+- The closing credits over all the dead bodies are inspired.

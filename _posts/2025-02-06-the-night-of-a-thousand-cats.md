@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/8KfbVZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 40/52 | Made in a country with land between the Equator and the Tropic of Cancer by a director from that country (Mexico)</a></b>

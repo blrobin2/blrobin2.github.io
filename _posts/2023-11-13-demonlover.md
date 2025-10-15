@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/59CSg5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Gen X Soft Club Videodrome</b>
@@ -22,7 +21,7 @@ Because of the situation with Karen, Volf puts Diane in charge of the negotiatio
 
 Diane, with her coworker, Hervé, seals the deal. Someone, however, has left the box of the drug she injected on her desk with a note saying, "You forgot something."
 
-Rights in hand, Diane goes into negotiations with an American distributor called Demonlover, led by Elaine. 
+Rights in hand, Diane goes into negotiations with an American distributor called Demonlover, led by Elaine.
 
 Demonlover has one major competitor, Mangatronics. This deal would eliminate Mangatronics from the competition.
 
@@ -36,7 +35,7 @@ The anxious Sonic Youth soundtrack gives a beautiful and unnerving tension to ev
 
 The early 00s grays make every space feel dead and sterile, so the graphic content comes bleeding through, juxtaposed with the passive eyes of its audience.
 
-In Irma Vep, Assayas asked what the future of French film holds. He investigates the impact of the internet on the proliferation of pornography and violence. Like Irma Vep, he does not answer any questions. And it is one that we are still learning the ramifications of. 
+In Irma Vep, Assayas asked what the future of French film holds. He investigates the impact of the internet on the proliferation of pornography and violence. Like Irma Vep, he does not answer any questions. And it is one that we are still learning the ramifications of.
 
 As someone who grew up during the Wild West days of the internet, I remember rotten.com, bestgore.com, and folks sharing 2 Girls 1 Cup like it was Keyboard Cat. Thankfully, I was a pussy by internet standards and avoided most of it. It's a rare positive aspect of my religious upbringing.
 

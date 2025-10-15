@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/8V5pKb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Diaper gravy—a universal truth so sinister it's only uttered by the babies in this movie

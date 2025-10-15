@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/50yTZL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 19/34 | LGBTQ+ connected | Decades 5/8 | 70s</b>

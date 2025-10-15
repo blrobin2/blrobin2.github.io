@@ -6,15 +6,14 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4WUBQf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Capitalist propaganda, but make it funny</b>
 
 Bolsheviks come to Paris to sell jewels to help fund the impoverished mother country. Within moments, they talk about how great France is — they're afraid of the judgment they'll receive for indulging in any luxury, but still take the Royal Suite at their hotel
 
-Grand Duchess Swana (Ina Claire) gets word from a spy that the Bolsheviks have her lost jewels — confiscated by the Russian state — and intend to sell them. Count Leon d'Algout  (Melvyn Douglas) intercepts the sale, to the embarrassment of the Bolsheviks
+Grand Duchess Swana (Ina Claire) gets word from a spy that the Bolsheviks have her lost jewels — confiscated by the Russian state — and intend to sell them. Count Leon d'Algout (Melvyn Douglas) intercepts the sale, to the embarrassment of the Bolsheviks
 
 To aid their suit, Russia sends their comrade Ninotchka (Greta Garbo), who more strongly upholds the "luxury is evil" party line
 
@@ -33,8 +32,9 @@ There are so many tiny pieces of this that I love, but the movie as a whole is a
 I like it! I just wanted to like it more because it theoretically has everything needed for something spectacular
 
 <b>Stray Thoughts</b>
-* "I'm ashamed to hang a picture of Lenin in a place like this," Ninotchka says when her comrades show her their expensive Parisian hotel suite. She makes eye contact with the camera when she mourns the cost of bread in Russia
-* It is funny to see her go to sleep with the Lenin portrait on her bedside — there's a magic moment where she asks the picture to smile, and it comes alive to do so
-* Garbo plays Champagne Drunk at one point, and it's delightful
-* Garbo and Douglas did one more film together. The film bombed, so she retired from movies and lived a secluded life :(
-* The snow scene near the end looks so pleasant — and hey, Boris Karloff!
+
+- "I'm ashamed to hang a picture of Lenin in a place like this," Ninotchka says when her comrades show her their expensive Parisian hotel suite. She makes eye contact with the camera when she mourns the cost of bread in Russia
+- It is funny to see her go to sleep with the Lenin portrait on her bedside — there's a magic moment where she asks the picture to smile, and it comes alive to do so
+- Garbo plays Champagne Drunk at one point, and it's delightful
+- Garbo and Douglas did one more film together. The film bombed, so she retired from movies and lived a secluded life :(
+- The snow scene near the end looks so pleasant — and hey, Boris Karloff!

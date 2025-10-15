@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6B1w5l
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Track and field — the crowd goes wild. Laura's pushing, the crowd chants her name. After 30 fucking cuts, she crosses the finish line and collapses. The track team gathers around her. She's dead.
@@ -24,7 +23,7 @@ Herb Freed and Anne Marise had a formula for writing the screenplay, studying al
 
 The film has epilepsy-inducing edits as it cuts between frames. I like it when it slows down enough so you can see what's happening. The special effects are, well, nothing special. In the first kill, the trick knife shoots blood everywhere before it makes a cut.
 
-Denise Cheshire does a full-blown uneven bar routine. She wasn't an actress but was a finalist in the 1976 Olympics gymnastics team. She retired from gymnastics and did stunt work, including <i>Jack Frost</i> and <i>Men in Black II.</i> She has one of my favorite exchanges in the movie: 
+Denise Cheshire does a full-blown uneven bar routine. She wasn't an actress but was a finalist in the 1976 Olympics gymnastics team. She retired from gymnastics and did stunt work, including <i>Jack Frost</i> and <i>Men in Black II.</i> She has one of my favorite exchanges in the movie:
 
 <blockquote><i>— My sister had eyes like yours. She's dead now
 </i><i>— Oh, jeez, well, I better run</i></blockquote>Tom Hintnaus is also a real-life Olympic pole vaulter. His kill is silly (compliment).

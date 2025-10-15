@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6YjG8R
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
@@ -27,6 +26,7 @@ So, 20 minutes into the movie, Cody gets into some plot. His mission is to stay 
 Andy Sedaris has the spirit of Russ Meyer — here, he blends stupid humor, wall-to-wall nude scenes, and as many cool cars as possible. Like Clint Ramsey in Supervixen, Cody can’t escape the eyes of buxom ladies with one thing on their mind.
 
 Where Andy Sedaris has Meyer beat is that Sedaris knows how to shoot all genders with a lustful eye. We get a variety of muscular boys to complement the Playboy models who litter the movie, including henchmen Matthew, Mark, and Luke.
+
 <blockquote><i>— He’s a pretty boy, ain’t he?
 — You looking to fuck him?
 — Yeah, maybe!</i></blockquote>Henry Strzelecki’s roots-style country plays throughout. It was disorienting in the opening credits, where a woman types on a computer with long, red nails, spelling out the credits for us. But as it goes and we get to know Cody, it fits.

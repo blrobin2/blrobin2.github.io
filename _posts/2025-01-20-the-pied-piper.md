@@ -6,13 +6,12 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/8xBTQh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 4/52 | Animated Horror</a></b>
 
-A mechanism comes alive. The sun rises over the town of Hamelin, and the gears grind. A bell awakens the townspeople, who go to work. Their various interactions show how petty and greedy they are. 
+A mechanism comes alive. The sun rises over the town of Hamelin, and the gears grind. A bell awakens the townspeople, who go to work. Their various interactions show how petty and greedy they are.
 
 In their wanton food waste, the rich draw rats that overtake the town, stealing food and riches. The townspeople are at a loss. That is, until a piper arrives, who claims he can drive away the rats with his pipe.
 

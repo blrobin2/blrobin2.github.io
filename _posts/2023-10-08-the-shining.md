@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4XBS5h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Oh I get it, his name is Jack

@@ -6,11 +6,10 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5grVGh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  31/52 | Directed by Melvin Van Peebles</b>
+<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 31/52 | Directed by Melvin Van Peebles</b>
 
 <blockquote><i>Sire, these lines are not a homage to brutality that the artist has invented but a hymn from the mouth of reality...</i></blockquote>
 

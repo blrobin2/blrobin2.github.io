@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6cdeJB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 14/52 | RNG (#1198)</a></b>
@@ -38,9 +37,9 @@ This movie wasn't Scorsese's first, but it's the one that has so many of his sty
 
 I prefer this story's indie, low-budget style over the glossy look of his later films. Scorsese would tackle several other genres, but something always pulls him back to the mobsters.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The fights are loose and flailing — no one looks cool throwing or taking a punch. 
-* Charlie calling Tony "William Blake with his tigers" was funny.
-* Baby Robert Carradine shoots David Carradine!
-* I love the clips they show from the movies they see at the theater. I don't know the first movie, but the second one is <i>The Tomb of Ligeia</i>.
+- The fights are loose and flailing — no one looks cool throwing or taking a punch.
+- Charlie calling Tony "William Blake with his tigers" was funny.
+- Baby Robert Carradine shoots David Carradine!
+- I love the clips they show from the movies they see at the theater. I don't know the first movie, but the second one is <i>The Tomb of Ligeia</i>.

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9Iop1J
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 39/52 | J-Horror</a></b>
@@ -16,7 +15,7 @@ The world is going insane. The sky has turned blood red. Birds are smashing into
 
 The plane shakes violently as a glowing orb flies past the ship, blowing up the plane's controls and setting the engines on fire. The plane must make a crash landing on a deserted island. Though many people die, the hijacker escapes into the wilderness with the stewardess in tow. They come across the glowing UFO, drawing the hijacker in. On the outside of the UFO, the hijacker sees pulsating ooze in small chambers. As the hijacker watches, his head splits open, and the ooze climbs inside his skull.
 
-What's happened to the hijacker? Will a rescue team arrive for the plane survivors? What do these aliens want? 
+What's happened to the hijacker? Will a rescue team arrive for the plane survivors? What do these aliens want?
 
 Dude, this movie is so outrageous. I wanted to write down every second of it because crazy shit just kept happening. The first eight minutes before the credits are near-perfect insanity. The effects are good enough for the movie's tone, especially those bloody birds.
 

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4cOKDj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I love how<i> in medias res </i>this movie starts. Eveyone knows someone on the train, everyone has a secret, and most importantly, the film isn’t interested in filling in most of those stories for you — fitting considering how much spy work is happening in the background
@@ -21,5 +20,5 @@ Marlene Dietrich carries herself with such charm and wit. The camera knows how t
 Perfect lighting! The moment with the soldiers in the fog sneaking onto the train gave me chills. Also when Dietrich is in complete shadow except for her bejeweled hands joined together in prayer
 
 One of the best early Hollywood movies I’ve seen — so intelligent and captivating. I would die if I ever had the opportunity to see this in a theater
- 
+
 “The Chinese government would’ve had my head years ago if it wasn’t such a good head” — iconic

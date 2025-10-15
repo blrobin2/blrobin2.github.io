@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6AM7Pj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Somewhere in Oregon, Maya and Ryan are on a multi-day cross-country road trip to Portland. They pull into Venus, a small town where folks eye outsiders suspiciously. At a diner, they hear about a guy who passed through, ate at the same restaurant, and went missing.
@@ -28,12 +27,12 @@ I find it funny that the filmmakers have already made two more chapters that fol
 
 Still, as a former <i>Riverdale</i> fan, I am pleased that Madelaine Petsch is getting lead work. Hopefully, this leads to better things.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Sponsored by Ally and Busweiser.
-* A Joanna Newsom record is already on the record player?
-* Ryan is such an asshole to everyone that you want him to die. He's suspicious until Maya tells him anything, and he convinces her nothing is happening.
-* Do the killers trash this Airbnb every time someone stays there?
-* Axes the door with hello written on it so it says "hell."
-Maya is an architect, so she uses her knowledge of houses to survive.
-* Two of the masks look so similar that I didn't realize there were three killers.
+- Sponsored by Ally and Busweiser.
+- A Joanna Newsom record is already on the record player?
+- Ryan is such an asshole to everyone that you want him to die. He's suspicious until Maya tells him anything, and he convinces her nothing is happening.
+- Do the killers trash this Airbnb every time someone stays there?
+- Axes the door with hello written on it so it says "hell."
+  Maya is an architect, so she uses her knowledge of houses to survive.
+- Two of the masks look so similar that I didn't realize there were three killers.

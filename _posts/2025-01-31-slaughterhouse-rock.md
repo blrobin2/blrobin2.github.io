@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/8FXbT3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 17</a></b>
@@ -23,6 +22,7 @@ But forget that! Alex and Jan have to grab burgers while Alex's brother, Richard
 Dreams and reality are blurring together for Alex. Are they premonitions? A warning? Thankfully, one of Alex's teachers is an occultist who explains everything. What she can't answer awaits him at Alcatraz.
 
 Krista tries to get Jan to hook up with Alex, but Jan has major sapphic friend desire:
+
 <blockquote><i>— How do I look?
 — Even the small percentage of male hormones in my body tingle just to be near you.
 — I hope Richard's do the same.</i></blockquote>

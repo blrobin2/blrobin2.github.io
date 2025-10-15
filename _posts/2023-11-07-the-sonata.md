@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/57DLuj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 We open on the first-person perspective of someone at a desk, writing out musical notation. They take a candle downstairs and grab a canister of gas. They step outside, open the canister, and douse themselves with the gas, dropping the candle at their feet and self-immolating. These are the last moments of Richard Marlowe (Rutger Hauer), a notorious British composer who disappeared at the peak of his career.
@@ -20,7 +19,7 @@ Rose brings the notation over to the piano. As she stabs out the notes, she catc
 
 The first act had me hooked. A brilliant musician inheriting a mysterious mansion and a satanic sonata is my deal. The film spends far too much of its runtime expositing on the mysterious Richard Marlowe, but the tight editing keeps it moving.
 
-The film explores success and the lengths people go for it. The idea of someone stepping down at their artistic peak baffles and frustrates the artist who would love to have that attention. But nothing kills the artist more than when passion becomes business. 
+The film explores success and the lengths people go for it. The idea of someone stepping down at their artistic peak baffles and frustrates the artist who would love to have that attention. But nothing kills the artist more than when passion becomes business.
 
 The soundtrack fluctuates between cliches and feverous intensity. The movie goes to dark places and saves its most intense music for those reveals.
 

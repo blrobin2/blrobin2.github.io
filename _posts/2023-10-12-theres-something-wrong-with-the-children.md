@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4YVVeZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Two couples rent cabins in the wilderness for the weekend, and one couple brings their two kids along.

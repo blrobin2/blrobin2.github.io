@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6LvJmT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 28/31 | Classic Universal horror | Before 1970 5/5</a></b>

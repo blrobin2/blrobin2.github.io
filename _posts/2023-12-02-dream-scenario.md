@@ -6,13 +6,12 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5fRPKb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Paul Matthews is a tenured professor in biology. He has a lovely wife and two daughters, all of whom find him perfectly fine. 
+Paul Matthews is a tenured professor in biology. He has a lovely wife and two daughters, all of whom find him perfectly fine.
 
-Also, he's showing up in people's dreams. 
+Also, he's showing up in people's dreams.
 
 It starts with a couple of people, but as word spreads, so does his presence in dreams.
 
@@ -26,7 +25,7 @@ How he handles this may change everything. Whether it is for better or worse dep
 
 On paper, this is a great movie. In practice, it is a mixed bag. The first act is sharp and hilarious. The second act is tedious and predictable. The third somewhat makes it up with a solid finale.
 
-Nic Cage is perfect, though I would have liked to see  Adam Sandler, who was supposed to play the part.
+Nic Cage is perfect, though I would have liked to see Adam Sandler, who was supposed to play the part.
 
 I'm always happy to see Michael Cera and adore seeing Kate Berlant in anything, but neither gets much to do.
 

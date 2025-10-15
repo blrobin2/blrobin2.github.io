@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/59gygP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 It was playing at the bar. I have no idea what happened

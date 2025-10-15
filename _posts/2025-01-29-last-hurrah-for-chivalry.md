@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8Et9H1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 48/52 | John Woo</a></b>

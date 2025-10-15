@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/aYkDRN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 8/52 | Abel Ferrera</a></b>
@@ -22,14 +21,15 @@ The movie follows Frank as he pursues his contradictory aspirations of ruling th
 
 It's wild to think that folks shunned this movie for being too violent. So many movies inject unnecessary gore these days that what we see here is quaint by comparison. Not that it doesn't hit — its reputation for violence has merely diminished over the years.
 
-The screenplay is a crackerjack box of expectation reversals and tension. The pacing is *chef's kiss*. The anti-powers-that-be messaging is as relevant as ever. The third act really ramps it up with well-choreographed shootouts, coherent car chases, and endless rain. It plays out like an opera.
+The screenplay is a crackerjack box of expectation reversals and tension. The pacing is _chef's kiss_. The anti-powers-that-be messaging is as relevant as ever. The third act really ramps it up with well-choreographed shootouts, coherent car chases, and endless rain. It plays out like an opera.
 
 Even before Ferrera made <i>The Addiction</i>, he had a thing for vampires — here, it's subtle until it isn't, what with the Triad members watching Nosferatu. Frank is a sudden force taking over the city. Also, there's some unambiguous homoeroticism, a prerequisite of every good Dracula adaptation.
 
-<b>*** ACTOR TALK ***</b>
-* I don't think I've seen Christopher Walken quite like this. He carries that menace of someone who could be joking one moment and deadly serious the next.
-* OH HELLO HAROLD PERRINEAU! He makes a brief appearance as a gang leader.
-* Laurence Fishburne is chewing the fuck out of that scenery, but that's his trademark.
-* Theresa Randle is carrying a gun and looking like a goddamn smokeshow.
-* Giancarlo Esposito! He maintains that classic stoic face while one of his team members moons the detectives.
-* Fucking David Caruso and Wesley Snipes as boy detectives.
+<b>**_ ACTOR TALK _**</b>
+
+- I don't think I've seen Christopher Walken quite like this. He carries that menace of someone who could be joking one moment and deadly serious the next.
+- OH HELLO HAROLD PERRINEAU! He makes a brief appearance as a gang leader.
+- Laurence Fishburne is chewing the fuck out of that scenery, but that's his trademark.
+- Theresa Randle is carrying a gun and looking like a goddamn smokeshow.
+- Giancarlo Esposito! He maintains that classic stoic face while one of his team members moons the detectives.
+- Fucking David Caruso and Wesley Snipes as boy detectives.

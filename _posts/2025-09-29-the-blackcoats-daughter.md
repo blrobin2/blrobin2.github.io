@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/bd1iYv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 40/52 | Religious Horror</a></b>
@@ -22,21 +21,20 @@ How will these stories converge? Was Kat's dream a premonition? Will Rose keep t
 
 <blockquote><i>It's strange, people think you look for [God] in some book, or in a church. A statue, maybe even a candle flame. But that's not how it works for me. I look for him in the unlikely things that happen—little coincidences.</i></blockquote>
 
-The film alternates its focus between Kat, Rose, and Joan, occasionally revisiting events from the others' perspectives. The result is a solid building up of dread. The film fills the space with seemingly disparate images, conveying everything that is going to happen without explicitly stating it. 
+The film alternates its focus between Kat, Rose, and Joan, occasionally revisiting events from the others' perspectives. The result is a solid building up of dread. The film fills the space with seemingly disparate images, conveying everything that is going to happen without explicitly stating it.
 
 The film's biggest weakness is its length, a complaint I also have about his other movies I've seen. There's a difference between drawing out suspense and delaying the inevitable. We could cut quite a few multiple-perspective scenes and pep up the pacing.
 
 Perkins crafts a meditation on grief disguised as a horror movie — a recurring trope that haunts the genre to this day. Here, he gets away with it by not letting the grief overtake the horror.
 
+<b>**_ ACTOR TALK _**</b>
 
-<b>*** ACTOR TALK ***</b>
-* Kiernan Shipka plays a haunted girl who says all the quirked-up nonsense you tend to hear haunted girls saying. She's good at keeping her eyes open for a long time!
-* Lucy Boynton is solid, but she's pretty much the straight man here.
-* Emma Roberts is great. Sorry, no spoilers!
-* James Remar is the horniest daddy.
-* Lauren Holly gives a Lynchian performance. Such a shame she never got the chance to work with him.
+- Kiernan Shipka plays a haunted girl who says all the quirked-up nonsense you tend to hear haunted girls saying. She's good at keeping her eyes open for a long time!
+- Lucy Boynton is solid, but she's pretty much the straight man here.
+- Emma Roberts is great. Sorry, no spoilers!
+- James Remar is the horniest daddy.
+- Lauren Holly gives a Lynchian performance. Such a shame she never got the chance to work with him.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 The film's meditation on grief is the loss of God. Through the entity that possessed her, Kat had a meaning and purpose. When they exorcise it out of her, she loses that sense of belonging. She spends years fighting and killing to get out of the asylum where they put her, desperate to find the entity again. When Bill gives his speech about little coincidences, Kat cannot help but see this as a sign that the entity is waiting for her. But, as many of us know, when we've already lost faith, we cannot force its return. We can pretend, but it isn't the same.
-<b>*** END SPOILER TALK ***</b>
+<b>**_ END SPOILER TALK _**</b>

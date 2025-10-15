@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/54ko5P
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 31/34 | Tobe Hooper</b>
@@ -25,7 +24,6 @@ Also, Harvey and his daughter Libby drive up. They're looking for Harvey's missi
 Judd's world is closing in on him. His thoughts won't leave him alone, no matter how loud he turns up the music. So when Buck drives up, everything begins to unravel.
 
 If I had seen this a year ago, I would've dismissed it as a cheap bummer of a follow-up to one of the most horrifying movies ever made. While this is no <i>Texas Chainsaw Massacre</i>, its contained reality strikes closer to the America beneath your nose.
-
 
 <b>Overwrought Analysis for Fun and Profit (Spoilers Ahead):</b>
 

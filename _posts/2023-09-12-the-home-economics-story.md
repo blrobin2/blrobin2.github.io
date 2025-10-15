@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/4PTCGF
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* she was eating cubes of mescaline jello
-* your period and mine: a lecture
+- she was eating cubes of mescaline jello
+- your period and mine: a lecture

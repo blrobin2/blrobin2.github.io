@@ -6,18 +6,17 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4WytyX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 7/34 | Decades 1/8 | 1920s</b>
 
-The story begins at  Notre Dame during the Festival of Fools. There, we meet our cast of characters:
+The story begins at Notre Dame during the Festival of Fools. There, we meet our cast of characters:
 
-* Lon Chaney's Quasimodo — a man born deaf, half-blind, whose only solace is the vibration of the cathedral bells
-* Clopin, the king of beggars, stands in defiance of the royal infantrymen 
-* Dom Claude, arch-deacon of Notre Dame, whose brother Jehan has forsworn the deacon robes
-* Esmerelda, the adopted daughter of Clopin, whom Jehan wished to take as his own
+- Lon Chaney's Quasimodo — a man born deaf, half-blind, whose only solace is the vibration of the cathedral bells
+- Clopin, the king of beggars, stands in defiance of the royal infantrymen
+- Dom Claude, arch-deacon of Notre Dame, whose brother Jehan has forsworn the deacon robes
+- Esmerelda, the adopted daughter of Clopin, whom Jehan wished to take as his own
 
 The townspeople mock and jeer Quasimoto, who hangs off the gargoyles and taunts them — even Esmerelda finds him frightening
 

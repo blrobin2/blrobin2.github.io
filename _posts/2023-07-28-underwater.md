@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/4AYQGz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I went in blind and was hoping for more existential horror — the facilities looked an awful lot like the space station in Solaris — the disaster hits, and the survival horror emerges
@@ -25,6 +24,7 @@ everyone mumbles too much — I had the movie deafeningly loud to try and make o
 Kristin Stewart commits to the role, and it's the movie's one saving grace. Without her performance, there's no movie
 
 <b>stray thoughts</b>
-* The beat with the spider at the beginning is meaningless 
-* the title card is not subtle about the Alien nod
-* "the buddy system works — working alone is against company policy."
+
+- The beat with the spider at the beginning is meaningless
+- the title card is not subtle about the Alien nod
+- "the buddy system works — working alone is against company policy."

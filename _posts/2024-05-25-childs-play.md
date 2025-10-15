@@ -6,15 +6,14 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6xnign
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 24/31 | Tom Holland</a></b>
 
 <b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
 
-Detective Mike Norris chases notorious serial killer Charles Lee Ray through the streets of Chicago. Ray’s accomplice, Eddie, drives off and leaves Ray behind. Wounded by a gunshot, Ray hobbles into Playland Toys to hide. The Good Guy talking doll is displayed prominently on the shelves, a child-sized redhead in overalls, with a ventriloquism dummy mouth. 
+Detective Mike Norris chases notorious serial killer Charles Lee Ray through the streets of Chicago. Ray’s accomplice, Eddie, drives off and leaves Ray behind. Wounded by a gunshot, Ray hobbles into Playland Toys to hide. The Good Guy talking doll is displayed prominently on the shelves, a child-sized redhead in overalls, with a ventriloquism dummy mouth.
 
 Norris gets a solid hit on Ray in the shootout, who stumbles bleeding into the back. In case it isn’t clear, Ray yells aloud to Norris that he is dying.
 
@@ -22,7 +21,7 @@ Norris gets a solid hit on Ray in the shootout, who stumbles bleeding into the b
 
 Cut to the home of six-year-old Andy, who watches a commercial for the Good Guy talking doll — an animated character that promises to be your friend. When his mother, Karen, wakes up, they open presents. He gets some toys, but not the Good Guy talking doll he wants. Karen, a widow barely scraping by, couldn’t afford the expensive toy.
 
-Later, while Karen is at work, her coworker and best friend Maggie informs her of a peddler in the alley selling discounted Good Guy talking dolls. Karen brings the doll home to the elated Andy. The doll introduces itself as Chucky, his friend to the end. 
+Later, while Karen is at work, her coworker and best friend Maggie informs her of a peddler in the alley selling discounted Good Guy talking dolls. Karen brings the doll home to the elated Andy. The doll introduces itself as Chucky, his friend to the end.
 
 Maggie watches Andy while Karen works another shift. Chucky displays unusual behavior. For example, when the TV mentions the police capturing Eddie, Chucky ignores Andy to watch the news. Maggie turns off the TV and puts them to bed. Then, the sound of the TV cutting back on startles Maggie. Chucky is in the living room. Maggie assumes Andy is playing with her. But after Andy goes to sleep, she hears funny noises. A hammer hits her in the face, sending her stumbling backward, out of the window, and into a car below.
 
@@ -37,6 +36,5 @@ Cutting this movie to under ninety minutes keeps the pace fast and fun. I did no
 
 I’m looking forward to checking out the rest!
 
-
-<b>*** Spoiler Talk ***</b>
+<b>**_ Spoiler Talk _**</b>
 So, Charles Lee Ray uses voodoo to transfer into Chucky's body. I watched <i>The Serpent and the Rainbow</i> before this. I didn’t intend to watch two voodoo movies today. Honestly, it could have been any [insert magic here] that got him in there. Why it had to be voodoo, I’m not sure. Also, both movies came out in 1988, so maybe voodoo was a hot topic?

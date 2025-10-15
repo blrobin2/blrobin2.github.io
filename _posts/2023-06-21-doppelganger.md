@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4p53vN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Don’t confuse me with her. She may look like me, but she’s not me.</i></blockquote>Holly (Drew Barrymore) moves to LA, pursued by someone who looks exactly like her. She moves in with Patrick (George Newbern), who learns of her doppelgänger as murders begin to happen around them
@@ -21,6 +20,7 @@ Throughout the movie is another critique of Hollywood and genre, but it never am
 The ending is so outrageous, complete with a villain monologue. This movie is not good, but it’s worth watching just for that climax
 
 <b>Stray Thoughts</b>
-* Nice Jaid Barrymore cameo
-* Danny Trejo is really in everything, isn’t he
-* Using a butcher knife to spread jelly on toast is the most psychotic thing Barrymore does
+
+- Nice Jaid Barrymore cameo
+- Danny Trejo is really in everything, isn’t he
+- Using a butcher knife to spread jelly on toast is the most psychotic thing Barrymore does

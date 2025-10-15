@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/1oVxhH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Makes Satanism seem as stuffy and benign as any other royal pageantry, but Vincent Price is always captivating

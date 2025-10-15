@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4PsNa7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A bodybuilder goes to a haunted house with his photojournalist ex-girlfriend and a psychic to help his ex do research, and they encounter a ghost with a grudge

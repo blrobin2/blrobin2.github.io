@@ -6,14 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9FDEld
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 20/52 | Korean Horror</a></b>
 
 <b>May 1997</b>
-Jin-seok awakens in the back of a car with his mother, father, and older brother, Jin-seok, drenched in sweat. The family is moving into a new home. Though Jin-seok has never seen the house, he cannot help but feel it is familiar. Yu-seok, whom Jin-seok admires, walks with a limp from a car accident the previous year. Though their father initially promised them separate rooms, the previous owner begged their father to let them put some stuff in that room so the brothers could share a room. Per the prior owner's request, their father tells them never to enter the closed-off room at dinner that night. 
+Jin-seok awakens in the back of a car with his mother, father, and older brother, Jin-seok, drenched in sweat. The family is moving into a new home. Though Jin-seok has never seen the house, he cannot help but feel it is familiar. Yu-seok, whom Jin-seok admires, walks with a limp from a car accident the previous year. Though their father initially promised them separate rooms, the previous owner begged their father to let them put some stuff in that room so the brothers could share a room. Per the prior owner's request, their father tells them never to enter the closed-off room at dinner that night.
 
 While in bed that night, Jin-seok hears repeated slamming and dragging sounds coming from the room. Jin-seok thinks about opening the door, but Yu-seok stops him. Yu-seok doesn't hear any sounds, so he takes Jin-seok outside for some air. Yu-seok gets a call from their dad and tells Jin-seok to hang out until his return. A group of men surrounds Yu-seok, knocking him out and dragging him into a car. Jin-seok runs after it, memorizing the license plate, but cannot catch up. That night, Jin-seok has the same nightmare, which we only see in jumbled images of surgical equipment and an axe over someone's head.
 

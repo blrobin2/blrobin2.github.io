@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6qM8wR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>As poor Oiwa finds no peace even in death, what fate awaits Iemon, tormented by his conscience, and Naosuke, the incarnation of evil?</i></blockquote>

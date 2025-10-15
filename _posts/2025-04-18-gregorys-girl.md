@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9rab1T
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 28/52 | 80s Teen Comedy</a></b>
@@ -34,27 +33,27 @@ This movie is so funny! Gregory is so ridiculous yet perfectly believable as an 
 — Boys?
 — What's the difference?</i></blockquote>
 
-As a product of the 80s, the film grossly objectifies several of the women we encounter. We first meet Gregory and his friends spying on a woman changing. In Home Economics, Steve mansplains pie crust to Susan before patting her on the bum, leaving a hand-shaped flour print on her. That said, the film goes out of its way to show how hopelessly dumb the boys are. It also conveys how the women in Gregory's life have helped him get where he is, especially his 10-year-old sister, Madeleine. It's not perfect by any means, but 
+As a product of the 80s, the film grossly objectifies several of the women we encounter. We first meet Gregory and his friends spying on a woman changing. In Home Economics, Steve mansplains pie crust to Susan before patting her on the bum, leaving a hand-shaped flour print on her. That said, the film goes out of its way to show how hopelessly dumb the boys are. It also conveys how the women in Gregory's life have helped him get where he is, especially his 10-year-old sister, Madeleine. It's not perfect by any means, but
 
 This film may be my favorite teen comedy from the 1980s—at least that I've seen thus far.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Why the hell is Gregory putting on deodorant on his shirt? His pits are blue. 
-* Andy likes watching the big trucks on the freeway.
-* Gregory starts to change clothes but sees the open window, remembers the nurse, and thinks better of it.
-* Gregory's electric toothbrush! It looks like <a href="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5540318/image/0fca452501e1f88b6d21132c86599098">the one Boots the Chemists put out</a>. 
-* Gregory squeezes some Primula Cheese Spread on a Bonio dog biscuit—teenage appetites.
-* The sprawl of small children, including one in a tree.
-* Gregory and I have the same problem: we fall hardest for lesbians.
-* "Hey Dorothy… I'd like to have a chat with you for the school magazine. I want to interview you and that girl in 2A that had the triplets."
-* A random kid in a penguin costume is being sent to different rooms.
-* Steve deals pastries to the head teacher, who looks around as if he fears getting caught.
-* Billy offers Madeleine a cigarette while she waits outside to counsel her brother Gregory.
-* Bullying the year one for a comb
-* This movie uses some "Oh Brother" bass lines to great effect.
-* Gregory could not have flubbed up that date proposal more, and Dorothy still said yes! There's a lesson here…
-* Madeleine tells Gregory not to tell the joke about Batman and Superman. Just thinking about it makes him laugh.
-* — "Can you drive?" — "No, but it runs in the family."
-* That camera turns when they're Earth dancing is *chef's kiss*
-* —" Put me down for six! Nah, make it a half-dozen." I know this movie didn't originate that joke, but it still makes me laugh.
+- Why the hell is Gregory putting on deodorant on his shirt? His pits are blue.
+- Andy likes watching the big trucks on the freeway.
+- Gregory starts to change clothes but sees the open window, remembers the nurse, and thinks better of it.
+- Gregory's electric toothbrush! It looks like <a href="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5540318/image/0fca452501e1f88b6d21132c86599098">the one Boots the Chemists put out</a>.
+- Gregory squeezes some Primula Cheese Spread on a Bonio dog biscuit—teenage appetites.
+- The sprawl of small children, including one in a tree.
+- Gregory and I have the same problem: we fall hardest for lesbians.
+- "Hey Dorothy… I'd like to have a chat with you for the school magazine. I want to interview you and that girl in 2A that had the triplets."
+- A random kid in a penguin costume is being sent to different rooms.
+- Steve deals pastries to the head teacher, who looks around as if he fears getting caught.
+- Billy offers Madeleine a cigarette while she waits outside to counsel her brother Gregory.
+- Bullying the year one for a comb
+- This movie uses some "Oh Brother" bass lines to great effect.
+- Gregory could not have flubbed up that date proposal more, and Dorothy still said yes! There's a lesson here…
+- Madeleine tells Gregory not to tell the joke about Batman and Superman. Just thinking about it makes him laugh.
+- — "Can you drive?" — "No, but it runs in the family."
+- That camera turns when they're Earth dancing is _chef's kiss_
+- —" Put me down for six! Nah, make it a half-dozen." I know this movie didn't originate that joke, but it still makes me laugh.

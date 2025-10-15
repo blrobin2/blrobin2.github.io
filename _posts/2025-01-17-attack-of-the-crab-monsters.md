@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8v80c1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 40/52 | Kaiju</a></b>

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/3XkPtD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This has a lot of my favorite tropes in it, I just don’t think this is a particularly excellent execution of them

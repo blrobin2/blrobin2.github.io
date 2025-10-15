@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8FcB55
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 49/52 | Carsploitation</a></b>
@@ -22,7 +21,7 @@ Jimmy goes to the entrance to file a complaint, but the owner says he must camp 
 
 Aussie punks trapped in a drive-in converted into an internment camp is a fun idea. It's youth trapped in a prison without a future — a metaphor not unlike Mark Fischer's hauntology. Add to it the slow creep of Nazi punks looking to take over, and you have some outright cultural relevance.
 
-There's a moment in the movie where police drop off hundreds of Asian people, and the camp loses it, demanding the police remove them. Carmen is worried that they'll rape her. Jimmy tries to help her understand that Asian people are prisoners, just like them. 
+There's a moment in the movie where police drop off hundreds of Asian people, and the camp loses it, demanding the police remove them. Carmen is worried that they'll rape her. Jimmy tries to help her understand that Asian people are prisoners, just like them.
 
 All the pieces are in place for something compelling. But the movie does almost nothing with the setup it's given us. It mentions these ideas without exploring them with any curiosity. Ultimately, the film suggests that collective action is only viable to make things worse and that it takes a Rambo to save himself.
 

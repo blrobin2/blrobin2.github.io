@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6mTvDJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 18/52 | Jess Franco</a></b>

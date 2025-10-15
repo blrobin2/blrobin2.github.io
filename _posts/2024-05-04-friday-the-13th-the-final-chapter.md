@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6oPfOL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 3/31 | Sequels 3/6</a></b>
@@ -24,7 +23,7 @@ Another batch of teens makes their way, skinny dipping, dancing, and fucking up 
 
 The film also explores eroticism, and how culture passes down what is sexy to teens. Whether it’s aerobics videos or old stag films, how they objectify women shifts over time, but the subject as an object remains.
 
-Ted, as the one more versed in pornography, appears like the more sexually active one. But when people couple off, he’s left with a black-and-white porno reel he finds in the house. 
+Ted, as the one more versed in pornography, appears like the more sexually active one. But when people couple off, he’s left with a black-and-white porno reel he finds in the house.
 
 Meanwhile, Sarah, the ostensibly virginal one, not only hooks up but has a romantic and genuinely erotic experience with a guy.
 

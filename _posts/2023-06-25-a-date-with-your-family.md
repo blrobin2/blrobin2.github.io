@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/4qbp09
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* I like my family as a friend!
-* Brother has a tight psychological grip on Junior
-* Well, there it is, spankings all around
+- I like my family as a friend!
+- Brother has a tight psychological grip on Junior
+- Well, there it is, spankings all around

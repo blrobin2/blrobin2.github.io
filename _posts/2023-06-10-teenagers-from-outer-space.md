@@ -6,10 +6,9 @@ rating: ""
 letterboxd_url: https://boxd.it/4m69IX
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-The lobster being held in front of the camera to look like a giant monster is an all-timer — just incredible 
+The lobster being held in front of the camera to look like a giant monster is an all-timer — just incredible
 
 “Good night, sweet crustacean”

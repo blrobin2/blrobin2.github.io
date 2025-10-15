@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/9Z4xh9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>There are two types of people in the world: those who swing and those who don't.</i></blockquote>
@@ -30,9 +29,10 @@ Many movies attempt to portray misfit kids being reformed through [insert school
 
 My heart is so full!
 
-<b>*** Actor Talk ***</b>
-* Juri Ueno, who plays Tomoko, is so funny! She's channeling the classic Hollywood funny women.
-* I knew I recognized Naoto Takenaka! He was in <i>Tokyo Fist</i>.
-* Yuta Hiraoka is an adorable nerd. Is he gay for Inoue, the baseball player?!
-* Yuika Motokariya made me tear up! She loves the trombone so much :cry:
-* Shihori Kanjiya and the mouse… that is all.
+<b>**_ Actor Talk _**</b>
+
+- Juri Ueno, who plays Tomoko, is so funny! She's channeling the classic Hollywood funny women.
+- I knew I recognized Naoto Takenaka! He was in <i>Tokyo Fist</i>.
+- Yuta Hiraoka is an adorable nerd. Is he gay for Inoue, the baseball player?!
+- Yuika Motokariya made me tear up! She loves the trombone so much :cry:
+- Shihori Kanjiya and the mouse… that is all.

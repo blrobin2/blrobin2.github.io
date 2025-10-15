@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/86vRut
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 5/31 | Decades 5/10 | 70s</a></b>

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6X0v0P
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 24/31 | Slasher 4/5</a></b>
@@ -32,7 +31,7 @@ FireWatch fans will get a powerful sense of déjà vu watching the Yellowstone p
 
 The movie will come to a halt — sometimes mid-sentence — so someone can spot a nude or semi-nude model wandering about. It's so funny.
 
-They play "One Night in Bangkok," from the musical <i>Chess</i>, during a fashion show. The subtitles provide the lyrics and they're so disorienting. 
+They play "One Night in Bangkok," from the musical <i>Chess</i>, during a fashion show. The subtitles provide the lyrics and they're so disorienting.
 
 The film gets a little gay but in a problematic way. I'll leave it there and avoid spoilers.
 

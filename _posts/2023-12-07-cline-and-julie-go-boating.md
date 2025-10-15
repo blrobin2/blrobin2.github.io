@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5hts9V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Usually, it began like this…</i></blockquote>

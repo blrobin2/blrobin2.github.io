@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6uF0Aj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed">Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed</a></b>

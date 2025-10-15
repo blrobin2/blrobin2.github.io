@@ -6,18 +6,17 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/5fuwBN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— Igor likes sex!
 </i><i>— Yeah, we know.</i></blockquote>A guy with a robe labeled "Mad Doctor" warns the audience about shadows.
 A narrator reads the credits out loud while a guy in a gorilla costume tries to figure out different filmmaking equipment. These credits take up about 1/5 of the runtime.
 
-Teens spend the night in a haunted house for sorority initiation. 
+Teens spend the night in a haunted house for sorority initiation.
 
 The rumor is that Mad Doctor owns the house. Also, he turns teenagers into monster henchmen.
- 
+
 The boys who brought them decide to get monster masks to scare the initiates.
 
 The girls all get in their nighties and put on some doo-wop.

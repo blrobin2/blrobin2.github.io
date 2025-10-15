@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/7Rr5p3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Kieran Culkin carries this graceless, self-important movie over the finish line — not with a character, but with a messy but charismatic foil to whatever the scene needs.

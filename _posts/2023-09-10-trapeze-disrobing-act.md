@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4P9h5V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I can't believe Statler and Waldorf would appear in such a picture

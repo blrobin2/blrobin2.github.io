@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8NYl0h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail" rel="nofollow">Birth Year Challenge 25</a></b>

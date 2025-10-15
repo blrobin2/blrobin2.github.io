@@ -6,14 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8FIFAZ
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 According to the episode guide, no one remembered doing this episode when asked ~six seasons later. Why do I have such a soft spot for Hammer, even when it kind of sucks?
 
-* Hide the garnishes! All the knick-knacks have to move!
-* Let's use our precious oxygen and bury him
-* Timpani gun, works every time
-* What good is them being on the moon if they just reenact the atrocities of Earth?
-* I bet he won't try that again
+- Hide the garnishes! All the knick-knacks have to move!
+- Let's use our precious oxygen and bury him
+- Timpani gun, works every time
+- What good is them being on the moon if they just reenact the atrocities of Earth?
+- I bet he won't try that again

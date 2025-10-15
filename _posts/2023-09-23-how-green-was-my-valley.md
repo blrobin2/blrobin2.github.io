@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/4SP2J3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Men like my father cannot die. They are with me still — real in memory as they were in flesh, loving and beloved forever. How green was my valley then</i></blockquote>The film is an episodic reflection by Huw Morgan on his childhood in a coal-mining village in Wales during the 1920s. The mine owner reduces wages, driving the union mine workers to strike, dividing his family into those who support it and those who don't. The film details the lessons and tragedies that followed before Huw lost his father
@@ -23,8 +22,9 @@ category: movie_review
 Overall, this is a striking and monumental achievement in American cinema that deserves more contemporary attention, especially in light of the current SAG-AFTRA strike
 
 <b>Stray Thoughts</b>
-* wild that this beat <i>Citizen Kane </i>for best picture
-* These actors are fit! I don't recall seeing such muscular boys in older movies
-* Women reaching out and touching the train of the wedding gown as the bride walks past
-* Any Welshman praying for the health of the Queen seems ahistorical, but I defer to more knowledgeable folks
-* When the brothers find out the teacher beat Huw for fighting — "say the word, and we'll have his bones hot from his flesh" — metal as hell
+
+- wild that this beat <i>Citizen Kane </i>for best picture
+- These actors are fit! I don't recall seeing such muscular boys in older movies
+- Women reaching out and touching the train of the wedding gown as the bride walks past
+- Any Welshman praying for the health of the Queen seems ahistorical, but I defer to more knowledgeable folks
+- When the brothers find out the teacher beat Huw for fighting — "say the word, and we'll have his bones hot from his flesh" — metal as hell

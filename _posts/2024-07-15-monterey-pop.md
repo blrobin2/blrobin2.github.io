@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6SvV9Z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 29/52 | Yo La Tengo’s Closet Picks</a></b>
@@ -21,10 +20,11 @@ If you love these bands, this movie rocks. But I don't like most of the artists 
 I'm getting high to watch this — I hope it helps.
 
 <i><b>1 hour, 19 minutes, 26 seconds later:</b></i>
-* Hugh Masekela ruled. 
-* Canned Heat is in hell now.
-* I get Janis Joplin now.
-* The Who sure is loud.
-* So much of the behind-the-scenes are just cameramen creeping on pretty girls.
-* Otis Redding 😢
-* I love how much Jimi Hendrix freaked out the audience.
+
+- Hugh Masekela ruled.
+- Canned Heat is in hell now.
+- I get Janis Joplin now.
+- The Who sure is loud.
+- So much of the behind-the-scenes are just cameramen creeping on pretty girls.
+- Otis Redding 😢
+- I love how much Jimi Hendrix freaked out the audience.

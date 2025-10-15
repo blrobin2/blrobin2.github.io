@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9ShagP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail
@@ -23,7 +22,7 @@ Lizzie is going on a trip through rural China to get away from all the pressure 
 
 The film explores the role music plays in people's lives. For prodigies and preternaturally gifted individuals, their community expects them to play their part and refine their sound for the world. The notion of playing for oneself, one's pleasure, becomes a distant memory, if ever a memory at all. Charlotte had the opportunity to relearn that when left alone. Lizzie hopes to have it someday, but knows that won't come anytime soon.
 
-The film also plays with the classic lesbian trope: do I want to fuck you or to be you? Why not both? The intercutting of the sex scene and the cello duet with Charlotte climaxing as the song finishes is *chef's kiss*. It's cool that Allison Williams and Logan Browning learned to play cello for the movie. They don't do anything mindblowing, but they're good enough to sell it.
+The film also plays with the classic lesbian trope: do I want to fuck you or to be you? Why not both? The intercutting of the sex scene and the cello duet with Charlotte climaxing as the song finishes is _chef's kiss_. It's cool that Allison Williams and Logan Browning learned to play cello for the movie. They don't do anything mindblowing, but they're good enough to sell it.
 
 The perspective on rural China through the eyes of two American women isn't entirely tasteless, but there's more than a hint of "this food is gross, this bus is gross." Lizzie speaks Mandarin, but she never uses it, putting Charlotte in positions where she yells at Chinese people in English to do what she says, even though they don't understand her.
 

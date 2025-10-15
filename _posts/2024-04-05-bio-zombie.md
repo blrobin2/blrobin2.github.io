@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6d2CIz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 3/32 | Anniversary Film 2/10 | Countries 3/6 | Hong Kong | Decades 1/6 | 90s</a></b>
@@ -30,11 +29,11 @@ The film sets up the two leads as irredeemable assholes who will exploit anyone 
 
 While not a great movie, it keeps up the energy and doesn't overstay its welcome. It warrants a lot of comparisons but ends up being unlike any zombie movie I've seen.
 
+<b>**_ STRAY THOUGHTS / SPOILERS _**</b>
 
-<b>*** STRAY THOUGHTS / SPOILERS ***</b>
-* TIL VCDs were more successful in East Asia than VHS because they held up better in extreme temperatures.
-* Crazy takes photos using a Game Boy Camera.
-* The yellow flip phone looks sick. Why did we get rid of cunty phones?
-* When they all team up, each character gets a stat screen.
-* They also get video game-style feedback when a key is missing or a weapon needs to be reloaded.
-* Crazy wants a photo taken on the Game Boy Camera for his funeral. Woody tries to jump in, but Crazy reminds him that a funeral picture can only be the dead person.
+- TIL VCDs were more successful in East Asia than VHS because they held up better in extreme temperatures.
+- Crazy takes photos using a Game Boy Camera.
+- The yellow flip phone looks sick. Why did we get rid of cunty phones?
+- When they all team up, each character gets a stat screen.
+- They also get video game-style feedback when a key is missing or a weapon needs to be reloaded.
+- Crazy wants a photo taken on the Game Boy Camera for his funeral. Woody tries to jump in, but Crazy reminds him that a funeral picture can only be the dead person.

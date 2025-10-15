@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5NqOQf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 9/32 | 2nd film in franchise 1/7 | Decades 3/6 | 1980s</a></b>
@@ -25,6 +24,7 @@ A child named Lucy finds a blue pulsating thing on the beach. It approaches. Lat
 Thelma’s caving crew prepares for another trip. On the way, Bert finds a blue stone and gives it to Thelma.
 
 During their exploration, Jill notices that the blue stone in Thelma’s bag is moving. Something erupts from the rock, taking Jill’s face.
+
 <blockquote>
 <i>Do you think there are “monsters” inside all of us?</i></blockquote>This movie is an unofficial sequel to the 1979 classic Alien that slipped in just before Alien became a trademarked franchise. It didn’t receive enough distribution to upset many kids expecting a legit Alien sequel.
 

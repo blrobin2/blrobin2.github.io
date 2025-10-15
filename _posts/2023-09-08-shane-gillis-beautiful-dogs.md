@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4OyF7n
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 No, thank you

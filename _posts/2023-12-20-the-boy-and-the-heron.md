@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5mhjiZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b> Miyazaki needed us to see people covered in bird shit, hugging one another</b>

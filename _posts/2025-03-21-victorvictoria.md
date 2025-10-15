@@ -6,22 +6,22 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9bd0pn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Paris 1934
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Oh, them boys are GAY gay
-* Is she singing a song about begging someone to take her virginity??
-* I love that they laugh at each other's jokes!
-* Chest binding?? I'm counting that as trans representation
-* That sequence fringe is pretty good!
-* Dude's deeply worried that he is gay because he's attracted to Julie Andrews
-* "A real woman can tell."
-* Norma is so outrageous.
-* "Bitch, bitch, bitch."
-* — You can stop pretending. — I don't think I want to!
-* Wild how well this movie aged — much better than Tootsie, which came out in the same year.
-* The private investigator's name is Sherloque??
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- Oh, them boys are GAY gay
+- Is she singing a song about begging someone to take her virginity??
+- I love that they laugh at each other's jokes!
+- Chest binding?? I'm counting that as trans representation
+- That sequence fringe is pretty good!
+- Dude's deeply worried that he is gay because he's attracted to Julie Andrews
+- "A real woman can tell."
+- Norma is so outrageous.
+- "Bitch, bitch, bitch."
+- — You can stop pretending. — I don't think I want to!
+- Wild how well this movie aged — much better than Tootsie, which came out in the same year.
+- The private investigator's name is Sherloque??

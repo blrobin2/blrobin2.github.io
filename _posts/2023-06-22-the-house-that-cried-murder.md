@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4pqrXN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Barbara seduces her father to allow her to build her dream home “For the first time in my useless life, I finally accomplished something!” (Ugh, brag!) She and David are to be married and move into the house together
@@ -22,11 +21,11 @@ The soundtrack rules — it’s either the cheeriest pop music or the most brood
 
 I did not expect to enjoy this as much as I did, but I had a blast
 
-
 <b>Stray Thoughts</b>
-* The opening track is catchy as hell, <i>bah bah-bah-bah bahh</i>
-* Insane house — it looks like its covered in shingles
-* The father is Rip Torn reincarnated 
-* “I’m a deeply committed atheist!” a wedding guest says apropos of nothing 
-* I love the dream sequence where he’s sweaty and walking around her house
-* How do you one-up a horsehead in bed? Why, a rooster head, of course
+
+- The opening track is catchy as hell, <i>bah bah-bah-bah bahh</i>
+- Insane house — it looks like its covered in shingles
+- The father is Rip Torn reincarnated
+- “I’m a deeply committed atheist!” a wedding guest says apropos of nothing
+- I love the dream sequence where he’s sweaty and walking around her house
+- How do you one-up a horsehead in bed? Why, a rooster head, of course

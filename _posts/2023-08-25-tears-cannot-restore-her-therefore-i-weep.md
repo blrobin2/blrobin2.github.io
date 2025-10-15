@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KmRuN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I'm pretty sure I give better head than her

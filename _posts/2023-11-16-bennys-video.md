@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5atell
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 17/52 | Dysfunctional Families</b>
@@ -32,9 +31,9 @@ His live camera catches it all.
 
 He covers her body with the bloodied sheet and goes downstairs to have a yogurt. He does some doodles, watches TV, and cleans up the blood.
 
-Benny gets naked and films himself as he smears some blood on himself. He films her body, being sure to pull down her rumpled skirt. He turns her over so he can see all of it. 
+Benny gets naked and films himself as he smears some blood on himself. He films her body, being sure to pull down her rumpled skirt. He turns her over so he can see all of it.
 
-Benny lives his life acting as though nothing has happened, but the impact is showing in other ways — shaving his head and assaulting kids in class. 
+Benny lives his life acting as though nothing has happened, but the impact is showing in other ways — shaving his head and assaulting kids in class.
 
 He eventually shows the video to his parents. His father, realizing that the police will blame him and their reputations will be in shambles, works to cover it up while Benny's mother trembles. His father chastises his mother when she cries. He asks Benny:
 
@@ -46,7 +45,8 @@ Benny talks about violence in movies, saying he watched a documentary about film
 If it feels authentic to the viewer, then what is the difference?
 
 <b>Stray Thoughts</b>
-* If Arno Frisch isn't in therapy, then god help him. His performance is incredible.
-* Why play Pilots and Passengers? How is it a game? You give away money for a position on a scoreboard.
-* A guy shaving his head is like a woman getting bangs. They are going through it. 
-* Cleaning up milk on the counter as it spreads like blood.
+
+- If Arno Frisch isn't in therapy, then god help him. His performance is incredible.
+- Why play Pilots and Passengers? How is it a game? You give away money for a position on a scoreboard.
+- A guy shaving his head is like a woman getting bangs. They are going through it.
+- Cleaning up milk on the counter as it spreads like blood.

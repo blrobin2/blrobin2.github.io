@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6J4CFx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 22/31 | Frank Henenlotter</a></b>
@@ -28,7 +27,7 @@ The film follows them as they adjust to their new life, with Duane carrying rese
 
 Eight years is a long time between movies. They had to rebuild Belial, so he looks pretty different — altogether better but still not the same. They do an okay job of disguising how much Kevin Van Hentenryck has aged with the head bandages, but once they come off.
 
-I love the character designs for the "freaks." 
+I love the character designs for the "freaks."
 
 The movie is so dependent on the first movie, repeatedly recapping stuff. We even rewatch flashbacks from the first movie. As a result, the movie has almost no momentum.
 
@@ -38,5 +37,5 @@ Annie Ross hams it up and is visibly having the most fun of anyone onscreen.
 
 Overall, this film is a delightful creature feature, even if it doesn't have much else to offer. The last 15 minutes, however, are pretty outrageous.
 
-<b><i>*** Stray Thoughts  ***</i></b>
+<b><i>**_ Stray Thoughts  _**</i></b>
 The subtitle for the word shit bleeped out on TV is "sh♪t"

@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4vQ6DN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Based on the true story of Christiane Felscherinow’s teenage life, the movie follows Christiane (Natja Brunckhorst) from 13-year-old crush on a boy in trouble to a 14-year-old prostitute and heroin addict
@@ -25,6 +24,7 @@ What makes this movie great is Natja Brunckhorst’s performance. She goes to so
 And seeing Bowie perform early in the movie is pretty cool
 
 <b>Stray Thoughts</b>
-* The kids running through the mall to Heroes has big Sofia Coppola vibes
-* The mom inviting her boyfriend over to withdrawal together is such a kind gesture given the circumstances. But man what a fucking brutal scene
-* David Bowie and Brian Eno’s Berlin music is perfectly ominous for the back half of the movie
+
+- The kids running through the mall to Heroes has big Sofia Coppola vibes
+- The mom inviting her boyfriend over to withdrawal together is such a kind gesture given the circumstances. But man what a fucking brutal scene
+- David Bowie and Brian Eno’s Berlin music is perfectly ominous for the back half of the movie

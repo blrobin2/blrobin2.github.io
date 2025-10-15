@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4EKAQL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I watched so much Brady Bunch on Nick at Nite as a kid — I forgot how many episodes I remember until they came up in the mash-up plot of this movie

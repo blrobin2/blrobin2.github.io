@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/4RuTDL
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* he's a loser, and the kids let him know
-* they're disgusted and filled with self-loathing
+- he's a loser, and the kids let him know
+- they're disgusted and filled with self-loathing

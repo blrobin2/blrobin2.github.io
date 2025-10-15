@@ -6,13 +6,12 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/62lIzd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA">Criterion Challenge 2024 | 11/52 | a film in the Saturday Matinee series "Observations on Film Art"</a></b>
 
-Eight-year-old kids yell and play while they wait for their teacher to arrive. Once the teacher arrives, he chastises the kids for making a racket. He also scolds Nematzadeh for repeatedly forgetting to use his notebook for his homework. Ahmad, who sits beside Nematzadeh, watches as the teacher rips up Nematzadeh's homework, driving the child to tears. 
+Eight-year-old kids yell and play while they wait for their teacher to arrive. Once the teacher arrives, he chastises the kids for making a racket. He also scolds Nematzadeh for repeatedly forgetting to use his notebook for his homework. Ahmad, who sits beside Nematzadeh, watches as the teacher rips up Nematzadeh's homework, driving the child to tears.
 
 Nematzadeh's cousin, who came in late from the long-off village of Poshteh, reveals he had the notebook and that Nematzadeh left it at his house by mistake. The teacher uses Ahmad's homework as an example of what to do, then threatens to expel Nematzadeh if he forgets his notebook again.
 

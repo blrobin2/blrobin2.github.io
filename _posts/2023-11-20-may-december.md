@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/5bL28z
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 An actress stays with a family to prepare for an upcoming role.

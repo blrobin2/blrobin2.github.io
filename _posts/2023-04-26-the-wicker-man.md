@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4awMJ5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “Corn rigs are bonny!” That’s not leaving my head anytime soon

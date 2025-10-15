@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5JOvOL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 32/34 | Bonus 1/3</a></b>
@@ -34,15 +33,15 @@ They also flashback to the murder scene way too often. This movie could be a sol
 
 This film is flawed and deeply fucked up, but everyone is fully committed to their performances, so it ends up better than it would be otherwise.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* His doctor friend is fucked up in the way he supports Ike beating Christella
-* Is it incest if Ike as JD fucks Betty Jo's daughter?
-* His hair is hilarious.
-* Jesus Christ, JD rapes Christella because she laughs at his hair.
-* It's funny watching a retro movie and people talking about how retro someone else's clothes are
-* — You're really something else. — Yeah, me and Jesus
-* — Yeah, that's right. I fucked your woman, sucker.
-* Oh fuck, why does that guy keep jumping after JD when JD keeps slicing him with the razor??
-* Elijah's crisis of faith is so heavy!
-* After all that, they all walk away laughing?
+- His doctor friend is fucked up in the way he supports Ike beating Christella
+- Is it incest if Ike as JD fucks Betty Jo's daughter?
+- His hair is hilarious.
+- Jesus Christ, JD rapes Christella because she laughs at his hair.
+- It's funny watching a retro movie and people talking about how retro someone else's clothes are
+- — You're really something else. — Yeah, me and Jesus
+- — Yeah, that's right. I fucked your woman, sucker.
+- Oh fuck, why does that guy keep jumping after JD when JD keeps slicing him with the razor??
+- Elijah's crisis of faith is so heavy!
+- After all that, they all walk away laughing?

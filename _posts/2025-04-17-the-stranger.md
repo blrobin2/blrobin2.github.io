@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9qJ7NZ
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Frank picked this movie specifically for how mediocre it is—his idea of a 2.5. It’s also the first TV movie they did on MST3K.

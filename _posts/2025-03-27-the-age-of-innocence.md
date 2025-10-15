@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/9eVmxD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 48/52 | 1990s</a></b>
@@ -38,11 +37,12 @@ The "Faust as the market of years" conceit worked for me.
 Scorcese makes his movie fixations more apparent with the contrast from his more contemporary films. We have a protagonist who follows a code of ethics set forward by the world in which he lives—a world of double standards and corrupt morals that pretend otherwise—but finds himself pushing against it at great risk. His love of William Wyler comes through in little ways—it's hard to clarify, but I got <i>The Heiress</i> vibes.
 
 <b>Actor Corner:</b>
-* It's nice to get a rare spotting of Carolyn Farina. It makes sense that her role in <i>Metropolitan</i> would land her in a role like this one.
-* I'm always thrilled to see Michael Gough.
-* Miriam Margoyles is never not iconic. I long to live lounging the rest of my days, always surrounded by small, sleepy dogs.
-* I am happy to be represented by Winona Ryder's elegant vacuity. Her performance is actually perfect, and I pity you if you feel otherwise.
-* Daniel Day-Lewis is doing his best John Malkovich impersonation.
-* Robert Sean Leonard jump scare!
+
+- It's nice to get a rare spotting of Carolyn Farina. It makes sense that her role in <i>Metropolitan</i> would land her in a role like this one.
+- I'm always thrilled to see Michael Gough.
+- Miriam Margoyles is never not iconic. I long to live lounging the rest of my days, always surrounded by small, sleepy dogs.
+- I am happy to be represented by Winona Ryder's elegant vacuity. Her performance is actually perfect, and I pity you if you feel otherwise.
+- Daniel Day-Lewis is doing his best John Malkovich impersonation.
+- Robert Sean Leonard jump scare!
 
 Is this my favorite Scorcese movie? So far, yes! I still have, like, 20 more films of his I want to watch, so we'll see if that changes.

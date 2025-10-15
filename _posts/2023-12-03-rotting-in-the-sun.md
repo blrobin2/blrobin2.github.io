@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5g9g6h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Sebastián Silva sits in the park reading passages from E.M. Cioran's <i>The Trouble with Being Born</i>.

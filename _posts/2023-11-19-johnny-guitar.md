@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5bqvVN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Vienna is nonbinary — I won't be taking questions at this time</b>
@@ -42,7 +41,7 @@ The timing has an almost musical quality to it. The TruColor is lavish — the d
 
 This is a romantic melodrama set in the Western genre.
 
-Emma is a fantastic villain — her motives make sense, as flawed as they are, and I'm infuriated by her choices. 
+Emma is a fantastic villain — her motives make sense, as flawed as they are, and I'm infuriated by her choices.
 
 Vienna only wears a dress once. She typically opts for jeans and the most colorful button-up. I want all of them.
 

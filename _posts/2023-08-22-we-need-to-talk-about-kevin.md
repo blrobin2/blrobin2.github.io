@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4JE8MJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Mommy was happy before widdle Kevin came along, did you know dat?</i></blockquote>A Bad Seed-like thriller where Eva (Tilda Swinton) knows from day one that there's something wrong with her son, Kevin. Worse still, she tries to get help for him, but medical doctors say he's fine, and her husband, Franklin (John C. Riley), does not believe her
@@ -23,11 +22,12 @@ Ezra Miller is pretty bad in this. It's telling when the kid that plays the youn
 Still, a small problem in an otherwise excellent movie
 
 <b>Stray Thoughts</b>
-* I have made an unusual amount of jokey references to this for having not seen it
-* Going to the sound of jackhammers to drown out baby Kevin's screams — mood
-* Watching John C. Reiley and Tilda Swinton kiss is weird
-* As a nail-biter, his hangnails are too clean
-* The pediatrician's clown paintings are majestic 
-* I firmly believe this is about Ezra Miller's actual childhood
-* I know we're supposed to dislike some of Tilda Swinton's choices, but I hate kids too much that I would have made similar choices — hence, not having kids
-* The target in the eye reflection shot is great
+
+- I have made an unusual amount of jokey references to this for having not seen it
+- Going to the sound of jackhammers to drown out baby Kevin's screams — mood
+- Watching John C. Reiley and Tilda Swinton kiss is weird
+- As a nail-biter, his hangnails are too clean
+- The pediatrician's clown paintings are majestic
+- I firmly believe this is about Ezra Miller's actual childhood
+- I know we're supposed to dislike some of Tilda Swinton's choices, but I hate kids too much that I would have made similar choices — hence, not having kids
+- The target in the eye reflection shot is great

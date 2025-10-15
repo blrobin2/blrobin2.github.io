@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6gmz2d
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 47/52 | Lucha Libre</a></b>
@@ -29,4 +28,3 @@ This movie is notorious for a few reasons, but mostly for inter-cutting actual o
 It’s also exploitative, full of blood splatter and naked women. Like, he scalps some guy in the park, breaks some teeth out of another guy’s mouth, and strips every woman he sees.
 
 My favorite scene is probably when the Ape Monster exits a bedroom, wearing pajamas, and the music sting suggests imminent terror.
-

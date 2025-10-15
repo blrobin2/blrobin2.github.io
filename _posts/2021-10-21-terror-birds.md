@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/2dRs5x
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Cathy saw this advertised on the Roku screensaver, so we knew what we were getting ourselves into

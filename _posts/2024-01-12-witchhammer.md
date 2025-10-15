@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5zhkIr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 11/34 | Folk Horror 2/2</a></b>

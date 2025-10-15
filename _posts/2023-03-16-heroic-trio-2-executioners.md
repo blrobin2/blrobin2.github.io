@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3Zorin
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Between the first and second movie, the world became a nuclear apocalyptic wasteland — no biggie

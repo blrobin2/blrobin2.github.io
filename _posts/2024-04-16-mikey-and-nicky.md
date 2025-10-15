@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6hEqEH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 16/52 | Women Auteurs</a></b>
@@ -32,7 +31,7 @@ Elaine May of the comedy duo Nichols and May doesn't get as much attention for h
 
 Thankfully, Criterion remastered her director's cut and put it in their collection because this script is so fucking funny, witty, and painful.
 
-The most common comparison I've seen to this movie is <i>Mean Streets</i>. <i>Mean Streets</i> is a great movie — one of Scorsese's best. Yet, this outshines it in every imaginable way. 
+The most common comparison I've seen to this movie is <i>Mean Streets</i>. <i>Mean Streets</i> is a great movie — one of Scorsese's best. Yet, this outshines it in every imaginable way.
 
 We can't choose a side so easily. At some points, Nicky seems too paranoid to bear. At others, Mikey's weirdness makes Nicky's paranoia feel justified. It never settles — the characters or their dynamic. Each movie moment contributes to their complicated history. Most directors would aim towards a portrait. But May errs on the side of an obfuscating stroke that keeps it ambiguous.
 

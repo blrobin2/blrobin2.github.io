@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/67RjCZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Alejandro works at a cryogenic lab, wherein they euthanize their customers and freeze them until the lab can figure out how to bring them back. But this isn't why Alejandro came to the US from El Salvador — Alejandro dreams of being a toy designer for Hasbro.

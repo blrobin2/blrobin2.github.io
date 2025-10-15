@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4Xc1aN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Jung-won falls asleep on a train — he wakes up just in time for his stop, but as he gets off, he sees two kindergarten-aged kids sleeping on the train with no one else around. Before he can think, the doors close, so he goes on his way

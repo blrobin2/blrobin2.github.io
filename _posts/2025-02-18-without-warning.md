@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/8SanNP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 8/52 | Aliens</a></b>
@@ -24,7 +23,7 @@ Beth and Sandy meet up with Beth's boyfriend, Tom, and a boy named Greg, whom Be
 
 Down at the lake, a cub scout group hikes around. The group leader stops and speaks about leading men like them into the wildness. He pulls out his compass to show its trustworthiness, but the needle is spinning erratically. He finds the father and son's camper. He looks around for them and finds the gun and one of the son's books. SPINNING HAIRY JELLYFISH to the back, and the scout leader is down. Meanwhile, the group sees a strange, tall shadow that scares them off.
 
- What is this humanoid creature? What are the spinning hairy jellyfish? Are our teens gonna make it?
+What is this humanoid creature? What are the spinning hairy jellyfish? Are our teens gonna make it?
 
 Kevin Peter Hall plays the Humanoid and went on to play the Predator, as this movie influenced Predator.
 

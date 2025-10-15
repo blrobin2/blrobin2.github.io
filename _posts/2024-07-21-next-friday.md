@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6VdcMN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Doo-doo is the lifeblood of the <i>Friday</i> series

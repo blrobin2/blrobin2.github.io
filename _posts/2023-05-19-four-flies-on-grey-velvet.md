@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4gjva1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 An explosion of drums, a beating heart, a man outside in a trench coat and sunglasses — a band recording together in a studio, a fly buzzing in the drummer’s face that he crushes in the high-hat
@@ -33,6 +32,7 @@ And how it’s solved, as convoluted as it is, is pretty amusing — it involves
 Argento completists (and Mimsy Farmer fans) will find something to enjoy
 
 <b>Stray Thoughts</b>
-* Sweet kitty falling asleep, I audibly “Aww!”-d
-* The PI’s eye-shaped door handle is neat. “Oh, you heterosexuals!” the PI says
-* A lot of cat murders :(
+
+- Sweet kitty falling asleep, I audibly “Aww!”-d
+- The PI’s eye-shaped door handle is neat. “Oh, you heterosexuals!” the PI says
+- A lot of cat murders :(

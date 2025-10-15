@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/6TVUIb
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Joel and the <i>MST3K</i> gang showed this unaired proof-of-concept at a convention. When Joel quit standup, he moved back to Minneapolis. He had an idea for a show about the last living man and his robot companions at the world's end. A guy with access to KTMA studio wanted to do something with Joel. Joel referenced <i>Silent Running</i>, which had robots made from found material.

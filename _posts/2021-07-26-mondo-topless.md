@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/21ixLF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Having seen no other movies in the <i>mondo</i>-verse, I can still safely say that this one is the best

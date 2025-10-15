@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6eocFx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 15/52 | Biker</a></b>
@@ -28,10 +27,10 @@ If you love motorcycles more than pacing, acting, or coherence, you might enjoy 
 
 I don't know! It's got decent vibes. It isn't good, but I wouldn't dismiss it entirely.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* This movie isn't Christploitation. I think the poster throws people off. But, like, Anna denies God to be with Waco.
-* A biker holds up peace signs as the helicopter shoots at them.
-* That helicopter explosion looked not cheap.
-* — Who knows how to cook a chicken? — Who needs to cook him?
-* The crossfade of Anna screaming and the cross
+- This movie isn't Christploitation. I think the poster throws people off. But, like, Anna denies God to be with Waco.
+- A biker holds up peace signs as the helicopter shoots at them.
+- That helicopter explosion looked not cheap.
+- — Who knows how to cook a chicken? — Who needs to cook him?
+- The crossfade of Anna screaming and the cross

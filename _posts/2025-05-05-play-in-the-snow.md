@@ -6,11 +6,10 @@ rating: ""
 letterboxd_url: https://boxd.it/9BpYVh
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
 Mary Jo Pehl and Bridgett Jones Nelson riffing
 
-* Believe me when I say this is really, really fun.
-* Here's a hat! This will keep the government from hearing his thoughts.
+- Believe me when I say this is really, really fun.
+- Here's a hat! This will keep the government from hearing his thoughts.

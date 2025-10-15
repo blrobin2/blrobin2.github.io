@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5f5iGz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 33/34 | Bonus 2/3</b>
@@ -35,7 +34,8 @@ Belinda Montgomery and Viveca Lindfors are television royalty, and Katherine Kam
 The murders are pretty brutal! Some of the set pieces are tense, at least to a degree.
 
 <b>Stray Thoughts</b>
-* I have a book called Frightfest Guide to Exploitation Movies. This movie's poster is the cover.
-* Coca-Cola in a bowl of cereal??
-* TIL fax is short for facsimile
-* One of them plays Dragon's Lair! Laserdisc got around, huh?
+
+- I have a book called Frightfest Guide to Exploitation Movies. This movie's poster is the cover.
+- Coca-Cola in a bowl of cereal??
+- TIL fax is short for facsimile
+- One of them plays Dragon's Lair! Laserdisc got around, huh?

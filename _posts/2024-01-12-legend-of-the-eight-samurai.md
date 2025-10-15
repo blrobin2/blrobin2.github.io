@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5z9ibz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 2/52 | Kinji Fukasaku</a></b>
@@ -38,14 +37,15 @@ The fights are okay. They are not tight, but not boring either. They are at thei
 
 I appreciate the aesthetics, but it's too long to love.
 
-*** Stray Thoughts / Spoilers ***
-* Visible hairnets on the wigs
-* Tamazusa bathes in blood to maintain a youthful appearance.
-* A dude rips off their face and becomes a giant centipede. Rad.
-* Geishas with poisonous flesh
-* Birthmark right between the boobs
-* The music-pausing slap
-* The soundtrack has the same synth at the beginning of <i>Beat It</i>.
-* It takes Shinbei a while to realize he has a bead in the movie.
-* Giant floating snake!
-* The ending feels a little like <i>Crouching Tiger, Hidden Dragon</i>.
+**_ Stray Thoughts / Spoilers _**
+
+- Visible hairnets on the wigs
+- Tamazusa bathes in blood to maintain a youthful appearance.
+- A dude rips off their face and becomes a giant centipede. Rad.
+- Geishas with poisonous flesh
+- Birthmark right between the boobs
+- The music-pausing slap
+- The soundtrack has the same synth at the beginning of <i>Beat It</i>.
+- It takes Shinbei a while to realize he has a bead in the movie.
+- Giant floating snake!
+- The ending feels a little like <i>Crouching Tiger, Hidden Dragon</i>.

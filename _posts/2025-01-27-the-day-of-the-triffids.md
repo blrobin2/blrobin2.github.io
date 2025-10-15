@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8CZMTL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 5/52 | 60s Horror</a></b>

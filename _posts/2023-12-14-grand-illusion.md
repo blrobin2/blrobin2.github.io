@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5jT1CV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 42/52 | 1930s</b>
@@ -16,7 +15,7 @@ During World War I, Captain de Boëldieu (Pierre Fresnay) and Lieutenant Maréch
 
 It could be nothing. It could be something dire.
 
-Captain von Rauffenstein (Erich von Stroheim) of the Imperial German Army shoots down their plane and takes them prisoner. Rauffenstein invites them to have lunch with him and the other officers.  
+Captain von Rauffenstein (Erich von Stroheim) of the Imperial German Army shoots down their plane and takes them prisoner. Rauffenstein invites them to have lunch with him and the other officers.
 
 Rauffenstein and Boëldieu both come from aristocratic backgrounds. The two discover they have mutual acquaintances from before the war.
 

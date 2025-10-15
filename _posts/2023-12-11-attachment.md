@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5iX5AD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Maja, a Danish actress, has a meet-cute with Leah, an English academic, on a trip from London. The two hit it off and fall for one another.

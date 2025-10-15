@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/2aEMVb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Before Captain America: Civil War, there was Freddy vs. Jason

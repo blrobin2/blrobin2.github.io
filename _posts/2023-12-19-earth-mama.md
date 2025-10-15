@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5lRVCL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Gia is a mother. She has two kids, Trey and Shaynah. Both of them are in foster care because Gia is a recovering addict.

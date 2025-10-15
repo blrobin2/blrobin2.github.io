@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5HuqOj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href=""https://boxd.it/pOvfW/detail">Hooptober 8.0 | 28/34 | Asian horror 1/3</a></b>

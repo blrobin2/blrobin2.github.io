@@ -6,15 +6,14 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/929MjX
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* Oh, something suburban is attacking them! I don't know what it is, but it's definitely not urban or rural!
-* Bass Pro Shop endorsement, is that you?
-* Sorry, kid, there's a new shopping area, so I gotta kill you.
-* Lot's wife refused to investigate Sasquatch, and look what happened to her!
-* How come Spielberg never used a purple vortex scene transition?
-* I went to heaven and there were hot dogs everywhere.
-* I'll never give up on my quest to eat Sasquatch.
-* But Coily the Spring Sprite turned all the springs into pipes!
+- Oh, something suburban is attacking them! I don't know what it is, but it's definitely not urban or rural!
+- Bass Pro Shop endorsement, is that you?
+- Sorry, kid, there's a new shopping area, so I gotta kill you.
+- Lot's wife refused to investigate Sasquatch, and look what happened to her!
+- How come Spielberg never used a purple vortex scene transition?
+- I went to heaven and there were hot dogs everywhere.
+- I'll never give up on my quest to eat Sasquatch.
+- But Coily the Spring Sprite turned all the springs into pipes!

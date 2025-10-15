@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4wxheZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 After an opera, a rich dude hosts a dinner party. But after the help leave and everyone stays the night, they discover that they cannot leave the room they’re in
@@ -19,10 +18,11 @@ A big reason is that it does not explicitly reference any historical events or f
 It also captures the tensions felt during quarantine — the typhoid quarantine is explicitly referenced — the loss of control, the constant proximity, the indefinite length
 
 <b>Stray Thoughts / Quotes</b>
-* <i>Mother! </i>was obviously inspired by this
-* Chicken in a handbag, I know, I know it’s serious
-* “I think the lower class is less susceptible to pain”
-* Washable plastic Virgin Mary statue
-* “Three things I’ve hated since I was a child — violence, starvation, and filth”
-* Thing?!
-* “We don’t want reason; we want out of here”
+
+- <i>Mother! </i>was obviously inspired by this
+- Chicken in a handbag, I know, I know it’s serious
+- “I think the lower class is less susceptible to pain”
+- Washable plastic Virgin Mary statue
+- “Three things I’ve hated since I was a child — violence, starvation, and filth”
+- Thing?!
+- “We don’t want reason; we want out of here”

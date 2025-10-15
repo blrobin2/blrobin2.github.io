@@ -6,11 +6,10 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8PchF3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-After a boating accident in Yehliu, police find a man's body washed up on shore. Beside him is a woman's purse, but no other bodies. They believe it to be Ko Jing-Min and call his younger sister, Ko Fon-Jiao, to identify the body. 
+After a boating accident in Yehliu, police find a man's body washed up on shore. Beside him is a woman's purse, but no other bodies. They believe it to be Ko Jing-Min and call his younger sister, Ko Fon-Jiao, to identify the body.
 
 Wang Yi-Ming waits for his wife, Ruiyun, but neither he nor his employee, Miss Liu, know where she is. Ko Fon-Jiao, who lives next door, determined that Ruiyun and Jing-Min were lovers and had eloped. Humiliated, Yi-Ming becomes repressed, leaving his daughter Shuyuan feeling abandoned—she sings a song about it and everything. Meanwhile, Fon-Jiao becomes Shuyuan's friend and watches her when Yi-Ming is out.
 

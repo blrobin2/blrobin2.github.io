@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5aEKjt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 17/52 | 1970s regional US films 2/2</b>

@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/91yAW5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 37/52 | Genre: Family</a></b>

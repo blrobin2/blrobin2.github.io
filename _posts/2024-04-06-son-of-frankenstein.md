@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6duTUX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 42/52 | Shock Theater</a></b>

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6behYx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Celebrating the one true messiah today: Florence Pugh in chainmail

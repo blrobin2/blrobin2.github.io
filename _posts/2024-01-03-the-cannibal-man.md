@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5tIecf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 2/34 | Countries 2/6 | Spain</a></b>
@@ -42,13 +41,13 @@ Nestor creates "chance" encounters with Marcos. He hints at knowing more but rem
 
 The American title for this movie is misleading. Marcos is not a cannibal. In fact, at the diner he frequents, they give him a soup made from the meat at his factory. Once he learns that fact, he becomes nauseous and leaves — the only time we see him physically react to what he's done.
 
-Director Eloy de la Iglesia was an openly gay socialist, and the film came out a few years before Franco's death. 
+Director Eloy de la Iglesia was an openly gay socialist, and the film came out a few years before Franco's death.
 
 Though the Spanish censors rejected several versions of this film, the result is still a social critique.
 
 The film examines the class disparities between workers, such as Marcos, and affluent individuals like Nestor.
 
-When the two go out for a drink, the police check their IDs. Marcos quickly pulls his ID out, spilling his drink. Nestor tells them he left it in his high-rise apartment. The police soften towards Nestor and kindly request he remember it next time. This encounter reinforces Marcos' earlier lament about the police only helping the rich. 
+When the two go out for a drink, the police check their IDs. Marcos quickly pulls his ID out, spilling his drink. Nestor tells them he left it in his high-rise apartment. The police soften towards Nestor and kindly request he remember it next time. This encounter reinforces Marcos' earlier lament about the police only helping the rich.
 
 As Marcos spends more time with Nestor, he questions why Nestor wants to help him. Nestor tells him that the rich solve their problems so easily, so he enjoys watching someone work at it.
 

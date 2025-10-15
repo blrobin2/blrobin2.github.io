@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6M0WwT
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Gamera the flying turtle is pretty neat I must admit, but 2 weeks in a row is ridiculous.</i> — A call from a viewer</blockquote>
@@ -19,5 +18,5 @@ Joel and Tom Servo riff this one, since they froze Crow by accident. Joel modifi
 
 I was too hard on this movie last time. The Gyaos opening rules.
 
-* That's gotta hurt — I don't care what your background is
-* That's where I draw the line — that's just impossible
+- That's gotta hurt — I don't care what your background is
+- That's where I draw the line — that's just impossible

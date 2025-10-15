@@ -4,10 +4,9 @@ title: "The Souvenir: Part II (2021)"
 excerpt: "My review of The Souvenir: Part II (2021)"
 rating: "4.0"
 letterboxd_url: https://boxd.it/4JxCu7
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 <i>The Souvenir</i> is that frustrating and too-common story of a terrible man having a chokehold on Julie's life and creative work. <i>Part I</i> explored his living shadow and the excuses codependent lovers make for their addict partners. <i>Part II </i>follows his overdose and Julie's time in film school as she is making her student film and moving on
@@ -21,5 +20,6 @@ But, as many filmmakers can attest: somehow, we get to the end, and a movie is m
 The film is a rare case of the sequel enhancing the original — <i>Part I </i>needs <i>Part II</i> to complete it, to give it shape and direction
 
 <b>Stray Thoughts</b>
-* Richard Ayoade is so funny — such a pretentious asshole
-* Of course, the only boy who can convey any sympathy or emotional intelligence is gay
+
+- Richard Ayoade is so funny — such a pretentious asshole
+- Of course, the only boy who can convey any sympathy or emotional intelligence is gay

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6xtlmb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 17/52 | Directed by Rainer Werner Fassbinder</a></b>

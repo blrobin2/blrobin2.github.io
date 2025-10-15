@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/649fLD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 16/32 | Makeup: Screaming Mad George | Countries 1/6 | Luxembourg</a></b>

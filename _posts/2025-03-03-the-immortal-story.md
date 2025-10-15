@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/90iR73
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Criterion Challenge 2024 | 36/52 | Genre: Made for TV</a></b>

@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/4WCu35
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* you call that art?
-* fortunately bobby didn't need his spine
+- you call that art?
+- fortunately bobby didn't need his spine

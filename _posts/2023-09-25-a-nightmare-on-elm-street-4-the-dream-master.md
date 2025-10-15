@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4Tyr0d
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>When deep sleep falleth on men, fear came upon me, and trembling, which made all my bones to shake
@@ -19,19 +18,21 @@ Kristen pulls Alice in by mistake, passing something to Alice. As each person ar
 Alice's disassociated fantasies are so relatable — talking to the boy she's too shy to say anything to, yelling down her emotionally abusive father
 
 The soundtrack rules:
-* Divinyls - Back to the Wall
-* Dramarama - Anything, Anything
-* Billy Idol - Fatal Charm
-* Sinead O'Connor - I Want Your (Hands on Me)
+
+- Divinyls - Back to the Wall
+- Dramarama - Anything, Anything
+- Billy Idol - Fatal Charm
+- Sinead O'Connor - I Want Your (Hands on Me)
 
 This one has some of the wildest effects and greatest set pieces so far:
-* Krueger rematerializing
-* The model swimming in the waterbed
-* Sucking out that girl's soul
-* The people meatballs
-* The barbell/cockroach scene — fucking insane — my face was twisted in disgust the whole time
-* The car wreck
-* Krueger in the mirror and the retint body horror
+
+- Krueger rematerializing
+- The model swimming in the waterbed
+- Sucking out that girl's soul
+- The people meatballs
+- The barbell/cockroach scene — fucking insane — my face was twisted in disgust the whole time
+- The car wreck
+- Krueger in the mirror and the retint body horror
 
 This is the movie that turns Freddy Krueger into the catchphrase, "bitch"-obsessed moron that haunts pop culture. I like the creativity of the effects and sets, but I despise the Krueger character
 

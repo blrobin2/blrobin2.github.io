@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/3SYeBl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Amazed how committed this is to the sci-fi conceit — the rocket ship effects, the goofy space suits, 25 minutes of “plot” about how they got the money to do this and how smart they are

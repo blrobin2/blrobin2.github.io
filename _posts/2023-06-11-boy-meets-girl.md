@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/4mlstH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A woman brings a man home for a one-night stand, watches some porn, and sedates him. He wakes up tied to a dentist's chair. Why? I don’t know, really
@@ -23,7 +22,8 @@ Each scene has a multi-colored title card. The cards are pretty on the nose and 
 If the movie were any good, I’d think about it more, but the film is so tediously shot and poorly conceived or realized
 
 <b>Stray Thoughts</b>
-* The cigarette helmet is funny (it forces him to smoke three cigarettes at once, and the movie treats it so ominously)
-* Jar of penises? Sure, why not
-* Does he recognize slugs and maggots by taste?
-* “God is dead. She died broken-hearted by her critics.”
+
+- The cigarette helmet is funny (it forces him to smoke three cigarettes at once, and the movie treats it so ominously)
+- Jar of penises? Sure, why not
+- Does he recognize slugs and maggots by taste?
+- “God is dead. She died broken-hearted by her critics.”

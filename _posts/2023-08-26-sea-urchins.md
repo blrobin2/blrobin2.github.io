@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KCAjF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Dream blunt rotation — me and a whole bunch of sea urchins

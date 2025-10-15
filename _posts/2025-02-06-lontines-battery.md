@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8KfIDf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Léontine electrocutes a bunch of cops, what an ally

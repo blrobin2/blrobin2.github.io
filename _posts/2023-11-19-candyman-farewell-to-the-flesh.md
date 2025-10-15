@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/5beFLT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 19/34 | The worst horror sequel from the 1990s that you haven't seen and can access | Decades 6/8 | 1990s</b>
@@ -27,9 +26,10 @@ Phillip Glass' film score is the movie's most valuable aspect. It has a sharp bl
 Overall, the movie is an ineffective — bordering on offensive — sequel.
 
 <b>Stray Thoughts</b>
-* The title is quintessentially Clive Barker.
-* The cliché Kingfish radio personality sucks.
-* Annie and the student standing in front of the window, her hands on his shoulders, his hand on hers — bad touch!
-*Wait, are she and the student romantically involved??
-* The dude in a diaper carrying a massive cross set to haunting music is so funny.
-* The scene with the kids poking the dead cat full of bees is uncalled for. So, I guess it's effective?
+
+- The title is quintessentially Clive Barker.
+- The cliché Kingfish radio personality sucks.
+- Annie and the student standing in front of the window, her hands on his shoulders, his hand on hers — bad touch!
+  \*Wait, are she and the student romantically involved??
+- The dude in a diaper carrying a massive cross set to haunting music is so funny.
+- The scene with the kids poking the dead cat full of bees is uncalled for. So, I guess it's effective?

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6BnxB7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 1/31 | Franchise 1/7</a></b>
@@ -22,7 +21,7 @@ Meanwhile, Andy, now 8, sees a child psychologist, who asks him about his Chucky
 
 Mr. Sullivan's assistant, Poole, stuffs Chucky in the back of his car on his way to his girlfriend's. When Poole stops to get liquor, Chucky uses the car phone and calls the psychologist, pretending to be Andy's Uncle Charles. Information in hand, Chucky kills Poole and looks for Andy.
 
-Though the director is different, the writer and special effects team return. Ed Gale came back as Chucky's body, which they used a lot more of in this movie compared to the first. The ambition to have Chucky on screen more bites back — the puppetry is not convincing in the full-body scenes. 
+Though the director is different, the writer and special effects team return. Ed Gale came back as Chucky's body, which they used a lot more of in this movie compared to the first. The ambition to have Chucky on screen more bites back — the puppetry is not convincing in the full-body scenes.
 
 The writing is effective at establishing new emotional bonds for Andy. Joanna is so loving — she's the foster mother you dream of a kid finding. Phil, on the other hand, is not cut out to be anyone's parent. The moments between Andy and Phil and Joanne's other foster child, Kyle, made my heart swell.
 

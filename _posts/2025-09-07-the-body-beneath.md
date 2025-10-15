@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/aZMBud
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <a href="https://boxd.it/q9zuy/detail" title="Cult Movie Challenge 2018 | 9/52 | Andy Milligan"><b>Cult Movie Challenge 2018 | 9/52 | Andy Milligan</b></a>
@@ -30,10 +29,11 @@ The filmmaking isn't stunning, but it's competently put together, especially con
 
 Deeply flawed, but admirable in it's ambition, the film probably won't wow anyone who isn't horror-poisoned like me, but I found enough charm to keep me watching.
 
-<b>*** Stray Thoughts***</b>
-* The Fords go back 21 centuries, all the way to BC times. 
-* "You've never liked night before — what's gotten into you?"
-* The actor who plays Graham keeps slipping into a British accent when talking to British characters.
-* Yes, kill the impure Ford because you don't have any use for it? How about diversifying your bloodline?
-* Why did offering the Reverend cigarettes offend him so much? Oh, the mirror.
-* Wow, this shit gets wild.
+<b>**_ Stray Thoughts_**</b>
+
+- The Fords go back 21 centuries, all the way to BC times.
+- "You've never liked night before — what's gotten into you?"
+- The actor who plays Graham keeps slipping into a British accent when talking to British characters.
+- Yes, kill the impure Ford because you don't have any use for it? How about diversifying your bloodline?
+- Why did offering the Reverend cigarettes offend him so much? Oh, the mirror.
+- Wow, this shit gets wild.

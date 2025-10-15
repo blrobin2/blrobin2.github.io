@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4KFPtB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I can't believe mushroom visuals are real

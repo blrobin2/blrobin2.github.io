@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/bb5sip
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 18/52 | Splatter</a></b>
@@ -24,13 +23,14 @@ That isn't to say the film is a total failure. The opening stuff in Egypt is qui
 
 Fulci followed up this movie with <a href="https://boxd.it/aEde0F">Conquest</a>, which was quite the departure for him
 
-<b>*** Stray Thoughts ***</b>
-* I wish they hadn't killed that snake for real :(
-* Tommy calls Susie a "lousy lesbian."
-* "Did you say 'yoga' or 'yogurt'?"
-* — Is something the matter? — I don't know, it's a premonition or something.
-* Unacknowledge blood splatter, I dig
-* Fulci just seems to have consistent access to scorpions.
-* They sure were impatient with that Polaroid!
-* The actor who plays Tommy looks like baby Klaus Kinski
-* This score, as always, rules.
+<b>**_ Stray Thoughts _**</b>
+
+- I wish they hadn't killed that snake for real :(
+- Tommy calls Susie a "lousy lesbian."
+- "Did you say 'yoga' or 'yogurt'?"
+- — Is something the matter? — I don't know, it's a premonition or something.
+- Unacknowledge blood splatter, I dig
+- Fulci just seems to have consistent access to scorpions.
+- They sure were impatient with that Polaroid!
+- The actor who plays Tommy looks like baby Klaus Kinski
+- This score, as always, rules.

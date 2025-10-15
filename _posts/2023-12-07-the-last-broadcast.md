@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5hxhRl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>December 16, 1995</i>
@@ -20,7 +19,7 @@ This "documentary" looks at the evidence for and against this theory, building o
 
 The TV documentary vibe is the film's most significant success. How much of that is intentional versus budgetary is up for debate.
 
-I also appreciate how they pulled in contemporary technology of the time — IRC, teleconferencing, and text-to-speech. 
+I also appreciate how they pulled in contemporary technology of the time — IRC, teleconferencing, and text-to-speech.
 
 These indirections and simulacra enhance the themes at the film's center — that agendas can manipulate or recontextualize documents and documentation.
 

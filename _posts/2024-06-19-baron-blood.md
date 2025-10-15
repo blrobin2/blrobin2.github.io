@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6HxHLb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 18/31 | Mario Bava | Decades 5/5 | 70s</a></b>

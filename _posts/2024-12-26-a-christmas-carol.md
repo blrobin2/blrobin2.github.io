@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8ajJwt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Thanks to <a href="https://boxd.it/MltZ" title="@CinemaMystic">@CinemaMystic</a> for watching and passively encouraging me to do the same — a delightful watch while kids were ravaging presents

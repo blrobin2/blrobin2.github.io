@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/51Mk6X
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>And I turned and saw the injustice of everything that took place beneath the sun</i></blockquote><b>Betlin, 1928</b>
@@ -31,6 +30,7 @@ About halfway through the show, it actually becomes a crime story — Franz give
 Franz is archetypal and totally foreign to me — somewhere between Ignatius J. Reilly and Tony Soprano, with a dash of Job from the Christian bible — a child who only thinks the honest are fooling him.
 
 Franz's relationship with Reinhold is a love I can only compare to Hannibal and Will Graham in the <i>Hannibal</i> TV show: it is selfish, demands its own way, and lingers in suffering.
+
 <blockquote><i>Love Has Its Price</i></blockquote>The epilogue is probably what most people remember. It contains two extended fantasy sequences that seem to exist in Franz's mind. It's a film that requires the entire story up to this point to mean anything and contains some of the most memorable imagery of the show.
 
 The pacing in this show makes <i>Twin Peaks: The Return</i> look taut. Both exercise patience and expectation, but from almost opposite angles — <i>Twin Peaks </i>creates a surrealist hyperreality, while this creates a hyperreal banality.

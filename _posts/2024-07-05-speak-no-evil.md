@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6O9dxD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b></b><a href="https://boxd.it/pRQY0/detail" title="Hoop-Tober | 27/31"><b>Hoop-Tober | 27/31</b>
@@ -21,6 +20,7 @@ The cinematography stands out most in the landscape shots, which feel expansive 
 The performances are excellent — moving at times in their vulnerability and heart-wrenching in their manipulation.
 
 I find it difficult to understand why the family stays as long as they do. It has something to do with repression and social norms, especially in Danish culture. But I don't have a firm enough grasp on that to argue it.
+
 <blockquote><i>— Why are you doing this?
 </i><i>— Because you let me.</i></blockquote>The film has several Biblical allusions, but I'm unsure how it all adds together to say anything.
 

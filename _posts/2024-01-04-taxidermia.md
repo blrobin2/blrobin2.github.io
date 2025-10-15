@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5ufHNF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary">Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary</a>

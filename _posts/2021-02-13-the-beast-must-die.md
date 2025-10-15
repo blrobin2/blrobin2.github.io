@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/1ELb6L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 One night ultimate werewolf

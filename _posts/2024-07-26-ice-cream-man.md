@@ -6,13 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6XveiJ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 25/31 | Slasher 5/5</a></b>
 
 In Lyndon B. Johnson’s America, an ice cream truck sits on the curb. A car drives up to the truck and shoots it full of bullets, killing the titular Ice Cream King. The Ice Cream King falls from the car, holding a push-up pop. Young Gregory Tudor strides up to the dead body, takes the push-up pop, and sits down next to the body to enjoy his frozen treat. A spatter of blood adorns his face as his mother runs screaming out of the house to him. When she asks if he’s okay, he replies,
+
 <blockquote><i>Who’s gonna bring the ice cream, mommy?</i></blockquote>Cut to the present day, 1995. Dressed in a jean vest, Roger chases down the ice cream truck. Who is the ice cream man? Why, it’s Gregory Tudor, all grown up. In deference to the fallen Ice Cream King, Gregory goes by Ice Cream Prince. Gregory’s gruff and off-putting, trying to jest with the kids the way the Ice Cream King might. But in William J. Clinton’s America, everything is Poochie — except for ice cream men.
 
 Back home that night, Gregory’s landlord’s dog, Dinky, barks at the ice cream man. He produces a push-up pop. But when he pulls down the sleeve, a blade unveils. Nurse Wharton, Gregory’s orderly and landlord, hears the barking outside subside, replaced with pained whimpering. She goes to check on the dog and finds Gregory in the window with blood on his face. He claims it's grenadine, and she cheerfully accepts it. He puts the dog in a wood chipper.
@@ -33,6 +33,5 @@ The same director as <i>Edward Penishands</i> directed this under an alias. I ha
 
 The film is a bit of a mess, but it has enough charm to keep me from hating it. Tubi has a RiffTrax version of this that I might check out in the future, even though I think riffing on movies intended to be comedies is a fool’s errand.
 
-
-<b>*** SPOILER TALK ***</b>
+<b>**_ SPOILER TALK _**</b>
 The last 20 minutes totally undermined the direction the rest of the movie was going! It hinted that the ice cream man, in his demented way, was protecting the kids — hence, why he kills the creepy dude in the park. But nope, he just kills — well, except for Small Paul who "understands" him. Until he doesn't.

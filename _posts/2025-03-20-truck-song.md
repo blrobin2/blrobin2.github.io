@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/9aXfEl
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* You know what going into a tunnel represents, don't you? Death and its eternal void.
-* Frankly, trucks are everywhere and could bring this country to its knees whenever they want.
+- You know what going into a tunnel represents, don't you? Death and its eternal void.
+- Frankly, trucks are everywhere and could bring this country to its knees whenever they want.

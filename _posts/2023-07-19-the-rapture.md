@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4xmssF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Sharon (Mimi Rogers) is a telephone operator by day and a swinger by night, seeking sexual encounters with her friend Vic (Patrick Bauchau)

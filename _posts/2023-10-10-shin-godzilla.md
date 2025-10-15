@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4Yj5bN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 12/34 | Distaster 2/2</b>

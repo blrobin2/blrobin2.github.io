@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/aecELV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 This short invented indie sleaze

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9IjKlF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 47/52 | Sean Baker's Closet Picks</a></b>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5A4HPX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Cult Movie Challenge 2016 | 6/52 | Video Nasties</a></b>
@@ -40,12 +39,12 @@ They spend time arguing over Kay's dreams, but they get out of the loop before i
 
 This movie will only appeal to slasher enthusiasts. While it isn't a great movie, it is fascinating.
 
+<b>**_ Thoughts / Spoilers _**</b>
 
-<b>*** Thoughts / Spoilers ***</b>
-* Something happens for every character in the first act that foreshadows their death.
-* Kay killed her cat as a kid — she blamed her nightmares then.
-* Eric meets a horrifying fate as he is dragged into the sea by a fishing line during the night.
-* The pitchfork effect was pretty good! All the effects are solid in this.
-* Maxwell House instant coffee — when literally anything will do.
-* The skeleton creature is silly and creepy. It has classic "Tales from the Crypt" vibes.
-* Was it all a dream? Or is this a flashback? She sees the cat and worries.
+- Something happens for every character in the first act that foreshadows their death.
+- Kay killed her cat as a kid — she blamed her nightmares then.
+- Eric meets a horrifying fate as he is dragged into the sea by a fishing line during the night.
+- The pitchfork effect was pretty good! All the effects are solid in this.
+- Maxwell House instant coffee — when literally anything will do.
+- The skeleton creature is silly and creepy. It has classic "Tales from the Crypt" vibes.
+- Was it all a dream? Or is this a flashback? She sees the cat and worries.

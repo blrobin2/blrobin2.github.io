@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4tXhx3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Dating in the 80s — ain’t it a drag? But when consultant Frankie Stone (Ann Magnuson) gets the opportunity to refine the personality of an android named Ulysses (John Malkovich) to appeal more to women, she finds herself drawn to him
@@ -23,9 +22,10 @@ Similarly, the “fish out of water” trope was way overused in the 80s — the
 Overall, a charming rom-com
 
 <b>Stray Thoughts</b>
-* Keith Haring heels!
-* Every delivery of “My god!” from Malkovich is perfect
-* The “New Jersey” soap opera is pretty funny
-* “It takes a man this sensitive to understand your needs.”
-* The Parent Trap playing at the theater — another movie in which one actor plays dual roles
-* Where else do you go to experience the real world, except the mall?
+
+- Keith Haring heels!
+- Every delivery of “My god!” from Malkovich is perfect
+- The “New Jersey” soap opera is pretty funny
+- “It takes a man this sensitive to understand your needs.”
+- The Parent Trap playing at the theater — another movie in which one actor plays dual roles
+- Where else do you go to experience the real world, except the mall?

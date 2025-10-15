@@ -4,10 +4,9 @@ title: "Confess, Fletch (2022)"
 excerpt: "My review of Confess, Fletch (2022)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/3yl9gz
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 Jon Hamm channels his inner Bill Murray for his spin on the Fletch character, and while it doesn’t always work, it never takes away from the breezy vibe going throughout the movie

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6sdc75
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 11/31 | Countries 5/6 | France</a></b>

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3TPUFP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The technicolor has an uncanny quality in the setting, but it’s easy to adapt to

@@ -4,10 +4,9 @@ title: "Emily the Criminal (2022)"
 excerpt: "My review of Emily the Criminal (2022)"
 rating: "4.0"
 letterboxd_url: https://boxd.it/3ACaTf
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 I love that Obama put this on his year-end best of

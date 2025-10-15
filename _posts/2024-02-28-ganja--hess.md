@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5VPgWl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 28/32 | black director or predominantly black cast or lead 1/2</a></b>

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6sbwOT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 10/31 | Countries 4/6 | Spain | Decades 5/6 | 70s</a></b>

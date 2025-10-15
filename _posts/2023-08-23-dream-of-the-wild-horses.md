@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4JNui5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Tense, rhythmic repetition of horses bucking, stampeding, and fighting in water

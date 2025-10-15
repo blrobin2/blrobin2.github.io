@@ -6,20 +6,17 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6iJZzL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 18/32 | Clive Barker</a></b>
 
 <blockquote><i>There are two worlds of magic. One is the glittering domain of the illusionist. The other is a secret place where magic is a terrifying reality. Here, men have the power of demons. And Death itself is an illusion.</i></blockquote>
 
-
 <b>The Mojave Desert, 1982</b>
 Nix, who calls himself The Puritan, holds a ball of fire and talks to a congregation of his followers. A man comes in to warn Nix that Swann arrived. Swann is a former congregant. He, Quaid, and other former congregants are going to stop Nix from sacrificing a child that they have kidnapped.
 
 Swann confronts Nix, and Nix touches Swann's brain, causing him to have demented visions of people ripping apart. The kidnapped girl shoots Nix, and the others put a binding mask on Nix, effectively killing him.
-
 
 <b>New York City 1995</b>
 Private detective Harry D'Amour mourns the outcome of a recent exorcism in Brooklyn. The police connect Harry to several occult-related cases and consider him "dubious." Loomis finds Harry after three days holed up in his place. Loomis gives Harry an insurance fraud case in LA.

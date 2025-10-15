@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4FJMOT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I went in knowing this wouldn't be for me — I did theater in high school, but I was not a theater kid, nor did I go to theater camp. Much of this movie's humor derives from not just knowing theater experience but being a Broadway nerd

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3RI1PD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Amazing compositions and cinematography, deep shadows of German Expressionism, old mansion with secrets — this is my shit. The humor is… you know, a century old, so amusing at best, but still has good timing and whatnot. The title cards are often playful and enhance the readings

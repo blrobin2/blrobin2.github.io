@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4lyAKX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 f you read the synopsis of this movie, it sounds like a grindhouse flick, but the movie’s tone is closer to a Lifetime movie. I mean, there are some upsetting scenes, but it’s not dwelled on in an exploitation way, but more trying to communicate what is happening. Still, what happens is genuinely disturbing

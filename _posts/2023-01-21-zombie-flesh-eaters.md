@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/3JKpYr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Cold open to a no-context scene of a guy getting his head blown off? Fulci knows his audience

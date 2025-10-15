@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/3SJXFx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Had a lot more boring military scenes than the first one, but eventually it popped off pretty hard

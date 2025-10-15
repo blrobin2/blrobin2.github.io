@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6YQZiR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 27/31 | Monster 2/5">Hooptober 2.0 | 27/31 | Monster 2/5</a></b>
@@ -16,7 +15,7 @@ It's a starry night over London. As one star falls, several fireworks hit the sk
 
 Moses surveys the inside for any goods worth stealing. He climbs inside and encounters a white, furry creature. It slashes his face, so he stabs it. The creature runs away, but Moses won't let it live. The gang chases it down and kills it. One thinks it's an orangutan. Another suggests an alien.
 
-While they celebrate, several more meteors descend from the sky. The gang parades their kill around the block before taking it to a local gang leader named Hi-Hatz to see what sort of money they can make off it.  But Hi-Hatz isn't interested in the alien. Instead, he gives Moses some coke to deal if he wants to make money. The meteors hit the surface, and the gang takes them on.
+While they celebrate, several more meteors descend from the sky. The gang parades their kill around the block before taking it to a local gang leader named Hi-Hatz to see what sort of money they can make off it. But Hi-Hatz isn't interested in the alien. Instead, he gives Moses some coke to deal if he wants to make money. The meteors hit the surface, and the gang takes them on.
 
 But these creatures aren't like the ones they killed. They're huge and far more violent. Will the gang fight or flee? Can they stop the aliens from taking over their block?
 

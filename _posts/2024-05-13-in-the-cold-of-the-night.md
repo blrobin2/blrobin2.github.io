@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6sLzSh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 20/52 | Shannon Tweed">Cult Movie Challenge 2024 | 20/52 | Shannon Tweed</a></b>
@@ -26,18 +25,18 @@ The visuals get so trippy! VHS effects and wavy distortions, like footage from a
 
 This movie is so whacky. It's also way too long. I got so many laughs from this movie, all at the movie's expense.
 
+<b>**_ Stray Thoughts/Spoilers _**</b>
 
-<b>*** Stray Thoughts/Spoilers ***</b>
-* Glowing water bed
-* "Mother has this thing about birds."
-* "Nothing makes sense anymore. And you know what? I don't care."
-* He photographs a motorcycle like a snuff film
-* "It was a stupid accident. I think of it as my own Vietnam."
-* She rides a motorcycle through multiple homes!
-* The salad-eating scene has such bizarre timing
-* Erotic cold marbles. Is he just filling her with them?
-* The women in his life are awfully amicable to him choking them out in his sleep.
-* Shannon Tweed is a model who is content to be a photographer's situationship.
-* Sleeping in jeans and a belt
-* Watching laserdiscs
-* "If I can't have her, I don't really care if she's dead," says our hero!
+- Glowing water bed
+- "Mother has this thing about birds."
+- "Nothing makes sense anymore. And you know what? I don't care."
+- He photographs a motorcycle like a snuff film
+- "It was a stupid accident. I think of it as my own Vietnam."
+- She rides a motorcycle through multiple homes!
+- The salad-eating scene has such bizarre timing
+- Erotic cold marbles. Is he just filling her with them?
+- The women in his life are awfully amicable to him choking them out in his sleep.
+- Shannon Tweed is a model who is content to be a photographer's situationship.
+- Sleeping in jeans and a belt
+- Watching laserdiscs
+- "If I can't have her, I don't really care if she's dead," says our hero!

@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/7lmNyv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Not that funny! Anna Faris keeps this movie from being a total slog

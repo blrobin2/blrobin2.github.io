@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/68vysb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 25/32 | Larry Cohen</a></b>

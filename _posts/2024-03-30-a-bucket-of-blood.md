@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6afarf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>I will talk to you of art, for there is nothing else to talk about.</i>

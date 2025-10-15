@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4DjjKX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Julia (Mia Farrow) tries to save her choking daughter by performing a tracheotomy but instead accidentally kills her. Riddled with grief and guilt, she leaves her husband, Magnus (Keir Dullea), and moves into a large, mysterious house

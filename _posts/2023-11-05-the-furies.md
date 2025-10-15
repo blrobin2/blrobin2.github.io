@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5726nR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>You can have it all. My empire of cows.</b>
@@ -37,8 +36,9 @@ This move-watching experience is both moving and riveting. I don’t enjoy Weste
 If you drink every time someone says “The Furies,” you’ll be dead by 20 minutes in.
 
 <b>T.C. Facts I Find Funny</b>
-* In all of T.C.’s dealings, he’s established his own “legal tender” called T.C.’s, but their value on the dollar is questionable.
-* T.C. has Cotton Hill energy, just in the wild-ass things he says.
-* T.C. looks like Paul F Thompkins. I have to believe he’s done a character like this.
-* T.C. has two busts in his office: Napoleon and himself.
-* T.C. throws a guy through a window for drunkenly snoring too loud.
+
+- In all of T.C.’s dealings, he’s established his own “legal tender” called T.C.’s, but their value on the dollar is questionable.
+- T.C. has Cotton Hill energy, just in the wild-ass things he says.
+- T.C. looks like Paul F Thompkins. I have to believe he’s done a character like this.
+- T.C. has two busts in his office: Napoleon and himself.
+- T.C. throws a guy through a window for drunkenly snoring too loud.

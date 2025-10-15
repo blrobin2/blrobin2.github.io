@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/4kXA0h
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Guess I have to be in love with Maya Deren now

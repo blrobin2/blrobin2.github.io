@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6K1eLf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 24/31 | Stuart Gordon</a></b>
@@ -19,7 +18,7 @@ A group of royals gather around a stone tomb. Two men attach chains to hooks on 
 
 Torquemada declares D’Alba Molina guilty of heresy. Two of the inquisitor’s men tie a rope around the remains’ wrists, accidentally pulling one arm out of its socket. They declare D’Alba Molina’s wealth and the wealth of his heirs as forfeit to the Church. They also sentence the corpse to twenty lashes. The inquisitor’s torturer, Mendoza, issues the lashes, sending dust, bone debris, and bits of skeletal remains scattering through the room. Finally, they put the pieces of bone and skull into a mortar and pestle, grinding them to dust and filling an hourglass.
 
-Cut to Maria kneading dough. Her husband, Antonio, comes behind her and kneads her breasts. Maria stops, feeling the pain of all those tortured by inquisitors. She refuses to sell her bread in a venue where people will attend torture later. But the crowd pulls them into the public execution of the D’Alba Molinas. They try to leave, but cannot. 
+Cut to Maria kneading dough. Her husband, Antonio, comes behind her and kneads her breasts. Maria stops, feeling the pain of all those tortured by inquisitors. She refuses to sell her bread in a venue where people will attend torture later. But the crowd pulls them into the public execution of the D’Alba Molinas. They try to leave, but cannot.
 
 Maria tries to stop it, begging for mercy. A guard raises his sword, but Torquemada stops him. He reaches out to her, and she grasps his hand to beg. Aroused, he pulls it away, accusing her of witchcraft. Imprisoned, Maria meets Esmerelda, who has confessed to being a witch. Together, they work to escape from Torquemada’s grasp.
 

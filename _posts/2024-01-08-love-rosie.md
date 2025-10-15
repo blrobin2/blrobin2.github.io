@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5x61Aj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Alex and Rosie have been best friends since they were kids. Since a boy and a girl can't be friends, Alex realizes he must love her romantically. Since he's a stupid boy, he doesn't tell her.

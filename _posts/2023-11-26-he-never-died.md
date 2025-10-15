@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5dDTlt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 28/34 | Film with a real life musician or band</b>
@@ -28,7 +27,7 @@ Henry Rollins plays more straight-edge than in real life. If you enjoy people as
 
 It has some jokes. It's a somewhat unique take on its subject. I enjoyed watching it, but I wouldn't watch it again.
 
-<b>*** Spoilers ***</b>
+<b>**_ Spoilers _**</b>
 He finds Andrea early on — he hears her crying through the walls. He leaves in search of her but returns to the same place. It's lazy and inconsistent.
 
 I like that he's Cain. They don't do enough with it.

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5UJ6IR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Cult Movie Challenge 2026 | Psychotronic Encyclopedia</a></b>
@@ -36,21 +35,21 @@ Ultimately, the biggest issue with the movie is the pacing and performances. Jan
 
 Regardless, the film is thoughtful and an essential watch for any Romero fans.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The red floral wallpaper is amazing
-* Doing mad-libs as a party game isn't a terrible idea
-* Even in the 70s dentists were pushing electric toothbrushes
-* A reference to <i>Rosemary's Baby</i>
-* Turning someone on and swinging is referring to smoking weed in this movie
-* Every man in this movie sucks ass
-*  <i>The Graduate</i> reference 
-* Wow, the movie invents a valid reason to run upstairs when there's an intruder in the house
-* Great use of Donovan's "Season of the Witch"
-* "Gold-plated jerk" is a great insult 
-* Turning the Lord's Prayer into an incantation? Fuck yeah.
-* The shopkeepers spying on Joan's shopping — she is still under patriarchal surveillance.
-* The "Free Booze" cups are funny
-* Joan kills her husband who comes resembling the intruder from her dream.
-* The movie closes with Joan in an occult ritual that binds her neck and ties her like a dog to an altar — a mirror of the dream she has.
-* "You remember Jack's wife."
+- The red floral wallpaper is amazing
+- Doing mad-libs as a party game isn't a terrible idea
+- Even in the 70s dentists were pushing electric toothbrushes
+- A reference to <i>Rosemary's Baby</i>
+- Turning someone on and swinging is referring to smoking weed in this movie
+- Every man in this movie sucks ass
+- <i>The Graduate</i> reference
+- Wow, the movie invents a valid reason to run upstairs when there's an intruder in the house
+- Great use of Donovan's "Season of the Witch"
+- "Gold-plated jerk" is a great insult
+- Turning the Lord's Prayer into an incantation? Fuck yeah.
+- The shopkeepers spying on Joan's shopping — she is still under patriarchal surveillance.
+- The "Free Booze" cups are funny
+- Joan kills her husband who comes resembling the intruder from her dream.
+- The movie closes with Joan in an occult ritual that binds her neck and ties her like a dog to an altar — a mirror of the dream she has.
+- "You remember Jack's wife."

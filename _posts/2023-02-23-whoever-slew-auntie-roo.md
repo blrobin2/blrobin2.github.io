@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3Tvouv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 A classic case of doing all the wrong work and still somehow being right

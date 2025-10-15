@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/6i63QV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 16/32 | Romero | Anniversary Film 10/10</a></b>
@@ -32,13 +31,13 @@ I don't know what version I watched. It lasted 2.5 hours, which doesn't match an
 
 Tom Savini's effects are gnarly! Hooray for Vietnam War trauma? While the scabs and makeup look dated, the blood and gore are effective. Some standouts (no context to avoid spoilers):
 
-* Head explosion
-* Biting off chunks of woman's shoulder and arm
-* Helicopter blade scalping
-* Screwdriver in the ear
-* Headshot where eyeball flies out
-* Savini head chop
-* Ripping dudes apart
+- Head explosion
+- Biting off chunks of woman's shoulder and arm
+- Helicopter blade scalping
+- Screwdriver in the ear
+- Headshot where eyeball flies out
+- Savini head chop
+- Ripping dudes apart
 
 This movie's influence is everywhere, including the recent <i>Civil War</i>. They share the sprawling effect on the country and the downtime between hysteria and devastation.
 

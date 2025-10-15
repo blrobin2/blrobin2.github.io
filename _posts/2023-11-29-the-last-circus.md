@@ -6,23 +6,20 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5eP78p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 32/34 | Bonus 1/3</b>
 
-
 <i>Madrid 1937, Spanish Civil War</i>
 
-Two clowns — a Funny Clown and a Sad Clown — perform a routine while an air raid occurs, keeping the kids laughing instead of being afraid. 
+Two clowns — a Funny Clown and a Sad Clown — perform a routine while an air raid occurs, keeping the kids laughing instead of being afraid.
 
 The Republican Militia walks in, demanding the circus workers fight for them against the fascist Nationalist rebellion.
 
 <blockquote><i>A clown with a machete. You'll scare the shit out of them.</i></blockquote>
 
 The Funny Clown slaughters dozens. The Nationalists capture him and send him to the Valley of the Fallen. His son, Javier, tries to free him, but Colonel Salcedo kills him.
-
 
 <i>Madrid 1973</i>
 
@@ -42,8 +39,7 @@ Sergio catches them at a carnival and hospitalizes Javier. In a vision, he sees 
 
 From here, the film is a gore fest as Javier mutilates his face into a permanent clown mask and goes on a killing spree.
 
-
-<b>*** Half-Baked Interpretation / Spoilers ***</b>
+<b>**_ Half-Baked Interpretation / Spoilers _**</b>
 
 Álex de la Iglesia is engaging with his country's complicated history. He makes the characters not just victims of their circumstances but representatives of the country's violent past.
 

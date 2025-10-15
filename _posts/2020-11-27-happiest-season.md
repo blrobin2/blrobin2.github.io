@@ -4,10 +4,9 @@ title: "Happiest Season (2020)"
 excerpt: "My review of Happiest Season (2020)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/1tNa9z
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 An inconsistent script made delightful and engaging by an incredible cast, even if it clumsily arrives at its cheery ending. This movie could also be either cathartic or triggering, depending on how you feel about yet. another. closeted queer story

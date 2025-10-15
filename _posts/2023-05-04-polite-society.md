@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4cGlzZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 What The Hell? This movie rules!

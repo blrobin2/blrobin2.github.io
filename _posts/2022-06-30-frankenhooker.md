@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/2Yxz3B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Troma + Henenlotter = 🫀

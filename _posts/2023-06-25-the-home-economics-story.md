@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4qaMit
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 would she smoke thin cigarettes and reject the triune god?

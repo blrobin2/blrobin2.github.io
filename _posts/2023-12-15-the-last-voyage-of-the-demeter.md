@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5keR7d
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>In 1897, a Russian schooner was chartered to carry private cargo, consisting of fifty wooden crates, from Romania to England. When the ship arrived, it was derelict.</i></blockquote>
@@ -42,7 +41,7 @@ Like most modern lighting, the filmmakers optimized this for expensive screens. 
 
 Javier Botet, who played Dracula, went through four hours of prosthetics only for post-production to obscure it with mediocre CGI. The intricate prosthetics give him a bat-demon appearance, visible in some scenes. The CGI reduces him to a StarCraft cut scene.
 
-When GCI doesn't obliterate a scene, the practical effects are top-notch. 
+When GCI doesn't obliterate a scene, the practical effects are top-notch.
 
 Aisling Franciosi pulls a <i>Nightengale</i> and totes a shotgun. She's my favorite part of the movie.
 

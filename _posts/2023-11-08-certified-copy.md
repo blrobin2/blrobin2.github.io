@@ -6,11 +6,10 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/57WQKz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> |  10/52 | Heartbreak Heaven</b>
+<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 10/52 | Heartbreak Heaven</b>
 
 James Miller (William Shimell), author of Certified Copy, is running late for a book reading and signing in Tuscany, Italy.
 

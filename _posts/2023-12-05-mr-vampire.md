@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5gWsCx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 An apprentice tends to a waning candle. Keep it lit, or they'll come to life.
@@ -16,7 +15,7 @@ When someone dies in anger, a breath is caught in his throat. They will return a
 
 A skull breaks out from one coffin and bites an apprentice. He accidentally knocks the candle over, and the hopping vampires come alive.
 
-The masters run in, one beating them up, the other marking them with rooster blood and ink that neutralizes them. 
+The masters run in, one beating them up, the other marking them with rooster blood and ink that neutralizes them.
 
 They meet with a client who wishes to dig up and rebury his father because a fortune-teller told him it would bring him great riches.
 

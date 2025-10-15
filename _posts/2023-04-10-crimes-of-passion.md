@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/46fwfj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Kathleen Turner plays a dual life as a fashion designer and a sex worker, taking quaaludes and drinking J&B, looking for freedom or whatever
@@ -22,6 +21,6 @@ This script is so goofy when it’s Kathleen Turner and Anthony Perkins — so m
 
 It wins some weird points, but this isn’t a great movie. I know there are at least five other versions of this on the cutting room floor, and maybe one of those is better
 
-* Rick Wakeman?? I guess he did the soundtrack, but still weird seeing his face in a movie
-* My friends cheering me on as I play a character named the Human Penis
-* That Life Savers wrapping paper rules
+- Rick Wakeman?? I guess he did the soundtrack, but still weird seeing his face in a movie
+- My friends cheering me on as I play a character named the Human Penis
+- That Life Savers wrapping paper rules

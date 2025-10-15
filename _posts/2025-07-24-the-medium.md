@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/arUsjb
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 30/52 | Folk Horror</a></b>

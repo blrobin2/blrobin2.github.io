@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5OZNbf
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 21/52 | Asian Horror">Cult Movie Challenge 2016 | 21/52 | Asian Horror</a></b>

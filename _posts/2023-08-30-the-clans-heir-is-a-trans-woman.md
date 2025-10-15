@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4LY6A5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The Tatsumi clan's leader is dead, and they must try to find his successor. They find her in a local trans bar, learning that she has transitioned when her father kicked her out 15 years ago

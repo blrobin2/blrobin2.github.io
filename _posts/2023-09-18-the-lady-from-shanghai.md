@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4Rp6Rz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>When I start out to make a fool of myself, there's very little can stop me</i></blockquote>Orson Welles plays Black Irish Michael O'Hara, a man known for... killing a guy? He sees Elsa Bannister (Rita Hayworth) in a passing carriage,  and his fixation seals his fate... until it doesn't? Elsa pulls Michael into her world of mistrust and malaise... well, pretend malaise so that... they can commit crimes?
@@ -29,8 +28,9 @@ Whether or not you like this will have to do with what you prioritize in a movie
 For some critics, the horseshoe swings this over to an accidental masterpiece. For me, it doesn't quite make the curve
 
 <b>Stray Thoughts</b>
-* The DVD case I rented puts a 3.5-star review on it — the most praise-worthy statement they could find is "vintage Welles."
-* Of course, Scorsese loves this movie — his style is deeply indebted to this, and all of his worst habits are on display here — long takes for the sake of it, endless narration, visual flourishes to mask lack of other ideas
-* William Castle had the rights to the adaptation, but Welles manipulated him into an uncredited screenplay role
-* The courtroom scene is so silly — it is amusing, but what does it serve? Everyone is laughing and yelling, and the judge is a bumbling idiot, all done for comedic effect. It seems Welles has an ax to grind over divorce lawyers that was more important to him than the coherence of his picture
-* Bogdanovich has done a remarkable job at Welles speculative revisionist history. He paints Hayworth as a disturbed woman that Welles did everything he could to help, and Welles as someone who only makes great movies, if only the studios wouldn't get in the way
+
+- The DVD case I rented puts a 3.5-star review on it — the most praise-worthy statement they could find is "vintage Welles."
+- Of course, Scorsese loves this movie — his style is deeply indebted to this, and all of his worst habits are on display here — long takes for the sake of it, endless narration, visual flourishes to mask lack of other ideas
+- William Castle had the rights to the adaptation, but Welles manipulated him into an uncredited screenplay role
+- The courtroom scene is so silly — it is amusing, but what does it serve? Everyone is laughing and yelling, and the judge is a bumbling idiot, all done for comedic effect. It seems Welles has an ax to grind over divorce lawyers that was more important to him than the coherence of his picture
+- Bogdanovich has done a remarkable job at Welles speculative revisionist history. He paints Hayworth as a disturbed woman that Welles did everything he could to help, and Welles as someone who only makes great movies, if only the studios wouldn't get in the way

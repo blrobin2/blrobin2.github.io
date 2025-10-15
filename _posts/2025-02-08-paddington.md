@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/8LcXQV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 42/52 | A titular character</a></b>

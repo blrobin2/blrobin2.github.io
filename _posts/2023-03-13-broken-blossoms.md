@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3YuIPL
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Seedy streets, a woman in trouble, and a man from overseas with a message of peace in his heart, and a hostile world in which to spread it

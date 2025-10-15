@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4YH2eR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 — You have the right to remain dead

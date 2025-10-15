@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3YAV3R
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Hallucinatory, violent images pursue a woman, and everyone has an opinion on what she needs

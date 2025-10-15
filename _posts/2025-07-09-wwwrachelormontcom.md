@@ -4,10 +4,9 @@ title: "www.RachelOrmont.com (2024)"
 excerpt: "My review of www.RachelOrmont.com (2024)"
 rating: "2.0"
 letterboxd_url: https://boxd.it/agw8uh
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 <blockquote><i>I've never loved anyone the way I've loved myself.</i></blockquote>

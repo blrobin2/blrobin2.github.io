@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/594lTP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 11/34 | Insect-centered 2/2</b>
@@ -30,9 +29,9 @@ Deemer explains to Hastings and Clayton his synthetic nutrients to grow larger a
 
 As time passes, we get occasional glimpses of the tarantula. Each time, it has grown bigger.
 
-Soon, the sheriff receives reports of cattle being stripped to the bone and puddles of unidentifiable white paste. 
+Soon, the sheriff receives reports of cattle being stripped to the bone and puddles of unidentifiable white paste.
 
-Another doctor verifies — it's tarantula venom. 
+Another doctor verifies — it's tarantula venom.
 
 Unlike <i>Them!</a>, the science is complete nonsense, but they do share radioactive isotopes as the secret sauce. Also, unlike <i>Them!</i>, once the movie ramps up, it doesn't pump the brakes.
 

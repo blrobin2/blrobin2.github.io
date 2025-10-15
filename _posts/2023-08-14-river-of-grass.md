@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4GZaqv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Cozy (Lisa Bowman), bored and ignored, meets Lee (Larry Fessenden) at a bar one night, thinking his unsavory ways will mix up her life. But when they believe they shoot a guy and go on the lam, Cozy learns that the bad boy may just be another boy with mommy (and money) issues

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4LHjlj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Nina has recently lost Jamie, the love of her life. In her heart, she talks to him as though he is still there, but the ache of absence still stings

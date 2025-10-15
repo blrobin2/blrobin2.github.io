@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/64Bx8v
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme">Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme</a></b>
@@ -40,12 +39,13 @@ I would compare this to <i>The Fifth Element</i> — both aren't good movies but
 
 Somehow, Rodman made the best movie starring a Chicago Bull in the 90s.
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Like something from <i>The Heroic Trio</i>, Stavros is after babies or something.
-* Van Damme and Rodman make so many basketball puns.
-* He creates a Rube Goldberg device, complete with his peeled-off thumbprint
-* Van Damme's disguise to blend with the generic goth/punk/Rodmanites is so good! His hottest look by far.
-* So many flying birds! What in the name of John Woo?
-* Dennis Rodman has brothers — Italian cybermonks!!
-* The explosion in the Colosseum.
-* The house music in the closing credits
+<b>**_ Stray Thoughts / Spoilers _**</b>
+
+- Like something from <i>The Heroic Trio</i>, Stavros is after babies or something.
+- Van Damme and Rodman make so many basketball puns.
+- He creates a Rube Goldberg device, complete with his peeled-off thumbprint
+- Van Damme's disguise to blend with the generic goth/punk/Rodmanites is so good! His hottest look by far.
+- So many flying birds! What in the name of John Woo?
+- Dennis Rodman has brothers — Italian cybermonks!!
+- The explosion in the Colosseum.
+- The house music in the closing credits

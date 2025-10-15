@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/4LCn7F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Michael gives all of his money to a couple of unhoused folks. He later learns that the building in which they were squatting burned down

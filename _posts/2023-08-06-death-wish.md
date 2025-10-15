@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4Ef6h5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>What about the old American social custom of self-defense? If the police don't defend us, maybe we ought to do it ourselves</i></blockquote>Some "freaks" break into the Kersey household, beat Joanna (Hope Lange) to death, and rape Carol (Kathleen Tolan), Joanna's daughter
@@ -29,7 +28,8 @@ Solid Herbie Hancock soundtrack — the subtle energy keeps the movie moving for
 Overall, the movie is a well-constructed Conservative wet dream
 
 <b>Stray Thoughts</b>
-* This movie is the first time I've seen "director and co-producer" as a single credit
-* Jeff Goldblum shows up as "Freak 1", wearing a Jughead cap. He is going to end up in my most-watched actors this year for all the minor roles he keeps cropping up in. "Don't jive, Mother; you know what I want." Ugh, shut up
-* Liver and spaghetti for dinner, that's Paul's biggest crime
-* All these haggard men from the 70s were probably, what, 25 when this was filmed?
+
+- This movie is the first time I've seen "director and co-producer" as a single credit
+- Jeff Goldblum shows up as "Freak 1", wearing a Jughead cap. He is going to end up in my most-watched actors this year for all the minor roles he keeps cropping up in. "Don't jive, Mother; you know what I want." Ugh, shut up
+- Liver and spaghetti for dinner, that's Paul's biggest crime
+- All these haggard men from the 70s were probably, what, 25 when this was filmed?

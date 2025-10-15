@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/3ADfV3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Turned it off about half-way through, not for me

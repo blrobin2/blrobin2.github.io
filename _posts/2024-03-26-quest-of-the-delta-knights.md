@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/68xeub
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Season 9 finale! It's all going by so quickly :(
@@ -18,10 +17,10 @@ David Warner is such a professional. He knew exactly what he was getting into. W
 
 Pearl takes Mike's place for the first part of the episode. Mary Jo Pehl has been a writer on the show since day one, so it doesn't change the tone that much.
 
-* Je m'appelle bite me
-* Back now, this is a lot of money
-* It seems chilly in here — can you turn down your guy?
-* Does that mean God the Father or Steve the Father?
-* Let's tap that spigot on your head and have some cider
-* David Warner, you are under arrest by order of David Warner
-* Let's lead him to water and see what happens
+- Je m'appelle bite me
+- Back now, this is a lot of money
+- It seems chilly in here — can you turn down your guy?
+- Does that mean God the Father or Steve the Father?
+- Let's tap that spigot on your head and have some cider
+- David Warner, you are under arrest by order of David Warner
+- Let's lead him to water and see what happens

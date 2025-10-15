@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4avDCH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Well, this certainly paints witchcraft in a negative light. It gets all muddled up with Satan worship, with the floral crowns and whatnot giving it all a pagan feel

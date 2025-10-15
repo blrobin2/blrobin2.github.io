@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6eDdrV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 43/52 | Slasher</a></b>

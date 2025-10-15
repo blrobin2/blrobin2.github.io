@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/3ZmMZt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I’m gonna end up watching all the <i>The Cat & the Canary </i>adaptations, aren’t I?

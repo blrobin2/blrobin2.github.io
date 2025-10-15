@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5N9wUT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 18/52 | Splatter</a></b>
@@ -34,18 +33,18 @@ The soundtrack rules — Robert is a record producer and records a song with a b
 
 The movie had so much potential! Watch the "sequels" — in classic Italian fashion, none of the sequels have anything to do with this. Beyond the Door III is stellar.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* A little intro from Satan taking credit for the events of the movie
-* White dude snapping off-beat to the theme song
-* Kid sipping pea soup from a Campbell's can through a straw??
-* The devil here is far less subtle than in Rosemary's Baby
-* "It's got as much balls as a castrated jellyfish."
-* "Sounds like a jerk-off session in the bathroom."
-* Cursing children!
-* No, not the fish tank! Poor fish :(
-* How does he not see the moving truck??
-* "Come on, you filthy pig, lick the vile whore's vomit."
-* Wait, she dated Dimitri??
-* The band chases him around, singing a song about there being no hope. The best part of the movie
-* That baby has no mouth
+- A little intro from Satan taking credit for the events of the movie
+- White dude snapping off-beat to the theme song
+- Kid sipping pea soup from a Campbell's can through a straw??
+- The devil here is far less subtle than in Rosemary's Baby
+- "It's got as much balls as a castrated jellyfish."
+- "Sounds like a jerk-off session in the bathroom."
+- Cursing children!
+- No, not the fish tank! Poor fish :(
+- How does he not see the moving truck??
+- "Come on, you filthy pig, lick the vile whore's vomit."
+- Wait, she dated Dimitri??
+- The band chases him around, singing a song about there being no hope. The best part of the movie
+- That baby has no mouth

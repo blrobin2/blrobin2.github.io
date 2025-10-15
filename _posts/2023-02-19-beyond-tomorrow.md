@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/3Sca0f
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Couldn’t sleep so I put on this wild-ass movie

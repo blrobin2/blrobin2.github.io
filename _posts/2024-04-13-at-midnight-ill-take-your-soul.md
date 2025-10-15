@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6gjkZN
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 12/32 | Before 1970 3/6</a></b>
@@ -20,7 +19,7 @@ Coffin Joe strikes his gloved hands against Terezinha’s bloodied face. Coffin 
 
 In this movie, his wife, Lenita, cannot bear children. He makes advances on Terezinha, the fiance of his friend, Antônio. His having friends and a wife is perplexing.
 
-Terezinha refuses him, driving him into a frenzy. He murders Lenita and gets away with it, thus invigorating him to chase his desires. 
+Terezinha refuses him, driving him into a frenzy. He murders Lenita and gets away with it, thus invigorating him to chase his desires.
 
 This film is brutal! Coffin Joe is cutting off fingers, whipping bar patrons bloody.
 

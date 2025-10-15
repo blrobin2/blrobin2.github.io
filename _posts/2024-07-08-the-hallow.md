@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6PnunR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland">Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland</a></b>
@@ -31,6 +30,6 @@ The movie has more than a few nods to <i>Alien</i>, <i>The Thing</i>, and the li
 
 The film's greatest foil is that it reveals everything early into the movie, so it becomes more of a survival film than anything. Also, this isn't a big-budget flick, so CGI is inevitable for some more ambitious scenes.
 
-While not a great film, it is a promising one. Director Corin Hardy's follow-up to this was <i>The Nun</i>, which received pretty negative reviews, so ¯\_(ツ)_/¯ 
+While not a great film, it is a promising one. Director Corin Hardy's follow-up to this was <i>The Nun</i>, which received pretty negative reviews, so ¯\_(ツ)\_/¯
 
 I want that tome on fae — it looks sick as hell.

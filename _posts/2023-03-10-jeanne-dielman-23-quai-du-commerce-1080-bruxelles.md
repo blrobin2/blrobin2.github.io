@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/3XFDhH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “How could you know? You’re not a woman”
@@ -31,8 +30,9 @@ Delphine Seyrig Is so good in this, the camera is on her practically the entire 
 This is extremely my deal, I love this
 
 <b>Stray thoughts:</b>
-* The color grading for this is perfect 
-* I want a light switch over my bed!
-* I want the silverware drawer to be built into the table!
-* Watching her peel potatoes was so nerve-wracking, I was so sure she was going to cut herself somehow
-* Belgian waffles in the display case at the grocery, that rules
+
+- The color grading for this is perfect
+- I want a light switch over my bed!
+- I want the silverware drawer to be built into the table!
+- Watching her peel potatoes was so nerve-wracking, I was so sure she was going to cut herself somehow
+- Belgian waffles in the display case at the grocery, that rules

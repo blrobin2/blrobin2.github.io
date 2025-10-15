@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/7209ix
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The only way to watch this movie is unbearably high. Tweedledee and Tweedledum will haunt my nightmares.

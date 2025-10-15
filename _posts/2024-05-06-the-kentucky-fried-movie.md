@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6q3kd3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 19/52 | USA Up All Night">Cult Movie Challenge 2024 | 19/52 | USA Up All Night</a></b>

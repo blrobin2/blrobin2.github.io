@@ -6,15 +6,14 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/6hMWXd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 48/52 | Hammer Horror</a></b>
 
 <blockquote><i>98% of so-called Satanists are nothing but pathetic creeps.</i></blockquote>
 
-Father Michael Rayner refuses to recant his heretical views. So, the church excommunicates him. Twenty years later, Rayner oversees a convent called the Children of Our Lord. They release Catherine Beddows on her eighteenth birthday. 
+Father Michael Rayner refuses to recant his heretical views. So, the church excommunicates him. Twenty years later, Rayner oversees a convent called the Children of Our Lord. They release Catherine Beddows on her eighteenth birthday.
 
 John Verney reluctantly attends a book release party for his new book, The Devil Walks Among Us, which focuses on the occult. Catherine’s father Henry crashes the party to find John.
 

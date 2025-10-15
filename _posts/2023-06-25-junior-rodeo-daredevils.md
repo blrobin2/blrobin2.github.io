@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4qaUML
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Jim Henson’s Last Picture Show Babies

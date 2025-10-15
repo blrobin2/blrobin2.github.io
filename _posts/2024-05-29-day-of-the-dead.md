@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6zjIoR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 28/31 | Romero Dead</a></b>

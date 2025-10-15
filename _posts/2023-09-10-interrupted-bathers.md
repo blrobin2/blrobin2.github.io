@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4P9jlh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 4.4 on IMDb, can't see anything with those barrels in the way

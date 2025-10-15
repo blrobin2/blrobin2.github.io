@@ -6,13 +6,12 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5Sj4Ib
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* We like it very much.
-* It destroyed them completely, except for their salad bowls!
-* An exchange of deadly negative scratches
-* Hold on, I'm getting a Dodgers game here
-* Oh professor, I forgot to water your plants
-* Prince of Crossing Guards
+- We like it very much.
+- It destroyed them completely, except for their salad bowls!
+- An exchange of deadly negative scratches
+- Hold on, I'm getting a Dodgers game here
+- Oh professor, I forgot to water your plants
+- Prince of Crossing Guards

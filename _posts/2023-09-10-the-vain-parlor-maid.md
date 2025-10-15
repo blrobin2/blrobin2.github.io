@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4Pb0Xv
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Unrealistic body standards and all that

@@ -6,15 +6,14 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/58iUPR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Tombstone, Arizona in the 1880s</b>
 
 <i>Forty Guns</i> is an unusual tragedy and an unintentional one at that. A powerful and wealthy woman forsakes it all for love. As the movie song says, "She's only a woman after all."
 
-Jessica Drummond (Barbara Stanwyck) is supposed to be the center of the movie, and it's her posse, The Dragoons, after which they named the movie. 
+Jessica Drummond (Barbara Stanwyck) is supposed to be the center of the movie, and it's her posse, The Dragoons, after which they named the movie.
 
 When Griff Bonnell (Barry Sullivan) arrives in town, he plants the seed of her demise. And when Jessica's brother, Brockie Drummond, shoots US Marshal John Chisholm in cold blood, it's only a matter of time.
 

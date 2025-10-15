@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6WJV6F
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 For some reason, they showed this episode after the sequel this season. I still can't find the KTMA <i>Star Force: Fugitive Alien II</i> episode, but I'm also not looking super hard yet. Both movies are two episodes of <i>Star Wolf</i> soldered together. Sandy Frank, not Gerry Anderson.

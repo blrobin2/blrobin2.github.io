@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/91DFQr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>This film is shot entirely inside the video game Grand Theft Auto Online, a violent and beautiful virtual world where almost anything is possible…</i></blockquote>

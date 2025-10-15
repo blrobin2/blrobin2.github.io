@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/41UdCP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The difference between Tommy Wiseau’s <i>The Room</i> and everything he did after is that once he is “in” on the joke, the joke isn’t funny anymore, because he doesn’t know what made it funny in the first place

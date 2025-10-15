@@ -4,10 +4,9 @@ title: "The Pod Generation (2023)"
 excerpt: "My review of The Pod Generation (2023)"
 rating: "1.5"
 letterboxd_url: https://boxd.it/5fFXib
-mst3k: 
-rifftrax: 
-category: movie_review
-
+mst3k:
+rifftrax:
+category: movie-review
 ---
 
 Welcome to the future. Digital assistants mediate all tasks. Bread is 3D printed. Devices measure and quantify bliss. So many ASMR videos.
@@ -18,7 +17,7 @@ Rachel works for a tech influencer company. She unveils their newest product —
 
 Plant life is sparse outside of select oases designed for relaxation. Oxygen bars isolate plants with mask hookups.
 
-Bees are extinct. We artificially pollinate fruit and plants. 
+Bees are extinct. We artificially pollinate fruit and plants.
 
 Alvy is a botanist and professor. He offers a fresh fig to a student. They are upset and confused that he offered them something from a tree.
 

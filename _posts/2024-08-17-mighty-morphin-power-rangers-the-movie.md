@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/77gzB3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Action boy now! Action girl now!

@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4Q27DD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I done think he actually made her disappear

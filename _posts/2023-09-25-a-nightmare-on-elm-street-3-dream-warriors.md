@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/4TnXMB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Sleep.
@@ -22,12 +21,12 @@ We learn that Kristen has the gift of pulling people into her dreams, and she pu
 Straight away, the atmosphere is so much creepier than in 2, but Craven has never been able to avoid a little goofiness here and there. Still, this feels human and cohesive in a way that I can forgive some slower moments
 
 It does not let up on the bizarro kills and effects, though:
-* The faucet turns into Freddy's claws
-* The roasted pig coming alive
-* Slimy worm Kreuger swallowing Kristin
-* The TV set comes alive
-* the souls of children embedded in Kreuger's body like sores
-*<i> Jason and the Argonauts</i>-style skeletons
+
+- The faucet turns into Freddy's claws
+- The roasted pig coming alive
+- Slimy worm Kreuger swallowing Kristin
+- The TV set comes alive
+- the souls of children embedded in Kreuger's body like sores \*<i> Jason and the Argonauts</i>-style skeletons
 
 The chemistry between Patricia Arquette and Heather Langenkamp feels special — Nancy is such an inspiring character who found the ability to escape Freddy and live her life but gives that up to help these kids. Kristen is sensitive and frightened, but through Nancy, she finds the strength to be who she sees herself as
 

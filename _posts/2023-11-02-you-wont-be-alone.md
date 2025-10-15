@@ -6,15 +6,14 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/55WWLl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 1/34 | Countries 1/6 | Serbia</b>
 
 <blockquote><i>It's a burning, hurting thing, this world — a biting, retching thing. And yet… And yet…</i></blockquote>
 
-A witch named Old Maid Maria claims a woman's infant daughter named Nevena, rendering her mute. The mother tries to hide Nevena away in a cave her whole life. 
+A witch named Old Maid Maria claims a woman's infant daughter named Nevena, rendering her mute. The mother tries to hide Nevena away in a cave her whole life.
 
 Then, at 16, Maria appears, assuming the mother's form, leading Nevena into the woods. There, Maria uses her one witching spit to turn Nevena into a witch like her. When Nevena does not consume living things the way Maria does, Maria abandons her to fend for herself.
 

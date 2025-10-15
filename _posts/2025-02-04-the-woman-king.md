@@ -6,13 +6,13 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/8IQyb7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 37/52 | Edited by Terilyn A. Shropshire</a></b>
 
 <b>West Africa 1823</b>
+
 <blockquote><i>The African Kingdom of Dahomey is at a crossroads. A new king, Ghezo, has just taken power. Their enemy, the Oyo Empire, has joined forces with the Mahi people to raid Dahomey villages and sell their captives to European slavers, an evil trade that has pulled both nations into a vicious circle. The powerful Oyo have new guns and horses, but the young king has his own fearsome weapon: an elite force of female soldiers, the Agojie, led by a general, Nanisca. Now, these warriors are all that stand between the Oyo and Dahomey’s annihilation.</i></blockquote>
 
 The Agojie raids the Mahi village to save the Dahomean women they abducted to sell as slaves. Horseshoes prove Nansica right—the Oyo were responsible. They’ll need stronger warriors to prepare for the coming battles.

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5N0YJB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 7/32 | Decades 1/6 | 1930s</a></b>
@@ -39,13 +38,13 @@ Everyone does solid stunt work! It looks good enough for these purposes.
 
 I wish we had more one-hour movies these days. This movie is the perfect length for its story. That said, some of the conversation scenes drag, but not unbearably so.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* The boat's effects are so great! I want to see how they set up the set that tosses back and forth, sending the men and furniture flying.
-* I love the knocker on the door of the fanged man with an arrow in his chest carrying a woman. It's probably racist, but not in any immediate way I can parse.
-* The Count is such a creep — those enormous eyes.
-* "Now I know how the animals I hunted felt." In case it wasn't clear.
-* No, not the dogs! :(
-* The Count needs to learn a second song on the piano.
-* Oh wow, he beats Mr. Burns on hounds.
-* Woah, they threw that knife!
+- The boat's effects are so great! I want to see how they set up the set that tosses back and forth, sending the men and furniture flying.
+- I love the knocker on the door of the fanged man with an arrow in his chest carrying a woman. It's probably racist, but not in any immediate way I can parse.
+- The Count is such a creep — those enormous eyes.
+- "Now I know how the animals I hunted felt." In case it wasn't clear.
+- No, not the dogs! :(
+- The Count needs to learn a second song on the piano.
+- Oh wow, he beats Mr. Burns on hounds.
+- Woah, they threw that knife!

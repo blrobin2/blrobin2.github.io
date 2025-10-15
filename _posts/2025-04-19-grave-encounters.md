@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9rTcad
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 29/52 | Found Footage</a></b>
@@ -24,8 +23,8 @@ The film does a great job of parodying these shitty ghost-hunter shows. Sean Rog
 
 I never hated it, but I was barely on board by the end.
 
+<b>**_ Stray Thoughts/Spoilers _**</b>
 
-<b>*** Stray Thoughts/Spoilers ***</b>
-* The doctored photos of Dr. Arthur Friedkin are so funny. I assume his name is a nod to William Friedkin, a la The Exorcist.
-* It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.
-* It's been five days, and bro is eating raw rat.
+- The doctored photos of Dr. Arthur Friedkin are so funny. I assume his name is a nod to William Friedkin, a la The Exorcist.
+- It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.
+- It's been five days, and bro is eating raw rat.

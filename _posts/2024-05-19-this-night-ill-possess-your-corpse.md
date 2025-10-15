@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6uWeTD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 18/31 | Before 1970 6/6">Hooptober 4.0 | 18/31 | Before 1970 6/6</a></b>
@@ -16,7 +15,7 @@ Coffin Joe is back, baby, and he is still obsessed with the continuity of his bl
 
 But when given the opportunity, will he take it?
 
- The "horror" is ultimately a Christian fear of an atheist who reproduces. And yet the film's sharpest critique is unintentional — Coffin Joe and the church take the same stand on the value of children's lives over women's, especially when only one can be saved during childbirth.
+The "horror" is ultimately a Christian fear of an atheist who reproduces. And yet the film's sharpest critique is unintentional — Coffin Joe and the church take the same stand on the value of children's lives over women's, especially when only one can be saved during childbirth.
 
 I love the handwritten opening credits! The images they use sell the fucked up experience you're about to have
 

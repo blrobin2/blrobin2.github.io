@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9mkqzh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I can't recall seeing cinematic collage in this style—gripping, haunting stuff!

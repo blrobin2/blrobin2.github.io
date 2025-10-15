@@ -6,11 +6,10 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/63ko2l
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Was <i>Sorry to Bother You</i> too confrontational? Did <i>Dear White People</i> still make you feel guilty? Was <i>American Fiction</i>'s dated critique too pointed? 
+Was <i>Sorry to Bother You</i> too confrontational? Did <i>Dear White People</i> still make you feel guilty? Was <i>American Fiction</i>'s dated critique too pointed?
 
 Here's a toothless movie about white fragility that doesn't functionally critique the respectability politics it lampoons. But don't worry, we get a speech near the end that amounts to, "Did you know Black Lives Matter?"
 

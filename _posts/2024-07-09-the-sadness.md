@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6PQkbT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 7/31 | Countries 2/5 | Taiwan</a></b>

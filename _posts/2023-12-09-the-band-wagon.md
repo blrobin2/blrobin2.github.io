@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/5icKyz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I feel like I'm missing something.

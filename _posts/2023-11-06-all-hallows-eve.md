@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/57pKjV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 On Halloween night, Timmy and Tia go through their candy haul. An unlabeled VHS tape falls out of Timmy's candy bag. The babysitter is understandably reluctant, but the kids won't give it up, so she agrees to watch it.

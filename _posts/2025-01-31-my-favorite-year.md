@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/8FLaO3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Cult Movie Challenge 2024 | 50/52 | Cameron Mitchell</a></b>

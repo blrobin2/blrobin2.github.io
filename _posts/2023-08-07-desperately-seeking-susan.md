@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4EI5fZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>Desperate. I love that word — it's so romantic.</i></blockquote>Roberta is married and unhappy with her life, following the exploits of Susan and Jim in their want ad romance, whose title is always "Desperately Seeking Susan." She decides to go to their meeting place and follow Susan, getting to know her mannerisms and style. 
@@ -23,9 +22,10 @@ Great screwball comedy of errors, like a great episode of <i>Fraiser</i> — tig
 I love it!
 
 <b>stray thoughts</b>
-* Rosanna Arquette and Susan Seidelman look like sisters 
-* Laurie Metcalf!
-* Cat licking the aquarium, so cute
-* Coffee shop playing "Someday, Someway" by Marshall Crenshaw — I love that song
-* Woah, the reunited triplets from the Three Identical Strangers documentary have a cameo!
-* Rum and Tab, I wish I could order that
+
+- Rosanna Arquette and Susan Seidelman look like sisters
+- Laurie Metcalf!
+- Cat licking the aquarium, so cute
+- Coffee shop playing "Someday, Someway" by Marshall Crenshaw — I love that song
+- Woah, the reunited triplets from the Three Identical Strangers documentary have a cameo!
+- Rum and Tab, I wish I could order that

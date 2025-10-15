@@ -6,19 +6,18 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/4t65Cf
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-* You lost the last of the wild horses, you dink!
-* Way to go Ted, now we have to talk to him again
-* Foot Fetishists of the Old West!
-* I’m so sick of gingham I could scream!
-* Hello, I’m Susan, I’ll be our daughter today
-* Wow this place is crawling with Holly Hobbies
-* Psst, wanna get sequestered later?
-* It’s a plot device! It’s very flimsy so be careful
-* Just don’t tickle me — I’m thin and it wouldn’t be fairly
+- You lost the last of the wild horses, you dink!
+- Way to go Ted, now we have to talk to him again
+- Foot Fetishists of the Old West!
+- I’m so sick of gingham I could scream!
+- Hello, I’m Susan, I’ll be our daughter today
+- Wow this place is crawling with Holly Hobbies
+- Psst, wanna get sequestered later?
+- It’s a plot device! It’s very flimsy so be careful
+- Just don’t tickle me — I’m thin and it wouldn’t be fairly
 
 <b>From the actual movie</b>
 

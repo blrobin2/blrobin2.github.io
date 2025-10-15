@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/8YKzBn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 1/52 | Ozploitation</a></b>

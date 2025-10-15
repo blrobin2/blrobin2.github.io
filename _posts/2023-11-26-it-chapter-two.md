@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/5dI2a3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 29/34 | Stephen King adaptation that is not the first go around</b>

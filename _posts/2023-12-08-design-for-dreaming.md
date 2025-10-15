@@ -6,13 +6,12 @@ rating: ""
 letterboxd_url: https://boxd.it/5hNidt
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 For a GM commercial, this looks great!
 
-* Sometimes a sun hat is just a sun hat
-* [inarticulate angry grunting]
-* Dead raccoon of tomorrow
-* Conspicuous consumption makes our love stronger
+- Sometimes a sun hat is just a sun hat
+- [inarticulate angry grunting]
+- Dead raccoon of tomorrow
+- Conspicuous consumption makes our love stronger

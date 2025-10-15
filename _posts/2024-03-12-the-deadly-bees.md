@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/62362T
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <i>Movie CW // Misogyny, Animal Abuse, Verbal Abuse
@@ -17,7 +16,7 @@ The <i>MST3K</i> writers discovered dreary British horror and continue to return
 
 When Mike kissed GPC, I briefly worried about his wife. They've really humanized these puppets for me.
 
-* Please! According to physicists, we can't fly!
-* That's the Hee Haw font — how can it be deadly?
-* My name is Manfred. Perhaps you've heard of my Earth Band?
-* Can I offer you a cup of tobacco?
+- Please! According to physicists, we can't fly!
+- That's the Hee Haw font — how can it be deadly?
+- My name is Manfred. Perhaps you've heard of my Earth Band?
+- Can I offer you a cup of tobacco?

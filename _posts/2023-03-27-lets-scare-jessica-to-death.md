@@ -6,11 +6,10 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/42nyN3
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Masking your emotions may hide the problem from those who may do you harm — isn’t that why we learn to mask in the first place? — but if let ourselves believe this is who we really are, we can lose sense of ourselves 
+Masking your emotions may hide the problem from those who may do you harm — isn’t that why we learn to mask in the first place? — but if let ourselves believe this is who we really are, we can lose sense of ourselves
 
 Part of how we learn who we are is by voicing it out loud to people you trust. And when you’re in a place with only a couple of voices, you may not have much opportunity — so much so that you may invite a stranger to stay just to have someone else to talk to
 

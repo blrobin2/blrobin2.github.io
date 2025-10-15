@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5zH19p
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 12/34 | From 1981 1/4 | Decades 5/8 | 80s</a></b>

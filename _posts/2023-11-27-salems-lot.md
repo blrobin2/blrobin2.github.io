@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5e11nD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 31/34 | Tobe Hooper</b>

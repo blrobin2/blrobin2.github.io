@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/4GU0Gj
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Based on the book <i>The Talented Mr. Ripley</i>, Tom Ripley (Alain Delon) and Philippe Greenleaf (Maurice Ronet) are two assholes cavorting about Rome. Through Philippe, we learn that Tom is a great liar and forger — traits we can only assume but cannot confirm, as Philippe's rich boy's disregard for others is hard to stomach

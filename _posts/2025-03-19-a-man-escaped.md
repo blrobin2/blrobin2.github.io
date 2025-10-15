@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/9anX03
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 44/52 | 1950s</a></b>

@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3N1RzF
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 At some point I realized that I had seen this before but I forgot most of the plot points

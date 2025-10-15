@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/5kbqSl
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 43/52 | 1940s</b>

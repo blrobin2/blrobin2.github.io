@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4ZQEc7
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 17/34 | Amicus | Decade 4/8 | 60s</b>

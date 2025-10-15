@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/70vg2F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 1/31 | Decades 1/10 | 2010s</a></b>

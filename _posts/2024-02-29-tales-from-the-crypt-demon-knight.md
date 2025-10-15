@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5W960V
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 29/32 | black director or predominantly black cast or lead 2/2</a></b>
@@ -27,22 +26,22 @@ The Collector emerges and warns them about Frank — that Frank is a dangerous t
 
 The Collector condemns the property, spilling his neon green blood on the ground. The blood oozes and emits flames, congealing together into demons — tortured slaves of hell. So, Frank rallies them — so long as they stick together, they'll make it through the night. But The Collector has a few tricks up his sleeve.
 
-The movie's lore is extensive. It's weird and sacrilegious, and I love it. 
+The movie's lore is extensive. It's weird and sacrilegious, and I love it.
 
 All the practical effects look good enough and are so much fun. It's super gory. I love mid-90s goop. The Crypt Keeper may have had some digital effects, but it's not overt.
 
 This ends up being a demonic <i>Assault on Precinct 13</i>, which rules.
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* I swear I'm not actively seeking Dick Miller movies — he's in everything!
-* There's a flashback to the crucifixion. The blood in the key is Jesus' blood.
-* Frank fought in WWI?
-* Frank gives them the story and starts with Genesis. The darkness wasn't empty — it was full of demons! The keys bring back the darkness.
-* The temptation scenes are so neat.
-* If Billy Zane hit on me, I would simply do everything he asked.
-* Kid and Willy are reading "Tales from the Crypt" comics.
-* Willy's temptation is a room full of topless women drinking scotch.
-* Billy Zane's Dick Miller impersonation is pretty spot on.
-* The comic mirroring the events is neat.
-* The Crypt Keeper asked for final cut, so they decapitated him.
+- I swear I'm not actively seeking Dick Miller movies — he's in everything!
+- There's a flashback to the crucifixion. The blood in the key is Jesus' blood.
+- Frank fought in WWI?
+- Frank gives them the story and starts with Genesis. The darkness wasn't empty — it was full of demons! The keys bring back the darkness.
+- The temptation scenes are so neat.
+- If Billy Zane hit on me, I would simply do everything he asked.
+- Kid and Willy are reading "Tales from the Crypt" comics.
+- Willy's temptation is a room full of topless women drinking scotch.
+- Billy Zane's Dick Miller impersonation is pretty spot on.
+- The comic mirroring the events is neat.
+- The Crypt Keeper asked for final cut, so they decapitated him.

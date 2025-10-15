@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/9VdEvp
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 48/52 | Hammer Horror</a></b>

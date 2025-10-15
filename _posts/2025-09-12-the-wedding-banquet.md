@@ -6,8 +6,7 @@ rating: "4.0"
 letterboxd_url: https://boxd.it/b2EYS9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 16/52 | Taiwanese New Wave Cinema</a></b>
@@ -28,7 +27,7 @@ Unlike most romcoms, this movie doesn't take melodramatic turns to create stakes
 
 I love the look of the film! The 35mm film gives everything a warmth. The lighting is thoughtful but subtle, opting out of the romcom perspective of shimmering flatness in favor of real-world groundedness.
 
-Nothing dates this movie more than Simon buying Wai a cellular phone as a birthday present. The thing looks like a walkie-talkie. 
+Nothing dates this movie more than Simon buying Wai a cellular phone as a birthday present. The thing looks like a walkie-talkie.
 
 From the premise, I was apprehensive about yet another gay panic farce. But the filmmaking and characters contain so much warmth and humor that I found myself charmed and emotionally invested throughout.
 

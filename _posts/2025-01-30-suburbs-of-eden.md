@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8FnOqn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>It almost seems as though I might have never needed you</i></blockquote>

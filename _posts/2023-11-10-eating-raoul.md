@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/58svVZ
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | Decades 3/8 | 1980s</b>
@@ -40,7 +39,8 @@ The whimsical and leading soundtrack undercuts the humor. The film doesn't trust
 The movie's destination is obvious. I only wish it got there sooner. The movie's punchline is not as ferocious as the lead-up would suggest.
 
 <b>Stray Thoughts</b>
-* This movie first came on my radar when watching Joe Bob Briggs talk about Mary Woronov and Paul Bartel reprising their roles as Mary and Paul Bland in the movie <i>Chopping Mall</i>.
-* I've never heard someone being called a "hard-off" before.
-* Chez Bland is an amazing restaurant name
-* Ed Begley Jr as a hippie is… well, accurate
+
+- This movie first came on my radar when watching Joe Bob Briggs talk about Mary Woronov and Paul Bartel reprising their roles as Mary and Paul Bland in the movie <i>Chopping Mall</i>.
+- I've never heard someone being called a "hard-off" before.
+- Chez Bland is an amazing restaurant name
+- Ed Begley Jr as a hippie is… well, accurate

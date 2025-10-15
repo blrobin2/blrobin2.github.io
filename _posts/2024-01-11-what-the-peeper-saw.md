@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/5yDAtd
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 5/52 | Giallo">Cult Movie Challenge 2016 | 5/52 | Giallo</a></b>
@@ -36,23 +35,22 @@ I worry about Mark Lester's mental health after being in movies like this.
 
 On the surface, this is another bad seed story. Underneath, however, is something disturbing and wild.
 
-
-
 <b>Thoughts/Spoilers</b>
-* I recently saw Britt Ekland as Mary Goodnight in The Man with the Golden Gun.
-* Phenology - the study of seasons and cycles. I guess Marcus is supposed to be a little genius.
-* Squeezing water out of a toy positioned at his hip
-* The film has a lovely giallo soundtrack by Stelvio Cipriani. He also composed for Bay of Blood, Pieces, and The Laughing Woman, among others.
-* Elise has that hair bump that makes her hair look massive
-* Marcus has visions of drowning Elise.
-* Marcus watching the pig butchered
-* Big yikes at the nude black woman covered in fruit at an otherwise white party.
-* Marcus swinging his cricket bat while talking about Sarah
-* The painting of Sarah on the cross — I guess that's Sophie's art style.
-* "Hey genius, what are you reading, De Sade?" Elise drunkenly berates Marcus
-* Paul pushing Elise over and not helping her up was heartbreaking. She does the little handshake like, "Oh, come off it and help me," but he walks away in disgust.
-* Elise stripping for Marcus to get info out of him is fucking wild
-* Marcus throws rocks at the dead dog in the pool
-* That did... not go how I expected
-* Oh no. Oh no 😬 
-* Wait what???
+
+- I recently saw Britt Ekland as Mary Goodnight in The Man with the Golden Gun.
+- Phenology - the study of seasons and cycles. I guess Marcus is supposed to be a little genius.
+- Squeezing water out of a toy positioned at his hip
+- The film has a lovely giallo soundtrack by Stelvio Cipriani. He also composed for Bay of Blood, Pieces, and The Laughing Woman, among others.
+- Elise has that hair bump that makes her hair look massive
+- Marcus has visions of drowning Elise.
+- Marcus watching the pig butchered
+- Big yikes at the nude black woman covered in fruit at an otherwise white party.
+- Marcus swinging his cricket bat while talking about Sarah
+- The painting of Sarah on the cross — I guess that's Sophie's art style.
+- "Hey genius, what are you reading, De Sade?" Elise drunkenly berates Marcus
+- Paul pushing Elise over and not helping her up was heartbreaking. She does the little handshake like, "Oh, come off it and help me," but he walks away in disgust.
+- Elise stripping for Marcus to get info out of him is fucking wild
+- Marcus throws rocks at the dead dog in the pool
+- That did... not go how I expected
+- Oh no. Oh no 😬
+- Wait what???

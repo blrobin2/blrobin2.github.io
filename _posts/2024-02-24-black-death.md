@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5TTwBt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 23/32 | disease-based 3/3</a></b>
@@ -24,7 +23,7 @@ Ulric (Sean Bean) arrives at the monastery to find a guide through Dentwich Fore
 
 When Osmund meets the other men in Ulric's team, they give him the complete story of the village — that it follows a demon who takes human sacrifice and raises people from the dead. The bishop wishes to bring the necromancer to execution.
 
-The movie follows the men on their journey and the trials they face. Their mission shows them the world of superstition that cannot understand the meaning of a plague. 
+The movie follows the men on their journey and the trials they face. Their mission shows them the world of superstition that cannot understand the meaning of a plague.
 
 The movie is a little dull until they arrive at the village. Then it turns into a medieval Wicker Man, at least for a bit.
 
@@ -39,8 +38,8 @@ I liked aspects of the score. It wasn't anything innovative, but it had some mot
 
 Overall, the movie is uneven and a bit of a drag. You might enjoy the story better than me.
 
+<b>**_ Spoiler Zone _**</b>
 
-<b>*** Spoiler Zone ***</b>
-* Langiva rolling her eyes during the prayer is a mood.
-* Of course, Sean Bean's death is brutal — dismemberment by horses.
-* I don't know why we needed Osmund to become Anakin in the movie's final five minutes.
+- Langiva rolling her eyes during the prayer is a mood.
+- Of course, Sean Bean's death is brutal — dismemberment by horses.
+- I don't know why we needed Osmund to become Anakin in the movie's final five minutes.

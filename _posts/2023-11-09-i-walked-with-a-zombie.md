@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/58bugn
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 8/34 | Decades 2/8 | 1940s</b>
@@ -25,7 +24,7 @@ Betsy sees a woman in a flowing gown walking the garden paths that night. Curiou
 
 <blockquote><i>Everything good dies here, even the stars.</i></blockquote>
 
-Jessica’s condition drove Paul’s half-brother, Wesley, to drink. 
+Jessica’s condition drove Paul’s half-brother, Wesley, to drink.
 
 Betsy overhears a song detailing Wesley and Jessica’s affair. They planned to leave the island, but Paul locked her in the tower. From there, Jessica developed a fever that irreparably damaged her spinal cord.
 

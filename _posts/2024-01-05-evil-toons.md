@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5uSwyx
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 2/52 | Fred Olen Ray</a></b>
@@ -34,16 +33,16 @@ It's also total sleaze, but it never pretends to be anything else — three of t
 
 Still, the movie is surprisingly funny and fun at times. It's dumb as hell and has no budget, but it has a consistent plot and developed lore, so I'm not mad.
 
-
 <b>Thoughts/Spoilers</b>
-* The tagline is: "This dude is rude!"
-* Reading a book about Frankenstein and moaning like Frankenstein's monster
-* "Do any of you guys read foreign languages?"
-* When Roxanne tried to open the wine with her teeth, I got so stressed
-* The evil toon is an  "awoooga" wolf that shows up for 90 seconds before morphing into Roxanne.
-* It's interesting how the scenes with the cartoons are not remastered. I guess their process would mess with the animation.
-* "What are you doing? We heard screams, and now you're naked and covered in blood!"
-* Dick Miller, watching <i>A Bucket of Blood</i>. "How come this guy never won an Academy Award?"
-* — "Is it worth a mere 100 bucks to be implicated in a murder?" — "Yes!"
-* When Megan screams, her ponytail stands up on end.
-* David Carradine has never been more useless
+
+- The tagline is: "This dude is rude!"
+- Reading a book about Frankenstein and moaning like Frankenstein's monster
+- "Do any of you guys read foreign languages?"
+- When Roxanne tried to open the wine with her teeth, I got so stressed
+- The evil toon is an "awoooga" wolf that shows up for 90 seconds before morphing into Roxanne.
+- It's interesting how the scenes with the cartoons are not remastered. I guess their process would mess with the animation.
+- "What are you doing? We heard screams, and now you're naked and covered in blood!"
+- Dick Miller, watching <i>A Bucket of Blood</i>. "How come this guy never won an Academy Award?"
+- — "Is it worth a mere 100 bucks to be implicated in a murder?" — "Yes!"
+- When Megan screams, her ponytail stands up on end.
+- David Carradine has never been more useless

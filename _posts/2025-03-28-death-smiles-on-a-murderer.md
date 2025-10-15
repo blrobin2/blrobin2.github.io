@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/9fl8Gt
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 14/52 | Joe D'Amato</a></b>
@@ -21,7 +20,7 @@ A maid, Gertrud, recognizes Greta and watches, curious and horrified. She runs b
 
 What the hell is going on? No, really, what's going on?
 
-This film is Gothic horror on steroids. It discards every iota of subtlety, keeping only the dread and mystery. It's magnetic and unusual. 
+This film is Gothic horror on steroids. It discards every iota of subtlety, keeping only the dread and mystery. It's magnetic and unusual.
 
 Did Klaus Kinski sign up for every movie where he gets to be a sex pest? What a piece of shit. A good portion of his time in this movie is spent pouring vials of different colored liquids into each other.
 
@@ -31,8 +30,7 @@ The score has some nice, haunted synth textures.
 
 Overall, I appreciate how weird and horny this is, but I can't say I connected with it. I wanted to love it more, but I guess I never got on its wavelength.
 
-
-<b>*** Stray Thoughts / Spoilers ***</b>
+<b>**_ Stray Thoughts / Spoilers _**</b>
 This movie goes beyond Dutch angles to dick angles — the camera is staring up at us from right between his legs. 
 During the hunting scene, they're just throwing dead birds from off-screen.
 Walter is falling in love with Greta, who I presume is his dead mother.

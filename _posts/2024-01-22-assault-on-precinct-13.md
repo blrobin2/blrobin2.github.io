@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5ECD77
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 14/52 | John Carpenter</a></b>

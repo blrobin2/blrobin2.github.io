@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/8BCe3L
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Neal put this on at 1:30AM, and I got to where Kareem Abdul-Jabbar gave Ernest the fancy shoes before calling it

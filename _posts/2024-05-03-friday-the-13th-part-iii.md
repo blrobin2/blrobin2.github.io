@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6osQpH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 2/31 | Sequels 2/6</a></b>
@@ -28,12 +27,11 @@ The movie uses the recurring motif of a dead rabbit to signal danger — not sub
 
 This movie is so formulaic that I should be bored. On the contrary, it’s so predictable that it’s a little comforting?
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* I wish I could watch this in 3D, but it would be a lot of yo-yos and popcorn, so I'm not missing much.
-* Rick is horny and fit as fuck
-* Shelly’s pranks are so elaborate
-* Andy’s handstands
-* Reading Fangoria
-* 3D eyeball
-
+- I wish I could watch this in 3D, but it would be a lot of yo-yos and popcorn, so I'm not missing much.
+- Rick is horny and fit as fuck
+- Shelly’s pranks are so elaborate
+- Andy’s handstands
+- Reading Fangoria
+- 3D eyeball

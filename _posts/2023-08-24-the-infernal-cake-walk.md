@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/4K7CV5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I feel like this inspired Bill Skarsgård's Pennywise dance in <i>It</i>

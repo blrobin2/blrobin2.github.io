@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/6e4RaP
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <blockquote><i>— Sister, why is there a bad room?
@@ -19,7 +18,7 @@ Still, this is one of the best horror movies I've seen this year. I was unnerved
 
 Also, this might be the most effective pro-choice movie, at least that I've seen.
 
-The teeth imagery!! The stairs, the candles... <b>*chefs kiss*</b>
+The teeth imagery!! The stairs, the candles... <b>_chefs kiss_</b>
 
 <blockquote><i>— don't you hear God's voice?
 </i><i>— no, I only hear my own</i></blockquote>

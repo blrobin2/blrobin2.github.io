@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/6UKyCR
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 8</a></b>

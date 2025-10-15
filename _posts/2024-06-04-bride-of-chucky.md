@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6BLq6J
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 3/31 | Franchise 3/7</a></b>

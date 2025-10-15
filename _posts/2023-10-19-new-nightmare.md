@@ -6,15 +6,14 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/51cEKr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X ">Hooptober X </a>| 21/34 | Wes Craven | Decades 6/8 | 90s</b>
 
 Freddy cuts off his hand. CUT! We're on a movie set, and the props department is pumping fake blood and tinkering with animatronic claws. The claws come alive and stab someone in the neck. They walk around like Thing, going stabby stabby
 
-EARTHQUAKE! Heather Langenkamp wakes up with her husband and child and runs to safety 
+EARTHQUAKE! Heather Langenkamp wakes up with her husband and child and runs to safety
 
 She gets a call from New Line Cinema that Wes Craven is having nightmares again, and he has a new one in mind
 
@@ -28,5 +27,5 @@ So many car phones, the wave of the future
 
 In the end, it's self-justifying, but wasn't worth making, with Wes Craven or otherwise
 
-<b>*** SPOILERS ***</b>
+<b>**_ SPOILERS _**</b>
 This Freddy is supposed to be darker and scarier, but besides his clothes and claws, he's the same. His tongue is pretty gross, though

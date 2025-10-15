@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3Z3u7b
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Our introduction to the family has major <i>Leave It to Beaver</i> vibes — wholesome and unassuming. “By gum, I’ll try!” Gee whiz
@@ -25,7 +24,8 @@ Patty McCormack has a lot to do as a child actor, and while she may not pull it 
 This movie fucked me up! It doesn’t hold punches, and it doesn’t relent
 
 <b>Stray thoughts:
-</b>* Love the ominous opening of the storm over the lake, then the turn to the city just off in the distance
-* The scenes with Claude’s mother are devastating, she’s so lost and heartbroken
-* The credits are voiced and the actors step out, like it’s a stage play. I guess to show that the actors actually like each other
-* Another movie with a card at the end asking people not to spoil it! Very neat
+</b>\* Love the ominous opening of the storm over the lake, then the turn to the city just off in the distance
+
+- The scenes with Claude’s mother are devastating, she’s so lost and heartbroken
+- The credits are voiced and the actors step out, like it’s a stage play. I guess to show that the actors actually like each other
+- Another movie with a card at the end asking people not to spoil it! Very neat

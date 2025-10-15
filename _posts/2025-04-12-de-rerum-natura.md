@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/9nEPoH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Presented by director at <a href="https://shadowboxstudio.org/events/roger-beebe-films-for-one-to-eight-projectors/">Shadowbox Studio</a>

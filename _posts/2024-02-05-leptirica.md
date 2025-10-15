@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5Ly145
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 4/32 | Countries 4/6 | Yugoslavia</a></b>

@@ -6,8 +6,7 @@ rating: "2.5"
 letterboxd_url: https://boxd.it/5URFYr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 9/52 | 1990s</a></b>
@@ -26,6 +25,6 @@ This movie led to the development of the Medal of Honor games, which led to the 
 
 The film is self-aware — Spielberg knew that a mission of 8 men to save 1 is reckless sentimentality on behalf of the higher-ups. But if you want to have a nuanced argument with your audience, you don't make Tom Hanks your misguided hero.
 
-The Matt Damon Aging meme ruined the final reveal for folks like me who hadn't seen it — that the veteran at the beginning is not John Miller, but the titular Private Ryan. His visit to the grave is a reverent outpouring for the sacrifice that led to his survival. 
+The Matt Damon Aging meme ruined the final reveal for folks like me who hadn't seen it — that the veteran at the beginning is not John Miller, but the titular Private Ryan. His visit to the grave is a reverent outpouring for the sacrifice that led to his survival.
 
 This movie is a highly influential technical marvel, and I don't feel great about that.

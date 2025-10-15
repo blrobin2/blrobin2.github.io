@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/asRg6H
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 4/52 | Shaw Brothers</a></b>
@@ -28,12 +27,12 @@ I wish I enjoyed the fights more! They're great spectacles, but they're such non
 
 I'm still new to Shaw Brothers movies, so I'm not sure how this one compares to others. I found it enjoyable despite its problematic subject matter.
 
+<b>**_ Stray Thoughts _**</b>
 
-<b>*** Stray Thoughts ***</b>
-* I love how easy it is for them to forge operational iron legs and arms.
-* Lo Mang is so ripped, holy shit — he's the only one who has his shirt off throughout most of the movie.
-* The leaf scene is sick.
-* The ring dance might be my favorite sequence I've seen in a Shaw Brothers movie.
-* Why do those guys fight with cymbals? Oh, I guess to distract the blind guy.
-* Iron foot to the heart — fucking brutal.
-Oh hell yeah, they brought back the rings.
+- I love how easy it is for them to forge operational iron legs and arms.
+- Lo Mang is so ripped, holy shit — he's the only one who has his shirt off throughout most of the movie.
+- The leaf scene is sick.
+- The ring dance might be my favorite sequence I've seen in a Shaw Brothers movie.
+- Why do those guys fight with cymbals? Oh, I guess to distract the blind guy.
+- Iron foot to the heart — fucking brutal.
+  Oh hell yeah, they brought back the rings.

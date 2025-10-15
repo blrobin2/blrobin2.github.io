@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9bpS7B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 11/52 | Spaghetti Western</a></b>
@@ -28,7 +27,7 @@ But as Silence shows, two can play that game. There is no victory when only one 
 
 Klaus Kinski has never had trouble playing a villain in real life or movies. His character was supposedly influenced by Gorca in Bava's <i>Black Sabbath</i>.
 
-Jean Louis Trintignant only did this Western, but he demonstrated that he knew exactly how to play the revisionist Western protagonist — not good, but not as bad as the other. 
+Jean Louis Trintignant only did this Western, but he demonstrated that he knew exactly how to play the revisionist Western protagonist — not good, but not as bad as the other.
 
 The score has some tremendous moments—definitely my favorite part of the movie.
 

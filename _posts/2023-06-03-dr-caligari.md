@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/4k1U0F
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 “Your wife has a disease of the libido”

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/6lbHj5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b>Northern California, 1980s</b>

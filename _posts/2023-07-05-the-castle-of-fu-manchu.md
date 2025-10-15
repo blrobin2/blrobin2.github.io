@@ -6,8 +6,7 @@ rating: "1.0"
 letterboxd_url: https://boxd.it/4tb2xV
 mst3k: true
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 The Frank Conniff intro on the DVD helped to understand why this MST3K is not that great

@@ -6,8 +6,7 @@ rating: "1.5"
 letterboxd_url: https://boxd.it/42yqer
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Watching a restored 96 version of this because it was available. Wish I found the 74 minute version…

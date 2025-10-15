@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5feO5X
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Priests and pilgrims come to a pillar. Atop is Simon, who has stood there for six years, six months, and six days. To convey gratitude, they present Simon with a taller pillar.
@@ -38,7 +37,7 @@ To compensate for moments of confusion, he adds rules to his penance.
 
 Made during Buñuel's second exile in Mexico, the film pokes at renunciation before an everlasting God.
 
-Why invest all your time in someone who doesn't understand it? 
+Why invest all your time in someone who doesn't understand it?
 
 The humor ranges from astute to absurd, like an art-house Monty Python.
 

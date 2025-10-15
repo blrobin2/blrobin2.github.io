@@ -6,8 +6,7 @@ rating: "5.0"
 letterboxd_url: https://boxd.it/8zl3pz
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Movie Challenge 2023 | 1/52 | Kinema Junpo Awards Winner</a></b>

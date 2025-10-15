@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9lNLi1
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 23/52 | Euro Crime</a></b>

@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/9dJIbB
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 13/52 | 70s Disaster</a></b>
@@ -18,8 +17,8 @@ A slight tremor in LA comes and goes, but it somehow affected the Mulholland Dam
 
 We also meet Officer Lew Slade, who the captain suspended for punching a fellow cop. Another small quake traps two scientists, burying some measuring thingamajig. Miles Quade, a pseudo-Evel Knievel, has a dangerous stunt setup. Just read the cast list; it's endless. Thankfully, the filmmakers cut 30 more minutes of character setup to get to the actual movie. Walter receives confirmation of his numbers and warns the mayor. However, the mayor doesn't want to worry people, so he only alerts the National Guard and the police.
 
-Is Walter onto something? Or are we just wasting our time? Why not both? 
- 
+Is Walter onto something? Or are we just wasting our time? Why not both?
+
 In case you thought Hollywood's creative bankruptcy was a recent development, here's a movie whose sole purpose is to capitalize on the success of <i>Airport</i>. Universal had a Mario Puzo screenplay, but they found it too expensive and shelved it. But while Fox got their cash-in out first with <i>The Poseidon Adventure</i>, Universal jumped back on this. While they beat <i>The Towering Inferno</i> to theaters, <i>Inferno</i> beat out <i>Earthquake</i> critically and financially.
 
 Also, like so many movies these days, the cast is needlessly stacked to give the film legitimacy. Even Walter Matthau makes a cameo but demands to be credited as Walter Matuschanskaysky to avoid tarnishing his reputation. And, as you can see, these plots have nothing to do with the rest of the movie—they're little melodramas meant to connect us to the characters without any consideration for themes or cohesion.

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5LQRFD
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a rel="nofollow">Anti-Criterion Challenge 2024 | 6/52 | 1960s</a></b>
@@ -30,18 +29,18 @@ The color is lovely, though!
 
 Overall, I like the movies that this influenced more than the movie itself. For that reason, I'm glad it exists.
 
+<b>**_ Thoughts/Spoilers_**</b>
 
-<b>*** Thoughts/Spoilers***</b>
-* Gotta have jail scenes — that's all Capote knew.
-* This party scene has no perspective — it's just, "Look at these miserable shits."
-* Audrey Hepburn playing Moon River had to be the influence for Tracy playing La Vie en Rose in <i>How I Met Your Mother</i>
-* She married Doc when she was 14?? Good lord.
-* The striptease is weird.
-* Mancini's music suggests opulence when they walk into the brownest room I've ever seen.
-* They get a Cracker Jack ring engraved. Even then, they were questioning whether Cracker Jack still did that.
-* I enjoyed it when they ran by a couple in their masks, and the couple watched with such big smiles.
-* That pink dress is everything.
-* I teared up when she left Cat out in the rain. Unbelievably selfish and cruel.
-* The discordant variation of Moon River is fucking gorgeous.
-* Cat is all wet!! Someone help him :( Now I'm crying
-* Then Paramount+ tried to play some South Park thing seconds after the movie finished and I became irate.
+- Gotta have jail scenes — that's all Capote knew.
+- This party scene has no perspective — it's just, "Look at these miserable shits."
+- Audrey Hepburn playing Moon River had to be the influence for Tracy playing La Vie en Rose in <i>How I Met Your Mother</i>
+- She married Doc when she was 14?? Good lord.
+- The striptease is weird.
+- Mancini's music suggests opulence when they walk into the brownest room I've ever seen.
+- They get a Cracker Jack ring engraved. Even then, they were questioning whether Cracker Jack still did that.
+- I enjoyed it when they ran by a couple in their masks, and the couple watched with such big smiles.
+- That pink dress is everything.
+- I teared up when she left Cat out in the rain. Unbelievably selfish and cruel.
+- The discordant variation of Moon River is fucking gorgeous.
+- Cat is all wet!! Someone help him :( Now I'm crying
+- Then Paramount+ tried to play some South Park thing seconds after the movie finished and I became irate.

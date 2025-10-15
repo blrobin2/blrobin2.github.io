@@ -6,8 +6,7 @@ rating: "2.0"
 letterboxd_url: https://boxd.it/88CiP9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Isaac and his stepmother, Laura, walk the hospital halls to find James, Isaac's father, on life support. They are here to say goodbye. Bloody bandages obscure James's face.

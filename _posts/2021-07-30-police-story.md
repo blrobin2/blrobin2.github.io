@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/21U1qV
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 I love the fight sequence in the mall where the bystanders keep groaning at all of the painful-looking falls. And to be fair, it looks like they used real glass, so I’m sure several of them did hurt

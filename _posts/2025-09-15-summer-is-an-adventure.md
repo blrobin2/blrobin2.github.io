@@ -6,9 +6,8 @@ rating: ""
 letterboxd_url: https://boxd.it/b4kNT9
 mst3k: false
 rifftrax: true
-category: movie_review
-
+category: movie-review
 ---
 
-* I love going to A Nearby Lake!
-* Wee.
+- I love going to A Nearby Lake!
+- Wee.

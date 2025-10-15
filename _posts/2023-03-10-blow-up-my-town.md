@@ -6,8 +6,7 @@ rating: ""
 letterboxd_url: https://boxd.it/3XFUiH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 French New Wave <i>Jeanne Dielmann</i>

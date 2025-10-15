@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9oc9NX
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 34/52 | Midnight Madness: Cult Movies</a></b>

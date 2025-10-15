@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/6dSJu9
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 6/32 | Anniversary Film 5/10 | Countries 5/6 | Mexico | Decades 4/6 | 60s</a></b>

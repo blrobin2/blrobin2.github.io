@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/aIJJzh
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="">Oh My Horror 2025 | 33/52 | Witches</a></b>

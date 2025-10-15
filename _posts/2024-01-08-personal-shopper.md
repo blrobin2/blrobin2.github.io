@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/5x5afH
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Maureen (Kristen Stewart) is a personal shopper and medium living in Paris. She hates her job but feels like she cannot move forward until she receives a sign from her brother, Lewis.

@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/a8Z6CT
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 2/52 | Gothic Horror</a></b>

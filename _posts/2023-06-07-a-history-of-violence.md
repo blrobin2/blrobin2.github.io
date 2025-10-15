@@ -6,11 +6,10 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/4ljZhr
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
-Rewatching for a podcast 
+Rewatching for a podcast
 
 The guy who fucks his wife also shoots some bad fellas. The TV calls him a hero. Ed Harris and his friends recognize him, and the guy who fucks becomes the guy who doesn’t fuck around
 

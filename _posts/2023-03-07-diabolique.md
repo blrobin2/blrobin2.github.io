@@ -6,8 +6,7 @@ rating: "4.5"
 letterboxd_url: https://boxd.it/3WW52j
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 Simone Signoret is such a striking presence onscreen — especially with those sunglasses on — it’s hard to believe she works in a boarding school, but life happens to everyone

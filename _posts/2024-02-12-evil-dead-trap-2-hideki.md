@@ -6,8 +6,7 @@ rating: "3.0"
 letterboxd_url: https://boxd.it/5OyYV5
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 11/32 | 2nd film in franchise 3/7</a></b>

@@ -6,8 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/9K3C7B
 mst3k: false
 rifftrax: false
-category: movie_review
-
+category: movie-review
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 40/52 | Troma</a></b>
@@ -38,15 +37,15 @@ I was so on the fence with this movie, but through the magic of love and tastele
 
 <blockquote><i>Now you fucks have gone too far! Goddamn heads bouncing off of cars while Long Island families are singing "Found a Peanut" — well, he's "found a peanut," alright, honey. He's found a peanut of death!</i></blockquote> 
 
+<b>**_ Stray Thoughts / Spoilers _**</b>
 
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Juliet's oboe instructor, Vic, rips a guy's ears off before pulling his brain out.
-* When Benny pierces a woman's nipples, the camera does an extreme close-up of the nipple being pierced, so you know it's actually happening.
-* Juliet dreams of meeting a handsome man, but his penis is a giant slimy monster with teeth.
-* Juliet dreams that she gets pregnant with a bunch of popcorn, and Tromeo rips her stomach open to eat it all. His "MMMMM" sound is so funny. Of course, it's a nightmare, so it turns into rats and maggots.
-* "What light from yonder plexiglass, breaks?"
-* "Sesame Street's good! They got them cute little two guys living in the same room."
-* Murray's final request is for Tromeo to kiss him. It's a sweet kiss!
-* I love the sparkle effects of the apothecary's potion working!
-* "I'm going to wipe you off the earth like a piece of shit from God's ass!"
-* William Shakespeare laughs like Vincent Price.
+- Juliet's oboe instructor, Vic, rips a guy's ears off before pulling his brain out.
+- When Benny pierces a woman's nipples, the camera does an extreme close-up of the nipple being pierced, so you know it's actually happening.
+- Juliet dreams of meeting a handsome man, but his penis is a giant slimy monster with teeth.
+- Juliet dreams that she gets pregnant with a bunch of popcorn, and Tromeo rips her stomach open to eat it all. His "MMMMM" sound is so funny. Of course, it's a nightmare, so it turns into rats and maggots.
+- "What light from yonder plexiglass, breaks?"
+- "Sesame Street's good! They got them cute little two guys living in the same room."
+- Murray's final request is for Tromeo to kiss him. It's a sweet kiss!
+- I love the sparkle effects of the apothecary's potion working!
+- "I'm going to wipe you off the earth like a piece of shit from God's ass!"
+- William Shakespeare laughs like Vincent Price.
