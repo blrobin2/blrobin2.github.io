@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>
 
 <b>Before there was <i>Airplane!</i>, there was <i>The Big Bus</i>.</b>∏
 
