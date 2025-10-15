@@ -7,7 +7,7 @@ letterboxd_url: https://boxd.it/bnH75N
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="nofollow">Hooptober XII | 14/31 | Decades 6/9 | 1910s | Former Soviet State | Silent Film</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="nonopener">Hooptober XII | 14/31 | Decades 6/9 | 1910s | Former Soviet State | Silent Film</a></b>
 
 A reclusive young scholar named Andrei Bagrov reads by the fireplace. His aunt brings him food, but he is too engaged in his book. Andrei adored his now-passed mother, keeping a portrait of her over the mantle. His friend, Tsenin, with the aid of Andrei's aunt, coerces Andrei to accompany him to Princess Taskaia's home for a social engagement.
 
