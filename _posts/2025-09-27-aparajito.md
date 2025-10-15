@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>
 
-<b>**_ SPOILERS FOR PATHER PANCHALI ARE INEVITABLE _**</b>
+<b>SPOILERS FOR PATHER PANCHALI ARE INEVITABLE</b>
 
 <blockquote><i>One can't be happy without a family of one's own.</i></blockquote>
 
@@ -29,7 +29,7 @@ The film explores how Western individualization affects the family and one's per
 
 The cinematography is absolutely gorgeous. Subrata Mitra makes excellent use of the narrow city streets, the ghats at the Ganges, and other architectural elements to help frame the characters. Mitra pioneered bounce lighting with this movie, recreating the large-scale diffusion of studio lighting in location shooting.
 
-<b>**_ MOMENTS I LIKED _**</b>
+#### MOMENTS I LIKED \_\*\*</b>
 
 - The scene with Kalicharan and Harihar standing in the rain.
 - The juxtaposition of Harihar and the birds flying off.

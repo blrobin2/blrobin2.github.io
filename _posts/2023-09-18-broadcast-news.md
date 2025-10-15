@@ -31,7 +31,7 @@ Still, I found this to be charming, funny, and engaging. Holly Hunter is a gift,
 
 A tremendous movie, and a huge influence on things I love, so it's hard not to love it back
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I'm happy to see Joan Cusack — I wish she got to do more in this
 - Sorkin wanted Hurt to play Jeff Daniels' part in <i>The Newsroom</i>, I'm sure of it

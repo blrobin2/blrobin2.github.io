@@ -21,7 +21,7 @@ category: movie-review
 
 Overall, this is a striking and monumental achievement in American cinema that deserves more contemporary attention, especially in light of the current SAG-AFTRA strike
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - wild that this beat <i>Citizen Kane </i>for best picture
 - These actors are fit! I don't recall seeing such muscular boys in older movies

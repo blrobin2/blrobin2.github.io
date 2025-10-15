@@ -29,7 +29,7 @@ As Wenders is first a photographer, the cinematography is excellent and is the p
 
 I wouldn’t call this a successful film, but I do think critics misunderstood what the movie did — and that is the fault of the film itself. Still, the film hooked me as I had no confidence in where the film was heading, but crafted well enough that I stuck around to find out
 
-<blockquote><i>Changing yourself — that takes guts</i></blockquote><b>Stray Thoughts</b>
+<blockquote><i>Changing yourself — that takes guts</i></blockquote>#### Stray Thoughts
 * Ry Cooder always answers Wim Wender’s calls, doesn’t he?
 * Pullman’s outdoor desk/baby bouncer is sleek as hell
 * How is his card intact for the police to find it if the assassin tore it up?

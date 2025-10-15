@@ -31,11 +31,13 @@ While filming Jane B. par Agnès V., Jane Birken presented Agnès Varda with a s
 
 <blockquote><i>I don't know the words in English for the filthy things you've done.</i></blockquote>
 
-As a product of the 80s, AIDs is on everyone's minds. Condom dispensers sit next to Out Run, and condom samples line men's magazines. 
-"A-I-D-S: Ass-Injected Death Sentence!" 
-"Why don't Belgians squeeze lemons? They're afraid of getting lemonAIDS."
-A skit from A Bit of Fry & Laurie where they're on a talk show called AIDS talk, in which the doctor tells the person they have AIDs.
-"Are you ready to die for love?"
+As a product of the 80s, AIDs is on everyone's minds.
+
+- Condom dispensers sit next to Out Run, and condom samples line men's magazines
+- "A-I-D-S: Ass-Injected Death Sentence!"
+- "Why don't Belgians squeeze lemons? They're afraid of getting lemonAIDS."
+- A skit from A Bit of Fry & Laurie where they're on a talk show called AIDS talk, in which the doctor tells the person they have AIDs.
+- "Are you ready to die for love?"
 
 A pivotal moment in this movie is when Julien explains Dungeons & Dragons to Mary-Jane. That it's all in your imagination—that it's all determined by the dice.
 

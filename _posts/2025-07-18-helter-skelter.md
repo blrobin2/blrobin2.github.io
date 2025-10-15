@@ -31,7 +31,7 @@ Of course, the abuse doesn't begin with Lilico, nor her manager, who has crafted
 
 I compared this to <i>The Substance</i> because both deal with fighting time to maintain an unrealistic beauty standard. I like <i>The Substance</i>, but it lacks the complex character at the center that this film has.
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - The score is whimsical, at times reminiscent of Danny Elfman's oom-pah style, with several nods to classical music and a bombastic use of Beethoven's Ode to Joy.
 - The film also explores that queer ambiguity — do I want you or do I want to be you?

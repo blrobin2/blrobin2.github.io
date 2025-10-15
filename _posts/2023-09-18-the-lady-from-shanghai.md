@@ -27,7 +27,7 @@ Whether or not you like this will have to do with what you prioritize in a movie
 
 For some critics, the horseshoe swings this over to an accidental masterpiece. For me, it doesn't quite make the curve
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The DVD case I rented puts a 3.5-star review on it — the most praise-worthy statement they could find is "vintage Welles."
 - Of course, Scorsese loves this movie — his style is deeply indebted to this, and all of his worst habits are on display here — long takes for the sake of it, endless narration, visual flourishes to mask lack of other ideas

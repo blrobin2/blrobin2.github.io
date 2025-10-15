@@ -17,7 +17,7 @@ The film aspires to be more of an extended music video than a formal story. And 
 
 It’s fluffy and inconsequential, but it feels so good
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I love the opening credits
 - Oh hey, it’s the recluse from Twin Peaks!

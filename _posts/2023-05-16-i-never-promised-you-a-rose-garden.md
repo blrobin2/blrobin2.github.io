@@ -21,7 +21,7 @@ The passage of time in the movie is horrifying, where a couple of days feel like
 
 Overall, not a stellar movie, but it found moments of warmth that helped it through
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Dennis Quaid and Clint Howard show up in the movie's last five minutes? It’s not a spoiler, they’re just playing baseball
 - Nice homage to <i>Christina’s World</i>, but a tad on the nose, yeah?

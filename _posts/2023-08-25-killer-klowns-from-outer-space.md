@@ -17,7 +17,7 @@ For gore fans, this will be disappointing — you could say the movie is a slash
 
 Story and filmmaking, this gets groan-worthy at times, but by committing to the bit, it's fun to see what set piece they come up with next
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - As a small child, I was afraid of clowns. So I would see this at the video rental store as a kid and wonder about its deal, imagining something horrifying
 - "Nobody stores cotton candy like this!"

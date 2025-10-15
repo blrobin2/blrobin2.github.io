@@ -15,7 +15,7 @@ After a prank gone wrong, seven sorority sisters swear each other to secrecy. Un
 — [crying]
 — [dramatic music]</i></blockquote>Same, girl
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The most Chekov of guns
 - Everyone goes around and gives an exposition toast. It works for me!

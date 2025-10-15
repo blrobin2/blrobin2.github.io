@@ -11,7 +11,7 @@ category: movie-review
 
 Colin Farrell, a very handsome boy done dirty by 2002, talks on the phone with Schumacher fav Kiefer Sutherland, a man with a voice, in Diet <i>Saw</i>
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - ah yes, Times Square, the hippest neighborhood in NYC
 - the purest "what if phones but too much" movie

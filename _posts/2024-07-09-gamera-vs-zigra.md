@@ -11,7 +11,8 @@ category: movie-review
 
 <blockquote><i>Hi Guys, Gypsy, you're gorgeous, absolutely radiant! I love your show. Your movies are so tacky! I don't know where you get them. It's a good thing you narrate for me, otherwise I would never understand them! Keep up the good work!</i>
 — Call from viewer</blockquote>
-The first official appearance of Dr. Forester and Dr. Erhardt! Their lab is the KTMA production control room. 
+
+The first official appearance of Dr. Forester and Dr. Erhardt! Their lab is the KTMA production control room.
 
 Crow is finally unfrozen. Tom Servo has retained his "mighty" voice.
 

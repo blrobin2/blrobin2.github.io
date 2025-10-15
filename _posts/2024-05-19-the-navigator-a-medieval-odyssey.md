@@ -16,7 +16,9 @@ A young boy named Griffin looks to the sky. The moon gives him visions of men to
 
 Connor brings news of The Black Death — far worse than the villagers can imagine.
 
-<blockquote><i>All the churches are empty. And still not satisfied, the evil keeps striding forward with each full moon.</i></blockquote>The village believes their only hope is to place a cross on the steeple of the biggest church in all of Christendom. To do so is to ask god for his protection. 
+<blockquote><i>All the churches are empty. And still not satisfied, the evil keeps striding forward with each full moon.</i></blockquote>
+
+The village believes their only hope is to place a cross on the steeple of the biggest church in all of Christendom. To do so is to ask god for his protection.
 
 Griffin has a vision of the pit and it reaching far away from where they are. With few options left, they decide to go down it and see if it will take them to the church.
 

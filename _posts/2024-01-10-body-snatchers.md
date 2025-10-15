@@ -23,7 +23,7 @@ I don't care about the metaphor. It could be conformity or the American nuclear 
 
 The best part about this movie is that it's less than 90 minutes, so it doesn't overstay its welcome.
 
-<b>Thoughts / Spoilers</b>
+<b>Thoughts / Spoilers
 
 - Andy's painting is legitimately fantastic.
 - Tim's got the deadest eyes.

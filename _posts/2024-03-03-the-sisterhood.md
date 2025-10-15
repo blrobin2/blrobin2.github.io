@@ -27,6 +27,6 @@ The music is cheesy, and the fight choreography is pretty awful. The camera leer
 
 The third act is where most of the budget is — it goes full <i>Fury Road</i> with wacky vehicles. military tanks, and explosions. It isn't as exciting as it sounds, but it's enough to get me to the finish line.
 
-<b>**_ SPOILER TALK _**</b>
+#### SPOILER TALK \_\*\*</b>
 
 If the Sisterhood follows a goddess who can free them at any time, why does the goddess wait until the last possible moment to show up?

@@ -17,7 +17,7 @@ A big reason is that it does not explicitly reference any historical events or f
 
 It also captures the tensions felt during quarantine — the typhoid quarantine is explicitly referenced — the loss of control, the constant proximity, the indefinite length
 
-<b>Stray Thoughts / Quotes</b>
+#### Stray Thoughts / Quotes</b>
 
 - <i>Mother! </i>was obviously inspired by this
 - Chicken in a handbag, I know, I know it’s serious

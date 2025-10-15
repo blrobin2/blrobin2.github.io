@@ -23,7 +23,7 @@ What makes this movie great is Natja Brunckhorst’s performance. She goes to so
 
 And seeing Bowie perform early in the movie is pretty cool
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The kids running through the mall to Heroes has big Sofia Coppola vibes
 - The mom inviting her boyfriend over to withdrawal together is such a kind gesture given the circumstances. But man what a fucking brutal scene

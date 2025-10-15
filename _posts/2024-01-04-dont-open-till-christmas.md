@@ -11,7 +11,7 @@ category: movie-review
 
 Whoops, got too high. Let's see how this plays out
 
-<b>Thoughts/Spoilers</b>
+<b>Thoughts/Spoilers
 
 - Guy walking around your car. Date says forget about him so we can snog some more
 - I like the melting Santa opening credits

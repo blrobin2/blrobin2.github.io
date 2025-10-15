@@ -35,7 +35,7 @@ I’m not a big James Bond fan, so watching a movie meant to target that market 
 
 I’m not hating on anyone who likes this — this just isn’t for me.
 
-<b>**_ Thoughts / Spoilers _**</b>
+#### Thoughts / Spoilers \_\*\*</b>
 
 - There’s a reason that MST3K pulled so many movies from Crown International Pictures.
 - We get a training montage of Spike beheading some dummies.

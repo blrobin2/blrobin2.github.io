@@ -29,7 +29,7 @@ That's also when the film gets boring. I'm not into these "watching people posse
 
 I still like the movie — I just came away less excited for an underwhelming back half. I enjoyed how weird this movie was otherwise.
 
-<b>**_ STRAY THOUGHTS / SPOILERS_**</b>
+#### STRAY THOUGHTS / SPOILERS\_\*\*</b>
 
 - Dead silent credits with two title cards.
 - Beheaded frog in the tithe!

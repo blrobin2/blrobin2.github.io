@@ -27,7 +27,7 @@ The film's biggest weakness is its length, a complaint I also have about his oth
 
 Perkins crafts a meditation on grief disguised as a horror movie — a recurring trope that haunts the genre to this day. Here, he gets away with it by not letting the grief overtake the horror.
 
-<b>**_ ACTOR TALK _**</b>
+#### ACTOR TALK
 
 - Kiernan Shipka plays a haunted girl who says all the quirked-up nonsense you tend to hear haunted girls saying. She's good at keeping her eyes open for a long time!
 - Lucy Boynton is solid, but she's pretty much the straight man here.
@@ -35,6 +35,8 @@ Perkins crafts a meditation on grief disguised as a horror movie — a recurring
 - James Remar is the horniest daddy.
 - Lauren Holly gives a Lynchian performance. Such a shame she never got the chance to work with him.
 
-<b>**_ SPOILER TALK _**</b>
+#### SPOILER TALK
+
 The film's meditation on grief is the loss of God. Through the entity that possessed her, Kat had a meaning and purpose. When they exorcise it out of her, she loses that sense of belonging. She spends years fighting and killing to get out of the asylum where they put her, desperate to find the entity again. When Bill gives his speech about little coincidences, Kat cannot help but see this as a sign that the entity is waiting for her. But, as many of us know, when we've already lost faith, we cannot force its return. We can pretend, but it isn't the same.
-<b>**_ END SPOILER TALK _**</b>
+
+#### END SPOILER TALK \_\*\*</b>

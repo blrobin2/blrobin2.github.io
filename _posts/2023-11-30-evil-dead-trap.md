@@ -25,7 +25,7 @@ Poor pacing and underdeveloped characters knock it down a tad.
 
 Still, it's wacky as hell.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The spastic blue-toned scenes remind me of <i>Tetsuo</i> — thanks to Japan Home Video.
 - Camera flash as the only light source is always creepy.

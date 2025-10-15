@@ -20,7 +20,7 @@ But when Lucy returns, she has trouble adjusting, so Carol buys her new clothes 
 
 Joan Crawford and Diane Baker give their all in this wild — and surprisingly graphic — story. It may be trashy, but it's a trashy that I enjoy
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The opening credits with the unhinged chalk drawings (or paintings, it's hard to tell in black and white) are inspired
 - Saying Joan Crawford's character is "Very much a woman, and very much aware of that" is some top-notch writing

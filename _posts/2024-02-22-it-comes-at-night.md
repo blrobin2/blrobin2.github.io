@@ -29,7 +29,8 @@ This would be a solid film to base conversations around media literacy.
 
 I don't love it, but it contains all the required beats for its story.
 
-<b>**_ SPOILER TALK_**</b>
+#### SPOILER TALK\_\*\*</b>
+
 So, it's pretty clear Travis is already sick before Will arrives. The dream recalls his exposure to Bud's disease. So, from 15 minutes in until the climax, it's a red herring game where they worry if Abbott's character, Will, will be their downfall.
 
 Travis' surreal exploration of the house and sleep delulus is our second signifier that he is losing it. It is our way into the subjective experience of the illness.

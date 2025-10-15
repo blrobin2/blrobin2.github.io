@@ -17,7 +17,7 @@ I like how they black out the background before ending the scene like it's on st
 
 FUCK SHIPOOPI. This movie is cursed.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - "The last days of Pompeh-eye"
 - Amaryllis

@@ -26,7 +26,7 @@ Back at the US Army base, Colonel Hickock counts the dead bodies coming in. The 
 
 This movie isn't very good, but it's pretty funny.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - "Have you heard of ninjitsu, sir?"
 - Judie Aronson is pulling off the miracle of one-sided chemistry, whereas Michael Dudikoff doesn't seem to have any way of expressing himself physically or psychologically.

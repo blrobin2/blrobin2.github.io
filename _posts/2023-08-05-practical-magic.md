@@ -19,7 +19,7 @@ That said, this movie gets a surprising amount of mileage from Sandra Bullock an
 
 A perfect lazy weekend, "put something on while doing chore" kind of movie
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - 90s movie soundtracks are so saccharine
 - the use of "this kiss" works for me, and it shouldn't

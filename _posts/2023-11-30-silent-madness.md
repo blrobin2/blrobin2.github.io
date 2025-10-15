@@ -33,7 +33,7 @@ Belinda Montgomery and Viveca Lindfors are television royalty, and Katherine Kam
 
 The murders are pretty brutal! Some of the set pieces are tense, at least to a degree.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I have a book called Frightfest Guide to Exploitation Movies. This movie's poster is the cover.
 - Coca-Cola in a bowl of cereal??

@@ -23,7 +23,8 @@ Patty McCormack has a lot to do as a child actor, and while she may not pull it 
 
 This movie fucked me up! It doesn’t hold punches, and it doesn’t relent
 
-<b>Stray thoughts:
+#### Stray Thoughts:
+
 </b>\* Love the ominous opening of the storm over the lake, then the turn to the city just off in the distance
 
 - The scenes with Claude’s mother are devastating, she’s so lost and heartbroken

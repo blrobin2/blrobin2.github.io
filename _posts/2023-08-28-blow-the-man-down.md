@@ -21,7 +21,7 @@ The soundtrack of Sea Shanties works out pretty well, switching from diegetic to
 
 Perfect ending! What a great little movie — such a welcome surprise
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - "Go watch some TV. I TiVo'd some Buffy." — What year is this?
 - Putting Marceline Hugot and Margo Martindale in the same movie is confusing. Could you imagine if Ann Dowd got in the mix?

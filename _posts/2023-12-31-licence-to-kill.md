@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - Score by the guy who did the X-Files theme
 - Felix is getting married. Seems like a risky move for a CIA guy

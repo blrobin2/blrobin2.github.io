@@ -25,7 +25,7 @@ It's not a <i>Persona</i>-esque homage without mirrors, doppelgängers, narcissi
 
 If the themes of the movies are ever unclear, Vincent Cassel tells the audience — although his motives are less than pure, the movie never contradicts them. It's amusing how his presence in any film serves as an unspoken warning to the audience that this movie intends to make you uncomfortable.
 
-<b>Stray thoughts/Spoilers:</b>
+#### Stray Thoughts/Spoilers:</b>
 
 - The hand trauma messes with me.
 - The horror movie mirror scares are… fine.

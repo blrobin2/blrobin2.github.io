@@ -28,7 +28,7 @@ This is one of those films with a twist that I don’t think hurts knowing ahead
 
 The film is a blast! Check it out.
 
-<b>**_ SPOILER TALK _**</b>
+#### SPOILER TALK \_\*\*</b>
 
 - It’s wild that this story is about someone who changed their face to hide from Satan. Didn’t Mickey Rourke do that?
 

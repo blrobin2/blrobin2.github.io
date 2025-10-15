@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - Screenwriter Tom Mankiewicz wants you to think of the Black villains as surrogates for the Black Panthers.
 - The Bond theme I've heard the most since it played on classic rock radio

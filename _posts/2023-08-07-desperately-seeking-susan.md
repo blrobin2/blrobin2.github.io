@@ -21,7 +21,7 @@ Great screwball comedy of errors, like a great episode of <i>Fraiser</i> — tig
 
 I love it!
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - Rosanna Arquette and Susan Seidelman look like sisters
 - Laurie Metcalf!

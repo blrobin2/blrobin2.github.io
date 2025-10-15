@@ -30,7 +30,7 @@ But the film does make one point that I think is salient—the police do not car
 
 So, yes, I didn't mind watching this movie once I was able to put it in its appropriate box. It's not great, but it managed to manipulate me enough to root for it. Which might make it worse?
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - I started watching the <i>Eye for an Eye</i> that PlutoTV linked to, and it took me a minute to realize that this <i>Eye for an Eye</i> is actually a documentary about Mark Stroman, who is on death row. I thought it was just really cheap, but then I looked up Mark Stroman on IMDb and didn't see the name associated with the 1996 movie starring Sally Field.
 - Cynthia Rothrock doesn't appear until an hour in as the self-defense instructor, Tina. I don't think we see her face. Yes, I still recognized her, whatever that says about me.

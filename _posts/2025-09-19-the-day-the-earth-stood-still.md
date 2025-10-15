@@ -31,7 +31,7 @@ The film's biggest flaw is its blatant pro-USA and Christian bias — Klaatu, di
 
 Still, the structure and pacing have that icy 50s sci-fi feel that I dig. After watching a trillion terrible 50s sci-fi movies, it's reassuring that I still find the good ones so captivating.
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - Love the opening credits over the space matte paintings.
 - The score is incredible! Bernard Herrmann has to be an influence on Danny Elfman, among others.

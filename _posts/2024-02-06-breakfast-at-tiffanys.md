@@ -29,7 +29,7 @@ The color is lovely, though!
 
 Overall, I like the movies that this influenced more than the movie itself. For that reason, I'm glad it exists.
 
-<b>**_ Thoughts/Spoilers_**</b>
+#### Thoughts/Spoilers\_\*\*</b>
 
 - Gotta have jail scenes — that's all Capote knew.
 - This party scene has no perspective — it's just, "Look at these miserable shits."

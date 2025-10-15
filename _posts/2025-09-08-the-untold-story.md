@@ -31,7 +31,7 @@ I could do without the subplot where Bo, the only woman detective, tries to conv
 
 If I weren't a vegetarian before this movie, it would've definitely pushed me in that direction. Depending on the type of genre fan you are, that's either a warning or a ringing endorsement.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Anthony Wong really transforms himself just by making that unhinged face the whole time.
 - Ah, back when you could demonstrate competent chopping skills and get a job on the spot.

@@ -23,13 +23,13 @@ Lionel Atwill and Gail Patrick are the only actors who give good performances. E
 
 This is a shocking Pre-Code exploitation film — if you want to talk about movies you can't make today, this should be at the top of the list.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Old zoos are so depressing! The enclosures are so small :(
 - Sun Bears!!!
 - They keep saying "antitoxin" when they should say "antivenom."
 
-<b>**_ SPOILERS _**</b>
+#### SPOILERS \_\*\*</b>
 
 - I hate how they let the lions fight :(
 - The anaconda biting and wrapping around Lionel Atwill looks so real! And the tension of watching it coil up and slowly unhinge was so scary! My mouth was agape the whole scene

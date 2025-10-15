@@ -36,7 +36,7 @@ The kills are fucking brutal — lots of cringing, and “Oh god!”s and “Jes
 
 That ending, too…
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - Cue opening credits over a still of the rotting hand! Classic Fulci.
 - Barry says the killer stuffed his blade in her “joy trail.” Is that the same as a happy trail?

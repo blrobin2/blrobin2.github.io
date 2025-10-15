@@ -29,7 +29,7 @@ The filmmaking isn't stunning, but it's competently put together, especially con
 
 Deeply flawed, but admirable in it's ambition, the film probably won't wow anyone who isn't horror-poisoned like me, but I found enough charm to keep me watching.
 
-<b>**_ Stray Thoughts_**</b>
+#### Stray Thoughts
 
 - The Fords go back 21 centuries, all the way to BC times.
 - "You've never liked night before — what's gotten into you?"

@@ -15,7 +15,7 @@ One night, the dream takes a turn, and Carol stabs Julia to death. The following
 
 One of the best-crated giallo I’ve seen — the movie gets to play with eroticism, dreams, and drugs all while maintaining a coherent plot — a flaw I often forgive for wilder giallo films that twist themselves into nonsense
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The wind on the fur looks cool
 - The whistling in the soundtrack is grating, not Morricone’s best work

@@ -17,7 +17,7 @@ Ah, Baltimore, the city of stars. We all recognize its iconic skyline. Honey Whi
 
 🎶 Demented forever!
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - The opening music is so insane. It's a bunch of iconic music stings set to a drum sample.
 - Honey forces her publicist to call the front desk of the hotel and ask them if Pat Nixon got fucked there.

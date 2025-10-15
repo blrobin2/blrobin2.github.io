@@ -37,7 +37,7 @@ The fights are okay. They are not tight, but not boring either. They are at thei
 
 I appreciate the aesthetics, but it's too long to love.
 
-**_ Stray Thoughts / Spoilers _**
+\*\*\_ Stray Thoughts / Spoilers
 
 - Visible hairnets on the wigs
 - Tamazusa bathes in blood to maintain a youthful appearance.

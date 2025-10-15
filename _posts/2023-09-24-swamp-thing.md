@@ -27,7 +27,7 @@ I'll be interested to see how DC handles the inherently campy nature of this sto
 
 Overall, I like the setup more than the payoff, but there's some fun cheese in the mix
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - How are Ray Wise's lips even poutier in this than anything else I've seen him in?
 - Walking through a swamp picking orchids — what is this, The Orchid Thief?

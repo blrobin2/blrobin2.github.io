@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Favorite Moments / Spoilers _**</b>
+#### Favorite Moments / Spoilers \_\*\*</b>
 
 - Brands' lives matter
 - Describe your best friend: dEaD

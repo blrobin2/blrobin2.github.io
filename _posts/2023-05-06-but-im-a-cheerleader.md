@@ -17,7 +17,7 @@ I’m just over conversion therapy as a central plot point to a queer story. Tha
 
 Still, happy this exists!
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Ru Paul with a goatee is barely recognizable
 - This is the most earnest I’ve seen Natasha Lyonne

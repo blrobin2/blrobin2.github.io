@@ -41,7 +41,7 @@ A lot of puking in this one, so be warned.
 
 Overall, this film is devastating and melancholic. Unbelievable that this is a student film.
 
-<b>** Stray Thoughts / Spoilers \***</b>
+#### Stray Thoughts / Spoilers
 
 - Gorgeous cat!
 - I think Albrun fucks these goats. At least she loves that goat’s milk a bunch.

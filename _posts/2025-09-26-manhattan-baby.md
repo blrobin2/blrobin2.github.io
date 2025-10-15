@@ -23,7 +23,7 @@ That isn't to say the film is a total failure. The opening stuff in Egypt is qui
 
 Fulci followed up this movie with <a href="https://boxd.it/aEde0F">Conquest</a>, which was quite the departure for him
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - I wish they hadn't killed that snake for real :(
 - Tommy calls Susie a "lousy lesbian."

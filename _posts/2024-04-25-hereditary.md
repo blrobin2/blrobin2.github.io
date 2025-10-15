@@ -23,7 +23,8 @@ Anyway, the sound design is so tight in this movie that it makes IMAX worth it.
 
 I don't know if I love this as much as I did when I first saw it, but I still like how this movie feels. I like how it draws out the cruelest aspects of grief. And Toni Collette is iconic — her performance floors me every time I see it.
 
-<b>**_ SPOILER TALK _**</b>
+#### SPOILER TALK \_\*\*</b>
+
 Back to the mommy trauma lens. In that sense, the movie feels much more like a manifestation of Annie's mental illness. But as I'm writing that out, I'm talking myself out of it.
 
 No theory fully works, which is why this movie is fun. But it's also why I love it a little less. In good ambiguity, you feel like there is an answer, but it's irrelevant. Here, it feels like the ending was trying to get to <i>Rosemary's Baby</i> without doing the legwork.

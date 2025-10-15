@@ -4,15 +4,16 @@ title: "A Beginning Haskeller Builds a Web Scraper (Part 3)"
 excerpt: "A journey into Haskell, and my failings along the way"
 category: programming
 ---
-### Previously On...
+
+### Previously On
 
 [Nearly a month ago]({% post_url 2018-11-20-aggr-haskell-part-2 %}) (sorry about that) we added the concept of a score to our Album datatype, and pulled in a second data source for building up our collection of albums.
 
 For this article, we're going to finish up and focus on the following objectives:
 
-* Convert `date` field in `Album` to use an honest-to-god date
-* Filter albums based on the previously-added `score` and `date`.
-* Run score fetches and album building concurrently.
+- Convert `date` field in `Album` to use an honest-to-god date
+- Filter albums based on the previously-added `score` and `date`.
+- Run score fetches and album building concurrently.
 
 ### Date field
 
@@ -22,8 +23,8 @@ We did this because we didn't want to think about dates yet, so we took the path
 
 We could still use `UTCTime` if we wanted. But the problem is that it concerns itself with the date AND the time. We only really care about the day, month, and year that it came out, because we will:
 
-* Filter our results to only have albums that came out this month
-* Sort our results first by day of the month, then by artist name.
+- Filter our results to only have albums that came out this month
+- Sort our results first by day of the month, then by artist name.
 
 #### Day
 
@@ -75,8 +76,8 @@ But this still returns `Text`, which we don't want. If we fall into the `Just` c
 
 But what about our `Nothing` case? We have a couple of options, one more complex than the other. We can:
 
-* Just return a `ModifiedJulianDay` of 0, assuming we'll never hit this case.
-* Fetch the current date and parse it as a `Day`, so we'd assume it came out today, keeping the date within range for sorting.
+- Just return a `ModifiedJulianDay` of 0, assuming we'll never hit this case.
+- Fetch the current date and parse it as a `Day`, so we'd assume it came out today, keeping the date within range for sorting.
 
 While the latter is the most robust solution, we are going to defer to the simpler one for now. Therefore, our `toDate` function can be updated to the following:
 
@@ -120,8 +121,8 @@ In Haskell, we don't do this at the function level. Instead, we define an `Ord` 
 
 Before we write the code, let's write out how we want to order `Album`s:
 
-* We want to sort firstly by `date` DESCENDING (that is, the most recent albums will be first)
-* If the `date` is equal, then we want to sort secondly by `artist` ASCENDING (that is, the albums for a given day will be listed in alphabetical order)
+- We want to sort firstly by `date` DESCENDING (that is, the most recent albums will be first)
+- If the `date` is equal, then we want to sort secondly by `artist` ASCENDING (that is, the albums for a given day will be listed in alphabetical order)
 
 How do we express that in Haskell?
 
@@ -135,17 +136,17 @@ Next, we must provide a definition of `compare`. We can think of type definition
 
 That is, it takes two Albums, and returns how they are ordered. In more C-like languages, that ordering is usually expressed as:
 
-* -1 for 'the first album comes before the second album', or Less Than
-* 0 for 'the first album and the second album are the same', or EQual
-* 1 for 'the first album comes after the second album', or Greater Than
+- -1 for 'the first album comes before the second album', or Less Than
+- 0 for 'the first album and the second album are the same', or EQual
+- 1 for 'the first album comes after the second album', or Greater Than
 
 Haskell has the `Ordering` data type, which you can think of as being defined as:
 
     data Ordering = LT | EQ | GT deriving (Ord)
 
-* LT is for 'Less Than'
-* EQ is for 'EQual'
-* 'GT is for 'Greater Than'
+- LT is for 'Less Than'
+- EQ is for 'EQual'
+- 'GT is for 'Greater Than'
 
 So our `compare` function will return one of these, which the `sort` function will use to determine how to sort them.
 
@@ -200,9 +201,11 @@ Now, to make use of it, we'll go to our `writeAlbumJSON`, where we're collecting
 `build` and `exec`, then look at your `albums.json` and you'll see our data is sorted!
 
 ### Filtering
+
 Now that we have some sense of order for our data, we can begin working on filtering our data down to that which is most important to us.
 
 #### Duplicates
+
 We have explicitly stated it yet, but have sort of assumed a rule that we are currently not enforcing. For our final list of albums, we do not want any duplicate albums. It may be, up to this point, that we have not had any duplicates between our Pitchfork feed and our Stereogum feed. But that doesn't not preclude this duplication from occurring.
 
 We can address this trivially with the help of a function in `Data.List` called `nub`. It's type signature looks like the following:
@@ -252,7 +255,7 @@ We will start with a function called `filterAlbums`. Initially, it will take as 
 
     filterAlbums :: Double -> [Album] -> [Album]
 
-If you aren't aware, we have a built-in `filter` function, which  takes a function that returns a Boolean that represents whether or not to keep the item, and the initial list of items. For our case, the data is the Album, and the Boolean is whether or not the score is at least our lowest score. We can call this function `scoreIsHighEnough`:
+If you aren't aware, we have a built-in `filter` function, which takes a function that returns a Boolean that represents whether or not to keep the item, and the initial list of items. For our case, the data is the Album, and the Boolean is whether or not the score is at least our lowest score. We can call this function `scoreIsHighEnough`:
 
     scoreIsHighEnough :: Album -> Bool
 
@@ -304,6 +307,7 @@ I will readily admit that this process of handling scores is pretty convoluted a
 Regardless, `build` and `exec`, check your results, and we've finally made use of the score!
 
 #### Filter by date
+
 Our final bit of filtering criteria is that the album must have come out this month. But that requires our application knowing what the current month is. This means we will have to do some `IO`-related work to get our month.
 
 Thankfully, `Data.Time` has all the functions we need. We will, for our purposes, need to glue some of them together.
@@ -445,6 +449,7 @@ Seriously, if any of that felt like magic to you, read those articles I linked! 
 `build` and `exec`, look at your `albums.json`, and you should see only albums that came out the month you ran it!
 
 ### Concurrency
+
 For this final bit, we're not going to learn much. Instead, we're going to hand the heavy lifting over to the amazing `async` library. Add that to your `.cabal` file, run `stack build` to pull it in. At the top of the file, pull in `mapConcurrently` from `Control.Concurrent.Async`.
 
 The first place we'll use this is when fetching scores. So in `getScores`, where we're using `traverse`, replace it with `mapConcurrently`:
@@ -469,7 +474,8 @@ This makes sense, since `traverse` can be replaced wholesale, and `sequence` can
 
 `build` and `exec`, and your script should finish in a fraction of the speed!
 
-### That's all!
+### That's all
+
 We've pulled in XML from multiple sources, formatted, filtered and sorted it according to our own rules, and exported it to JSON. All in just over 150 lines!
 
 I know I had initially promised to pull in a third data source, but looking at what we've accomplished here, we wouldn't be covering any new ground (except for maybe file organization, which feels a bit boring for the focus of an article).
@@ -480,7 +486,7 @@ The repo (linked below) contains the final code, so you can refer to it if you g
 
 Thank you for reading! You can file complaints, request improvements, and report bugs in the code through [the git repo for aggr haskell](https://github.com/blrobin2/aggr-haskell)
 
-### The Full Code:
+### The Full Code
 
     {-# LANGUAGE DeriveGeneric     #-}
     {-# LANGUAGE OverloadedStrings #-}

@@ -25,7 +25,7 @@ Unlike Godfrey Ho's most popular Z-movies, this film doesn't incorporate footage
 
 Man, this movie is so stupid. Why do I like it so much?!
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - "Maybe you're too much of a chicken shit to pick on someone your own size," says DiMarco. "He's right, you shouldn't play favorites," says a thug to his partner.
 - I need that hat that says NASTY•GIRL

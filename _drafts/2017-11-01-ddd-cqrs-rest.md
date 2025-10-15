@@ -12,12 +12,12 @@ category: programming
 > Premature optimization is the root of all evil
 > &ndash; <cite>Donald Knuth</cite>
 
-* [Domain-Driven Design Book](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-* [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
-* [DDD and REST](https://www.infoq.com/presentations/ddd-rest)
-* [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
-* [Understanding HATEOAS](https://spring.io/understanding/HATEOAS)
-* [CQRS, Task Based UI, Event Sourcing agh! - Greg Young](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
-* [CQRS - Martin Fowlerr](https://martinfowler.com/bliki/CQRS.html)
-* [Clarified CQRS](http://udidahan.com/wp-content/uploads/Clarified_CQRS.pdf)
+- [Domain-Driven Design Book](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
+- [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [DDD and REST](https://www.infoq.com/presentations/ddd-rest)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+- [Understanding HATEOAS](https://spring.io/understanding/HATEOAS)
+- [CQRS, Task Based UI, Event Sourcing agh! - Greg Young](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
+- [CQRS - Martin Fowlerr](https://martinfowler.com/bliki/CQRS.html)
+- [Clarified CQRS](http://udidahan.com/wp-content/uploads/Clarified_CQRS.pdf)

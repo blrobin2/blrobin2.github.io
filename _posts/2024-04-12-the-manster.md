@@ -27,7 +27,7 @@ Suzuki pours Larry an unusual liquor as they discuss cosmic rays and evolution. 
 
 This movie is hysterical. Every moment’s absurdity forgives script and performance weaknesses. It’s not good, but boy, is it a blast.
 
-<b>**_ Stray Thoughts/Spoilers _**</b>
+#### Stray Thoughts/Spoilers \_\*\*</b>
 
 - I watched a colorized copy of the movie because that’s what Prime had.
 - Both Robert and Larry scale the volcano in nice suits. It’s not an easy climb.

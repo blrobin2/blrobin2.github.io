@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-Paris 1934
+#### Paris 1934
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Oh, them boys are GAY gay
 - Is she singing a song about begging someone to take her virginity??

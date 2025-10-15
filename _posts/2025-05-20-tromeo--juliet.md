@@ -35,9 +35,9 @@ If James Gunn brings half this energy to the DC Universe, it may be just what it
 
 I was so on the fence with this movie, but through the magic of love and tasteless gore, it won me over. If this movie doesn't disgust you somehow, may God help you.
 
-<blockquote><i>Now you fucks have gone too far! Goddamn heads bouncing off of cars while Long Island families are singing "Found a Peanut" — well, he's "found a peanut," alright, honey. He's found a peanut of death!</i></blockquote> 
+<blockquote><i>Now you fucks have gone too far! Goddamn heads bouncing off of cars while Long Island families are singing "Found a Peanut" — well, he's "found a peanut," alright, honey. He's found a peanut of death!</i></blockquote>
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Juliet's oboe instructor, Vic, rips a guy's ears off before pulling his brain out.
 - When Benny pierces a woman's nipples, the camera does an extreme close-up of the nipple being pierced, so you know it's actually happening.

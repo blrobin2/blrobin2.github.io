@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - Straight away, too much makeup was on Connery’s face.
 - Oh, never mind, it’s supposed to be a mask.

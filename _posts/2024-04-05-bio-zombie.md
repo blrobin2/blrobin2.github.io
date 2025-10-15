@@ -29,7 +29,7 @@ The film sets up the two leads as irredeemable assholes who will exploit anyone 
 
 While not a great movie, it keeps up the energy and doesn't overstay its welcome. It warrants a lot of comparisons but ends up being unlike any zombie movie I've seen.
 
-<b>**_ STRAY THOUGHTS / SPOILERS _**</b>
+#### STRAY THOUGHTS / SPOILERS \_\*\*</b>
 
 - TIL VCDs were more successful in East Asia than VHS because they held up better in extreme temperatures.
 - Crazy takes photos using a Game Boy Camera.

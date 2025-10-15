@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - 22 years of litigation hell over this movie, and 52 total with Kevin McClory. Literally every Bond movie up to this point was negatively affected in some way, but especially from the 70s onward when Kevin McClory sued for sole rights to SPECTRE and Blofeld. It wasn't until McClory's death in 2006 that Eon could make Casino Royale, and 2013 when the McClory estate sold the rights that Eon could make Spectre.
 - Max's blanket cropping algorithm cuts off the right and bottom of the movie — at least 40% of the screen compared to the version on Prime

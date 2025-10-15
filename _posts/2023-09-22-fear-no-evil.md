@@ -23,10 +23,10 @@ Everyone is chewing the scenery, and it rules — so much yelling and dramatical
 
 For a horror film, this might have the coolest soundtrack (not the score, which the director did himself). Here are some of the songs, often playing back-to-back:
 
-boomtown rats - I don't like Mondays
-sex pistols - anarchy in the UK
-talking heads - love —> building on fire
-the ramones - blitzkrieg bop 
-talking heads - psycho killer
+- boomtown rats - I don't like Mondays
+- sex pistols - anarchy in the UK
+- talking heads - love —> building on fire
+- the ramones - blitzkrieg bop
+- talking heads - psycho killer
 
 Overall, this was a bunch of fun — I highly recommend watching it with friends

@@ -1,32 +1,31 @@
 ---
-
 layout: post
 title: "Stacey CMS: Part 2"
 excerpt: "I go into more depth with Stacey CMS, trying to make a new template file that better serves my articles."
 category: web
-
 ---
+
 Welcome back to Part 2 of my Stacey CMS tutorial/figuring crap out series. If you haven't read [Part 1](/articles/stacey-cms-01/), you might want to, as I'm assuming stuff from that article... you get the idea.
 
 PS - I wrote that relative link to another page in the site by including the text I wanted to link in "[" and "]" and then the link itself in parenthesis. If I write it like "/articles/stacey-cms-01/", then it jumps down to the root, then back into articles. Still trying to figure out a simpler way to refer to it.
 
 If you're coming back to this, you may notice some small style changes (bigger font sizes and different fonts). These are simple changes to improve readability. You're welcome to do the same by jumping into the public/docs/css folder, and updating the screen.css. But don't go through just changing stuff all willy-nilly, especially if you're still learning CSS. I don't think this is the best-written CSS, but it does things and if you don't know what it does, you might want to try it out. For example, what happens if you uncomment that background image on line 23...
 
-In future articles, I'll do a full overhaul of the site's HTML to bring it up to <abrr title="HyperText Markup Language 5">HTML5</abbr> (it's currently 4.01, which is, like, [16 years old](http://diveintohtml5.info/past.html)) and CSS, which is not necessarily old, just not my STYLE *ba-dum* *chik*). I may even use [Sass](http://sass-lang.com/)! 
+In future articles, I'll do a full overhaul of the site's HTML to bring it up to <abrr title="HyperText Markup Language 5">HTML5</abbr> (it's currently 4.01, which is, like, [16 years old](http://diveintohtml5.info/past.html)) and CSS, which is not necessarily old, just not my STYLE _ba-dum_ _chik_). I may even use [Sass](http://sass-lang.com/)!
 
 This time, we're going to create a template for "articles", instead of just using what was once project. But first, let's dissect the current projects template, so that we can have a good idea of what's going on. I'm going to assume you have a basic understanding of HTML and CSS, and how a page is laid out. You can always refer to the [free HTML and CSS course](http://learncss.tutsplus.com/) I mentioned in the previous article.
 
-###Okay! Templates!
+### Okay! Templates!
 
 To open the projects template, go into the templates folder and open "project.html". Yep, the templates are (basically) HTML, so if you know HTML, this should be a breeze. The first place I notice something different is on line 6, between the title tags. We have ampersands, followed by names. These are variables that Stacey uses, so that it can dynamically insert the content to which these variables refer. The first one, "title", is defined at the top of this file. Just by writing "title:" and the title, it's defined. You'll see other ones like this for the date, as well as the content.
 
 You may notice that content does not have any HTML around it except for the div. If this is confusing, remember that the content in Stacey is written in [Markdown](http://daringfireball.net/projects/markdown/), which converts into HTML when it gets to the browser.
 
-You'll also notice variables that are not defined in the document. For example name, which is also in the title tag. If you remember, we defined some site-wide variables in the content folder, in a file called "shared.txt" with an underscore in front o if. I don't know the specific reason for the underscore but it probably has to do with ensuring it doesn't render out a page, or demarking where the variables are stored. You can look it up in the [documentation](http://staceyapp.com/documentation/) if it is bothering you. But yeah, if you open that file, you can see where variables that are used across the site are defined. 
+You'll also notice variables that are not defined in the document. For example name, which is also in the title tag. If you remember, we defined some site-wide variables in the content folder, in a file called "shared.txt" with an underscore in front o if. I don't know the specific reason for the underscore but it probably has to do with ensuring it doesn't render out a page, or demarking where the variables are stored. You can look it up in the [documentation](http://staceyapp.com/documentation/) if it is bothering you. But yeah, if you open that file, you can see where variables that are used across the site are defined.
 
 You can add your own variables here, if they are going to be constant throughout. Or, you can add them to the specific document followed by a line break and a "-". I'm going to make a variable for this document called "<abrr title="Too Long; Didn't Read">tldr</abrr>". We'll discuss in a moment how we can add this to our template conditionally, so that if we don't define it, we don't have to worry about any errors.
 
-The third unique item are those elements that begin with ":", like next-page, previous-page and media. These are partials, which are stored in the templates/partials folder. They are included in a couple of ways. 
+The third unique item are those elements that begin with ":", like next-page, previous-page and media. These are partials, which are stored in the templates/partials folder. They are included in a couple of ways.
 
 One way has a bit of "if" logic that seems to be asking if the PHP "siblings" variable exists (but don't quote me on that). But we can figure it out! If you look at the bottom of the page, it's offering me links to a previous project and a next project. Those did not exist when I only had one article. So, when I have more than one article, which acts as a sibling, it offers me links to the previous and next article. If we open the assets fold, we see a partial called "next-page.html" and "previous-page.html". In each of those is for each logic to display the links. So, for each sibling article, it spits out a previous and a next link at the bottom of the page. It seems that it does that, even if you are at the earliest article, and that it creates a loop around, so that if you are on the latest article, the "next" will be a link to the very first one, and so on. I have no problem with this, but if you want your beginning to be a beginning, and your end to be your end, you'll need to spend some more time in the documentation, figuring it out.
 
@@ -50,15 +49,14 @@ Since I'm super lazy ass right now, I'm just going to add my extra bit of logic 
 
 Okay! That's it for now. I'm making a list of things I want to do with this site in particular, and each one deserves it's own little bit of articles...
 
-+ [HTML5](http://diveintohtml5.info) / [<abbr title="Cascading Style Sheets 3">CSS3</abbr>](http://www.w3.org/Style/CSS/) (as needed)
-+ [Accessibile](http://www.w3.org/WAI/)
-+ [Responsive](http://alistapart.com/article/responsive-web-design)
-+ [Mobile-First](http://www.abookapart.com/products/mobile-first)
-+ [Fluid Grid System](http://alistapart.com/article/fluidgrids)
-+ [Sass](http://sass-lang.com/) (and maybe [Compass](http://compass-style.org/))
-+ [<abbr title="Object-Oriented Cascading Style Sheets">OOCSS</abbr>](https://github.com/stubbornella/oocss/wiki) / [<abrr title="Scalable and Modular Arcitecture for Cascading Style Sheets">SMACSS<abbr>](http://smacss.com/)
+- [HTML5](http://diveintohtml5.info) / [<abbr title="Cascading Style Sheets 3">CSS3</abbr>](http://www.w3.org/Style/CSS/) (as needed)
+- [Accessibile](http://www.w3.org/WAI/)
+- [Responsive](http://alistapart.com/article/responsive-web-design)
+- [Mobile-First](http://www.abookapart.com/products/mobile-first)
+- [Fluid Grid System](http://alistapart.com/article/fluidgrids)
+- [Sass](http://sass-lang.com/) (and maybe [Compass](http://compass-style.org/))
+- [<abbr title="Object-Oriented Cascading Style Sheets">OOCSS</abbr>](https://github.com/stubbornella/oocss/wiki) / [<abrr title="Scalable and Modular Arcitecture for Cascading Style Sheets">SMACSS<abbr>](http://smacss.com/)
 
 So look forward to articles about all of these things! I might end up having to do a bunch of this as once, so the site might jump forward and then I'll go back and write the articles about it.
 
 As always, [here's a link to this project on github](https://github.com/blrobin2/personalsite-staceybuild/). EDIT: As mentioned in the previous article, this version of the site is no longer mantained as the site is now run on Jekyll. The link is included for historical purposes.
-

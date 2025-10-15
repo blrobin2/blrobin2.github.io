@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - It looks like Lewis Gilbert made the most expensive Bond movies until <i>Tomorrow Never Dies</i>.
 - "Why do Chinese girls taste different from other girls?" — Time to saddle up for some racist misogyny.

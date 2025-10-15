@@ -29,5 +29,6 @@ They set up a chainsaw v. machete fight that could have been great but poorly pi
 
 I don’t hate this movie. But it does so little that I can’t say it did anything for me.
 
-<b>**_ Spoilers _**</b>
+#### Spoilers \_\*\*</b>
+
 I like the idea of Jason becoming a persona <i>a la</i> Ghostface that people use to murder folks. It’s a shame they don’t carry that forward with the next movie.

@@ -24,7 +24,7 @@ Antonioni's style translates brilliantly in some ways and disappointingly in oth
 
 Still, this is a satisfying blend of arthouse sensibilities and mainstream storytelling
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The scene with him on the gondola, his arms outstretched through the window, flying over the water — the mistaken sense that his change has granted him freedom
 - The single-take final shot is top-tier

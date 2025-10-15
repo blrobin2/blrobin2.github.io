@@ -23,7 +23,7 @@ Denzelwitu Washington is the perfect casting choice — few actors can read as p
 
 I didn't go into this with high hopes, but I ended up enjoying this more than I expected
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - St. Jude, Patron Saint of Lost Causes — sick burn, Pita
 - I hope Dakota Fanning is in therapy

@@ -23,7 +23,7 @@ The biggest issue is that its relatively low budget overshadows the movie's ambi
 
 Looks, can anyone in this movie act? No. Are the costumes, hair, and makeup laughable? Yes. But I wasn't bored and can't say that for many sword and sorcery flicks.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - I like the guard who looks like Cliff from Cheers
 - Lee Horsley has the swagger of a much more talented actor. Honestly, props.

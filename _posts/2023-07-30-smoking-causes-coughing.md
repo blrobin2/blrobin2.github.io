@@ -19,7 +19,7 @@ Fear is the foundation of civilization — we have used stories with fatal moral
 
 A very funny and absurd movie. Initially, it felt incomplete, but I think I've just watched so many overstated movies that to see something that gets and gets out so effortlessly is a surprise
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Nicotine would be a pretty name to give a child
 - Hulu doesn't seem to understand post-credit sequences, so I haven't seen the last 15 seconds of the movie

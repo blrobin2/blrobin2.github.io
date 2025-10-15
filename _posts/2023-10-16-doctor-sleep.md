@@ -27,7 +27,7 @@ The reason <i>The Shining</i> movie works is that it throws away the parts of th
 
 This movie is a miniseries condensed into a bloated 2.5-hour movie. That’s what happens when you’re too married to the source material. This material was not worth it.
 
-<b>**_SPOILERS_**</b>
+#### SPOILERS\_\*\*</b>
 
 The third act here is better than the <i>Doctor Sleep</i> book.
 

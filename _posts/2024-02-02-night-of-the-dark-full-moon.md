@@ -39,7 +39,7 @@ It's all so convoluted. The story, as it's structured, isn't a movie. With all t
 
 I was never super invested beyond wanting to know who the killer was. By the time it came around, it didn't matter.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - Minor key Silent Night in the opening credits
 - You're not going to pick up the hitchhiker with a tire iron?

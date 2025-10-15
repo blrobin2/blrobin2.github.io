@@ -31,7 +31,7 @@ Brian Dourif makes a meal of his hot-headed role. When his powers go into effect
 
 I may not love it as much as the Hoopsters, but it’s still better than critics claim.
 
-<b>** Stray Thoughts / Spoilers **</b>
+#### Stray Thoughts / Spoilers
 
 - It’s satisfying watching John Landis burst into flames.
 - Homeopathic migraine pills??

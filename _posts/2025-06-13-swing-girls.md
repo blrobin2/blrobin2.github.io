@@ -29,7 +29,7 @@ Many movies attempt to portray misfit kids being reformed through [insert school
 
 My heart is so full!
 
-<b>**_ Actor Talk _**</b>
+#### Actor Talk
 
 - Juri Ueno, who plays Tomoko, is so funny! She's channeling the classic Hollywood funny women.
 - I knew I recognized Naoto Takenaka! He was in <i>Tokyo Fist</i>.

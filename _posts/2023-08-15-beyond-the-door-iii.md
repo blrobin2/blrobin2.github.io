@@ -21,7 +21,7 @@ Mary Kohnert has such a haunted energy to her — I need to rewatch her Star Tre
 
 This movie is pretty good! I'd recommend it to horror fans who don't mind budget absurdity
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I love how much reverb the pan flutist gets from playing on a train
 - It turns out I've seen <i>BTD 2</i> — it's Mario Bava's <i>Shock</i> — none of these movies have anything to do with each other

@@ -19,7 +19,7 @@ Of course the highlight of the movie is the striptease to “I Want It That Way�
 
 The third act is all of the dancing you could ask for, the finale is that they finish. And then they play “All I Do Is Win” by DJ Khaled. How could I not get pumped up and have fun?
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - A pile of straight boys voguing at a drag show was… not cool
 - Pick up your fucking cash after your routine, you amateurs!

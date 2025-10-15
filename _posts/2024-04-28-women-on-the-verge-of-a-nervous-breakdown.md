@@ -27,7 +27,7 @@ The emotional beats are earnest and feel genuine — most of the characterizatio
 
 Overall, I liked it — I didn't find that connection that could excite me, but I was engaged for most of it.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - They dub a movie where the priest gives the bride a condom just to be safe
 - Thank you for smoking sign in the mamba cab

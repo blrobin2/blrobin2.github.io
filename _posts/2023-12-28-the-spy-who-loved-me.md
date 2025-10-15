@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - Anna Farris sings this theme song in <i>Lost in Translation</i>
 - Stromberg's lair is iconic

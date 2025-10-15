@@ -24,7 +24,7 @@ Great performances, a beautiful setting, and hot chemistry between everyone — 
 
 If I had one complaint, it's that the pacing, while well-done, feels a bit slow for me — if some scenes progressed a little faster and the movie was a little tighter, it would be more effective for me
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - RIP Jane Birkin — she died just last month :(
 - Boy, those suntans look cancerous

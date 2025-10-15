@@ -17,8 +17,11 @@ Fathers were there as guards to ensure I lost any connection to myself. I sang a
 
 Nostalgia is never for the thing itself — when I revisit things from my childhood, they're smaller, more pixelated, and embarrassing. Nostalgia is for the time when I felt more authentically me.
 
-<blockquote><i>There is still time</i></blockquote><b>*** Spoilers ***</b>
-* Tara from <i>Buffy</i>!
-* Pete & Pete are the two zombies outside his house
-* Mr. Melancholy is the moon monster from the Tonight, Tonight music video. There's even a cover of the song in the movie.
-Every color is perfect and felt like a half-forgotten memory
+<blockquote><i>There is still time</i></blockquote>
+
+#### Spoilers
+
+- Tara from <i>Buffy</i>!
+- Pete & Pete are the two zombies outside his house
+- Mr. Melancholy is the moon monster from the Tonight, Tonight music video. There's even a cover of the song in the movie.
+  Every color is perfect and felt like a half-forgotten memory

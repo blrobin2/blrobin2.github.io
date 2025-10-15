@@ -13,7 +13,9 @@ category: movie-review
 
 <b>Somehow, Maniac Cop returned.</b>
 
-<blockquote><i>Office Matt Cordell was framed, imprisoned, and brutally murdered by the very criminals he put behind bars. Seeking revenge on the police force that betrayed him, Cordell returned as the Maniac Cop to terrorize New York City. When fellow officer Sean McKinney finally cleared Cordell's name, he thought the terror would end. He thought wrong.</i></blockquote>Several years ago, when I was learning what I liked about horror, I put this movie on as a joke in the background of a friend's hangout. We got some mild chuckles but turned it off after a few minutes. 
+<blockquote><i>Office Matt Cordell was framed, imprisoned, and brutally murdered by the very criminals he put behind bars. Seeking revenge on the police force that betrayed him, Cordell returned as the Maniac Cop to terrorize New York City. When fellow officer Sean McKinney finally cleared Cordell's name, he thought the terror would end. He thought wrong.</i></blockquote>
+
+Several years ago, when I was learning what I liked about horror, I put this movie on as a joke in the background of a friend's hangout. We got some mild chuckles but turned it off after a few minutes.
 
 This movie became an Allan Smithee project because Larry Cohen's script had a black lead, and the investors didn't want that. Cohen wouldn't rewrite without compensation, and the producers refused. The producers hired Robert Davi for the role, so Lustig cut the material that made no sense with a white lead, leaving him with under an hour's worth of the movie. Lustig left when production forced them to shoot filler to hit an 85-minute runtime.
 

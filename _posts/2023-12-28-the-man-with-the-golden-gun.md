@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - Christopher Lee's Third Nipple — band name, called it
 - The hitman apologizing to the Al Capone wax figurine

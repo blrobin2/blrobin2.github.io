@@ -38,7 +38,7 @@ The whimsical and leading soundtrack undercuts the humor. The film doesn't trust
 
 The movie's destination is obvious. I only wish it got there sooner. The movie's punchline is not as ferocious as the lead-up would suggest.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - This movie first came on my radar when watching Joe Bob Briggs talk about Mary Woronov and Paul Bartel reprising their roles as Mary and Paul Bland in the movie <i>Chopping Mall</i>.
 - I've never heard someone being called a "hard-off" before.

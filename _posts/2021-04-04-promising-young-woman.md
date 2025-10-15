@@ -11,6 +11,6 @@ category: movie-review
 
 If you can watch it as the story of an addict instead of a morality play, you’ll get more mileage out of it
 
-**_spoiler_**
+\*\*\_spoiler
 
 Alternate movie message: “no good men... except cops 😏”

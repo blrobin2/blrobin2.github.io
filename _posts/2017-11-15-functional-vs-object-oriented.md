@@ -15,13 +15,14 @@ I will admit that the JavaScript community has not made a strong argument for OO
 
 When we look at both paradigms in the context of JavaScript, we can observe the following prescription from both schools: with us, you will gain great power, but at a cost.
 
-In the OOP world, that power is the ability to encapsulate complexity and delegate responsibilities to those containers of completexity, keeping your code losely coupled and highly organized. The cost, however, is the freedom to ignore [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) and create deep hierachies, tight coupling, and a lot of state whose values we can barely enforce without a type system. For that last problem, we have options like [TypeScript](https://www.typescriptlang.org/) or [Flow](https://flow.org/) that can assist in the prevention of "a is undefined" type runtime errors by ensuring that code is operating on what it expects.
+In the OOP world, that power is the ability to encapsulate complexity and delegate responsibilities to those containers of completexity, keeping your code losely coupled and highly organized. The cost, however, is the freedom to ignore [SOLID principles](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>) and create deep hierachies, tight coupling, and a lot of state whose values we can barely enforce without a type system. For that last problem, we have options like [TypeScript](https://www.typescriptlang.org/) or [Flow](https://flow.org/) that can assist in the prevention of "a is undefined" type runtime errors by ensuring that code is operating on what it expects.
 
 In the FP world, that power is the ability to compose complex behaviors from basic, stateless functions, building up a side-effect free application that acts only when you want it. The cost, however, is a language that conceptually supports these ideas but must be tightened up with stacks of libraries, such as [Ramda](http://ramdajs.com/), [Sanctuary](https://sanctuary.js.org/), or a pile of ESLint rules. That is, the language does not enforce the constraints that makes functional programming as a full-application concept worthwhile, and must be siloed. To mitigateTo mitigate this, FP langugages like [Elm](http://elm-lang.org/) and [PureScript](http://www.purescript.org/) that compile to JavaScript have come into play.
 
 If I were to sum up these ideas:
-* OOP - With great power comes great responsibility
-* FP - With great constraint comes great power
+
+- OOP - With great power comes great responsibility
+- FP - With great constraint comes great power
 
 I will admit that I have a bias for OOP as we have [decades of lessons in the paradigm](https://martinfowler.com/eaaCatalog/) that can be applied in a JS context without any libraries. In FP, [we absolutely have patterns in concepts like Functors, Applicatives, Monads, etc](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html). The issue in JS is that these must be provided by a library or built yourself if you want access to their power.
 

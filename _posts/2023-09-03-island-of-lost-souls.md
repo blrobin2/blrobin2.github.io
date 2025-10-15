@@ -29,7 +29,7 @@ Intentional or not, the film also (through gross racist caricature) explores col
 
 The movie still holds the capacity to upset — watching these people suffer at Dr. Moreau's unaffected hand is uncomfortable
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Dr Moreau learned to whip as a boy in Australia
 - Charles Laughton is iconic in this — Colonel Sanders white suit — there's a similar energy between him here and Oscar Isaac in <i>Ex Machina</i>

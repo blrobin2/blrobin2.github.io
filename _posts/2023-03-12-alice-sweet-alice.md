@@ -15,7 +15,7 @@ We know more than anyone else in the movie, and yet it feels like we can’t see
 
 Even when our questions are answered, we are still left with more whys
 
-<b>Stray thoughts</b>
+#### Stray Thoughts
 
 - There’s something so fucking creepy about a priest laying a communion wafer on a child’s tongue
 - “I don’t want to rush you, but mass begins at nine,” says the neurotic aunt — the one who believe Alice to be the killer before anyone else — to the mother grieving the death of her child

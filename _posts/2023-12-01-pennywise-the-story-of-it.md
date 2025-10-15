@@ -21,7 +21,7 @@ All these directors do is make documentaries for die-hard fans.
 
 Of all the movies "prescribed" to me to watch, I cannot think of a less interesting subject than a two-hour documentary about the 1990 miniseries It. Still, I found some of it interesting.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The movie killed the clown industry, right? Or, you know, John Wayne Gacy.
 - It sucks to hear how much harassment Emily Perkins faced from the other child actors. She tried to play it down, but they regularly told her she was incompetent and referred to the book orgy scene, which she didn't know about.

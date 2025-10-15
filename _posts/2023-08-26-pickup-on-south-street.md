@@ -24,6 +24,6 @@ Despite the dull propaganda, the film, intentionally or not, doesn't paint Ameri
 
 <blockquote><i>It's so hard to get up in the morning, get dressed, walk the streets, climb the stairs. I go right on doing it. Well, what am I gonna do, knock it? I have to go on making a living so I can die... I'm so tired. You'd be doing me a favor, blowing my head off</i></blockquote>A flawed but significant film noir. And it's sub-90 minutes!
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - If Jean Peters looked at me like that opening shot of her on the subway, I would simply not steal her purse

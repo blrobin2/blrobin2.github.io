@@ -4,7 +4,8 @@ title: "A Beginning Haskeller Builds a Web Scraper (Part 2)"
 excerpt: "A journey into Haskell, and my failings along the way"
 category: programming
 ---
-### Previously On...
+
+### Previously On
 
 In the [previous article]({% post_url 2018-11-12-aggr-haskell-part-1 %}), we built a web scraper that reads in an RSS Feed, translates it to an XML DSL in order to traverse it and collect relevant data, and translated that data into a custom Album datatype that we can use to export the data as JSON.
 
@@ -12,9 +13,9 @@ That's a lot!
 
 In this article, we're going to tackle the following objectives:
 
-* Clean up our code
-* Pull in a second RSS feed
-* Introduce an optional score field to our Album datatype
+- Clean up our code
+- Pull in a second RSS feed
+- Introduce an optional score field to our Album datatype
 
 Let's get started!
 
@@ -132,11 +133,10 @@ Notice we aren't hardcoding the "albums.json" file path, but accepting it as an 
     main :: IO ()
     main = writeAlbumJSON "albums.json"
 
-
 And just to make sure things are working, we run:
 
-* `stack build` to build our code
-* `stack exec aggr-haskell` to generate our JSON
+- `stack build` to build our code
+- `stack exec aggr-haskell` to generate our JSON
 
 It works! Let's continue.
 
@@ -148,8 +148,8 @@ We knew from the outset that we weren't just going to pull in Pitchfork's RSS fe
 
 Looking at the RSS feed, we may be surprised to see how much in common this feed has with the Pitchfork feed, especially for our purposes:
 
-* The album artist and album title both live in the `title` tag
-* The date lives in the `pubDate` tag
+- The album artist and album title both live in the `title` tag
+- The date lives in the `pubDate` tag
 
 With this in mind, we can write a naive first draft of `getStereogumAlbums` with little work:
 
@@ -175,17 +175,17 @@ What's different between this and `getPitchforkAlbums`? It's genuinely hard to t
 
 Before we refactor, let's pull this in and make sure it works as we expect. We could comment out `getPitchforkAlbums` and put in `getStereogumAlbums` for testing, but let's actually think about how we want to pull these two together.
 
-* We have two functions whose types are `IO [Album]`
-* We want to arrive at a value of `IO [Album]`
-* We can put each function into a list:
+- We have two functions whose types are `IO [Album]`
+- We want to arrive at a value of `IO [Album]`
+- We can put each function into a list:
   - `[getPitchforkAlbums, getStereogumAlbums]`
   - which gives us a type of `[IO [Album]]`.
-* We want to join the `[Album]` together, so we can pull in `Control.Monad (join)` to help with that:
+- We want to join the `[Album]` together, so we can pull in `Control.Monad (join)` to help with that:
   - `join [getPitchforkAlbums, getStereogumAlbums]`
   - but that doesn't work. `join` sees us trying to flatten `IO`, not the lists within...
-* We look to our friend, the `Traversable` typeclass, and it's function `sequence`, which has the following type:
+- We look to our friend, the `Traversable` typeclass, and it's function `sequence`, which has the following type:
   - `sequence :: Monad m => t (m a) -> m (t a)`
-* Combining our sequence to flip where the IO is, we get:
+- Combining our sequence to flip where the IO is, we get:
   - `sequence [getPitchforkAlbums, getStereogumAlbums]`
   - Which gets us a type of `IO [[Album]]`
   - Which we can `fmap` over with `join` to get: `join <$> sequence [getPitchforkAlbums, getStereogumAlbums]`
@@ -491,15 +491,16 @@ Yes, we're going to stop here with a slow script that pulls in scores we don't u
 
 Next time, we'll look at:
 
-* Filtering based on the score
-* Using an actual Date type for the date in Album
-* Pulling in a third (and final) source for albums
+- Filtering based on the score
+- Using an actual Date type for the date in Album
+- Pulling in a third (and final) source for albums
 
 We'll try to finish up everything next time, but if not, we'll have one more article after that for clean up and clarification.
 
 Thank you for reading! You can file complaints and report bugs in the code through [the git repo for aggr haskell](https://github.com/blrobin2/aggr-haskell)
 
-### The Full Code (for now):
+### The Full Code (for now)
+
     {-# LANGUAGE DeriveGeneric     #-}
     {-# LANGUAGE OverloadedStrings #-}
     {-# LANGUAGE RecordWildCards   #-}

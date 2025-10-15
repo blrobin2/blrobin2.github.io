@@ -29,7 +29,7 @@ I like the bus design! The filmmakers drove it on the highway enough to get conv
 
 Like any comedy, your experience will largely depend on your sense of humor. If you like your jokes dumb and your sets stylish, you could do worse.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - When the scientist can't quite get the nuclear payload into the cannister, they get a guy to go in and realign it by hand.
 - Is this the movie where Stephen King got the name Danny Torrance?\

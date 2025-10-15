@@ -23,7 +23,7 @@ everyone mumbles too much — I had the movie deafeningly loud to try and make o
 
 Kristin Stewart commits to the role, and it's the movie's one saving grace. Without her performance, there's no movie
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - The beat with the spider at the beginning is meaningless
 - the title card is not subtle about the Alien nod

@@ -23,7 +23,7 @@ It’s all pretty silly, and they really go out of their way for some misdirects
 
 I would love to watch this again with friends
 
-<b>strAy thoughts</b>
+#### Stray Thoughts
 
 - <i>Pretty Little Liars</i> fans will appreciate the all-black outfit of the killer
 - They’ll also enjoy the bell tower that plays into the plot

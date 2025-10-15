@@ -18,7 +18,7 @@ This movie gets so insane so quickly, just piles of gore and absurdities, the ni
 I get why this is so divisive — from a purely aesthetic viewpoint, this is as exploitative as it gets in the mainstream. And being in that position isn't what Rob Zombie wants — it's only because of his music career that his movies have
 received so much attention (and this is another remake of a horror classic). But for those who would be here regardless, they are getting what they want — high-budget surrealist shlock
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - White horse in the spotlight, I get the Twin Peaks comparisons now
 - "Nights in White Satin." I get it

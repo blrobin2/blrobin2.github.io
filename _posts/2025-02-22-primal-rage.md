@@ -23,7 +23,7 @@ Uh oh! Looks like Duffy's got a case of Primal Rage™️.
 
 This movie is fun! I don't love it as much as some other horror nerds, but it goes down smoothly and never dallies.
 
-<b>**_Stray Thoughts/Spoilers_**</b>
+#### Stray Thoughts/Spoilers\_\*\*</b>
 
 - Ethridge has such an insane haircut and a rat tail to boot. Who did this to him?
 - Another entry in the "all men are trash"-iverse. Everyone is trying to sexually assault college girls, including the math professor.

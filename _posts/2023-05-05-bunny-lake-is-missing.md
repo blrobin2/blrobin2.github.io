@@ -23,7 +23,7 @@ The movie spends an awfully long time moving through the initial minutiae of the
 
 What an upsetting movie, what a pleasant surprise
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Weirdo landlords must have small pets. Jesus, that dude sucks
 - Hell yeah, Zombies on the television

@@ -40,7 +40,7 @@ The movie stands out for its portrayal of extramarital relationships. It also di
 
 This may have played for laughs in 1932. It's more likely that Hollywood has called everything it doesn't understand a comedy since the beginning.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I can't believe Slyvia Sidney is the afterlife case worker from <i>Beetlejuice</i>!
 - Fredric March does not have comedic chops. He fares better in genre films like his standout role in Dr. Jekyll and Mr. Hyde.

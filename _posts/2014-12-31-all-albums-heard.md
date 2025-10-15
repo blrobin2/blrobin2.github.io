@@ -11,7 +11,7 @@ category: music
 ★★ - Eh<br />
 ★ - Meh
 
-###Links to Spotify, Bandcamp, datPiff, Soundcloud, Grooveshark, or iTunes
+### Links to Spotify, Bandcamp, datPiff, Soundcloud, Grooveshark, or iTunes
 
 - [††† - †††](http://open.spotify.com/album/5PEnsFw9WrlQ1OyMqKWmVF) ★★.5
 - [Aa - VoyAger](http://open.spotify.com/album/3Ervc8M8EFLuDGvEsU9L6Q) ★★★
@@ -248,7 +248,7 @@ category: music
 - [Merchandise - After the End](http://open.spotify.com/album/6NqfQMTNU6tT8Vr3nnP13x) ★★★★★.5
 - [Jeremy Messersmith - Heart Murrmurs](http://open.spotify.com/album/6SuIleYbiL8pUzX4W7yPXG) ★★★★
 - [Ingrid Michaelson - Lights Out](http://open.spotify.com/album/7EeXlp6rdj7623162lm1yK) ★★★★
-- [Migos - Rich Ni**a Timeline](http://open.spotify.com/album/0ty5iwaiepWlGq8g0DKtEy) ★★★
+- [Migos - Rich Ni\*\*a Timeline](http://open.spotify.com/album/0ty5iwaiepWlGq8g0DKtEy) ★★★
 - [Parker Millsap - Parker Millsap](http://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) ★★
 - [Mimicking Birds - Eons](http://open.spotify.com/album/1dPl9GEEjklhOMM9RpdiEf) ★★★.5
 - [The Ministry of Wolves - Music from Republik der Wölfe](http://open.spotify.com/album/1KevsqeC2SCqClwNXxarXw) ★★★

@@ -31,7 +31,7 @@ And how it’s solved, as convoluted as it is, is pretty amusing — it involves
 
 Argento completists (and Mimsy Farmer fans) will find something to enjoy
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Sweet kitty falling asleep, I audibly “Aww!”-d
 - The PI’s eye-shaped door handle is neat. “Oh, you heterosexuals!” the PI says

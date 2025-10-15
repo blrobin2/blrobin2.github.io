@@ -27,7 +27,7 @@ I wish I enjoyed the fights more! They're great spectacles, but they're such non
 
 I'm still new to Shaw Brothers movies, so I'm not sure how this one compares to others. I found it enjoyable despite its problematic subject matter.
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - I love how easy it is for them to forge operational iron legs and arms.
 - Lo Mang is so ripped, holy shit — he's the only one who has his shirt off throughout most of the movie.

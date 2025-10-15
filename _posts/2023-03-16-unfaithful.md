@@ -23,7 +23,8 @@ And that ending is possible… like 85 minutes in? But then the movie drags anot
 
 I don’t hate the actual ending as much as some people do, but I get why people hate it
 
-<b>Stray Thoughts
+#### Stray Thoughts
+
 </b>\* Seeing the kid from Malcom in the Middle in this is like seeing the kid from Lizzie McGuire in The Cell — hilarious and jarring
 
 - Are New Yorkers regularly forced into meet cutes by trash-filled winds?

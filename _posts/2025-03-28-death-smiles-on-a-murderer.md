@@ -30,8 +30,9 @@ The score has some nice, haunted synth textures.
 
 Overall, I appreciate how weird and horny this is, but I can't say I connected with it. I wanted to love it more, but I guess I never got on its wavelength.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
-This movie goes beyond Dutch angles to dick angles — the camera is staring up at us from right between his legs. 
+#### Stray Thoughts / Spoilers
+
+This movie goes beyond Dutch angles to dick angles — the camera is staring up at us from right between his legs.
 During the hunting scene, they're just throwing dead birds from off-screen.
 Walter is falling in love with Greta, who I presume is his dead mother.
 Of course, Sturges is a pseudo-Frankenstein.

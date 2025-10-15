@@ -36,5 +36,6 @@ Cutting this movie to under ninety minutes keeps the pace fast and fun. I did no
 
 I’m looking forward to checking out the rest!
 
-<b>**_ Spoiler Talk _**</b>
+#### Spoiler Talk \_\*\*</b>
+
 So, Charles Lee Ray uses voodoo to transfer into Chucky's body. I watched <i>The Serpent and the Rainbow</i> before this. I didn’t intend to watch two voodoo movies today. Honestly, it could have been any [insert magic here] that got him in there. Why it had to be voodoo, I’m not sure. Also, both movies came out in 1988, so maybe voodoo was a hot topic?

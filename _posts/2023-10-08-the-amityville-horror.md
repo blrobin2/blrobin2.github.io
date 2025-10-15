@@ -24,7 +24,7 @@ That said, the film is a digest of horror cliches — jump scares and fake-outs 
 
 I didn't love this movie — I'm glad I can take it off the watchlist
 
-<b>**_ Spoilers / Stray Thoughts _**</b>
+#### Spoilers / Stray Thoughts \_\*\*</b>
 
 - When they opened up the wall and the head of the ghost faded in and out, I laughed
 - Margot Kidder's got great glasses!

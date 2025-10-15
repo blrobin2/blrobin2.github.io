@@ -18,18 +18,20 @@ Anyway, we won't be in Manhattan for most of this movie, but on a cruise full of
 
 <blockquote><i>— This voyage is doomed!
 </i><i>— Yeah, tell me about it.</i></blockquote>
-<b>*** Stray Thoughts / Spoilers ***</b>
-* Toby, the dog, is such a sweetie!
-* The scene with Sean and his captain dad is so long and awkward!
-* Nothing says romance like a Statue of Liberty necklace.
-* This movie does everything in its power to remind you that it's 1989
-* That pink Flying V guitar rules
-* J.J. is so cool
-* Is Rennie psychic, too?? But wait, Toby also sees it??
-* Sauna rock in the stomach is brutal
-* Woah, Rennie's visions rule
-* The staging of the dance floor murder is confusing
-* So, wait, is the deckhand assisting Jason??
-* Fake rowing until Lewis hits his mark
-* I started drifting out around this time. The movie is way too long 
-* Toby!
+
+#### Stray Thoughts / Spoilers
+
+- Toby, the dog, is such a sweetie!
+- The scene with Sean and his captain dad is so long and awkward!
+- Nothing says romance like a Statue of Liberty necklace.
+- This movie does everything in its power to remind you that it's 1989
+- That pink Flying V guitar rules
+- J.J. is so cool
+- Is Rennie psychic, too?? But wait, Toby also sees it??
+- Sauna rock in the stomach is brutal
+- Woah, Rennie's visions rule
+- The staging of the dance floor murder is confusing
+- So, wait, is the deckhand assisting Jason??
+- Fake rowing until Lewis hits his mark
+- I started drifting out around this time. The movie is way too long.
+- Toby!

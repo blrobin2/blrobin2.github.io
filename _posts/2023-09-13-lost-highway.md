@@ -18,7 +18,7 @@ category: movie-review
 </i><i>— At your house
 </i><i>— That's fucking crazy, man</i></blockquote>Here with the film again, I feel like I'm watching it for the first time, and I'm on board for this fucked-up little journey 
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - David Bowie & Brian Eno - "I'm Deranged" — such a killer track
 - I didn't realize that Bill Pullman plays those sax parts!

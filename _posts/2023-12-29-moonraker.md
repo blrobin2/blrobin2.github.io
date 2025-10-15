@@ -13,7 +13,7 @@ category: movie-review
 
 This movie rules! I had a smile on my face for the entire third act.
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - Dr. Holly Goodhead
 - Bond was still surprised to see a woman doctor in the year of our lord 1979

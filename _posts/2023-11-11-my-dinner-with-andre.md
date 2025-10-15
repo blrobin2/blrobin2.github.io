@@ -29,7 +29,7 @@ Wallace views the world as his enemy, longing for a quiet existence. Can't a the
 
 Both Wallace and Andre recognize the need for conscious action. For Andre, it depends on what makes that person uncomfortable.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I can now attest that Danny Putti did a remarkable job imitating Andre in <i>Community</i>'s "Cultural Film Studies" episode.
 - Louis Malle cut the script down from the original three-hour runtime. While disappointing Wallace Shawn, the movie would have had less cultural impact.

@@ -11,6 +11,6 @@ category: movie-review
 
 There’s a point where so many twists happen in a movie that I stop going “oh!” and just go “oh”
 
-**_ Spoilers _**
+\*\*\_ Spoilers
 
 I really thought the cat was the mother until the end… is it Brenda?? Or is is just an angy thing?

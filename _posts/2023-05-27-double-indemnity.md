@@ -15,7 +15,7 @@ In telling his story through flashback, bleeding into an audio recording, we kno
 
 It’s hard to fully appreciate just because it’s so influential and well-known, but the Raymond Chandler dialogue is snappy, the lighting is beautiful, and Stanwyck is a great femme fatale
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Keys talks like Larry David as Mr. Steinbrenner in <i>Seinfeld</i>
 - Seeing <i>Body Heat</i> first was a mistake. It’s essentially the same movie —<i> Body Heat</i> has a better ending

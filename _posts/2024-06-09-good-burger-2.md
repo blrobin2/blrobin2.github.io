@@ -9,7 +9,8 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Stray Thoughts / Spoilers _**
+#### Stray Thoughts / Spoilers \_\*\*
+
 </b>\* I'm high, so...
 
 - This is Kel Mitchell's updated demo reel.

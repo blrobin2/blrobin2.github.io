@@ -17,7 +17,7 @@ That said, almost every scene overstays its welcome — you could cut 30-45 minu
 
 Overall, the movie is a messy array of silliness bolstered by massive set pieces but not much else. There's an audience for this, but it isn't me
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - IMDb goof — Duan has shaved armpits!!!
 - Duan only wanting Chen to love and marry her so she can become a housewife is pretty dull, and it's at least 1/4 of the movie

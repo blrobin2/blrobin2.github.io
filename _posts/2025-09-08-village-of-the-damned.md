@@ -27,7 +27,7 @@ The kid actors are fantastic. Those eyes are still nightmarish 60-some years lat
 
 Of the John Wyndham adaptations I've seen, this one is by far the best. And 77-minute runtime? Be still, my beating heart.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - To think, Russ Tamblyn almost became the star!
 - A "Beware of Children" sign is visible in the background when the military continues its investigation!

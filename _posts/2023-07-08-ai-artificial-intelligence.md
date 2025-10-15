@@ -17,7 +17,7 @@ The film eventually returns to a more consistent tone, but I couldn’t let myse
 
 Knowing what I know now, I would consider rewatching and reconsidering it further. But as for this watching: great cast, heartbreaking performance from Haley Joel Osment, mostly solid effects, and enough of a meaningful script to have emotional weight
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Oh no, they lost Lizzie McGuire’s brother!
 - <i>The Fabelmans</i> fucked up my ability to watch a Spielberg movie with a mother

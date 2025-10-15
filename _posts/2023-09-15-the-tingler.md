@@ -21,7 +21,7 @@ In some ways, the movie is a loving homage to the power of silent films — we s
 
 While William Castle made his career out of being a campier Hitchcock, he finds an approach here that transcends the comparisons and has fun
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - <i>Percepto: </i>Castle's gimmick was to attach electric buzzers to the undersides of some of the theater seats and then open the movie with a warning that some people are more sensitive to "tingling" than others. He also hired actors to faint and scream during the movie
 - "Cut my head off. Boil me in oil," David says with a smile as he walks in the door

@@ -21,7 +21,7 @@ Murdoch appearing at the dinner was terrific! They did like a reverse explosion 
 
 It took me a bit to warm up to this, but once it got going, it won me over
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I, too, would instead be playing in the field with women than go to war
 - A little premonitory, the idea of a castle in Florida becoming a public attraction

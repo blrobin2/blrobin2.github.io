@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Immediately love the aesthetic!
 - Is this what <i>The Devil Wears Prada </i>is based on?

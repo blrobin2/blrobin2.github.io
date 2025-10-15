@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - Jet packs
 - Guess they hadn’t decided Blofeld looks like Dr. Evil yet. The figure behind the shades has a full head of hair.

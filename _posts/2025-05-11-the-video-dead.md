@@ -30,7 +30,7 @@ The film isn't hysterical but has effective (and intentional) funny moments. The
 
 I'm not the biggest zombie movie fan, but this movie is fun enough that I quite enjoyed it!
 
-<b>**_ Stray Thoughts/Spoilers _**</b>
+#### Stray Thoughts/Spoilers
 
 - Zoe is attending university to major in aerobics and minor in music videos, much to Jeff's chagrin.
 - Chocolate likes to mate with skunks. They don't like it when he tries to mate with them, so they spray him. Then he REALLY gets turned on.

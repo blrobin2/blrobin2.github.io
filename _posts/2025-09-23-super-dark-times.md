@@ -25,7 +25,7 @@ The movie sort of devolves into vibes with dream sequences, surreal experiences,
 
 The movie kicks back into gear for the third act to give us some necessary tension. Still, it doesn't seem to add up to much in the end.
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts
 
 - Daryl is supposed to be obnoxious but funny. He's just obnoxious.
 - Zach's mom is cool. Like, whose mom is that cool?

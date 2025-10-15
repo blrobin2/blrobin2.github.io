@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<i>Movie CW // Misogyny 
+<i>Movie CW // Misogyny<br>
 MST3K CW // Misogyny, Ableism, Racism, Fatphobia, Homophobia</i>
 
 I wouldn't say this had a promising start, but I didn't expect it to fall apart this much. Richard Kiel is The Solarite — it's a shame they put him in a costume that hides his face.

@@ -27,7 +27,7 @@ Solid Herbie Hancock soundtrack — the subtle energy keeps the movie moving for
 
 Overall, the movie is a well-constructed Conservative wet dream
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - This movie is the first time I've seen "director and co-producer" as a single credit
 - Jeff Goldblum shows up as "Freak 1", wearing a Jughead cap. He is going to end up in my most-watched actors this year for all the minor roles he keeps cropping up in. "Don't jive, Mother; you know what I want." Ugh, shut up

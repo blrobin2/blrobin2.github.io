@@ -23,7 +23,7 @@ Everyone's performances are perfect — there's such a naturalism to the way eve
 
 I loved it
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Maud's daughter wakes up because she wants to see the Christmas tree lights
 - The outdoor French market looks cool — I love the shelves of cheese

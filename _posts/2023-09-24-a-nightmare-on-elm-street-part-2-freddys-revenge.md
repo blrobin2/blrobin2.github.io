@@ -27,7 +27,7 @@ The homoerotic undertones are subtle at first but ramp up, starting with running
 
 I think the movie's greatest success is how fun it all is. While the first one is more imaginative and coherent, this one is willing to abandon all logic for a set piece. If it were anywhere in between, this would be a much worse movie
 
-<b>Stay Thoughts</b>
+<b>Stay Thoughts
 
 - The girl checking out Jesse's ass while he's fighting — same girl
 - Opening the fridge in the middle of the night and spilling things is also my M.O.

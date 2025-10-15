@@ -25,7 +25,7 @@ The cinematography is quite good — it's fluid, and the compositions effectivel
 
 Overall, it's challenging to analyze the movie without discussing all its details, but I want to leave you with discoveries of your own. It's not that the film is difficult to understand— it just doesn't fit neatly into a box. Believe it or not, it all comes together in the end — the opening series of motifs recapitulated through the Kyeong-mi melodrama.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - The poison woman has <a href="https://www.etsy.com/listing/1784587734/vintage-1971-35l-fanta-limonade-amber" rel="nofollow">a sick retro Fanta glass bottle</a>.
 - The mysterious old man keeps saying, "Triumph of the Will," but I don't think he's referring to Hitler. I could be wrong, though.
@@ -37,4 +37,3 @@ Overall, it's challenging to analyze the movie without discussing all its detail
 - Impressive how the incinerator can burn up all the bones except for the skull.
 - The movie becomes a beach movie about 80 minutes in for about 10 minutes.
 - Yeong-geol talks about masterpieces and how artists can't die without one great piece, which motivates Kyeong-mi. Her great work is to capture Yeong-geol and die alongside him. In her words, this is the most significant expression of love. Yeong-geol becomes a butterfly in others' nets.
-  <b>**_ END Stray Thoughts / Spoilers _**</b>

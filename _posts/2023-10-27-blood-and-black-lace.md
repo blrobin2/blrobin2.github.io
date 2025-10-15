@@ -21,7 +21,7 @@ The influence on Argento is palpable. The striking reds in this movie remind me 
 
 Bava may have invented giallo with <i>The Girl Who Knew Too Much</i>, but this is his artistic peak in the genre.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The color in the opening credits is perfect. I love the way it introduces each actor.
 - The red doll with no face and a black wig is such a weird image.

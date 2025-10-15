@@ -13,7 +13,7 @@ category: movie-review
 
 To survive family Christmas, I have been macro-dosing sangria, so we’ll see how coherent these notes are.
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - “This never happened to the other fellow.” Lazy lamp shading.
 - Tracy di Vicenzo. Is she the best Bond girl? Every time she shows up, she owns the scene.

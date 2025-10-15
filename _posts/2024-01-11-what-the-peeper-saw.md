@@ -35,7 +35,7 @@ I worry about Mark Lester's mental health after being in movies like this.
 
 On the surface, this is another bad seed story. Underneath, however, is something disturbing and wild.
 
-<b>Thoughts/Spoilers</b>
+<b>Thoughts/Spoilers
 
 - I recently saw Britt Ekland as Mary Goodnight in The Man with the Golden Gun.
 - Phenology - the study of seasons and cycles. I guess Marcus is supposed to be a little genius.

@@ -27,7 +27,7 @@ This director also did <i>Night of the Comet</i>, which I was a big fan of. He a
 
 This is often compared to <i>Final Destination</i>, but it also has significant <i>It Follows</i> vibes! And I would say it's at least as good as that movie.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - I guess this is technically a Christmas movie?
 - The nurse regarding the morgue: "What do people think this is, the fun zone?"

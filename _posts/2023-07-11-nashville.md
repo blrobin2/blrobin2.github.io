@@ -21,7 +21,7 @@ I could quibble about the amount of music or the heavy-handed foreshadowing, but
 
 I plan to watch it again soon with Altman’s commentary
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Is Merle Kilgore playing Trout where Kilgore Trout comes from? Obviously not, but what an odd coincidence
 - I love Karen Black, her performance fully humanizes Connie White and breaks my heart

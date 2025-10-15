@@ -27,7 +27,7 @@ The discussions of life and death, while not profound, ground the story and expr
 
 The ending, however, is nonsense.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I appreciate the hostile past the movie presents, especially for our Black lead. Time travel would suck for the majority of people.
 - I like seeing Anthony Mackey in a non-Marvel project! He isn't amazing, but he commits, and it helps this movie a lot.

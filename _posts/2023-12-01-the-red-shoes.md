@@ -62,7 +62,7 @@ This is one of the greatest endings to one of the best movies I've seen. It's th
 
 Magic. Pure magic. I adore this movie.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I love the title card of the candle on top of the Hans Christian Andersen book.
 - "Forty-Five Minutes Later" scrolls across the screen, but no other visual indicator of time passing.

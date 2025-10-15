@@ -17,7 +17,7 @@ I ended up watching this at 1.5x to deal with the snail pacing. It would be fine
 
 Perfect for the Hollywood/Hitchcock diehards, but a bit of a slog otherwise
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The cat on the roof as a stand-in for the cat burglar is cute
 - The maître'd popping his champagne bottle at the sight of Cary Grant is a mood

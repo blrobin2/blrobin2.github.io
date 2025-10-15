@@ -13,7 +13,7 @@ category: movie-review
 
 It's wino-o-clock, let's see how handsome boy Timothy Dalton pairs with this pinot noir
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - I've never seen either of Timothy Dalton's Bonds. My dad hates him, so would never watch them
 - A desk in an aircraft hangar is...

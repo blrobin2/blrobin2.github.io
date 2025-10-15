@@ -15,7 +15,7 @@ Sharp, witty, and fast-paced spy thriller. It grinds to a halt for exhausting ex
 
 Much like <i>Strangers on a Train</i>, a tedious shootout severely undercuts the tension that the climax established. Still, there's a lot to love about this movie
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Peak 30s hair — everyone sporting wavy helmets of pomade
 - Is there anything to visiting a British dentist and jokes about British teeth?

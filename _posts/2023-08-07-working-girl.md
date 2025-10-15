@@ -21,7 +21,7 @@ So many great little choices — cinematography touches, hair and makeup, costum
 
 Of course, it has to do the third act romcom misunderstanding and redemption, but it hits the notes it needs to and still manages to maintain the fabric of the reality it has established
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - Great big hair on Melanie Griffith and Joan Cusack and all the other Jersey Queens
 - "$6000!? It's not even leather!"

@@ -29,7 +29,7 @@ To get a hint at the movie's sense of humor, there's a scene where Cutter gets u
 
 I know many horror fans are into this movie. It could be that I'm losing my affinity for horror. Or maybe I prefer the original trash to neo-trash pastiche. I also like horror movies that don't waste 2 hours of my life for 30 minutes of story.
 
-<b>**_ Actor Talk _**</b>
+#### Actor Talk
 
 - Seeing E.G. Daily as Candy hits a weird place in my childhood.
 - I miss Karen Black as Mother Firefly :(

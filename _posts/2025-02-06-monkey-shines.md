@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 21</a>
+<b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 21</a></b>
 
 Allan goes running one morning, only to be hit by a truck. The hospital performs spinal surgery, saving Allan's life but rendering him quadriplegic. Allan's mother tries to tend to his every need—for those she can't, she hires a nurse named Maryanne to assist.
 
@@ -28,9 +28,10 @@ You'll be disappointed if you watch this expecting a schlocky horror movie. This
 Though the characters treat Ella as the film's antagonist, she is not the villain. She is a product of the experimentation done on her and the hostile environment of Allan's home. Her sensitivity to Allan's every need creates a codependence where his anger becomes hers and hers his.
 
 <b>Actor talk:</b>
-Stephen Root appears as Dean Burbage, the earliest movie role I've seen him in. 
-Jason Beghe seems like such a boy scout, so every swear word out of his mouth sounds like his first time saying it. 
-Boo, who plays Ella, is so sweet and such a tremendous animal actor. The filmmaking ensures only a few cutaways occur when she performs complex tasks so we can see what she is capable of.
+
+- Stephen Root appears as Dean Burbage, the earliest movie role I've seen him in.
+- Jason Beghe seems like such a boy scout, so every swear word out of his mouth sounds like his first time saying it.
+- Boo, who plays Ella, is so sweet and such a tremendous animal actor. The filmmaking ensures only a few cutaways occur when she performs complex tasks so we can see what she is capable of.
 
 Like many directors, Romero was constantly frustrated with the studio's handling of the film. Although this was only his second studio film, Romero returned to independent films for the remainder of his career.
 

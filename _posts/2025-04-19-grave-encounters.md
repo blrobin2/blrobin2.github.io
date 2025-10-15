@@ -23,7 +23,7 @@ The film does a great job of parodying these shitty ghost-hunter shows. Sean Rog
 
 I never hated it, but I was barely on board by the end.
 
-<b>**_ Stray Thoughts/Spoilers _**</b>
+#### Stray Thoughts/Spoilers
 
 - The doctored photos of Dr. Arthur Friedkin are so funny. I assume his name is a nod to William Friedkin, a la The Exorcist.
 - It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.

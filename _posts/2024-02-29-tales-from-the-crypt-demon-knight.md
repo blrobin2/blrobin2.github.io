@@ -32,7 +32,7 @@ All the practical effects look good enough and are so much fun. It's super gory.
 
 This ends up being a demonic <i>Assault on Precinct 13</i>, which rules.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - I swear I'm not actively seeking Dick Miller movies — he's in everything!
 - There's a flashback to the crucifixion. The blood in the key is Jesus' blood.

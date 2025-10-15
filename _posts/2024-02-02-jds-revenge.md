@@ -33,7 +33,7 @@ They also flashback to the murder scene way too often. This movie could be a sol
 
 This film is flawed and deeply fucked up, but everyone is fully committed to their performances, so it ends up better than it would be otherwise.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - His doctor friend is fucked up in the way he supports Ike beating Christella
 - Is it incest if Ike as JD fucks Betty Jo's daughter?

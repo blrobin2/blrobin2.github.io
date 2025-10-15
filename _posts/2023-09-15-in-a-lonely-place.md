@@ -23,7 +23,7 @@ As a contemporary audience member, it's impossible to root for Dixon and Laurel 
 
 But love is cruel in how it chooses for us our romantic interests. And this isn't a morality play — it's the story of two people the world has hurt too many times
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - It's wild how many speaking roles go uncredited here! Ruth Gillett, who plays Martha, provides crucial plot points
 - We need to go back to launching music careers from movie performances

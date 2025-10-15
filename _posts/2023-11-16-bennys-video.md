@@ -44,7 +44,7 @@ Benny talks about violence in movies, saying he watched a documentary about film
 
 If it feels authentic to the viewer, then what is the difference?
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - If Arno Frisch isn't in therapy, then god help him. His performance is incredible.
 - Why play Pilots and Passengers? How is it a game? You give away money for a position on a scoreboard.

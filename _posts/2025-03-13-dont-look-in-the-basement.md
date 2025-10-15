@@ -23,7 +23,7 @@ With a Z-grade budget, the movie looks like a made-for-TV movie from the era. Th
 
 This movie isn't for everyone's tastes—it kind of sucks. But I'm so captivated by it?? Also, as others have said, this movie doesn't belong on the Video Nasties list.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Dr. Masters is another one of the patients, isn't she? Or the woman pretending to be Dr. Masters. She gets so weirdly bent out of shape.
 - The phone guy is sassy as hell — I kind of dig it.

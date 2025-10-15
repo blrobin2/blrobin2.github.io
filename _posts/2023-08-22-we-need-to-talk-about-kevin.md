@@ -21,7 +21,7 @@ Ezra Miller is pretty bad in this. It's telling when the kid that plays the youn
 
 Still, a small problem in an otherwise excellent movie
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I have made an unusual amount of jokey references to this for having not seen it
 - Going to the sound of jackhammers to drown out baby Kevin's screams — mood

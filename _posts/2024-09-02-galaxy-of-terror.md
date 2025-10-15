@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - The second the New World Pictures logo came up with the hand-drawn lasers, I knew I'd at least enjoy the movie's effects
 - It's wild that James Cameron worked on an Alien rip-off before directing Aliens

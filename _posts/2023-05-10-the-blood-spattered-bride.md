@@ -17,10 +17,11 @@ We also get the fear of a social change — here, women’s lib and lesbianism �
 
 Cool movie! It has a bit of a lull before the third act, but nothing heinous
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Showing up in red to a wedding is such a faux pas
 - Oh hey, it’s dark Nathan Fielder! I initially saw Simon Andreu in The Forbidden Photos of a Lady Above Suspicion
 
-<b>**_ SPOILERS_**</b>
+#### SPOILERS\_\*\*</b>
+
 Towards the end, some imagery evokes the husband as the state trying to shut down a rebellion — the way the girl in the red shirt puts her head down, hands outstretched, as he shoots her in the back of the head. Maybe talking out of my ass, though

@@ -21,7 +21,7 @@ Similar to Jurassic Park, this movie takes an eye thought up by an eight-year-ol
 
 Don't get me wrong, I still found this entertaining. It's just one of those concepts that falls apart with any scrutiny
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The glow in the robot's eyes — is that when it wants to fight its protocol?
 - fun seeing assembly routines on the screen

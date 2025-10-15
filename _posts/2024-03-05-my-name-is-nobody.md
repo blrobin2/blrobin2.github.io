@@ -25,7 +25,9 @@ Once Jack leaves, the barber's son asks if there's anybody faster than Jack
 
 Later, one of the dozens of men trying to kill Jack finds the man and makes him a deal — bring a basket to Jack and get a horse in return. The man brings the basket to Jack, revealing that he knows of Jack's feats. He tells Jack about his plan to take on all 150 members of The Wild Bunch and how he wants Jack to join in. Jack asks for his name.
 
-<blockquote><i>Who, me? Nobody!</i></blockquote>I love the delightful Morricone score. It enhances the sense of playfulness at the heart of the movie. 
+<blockquote><i>Who, me? Nobody!</i></blockquote>
+
+I love the delightful Morricone score. It enhances the sense of playfulness at the heart of the movie.
 
 Is Terrence Hill funny or just handsome? Regardless, Nobody is a goofy character and makes me laugh.
 
@@ -39,7 +41,7 @@ The end is a bit of a cop-out, putting most of the action in stills and montage,
 
 While this has its flaws, its warm-hearted style is rare in Westerns.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - A grave with the name Sam Peckinpah, the director of <i>The Wild Bunch</i>
 - Wild West Wagner

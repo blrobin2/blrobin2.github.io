@@ -31,8 +31,10 @@ The film explores witchcraft and psychic powers as tools of the devil. I don't k
 
 That said, the horror moments are pretty fun. The way the movie uses children is familiar in some places but fairly unnerving in others. The coven sets are pretty great. For all my complaints, the film makes some aesthetic choices that I quite like. The dream sequence, in particular, is quite outrageous.
 
-<b>**_ SPOILER ZONE _**</b>
+#### SPOILER ZONE \_\*\*</b>
+
 The film has some nods to <i>Rosemary's Baby</i> and <i>Village of the Damned</i>, but I think the best comparison is <i>Get Out</i>, but instead of black people it's children. To orphan the children, their toys come to life and kill their families. Then, the entranced children go with the other entranced children to the coven.
 
 I like that the doctor messes up his hair and puts on glasses to disguise himself, but no one outside of the coven knows he's the leader, so what's the point? It's like Superman only dressed as Clark Kent on Mars.
-<b>**_ END SPOILER ZONE _**</b>
+
+#### END SPOILER ZONE \_\*\*</b>

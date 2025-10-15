@@ -19,7 +19,7 @@ Jack follows a lead on the location of Janet, another Latin Jerry recruit, at a 
 
 I'm genuinely shocked at how entertaining this movie is despite Wings Hauser doing everything possible to wreck it. Is this peak PM Entertainment in terms of film quality?
 
-<b>**_ STRAY THOUGHTS / SPOILERS _**</b>
+#### STRAY THOUGHTS / SPOILERS
 
 - Wings Hauser is a charisma black hole. He's trying SO HARD to look cool in his own movie.
 - Wait, they killed off Jessie so quickly!
@@ -38,4 +38,3 @@ I'm genuinely shocked at how entertaining this movie is despite Wings Hauser doi
 - "Stop shooting me!"
 - — "Jack, may I please move in with you?" — "Mother, may I?"
 - The camera pans away from Jack and Holly kissing to follow the dude in the pink Speedo roller skating._chef's kiss_
-  <b>**_ END SPOILERS _**</b>

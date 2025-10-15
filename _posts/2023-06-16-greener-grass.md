@@ -21,7 +21,7 @@ It also has something to say about parenthood — much of it critiques the way p
 
 Like all sketch comedy, some scenes work better than others, but it’s consistently funny and enjoyable
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - “Oh, we just bonded. I’ve been her mom since she was born.”
 - Always delighted to see Mary Holland in anything — she’s so funny

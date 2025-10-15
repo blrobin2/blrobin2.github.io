@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Whoa, Judy Garland walking around in a towel.
 - I can see Liza Minnelli's resemblance in this movie.

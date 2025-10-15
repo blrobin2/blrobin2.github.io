@@ -33,27 +33,31 @@ end
 ```
 
 By allowing the port to be set manually, we:
-* Know the port when we pass it
-* Avoid port collisions
+
+- Know the port when we pass it
+- Avoid port collisions
 
 Now, in the `.env` file, add:
 
-```
+```bash
 // .env
 BYEBUGPORT=3001
 ```
 
 In one console, run:
+
 ```bash
 byebug -R localhost:3001
 ```
 
 And in another, run:
+
 ```bash
 heroku local -f Procfile.dev
 ```
 
 or:
+
 ```bash
 foreman start -f Procfile.dev
 ```
@@ -66,7 +70,7 @@ I know this was short and simple, but hopefully it helps someone else who has ma
 
 ### References
 
-* [Foreman: Use different Procfile in development and production](https://stackoverflow.com/questions/11592798/foreman-use-different-procfile-in-development-and-production)
-* [Debugging Rails Applications: Debugging with the `byebug` gem](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-byebug-gem)
-* [Remote Debugging with Byebug, Rails, and Pow](https://www.honeybadger.io/blog/remote-debugging-with-byebug-rails-and-pow/)
-* [How to use Byebug with a remote process](https://stackoverflow.com/questions/22794176/how-to-use-byebug-with-a-remote-process-e-g-pow/25823241#25823241)
+- [Foreman: Use different Procfile in development and production](https://stackoverflow.com/questions/11592798/foreman-use-different-procfile-in-development-and-production)
+- [Debugging Rails Applications: Debugging with the `byebug` gem](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-byebug-gem)
+- [Remote Debugging with Byebug, Rails, and Pow](https://www.honeybadger.io/blog/remote-debugging-with-byebug-rails-and-pow/)
+- [How to use Byebug with a remote process](https://stackoverflow.com/questions/22794176/how-to-use-byebug-with-a-remote-process-e-g-pow/25823241#25823241)

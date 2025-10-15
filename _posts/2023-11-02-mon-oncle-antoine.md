@@ -9,8 +9,8 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 4/52 | Made in Canada 
-</b>
+<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 4/52 | Made in Canada</b>
+
 Benoît is a 15-year-old boy growing up in an Asbestos Region mining town in Quebec during the 1940s. His uncle Antoine is the town undertaker, and Antoine works for him there, as well as at the general store Antoine runs with his wife Cécile. While the film predominantly follows Benoît's point of view, it also encompasses a larger depiction of the town.
 
 When winter comes to the small town, Benoît helps decorate the store and set up the nativity scene in the storefront window. During this time, we see Benoît sneak alcohol, flirt with his crush, and watch a woman change clothes. You know, teenage mistakes.

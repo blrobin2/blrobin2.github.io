@@ -21,7 +21,7 @@ Each scene has a multi-colored title card. The cards are pretty on the nose and 
 
 If the movie were any good, I’d think about it more, but the film is so tediously shot and poorly conceived or realized
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The cigarette helmet is funny (it forces him to smoke three cigarettes at once, and the movie treats it so ominously)
 - Jar of penises? Sure, why not

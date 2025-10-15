@@ -37,7 +37,7 @@ As a product of the 80s, the film grossly objectifies several of the women we en
 
 This film may be my favorite teen comedy from the 1980s—at least that I've seen thus far.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Why the hell is Gregory putting on deodorant on his shirt? His pits are blue.
 - Andy likes watching the big trucks on the freeway.

@@ -23,7 +23,7 @@ This movie sucks, and I love it! I've never seen Robert Z'Dar speak so much.
 
 Honestly, after 40 minutes, this becomes pretty unbearable.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - We open on some women auditioning to dance for... ?
 - Lynch, after Tony interrupts his sex sesh, tells the model to "keep it warm for me."

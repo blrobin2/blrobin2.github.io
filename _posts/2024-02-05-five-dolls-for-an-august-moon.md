@@ -12,7 +12,9 @@ category: movie-review
 <b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>
 
 <blockquote><i>There's something dirty about death
-</i></blockquote>Professor Farrell attends a private island retreat hosted by industrialist George Stark. 
+</i></blockquote>
+
+Professor Farrell attends a private island retreat hosted by industrialist George Stark.
 
 The first night, Marie removes her sequenced dress and dances on the furniture. George ties her up. Everyone grabs a knife. The lights go out. When they come back on, someone has stabbed Maria.
 

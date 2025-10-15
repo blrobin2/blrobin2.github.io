@@ -21,7 +21,7 @@ Similarly, the “fish out of water” trope was way overused in the 80s — the
 
 Overall, a charming rom-com
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Keith Haring heels!
 - Every delivery of “My god!” from Malkovich is perfect

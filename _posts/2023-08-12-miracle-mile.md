@@ -19,7 +19,7 @@ The secondary characters in the diner are a little cartoony, but they don't take
 
 The third act is where the movie tightens up, and the movie's message comes into focus: love will kill us all
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Did <i>Adaptation </i>use the same stock footage for its "Where to begin?" sequence
 - Killer Tangerine Dream soundtrack

@@ -67,7 +67,7 @@ The movie loses momentum before the climax while attempting to establish a plot 
 
 Still, this is a blast.
 
-<b>**_ Thoughts / Spoilers _**</b>
+#### Thoughts / Spoilers \_\*\*</b>
 
 - "Did you find out who's more popular in Denver: Kim Basinger or Kelly Lebrock?"
 - "No one would play a prank like that — it's unethical!"

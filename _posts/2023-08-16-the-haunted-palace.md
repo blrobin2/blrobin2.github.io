@@ -11,7 +11,7 @@ category: movie-review
 
 The choice to blend Poe and Lovecraft yields dividends. The story requires a lot of exposition, but also has more energy throughout than most of the other Poe cycle films. Overall, a little clunky, but it all comes together in the end
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The first movie to use the Necronomicon!
 - Debra Paget's last film :(

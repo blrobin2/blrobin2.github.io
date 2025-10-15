@@ -15,7 +15,7 @@ The US Army Rangers being at the castle seems like a Downton Abbey season 2 scen
 
 It all adds up to American propaganda in the end — it takes the bravery of an American relative to save a cowardly family — but what do you expect from 1944 Hollywood?
 
-<b>Stray Thoughts;</b>
+#### Stray Thoughts;</b>
 
 - Starting your movie with a book of famous ghosts is going to get my attention immediately
 

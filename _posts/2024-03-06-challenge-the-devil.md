@@ -44,7 +44,7 @@ The flashback surpasses the framing story, which only exists to fill time. Its c
 
 Overall, this is quite an inept piece of filmmaking. I don't think a living soul would have seen it if Christopher Lee wasn't in it for a few minutes.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - The kid staring at the camera.
 - The actor glancing at the camera! More than once!

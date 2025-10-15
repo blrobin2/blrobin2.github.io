@@ -25,7 +25,7 @@ I’m used to these mistaken identity movies being played for laughs, so it’s 
 
 I ended up enjoying this a good bit. It’s nothing exceptional, but I was engrossed throughout
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Robert Walker Jr looks like Clint Eastwood’s stunt double
 - The lounge jazz version of <i>Bouree</i> is so funny

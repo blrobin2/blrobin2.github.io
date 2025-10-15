@@ -7,7 +7,7 @@ category: programming
 
 Whenever you search online for 'how to save many-to-many relationships in Rails using form helpers' or some equivalent inquiry, you might discover a number of different approaches. Some have special helpers written into the controller, others may hijack the `autosave_associated_records_for_{field}` hook
 
-And they all work. But they're also not necessary __most__ of the time
+And they all work. But they're also not necessary **most** of the time
 
 ### Simple Example: Authors and Books (`has_and_belongs_to_many`)
 
@@ -16,6 +16,7 @@ Depending on who you talk to (or your Rubocop configuration), `has_and_belongs_t
 I'm not here to preach one way or the other. But if you happen to use it, saving your associations is much easier than you may think
 
 #### Code Setup
+
 This demo will assume you have a Rails project already set up. If not, you can just do `rails new association_saving` or something to get a skeleton project
 
 Once you have a project, generate a migration:
@@ -23,6 +24,7 @@ Once you have a project, generate a migration:
 `bin/rails g migration create_authors_and_books`
 
 `db/migrate/[timestamp]_create_authors_and_books.rb`
+
 ```ruby
 class CreateAuthorsAndBooks < ActiveRecord::Migration[6.1]
   def change
@@ -51,6 +53,7 @@ end
 After running `bin/rails db:migrate`, create your models. I've added some basic validations just to keep myself from getting in trouble
 
 `app/models/author.rb`
+
 ```ruby
 class Author < ApplicationRecord
   has_and_belongs_to_many :books
@@ -65,6 +68,7 @@ end
 ```
 
 `app/models/book.rb`
+
 ```ruby
 class Book < ApplicationRecord
   has_and_belongs_to_many :authors
@@ -138,7 +142,6 @@ For those unfamiliar, [`collection_select`](https://apidock.com/rails/ActionView
 
 Now, whenever you have something selected, the `Save` button is clicked, and `@book.save` is called, your `authors_books` table will be populated with the association!
 
-
 #### Saving without `form_helpers`
 
 That's all well and good if you're using Rails as a [monolith](https://martinfowler.com/bliki/MonolithFirst.html). But this is the 2020s, and microservices are all the rage, so you may be using Rails as an API layer. Your frontend could be Vue, React, Stimulus, Angular... the options are truly endless.
@@ -146,6 +149,7 @@ That's all well and good if you're using Rails as a [monolith](https://martinfow
 But, for all of them, if Rails is receiving the `create` and `update` params the same way as above, your UI can still be simple.
 
 In other words, so long as your `POST` or `PUT` request takes the following shape:
+
 ```json
 {
   "book": {
@@ -157,19 +161,21 @@ In other words, so long as your `POST` or `PUT` request takes the following shap
 
 Then Rails is going to be able to save your associations without issue
 
-### Complex example: Products, Orders, and LineItems (`has_many through`)
+### Complex Example: Products, Orders, and LineItems (`has_many through`)
 
 In this scenario, our join table is going to have fields of its own to manage, so we will need to utilize `has_many through` so that:
-* the join table has its own model (LineItem)
-* we can target the table in the attributes we send across
 
-#### Code Setup
+- the join table has its own model (LineItem)
+- we can target the table in the attributes we send across
+
+#### Complex Example - Code Setup
 
 Again, assuming you have a project already set up, generate a migration:
 
 `bin/rails g migration create_products_orders_and_line_items`
 
 `db/migrate/[timestamp]_create_products_orders_and_line_items.rb`
+
 ```ruby
 class CreateProductsOrdersAndLineItems < ActiveRecord::Migration[6.1]
   def change
@@ -197,8 +203,8 @@ end
 
 After running `bin/rails db:migrate`, create your models. I've added some basic validations just to keep myself from getting in trouble
 
-
 `app/models/product.rb`
+
 ```ruby
 class Product < ApplicationRecord
   has_many :line_items
@@ -209,6 +215,7 @@ end
 ```
 
 `app/models/order.rb`
+
 ```ruby
 class Order < ApplicationRecord
   has_many :line_items
@@ -223,6 +230,7 @@ end
 ```
 
 `app/models/line_item.rb`
+
 ```ruby
 class LineItem < ApplicationRecord
   belongs_to :product
@@ -233,7 +241,6 @@ end
 ```
 
 Besides the use of `has_many through:`, the other new component is the `accepts_nested_attributes_for`. This will allow us to populate our join table from our orders form. The `reject_if` `proc` will reject any entries passed that have a blank quantity. For 0 or negative entries, our model validation will take care of informing the user of those cases
-
 
 Since we're not going to go through creating a Product through the UI, we can add a couple of Products to our `db/seeds.rb`:
 
@@ -275,10 +282,11 @@ We create a list of `@products` that we can use to populate our `select` here sh
 In addition, we set the [strong parameters](https://api.rubyonrails.org/v6.1.3/classes/ActionController/StrongParameters.html) to permit the acceptance of a `description` field, as well as the fields we need to create/update/destroy associations.
 
 Common mistakes I see here:
-* Ommitting the `:id`, which leads to duplicate records being created every time you save. If you allow the save to recieve the `id`, you don't have to worry about duplications
-* Ommitting the `_destroy`, which means that you cannot remove records once they've been created
 
-#### Saving with `form_helpers`
+- Ommitting the `:id`, which leads to duplicate records being created every time you save. If you allow the save to recieve the `id`, you don't have to worry about duplications
+- Ommitting the `_destroy`, which means that you cannot remove records once they've been created
+
+#### Complex Example - Saving with `form_helpers`
 
 Within `app/views/orders/_form.html.erb` (or wherever your save form is located):
 
@@ -314,9 +322,10 @@ Here, we utilize [nested forms](https://guides.rubyonrails.org/form_helpers.html
 
 Like above, all you need to do is hit `Save` and when `@order.save` is called, it will handle populating the `line_items` table for you!
 
-#### Saving without `form_helpers`
+#### Complex Example - Saving without `form_helpers`
 
 See my section above about different front-end frameworks and all that. For this scenario, so long as your `POST` or `PUT` request takes the following shape:
+
 ```json
 {
   "order": {

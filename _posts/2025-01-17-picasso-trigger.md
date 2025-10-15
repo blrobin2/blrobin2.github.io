@@ -30,7 +30,7 @@ So far, this movie is the weakest in the Triple B series. It involves too much t
 
 Don't get me wrong—this movie is silly and entertaining, but it pales compared to its predecessors. Here's hoping <i>Savage Beach</i> gets back to basics.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - Dude, the score has some hooks! We keep the synth work from Hard Ticket to Hawaii.
 - Steve Bond's Travis is the least charismatic of the Abilene cousins thus far. He looks good in a speedo but delivers lines like Ryo Hazuki in Shenmue.

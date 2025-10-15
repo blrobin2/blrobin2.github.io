@@ -25,7 +25,7 @@ Phillip Glass' film score is the movie's most valuable aspect. It has a sharp bl
 
 Overall, the movie is an ineffective — bordering on offensive — sequel.
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The title is quintessentially Clive Barker.
 - The cliché Kingfish radio personality sucks.

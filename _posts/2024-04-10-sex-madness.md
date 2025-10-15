@@ -19,7 +19,7 @@ The film claims to be a warning to the youth about venereal diseases. Like <i>Re
 
 Also, like <i>Reefer Madness</i>, it's a boring curio more than anything. Exploitation fans will appreciate it for historical purposes. Anyone else shouldn't bother.
 
-<b>**_ Stray Thoughts _**</b>
+#### Stray Thoughts \_\*\*</b>
 
 - "Sex Criminal Jailed After Baby Murder."
 - I used a couple of clips from this movie for a project in college. No, you can't see it.

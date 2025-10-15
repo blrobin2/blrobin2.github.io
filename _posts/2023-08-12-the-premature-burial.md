@@ -17,7 +17,7 @@ The absence of Vincent Price is my disappointment and not a flaw of the movie, b
 
 Still, this has all the bearings of a comfort movie for me, so I still enjoyed it
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Dark, moody "Molly Malone" is so funny
 - The nightmare sequence where his screams are horns and the air is a green mist stands out

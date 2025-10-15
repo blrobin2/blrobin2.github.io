@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - Have to watch on Max or rent it on Amazon Prime. Similar to Never Say Never Again, it cuts off like 40% of the screen.
 - Bond snowboards, so they play The Beach Boys?

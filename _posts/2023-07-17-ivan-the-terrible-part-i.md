@@ -25,7 +25,7 @@ Memorable motifs in the score!
 
 Love going into a movie cold like this and having such a great experience. Gotta check out part 2 soon
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - the singer at the tsar’s anointment sounds like the singer of the eyes wide shut orgy music
 - The dude with the sunglasses with only one frame — no way that existed in the 16th century, right?

@@ -23,7 +23,7 @@ I appreciate the filmmaking and the boldness of the direction, but there are pro
 
 Still, lots of good stuff
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Criterion calling this a "thriller" is a massive stretch
 - I had to see the movie that made Shirley Temple resign from judging film festivals

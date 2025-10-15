@@ -21,7 +21,7 @@ The soundtrack rules — it’s either the cheeriest pop music or the most brood
 
 I did not expect to enjoy this as much as I did, but I had a blast
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The opening track is catchy as hell, <i>bah bah-bah-bah bahh</i>
 - Insane house — it looks like its covered in shingles

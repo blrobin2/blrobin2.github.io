@@ -21,7 +21,7 @@ Much of it feels like stage work, and I know some people think that is a weaknes
 
 This is a perfect movie. Every moment is so carefully and attentively rendered
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - I love the illuminated text opening scroll
 - The boy’s choir functions like the Greek chorus

@@ -27,7 +27,7 @@ From a filmmaking perspective, this is a hit-or-miss movie. It starts strong but
 
 Still, this absurd pulp hits a few pleasure centers for me.
 
-<b>Stray Thoughts/Spoilers</b>
+#### Stray Thoughts/Spoilers
 
 - Jeff Fahey thinks those ice-blue eyes can act for him. He might be right.
 - What a killer car wreck scene! I don't know how that stunt guy is still alive. Is he... is he still alive?

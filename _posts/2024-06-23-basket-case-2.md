@@ -37,5 +37,5 @@ Annie Ross hams it up and is visibly having the most fun of anyone onscreen.
 
 Overall, this film is a delightful creature feature, even if it doesn't have much else to offer. The last 15 minutes, however, are pretty outrageous.
 
-<b><i>**_ Stray Thoughts  _**</i></b>
+<b><i>\*\*\_ Stray Thoughts  </i></b>
 The subtitle for the word shit bleeped out on TV is "sh♪t"

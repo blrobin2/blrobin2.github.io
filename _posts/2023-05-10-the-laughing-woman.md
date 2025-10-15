@@ -19,7 +19,7 @@ The whole film has an espionage tone — maybe that’s just childhood inundatio
 
 The movie can get away with many insane choices by never being anything other than insane. It’s nothing brilliant, but it has more than a few ideas, however oversimplified the execution may be
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The blowup replica of himself reminds me of Tracy Jordan buying a life-size sex doll of himself
 - “sexual aberrations and the stars” is a good band name

@@ -39,7 +39,7 @@ The film's social critique — despite my joke subtitle, I honestly don't care t
 
 Of all the 140-odd-minute movies I've watched this year, this film made the best use of its time.
 
-<b>Stray Thoughts / Spoilers</b>
+#### Stray Thoughts / Spoilers
 
 - I can't imagine people that rich taking a cruise together. Wouldn't they take their private yachts?
 - The lady complained about the "dirty sails."

@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The poor goat :(
 - Bond bathed by a 17-year-old

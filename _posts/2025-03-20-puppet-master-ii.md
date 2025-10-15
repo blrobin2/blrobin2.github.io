@@ -31,7 +31,7 @@ I like the puppet work and claymation! It's not high quality, but it's fun. Stev
 
 I wish the movie was just pulpy puppet nonsense, but it spends SO MUCH time watching people chat, and it adds nothing to the film.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Richard Band has three or four presets on his Casio that he loves, and he's not changing it for anyone.
 - Charlie Spradling

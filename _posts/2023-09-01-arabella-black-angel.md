@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>stray thoughts</b>
+#### Stray Thoughts
 
 - in my mind i keep calling this <i>alita: battle angel</i>
 - her eye makeup is inspired

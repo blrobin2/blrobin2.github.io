@@ -19,7 +19,6 @@ Doing what? It's hard to say. But it involves assembling a complex, womb-like st
 
 The film has an experimental quality, its pacing oscillating between slow cinema and horror movie tension. At times, it seems to be going for humor, but it often resorts to prolonged questioning.
 
-There is something political in the way they shared in singing the national anthem before killing that guy. Is it simply that Mexico is eating itself? 
-Something about how the grind to survive creates monsters in all of us? Or the boredom of fascism always leads to "defiling the flesh"? Or is it merely #theDirectorsBarelyConcealedFetish?
+There is something political in the way they shared in singing the national anthem before killing that guy. Is it simply that Mexico is eating itself? Something about how the grind to survive creates monsters in all of us? Or the boredom of fascism always leads to "defiling the flesh"? Or is it merely #theDirectorsBarelyConcealedFetish?
 
 It's hard to analyze something that's so brazenly confrontational. I can appreciate a grotesque allegory, but I appreciate it more when it adds up to something beyond mere despair.

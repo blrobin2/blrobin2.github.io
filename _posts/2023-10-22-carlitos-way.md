@@ -19,7 +19,7 @@ If I had seen this before Mission to Mars, I might have called this a lesser De 
 
 The movie has stellar music choices — some of my favorite disco/dance numbers.
 
-**_ Complaining _**
+\*\*\_ Complaining
 Pacino's Puerto Rican accent is fucking abysmal.
 
 Viggo Mortensen showing up with a mouth full of Chicano slang is embarrassing.

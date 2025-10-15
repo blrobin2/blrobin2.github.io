@@ -17,7 +17,7 @@ Totally unoriginal on paper, and none of the plot matters, but as someone who ha
 
 Overall, very funny
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The most ominous version of “Happy Birthday” in a minor key, so funny
 - The NC accents are so brutal. It reminds me of home

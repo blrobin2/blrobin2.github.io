@@ -269,7 +269,7 @@ Because I have [the Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli
 
 In the root of my project, I create a file called `Procfile.dev` with the following content:
 
-```
+```bash
 web: PORT=3000 yarn --cwd client start
 api: PORT=3001 bundle exec rails s
 ```
@@ -326,7 +326,7 @@ The magic script is `heroku-postbuild` which will be triggered during Heroku's b
 
 Next, we're going to create a `Procfile` for production:
 
-```
+```bash
 web: bundle exec rails s
 release: bin/rails db:migrate
 ```
@@ -360,7 +360,7 @@ Generate a new Heroku app using the Heroku CLI:
 heroku apps:create
 ```
 
-Next, we're going to add some (Buildpacks)[https://devcenter.heroku.com/articles/buildpacks] to our Heroku app so that it knows A) what to use to build the app and B) In which order:
+Next, we're going to add some [Buildpacks](https://devcenter.heroku.com/articles/buildpacks) to our Heroku app so that it knows A) what to use to build the app and B) In which order:
 
 ```bash
 heroku buildpacks:add heroku/nodejs --index 1
@@ -419,7 +419,7 @@ The benefit is that, when the error occurs, you get all of the environment varia
 
 The biggest help for me has been having it for scheduled ActiveJobs that **don't** write to the logs, so debugging without some context can be a pain
 
-#### Okay, that's all!
+#### Okay, that's all
 
 Thank you for reading, I hope this is helpful! If you want to see several of the suggested ideas applied to a repository, you can look at my sample [CRM Repo](https://github.com/blrobin2/crm). Please feel free to clone it and play around (it's still very much a <abbr title="Work In Progess">WIP</abbr>), as well as submit any Pull Requests
 

@@ -36,20 +36,23 @@ Most of the "tourism rom-coms" that followed did little riffing on this formula.
 
 This movie is such a genuine delight. What an achievement! Can William Wyler do any wrong? Between this and <i>The Heiress</i>, he keeps exceeding my expectations.
 
-<blockquote><i>— Rome. By all means, Rome. I will cherish my visit here in memory as long as I live.</i></blockquote><b>***Stray Thoughts / Spoilers***</b>
-* This movie is the first Audrey Hepburn film I've seen as an adult. She's entirely too pretty.
-* Her haircut stressed me out!!
-* Peck is so creepy when he takes the camera from the little girl.
-* Irving's cigarette lighter camera is nifty.
-* This movie made the Vespa in Rome iconic, used most effectively in the modern classic <i>The Lizzie McGuire Movie</i>.
-* The "bored princess who wants to have fun" trope is also a Disney staple.
-* A kiss for Joe and a handshake for Irving
-* It's bold of Joe to beat up the plainclothes agents.
-* The guitar on the head — iconic!
-* LITTLE CAT AT THE DOCKS!
-* Wow, did their kiss make me swoon??
-* I am crying! I know they must say goodbye, and it breaks my little heart.
-* Joe is too mean to Irving.
-* The press meeting is perfect. Peck's eyes epitomize bittersweetness. Hepburn too!
-* Irving giving her the photos is so sweet.
-* I'M SO GLAD THIS DOESN'T HAVE THE MISUNDERSTANDING FIGHT. I was worried about that.
+<blockquote><i>— Rome. By all means, Rome. I will cherish my visit here in memory as long as I live.</i></blockquote>
+
+#### Stray Thoughts / Spoilers
+
+- This movie is the first Audrey Hepburn film I've seen as an adult. She's entirely too pretty.
+- Her haircut stressed me out!!
+- Peck is so creepy when he takes the camera from the little girl.
+- Irving's cigarette lighter camera is nifty.
+- This movie made the Vespa in Rome iconic, used most effectively in the modern classic <i>The Lizzie McGuire Movie</i>.
+- The "bored princess who wants to have fun" trope is also a Disney staple.
+- A kiss for Joe and a handshake for Irving
+- It's bold of Joe to beat up the plainclothes agents.
+- The guitar on the head — iconic!
+- LITTLE CAT AT THE DOCKS!
+- Wow, did their kiss make me swoon??
+- I am crying! I know they must say goodbye, and it breaks my little heart.
+- Joe is too mean to Irving.
+- The press meeting is perfect. Peck's eyes epitomize bittersweetness. Hepburn too!
+- Irving giving her the photos is so sweet.
+- I'M SO GLAD THIS DOESN'T HAVE THE MISUNDERSTANDING FIGHT. I was worried about that.

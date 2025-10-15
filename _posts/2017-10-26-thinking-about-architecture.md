@@ -4,6 +4,7 @@ title: "Thinking About Architecture"
 excerpt: "Rambling about architecture"
 category: programming
 ---
+
 ### Intro
 
 I've spent hours, days, weeks reading about architecture, looking for good conventions. That doesn't make me any sort of expert, it just means I've read a bunch. This is my trying to get some of the ideas I like out and in concrete forms.
@@ -26,21 +27,21 @@ That isn't to say you shouldn't perform ANY validation on the client. Checking f
 
 Those exceptions aside, here's some thoughts.
 
-* [Laravel](https://laravel.com/)
-* [Express](http://expressjs.com/)
-* [React](https://reactjs.org/)
-* [Nest](https://docs.nestjs.com/)
-* [Ruby on Rails](http://rubyonrails.org/)
+- [Laravel](https://laravel.com/)
+- [Express](http://expressjs.com/)
+- [React](https://reactjs.org/)
+- [Nest](https://docs.nestjs.com/)
+- [Ruby on Rails](http://rubyonrails.org/)
 
 ### HTTP Verbs
 
 For any API, you're going to have URLs that are the entry points into the application. You'll have:
 
-* GETs for reading resources
-* POSTs for creating new resources
-* PUTs for completely replacing a resource
-* PATCHES for partial modifying a resource
-* DELETE for deleting a resources
+- GETs for reading resources
+- POSTs for creating new resources
+- PUTs for completely replacing a resource
+- PATCHES for partial modifying a resource
+- DELETE for deleting a resources
 
 There's also HEAD, CONNECT, OPTIONS, TRACE, and maybe some others. I've seen HEAD used, but rarely. HEAD is the same as making a GET request, but only grabs the header data. That said, If you understand the five listed verbs, you're ahead of most of Stack Overflow and the majority of APIs written.
 
@@ -50,7 +51,7 @@ For example, if I have a user and I'm updating their email address, a PUT would 
 
 Of the main five verbs, only GET is considered "safe". Safe means that it has no effect on the server. It's just a query. This means that it's also "cacheable", meaning the data fetched can be stored away and used for subsequent requests instead of hitting the server again. This depends, though, on how often your data changes. If it changes regularly &mdash; such as a support ticket &mdash; then caching will potentially provide stale data to the client.
 
-* [MDN Article on HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [MDN Article on HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 ### Services
 
@@ -64,17 +65,17 @@ This will service a large amount of applications. I know it's not cool and excit
 
 So, where is the line? I think the first place is when you have to introduce middlewares. If you're not familiar, middlewares are just functionality that sits between the client request and the code meant to handle that request. Some uses for middleware:
 
-* validating a request to ensure the request is allowed to have it.
-* decorating a request with a token if the request needs it to do any additional work.
-* logging the incoming request and monitor it.
-* caching data
+- validating a request to ensure the request is allowed to have it.
+- decorating a request with a token if the request needs it to do any additional work.
+- logging the incoming request and monitor it.
+- caching data
 
 Express and Nest both provide a simple way to define middlewares by defining a function that takes in an expected set of parameters, doing the work you'd like to do, and then calling the passed in next() to either trigger the next middleware in the stack or to go on to your request.
 
 Keeping these middlewares in separate files and importing them where needed is a nice way to keep your code loosely coupled and reduce the cognitive overhead of trying to read your top level application file that ties it all together.
 
-* [Middleware: THE core of node.js backend apps](https://hackernoon.com/middleware-the-core-of-node-js-apps-ab01fee39200)
-* [Using middleware in Express](http://expressjs.com/en/guide/using-middleware.html)
+- [Middleware: THE core of node.js backend apps](https://hackernoon.com/middleware-the-core-of-node-js-apps-ab01fee39200)
+- [Using middleware in Express](http://expressjs.com/en/guide/using-middleware.html)
 
 ### Models and ORMs
 
@@ -88,11 +89,11 @@ One of the big differences is that, with Active Record, all your searching and s
 
 I'll just say I'm a big fan of , in part, because it provides Active Record AND Data Mapper implementations. It does, however, rely on TypeScript. You're probably better off using something like Sequelize, which is more popular and supports both JavaScript and TypeScript.
 
-* [Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
-* [Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
-* [ORMs and Anemic Domain Models](http://fideloper.com/how-we-code)
-* [TypeORM](https://github.com/typeorm/typeorm)
-* [Sequelize](http://docs.sequelizejs.com/)
+- [Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
+- [Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
+- [ORMs and Anemic Domain Models](http://fideloper.com/how-we-code)
+- [TypeORM](https://github.com/typeorm/typeorm)
+- [Sequelize](http://docs.sequelizejs.com/)
 
 ### Example
 
@@ -110,8 +111,8 @@ If you use something like Laravel or Ruby on Rails, your code will probably be s
 
 You're not committing to one structure here. You're making smart choices that aren't over architected that allow your architecure to grow as it's needed.
 
-* [Redis](https://redis.io/)
-* [RabbitMQ](https://www.rabbitmq.com/)
+- [Redis](https://redis.io/)
+- [RabbitMQ](https://www.rabbitmq.com/)
 
 ### Events
 
@@ -133,9 +134,9 @@ There's a classic habit that regularly occurs in applications with services is t
 
 How the pairing of Events and Listeners look depend on your context. They could be functions or they could be full-fledged classes. The important thing is isolation of concerns.
 
-* [Observer Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
-* [NodeJS Events](https://nodejs.org/api/events.html)
-* [Laravel Events](https://laravel.com/docs/5.2/events)
+- [Observer Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
+- [NodeJS Events](https://nodejs.org/api/events.html)
+- [Laravel Events](https://laravel.com/docs/5.2/events)
 
 ### More to come
 

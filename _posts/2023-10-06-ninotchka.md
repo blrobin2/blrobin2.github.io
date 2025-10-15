@@ -31,7 +31,7 @@ There are so many tiny pieces of this that I love, but the movie as a whole is a
 
 I like it! I just wanted to like it more because it theoretically has everything needed for something spectacular
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - "I'm ashamed to hang a picture of Lenin in a place like this," Ninotchka says when her comrades show her their expensive Parisian hotel suite. She makes eye contact with the camera when she mourns the cost of bread in Russia
 - It is funny to see her go to sleep with the Lenin portrait on her bedside — there's a magic moment where she asks the picture to smile, and it comes alive to do so

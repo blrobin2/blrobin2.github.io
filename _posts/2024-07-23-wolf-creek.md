@@ -32,7 +32,8 @@ I can't remember why I watched <i>Wolf Creek 2</i> — maybe it was on some list
 
 The film does what it says on the box, but not an ounce more. It's not the violence, but the lazy plotting and half-cocked characterization that doesn't cohere because they put all the budget into the violence.
 
-<b>**_ SPOILER TALK _**</b>
+#### SPOILER TALK \_\*\*</b>
+
 Mick tortures and murders tourists, or anyone who's too posh (Ben, being from Sydney, counts). The back half of the movie is us watching him graphically torture and dismember these folks. We get sort of final girl with Liz, who has some awareness. But the film doesn't want us to have any hope, so she dies.
 
 It doesn't help that Liz and Kristy make completely nonsensical choices. They escape! They made it! But they push the truck over the ledge?? I don't understand.

@@ -19,7 +19,7 @@ The movie has a faint outline of a theme regarding immature, inconsistent parent
 
 Overall, this movie is kind of nonsense and not well-acted, but it has some cool lighting and visuals, and a couple of creative kills
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - the most decrepit mounted deer I’ve ever seen
 - Suzanna Love does some gnarly voices and noises

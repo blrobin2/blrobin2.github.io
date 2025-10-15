@@ -19,7 +19,7 @@ The script is tight and considered — it takes a little time to get going, but 
 
 Overall, this movie wouldn't win any awards, but for genre shlock, it stands out
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Tommy Shaw has a crush on Julie. The guy from Styx?
 - Julie walking in on dad and step-mom having sex and fantasizing about herself in stepmom's place is deeply upsetting

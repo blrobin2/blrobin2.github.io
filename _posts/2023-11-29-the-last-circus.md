@@ -39,7 +39,7 @@ Sergio catches them at a carnival and hospitalizes Javier. In a vision, he sees 
 
 From here, the film is a gore fest as Javier mutilates his face into a permanent clown mask and goes on a killing spree.
 
-<b>**_ Half-Baked Interpretation / Spoilers _**</b>
+#### Half-Baked Interpretation / Spoilers \_\*\*</b>
 
 Álex de la Iglesia is engaging with his country's complicated history. He makes the characters not just victims of their circumstances but representatives of the country's violent past.
 

@@ -19,7 +19,7 @@ But, as many filmmakers can attest: somehow, we get to the end, and a movie is m
 
 The film is a rare case of the sequel enhancing the original — <i>Part I </i>needs <i>Part II</i> to complete it, to give it shape and direction
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Richard Ayoade is so funny — such a pretentious asshole
 - Of course, the only boy who can convey any sympathy or emotional intelligence is gay

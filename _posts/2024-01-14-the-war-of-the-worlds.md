@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 7/52 | 50s Sci-Fi</a></b>
 
-<b>**_Thoughts/Spoilers_**</b>
+#### Thoughts/Spoilers\_\*\*</b>
 
 - This movie's remaster sure looks nice. I love the colors
 - Dr. Clayton Forrester! I didn't know <i>MST3K</i> got that name from this story

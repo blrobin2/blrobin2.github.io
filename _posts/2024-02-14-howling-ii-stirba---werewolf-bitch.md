@@ -27,7 +27,7 @@ To stop it, they must destroy Stirba. To find her, they must go to the dark coun
 
 I wasn't a massive fan of the first Howling, only because it did very little werewolf stuff and a lot of characterization that I didn't care about. This movie ramps up the fun and gives me what I wanted from Howling. It's hokey and outrageous, and I had a blast.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - Christopher Lee can sell the most ridiculous dialogue.
 - The Babel song, "The Howling," plays over and over. It gets old fast.

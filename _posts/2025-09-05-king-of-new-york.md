@@ -25,7 +25,7 @@ The screenplay is a crackerjack box of expectation reversals and tension. The pa
 
 Even before Ferrera made <i>The Addiction</i>, he had a thing for vampires — here, it's subtle until it isn't, what with the Triad members watching Nosferatu. Frank is a sudden force taking over the city. Also, there's some unambiguous homoeroticism, a prerequisite of every good Dracula adaptation.
 
-<b>**_ ACTOR TALK _**</b>
+#### ACTOR TALK
 
 - I don't think I've seen Christopher Walken quite like this. He carries that menace of someone who could be joking one moment and deadly serious the next.
 - OH HELLO HAROLD PERRINEAU! He makes a brief appearance as a gang leader.

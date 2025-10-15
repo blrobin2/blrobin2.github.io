@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Anna had a friend who sang "Hey Big Spender" for a high school talent show.
 - The nightclub she follows Vittorio to is the most 1969 club ever.

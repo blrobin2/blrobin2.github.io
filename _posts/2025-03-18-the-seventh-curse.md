@@ -19,7 +19,7 @@ Dr. Yeun must travel to Northern Thailand to find a permanent cure for his curse
 
 This movie moves a mile a minute! I initially wrote so much more for the summary, but I put my favorite bits in the spoilers section below. The film is so full of delightful surprises and fun! I had a massive grin on my face nearly the entire runtime.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Ni Kuang plays himself! I can tell—he's such a smiley little nerd.
 - Tsui wants an interview with Dr. Yuen and tasteful nudes of him.

@@ -19,7 +19,7 @@ Officer David Madison (Robert Forester pre-hair plugs) is on the case!
 
 The alligator stunts and effects in this look great! The movie goes all out — the almost satirical script, the charming acting performances, the wild set pieces (alligator ripping through a wedding is inspired) — they all elevate this above "just another Jaws rip-off" or creature feature
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - Baby gators are so cute, but why would they sell those to kids? I know they did IRL, but why??
 - Little Yorkies too?!

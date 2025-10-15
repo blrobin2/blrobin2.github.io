@@ -35,19 +35,21 @@ This sucks! I would love to do a super-cut of this to show to friends. But at an
 
 <blockquote><i>— Oh Dakota, what are we gonna do now?
 — Vote.</i></blockquote>
-<b>*** Thoughts / Observations / Spoilers ***</b>
-* The version of the movie I found had a 3-minute trailer before it, which got me pretty hyped.
-* Wes pulls out an illegal firearm and explosive bullets and blows up several cars. 
-* In case you forgot you were watching a PM Entertainment film, our introduction to Slash is him fucking someone we never see again.
-* Immediately after stealing a bus, Slash crashes through a bus stop for funsies.
-* One-Eye does so many costume changes. He pretends to be a vagrant, then immediately changes into a cop uniform to steal a cop car.
-* A guitar wails as the bus goes under a too-low underpass and peels the top off the bus like a can opener.
-* When the cops kill Slash’s girlfriend, he cries over her and makes out with her body before leaving her.
-* After shooting Hampton, Slash empties his gun of bullets except for one, holding it to his head for Russian roulette. But the moment he holds the gun up, he changes his mind and says he doesn’t want to play.
-* To signal Kurt’s hardened demeanor, he also has a goatee.
-* William Sanderson shows up as a more annoying version of his character from <i>Blade Runner</i>
-* Is it the World Liberation Movement or the World Revolution? They say both.
-* Slash’s motivations are vague — he wants to “take back” the government, regardless of who is ruling. In the future, when a corporation runs a totalitarian regime, I’m pretty much on his side.
-* Natalie has sex with holographic Kurt, and it causes all the appliances to go haywire and catch fire.
-* Natalie forgot to ionize Kurt’s particles, so Slash could theoretically destroy him. At the very least, Slash is stronger than him.
-* Kurt kills the Corporate President!
+
+#### Thoughts / Observations / Spoilers
+
+- The version of the movie I found had a 3-minute trailer before it, which got me pretty hyped.
+- Wes pulls out an illegal firearm and explosive bullets and blows up several cars.
+- In case you forgot you were watching a PM Entertainment film, our introduction to Slash is him fucking someone we never see again.
+- Immediately after stealing a bus, Slash crashes through a bus stop for funsies.
+- One-Eye does so many costume changes. He pretends to be a vagrant, then immediately changes into a cop uniform to steal a cop car.
+- A guitar wails as the bus goes under a too-low underpass and peels the top off the bus like a can opener.
+- When the cops kill Slash’s girlfriend, he cries over her and makes out with her body before leaving her.
+- After shooting Hampton, Slash empties his gun of bullets except for one, holding it to his head for Russian roulette. But the moment he holds the gun up, he changes his mind and says he doesn’t want to play.
+- To signal Kurt’s hardened demeanor, he also has a goatee.
+- William Sanderson shows up as a more annoying version of his character from <i>Blade Runner</i>
+- Is it the World Liberation Movement or the World Revolution? They say both.
+- Slash’s motivations are vague — he wants to “take back” the government, regardless of who is ruling. In the future, when a corporation runs a totalitarian regime, I’m pretty much on his side.
+- Natalie has sex with holographic Kurt, and it causes all the appliances to go haywire and catch fire.
+- Natalie forgot to ionize Kurt’s particles, so Slash could theoretically destroy him. At the very least, Slash is stronger than him.
+- Kurt kills the Corporate President!

@@ -39,7 +39,7 @@ The demon manifesting special effects are incredible — billowing smoke adds an
 
 Love, love, love the climax!
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - The amount of space they had on the plane is truly astonishing. Holden could almost go horizontal in his seat without bothering the person behind him
 - I love the niece chastising Holden for mansplaining psychology to her

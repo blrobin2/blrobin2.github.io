@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>Stray Thoughts</b>
+#### Stray Thoughts
 
 - The microorganisms under the microscope are neat — I love how much they freak out Dr. Lanyon
 - <i>“Paradise for the eyes but hell for the soul”</i> is what I want on my tombstone

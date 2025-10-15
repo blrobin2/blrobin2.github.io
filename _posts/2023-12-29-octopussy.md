@@ -12,7 +12,8 @@ category: movie-review
 <b><a href="https://boxd.it/r6gwI" rel="nofollow">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 <b>
 </b>
-<b>Stray Thoughts/Spoilers</b>
+
+#### Stray Thoughts/Spoilers
 
 - The funniest Bond movie title by far
 - Is that supposed to be Fidel Castro?

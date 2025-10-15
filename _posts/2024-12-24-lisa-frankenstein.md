@@ -30,7 +30,7 @@ That said, this movie has so much heart—this scratches an itch that I can't de
 - Carla Gugino has some of the best lines — her character is a one-note foil, though, and this movie would be more fun without her.
 - Liza Soberano nails the vaguely Midwest accent. She gives the best performance of the movie, especially in the back half where things get fucked up. Her jokes got several audible laughs from me.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers \_\*\*</b>
 
 - "No one coddled me when my dad blew up in Da Nang. And that's why I am who I am today."
 - "How am I going to serve sambuca??"

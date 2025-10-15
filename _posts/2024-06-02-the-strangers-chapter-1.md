@@ -27,7 +27,7 @@ I find it funny that the filmmakers have already made two more chapters that fol
 
 Still, as a former <i>Riverdale</i> fan, I am pleased that Madelaine Petsch is getting lead work. Hopefully, this leads to better things.
 
-<b>**_ Stray Thoughts / Spoilers _**</b>
+#### Stray Thoughts / Spoilers
 
 - Sponsored by Ally and Busweiser.
 - A Joanna Newsom record is already on the record player?
