@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme">Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme</a></b>
 
 <blockquote><i>Quinn, Jack. Your final assignment is classification red. At 3:05 PM, Greenwich Mean Time, a truck loaded with 32 kilograms of nonactive plutonium was stolen from a secured US nuclear installation outside Croatia. We believe Stavros
 </i><i>and his organization will sell it to the Iraqis within 24 hours. Your objective is to make sure the plutonium is returned safely to our base. </i></blockquote>

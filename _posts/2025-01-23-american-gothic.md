@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 43/52 | Slasher</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 43/52 | Slasher</a></b>
 
 Cynthia and Jeff recently lost their baby. To help her recover, Jeff plans a trip to Puget Sound with some friends. But when their plane has trouble, they're forced to land on an unknown island. There, they meet Ma and Pa, who detest all forms of technology. They also meet Ma and Pa's kids, all who are at least 50 but think they're 12.
 

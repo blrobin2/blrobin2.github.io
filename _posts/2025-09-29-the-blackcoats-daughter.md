@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 40/52 | Religious Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 40/52 | Religious Horror</a></b>
 
 On a snowy February morning, Kat dreams about her parents being involved in an auto accident. Kat awakens from this dream in her dormitory bed at Bramford Academy. Rose has a secret that she's keeping from everyone except Lizzie. Lizzie insists Rose has to tell her boyfriend, Rick, that she is pregnant.
 

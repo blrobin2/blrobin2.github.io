@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-<a href="https://boxd.it/87hb3V">I kind of like this movie</a>, but I get why the Rifftrax folks chose this one. It's slow and dry, but I enjoy the worldbuilding and Vincent Price. Speaking of Price, all the Rifftrax boys try their hand at an impersonation of him, but none really land it. Also, way too many dick jokes, including one about getting a dog to lick peanut butter off of…
+<a href="https://boxd.it/87hb3V" target="_blank" rel="noopener">I kind of like this movie</a>, but I get why the Rifftrax folks chose this one. It's slow and dry, but I enjoy the worldbuilding and Vincent Price. Speaking of Price, all the Rifftrax boys try their hand at an impersonation of him, but none really land it. Also, way too many dick jokes, including one about getting a dog to lick peanut butter off of…
 
 - Ah, Cleveland, I assume.
 - Yep, this is him, the guy all those women wouldn't date if you were him.

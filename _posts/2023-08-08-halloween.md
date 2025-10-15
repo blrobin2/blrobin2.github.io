@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
+<b><a href="https://boxd.it/pTT2i/detail" target="_blank" rel="noopener">Halloween: Ranked</a></b>
 
 <blockquote><i>The darkest souls are not those which choose to exist within the hell of the abyss, but those which choose to break free from the abyss and move silently among us</i><i>
 </i><i>— Dr. Samuel Loomis

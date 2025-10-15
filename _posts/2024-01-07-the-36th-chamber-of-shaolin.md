@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 4/52 | Shaw Brothers</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 4/52 | Shaw Brothers</a></b>
 
 Liu Yu-de joins his teacher in an uprising against the Manchus. General Tien Ta learns of their plans and thwarts them, killing Liu Ye-de’s friends and family. In trying to run, Tien Ta’s men injure Liu Ye-de. With the help of a local, he sneaks into the Shaolin temple so that he may learn kung fu and teach it to the people.
 

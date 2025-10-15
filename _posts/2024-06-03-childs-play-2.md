@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 1/31 | Franchise 1/7</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 1/31 | Franchise 1/7</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 <blockquote><i>You seen dolls that pee? This one bleeds.</i></blockquote>At the end of Child's Play, Chucky is dead and charred. Now, we watch as Good Guy, who made the doll line, sands down the charred bits, recasts his head, and makes him as good as new.
 

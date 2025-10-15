@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 19/52 | Nazisploitation</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 19/52 | Nazisploitation</a></b>
 
 <b>What happens when you forget the title of <i>Ilsa, She Wolf of the SS</i>? You end up watching <i>Hegla, She Wolf of Spilberg</i>.</b>
 

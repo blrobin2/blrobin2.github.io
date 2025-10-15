@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 36/52 | Stage to Screen</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 36/52 | Stage to Screen</a></b>
 
 Two nymphs dance in a regal park. One dips the other, and they kiss. Cut to a bookshop, where the nymphs are now the older Eduoard Lestingois and younger Chloe Anne Marie. Eduoard calls himself Priapus, after the Greek god with a huge, permanent erection. He laments his boring wife, Emma, who doesn't have sex with him anymore. Chloe runs upstairs to prepare soup. Emma returns home from the funeral of her only friend, and Edouard voices his annoyance at her returning early.
 

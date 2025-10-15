@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 33/52 | Directed by Keisuke Kinoshita</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 33/52 | Directed by Keisuke Kinoshita</b>
 
 A kabuki theater opening, where a host introduces the story — a morality tale about how we treat older adults.
 

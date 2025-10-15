@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 9/52 | CAT III</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 9/52 | CAT III</a></b>
 
 <blockquote><i>By 2001 AD, capitalistic countries have privatized all government organizations. Prisons, like carparks, have become franchised businesses... </i></blockquote>A police bus goes through several security checkpoints to a remote prison. The bus drops off a group of seven men, all in handcuffs. Among them is Ricky, who the state sentenced to serve ten years for manslaughter and assault.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 20/52 | Directed by Ann Hui On-Wah</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 20/52 | Directed by Ann Hui On-Wah</a></b>
 
 <blockquote><i>Chung Chun-Tao, known as Ah Tao, was born in Taishan and adopted as an infant. Her adoptive father died under the Japanese occupation. Her adoptive mother sent Ah Tao to work as a servant for the Leung family. She has served four generations of the family over a span of 60 years.</i></blockquote>
 

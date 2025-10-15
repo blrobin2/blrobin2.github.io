@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 30/52 | Folk Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 30/52 | Folk Horror</a></b>
 
 <blockquote><i>In 2018, a documentary team traveled all over Thailand to study the lives of shamans. After interviewing many shamans, the team decided to study the life of Nim, the shaman of 'Goddess Ba Yan.'</i></blockquote>
 
@@ -29,6 +29,6 @@ The film's primary issue is its reliance on the found footage format. The genre 
 
 Additionally, the movie is excessively long.
 
-Banjong Pisanthanakun has shown his ability to mimic Western horror. See also his movie, <i><a href="https://boxd.it/4V6qmT">Shutter</a></i>. If he can learn to eschew the tropes, he might be a formidable director. Still, the film has some haunting moments that kept me invested.
+Banjong Pisanthanakun has shown his ability to mimic Western horror. See also his movie, <i><a href="https://boxd.it/4V6qmT" target="_blank" rel="noopener">Shutter</a></i>. If he can learn to eschew the tropes, he might be a formidable director. Still, the film has some haunting moments that kept me invested.
 
 Those pink church lights are AESTHETIC.

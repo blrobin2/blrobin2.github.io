@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023">Criterion Challenge 2023</a> | 45/52 | 1960s</b><blockquote><i>This film is not the story of a poet's life. Instead, the filmmaker has attempted to recreate the world of a poet — the modulation of his soul, his passions, and his torments — broadly utilizing the symbolism and allegories of medieval Armenian troubadours.</i></blockquote>
+<b><a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 45/52 | 1960s</b><blockquote><i>This film is not the story of a poet's life. Instead, the filmmaker has attempted to recreate the world of a poet — the modulation of his soul, his passions, and his torments — broadly utilizing the symbolism and allegories of medieval Armenian troubadours.</i></blockquote>
 On paper, this is a biopic about poet and troubadour (ashug) Sayat-Nova. In design, it is a series of moving, living paintings.
 
 The color of pomegranate bleeding from the sheathe of a knife. A foot crushing a cluster of grapes. A child in child's pose, framed in stained glass, as a woman drapes blankets over them.

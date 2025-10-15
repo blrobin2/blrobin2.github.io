@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 51/52 | Italian Horror">Cult Movie Challenge 2016 | 51/52 | Italian Horror</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 51/52 | Italian Horror" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 51/52 | Italian Horror</a></b>
 
 A crowd gathers in front of the Virgin Mary. The priests run swords into the heart of the statue. All have someone ill for whom they are praying to Mary for healing.
 

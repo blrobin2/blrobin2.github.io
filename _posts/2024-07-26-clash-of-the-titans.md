@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 30/52 | A character that has more than 4 limbs</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 30/52 | A character that has more than 4 limbs</a></b>
 
 Argive soldiers, led by King Acrisius, carry a wooden box through hazardous terrain to the sea. He calls Zeus to bear witness as Acrisius drowns his daughter Danaë and her infant son Perseus. The soldiers put Danaë and Perseus in the wooden box and cast it into the sea.
 

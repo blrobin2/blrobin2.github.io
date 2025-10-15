@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 27/52 | <a href="https://www.criterion.com/current/top-10-lists/72-sonic-youth-s-top-10">Sonic Youth’s Top 10</a></b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 27/52 | <a href="https://www.criterion.com/current/top-10-lists/72-sonic-youth-s-top-10" target="_blank" rel="noopener">Sonic Youth’s Top 10</a></b>
 
 Eurydice comes to Rio de Janeiro during the Carnaval. Everyone dances around her. She takes the trolley through the city, seeing the festivities underway. Hermes shows her the way to her cousins.
 

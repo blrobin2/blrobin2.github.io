@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2026 | 7/52 | 50s Sci-Fi</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 7/52 | 50s Sci-Fi</a></b>
 
 #### Thoughts/Spoilers
 

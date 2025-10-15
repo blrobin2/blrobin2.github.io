@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 9/32 | Anniversary Film 8/10 | Before 1970 1/6</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 9/32 | Anniversary Film 8/10 | Before 1970 1/6</a></b>
 
 <blockquote><i>Down through the ages has rushed a menace more dangerous than the worst criminal. SYPHILIS. Let us seize this monster and stamp out forever its horrible influence. Syphilis must no longer play its deadly part in our lives, preventing marriages… breaking up families… and resulting in innocent offspring born blind, diseased, and maimed… doomed to a life of misery. The subject of syphilis must no longer remain hushed, but must be fought in the open like any other dangerous, contagious disease… humanity must be enlightened! Ignorance must be abolished! Young and old… rich and poor…..</i></blockquote>
 

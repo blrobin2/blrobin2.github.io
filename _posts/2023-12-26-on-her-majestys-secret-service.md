@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/r6gwI">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
+<b><a href="https://boxd.it/r6gwI" target="_blank" rel="noopener">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
 To survive family Christmas, I have been macro-dosing sangria, so we’ll see how coherent these notes are.
 

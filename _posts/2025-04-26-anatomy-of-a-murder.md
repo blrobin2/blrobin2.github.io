@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 39/52 | Hollywood Classics</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 39/52 | Hollywood Classics</a></b>
 
 <b>This movie is where "I'm just a poor country lawyer…" comes from!</b>
 

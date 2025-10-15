@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 30/52 | America Lost and Found: The BBS Story</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 30/52 | America Lost and Found: The BBS Story</a></b>
 
 Wyatt and Billy pull up to La Contenta Bar in Mexico. There, they meet a cocaine dealer, trying the stuff before buying. In LA, they meet with a wealthy buyer. Wyatt counts the money, and the two ride off in their truck. Back at the garage, Wyatt stuffs the cash into plastic tubes and puts the tubes into his chopper's Stars & Stripes fuel tank. Billy gets on his flame-themed chopper, and the two ride east to New Orleans.
 

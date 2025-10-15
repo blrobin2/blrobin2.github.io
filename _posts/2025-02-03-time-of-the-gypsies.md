@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 19</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 19</a></b>
 
 Perhan feeds and cares for his sister Danira. His grandmother, Khatidža, brings home a turkey. Perhan plays the accordion while the turkey gobbles along. Azra comes over to hang out with Perhan. That night they go to a movie and make out under the bleachers. He stops to show her his psychic abilities by moving a can. Later, he goes to Azra's to ask her family to grant them a marriage. Azra's mother refuses.
 

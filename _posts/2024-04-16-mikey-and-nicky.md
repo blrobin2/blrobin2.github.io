@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 16/52 | Women Auteurs</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 16/52 | Women Auteurs</a></b>
 
 Nicky (John Cassavetes) wakes up disheveled, glancing at the hotel room door. Slivers of newspaper cover the bed like a makeshift blanket. Half-smoked cigarettes fill the ashtray and the Coke bottle on the side table — empty cartons and trash litter the dresser.
 

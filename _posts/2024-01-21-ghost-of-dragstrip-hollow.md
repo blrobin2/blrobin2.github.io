@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 19/34 | Haunted house 2/2 | Decades 6/8 | 50s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 19/34 | Haunted house 2/2 | Decades 6/8 | 50s</a></b>
 
 What happens when you forego the plot and just stick some stuff teens like in an hour long movie? You create the prototype for the beach party movie
 

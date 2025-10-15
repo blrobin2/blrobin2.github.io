@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 12/32 | Before 1970 3/6</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 12/32 | Before 1970 3/6</a></b>
 
 <blockquote><i>What is life? It is the beginning of death. What is death? It is the end of life. What is existence? It is the continuity of blood. What is blood? It is the reason to exist!</i></blockquote>
 

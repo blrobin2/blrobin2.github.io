@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
+<b><a href="https://boxd.it/pTT2i/detail" target="_blank" rel="noopener">Halloween: Ranked</a></b>
 
 On Halloween 1998, twenty years after the events of <i>Halloween I</i> and <i>II</i>, someone murdered Loomis and took his file on Laurie Strode.
 

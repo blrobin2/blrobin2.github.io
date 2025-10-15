@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 3/32 | Anniversary Film 2/10 | Countries 3/6 | Hong Kong | Decades 1/6 | 90s</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 3/32 | Anniversary Film 2/10 | Countries 3/6 | Hong Kong | Decades 1/6 | 90s</a></b>
 
 Woody and Crazy bootleg VCDs. They sell them their stall in New Trend Plaza Mall. They spend most of their time not selling their wares, instead causing trouble and stealing from other stores in the mall.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA">Criterion Challenge 2024 | 11/52 | a film in the Saturday Matinee series "Observations on Film Art"</a></b>
+<b><a href="https://boxd.it/qWjuA" target="_blank" rel="noopener">Criterion Challenge 2024 | 11/52 | a film in the Saturday Matinee series "Observations on Film Art"</a></b>
 
 Eight-year-old kids yell and play while they wait for their teacher to arrive. Once the teacher arrives, he chastises the kids for making a racket. He also scolds Nematzadeh for repeatedly forgetting to use his notebook for his homework. Ahmad, who sits beside Nematzadeh, watches as the teacher rips up Nematzadeh's homework, driving the child to tears.
 

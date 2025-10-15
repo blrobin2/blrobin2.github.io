@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 25/31 | people eating people (non-zombie) 1/3</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 25/31 | people eating people (non-zombie) 1/3</a></b>
 
 Mario and Roberto are two dipshit thieves. After botching yet another job, they meet up with Lina. Lina saw a little girl, Flaurence, whose parents are wealthy car manufacturers. They concoct a plan to kidnap her for ransom money.
 

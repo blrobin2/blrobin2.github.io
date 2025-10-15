@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 33/34 | Bonus 2/3</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 33/34 | Bonus 2/3</b>
 
 An overcrowded and understaffed mental institution releases patients they consider able enough to reenter society.
 

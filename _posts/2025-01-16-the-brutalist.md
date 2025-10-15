@@ -15,7 +15,7 @@ Now, apply that same problem to a 3.5-hour movie. We have an intermission, after
 
 I'm not a big fan of biopics. And this isn't one! This guy isn't real. And yet, the movie feels beholden to some hidden timeline.
 
-That said, Brady Corbet clearly read <a href="https://boxd.it/4ycbJj" rel="nofollow">my review of <i>Oppenheimer</i></a> and addressed my biggest complaint about it. Yes, Adrian Brody gets a hand job from a sex worker, and we see it. So that's why I rated this one half-star higher than <i>Oppenheimer</i>.
+That said, Brady Corbet clearly read <a href="https://boxd.it/4ycbJj" target="_blank" rel="noopener">my review of <i>Oppenheimer</i></a> and addressed my biggest complaint about it. Yes, Adrian Brody gets a hand job from a sex worker, and we see it. So that's why I rated this one half-star higher than <i>Oppenheimer</i>.
 
 Adrien Brody will get the most praise, but Felicity Jones showed up in a way I've never seen her before.
 

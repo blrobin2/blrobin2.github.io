@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 2/31 | Sequels 2/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 2/31 | Sequels 2/6</a></b>
 
 Edna and Harold own a lakefront store. Edna is the stereotypical nagging wife, complete with hair curlers. Harold slacks on his work and chores and eats food off the shelves. That’s lucky for Jason, as he pulls some of their clothes off the clothesline to change.
 

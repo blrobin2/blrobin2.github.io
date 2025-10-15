@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 2/32 | Anniversary Film 1/10 | Countries 2/6 | Japan</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 2/32 | Anniversary Film 1/10 | Countries 2/6 | Japan</a></b>
 
 Engineers are overrunning Tokyo. Engineers are diseased humans who can grow weapons from their wounds.
 

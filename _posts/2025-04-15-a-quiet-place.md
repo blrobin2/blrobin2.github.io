@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 16/52 | PG-13 Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 16/52 | PG-13 Horror</a></b>
 
 <b>Day 89</b>
 After only three months, the streets of Little Falls, New York, are cracked, and nature has begun reclaiming them. Teenage Regan and her four-year-old brother Cade tiptoe through the dilapidated drug store. Their other brother, Marcus, sits quietly along the empty shelves. Evelyn, their mother, looks through the filled prescription bottles, careful not to move them or make a noise. She gives Marcus a pill and signs to Regan that he's okay.

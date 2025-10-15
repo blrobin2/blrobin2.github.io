@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 13/31 | Before 1970 1/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 13/31 | Before 1970 1/6</a></b>
 
 <blockquote><i>To god, there is no zero. To god, I still exist.</i></blockquote>
 

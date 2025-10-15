@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 24/52 | Godzilla</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 24/52 | Godzilla</a></b>
 
 It's quiet at 2 AM in Tokyo. A heat wave in January — not just on Earth but throughout the galaxy. Scientists wait for a transmission to tell them what is wrong.
 

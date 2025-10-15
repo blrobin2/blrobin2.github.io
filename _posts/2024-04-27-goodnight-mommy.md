@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 26/32 | Woman-Directed 2/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 26/32 | Woman-Directed 2/2</a></b>
 
 Elias and Lukas, twin ten-year-old boys, explore and play hide-and-seek. Lukas comes to a cave that appears pitch black. The sound of buzzing flies greets him as they enter the darkness.
 

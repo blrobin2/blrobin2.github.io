@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 4/52 | Made in Canada</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 4/52 | Made in Canada</b>
 
 Benoît is a 15-year-old boy growing up in an Asbestos Region mining town in Quebec during the 1940s. His uncle Antoine is the town undertaker, and Antoine works for him there, as well as at the general store Antoine runs with his wife Cécile. While the film predominantly follows Benoît's point of view, it also encompasses a larger depiction of the town.
 

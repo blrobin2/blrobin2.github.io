@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 27/52 | Made in Mexico</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 27/52 | Made in Mexico</a></b>
 
 <blockquote><i>Don't worry, miss. We're all decent folks.</i></blockquote>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 22/52 | Ana Lily Amirpour's Top 10</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 22/52 | Ana Lily Amirpour's Top 10</a></b>
 
 <blockquote><i>— I don't know. It's always as if I'm going to die tomorrow. Something inside me pushes me to do silly things.
 — What if you were in love? Would that make a difference?

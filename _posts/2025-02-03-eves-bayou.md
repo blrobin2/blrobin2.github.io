@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 6/52 | Black Directors</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 6/52 | Black Directors</a></b>
 
 <blockquote><i>Memory is a selection of images, some elusive, others printed indelibly on the brain. The summer I killed my father, I was 10 years old.</i></blockquote>
 

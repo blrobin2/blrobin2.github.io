@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 24/34 | William Grefe</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 24/34 | William Grefe</b>
 
 We cold-open to a disembodied, mutated hand grabbing a screwdriver. The radio plays bouncy beach music. A cartoon pow as the screwdriver cuts wires.
 

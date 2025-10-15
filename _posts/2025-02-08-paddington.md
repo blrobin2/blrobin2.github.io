@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 42/52 | A titular character</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 42/52 | A titular character</a></b>
 
 We open with a black-and-white documentary about Darkest Peru, where a British explorer discovers a new bear species. He intends to kill it to have a specimen for the British Museum, but one bear stops him and saves him from a scorpion. So, as is the British tradition, he introduces the bears to the most advanced technology, from telescopes to marmalade. To his surprise, the bears are capable of human speech. He names the bears after people he knows, Pastuzo and Lucy.
 

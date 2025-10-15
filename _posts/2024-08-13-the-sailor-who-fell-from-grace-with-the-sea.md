@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 32/52 | Rarelust</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 32/52 | Rarelust</a></b>
 
 On the shores of Dartmouth sits a white house. There lives Jonathan Osborne, a 14-year-old boy who loves boats. One morning, just before daybreak, Jonathan sneaks out to meet with other boys. Their leader is a boy named Chief, who smokes a cigar and gives the boys a book on sex positions to drool over. But when they get too excited, Chief chastises them and takes the book.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 47/52 | Lucha Libre</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 47/52 | Lucha Libre</a></b>
 
 Luchadora Lucy Osorio receives good luck from Lt. Martinez before her big match. He helps her put on her signature red mask. She wrestles with Elena Gómez. Lucy throws her out of the ring, hurting her. They call for an ambulance.
 
@@ -19,7 +19,7 @@ Dr. Krallman returns home to check on his son Julio, who is bedridden with leuke
 
 When Dr. Krallman returns to Julio, however, he promises Julio a full recovery. Dr. Krallan’s solution? A heart transplant, replacing his son’s heart with that of the gorilla he kidnapped from the zoo.
 
-The surgery is a success, but the side effects are unexpected. Julio transforms into a man-ape (a <a href="https://boxd.it/6g0Qv3">MANSTER</a> if you will) and goes on a rampage.
+The surgery is a success, but the side effects are unexpected. Julio transforms into a man-ape (a <a href="https://boxd.it/6g0Qv3" target="_blank" rel="noopener">MANSTER</a> if you will) and goes on a rampage.
 
 And Lucy? Lucy wrestles literally with other wrestlers and metaphorically with her strength and the consequences of being a luchador. Oh, and she takes showers.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 17/52 | Shot on Video</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 17/52 | Shot on Video</a></b>
 
 Bobby's mother finishes the dishes and calls him to grab his mug. The chair pulls back, and the mug lifts, but we see no one there. The mug arrives at her side, and she thanks Bobby. A wave of whispers and a wind from nowhere overtake her. She understands: Bobby wants to hear a story. A book appears in his mother's hands: Tales from the QuandeaD Zone.
 

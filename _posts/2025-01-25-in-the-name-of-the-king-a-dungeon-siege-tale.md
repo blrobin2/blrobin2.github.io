@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 45/52 | Uwe Boll</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 45/52 | Uwe Boll</a></b>
 
 I'm watching the 162-minute director's cut because god has abandoned us.
 

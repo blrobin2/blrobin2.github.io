@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 5/31 | Franchises 5/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 5/31 | Franchises 5/5</a></b>
 
 Night falls as Elizabeth Marcus arrives at a cabin overlooking Crystal Lake. She turns on the light, and the lightbulb melts and explodes. After replacing it, she goes to the bathroom to take a shower. Just before she steps in, the power goes out… again. She dons a towel. The front door swings open. There he is — Jason.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | Decades 3/8 | 1980s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | Decades 3/8 | 1980s</b>
 
 <blockquote><i>Hollywood, California — city of contrasts! Home to the rich and powerful yet so popular with the broken and destitute. Here sex hunger is reflected in every aspect of daily life, and instant gratification is tirelessly pursued. A center of casual violence and capricious harassment, where rampant vice and amorality permeate every strata of society, and the barrier between food and sex has totally dissolved. It is a known fact that prolonged exposure to just such a psychopathic environment will eventually warp even the most normal and decent among us. This then is the story of Hollywood today. Not a pretty story, but presented here exactly as it happened.</i></blockquote>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 51/52 | Italian Horror</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 51/52 | Italian Horror</a></b>
 
 <b>The end of the fifteenth century</b>
 Rumors of Adele Karnstein being a witch come to a head when Count Franz Humboldt dies, and Adele is the primary suspect. They capture Adele and take her to trial, where they will test her to determine if she is a witch. Helen, Adele's oldest daughter, knows the actual murderer and sneaks into the castle to tell the new Count, Franz's brother, the truth and free her mother. The Count demands sexual favors in return.

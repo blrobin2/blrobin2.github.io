@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 1/31 | Decades 1/10 | 2010s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 1/31 | Decades 1/10 | 2010s</a></b>
 
 Blood paints a nurse named Maud's face. A dead body lay on a hospital bed in St. Afra's. Her blood-soaked hands face upward in resignation. Across the ceiling walks a cockroach.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 6</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 6</a></b>
 
 <b>Cumbria 1348</b>
 A young boy named Griffin looks to the sky. The moon gives him visions of men tossing torches and digging into the earth. The church bells ring. Someone jumps from the steeple.

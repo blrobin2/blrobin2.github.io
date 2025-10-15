@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 32/32 | Bonus</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 32/32 | Bonus</a></b>
 
 <i>CW // Assault, Ableism, Mental Illness, Suicide, Torture, Sexism, Blood, Dismemberment, Sex</i>
 

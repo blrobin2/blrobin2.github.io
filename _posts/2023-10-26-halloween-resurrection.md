@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
+<b><a href="https://boxd.it/pTT2i/detail" target="_blank" rel="noopener">Halloween: Ranked</a></b>
 
 <b>I’ve heard of H20, but Web 2.0?</b>
 

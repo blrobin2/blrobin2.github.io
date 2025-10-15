@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 15/31 | Before 1970 3/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 15/31 | Before 1970 3/6</a></b>
 
 <blockquote><i>— Every woman is naturally inclined to fall.
 — But also to achieve holiness.</i></blockquote>Father Józef Suryn prays in his room at an inn. The bells toll — a local custom for travelers lost in the forest to help them find their way back. Father Suryn unpacks a whip and hangs it on the wall.

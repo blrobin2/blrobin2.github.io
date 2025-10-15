@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 19/52 | Directed by Kasi Lemmons</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 19/52 | Directed by Kasi Lemmons</a></b>
 
 Romulus Ledbetter sits on a piano bench, his back to the piano. As he looks up, the scene changes — he is outside in the snow, yelling at a social service agent. Romulus believes the man is a secret agent for someone called Stuyvesant. As Romulus storms off, some teens say, "Later, Caveman."
 

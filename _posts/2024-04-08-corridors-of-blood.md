@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 7/32 | Anniversary Film 6/10 | Decades 5/6 | 50s</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 7/32 | Anniversary Film 6/10 | Decades 5/6 | 50s</a></b>
 
 <b>London, 1840s</b>
 Dr. Thomas Bolton (Boris Karloff) is a surgeon by day who volunteers at a hospital in London's Seven Dials slum. He has one aim: to make surgery painless. He experiments with nitrous oxide as an anesthetic.

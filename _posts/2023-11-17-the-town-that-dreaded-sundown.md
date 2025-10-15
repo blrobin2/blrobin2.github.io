@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 17/52 | 1970s regional US films 2/2</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 17/52 | 1970s regional US films 2/2</b>
 
 <i>Sunday, March 3rd, 1946. Texarkana, Texas.</i>
 

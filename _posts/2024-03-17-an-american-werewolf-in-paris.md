@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 16/32 | Makeup: Screaming Mad George | Countries 1/6 | Luxembourg</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 16/32 | Makeup: Screaming Mad George | Countries 1/6 | Luxembourg</a></b>
 
 Rain pours on the gargoyles adorning the balustrade atop Notre Dame. The stained glass sings in rich color, hinting at the warmth within. Columns adorned with knights and dragons — down the camera tracks until we arrive at an unassuming maintenance hole cover.
 

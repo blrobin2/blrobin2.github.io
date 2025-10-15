@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures">Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures</a></b>
 
 <blockquote><i>Honey, even the dead have their ways</i></blockquote>
 <b>Bodega Bay Inn, 1939</b>

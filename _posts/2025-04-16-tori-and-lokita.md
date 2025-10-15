@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 35/52 | Growing Pains: coming-of-age films</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 35/52 | Growing Pains: coming-of-age films</a></b>
 
 A woman interviews sixteen-year-old Lokita, who is looking for a work visa. The woman asks Lokita about the story she gave immigration when she entered Belgium. She asks about Lokita's school in Benin, her principal, and meeting her eleven-year-old brother, Tori, who has his papers. Lokita's answers only beg more questions and introduce contradictions. Overwhelmed, Lokita stops to take her medication and asks for a postponement of the interview.
 

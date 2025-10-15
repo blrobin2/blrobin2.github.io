@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 10/52 | HK Cat III</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 10/52 | HK Cat III</a></b>
 
 <b>Hong Kong 1978</b>
 Chan Chi-Leung and Keung argue as they put away majhong tiles. Chan asks Keung to lend him money to pay an old debt, but Keung refuses and tells him to leave. So, Chan smashes him over the head, douses him in conveniently placed gasoline, and burns Keung alive. Chan burns his HK ID and gets a new Macau ID under the name Wong Chi Hang.

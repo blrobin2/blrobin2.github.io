@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 13/52 | 70s Disaster</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 13/52 | 70s Disaster</a></b>
 
 <blockquote><i>— You're an animal
 </i><i>— No, worse. Human</i></blockquote><b>Stonehaven Maximum Security Prison, Alaska, USA</b>

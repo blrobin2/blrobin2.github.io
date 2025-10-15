@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 22/34 | Ti West</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 22/34 | Ti West</b>
 
 After <i>Cabin Fever</i>, the necrosis fasciitis infects Down Home Water's treatment plant.
 

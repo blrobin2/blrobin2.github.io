@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 18/52 | Jess Franco</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 18/52 | Jess Franco</a></b>
 
 <blockquote><i>It all began last year in Istanbul, on the shore of the Black Sea. Or, at least, I think it did, because at the time I wasn't quite sure what was real and what wasn't.</i></blockquote>Jimmy runs out to the beach. He digs up his trumpet case and pulls out the trumpet. He doesn't remember why he buried it. Playing it again gives him such relief.
 

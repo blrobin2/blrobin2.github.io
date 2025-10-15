@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a><b> | 29/34 | Mario Bava</b>
+<a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a><b> | 29/34 | Mario Bava</b>
 
 A masked killer murders Isabella, a fashion house model, dragging her away, her stocking glimmering in the backlight.
 

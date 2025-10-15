@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 2/32 | film from before 1966 2/6">Hooptober 6.0 | 2/32 | film from before 1966 2/6</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 2/32 | film from before 1966 2/6" target="_blank" rel="noopener">Hooptober 6.0 | 2/32 | film from before 1966 2/6</a></b>
 
 <i>CW // Suicide, Abuse, Misogyny, Mental Illness, Murder</i>
 

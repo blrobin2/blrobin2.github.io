@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 9/52 | Criterion Staff Picks</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 9/52 | Criterion Staff Picks</a></b>
 
 <i>CW // Suicide, Mental Illness, Misogyny, Sexual Assault, Murder, Blood</i>
 

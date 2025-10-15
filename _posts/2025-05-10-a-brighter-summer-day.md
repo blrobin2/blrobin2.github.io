@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 44/52 | Paul Dano's Closet Picks</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 44/52 | Paul Dano's Closet Picks</a></b>
 
 <blockquote><i>Are you lonesome tonight? Do you miss me tonight? Are you sorry we drifted apart? Does your memory stray to a brighter summer day when I kissed you and called you sweetheart?</i> — Elvis Presley, "Are You Lonesome Tonight?"</blockquote>
 

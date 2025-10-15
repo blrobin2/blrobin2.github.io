@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 10/52 | Spaghetti Western</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 10/52 | Spaghetti Western</a></b>
 
 <i>CW // Murder, Racism, Ableism, Misogyny </i>
 

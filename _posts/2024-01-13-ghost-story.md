@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 12/34 | From 1981 1/4 | Decades 5/8 | 80s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 12/34 | From 1981 1/4 | Decades 5/8 | 80s</a></b>
 
 In a snowy New England town, four men sit in a dark wood study. Only the fireplace provides any light. Sears James (John Houseman) tells a story about someone buried alive. With him are Ricky Hawthorne (Fred Astaire), Edward Charles Wanderley (Douglas Fairbanks Jr.), and Dr. John Jaffrey (Melvyn Douglas).
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 22</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 22</a></b>
 
 <blockquote><i>Desire has a thousand forms, a thousand ruses, a thousand lies. Desire is an island lost at sea.</i> — Agnès Varda</blockquote>
 

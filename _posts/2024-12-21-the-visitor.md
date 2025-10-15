@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 5/31 | Decades 5/10 | 70s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 5/31 | Decades 5/10 | 70s</a></b>
 
 <b>Jordorowsky's The Bad Seed</b>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 37/52 | Cynthia Rothrock</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 37/52 | Cynthia Rothrock</a></b>
 
 <blockquote><i>New York City, 1984. Crime is at an all-time high. Gangs of drugged-out punks roam the streets, preying on the innocent. A rash of kidnappings involving young women has gripped the city with fear… The citizens of New York are fed up. The city needs hope. The city needs… <b>a hero</b>.</i></blockquote>
 

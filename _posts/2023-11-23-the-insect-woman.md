@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" style="font-weight: bold;">Criterion Challenge 2023</a><b> | 23/52 | Gasper Noé's Closet Picks</b>
+<a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" style="font-weight: bold;" target="_blank" rel="noopener">Criterion Challenge 2023</a><b> | 23/52 | Gasper Noé's Closet Picks</b>
 
 <blockquote><i>Talking about my life makes me cry</i></blockquote>
 

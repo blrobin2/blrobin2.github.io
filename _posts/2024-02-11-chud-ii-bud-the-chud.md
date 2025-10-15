@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7">Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7" target="_blank" rel="noopener">Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7</a></b>
 
 Two teenage nerds accidentally lose their teacher's cadaver. So they sneak into the disease control center and steal a replacement body. How were they to know the replacement was a Cannibalistic Humanoid Underground Dweller?
 

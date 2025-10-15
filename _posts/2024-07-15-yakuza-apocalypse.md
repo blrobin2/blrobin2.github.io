@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" rel="nofollow">Hooptober 2.0 | 14/31 | Takashi Miike 4/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 14/31 | Takashi Miike 4/5</a></b>
 
 <blockquote><i>There was a time when being a man meant being yakuza. Me, my life was like lukewarm water. Then, I met him.</i></blockquote>Yakuza boss Kamiura takes a samurai blade through a rival gang's hideout. Hacked and slashed to bits, he makes it through. The boss shoots him several times. Though faltering, Kamiura continues. Three men take turns stabbing him in the chest, but he persists, killing them and the boss.
 

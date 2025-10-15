@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail" rel="nofollow">Hoop-Tober | 10/31 | Decades 10/10 | 1910s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 10/31 | Decades 10/10 | 1910s</a></b>
 
 Dante attempts to ascend the hill of salvation, but the beasts Avarice, Pride, and Lust block his bath. So, the poet Virgil guides Dante through the Nine Circles of Hell so that Dante may learn to recognize and reject sin.
 

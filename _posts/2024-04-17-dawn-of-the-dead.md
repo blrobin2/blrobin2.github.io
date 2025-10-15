@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 16/32 | Romero | Anniversary Film 10/10</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 16/32 | Romero | Anniversary Film 10/10</a></b>
 
 <blockquote><i>— What the hell are they?
 — They're us, that's all. There's no more room in hell.</i></blockquote>The news is doing everything possible to stay on the air and cover the details of a national crisis. Human beings are dying and returning as zombies that feed on humans to sustain themselves.

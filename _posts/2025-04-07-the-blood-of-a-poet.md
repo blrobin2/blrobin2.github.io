@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 29/52 | Out of Print Criterion Releases</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 29/52 | Out of Print Criterion Releases</a></b>
 
 <blockquote><i>At the time of The Blood of a Poet, I ... avoid the deliberate manifestations of the unconscious in favor of a kind of half-sleep through which I wandered as though in a labyrinth.</i> — Jean Cocteau</blockquote>
 

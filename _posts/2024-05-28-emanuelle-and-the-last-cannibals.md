@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 26/31 | people eating people (non-zombie) 2/3</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 26/31 | people eating people (non-zombie) 2/3</a></b>
 
 Emanuelle, a photojournalist, sits in a NYC psyche ward, posing as a patient. She has a baby doll on her lap. When the eyes close, a shutter clicks.
 

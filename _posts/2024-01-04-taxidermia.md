@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary">Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary</a>
+<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary" target="_blank" rel="noopener">Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary</a>
 </b>
 The film follows three men during different periods in Hungary's history
 

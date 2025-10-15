@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 12</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 12</a></b>
 
 <blockquote><i>If there is such a thing as karma, we're in big trouble, guys!</i></blockquote>
 

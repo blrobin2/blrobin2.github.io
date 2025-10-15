@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 3/34 | Countries 3/6 | Kazakhstan</b>
+<b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 3/34 | Countries 3/6 | Kazakhstan</b>
 
 Authorities warn against going into the woods. Women keep going missing.
 

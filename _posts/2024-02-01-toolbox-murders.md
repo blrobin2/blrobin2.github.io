@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 31/34 | Tobe Hooper</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 31/34 | Tobe Hooper</a></b>
 
 <blockquote><i>Every year thousands of people come to Hollywood to pursue their dreams. Some succeed. Some move back home… And some just disappear.</i></blockquote>Daisy (Sheri Moon Zombie) returns to her apartment inside the Lusman Arms, a renovated hotel. Once home, she pours a glass of wine, checks her messages, and changes into a robe. A man in black, wearing a balaclava, forcefully smashes the door with a hammer. He pins Daisy down and beats her skull with the hammer's back.
 

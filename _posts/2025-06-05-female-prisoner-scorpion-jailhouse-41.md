@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk">Cult Movie Challenge 2017 | 45/52 | Pinky Violence</a></b>
+<b><a href="https://boxd.it/q7TYk" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 45/52 | Pinky Violence</a></b>
 
 In an underground chamber, behind a gate, bound in chains, is Nami, put in solitary confinement after the events of the previous film. In her mouth is a spoon, which she grinds against the stone floor. Slowly, she turns the spoon into a shiv. After a year in solitary confinement, the guards come to tell her about an inspection by a prominent official, which means they will bring her out of solitary confinement for the day. The Warden arrives to gloat over his victory over Nami and to announce his promotion. The guards hose her down for about 1 minute of screentime; it's ridiculous.
 

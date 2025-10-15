@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 39/52 | Spine #800-950 (#851)</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 39/52 | Spine #800-950 (#851)</b>
 
 Fox the Speaking Head is a traveling carnival act in which a severed head speaks to the audience.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 48/52 | Amy Heckerling's Closet Picks</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 48/52 | Amy Heckerling's Closet Picks</a></b>
 
 At night, in a small town in Italy, five young men walk together, arm in arm. They are on their way to the boardwalk, which holds the last major event of the summer: the election of Miss Mermaid 1953. There, we meet Alberto, a do-nothing daydreamer. We meet Leopoldo, an intellectual and aspiring playwright without a lick of talent. Moraldo is the youngest of the crew who longs to escape small-town life. Riccardo is a talented singer, to be sure, performing on stage, but one who dreams of making it big as a singer/actor without the chops to back it up. Fausto is the group's leader and a bit of a heartbreaker—we meet him chasing one girl, who reminds him that he's with Sanda, Moraldo's sister. They all share one thing: they're unemployed and mooching off their parents.
 

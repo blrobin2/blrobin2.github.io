@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 25/32 | Woman-Directed 1/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 25/32 | Woman-Directed 1/2</a></b>
 
 <blockquote><i>Note: All of the mutilations, bodily dismemberments, and cannibal rituals were performed by seasoned professionals. Please do not attempt any of these stunts at home. Thank you.</i></blockquote>
 

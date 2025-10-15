@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 23/52 | PM Entertainment</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 23/52 | PM Entertainment</a></b>
 
 The LA police are in a shootout with The World Revolution, a terrorist organization. Among the police is rookie cop Kurt Decoda. He goes over to Wes Strickland, who asks Kurt how he’s enjoying his first day on the job. As gunfire dies down, Wes finds a terrorist and learns about Slash’s plan to kill the governor.
 

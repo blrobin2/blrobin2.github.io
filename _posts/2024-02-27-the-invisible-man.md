@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 26/32 | Invisible Person">Hooptober 7.0 | 26/32 | Invisible Person</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 26/32 | Invisible Person" target="_blank" rel="noopener">Hooptober 7.0 | 26/32 | Invisible Person</a></b>
 
 <i>CW // Violence, Abuse, Suicide, Murder, Blood</i>
 

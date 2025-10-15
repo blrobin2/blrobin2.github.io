@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 14/52 | Joe D'Amato</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 14/52 | Joe D'Amato</a></b>
 
 <b>1906</b>
 Greta's dead eyes gaze at the vacant ceiling. Franz von Holstein, her brother and lover, stares into the eyes from which life once came. He remembers SAing her, her begging them to leave together, her promising to be his servant if he caught her, and her falling for Doctor Herbert von Ravensbrück.

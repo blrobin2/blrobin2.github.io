@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 4/31 | Decades 3/9 | 1980s | Zombie 3/5</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 4/31 | Decades 3/9 | 1980s | Zombie 3/5</a></b>
 
 The Ghost Festival occurs on the 15th night of the seventh month on the lunar calendar. The realm of the living becomes open to Heaven and Hell, and ghosts roam the Earth. On this night, the howls and cackles of the dead fill the dark streets as they eat the food left out for them. Chun Sing trains in the courtyard when a ghostly figure descends on him. The figure is his deceased father, calling on his son to get revenge on his father's murderer, Kam Tai Fu, who resides in Yellow Dragon Town. Wasting no time, Chun Sing tells his mother of his experience before leaving for Yellow Dragon. His mother warns him that the town is haunted.
 
@@ -25,6 +25,6 @@ The ghost effects, while cheap, are effective. The use of neon green light to il
 
 The Chinese title 陰忌, as best as I can tell, translates to something like "Fear of the Nether World." Google Translate says "Yin Taboo", which makes some sense since it takes place during Yin. I would love to hear from someone who actually speaks Cantonese.
 
-Following the success of Sammo Hung's <a href="https://boxd.it/4O2YEB"><i>Encounters of the Spooky Kind</i></a>, many HK film producers jumped on the 殭屍 (jiāngshī) train, all to varying degrees of success. At the same time, Sammo Hung went on to make more crime and action comedies, returning briefly to the genre with his Mr. Vampire series.
+Following the success of Sammo Hung's <a href="https://boxd.it/4O2YEB" target="_blank" rel="noopener"><i>Encounters of the Spooky Kind</i></a>, many HK film producers jumped on the 殭屍 (jiāngshī) train, all to varying degrees of success. At the same time, Sammo Hung went on to make more crime and action comedies, returning briefly to the genre with his Mr. Vampire series.
 
 This film is one of many that don't match <i>Spooky Encounter</i>'s quality, but it has plenty of ideas and ambitions. I had a good time and would gladly watch again with the right friend.

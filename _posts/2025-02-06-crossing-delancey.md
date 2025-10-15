@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 39 / 52 | Cinematography by Theo van de Sande</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 39 / 52 | Cinematography by Theo van de Sande</a></b>
 
 <blockquote><i>Ripe plums are falling… may a fine lover come for me while there is still time.</i></blockquote>
 

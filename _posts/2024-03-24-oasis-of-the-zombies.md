@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access">Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access" target="_blank" rel="noopener">Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access</a></b>
 
 Treasure hunters travel to the deserts of North Africa in search of Nazi gold. After 50 years, the original Afrika Korps are still guarding the gold. But they are DESERT ZOMBIES.
 

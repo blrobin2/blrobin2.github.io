@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2024 | 8/52 | Middle Eastern Films</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2024 | 8/52 | Middle Eastern Films</a></b>
 
 Osman rides a donkey, leading another one in front of him with lumber attached to its sides to his farm. He tells his younger brother, Hasan, his plan to dam the spring on his land, preventing water from flowing into the valley. Osman knows the summer will be too dry to provide enough water for all the farmers. Once Osman can irrigate his land, he will remove the dam. Hasan begs him not to, knowing the ire this will stir. Still, Osman carries forward with his plan, telling the farmers to figure it out.
 

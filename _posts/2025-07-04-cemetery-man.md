@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 27/52 | 90s Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 27/52 | 90s Horror</a></b>
 
 Wet, buff, and in a towel, Francesco answers a call from Franco. Before he can speak, however, he hears a knock on his door. At the door is an Italian man carrying a briefcase and wearing a suit. Oh, and he's the risen dead. Francesco puts a bullet in the man's skull before returning to his call with Franco. After the call, he carries the body to his assistant Gnaghi, and the two walk into the cemetery to rebury him. Another undead rises, which Francesco calls a Returner, before they can finish. All in a night's work.
 

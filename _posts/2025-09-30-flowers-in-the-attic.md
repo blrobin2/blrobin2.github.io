@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 19/52 | 80s Horror</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 19/52 | 80s Horror</a></b>
 
 It begins with a doting daughter, Cathy Dollanganger, who idolizes her mother, Corrine. For their father's 36th birthday, Cathy and her siblings — her brother, Chris, and the 5-year-old twins, Cory and Carrie — throw a humble but festive party. When they hear someone at the door, they prepare to greet him, but instead, see two police officers, who inform them that their father has died. Corrine sells everything to care for the family, forcing them to move in with Corrine's parents, the Foxworths, who disowned Corrine years ago. Corrine intends, in her father Malcolm's final years, to win back her father's love, so that the family may inherit his wealth.
 

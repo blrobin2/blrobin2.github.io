@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 7/34 | Decades 1/8 | 1920s</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 7/34 | Decades 1/8 | 1920s</b>
 
 The story begins at Notre Dame during the Festival of Fools. There, we meet our cast of characters:
 

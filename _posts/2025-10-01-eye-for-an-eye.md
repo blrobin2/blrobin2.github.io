@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 20/52 | Cynthia Rothrock</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 20/52 | Cynthia Rothrock</a></b>
 
 Megan calls for her mommy, screaming. Her mother, Karen, rushes into the room to discover that six-year-old Megan has seen a moth and begs her mom to kill it. Instead, Karen scoops it in her hand and releases it into the night. Outside, breathing and steps watch from across the street.
 

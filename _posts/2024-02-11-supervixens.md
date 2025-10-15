@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 20/52 | Russ Meyer">Cult Movie Challenge 2016 | 20/52 | Russ Meyer</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 20/52 | Russ Meyer" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 20/52 | Russ Meyer</a></b>
 
 <b>I wish I loved anything as much as Russ Meyer loved boobs</b>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 28/31 | Romero Dead</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 28/31 | Romero Dead</a></b>
 
 Dr. Sarah Bowman sits, head bowed, in a white brick room. Across from her, a calendar with days demarcated by red X's. She approaches the calendar, reminiscing over the October image of people in a pumpkin field. Suddenly, dozens of rotting hands break through the brick wall like paper, reaching toward Dr. Bowman.
 

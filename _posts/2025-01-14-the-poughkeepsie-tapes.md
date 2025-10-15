@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 2/52 | Found Footage</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 2/52 | Found Footage</a></b>
 
 The film begins with the funeral of Cheryl Dempsey, a murder victim of serial killer Edward Carver. We then step back to when police officers raided Carver's home, finding over 800 tapes Carver made of the murders and mutilations of his victims. A substantial subset of the recordings are about Cheryl.
 

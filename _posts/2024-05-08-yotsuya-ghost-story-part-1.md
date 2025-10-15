@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 7/31 | Countries 1/6 | Japan | Decades 2/6 | 40s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 7/31 | Countries 1/6 | Japan | Decades 2/6 | 40s</a></b>
 
 Kohei and Naosuke did a stint in prison together. During a jailbreak, they both stayed behind. The film implies that Naosuke ratted out the jailbreakers for a plea bargain.
 

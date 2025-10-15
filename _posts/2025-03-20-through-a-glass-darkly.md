@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 45/52 | 1960s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 45/52 | 1960s</a></b>
 
 A pond of water catches a single ripple. Karin, her husband, Martin, her father, David, and her younger brother, Minus, leave the water and wade to the jetty. They climb the rocky beach to the vacation cottage where they are staying.
 

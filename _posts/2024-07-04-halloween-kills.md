@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 2/31 | Franchises 2/5">Hooptober 2.0 | 2/31 | Franchises 2/5</a></b>
+<b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 2/31 | Franchises 2/5" target="_blank" rel="noopener">Hooptober 2.0 | 2/31 | Franchises 2/5</a></b>
 
 In the previous movie, the Strodes trapped Michael in a burning house. But alas, Haddonfield doesn't let houses burn down — they send out a fire department who accidentally set Michael free. And so, we watch Michael brutally murder a bunch of people in sequence.
 

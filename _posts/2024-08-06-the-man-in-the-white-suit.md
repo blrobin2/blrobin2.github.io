@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 31/52 | 50s Sci-Fi</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 31/52 | 50s Sci-Fi</a></b>
 
 Michael Corland courts fellow textile industrialist, Alan Birnley, in hopes of Birnley purchasing his mill. Mr. Corland is also courting Birnley’s daughter, Daphne. Birnley is stoic throughout the tour until he encounters an unusual and complex chemistry setup emitting a rhythmic gurgling. No one on the tour or in the lab can explain it. The accounting team looks into it while the tour continues, discovering that, whatever it is, they’ve invested £4000 on it.
 

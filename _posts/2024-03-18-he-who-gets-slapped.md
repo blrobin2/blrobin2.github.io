@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 17/32 | Makeup: Lon Chaney</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 17/32 | Makeup: Lon Chaney</a></b>
 
 <blockquote><i>In the grim comedy of life, it has been wisely said that the last laugh is the best</i></blockquote>Paul Beaumont is a scientist working on a new theory on the origin of humanity. Paul and his wife, Marie, spent years struggling. Baron Regnard took interest in his work and invited Paul and Marie into his home.
 

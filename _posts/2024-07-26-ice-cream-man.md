@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 25/31 | Slasher 5/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 25/31 | Slasher 5/5</a></b>
 
 In Lyndon B. Johnson’s America, an ice cream truck sits on the curb. A car drives up to the truck and shoots it full of bullets, killing the titular Ice Cream King. The Ice Cream King falls from the car, holding a push-up pop. Young Gregory Tudor strides up to the dead body, takes the push-up pop, and sits down next to the body to enjoy his frozen treat. A spatter of blood adorns his face as his mother runs screaming out of the house to him. When she asks if he’s okay, he replies,
 

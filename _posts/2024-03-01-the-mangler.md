@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 31/32 | Tobe Hooper</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 31/32 | Tobe Hooper</a></b>
 
 <i>CW // Blood, Murder, Viscera, Vomit, Incest, Sexism</i>
 

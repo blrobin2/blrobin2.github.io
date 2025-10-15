@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 29/52 | Found Footage</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 29/52 | Found Footage</a></b>
 
 <i>CW // Defecation, Sex, Misogyny, Homophobia, Racism, Blood, Murder</i>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 13</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 13</a></b>
 
 Jaime Escalante believes in his inner-city Latino students, helping raise their math grades and test scores so that the school can retain its accreditation. The journey isn't without its trials, as the school is underfunded, Escalante is in poor health, and board members accuse them of cheating.
 

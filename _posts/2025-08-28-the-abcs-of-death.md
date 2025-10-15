@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 35/52 | Anthology Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 35/52 | Anthology Horror</a></b>
 
 I like my classic horror anthologies, but I've been avoiding this one for a while.
 

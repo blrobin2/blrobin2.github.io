@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 42/52 | Shock Theater</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 42/52 | Shock Theater</a></b>
 
 From the Inner Sanctum comes a story about the mind and its distortions. How could this lump of flesh we call a brain cause us so much suffering? Why does it drive otherwise well-adapted people to murder?
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 48/52 | Hammer Horror</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 48/52 | Hammer Horror</a></b>
 
 <blockquote><i>98% of so-called Satanists are nothing but pathetic creeps.</i></blockquote>
 

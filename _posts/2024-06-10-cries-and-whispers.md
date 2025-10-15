@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 24/52 | Starring Liv Ullmann</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 24/52 | Starring Liv Ullmann</a></b>
 
 <b>19th Century Sweden</b>
 Agnes lay asleep, her breathing labored. Her eyes open, watery. A strong wave comes over her, and she writhes in pain. Her brow furrows as she drinks what water she can.

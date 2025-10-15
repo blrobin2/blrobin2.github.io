@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 24/32 | highest-rated horror film from the 50s that you haven't seen and can access</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 24/32 | highest-rated horror film from the 50s that you haven't seen and can access</a></b>
 
 <i>CW // Death, Suicide, Misogyny, Mental Illness</i>
 

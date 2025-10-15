@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 7/34 | Decades 1/8 | 1930s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 7/34 | Decades 1/8 | 1930s</b>
 
 <b>Paris, 1845</b>
 

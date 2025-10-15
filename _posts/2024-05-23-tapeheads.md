@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y" title="Birthday Year Challenge 7">Birthday Year Challenge 7</a></b>
+<b><a href="https://boxd.it/sWI7Y" title="Birthday Year Challenge 7" target="_blank" rel="noopener">Birthday Year Challenge 7</a></b>
 
 Ivan (John Cusack) and Josh (Tim Robbins), best friends since childhood, have a small fling for Josh's birthday before going to their job as security guards. Ivan surprises Josh at work with a party with strangers as guests. Josh films it from the camera station and edits in real time to Betamax, cutting a sort of music video.
 

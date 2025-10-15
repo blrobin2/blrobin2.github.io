@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 38/52 | Pinku Violence</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 38/52 | Pinku Violence</a></b>
 
 Badass biker Ako gives Mei a ride to where Mei's gang hangs out, the Stray Cats. The Stray Cats face off against another gang in a knife fight. Little do the Stray Cats know, Ako is watching the battle from afar.
 

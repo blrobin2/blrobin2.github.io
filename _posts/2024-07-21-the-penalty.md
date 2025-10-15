@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 20/31 | Before 1970 5/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 20/31 | Before 1970 5/5</a></b>
 
 Dr. Ferris treats a child victim of a traffic accident. In a haste to ensure the child’s survival, he amputates the child’s legs just above the knees. Dr. Allan visits to check on the child and chastises Ferris for his unnecessary and irreparable choice. Still, Allan will save Ferris’s reputation and lie regarding its necessity. The child awakens for the first time since the accident in agony, overhearing their plot. The doctors assure the child’s parents that the child misheard them in an ether daze.
 

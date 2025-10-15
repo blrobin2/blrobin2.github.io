@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 18/52 | Splatter</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 18/52 | Splatter</a></b>
 
 Rain falls in the American Southwest. Mark Preston returns home. His mother, Emma, cites the same dream she has every night—it begins with a storm. But Mark doesn't want to hear it. Dogs bark outside. They run out to find Mark's father, Steve, his eyes gouged out, his face melting. Corbis. Book. The desert. Redstone. Give Corbis the book. Steve melts in the rain.
 

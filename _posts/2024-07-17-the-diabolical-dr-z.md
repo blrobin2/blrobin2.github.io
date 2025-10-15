@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 16/31 | Before 1970 1/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 16/31 | Before 1970 1/5</a></b>
 
 Hans, a convicted criminal, escapes from prison, only to fall on the doorstep of Dr. Zimmer and his daughter, Irma. They bring Hans into the laboratory to perform a procedure that turns him into a human puppet who follows their every command.
 

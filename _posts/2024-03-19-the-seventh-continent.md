@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 12/52 | First Films - watch a directorial debut</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 12/52 | First Films - watch a directorial debut</a></b>
 
 In 1987, Anna and Georg sit in the car as it runs through an automatic car wash. The camera sits in the backseat as the wash goes through its steps.
 

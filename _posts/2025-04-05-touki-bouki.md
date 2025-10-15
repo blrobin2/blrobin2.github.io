@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 28/52 | Made in Senegal</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 28/52 | Made in Senegal</a></b>
 
 A boy and several men herd cows through the arid plains of Dakar to a slaughterhouse. The cows slip on the blood and gore-smeared floors as the men slit their throats and hang their bodies to drain blood.
 

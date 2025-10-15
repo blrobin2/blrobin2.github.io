@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 12/34 | Distaster 2/2</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 12/34 | Distaster 2/2</b>
 
 Underwater volcano eruption? A boiling sea? A creature on the ocean floor
 

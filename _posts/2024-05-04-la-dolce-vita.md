@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 6/52 | 1960s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 6/52 | 1960s</a></b>
 
 Marcello rides in a helicopter flying over Rome, carrying a statue of Christ. A group of women sunbathing on the roof wave it down. Marcello asks for their number, but they decline.
 

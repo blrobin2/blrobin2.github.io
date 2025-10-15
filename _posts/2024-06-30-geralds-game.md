@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 29/31 | Stephen King Adaptation</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 29/31 | Stephen King Adaptation</a></b>
 
 Jessie and Gerald pack small suitcases. Jessie packs a new silk slip alongside her toiletries and clothes. Gerald packs a couple of sets of handcuffs in his. They go on a romantic weekend at a lake house. They have drifted apart after eleven years of marriage. This trip is their last-ditch effort to rekindle the marriage.
 

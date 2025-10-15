@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 26</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 26</a></b>
 
 <blockquote><i>Since Cain, the world has neither been intimidated nor ameliorated by punishment.</i> — Karl Marx, <i>Capital Punishment</i></blockquote>
 

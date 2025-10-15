@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 13/32 | Before 1970 4/6</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 13/32 | Before 1970 4/6</a></b>
 
 <b>Transylvania, Today</b>
 A drunk Count Von Helsing stumbles into his hobbit/Bugs Bunny lair. Surrounded by skulls and stuffed animals, he collapses on his cot with a copy of a relative’s autobiography. He read about a case 200 years ago.

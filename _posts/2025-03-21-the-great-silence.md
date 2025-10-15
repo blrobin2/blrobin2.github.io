@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 11/52 | Spaghetti Western</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 11/52 | Spaghetti Western</a></b>
 
 A riffle tip peaks out from behind a snow bank. Across the way, a man in black rides his horse over the white canvas of snow. The man in black stops, an unease coming over him, and he surveys the hills. He ungloves his right hand and draws his Mauser C96. Bullets fly. The three men with riffles lay dead, bullet wounds on their heads. A fourth man comes out, hands in the air in surrender. "I'm through with bounty hunting! Don't kill me, Silence!" The man in black, named Silence, shoots this man's thumbs off, rendering them unable to fire a gun.
 

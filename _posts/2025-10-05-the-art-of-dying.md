@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 22/52 | PM Entertainment</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 22/52 | PM Entertainment</a></b>
 
 Ahh, Twinkeltown at Christmastime. Lights lining the streets, couples fighting loud enough for the neighbors to hear. Detectives Jack and Jessie stop by a hot dog stand, despite just getting a call about a domestic disturbance. Jack and Jessie get into a tussle with a disputing couple, the wife holding a knife. Jack gets thrown around a bit, Jessie gets stabbed in the back, and the wife goes flying out the window.
 

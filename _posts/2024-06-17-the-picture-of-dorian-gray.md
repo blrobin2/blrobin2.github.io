@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 15/31 | Before 1970 2/5 | Decades 2/5 | 40s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 15/31 | Before 1970 2/5 | Decades 2/5 | 40s</a></b>
 
 <b>London — 1886</b>
 Henry Wotton takes a taxi to see an old Oxford friend, the painter Basil Hallward. Hallward has been secretive about his latest painting, which piqued Wotton's interest. Despite the butler's protestations, Wotton enters Hallward's study to find him working on a portrait of a handsome young man.

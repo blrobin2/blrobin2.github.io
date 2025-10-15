@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 1/31 | Sequels 1/6 | Decades 1/6 | 80s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 1/31 | Sequels 1/6 | Decades 1/6 | 80s</a></b>
 
 Alice was the sole survivor of the Camp Crystal Lake murders. She still has nightmares about the incident and Pamela Voorhees, who was the murderer.
 

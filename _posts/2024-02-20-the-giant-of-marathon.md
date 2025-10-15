@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 8/52 | Peplum</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 8/52 | Peplum</a></b>
 
 <blockquote><i>Greece, in the year 490 BC, was a land divided — Athens against Sparta — while Athens itself was torn by internal conflict and treachery. Enemy of all Greece and poised for conquest was the great Darius, king of the Persians. In that fateful moment, the Greeks found a hero to unite them — Philippides, the greatest athlete of his time, winner of the Olympic Games, whose race from Marathon to Athens not only saved them from destruction but set the great marathon race which has crowned the Olympics ever since.</i></blockquote>
 

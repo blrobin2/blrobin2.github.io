@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-Ah, Edgewood Entertainment. You gave me <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a> and <a href="https://boxd.it/9fZVEB"><i>Icebreaker</i></a>. And now <i>Radical Jack</i>? Surely, this is hell.
+Ah, Edgewood Entertainment. You gave me <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a> and <a href="https://boxd.it/9fZVEB" target="_blank" rel="noopener"><i>Icebreaker</i></a>. And now <i>Radical Jack</i>? Surely, this is hell.
 
 I guess Billy Ray Cyrus filmed the <i>Mulholland Dr.</i> pilot and felt he was finally ready for a leading actor role.
 

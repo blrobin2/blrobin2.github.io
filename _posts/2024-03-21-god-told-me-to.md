@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 36/52 | USA Up All Night</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 36/52 | USA Up All Night</a></b>
 
 New York. The city of angels. Harold Gorman, sitting on a water tower, is out to make more angels as he opens fire on random pedestrians. Men, women, and children collapse, confusing and horrifying the surrounding people.
 

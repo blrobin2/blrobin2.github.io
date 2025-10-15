@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 11/52 | 2010s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 11/52 | 2010s</a></b>
 
 Charlie Barber lists all the things he loves about his wife, Nichole. Nichole is a former actress who moved to New York to do stage work with Charlie.
 

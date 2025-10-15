@@ -9,11 +9,11 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 15/31 | Takashi Miike 5/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 15/31 | Takashi Miike 5/5</a></b>
 
 Cold open on Miyuki Goto and Kosuke Hasegawa fucking. It’s important to know that these two fuck. And they both like to fuck each other. The ice blue lighting reminds me of the Game Boy Pocket I had in the same color.
 
-The camera takes voyeuristic positions as we watch Miyuki do her laundry — through a spyhole, outside her window. From the upstairs balcony, we watch her read over the script for a play she’s in, based on the most famous Kaidan of all time, Yotsuya Kaidan. Watch <a href="https://boxd.it/3NSFCj"><i>The Ghost of Yotsuya</i></a>, also an adaptation of Yotsuya Kaidan — it rules.
+The camera takes voyeuristic positions as we watch Miyuki do her laundry — through a spyhole, outside her window. From the upstairs balcony, we watch her read over the script for a play she’s in, based on the most famous Kaidan of all time, Yotsuya Kaidan. Watch <a href="https://boxd.it/3NSFCj" target="_blank" rel="noopener"><i>The Ghost of Yotsuya</i></a>, also an adaptation of Yotsuya Kaidan — it rules.
 Anyway, back to this movie. Kosuke comes to Miyuki’s rehearsals. Miyuki, a famous actress playing the lead, Oiwa, pulls some strings and gets Kosuke cast as Iemon. As they perform the play, the world of the play becomes more realistic. The elements of the actor’s life blur into the play and vice versa.
 
 <blockquote><i>Sometimes, I wish the play were my real life.</i></blockquote>

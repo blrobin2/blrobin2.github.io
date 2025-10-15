@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 41/52 | Zombie</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 41/52 | Zombie</a></b>
 
 The Creeds move to Ludlow, Maine. Rachel and her daughter Ellie see kids in animal masks walking through the woods, carting a dead dog. Ellie follows them to a place labeled Pet Sematary.
 

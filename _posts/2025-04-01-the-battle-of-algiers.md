@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 52/52 | Any Criterion film from your watchlist</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 52/52 | Any Criterion film from your watchlist</a></b>
 
 <b>Algiers 1957</b>
 French Army soldiers stand around a stripped and shaken compatriot of Ali La Pointe, a commander of the Algerian National Liberation Front (FLN). The soldiers are happy that, after grueling torture, they were able to make him reveal the location of La Pointe's hideout. They dress him in French Army fatigues, forcing him to come with them to ensure he isn't lying, and then he can go free. The Army raids La Pointe's home in The Casbah, running over rooftops and sending people out in droves. The compatriot points to a false wall behind which Mahmoud, Halima, Little Omar, and Ali La Pointe sit.
@@ -26,7 +26,7 @@ From here, the film branches off to multiple perspectives as it details The Batt
 
 Pontecorvo worked with Ennio Morricone on the score as a final bit of brilliance. Morricone deftly keeps his score in the background, keeping time more than adding triumph. But his Theme of Ali — dude, it sounds like "Born Slippy" by Underworld!
 
-In <a href="https://boxd.it/9gnFsH" rel="nofollow">a review for <i>Pépé le Moko</i></a>, I said that that film brought The Casbah to life more than any film I've seen. This one goes further, but having seen <i>Pépé le Moko</i>, seeing familiar streets and rooftops added another layer of realism to this movie.
+In <a href="https://boxd.it/9gnFsH" target="_blank" rel="noopener">a review for <i>Pépé le Moko</i></a>, I said that that film brought The Casbah to life more than any film I've seen. This one goes further, but having seen <i>Pépé le Moko</i>, seeing familiar streets and rooftops added another layer of realism to this movie.
 
 Costa-Gavras's <i>Z</i> felt similar to me, and it makes sense—Costa-Gavras cites this film as an influence. From <i>Children of Men</i> to <i>Dunkirk</i>, this film remains a touchstone for contemporary directors who want to make their war films feel more "real." Even Stanley Kubrick, who faked the moon landing, was duped by this movie!
 

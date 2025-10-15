@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 8/52 | Black Music Films</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 8/52 | Black Music Films</b>
 
 <blockquote><i>On down through the ages, Gospel was good news. Now if you don't know that, I will throw you outta here myself.</i> — Rev. Thomas Dorsey, the Godfather of Gospel</blockquote>
 

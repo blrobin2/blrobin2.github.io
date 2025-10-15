@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 17/52 | Shot on Video</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 17/52 | Shot on Video</a></b>
 
 We open on a snowy, suburban home. A teen boy named Mark walks out with his dog and jumps on his riding mower. With a snowplow appended to the front, he goes on a joy ride as he shovels snow off the road. He runs into a for sale sign, which knocks him off the mower. Cut to another teen boy named John sneaking into a room and looking through all the drawers. In the bottom drawer, underneath layers of clothing, sits a copy of Gallery. He starts ripping off the pages like a maniac before finding the 1-900 section. Finally, we meet a third boy, named Todd, who throws off his headphones because, I guess, country is playing. Their mom is working a double shift, so the kids are left to their own devices.
 

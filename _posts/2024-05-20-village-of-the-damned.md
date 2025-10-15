@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 19/31 | Carpenter">Hooptober 4.0 | 19/31 | Carpenter</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 19/31 | Carpenter" target="_blank" rel="noopener">Hooptober 4.0 | 19/31 | Carpenter</a></b>
 
 A whispering shadow lifts off of Midwich. Dr. Alan Chaffee wakes up to the whispering sound, but Barbara assures him it's nothing. Alan leaves for out-of-town business.
 

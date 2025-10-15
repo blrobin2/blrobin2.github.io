@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 20/32 | Reptile Rampage | Countries 3/6 | Japan</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 20/32 | Reptile Rampage | Countries 3/6 | Japan</a></b>
 
-<b><a href="https://boxd.it/u5OmM/detail">Godzilla: Ranked</a></b>
+<b><a href="https://boxd.it/u5OmM/detail" target="_blank" rel="noopener">Godzilla: Ranked</a></b>
 
 In the distant future of 1999, the United Nations Science Committee confined all the monsters on an island called Monsterland. There, scientists study their behavior.
 

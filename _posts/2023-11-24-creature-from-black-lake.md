@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 25/34 | Joy N. Houck Jr.</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 25/34 | Joy N. Houck Jr.</b>
 
 Joe and Willy ride a boat through the swamp. Someone (or something) is stealing fish from their traps.
 

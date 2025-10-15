@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 31/32 | Bonus 1/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 31/32 | Bonus 1/2</a></b>
 
 <blockquote><i>Don’t worry — you’ll get the shit. You’ll be knee-deep in the shit.</i></blockquote>
 

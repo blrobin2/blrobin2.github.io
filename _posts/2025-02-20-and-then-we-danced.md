@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY">Anti-Criterion Challenge 2024 | 48/52 | Made in Georgia (Country)</a></b>
+<b><a href="https://boxd.it/qBmUY" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 48/52 | Made in Georgia (Country)</a></b>
 
 The credits present several examples of traditional Georgian dance before introducing us to Merab, a Georgian dancer training at the National Georgian Ensemble. He performs a sequence with Mary. The teacher, Aleko, stops Mereb from being too soft in his movements and critiques Mary for letting her eyes wander instead of the stoic stare at the floor, which conveys purity. In other words, remove all sexiness from the dance. Then, Irakli, a replacement dancer with a glib attitude, interrupts rehearsal. Still, Aleko has him step in for Mereb and shows himself to have the traits that Merib lacked.
 

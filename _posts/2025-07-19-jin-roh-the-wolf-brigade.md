@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 3/52 | Anime</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 3/52 | Anime</a></b>
 
 <blockquote><i>We aren't men disguised as wolves. We are wolves disguised as men.</i></blockquote>
 

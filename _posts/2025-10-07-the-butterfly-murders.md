@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 5/31 | Countries 3/6 | Hong Kong</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 5/31 | Countries 3/6 | Hong Kong</a></b>
 
 Mr. Tsui presents a manuscript to the boss of Bar Bridge Paper Mill for publication. According to Tsui, these are eight pages of Scholar Fong's unpublished memoirs. The boss takes a look, however, and determines they are forgeries. A worker comes to the boss's office to ask the boss a question and finds the window open and the boss dead. The Tien Lung Clan's White Flag Squad hunts down Tsui, finding him three days later. In the ensuing struggle, Tsui dies, and No. 3, the squad leader, retrieves the manuscript. The manuscript describes events that occurred eighteen years prior, in which two men digging for treasure in General Pingnam's tomb in Butterfly Valley were swarmed and murdered by a kaleidoscope of butterflies.
 

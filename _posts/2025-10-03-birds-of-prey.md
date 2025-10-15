@@ -25,4 +25,4 @@ Flamingos are such dinosaurs!!
 - Please don't.
 - I'm going out to punch birds.
 - I'm just a simple birthday nurse, leave me out of this!
-- I forgot! We have 10,000 cats in the basement! (Mike referring to another Rene Cardona Jr. movie, <a href="https://boxd.it/8KfbVZ" rel="nofollow"><i>Night of a Thousand Cats</i></a><i></i>).
+- I forgot! We have 10,000 cats in the basement! (Mike referring to another Rene Cardona Jr. movie, <a href="https://boxd.it/8KfbVZ" target="_blank" rel="noopener"><i>Night of a Thousand Cats</i></a><i></i>).

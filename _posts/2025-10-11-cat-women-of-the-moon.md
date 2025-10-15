@@ -11,7 +11,7 @@ category: movie-review
 
 Mary Jo Pehl and Bridget Jones Nelson riff on this one. This was their first "almost movie" riff, as they call it (the movie is barely over 60 minutes).
 
-See <a href="https://boxd.it/59qQlD" rel="nofollow">my review from two years ago</a>.
+See <a href="https://boxd.it/59qQlD" target="_blank" rel="noopener">my review from two years ago</a>.
 
 - — Man has been face-to-face with the stars for years, but it is barely able to penetrate their unknown secrets. — Well, not without a ring!
 - They're strapping into rolling office chairs.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 38/52 | HG Lewis</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 38/52 | HG Lewis</a></b>
 
 <b>April 1965</b>
 Georgia native Rufus sits in a tree, binoculars in hand. He spots an Illinois license plate on a white convertible full of teenagers and signals to Lester to remove the road sign for Augusta and set up detour signs toward Pleasant Valley. When a Georgia license plate passes, they switch the signs back. They continue this routine, redirecting a red convertible driven by Terry and her hitchhiker, Tom. Pleasant Valley celebrates its centennial with guitars and banjos playing "The South's Gonna Rise Again" and kids waving Confederate flags. Some kids make nooses from rope and strangle a black cat. It also happens to be 100 years since the end of the Civil War.

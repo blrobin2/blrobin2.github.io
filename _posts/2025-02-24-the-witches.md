@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 9/52 | Horror Hotel</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 9/52 | Horror Hotel</a></b>
 
 <blockquote><i>Real witches dress in ordinary clothes and look very much like ordinary women. They live in ordinary houses, and they work ordinary jobs. […] Witches spend their time plotting to kill children, stalking the wretched child like a hunter stalks a bird in the forest. […] What makes her dangerous is that she doesn't look dangerous. You can never be sure if it's a witch you're looking at or a kind lady.</i></blockquote>
 

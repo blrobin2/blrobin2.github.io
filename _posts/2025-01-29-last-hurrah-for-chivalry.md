@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 48/52 | John Woo</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 48/52 | John Woo</a></b>
 
 <blockquote><i>A fool's bravery can bring down the entire kingdom. An unjust heart can only do evil with the sword.</i></blockquote>
 

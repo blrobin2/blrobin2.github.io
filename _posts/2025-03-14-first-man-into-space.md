@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 7/52 | 50s Sci-Fi</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 7/52 | 50s Sci-Fi</a></b>
 
 A Boeing B-29 Superfortress takes off, with a smaller Bell X-1A, code-named Y-12, strapped beneath it. A space positioning team, led by US Navy Commander Chuck Prescott, observes as the plane rises past 15 thousand feet. All measurements are coming in correctly. At 45 thousand, the Y-12 drops and ignites its rockets, tilting the rocket toward space. The pilot? Prescott's brother, Lt. Dan Prescott.
 

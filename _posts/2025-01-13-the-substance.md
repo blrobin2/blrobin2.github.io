@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 19/31 | Countries 4/5 | France</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 19/31 | Countries 4/5 | France</a></b>
 
 <b>Paul Verhoeven's <i>Requiem for a Dream</i>? Brian Yuzna's <i>Sunset Blvd.</i>? A third thing I can't think of right now?</b>
 

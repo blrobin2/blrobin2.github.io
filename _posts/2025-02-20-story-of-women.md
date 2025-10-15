@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 29 </a></b>
+<b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 29 </a></b>
 
 It's WWII, and the Nazi party has established a military occupation and control in northern and western France. Marie lies in Cherbourg and gathers food with her two children: her young son Pierrot and little Mouche in her arms. Pierrot cries at the prospect of eating what they have. They walk the empty streets of their town to their flat. At the flat, their neighbor Ginette kisses her husband, Bernard, before he ships to Germany. Bernard is going off to save prisoners of war—maybe he will find Marie's husband, Paul. Pierrot asks if his mother was happy when he was born. She tells him, of course, because having a boy is always correct.
 

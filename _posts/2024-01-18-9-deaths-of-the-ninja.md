@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail#item-3706935415">Cult Movie Challenge 2024 | 3/52 | Crown International Pictures</a></b>
+<b><a href="https://boxd.it/rIGbC/detail#item-3706935415" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 3/52 | Crown International Pictures</a></b>
 
 Spike and Steve go undercover to infiltrate some group of white men wearing turbans. Spike instantly removes his disguise, revealing a belt with assorted ninja gear and lollipops. Steve sets off bombs he somehow planted. Spike throws ninja stars at the group. Thankfully, no one is firing at them, so they can idly walk to each target.
 

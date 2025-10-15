@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 46/52 | 1970s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 46/52 | 1970s</a></b>
 
 At night, spiders catch creatures in their massive webs. The sun rises, peeking into the valleys between mountains. At Jing Lu Fort, nature overtakes the once mighty stronghold. Deeper in, we go to the General's Mansion, where statues of tigers guard the vacant home.
 

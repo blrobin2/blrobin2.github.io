@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 21/31</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 21/31</a></b>
 
 Who is decapitating all these people in Sleepy Hollow? It sounds like a job for Sherlock… excuse me, police constable Ichabod Crane. New York City has had enough of his science mumbo jumbo. So, Crane can fuck off to the Dutch hamlet, and he can't come back until he's found the killer. That will be hard since all the locals believe the murderer is a legendary Headless Horseman.
 

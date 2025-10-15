@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>
 
 <b>SPOILERS FOR PATHER PANCHALI ARE INEVITABLE</b>
 

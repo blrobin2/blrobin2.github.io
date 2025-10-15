@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 17/31 | Before 1970 2/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 17/31 | Before 1970 2/5</a></b>
 
 It's 3 AM. U.S. Air Force jets line the tarmac of Interceptor Command Experimental Station 6 in Winthrop, Manitoba. A guard stops for a cigarette and watches the long arc of a jet's condensation trail in the sky. He stops and picks up his gun when he hears the crunch of foliage under shoes from someone's approach. He hears a scream, a thumping, and an odd slurping sound — following it, he finds a dead civilian, arched over in agony.
 

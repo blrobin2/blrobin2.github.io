@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 51/52 | Christmas Horror</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 51/52 | Christmas Horror</a></b>
 
 When Alex was a child, an associate of his father's entered the house with a gun and killed both his parents. The associate wore a mask made from a fox pelt. The memory has haunted him ever since.
 

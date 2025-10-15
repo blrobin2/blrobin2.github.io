@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 34/34 | Bonus 3/3</a></b>
+<b><a href="https://boxd.it/pOvfW" target="_blank" rel="noopener">Hooptober 8.0 | 34/34 | Bonus 3/3</a></b>
 
 <blockquote><i>In the fall of 1999, four teenaged sleuths and their Great Dane got lost in the woods while in search of a mystery. This is their story.</i></blockquote>
 

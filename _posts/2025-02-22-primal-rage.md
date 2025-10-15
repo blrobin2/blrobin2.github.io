@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birth Year Challenge 33</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 33</a></b>
 
 The Facade Band's Say the Word plays as we watch Sam Nash, Independent Voice reporter, take photos of all the college activities at the University of Miami. He runs into Lauren Daly, instantly falls in love, and helps her avoid getting her red Chrysler Le Baron towed.
 

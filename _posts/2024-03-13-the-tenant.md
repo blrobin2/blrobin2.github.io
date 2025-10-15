@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 12/32 | film whose year ends in '6' 6/6 | decades 6/6 | 1970s</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 12/32 | film whose year ends in '6' 6/6 | decades 6/6 | 1970s</a></b>
 
 <i>CW // Suicide, Misogyny, Sexual Assault, Homophobia, Verbal Abuse, Transphobia. Blood</i>
 

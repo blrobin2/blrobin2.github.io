@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 13/31 | Countries 6/6 | Spain</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 13/31 | Countries 6/6 | Spain</a></b>
 
 <blockquote><i>There's a place where you can take refuge — a place inside you. A place to which no one else has access. A place that no one can destroy.</i></blockquote><b>Toledo, 2012</b>
 Robert Ledgard is a world-renowned plastic surgeon specializing in facial reconstruction for burn victims. After years of research, he has developed an artificial skin resistant to fire and bug bites. He calls it GAL, named for his wife, who burned to death in a car crash.

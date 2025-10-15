@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 14/32 | Makeup: Jack Pierce</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 14/32 | Makeup: Jack Pierce</a></b>
 
 <i>CW // Child Abuse and Mutilation, Torture, Murder, Sexism</i>
 

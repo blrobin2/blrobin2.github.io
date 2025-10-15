@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 43/52 | Slasher</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 43/52 | Slasher</a></b>
 
 An empty road at night glows red—the traffic light, the cocktail sign, the neon Santa, and the blood on Denise's shirt. She rides the bus alone, her bloodied hands holding herself, trying to hide what is obvious. She pulls a gun.
 

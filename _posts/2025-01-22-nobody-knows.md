@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Movie Challenge 2023 | 1/52 | Kinema Junpo Awards Winner</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Movie Challenge 2023 | 1/52 | Kinema Junpo Awards Winner</a></b>
 
 The Fukishimas have just moved into a small Tokyo apartment. Keiko introduces herself and Akira to the landlord. When Keiko says it's only the two of them, Akira looks at the camera. The two gingerly carry their suitcases, letting the movers handle the others. Once everything settles, they open the suitcases to reveal Shigeru and Yuki, Keiko's two youngest children. The fifth child, Kyoko, takes a night train to the apartment.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 8/31 | Decades 8/10 | 40s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 8/31 | Decades 8/10 | 40s</a></b>
 
 A small-town inn puts on a picture show. Folks sit in dining room chairs. A woman accompanies the movie on piano. While this happens, a woman leaves the theater for her room. In her closet, beady eyes watch her.
 

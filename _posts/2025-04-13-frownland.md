@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 34/52 | Midnight Madness: Cult Movies</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 34/52 | Midnight Madness: Cult Movies</a></b>
 
 A monster on the bed. Well, on the TV that Keith is watching, he also happens to be in bed. Keith's phone rings. A crying voice on the other end—his girlfriend, Laura, sitting in her car downstairs. He rides with her, trying to tell her how he never cried as a child, but he stumbles and stutters over his words. Laura gets out of the car to grab something from the gas station. Keith holds his eyes open, trying to force himself to cry. When Laura gets in, he wipes away the tears as though distraught.
 

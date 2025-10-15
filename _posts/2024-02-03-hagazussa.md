@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 2/32 | Countries 2/6 | Germany</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 2/32 | Countries 2/6 | Germany</a></b>
 
 A mother and her daughter, Albrun, live in the 15th-century Austrian Alps, 100 years after the black plague. They are goat herders who live on the outskirts of town.
 

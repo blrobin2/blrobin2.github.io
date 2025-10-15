@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 3/52 | South Korea Blue Dragon Film Awards</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 3/52 | South Korea Blue Dragon Film Awards</a></b>
 
 <b>Watching the Fade to Black & White version</b>
 

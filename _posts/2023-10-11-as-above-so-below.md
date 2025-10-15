@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 13/34 | Something is Underground</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 13/34 | Something is Underground</b>
 
 <b>National Treasure, but make it spooky</b>
 

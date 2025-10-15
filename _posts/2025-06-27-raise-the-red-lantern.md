@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 13/52 | Directed by Zhang Yimou</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 13/52 | Directed by Zhang Yimou</a></b>
 
 <b>Republic of China, 1920s</b>
 

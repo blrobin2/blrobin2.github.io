@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 48/52 | 1990s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 48/52 | 1990s</a></b>
 
 <i>You know what they say: A gentleman may leave New York City, but New York City will never stop talking about a gentleman. xoxo gossip girl</i>
 

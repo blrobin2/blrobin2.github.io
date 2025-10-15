@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 41/52 | Made in a country with land north of the Tropic of Cancer by a director from that country (Ukraine)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 41/52 | Made in a country with land north of the Tropic of Cancer by a director from that country (Ukraine)</a></b>
 
 Vadym, a sound engineer in Kyiv, has earned extra income through field recordings. While he was previously employed on a movie set, he has since resigned. Furthermore, Vadym requires funds for an expensive dental surgery he recently underwent.
 

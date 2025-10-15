@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 19/52 | Faith on Film</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 19/52 | Faith on Film</b>
 
 <blockquote><i>But remember, Bess — the Lord giveth, and the Lord taketh away.</i></blockquote>
 

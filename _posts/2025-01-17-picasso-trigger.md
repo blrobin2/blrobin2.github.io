@@ -9,8 +9,8 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 9</a></b><br>
-<b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 9</a></b><br>
+<b><a href="https://boxd.it/xqceO" target="_blank" rel="noopener">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
 In <i>Hard Ticket to Hawaii</i>, we met the heroes of this series, Agency operatives Donna and Tayrn. With the help of handsome idiot Rowdy Abilene and his assistant, Jade, they took out drug lord Seth Romero and saved Hawaii.
 

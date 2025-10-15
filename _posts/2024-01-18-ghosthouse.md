@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail#item-3630807378" rel="nofollow">Hooptober 8.0 | 16/34 | From birth year 1/2</a></b>
+<b><a href="https://boxd.it/pOvfW/detail#item-3630807378" target="_blank" rel="noopener">Hooptober 8.0 | 16/34 | From birth year 1/2</a></b>
 
 A cat's shriek. Distorted organ music and pitch-shifted voices.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 31/52 | Blaxploitation</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 31/52 | Blaxploitation</a></b>
 
 It's the 1970s, and disco is king. Folks dance at the Blueberry Hill disco. The DJ announces the main event: Tucker Williams, AKA the Disco Godfather, dancing in his baby blue spandex as he crosses the dancefloor and enters the DJ booth. He shouts his catchphrase, "Put your weight on it!" as he takes over DJing. Among the patrons is Bucky, the Godfather's nephew, who jumps on the dance floor with his girlfriend, Linda.
 

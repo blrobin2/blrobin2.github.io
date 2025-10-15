@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 42/52 | One-Word Title Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 42/52 | One-Word Title Horror</a></b>
 
 <b>Okay, I guess I hate myself, here we go.</b>
 

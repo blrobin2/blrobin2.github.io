@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>
 
 <blockquote><i>There's something dirty about death
 </i></blockquote>

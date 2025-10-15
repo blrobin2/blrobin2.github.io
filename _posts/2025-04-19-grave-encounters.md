@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 29/52 | Found Footage</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 29/52 | Found Footage</a></b>
 
 Grave Encounters was a reality TV show hosted by ghost hunter Lance Preston. The executives canceled the show after five episodes. The executive producer, Jerry Hartfield, explains why and shows us recovered footage of the sixth and final episode. The episode focuses on the Collingwood Psychiatric Hospital, an abandoned place noted for its unexplained phenomena. The crew locks itself inside the hospital at night. What's going to happen?
 
@@ -26,5 +26,5 @@ I never hated it, but I was barely on board by the end.
 #### Stray Thoughts/Spoilers
 
 - The doctored photos of Dr. Arthur Friedkin are so funny. I assume his name is a nod to William Friedkin, a la The Exorcist.
-- It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.
+- It's impressive that Jung Bum-shik made a similar movie with <a href="https://boxd.it/3RGqEL" target="_blank" rel="noopener">Gonjiam: Haunted Asylum</a> seven years later and did everything better than this movie.
 - It's been five days, and bro is eating raw rat.

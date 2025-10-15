@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 20</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 20</a></b>
 
 At a genetic research facility, two scientists look at a strange growth on an X-ray of a cat. They bring the beautiful orange boy in, but he slips away. The scientists sound the alarm, and a patrol of hazmat suits chase him down, tranquilizer and crate in hand. They tranq the cat, only for a smaller, mutated cat to crawl out of its mouth and kill them all.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 5/52 | 60s Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 5/52 | 60s Horror</a></b>
 
 <blockquote><i>In nature's scheme of things, there are certain plants which are carnivorous or eating plants. […] There is much still to learn about these fascinating eating plants. […] [A] newcomer, trifidus selectus, [was] brought to earth on the meteorites during <b>The Day of the Triffids</b>.</i></blockquote>
 

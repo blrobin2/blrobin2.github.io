@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed">Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed" target="_blank" rel="noopener">Criterion Challenge 2022 | 14/52 | Genre: Musical/Music Themed</a></b>
 
 The king lives a perfect life. He has a "beautiful and virtuous" wife and a daughter of "grace and charm." They also have a donkey that shits jewels — the source of the kingdom's wealth.
 

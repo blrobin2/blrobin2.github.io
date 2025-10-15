@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 44/52 | Arab Film & Media Institute’s Cinema of Palestine</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 44/52 | Arab Film & Media Institute’s Cinema of Palestine</a></b>
 
 We open on an Orthodox procession downstairs to a door on which the leading priest knocks. A voice on the other side refuses to open the door. So, the priest goes to the side door, kicks it down, and, we assume, beats the guy up.
 

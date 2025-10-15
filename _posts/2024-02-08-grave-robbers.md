@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 6/32 | Countries 6/6 | Mexico</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 6/32 | Countries 6/6 | Mexico</a></b>
 
 A woman chained to a pentagram. A hooded and cloaked man, the executioner of an inquisition, performs a ritual in which Satan impregnates her with his son.
 

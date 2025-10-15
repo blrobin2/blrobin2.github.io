@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 10/52 | Full Moon Entertainment</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 10/52 | Full Moon Entertainment</a></b>
 
 <b>WARNING: spoilers for Puppet Master are inevitable. Readers beware.</b>
 

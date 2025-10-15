@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 13/52 | 70s Disaster</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 13/52 | 70s Disaster</a></b>
 
 Stewart is a former college football player and engineer. His wife hates him so much she fakes suicide. He brings a signed football to a 10-year-old named Corry because Stewart put Corry's dad on a project that got him killed. Corry's mom, Denise, got a bit part in a movie, so Stewart runs lines with her and looks at her like fresh meat. He's clearly cheating on his wife with this woman 20 years his junior.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 13/31 | Takashi Miike 3/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 13/31 | Takashi Miike 3/5</a></b>
 
 <b>It’s 2003 and cell phones are getting smaller, flippy-er, and SCARIER</b>
 

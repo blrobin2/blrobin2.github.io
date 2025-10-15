@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 5/52 | Giallo</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 5/52 | Giallo</a></b>
 
 Teresa has come to a boarding school for troubled girls. Headmistress Señora Fourneau is a strict disciplinarian who is not opposed to more abusive means of setting girls straight. Her son Luis curiously watches the girls, but his mother forbids him from spending time with them.
 

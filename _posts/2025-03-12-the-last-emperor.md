@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 39/52 | Genre: History</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 39/52 | Genre: History</a></b>
 
 <blockquote><i>I think the emperor is the loneliest boy on earth.</i></blockquote>
 

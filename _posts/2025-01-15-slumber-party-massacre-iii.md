@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 3/52 | Threequels</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 3/52 | Threequels</a></b>
 
 In case the title is ambiguous, this film is about a group of teenage girls throwing a slumber party, only for a masked killer to crash it.
 

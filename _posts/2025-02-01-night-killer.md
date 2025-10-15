@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 52/52 | Bruno Mattei</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 52/52 | Bruno Mattei</a></b>
 
 We open on an elaborate setup with a show rehearsal, but it's just fodder for a woman changing and two murder scenes, each performed by a killer in a monster mask with clawed gloves.
 

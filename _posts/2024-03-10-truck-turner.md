@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 31/52 | Blaxploitation">Cult Movie Challenge 2016 | 31/52 | Blaxploitation</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 31/52 | Blaxploitation" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 31/52 | Blaxploitation</a></b>
 
 <i>CW // Racism, Classism, Misogyny, Murder, Blood, Antisemitism, Verbal and Physical Abuse, Animal Killing</i>
 

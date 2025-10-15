@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 20/52 | Chinese Cinema: The Fifth Generation</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 20/52 | Chinese Cinema: The Fifth Generation</a></b>
 
 <blockquote><i>This old yellow earth, it lets you tread upon it and plough it up. Are you willing to do it? You don't respect it...</i></blockquote>
 
@@ -34,7 +34,7 @@ Each character receives their own musical theme, and each theme has distinct son
 
 <blockquote><i>In this ancient place, the melodies of 信天游（xintianyou）drift the year round.</i></blockquote>
 
-This film elided government censorship through ambiguity, not criticizing the Communist Party while still highlighting its failures to uplift the peasant class it claimed to support. Still, the film faced harsh criticism within China, but garnered international recognition for the Fifth Generation. This recognition paved the way for films like <a href="https://boxd.it/a8hOEr"><i>Raise the Red Lantern</i></a> and <i>Farewell My Concubine</i> to reach global audiences with visually stunning storytelling.
+This film elided government censorship through ambiguity, not criticizing the Communist Party while still highlighting its failures to uplift the peasant class it claimed to support. Still, the film faced harsh criticism within China, but garnered international recognition for the Fifth Generation. This recognition paved the way for films like <a href="https://boxd.it/a8hOEr" target="_blank" rel="noopener"><i>Raise the Red Lantern</i></a> and <i>Farewell My Concubine</i> to reach global audiences with visually stunning storytelling.
 
 Once the sheen of Fifth Generation filmmakers wore off, their influence did not seem to have a lasting impact on Chinese filmmaking. However, their reputation persists worldwide, and their films remain among the most celebrated to emerge from China.
 

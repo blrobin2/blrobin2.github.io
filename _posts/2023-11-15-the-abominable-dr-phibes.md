@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 15/34 | Bloodthirsty old person/people film | Decades 5/8 | 1970s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 15/34 | Bloodthirsty old person/people film | Decades 5/8 | 1970s</b>
 
 Dr. Phibes Clockwork Wizards start playing a jazz tune — animatronics programmed to play songs that haven't come out yet.
 

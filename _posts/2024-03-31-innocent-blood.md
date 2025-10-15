@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 32/32 | Bonus</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 32/32 | Bonus</a></b>
 
 Marie is a French vampire living in Pittsburg. She only sucks the blood of criminals. She reads about some mafia wars in the streets and chooses the mafia as her prey.
 

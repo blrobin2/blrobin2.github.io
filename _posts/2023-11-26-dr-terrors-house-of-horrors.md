@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail" rel="nofollow">Hooptober 9.0</a> | 27/34 | Christopher Lee films 2/2 | Decades 8/8 | 1960s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 27/34 | Christopher Lee films 2/2 | Decades 8/8 | 1960s</b>
 
 Six strangers board a train. One, named Dr Schreck, unveils a Tarot deck, revealing each of the passenger's destinies. Spoiler alert: all paths lead to death.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 31/31 | Tobe Hooper</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 31/31 | Tobe Hooper</a></b>
 
 Cheap pop punk stabs our ears as we join Brady and Duncan discussing the one food they'd eat for the rest of their life. Brady says pizza — the correct choice — while Duncan says yams. What a rascal!
 

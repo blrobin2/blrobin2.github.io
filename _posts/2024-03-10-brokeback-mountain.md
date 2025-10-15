@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 27/52 |  director's highest-rated film (Ang Lee)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 27/52 |  director's highest-rated film (Ang Lee)</a></b>
 
 <blockquote><i>If you can't fix it, you gotta stand it</i></blockquote>Ennis steps out of an 18-wheeler. Jack pulls up in an old piece-of-shit truck. The two look at each other but try to hide it. They meet Joe at his office for a job.
 

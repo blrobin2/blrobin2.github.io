@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 27/52 | Neo-Exploitation</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 27/52 | Neo-Exploitation</a></b>
 
 Bradley Thomas pulls up to the auto shop in his tow truck, a car in tow. His boss is waiting for him outside to lay him off. He cleans out his locket and jumps in his baby blue Pontiac Formula. He gets home and finds his trash can overturned. His wife, Lauren, is sitting in her car. He opens her car door and pulls back her hair to see a hickey on her neck. Lauren admits to having an affair. He punches through her driver's window and disassembles her car by hand in a bloodied rage.
 

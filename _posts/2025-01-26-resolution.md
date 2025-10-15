@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober 31/31</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober 31/31</a></b>
 
 Michael watches a video of his best friend, Chris, ranting, shooting guns, and breaking down in a rural area. The video is accompanied by a map with a marker for Chris's location. Michael wants to find Chris and help him, but his wife, Jennifer, thinks it's a terrible idea.
 

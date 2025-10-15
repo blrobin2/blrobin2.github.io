@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 32/34 | Bonus 1/3</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 32/34 | Bonus 1/3</b>
 
 <i>Madrid 1937, Spanish Civil War</i>
 

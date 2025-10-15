@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 23/52 | Richard Linklater’s Top 10</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 23/52 | Richard Linklater’s Top 10</a></b>
 
 <blockquote><i>God chose the foolish things of this world to humiliate the learned, the weak to humiliate the strong.</i> — St. Paul’s Letter to the Corinthians I</blockquote>
 <blockquote><i>So Francis, to vanquish the world, made himself contemptible and humble. He became a child in order to be worthy of the kingdom of heaven. The world laughed at him and called him mad, but Pope Innocent had faith in him and gave him permission to bring among men his faith in meekness and poverty. </i></blockquote>

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 10/31 | Countries 4/6 | Spain | Decades 5/6 | 70s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 10/31 | Countries 4/6 | Spain | Decades 5/6 | 70s</a></b>
 
 Claude Marchand is a reporter for Holiday magazine. After landing in Paris, he receives an unexpected change of plans — he is to interview and photograph the blind sculptor Franz Badulescu, who lives in Spain.
 

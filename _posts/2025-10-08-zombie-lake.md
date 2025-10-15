@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 6/31 | Countries 4/6 | France | Zombie 4/5</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 6/31 | Countries 4/6 | France | Zombie 4/5</a></b>
 
 Outside of a French village is a lake the villagers call the Lake of the Damned. A young woman goes out to the lake, taking down a sign that warns her of death, and skinny dips. After several minutes, a Nazi zombie emerges and presumably kills her, though we don't see that on screen. In the village, Chanac threatens to go to the mayor if the young woman doesn't return by morning. When Chanac visits the mayor, he says they should wait and see if she shows up before calling the police.
 

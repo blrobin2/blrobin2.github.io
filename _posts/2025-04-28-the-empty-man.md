@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 18/52 | Cults</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 18/52 | Cults</a></b>
 
 <b>Ura Valley, Bhutan, 1995</b>
 Greg, Fiona, Ruthie, and Paul hike up a mountain. Greg recognizes a snowstorm coming in at an overlook, but Paul shushes him. Paul hears an intermittent, faint whistle, but no one else hears it. He walks towards the sound, falling into a crevice. Fiona and Ruthie help Greg set up rappelling ropes. He rappels down and discovers Paul, uninjured, sitting in front of a strange skeleton embedded in the cave walls—it looks human-like but much bigger. Greg reaches for Paul to help him up, but Paul finally speaks, only to say, "If you touch me, you'll die." Greg drags him out and carries him down the mountain over his shoulders.

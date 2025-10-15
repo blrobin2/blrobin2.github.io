@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s">Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s" target="_blank" rel="noopener">Hooptober 6.0 | 10/32 | film whose year ends in '6' 4/6 | decades 4/6 | 1950s</a></b>
 
 <i>CW // Medical Gore, Ableism, Misogyny, Anti-Romani Sentiments, Murder</i>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 4/31 | Sequels 4/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 4/31 | Sequels 4/6</a></b>
 
 Tommy runs through the rain in his yellow mackintosh. He stands before the grave of Jason Voorhees. He hears a couple of boys coming, so he goes to hide. The men dig up Jason’s grave, yipping and hollering like they’re digging for gold.
 

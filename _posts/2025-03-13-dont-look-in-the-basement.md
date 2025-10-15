@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 6/52 | Video Nasties</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 6/52 | Video Nasties</a></b>
 
 Sarge believes enemy soldiers are on the horizon. Sam sits with him, unsure of what is happening. Nurse Janie calls Sam to dinner, assuring him no one has seen the enemy. She also visits Harriet, asking her to leave behind her doll, whom she believes is her baby. Janie mistakenly touches Harriet's baby, which causes Harriet to threaten to kill her. The threat shakes Janie. She returns to Sam to say goodbye—she cannot take her post anymore. Jennifer wanders by, dead-eyed. Danny, one of the other patients, runs into Harriet's room and steals her baby, sending her into a frenzy.
 

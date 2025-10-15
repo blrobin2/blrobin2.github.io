@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 28/52 | Ari Aster’s Closet Picks</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 28/52 | Ari Aster’s Closet Picks</a></b>
 
 <blockquote><i>— Are you sure this is the way?
 — Every road leads somewhere.

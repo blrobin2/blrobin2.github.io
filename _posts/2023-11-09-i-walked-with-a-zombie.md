@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 8/34 | Decades 2/8 | 1940s</b>
+<b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 8/34 | Decades 2/8 | 1940s</b>
 
 <blockquote cite="https://www.google.com/books/edition/_/NacwDwAAQBAJ"><i>Zombies do not speak, cannot fend for themselves, do not even know their names. Their fate is enslavement.</i>
 — Alexander Nemerov, <i>Icons of Grief: Val Lewton's Home Front Pictures</i></blockquote>

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 3</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 3</a></b>
 
 <i>CW // Misogyny, Violence, Blood, Murder, Sexual Assault</i>
 

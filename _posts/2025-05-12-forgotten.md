@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 20/52 | Korean Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 20/52 | Korean Horror</a></b>
 
 <b>May 1997</b>
 Jin-seok awakens in the back of a car with his mother, father, and older brother, Jin-seok, drenched in sweat. The family is moving into a new home. Though Jin-seok has never seen the house, he cannot help but feel it is familiar. Yu-seok, whom Jin-seok admires, walks with a limp from a car accident the previous year. Though their father initially promised them separate rooms, the previous owner begged their father to let them put some stuff in that room so the brothers could share a room. Per the prior owner's request, their father tells them never to enter the closed-off room at dinner that night.

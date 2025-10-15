@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 1/34 | Countries 1/6 | Serbia</b>
+<b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 1/34 | Countries 1/6 | Serbia</b>
 
 <blockquote><i>It's a burning, hurting thing, this world — a biting, retching thing. And yet… And yet…</i></blockquote>
 

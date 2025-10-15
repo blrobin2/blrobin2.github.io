@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 15/34 | From 1981 4/4</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 15/34 | From 1981 4/4</a></b>
 
 Miguel lurks in the shadows of a masked pool party. He takes a mask and pretends to be someone else. A woman takes him to her flat, #13. When she takes off his mask, he grabs a pair of scissors and stabs her to death.
 

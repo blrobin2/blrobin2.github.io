@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 46/52 | Chuck Norris</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 46/52 | Chuck Norris</a></b>
 
 Eddie Cusack walks alongside a trash truck, emptying bins. He looks around. The track truck driver, Dorato, looks around. A guy on the balcony looks around. Folks, we have a sting operation on our hands.
 

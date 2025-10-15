@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 16/32 | Body Horror 2/4</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 16/32 | Body Horror 2/4</a></b>
 
 A man has a strange dream. He wakes up next to his son. His wife is in the other room, staring off. He senses his wife has a bad dream about their son.
 

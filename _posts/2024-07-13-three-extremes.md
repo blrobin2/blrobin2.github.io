@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 12/31 | Takashi Miike 2/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 12/31 | Takashi Miike 2/5</a></b>
 
 Three East Asia directors put forth their contributions to the Extreme Asia fad. Two are brilliant works that highlight their respective filmmaker’s strengths. The other is fine but lacks the precise eloquence of the others.
 

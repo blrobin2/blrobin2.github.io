@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 28/31 | Monster 3/5">Hooptober 2.0 | 28/31 | Monster 3/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 28/31 | Monster 3/5" target="_blank" rel="noopener">Hooptober 2.0 | 28/31 | Monster 3/5</a></b>
 
 Orla arrives at a rural Irish farm. Dan, the farm owner, greets her as she grabs her gear. He takes Orla to a pregnant cow. Orla gloves up and lubricates it to check on the unborn calf. A chomping sound drives her to pull her hand out. She removes the glove to reveal a bleeding puncture wound. It seems like the unborn calf bit her.
 

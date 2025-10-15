@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 15/31 | Terence Fisher 5/5</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 15/31 | Terence Fisher 5/5</a></b>
 
 In 18th-century Spain, a jailed beggar rapes a mute servant and dies. The servant escapes to the forest, where Don Alfredo Corledo and his housekeeper Teresa care for her. The unnamed servant dies giving birth to a child on Christmas Day, whom Alfredo and Teresa raise, naming him Leon. To be born on Christmas Day is considered "unlucky." So, Leon learns that an evil spirit is attached to him at birth, transforming him into a werewolf.
 

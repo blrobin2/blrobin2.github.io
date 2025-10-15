@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 26/52 | Bong Joon-Ho's Top 10</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 26/52 | Bong Joon-Ho's Top 10</b>
 
 <blockquote><i>Everything can happen. Everything is possible and probable. Time and space do not exist. On a flimsy framework of reality, the imagination spins, weaving new patterns.</i></blockquote>
 

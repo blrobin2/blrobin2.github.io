@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 17/52 | Directed by Rainer Werner Fassbinder</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 17/52 | Directed by Rainer Werner Fassbinder</a></b>
 
 A picture of Hitler painted on a wall explodes — an Allied bombing raid — exposing Maria Berger and Hermann Braun's wedding at the Civil Registry. They exchange their vows, and windows collapse, and people scramble. While they huddle together, Maria pulls out the forms to sign to make their marriage legally binding.
 

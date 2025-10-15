@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 24|52 | Daddy Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 24|52 | Daddy Horror</a></b>
 
 <blockquote><i>On May 18, 1978, Sheriff John Quincey Wydell, along with local authorities in Ruggsville County, Texas, led a "search and destroy" mission on a decaying farmhouse. Inside the house, police discovered a collection of diaries and scrapbooks detailing the accounts of more than seventy-five murders. The family responsible for these brutal crimes was forever to be known as "The Devil's Rejects."</i></blockquote>
 

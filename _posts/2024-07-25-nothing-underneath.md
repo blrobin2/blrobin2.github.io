@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 24/31 | Slasher 4/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 24/31 | Slasher 4/5</a></b>
 
 In classic Giallo fashion, a horse-drawn carriage ambles through Yellowstone National Park in Wyoming, USA. It crosses over a roadway where cars wait to cross. In one car is Bob Crane, a forest ranger. He arrives at Hamilton's Store, a kitschy souvenir shop, where Mrs. Gordon brings him a long-awaited package. Inside is Moda Italia, a fashion magazine. On the cover is Bob's twin sister, Jessica — her first cover. It also has a handwritten note from Jessica giving her new address and phone number in Milan, Italy.
 

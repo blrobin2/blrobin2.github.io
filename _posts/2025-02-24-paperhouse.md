@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 35</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 35</a></b>
 
 Anna turns 11 today. She draws a house with a fence and rocks surrounding it in class. Later, in the hall, she passes out. She comes to like Christina in Wyeth's Christina's World, the house she drew off in the distance. Before she can reach it, she is awake in the hall, her classmates standing around her. Her mother brings her a letter from her overseas father.
 

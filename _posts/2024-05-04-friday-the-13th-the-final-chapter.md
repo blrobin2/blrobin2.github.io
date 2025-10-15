@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 3/31 | Sequels 3/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 3/31 | Sequels 3/6</a></b>
 
 We get a recap of the events of the previous movies. When we last saw Jason, we saw Chris kill him, though she had a nightmare that he was still alive and that his mother pulled her into the water.
 

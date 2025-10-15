@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 9/34 | Decades 3/8 | 1940s</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 9/34 | Decades 3/8 | 1940s</b>
 
 According to the newspapers, Dr. Brewster (Bela Lugosi) has vanished, but his colleague, Dr. Randall, knows the truth. He takes the doctor’s sister, Agatha, out to a lab where Dr. Brewser and Dr. Randall had performed a series of scientific experiments. For one, Dr. Brewster offered himself up as the guinea pig, but the experiment went awry, and he became THE APE MAN
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 12/52 | 2020s</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 12/52 | 2020s</a></b>
 
 Harleen Quinzel was once a child, believe it or not. Her father put her in St. Bernadette's, getting her out of his life. Following her college years and a few heartbreaks, she embarked on her journey as a psychiatrist at Arkham Asylum. There, she met Joker and fell into a toxic vat and toxic love. She took the moniker Harley Quinn, pulling several heists and stunts for Joker, who took credit for all her work. Finally, Joker had enough of her and kicked her to the curb.
 

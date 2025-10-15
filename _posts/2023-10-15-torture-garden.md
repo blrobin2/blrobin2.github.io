@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 17/34 | Amicus | Decade 4/8 | 60s</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 17/34 | Amicus | Decade 4/8 | 60s</b>
 
 Dr. Diablo (Burgess Meredith) has a fairground sideshow called The Torture Garden. Within, he shows off different torture implements, one on a living human being. For a small fee, he will show you "real" torture. Five guests step through and experience visions.
 

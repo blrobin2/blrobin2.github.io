@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 32/32 | Bonus 2/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 32/32 | Bonus 2/2</a></b>
 
 This movie is more explicit about its intended black audience. Also, the film is more comedic, with only the last segment having a serious tone.
 

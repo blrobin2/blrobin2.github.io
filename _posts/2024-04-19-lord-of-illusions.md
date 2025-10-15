@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 18/32 | Clive Barker</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 18/32 | Clive Barker</a></b>
 
 <blockquote><i>There are two worlds of magic. One is the glittering domain of the illusionist. The other is a secret place where magic is a terrifying reality. Here, men have the power of demons. And Death itself is an illusion.</i></blockquote>
 

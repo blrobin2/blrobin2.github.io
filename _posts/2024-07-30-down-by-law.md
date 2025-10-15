@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 31/52 | Michael Shannon’s Closet Picks</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 31/52 | Michael Shannon’s Closet Picks</a></b>
 
 Bobbie chastises Jack for blowing all his money when he could save for something bigger. He’s always making big plans for tomorrow because, as Bobbie put it, he’s already fucked up today. Jack is a pimp, and he’s not doing great.
 

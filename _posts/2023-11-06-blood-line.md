@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 5/34 | Countries 5/6 | Egypt</b>
+<b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 5/34 | Countries 5/6 | Egypt</b>
 
 A couple living in the Cairo suburbs, Lamia and Nader, have twin sons — one is in a coma after an unknown accident. The parents feel trapped in a prison, caring for him. They have found a solution, but they are worried about the consequences. They’re going to turn the kid in a coma into a vampire.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 13/52 | Danny Peary's "Guide for the Film Fanatic"</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 13/52 | Danny Peary's "Guide for the Film Fanatic"</b>
 
 A semi-fictionalized conversation between real-life friends, Wallace Shawn and André Gregory.
 

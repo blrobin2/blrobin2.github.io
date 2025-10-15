@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 16/52 | Independent American Cinema</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 16/52 | Independent American Cinema</b>
 
 <blockquote><i>Take off! What's she gonna do, kill herself?</i></blockquote>Paul is an office drone, training the temp. Work ends, and he goes home, despondent, waiting for any messages to come on his machine.
 

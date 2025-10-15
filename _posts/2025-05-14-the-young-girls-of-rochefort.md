@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 45/52 | Ethan Hawke and Jonathan Marc Sherman's Closet Picks</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 45/52 | Ethan Hawke and Jonathan Marc Sherman's Closet Picks</a></b>
 
 It's Friday morning. A caravan of motorcycles, horseback riders, and trucks approaches the Rochefort-Martrou Transporter Bridge, crossing to Rochefort for the Fête de la Mer. The carnival members stretch out for a synchronized smoke as they all load onto the gondola. Once across, they set up in the town square. Étienne and Bill, who work for the carnival, hope to sell their boats, motorcycles, and what-have-yous at the fair.
 

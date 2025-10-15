@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 34/34 | Bonus 3/3</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 34/34 | Bonus 3/3</b>
 
 The doc opens with an interview with Stephen King. He talks about his fear of a troll grabbing him from under a bridge and how that evolved into a 1300-page novel.
 

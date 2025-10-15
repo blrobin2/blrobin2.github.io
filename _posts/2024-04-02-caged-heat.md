@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 14/52 | Psychotronic Encyclopedia</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 14/52 | Psychotronic Encyclopedia</a></b>
 
 The cops knock on Jacqueline’s door. She and her friends run out past them. The cops shoot. One friend takes a bullet wound and falls behind. Another jumps a fence. The cops trap Jacqueline in an alley and arrest her.
 

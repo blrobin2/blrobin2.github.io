@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 24/31 | Stuart Gordon</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 24/31 | Stuart Gordon</a></b>
 
 <b>Spain — 1492</b>
 A group of royals gather around a stone tomb. Two men attach chains to hooks on either end of the tomb as the chain raises the cover, unleashing the stench of old death. They carefully pull the skeletal remains of Don Alfonso D’Alba Molina out of the tomb and bring them before Grand Inquisitor Torquemada.

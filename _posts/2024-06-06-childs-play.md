@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 5/31 | Franchise 5/7 | Remake</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 5/31 | Franchise 5/7 | Remake</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 Henry Kaslan of Kaslan Corporation introduces the ugliest doll imaginable called Buddi. Buddi is a home assistant a la Alexa, but baked into a doll. It also uses “self-learning technology” to learn and adapt to its owner’s routines and surroundings.
 

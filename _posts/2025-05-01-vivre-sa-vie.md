@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 42/52 | Starring Anna Karina</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 42/52 | Starring Anna Karina</a></b>
 
 <blockquote><i>Lend yourself to others, but give yourself to yourself.</i> — Montaigne</blockquote>
 

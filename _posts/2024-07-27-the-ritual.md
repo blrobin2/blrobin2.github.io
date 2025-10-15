@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" rel="nofollow">Hooptober 2.0 | 26/31 | Monster 1/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 26/31 | Monster 1/5</a></b>
 
 The boys are at the pub. Luke grabs some pints for Phil, Hutch, and Dom while Rob drinks wine. The gang discusses their upcoming holiday. Rob suggests The King’s Trail (Kungsleden), a hiking route that runs between Sweden and Norway in the northern part of Sweden. No one’s that into it, so they leave it.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 16/52 | Cannon Group">Cult Movie Challenge 2016 | 16/52 | Cannon Group</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 16/52 | Cannon Group" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 16/52 | Cannon Group</a></b>
 
 <i>Christmas Eve, 1950</i>
 

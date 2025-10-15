@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 29/52 | Japanese Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 29/52 | Japanese Horror</a></b>
 
 <b><i>The Substance</i>, but with substance</b>
 

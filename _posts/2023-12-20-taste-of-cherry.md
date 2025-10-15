@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 48/52 | 1990s</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 48/52 | 1990s</b>
 
 <blockquote><i>You want to give up the taste of cherries? Don't. I'm your friend. I'm begging you.</i></blockquote>
 

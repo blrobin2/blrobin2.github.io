@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 19/34 | The worst horror sequel from the 1990s that you haven't seen and can access | Decades 6/8 | 1990s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 19/34 | The worst horror sequel from the 1990s that you haven't seen and can access | Decades 6/8 | 1990s</b>
 
 The police wrongly accuse Annie's brother Ethan of murdering the author of a book about the Candyman. Ethan claims it was the Candyman — the same claim he made about their father. Annie doesn't believe in the Candyman, so she summons him in front of her students to dispel their fears. Once the Candyman appears, he leads Annie down a path of trauma to a family secret that will tear them apart... literally!
 

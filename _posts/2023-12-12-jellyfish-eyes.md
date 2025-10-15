@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 40/52 | Rated 3.0 or Lower</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 40/52 | Rated 3.0 or Lower</b>
 
 Figures in black hoods run an experiment that sets a F.R.I.E.N.D. loose. They say it needs more negative energy. A scientist shows up, horrified that they are running experiments behind his back.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 38/52 | Summer Travels</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 38/52 | Summer Travels</a></b>
 
 <b>Florence, 1907</b>
 The film opens with Dame Kiri Te Kanawa's performance of "O mio babbino caro" from <i>Gianni Schicchi</i> by Puccini. Lucy Honeychurch opens the blinds of the Pensione Bertolini, where she is staying on holiday. Behind her stands her cousin and chaperone, Charlotte Bartlett. Both are disappointed by their view, which they expected to be the Arno. In other words, the senora who runs the country house gave them a north-facing room without a view instead of a south-facing room with one.

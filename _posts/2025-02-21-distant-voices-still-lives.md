@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 31</a></b>
+<b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 31</a></b>
 
 The film is, in fact, two: Distant Voices and Still Lives. They were shot two years apart but with the same cast and crew.
 
@@ -27,4 +27,4 @@ The film's performances have stage acting vibes — broad movement and no energy
 
 There are so many singing moments—drunk, mourning, hiding, loving—there's a song for every moment. Memories get attached to songs, and hearing them can take us back to that place—which is not always where we want to be.
 
-Weirdly, this is a case similar to <a href="https://boxd.it/8TXNkh">Drowning by Numbers</a>, where the Britishness makes the film harder for me to connect to. I'm witnessing expert filmmaking but having difficulty getting into the emotional core.
+Weirdly, this is a case similar to <a href="https://boxd.it/8TXNkh" target="_blank" rel="noopener">Drowning by Numbers</a>, where the Britishness makes the film harder for me to connect to. I'm witnessing expert filmmaking but having difficulty getting into the emotional core.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 17</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 17</a></b>
 
 Fire and electricity crackle. Water fills the halls. A mass emerges from beneath—a body, long dead. Hands pull at chains that bind them to the water sprinkler system. A face appears in the reflection of the water—the lead singer of Bodybag, Sammy Mitchell. Rasping breath walks the hallway. Clawed hands emerge. The chained hands grab a blade to destroy the shackles. When that doesn't work, one hand chops off the other.
 

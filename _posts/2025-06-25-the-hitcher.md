@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 26/52 | Sweaty Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 26/52 | Sweaty Horror</a></b>
 
 Jim Hasley can barely keep his eyes open as he crosses West Texas deserts at dusk. He's transporting a drive-away from Chicago to San Diego. He chugs his coffee and turns on the radio. A storm breaks, and lightning strikes. Still, he drifts away, nearly colliding with a truck, but manages to awaken and regain control of the car. On the side of the road, he sees a hitchhiker and stops for him, joking that his mother tells him not to do this. Jim asks the man where he's going, but the man evades the question with other questions or observations.
 

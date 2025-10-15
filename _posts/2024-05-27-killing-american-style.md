@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 22/52 | Robert Z'Dar</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 22/52 | Robert Z'Dar</a></b>
 
 Tony Stone comes to John Lynch's club with a big job — rob an ice cream factory. They have 22 trucks — that's so much ice cream money! A guard lets them in, and they make it in and out with two casualties.
 

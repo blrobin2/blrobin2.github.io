@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 15/32 | Makeup: Rob Bottin</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 15/32 | Makeup: Rob Bottin</a></b>
 
 Wouldn't it be great to see imaginative directors — Steven Spielberg, Joe Dante, John Landis, and George Miller — make their own Twilight Zone-themed shorts? Well, too bad — they're remaking old episodes you've already seen.
 

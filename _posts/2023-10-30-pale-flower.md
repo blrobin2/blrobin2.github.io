@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q" rel="nofollow">Criterion Challenge 2023 </a>| 1/52 | Random Number Generator (564)</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023 </a>| 1/52 | Random Number Generator (564)</b>
 
 <blockquote><i>isn't there some decent way for a person to live</i></blockquote>Muraki is out of prison — nothing's changed it seems, except there's a pretty girl Saeko betting high and losing stacks at the gambling parlor. Still, she's bored and looking for higher stakes. Thankfully, Muraki is Yakuza and can make some arrangements.
 

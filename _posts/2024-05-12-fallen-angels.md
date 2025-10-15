@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 9/52 | 1990s">Criterion Challenge 2022 | 9/52 | 1990s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 9/52 | 1990s" target="_blank" rel="noopener">Criterion Challenge 2022 | 9/52 | 1990s</a></b>
 
 Wong Chi-ming and his partner sit together, smoking cigarettes. Though they have worked together for several years, this is the first time they've sat together. The film rewinds to earlier.
 

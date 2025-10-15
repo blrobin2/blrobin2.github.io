@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 1/52 | Elvira's Movie Macabre</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 1/52 | Elvira's Movie Macabre</a></b>
 
 A toy tank and an overturned Coke bottle transition to a full-sized tank. People run, hiding their kids, as the tank crushes cars. A kid in a cowboy hat follows the massive tank tracks and finds his toy tank. He brings it to three other children, one of whom is glowing.
 

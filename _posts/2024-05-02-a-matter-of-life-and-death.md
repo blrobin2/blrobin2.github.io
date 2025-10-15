@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 4/52 | 1940s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 4/52 | 1940s</a></b>
 
 <blockquote><i>This is a story of two Worlds: the one we know and another which exists only in the mind of a young airman, whose life & imagination have been violently shaped by war. Any resemblance to any other world known or unknown is purely coincidental.</i></blockquote>
 

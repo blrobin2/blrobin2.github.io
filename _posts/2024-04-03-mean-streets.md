@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 14/52 | RNG (#1198)</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 14/52 | RNG (#1198)</a></b>
 
 <blockquote><i>You don't make up for your sins in church. You do it in the streets. You do it at home. The rest is bullshit, and you know it.</i></blockquote>
 

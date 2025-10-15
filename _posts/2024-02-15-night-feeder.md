@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y" rel="nofollow">Birthday Year Challenge 1</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 1</a></b>
 
 Police stand over a dead woman. A reporter named Jean sneaks on the scene and talks to Inspector Lonzo. Jean recently moved to this neighborhood, and this murder is the third in two weeks. She gets no answers, but the Inspector tells her to leave town.
 

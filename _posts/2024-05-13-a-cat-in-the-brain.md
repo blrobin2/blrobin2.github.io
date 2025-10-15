@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 12/31 | Countries 6/6 | Italy | Decades 6/6 | 90s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 12/31 | Countries 6/6 | Italy | Decades 6/6 | 90s</a></b>
 
 <blockquote><i>Sadism, Nazism, is there any point anymore?</i></blockquote>Lucio Fulci sits at his desk, writing out a murder scene for a movie script — faces cleaved in half, women strangled and hanged, someone chopped to bits by a chainsaw, and whatnot.
 

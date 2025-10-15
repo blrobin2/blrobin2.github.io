@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 52/52 | Any Criterion film on your watchlist</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 52/52 | Any Criterion film on your watchlist</b>
 
 A man makes his way up a steep dune, using a walking stick to help maintain balance. The sand is untouched beyond his footprints.
 

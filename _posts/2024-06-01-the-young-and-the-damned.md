@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 22/52 | Directed by Luis Buñuel</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 22/52 | Directed by Luis Buñuel</a></b>
 
 <blockquote><i>Almost every capital like New York, Paris, and London hides, behind its wealth, poverty-stricken homes where poorly fed children, deprived of health or school, are doomed to criminality. Society tries to provide a cure. Succes for its efforts remains very limited. The future is not bound to the present: the day will come when children’s rights are respected.</i>
 

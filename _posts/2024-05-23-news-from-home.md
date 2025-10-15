@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 16/52 | Directed by Chantal Akerman</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 16/52 | Directed by Chantal Akerman</a></b>
 
 <blockquote><i>Sweetheart, at first you wrote so often…</i></blockquote>
 

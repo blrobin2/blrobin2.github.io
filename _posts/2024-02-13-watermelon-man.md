@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 7/52 | Blaxploitation</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 7/52 | Blaxploitation</a></b>
 
 <blockquote><i>Don't make it too clear that we're saying "Fuck you."</i> — Melvin Van Peebles to Mantan Moreland, 1969</blockquote>
 

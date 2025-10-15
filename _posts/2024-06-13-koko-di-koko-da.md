@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 10/31 | Countries 3/6 | Denmark</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 10/31 | Countries 3/6 | Denmark</a></b>
 
 Three people walk through the woods. A man named Mog dons a white suit. Cherry is a woman in a blue dress, walking a dog. Sampo is a man carrying a dead dog. The man in white sings a song called Koko-Di Koko-Da. He gets stuck in a loop. We pull out to an old music box depicting cartoonish versions of these three characters spinning in the display window of an antique shop.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 14/52 | John Carpenter</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 14/52 | John Carpenter</a></b>
 
 <blockquote><i>— This can't happen! In the middle of a city, during the day...
 </i><i>— Then let's pinch each other and wake up</i></blockquote>Throughout a Saturday in Los Angeles, a series of events converge into a powder keg of violence.

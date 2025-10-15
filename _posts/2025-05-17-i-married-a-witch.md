@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 47/52 | Sean Baker's Closet Picks</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 47/52 | Sean Baker's Closet Picks</a></b>
 
 <blockquote><i>Long, long ago, when people still believed in witches…</i></blockquote>
 

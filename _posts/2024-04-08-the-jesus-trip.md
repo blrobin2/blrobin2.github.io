@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 15/52 | Biker</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 15/52 | Biker</a></b>
 
 Waco and his biker gang ride through the Arizona desert. At a tollbooth, the police suspect their bikes are hot. Waco catches on, and they speed away. A helicopter follows but does not intervene.
 

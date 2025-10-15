@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 28/52 | Mondo Macabro</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 28/52 | Mondo Macabro</a></b>
 
 <i>CW // Death, Sexual Violence, Assault, Abuse, Torture, Animal Death, Blood</i>
 

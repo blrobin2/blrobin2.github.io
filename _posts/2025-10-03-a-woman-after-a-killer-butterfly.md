@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail" rel="nofollow">Hooptober XII | 1/31 | Decades 1/9 | 1970s | Zombie 1/5</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 1/31 | Decades 1/9 | 1970s | Zombie 1/5</a></b>
 
 While out catching butterflies with Moon-oh and friends, Kim Yeong-geol stumbles across a woman by the river. When Yeong-geol injects a caught butterfly with a solution to kill it, the woman accosts Yeong-geol, and the two argue over the nobility of death. They share some Fanta that the woman brought with her, only for her to reveal that she had poisoned the Fanta. Though Yeong-geol survives the poisoning, the woman dies. Later, at the police station, Detective Park rules the woman's death a suicide and lets Yeong-geol go, giving him a necklace the woman wore, which features a jeweled butterfly.
 

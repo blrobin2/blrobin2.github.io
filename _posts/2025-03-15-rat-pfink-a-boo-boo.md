@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 8/52 | Ray Dennis Steckler</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 8/52 | Ray Dennis Steckler</a></b>
 
 It's night in the big city—the moon is full, and the dogs are howling. Irma La Streetwalker leaves a club, lighting a cigarette on her walk. From the shadows emerge members of the Chain Gang. They chase her into a walkway. When she thinks she has evaded them, another member bursts from the trash and attacks her. They strangle her and steal her purse, running off and leaving her straggling but alive in the alleyway.
 

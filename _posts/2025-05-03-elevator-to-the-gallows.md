@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 43/52 | Starring Jeanne Moreau</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 43/52 | Starring Jeanne Moreau</a></b>
 
 Florence Carala confesses her love for Julien Tavernier over the phone, and Julien his love for her. Julien sits in his office at Carala Corp. They arrange to meet at their usual spot, the Royal Cameo, once Julien finishes the job. They hang up, and Julien calls for Geneviève to watch things while he takes care of something in his office. Julien returns to his office, donning gloves, a revolver, and a rope attached to a hook. Opening the window, he steps out onto the balcony that lines the outside of the building. He throws the hook up, catching on the railing one floor up. Down a few windows, Julien opens one into a reception area outside Mr. Carala's office. Mr. Carala calls him in. Julien puts a gun to his head. Mr. Carala recognizes the gun as his own.
 

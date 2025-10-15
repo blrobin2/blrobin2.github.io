@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 9/31 | Decades 5/9 | 2020s | Cults 2/3</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 9/31 | Decades 5/9 | 2020s | Cults 2/3</a></b>
 
 An American social psychologist named Ben ascends the stairs of an apartment building in Berlin. He meets with a shut-in through her door. Her apartment is full of food, trash, and dirty dishes, and her only friends are those she meets online. She feels like the world is coming to an end, so why bother going out? Nature is attacking the cities for their reckless treatment of her. The way Ben sees it, she and people like her see everyone around them as dangerous people who will only confirm their persecution fantasies. Their fear leads to a need for truth and order, driving them to seek groups that exploit this need and create a false sense of belonging.
 

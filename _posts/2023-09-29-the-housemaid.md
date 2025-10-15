@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 1/34 | Countries 1/6 | Vietnam</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 1/34 | Countries 1/6 | Vietnam</b>
 
 <b>Vietnam 1953
 </b>

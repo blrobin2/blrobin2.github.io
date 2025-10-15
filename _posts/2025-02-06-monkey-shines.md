@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y/detail">Birth Year Challenge 21</a></b>
+<b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 21</a></b>
 
 Allan goes running one morning, only to be hit by a truck. The hospital performs spinal surgery, saving Allan's life but rendering him quadriplegic. Allan's mother tries to tend to his every need—for those she can't, she hires a nurse named Maryanne to assist.
 

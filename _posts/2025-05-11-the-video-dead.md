@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 36/52 | USA Up All Night</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 36/52 | USA Up All Night</a></b>
 
 A Hi-Lite Delivery van stops at 21 Shady Lane Avenue and drags a distressed wooden crate to the front door. The delivery men ring the doorbell, waking the disheveled Henry Jordan. Inside the crate, underneath a small forest of balled-up newspapers, is a television with a mirror strapped to it. While Henry writes at his typewriter, the TV turns on itself, showing a movie called <i>Zombie Blood Nightmare</i>. Henry turns the TV off, but it comes back on, so he unplugs it. Later that night, while Henry sleeps, the unplugged TV comes alive, and five zombies crawl out. The following morning, the delivery drivers return to Henry's, realizing they had mixed up a delivery meant to go to the Institute for the Studies of the Occult. When Henry doesn't answer, they push the partially opened door open the rest of the way to find Henry dead, bound, and wearing a party hat.
 

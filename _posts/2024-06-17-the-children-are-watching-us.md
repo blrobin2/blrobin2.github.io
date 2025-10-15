@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 25/52 | Italian Neorealism</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 25/52 | Italian Neorealism</a></b>
 
 Mrs. Nina Resta leaves her condominium with her son, Pricò. Nina cancels plans with another resident and goes to the park. There, they pass by a puppet show where two puppets fight over a woman they both love, one puppet being the woman's fiancé. The children laugh as the puppets fight to the death. A toddler cries, and the mother turns his head to look.
 

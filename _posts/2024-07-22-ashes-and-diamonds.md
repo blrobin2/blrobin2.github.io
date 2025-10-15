@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 25/52 | Made in Poland">Criterion Challenge 2022 | 25/52 | Made in Poland</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 25/52 | Made in Poland" target="_blank" rel="noopener">Criterion Challenge 2022 | 25/52 | Made in Poland</a></b>
 
 <b>May 8, 1945</b>
 The birds sing outside a small country church. Maciek lay resting g next to Andrzej. They discuss the details again — Szczuka, Secretary of the District Workers' Party. A small girl asks Andrzej to open the church for her. He shows her that it's locked and tells her to scram.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 18/31 | Before 1970 6/6">Hooptober 4.0 | 18/31 | Before 1970 6/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 18/31 | Before 1970 6/6" target="_blank" rel="noopener">Hooptober 4.0 | 18/31 | Before 1970 6/6</a></b>
 
 Coffin Joe is back, baby, and he is still obsessed with the continuity of his bloodline. This time, with the help of his assistant Bruno, he'll kidnap six women and put them through horrifying trials. The one who feels no fear will bear his child.
 

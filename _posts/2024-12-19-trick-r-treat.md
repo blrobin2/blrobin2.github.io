@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 2/31 | Decades 2/10 | 2000s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 2/31 | Decades 2/10 | 2000s</a></b>
 
 It's Halloween night and the kids are out. Dressed as a robot, Emma blows out their jack-o'-lantern, ready to call it. Henry. dressed as a 50s sci-fi spaceman, warns her against it, reminding her that it's supposed to stay lit until after midnight. But it's too late.
 

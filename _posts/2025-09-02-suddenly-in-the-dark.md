@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 15/52 | Korean Horror Films</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 15/52 | Korean Horror Films</a></b>
 
 Kang Yu-jin drives up to his beautiful house on the hill, where his daughter runs out to greet him. His daughter, Gyeong-a, and wife, Seon-hee, come out to greet him after his 17-day butterfly expedition. Yu-jin tells Seon-hee to invite several important people over, as he has made a rare discovery. Seon-hee is visibly disappointed that they won't be spending the night as a family. So, Yu-jin lays a big smooch on her to smooth things over. That night, the boys gather around a projector, where Yu-jin shows them pictures of butterflies.
 

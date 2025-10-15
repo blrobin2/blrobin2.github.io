@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 47/52 | Screenplay adapted from a work of nonfiction</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 47/52 | Screenplay adapted from a work of nonfiction</a></b>
 
 In 1853, Solomon Northrup told his story to David Wilson about how Northrup, a black man born free in NY, was tricked into going to DC, where he was kidnapped and sold into slavery in Louisiana. There, he was in bondage for 12 years before being able to reach out to friends in NY, who secured Northrup's release with the aid of the state. The book is vital in building a picture of what slavery looks like in the United States.
 
@@ -27,4 +27,4 @@ For more in-depth analysis from people much smarter than me:
 - <a href="https://web.archive.org/web/20160530101030/http://www.villagevoice.com/film/12-years-a-slave-prizes-radiance-over-life-6439775">12 Years a Slave Prizes Radiance Over Life</a>
 - <a href="https://slate.com/culture/2014/01/movie-club-2013-12-years-a-slave-it-would-be-one-of-the-strangest-best-picture-winners.html">12 Years a Slave: It would be one of the strangest best picture winners in a long while</a>
 
-I've heard that <a href="https://boxd.it/8dl2">Gordon Parks's adaptation of Solomon Northrup's memoir</a> is more accurate and focused.
+I've heard that <a href="https://boxd.it/8dl2" target="_blank" rel="noopener">Gordon Parks's adaptation of Solomon Northrup's memoir</a> is more accurate and focused.

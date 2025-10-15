@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 42/52 | Shock Theater</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 42/52 | Shock Theater</a></b>
 
 Inspector Krogh (Lionel Atwill) carries a case containing information that Heinrich von Frankenstein wished to pass down to his son, Wolf (Basil Rathbone).
 

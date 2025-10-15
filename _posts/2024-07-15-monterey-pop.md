@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 29/52 | Yo La Tengo’s Closet Picks</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 29/52 | Yo La Tengo’s Closet Picks</a></b>
 
 In June 1967, D.A. Pennebaker, with the help of Albert Maysles and Richard Leacock, filmed the Monterey International Pop Festival. Several of the most iconic images from live music of the era come from this documentary, including Jimi Hendrix burning his guitar.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 19/52 | Directed by Claire Denis</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 19/52 | Directed by Claire Denis</a></b>
 
 Isabelle and Vincent have sex. She cannot orgasm but encourages Vincent to go ahead. Dismayed, Vincent questions if she could more easily orgasm with her previous partner. The question causes her to cry and push Vincent away. He apologizes but must still dress and leave Isabelle, promising to call over the weekend.
 

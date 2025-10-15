@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 40/52 | Troma</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 40/52 | Troma</a></b>
 
 <b>Three <i>Romeo and Juliet</i> adaptations came out in 1996, and this movie is undoubtedly one of them.</b>
 

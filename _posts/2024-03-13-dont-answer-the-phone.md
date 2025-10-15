@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 33/53 | Crown International</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 33/53 | Crown International</a></b>
 
 <i>CW // Misogyny, Stalking, Physical and Sexual Violence, Murder, Verbal Abuse, Racism, Racial Slurs, Non-Consensual BDSM, Ableism</i>
 

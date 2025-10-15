@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 24/52 | Made in the United States</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 24/52 | Made in the United States</a></b>
 
 <blockquote><i>When I was young, I thought house painters painted houses. What did I know?</i></blockquote>The camera dollies down the hallway of a nursing home. Unlike every nursing home I've been to, these older folks have guests visiting them and smiles on their faces. The mirroring of the club introduction scene from <i>Goodfellas</i> is depressing. We finally make it to Frank Sheeran in a wheelchair, his distant eyes holding a history we'll spend ages learning about.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 38/52 | Genre: Animation</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 38/52 | Genre: Animation</a></b>
 
 <i>King of Jazz</i> is a musical revue. The film includes musical numbers, sketches, and an animated sequence created by Walter Lantz and Bill Nolan, who also created Woody Woodpecker.
 

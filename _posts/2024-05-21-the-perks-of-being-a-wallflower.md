@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 21/52 | Directed by a director with three or less feature films</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 21/52 | Directed by a director with three or less feature films</a></b>
 
 <blockquote><i>— You see things and you understand — you're a wallflower… What is it? What's wrong?
 — I didn't think anyone noticed me.</i></blockquote>Charlie (Logan Lerman) writes in his notebook about starting high school. He has no friends, and his sister Candace (Nina Dobrev) won't let Charlie sit with her and her boyfriend, Derek (Nicholas Braun).

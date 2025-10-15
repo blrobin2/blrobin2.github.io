@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 23/52 | Eurocrime</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 23/52 | Eurocrime</a></b>
 
 Four men in masks hold up a vehicle carrying company wages just outside Giboni Pharmaceutical Company. A witness calls the cops. The guard tries to close the gates, but the thieves shoot him. One man stabs one carrier, grabs the bag, and then runs off. A guard's bullet hits their gas tank, causing a leak.
 

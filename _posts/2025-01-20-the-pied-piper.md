@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 4/52 | Animated Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 4/52 | Animated Horror</a></b>
 
 A mechanism comes alive. The sun rises over the town of Hamelin, and the gears grind. A bell awakens the townspeople, who go to work. Their various interactions show how petty and greedy they are.
 

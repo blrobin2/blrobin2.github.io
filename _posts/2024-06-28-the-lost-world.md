@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 27/31 | Crazy Animal 3/3 | Silent</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 27/31 | Crazy Animal 3/3 | Silent</a></b>
 
 <blockquote><i>The backcountry of the Amazon contains over 50 thousand miles of unexplored waterways. Who can say what may be living in that jungle — as vast as all Europe?</i></blockquote>
 

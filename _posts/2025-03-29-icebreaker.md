@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-Wow, I never thought I'd watch another David Giancola movie other than <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a>. Time makes fools of us all, don't it? This is the prototype for the 2-star movie—more bad than good, but not incapable of entertaining, especially with Bruce Campbell and Stacy Keach getting a non-trivial amount of screen time.
+Wow, I never thought I'd watch another David Giancola movie other than <a href="https://boxd.it/5VTZmb" target="_blank" rel="noopener"><i>Time Chasers</i></a>. Time makes fools of us all, don't it? This is the prototype for the 2-star movie—more bad than good, but not incapable of entertaining, especially with Bruce Campbell and Stacy Keach getting a non-trivial amount of screen time.
 
 This is the first time I've heard the entire Rifftrax theme. I can see why they cut it more and more over the years.
 

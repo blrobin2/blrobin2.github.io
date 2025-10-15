@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 17/52 | In the 2022 Sight & Sound Top 100</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 17/52 | In the 2022 Sight & Sound Top 100</a></b>
 
 A vagrant falls for the sweetest, prettiest, blindest girl he's ever met, and when he's with her, his heart jumps like a frog on July asphalt before it dies.
 

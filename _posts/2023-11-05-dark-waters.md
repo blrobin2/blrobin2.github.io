@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0</a> | 4/34 | Countries 4/6 | Ukraine</b>
+<b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 4/34 | Countries 4/6 | Ukraine</b>
 
 <blockquote><i>The beast shall say unto the world, "I am alpha and omega, the first and the last. I am she that liveth and was dead, and behold, I am alive forevermore and have the keys of Hell and death."</i></blockquote>
 

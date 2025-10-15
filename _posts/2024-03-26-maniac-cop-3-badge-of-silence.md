@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 25/32 | Larry Cohen</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 25/32 | Larry Cohen</a></b>
 
 <b>Somehow, Maniac Cop returned.</b>
 

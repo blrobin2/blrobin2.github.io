@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 8/31 | Countries 1/6 | Germany</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 8/31 | Countries 1/6 | Germany</a></b>
 
 Finance district, NYC. The sun sets and office lights dot the landscape like dying stars.
 

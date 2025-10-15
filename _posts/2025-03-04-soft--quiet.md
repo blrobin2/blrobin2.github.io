@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 10/52 | Women in Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 10/52 | Women in Horror</a></b>
 
 Emily Rief rushes to the bathroom to take a pregnancy test, her face drenched in dread. The test confirms her fears, but we do not see what that is. Leaving the bathroom, she eyes Maria, the janitor, with disgust.
 

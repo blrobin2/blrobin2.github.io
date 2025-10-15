@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 14/31 | Terence Fisher 4/5</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 14/31 | Terence Fisher 4/5</a></b>
 
 A flashback takes us two movies back, to the end of Hammer's <i>Dracula</i>, where we witness the showdown between Van Helsing and Dracula. Van Helsing uses a cross to push Dracula into the sunlight, and Dracula collapses into dust.
 

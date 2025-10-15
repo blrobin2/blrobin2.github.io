@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 35/52 | Jean Rollin</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 35/52 | Jean Rollin</a></b>
 
 Michelle ran away from a religious asylum. Upon return, the nuns keep her constrained in her room. Because she will not speak, they take her at odd hours to a room where they spray her with ice-cold water, then return her to the confines of a straightjacket.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 6/52 | Iranian New Wave</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 6/52 | Iranian New Wave</a></b>
 
 <blockquote><i>There is no shortage of ugliness in the world. There would have been more ugliness if man had closed his eyes to it. But man is a problem solver. On this screen will appear an image of ugliness, a vision of pain that no caring human being should ignore. To cure this ugliness, to aid to ease the pain, and to relieve the victims is the motive behind making this film.</i></blockquote>
 

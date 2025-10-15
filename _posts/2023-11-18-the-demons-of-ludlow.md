@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 18/34 | Bill Rebane</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 18/34 | Bill Rebane</b>
 
 Sybil lounges around in red high heels and a white lacy camisole. Chris comes home and chastises her for having a glass of wine. She lazily looks through some clothes on the bed.
 

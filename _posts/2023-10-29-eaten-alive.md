@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 31/34 | Tobe Hooper</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 31/34 | Tobe Hooper</b>
 
 Buck (Robert Englund) wants to fuck, so he goes to Miss Hattie's. But the sex worker he purchased, Clara (Roberta Collins), isn't up for the job and runs away to The Starlight, a rundown hotel in the swamp.
 

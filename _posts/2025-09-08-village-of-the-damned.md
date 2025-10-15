@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 37/52 | Black & White Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 37/52 | Black & White Horror</a></b>
 
 In the rural village of Midwich, Professor Gordon Zellaby makes a call to his brother-in-law, Major Alan Bernard, stationed a ways away. Mid-call, Gordon collapses on the ground. Alan makes repeated attempts to reconnect, but no one in town is answering. As we look around, we find that the farmer tilling the soil has also passed out. In fact, everyone in the village is incapacitated, including the animals. The clock strikes 11 o'clock.
 
@@ -19,7 +19,7 @@ The military arrives and cordon off the town, disguising it as a military traini
 
 Suddenly, they see a cow in the pasture come to. Then, the folks in the bus pour out, woozy but conscious. Alan crosses the line to assist the officer who is awakening. What happened to them during these past couple of hours?
 
-The movie unfolds in that steady, old British horror kind of way — each moment given enough time to convey what it can without rushing to get to any part. I love that, but I know some folks will find it slow-going, especially if you already know the story (either through the <a href="https://boxd.it/6vpleb">Carpenter remake</a> or the <a href="https://youtu.be/pAJPf-I7PkM">Simpsons episode</a>).
+The movie unfolds in that steady, old British horror kind of way — each moment given enough time to convey what it can without rushing to get to any part. I love that, but I know some folks will find it slow-going, especially if you already know the story (either through the <a href="https://boxd.it/6vpleb">Carpenter remake</a> or the <a href="https://youtu.be/pAJPf-I7PkM" target="_blank" rel="noopener">Simpsons episode</a>).
 
 We also get that 50s-grade misogyny, as all the women are emotional and the men are rational. No surprise, given the times, but it's noticeable. George Sanders' tone makes every line out of his mouth sound like mansplaining. Slap a woman to break her out of her hysterics and whatnot. And, despite being about a small village, it still manages to throw in some racism against indigenous folks.
 

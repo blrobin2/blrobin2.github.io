@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 28/52 | Horror in the Desert</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 28/52 | Horror in the Desert</a></b>
 
 Frank says his goodbyes to his staff at Cycle World, his motorcycle dealership. His co-owner, Roger, is at the track racing motobikes. So, Frank takes the RV to the track, along with their wives, Kelly and Alice, to pick Roger up on their way out of San Antonio for their ski vacation in Aspen. Oh, and Roger and Kelly's cute little dog, Ginger.
 

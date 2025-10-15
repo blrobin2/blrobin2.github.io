@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist">Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist" target="_blank" rel="noopener">Criterion Challenge 2024 | 7/52 | Most popular film on your watchlist</a></b>
 
 <blockquote><i>Modern Times</i>. A story of industry, of individual enterprise — humanity crusading in the pursuit of happiness.</blockquote>
 Chaplin's riff on <i>À Nous la Liberté</i>, while little more than a remake with Chaplin's Little Tramp inserted, has its own charms and memorable gags. Also, I can appreciate any film with class consciousness at its core being as popular as this movie was and is. 

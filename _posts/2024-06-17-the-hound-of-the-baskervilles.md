@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>
 
 <b>1889</b>
 

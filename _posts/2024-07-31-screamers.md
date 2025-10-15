@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 30/31 | Monster 5/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 30/31 | Monster 5/5</a></b>
 
 <b>The year 2078. A mining colony on planet Sirius 6B.</b>
 For the past 50 years, the New Economic Block (N.E.B.) has monopolized mining across solar systems, where a discovery on Sirius 6B of the energy-rich but hazardous element berynium led to devastating radiation and pollution. Despite The Alliance’s demands to halt mining, the N.E.B. declared war, resulting in severe civilian casualties and environmental destruction on Sirius 6B. Survivors now confront an unprecedented new threat.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 11/31 | Takashi Miike 1/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 11/31 | Takashi Miike 1/5</a></b>
 
 <blockquote><i>Why do you all come out here to die? What is wrong with you?</i></blockquote>A woman in a fine dining restaurant eats soup. Her spoon draws out what looks like a head. She pulls out the rest of the creature. The movie converts to claymation as she screams. When the monster with angel wings comes to life, it falls in love with her convulsing uvula and rips it out of her throat.
 

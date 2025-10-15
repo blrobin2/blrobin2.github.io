@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 40/52 | Guillermo del Toro's Twitter Film recommendations</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 40/52 | Guillermo del Toro's Twitter Film recommendations</a></b>
 
 <blockquote><i>Do you realize that there will never be another January 17, 1944? Never again. In 40 years, half these guys'll be dead and buried… I'm the only one in this school who thinks about death. It's incredible!</i></blockquote>
 

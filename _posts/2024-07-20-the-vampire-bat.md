@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 19/31 | Before 1970 4/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 19/31 | Before 1970 4/5</a></b>
 
 Bats fill the night sky above Kleinschloss. Kringen carries a walking stick and a lamp, looking like Robert Pattinson in <i>The Lighthouse</i>. A howling wolf draws Kringen’s attention to the bat-laden trees. Then, a man leaps across the ledges along a tower just above the trees. We fly up onto the roof to see the window where the man entered. The lights cut. A woman screams.
 

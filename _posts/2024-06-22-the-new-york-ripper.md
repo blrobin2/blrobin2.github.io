@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 21/31 | Lucio Fulci</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 21/31 | Lucio Fulci</a></b>
 
 An older man walks his golden retriever, Bessy, along the East River on the Brooklyn side, near the Brooklyn Bridge. You know, where they stereotypically say the mob tosses bodies. He’s being so sweet with her — I nearly cried! After finding a stick, he throws it into the brush, encouraging Bessy to fetch it. Bessy comes back with a decomposing human hand in her mouth.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites">Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites" target="_blank" rel="noopener">Criterion Challenge 2024 | 10/52 | New York Film Festival Favorites</a></b>
 
 <i>CW // Implied torture and assault</i>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 22/52 | PM Entertainment</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 22/52 | PM Entertainment</a></b>
 
 Arthur Jameson pulled some light war crimes during the Vietnam War. He's out to cover his tracks and kill anyone who knows. This includes his partner, China Smith, and Sergent Frank DaVinci, who carried out some assassinations on his behalf.
 

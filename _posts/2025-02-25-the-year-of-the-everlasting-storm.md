@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 5/52 | Directed by Apichatpong Weerasethakul</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 5/52 | Directed by Apichatpong Weerasethakul</a></b>
 
 <blockquote><i>One does not create by adding but by taking away.</i> — Robert Bresson</blockquote>
 

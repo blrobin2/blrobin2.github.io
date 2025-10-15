@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 22/52 | Andy Young’s “That” shot of someone in a theater watching a movie</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 22/52 | Andy Young’s “That” shot of someone in a theater watching a movie</a></b>
 
 Rick Dalton (Leonardo DiCaprio) starred in the TV show <i>Bounty Law</i> in the 50s. Cliff Booth (Brad Pitt) was his stunt double. Now, in 1969, the two are close friends — Rick mostly does TV villain roles, but Cliff can't find much work after the allegations that he murdered his wife.
 

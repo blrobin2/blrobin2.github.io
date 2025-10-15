@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0">Hoop-Tober | 3/31 | Decades 3/10 | 90s</a></b>
+<b><a href="https://boxd.it/pRQY0" target="_blank" rel="noopener">Hoop-Tober | 3/31 | Decades 3/10 | 90s</a></b>
 
 Pink, french-manicured hands cuffed with dozens of sparkling bracelets turn the shower on. As the bleach-blonde hair comes into view, we see our hero, Linnea Quigley, lathering herself up. We watch prolonged shots of her boobs and ass as the credits roll.
 

@@ -11,4 +11,4 @@ category: movie-review
 
 <blockquote><i>The three of them had two things in common: violence and perfume.</i></blockquote>
 
-I haven't loved something so immediately in ages, thanks to <a href="https://boxd.it/TAJ3">@cryptofgloom</a> for the passive recommendation. I need to watch everything Cecelia Condit has done ASAP.
+I haven't loved something so immediately in ages, thanks to <a href="https://boxd.it/TAJ3" target="_blank" rel="noopener">@cryptofgloom</a> for the passive recommendation. I need to watch everything Cecelia Condit has done ASAP.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 26/52 | Cronenberg</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 26/52 | Cronenberg</a></b>
 
 <i>Burghölzli Clinic, Zürich, Switzerland, 17 August 1904</i>
 

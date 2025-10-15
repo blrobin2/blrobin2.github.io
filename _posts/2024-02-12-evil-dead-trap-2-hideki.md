@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 11/32 | 2nd film in franchise 3/7</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 11/32 | 2nd film in franchise 3/7</a></b>
 
 Aki is a film projectionist who fixates on dead bodies. Everywhere she goes, she sees the spirit of a child.
 

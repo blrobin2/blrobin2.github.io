@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-Apologies to <a href="https://boxd.it/MltZ" rel="nofollow">CinemaMystic</a>, I jumped on the Gizmoplex season. And judging by how poorly the crowdfunding went, probably the last season for a while.
+Apologies to <a href="https://boxd.it/MltZ" target="_blank" rel="noopener">CinemaMystic</a>, I jumped on the Gizmoplex season. And judging by how poorly the crowdfunding went, probably the last season for a while.
 
-Straight away, the opening is noticeably cheaper. Which I don't have a problem with! <a href="https://boxd.it/MltZ" rel="nofollow">Some folks</a> say the show was at its best when it felt lo-fi.
+Straight away, the opening is noticeably cheaper. Which I don't have a problem with! <a href="https://boxd.it/MltZ" target="_blank" rel="noopener">Some folks</a> say the show was at its best when it felt lo-fi.
 
 Thin Jonah! No more Elliott Kalan on the writing staff :(
 

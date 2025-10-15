@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 18/31 | Mario Bava | Decades 5/5 | 70s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 18/31 | Mario Bava | Decades 5/5 | 70s</a></b>
 
 We open on a beautiful commercial for Pan Am Airlines, scored in Stelvio Cipriani's cheerful bossa nova. Peter Kleist's plane lands in Austria, where he meets his uncle, Karl Hummel. Peter is interested in a ghoulish baron on his father's side, Otto Von Kleist, AKA Baron Blood.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 12/52 | Spring Fever</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 12/52 | Spring Fever</a></b>
 
 <blockquote><i>'Tis a blessed relief to have been forgotten.</i></blockquote>
 

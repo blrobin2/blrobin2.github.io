@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a rel="nofollow">Hooptober X</a> | 28/34 | Released the year I turned 10</b>
+<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 28/34 | Released the year I turned 10</b>
 
 Two kids at a make-out point. Andy negs Mary Jo for her tattoos and piercings. She attempts to go down on him before he snaps her neck, his eyes glowing red. When the police arrive, Andy shoots one of them, and the other cop lets him leave. Dickie witnesses the whole thing, but no one believes him.
 

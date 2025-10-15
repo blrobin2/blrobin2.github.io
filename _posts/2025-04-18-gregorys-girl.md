@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 28/52 | 80s Teen Comedy</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 28/52 | 80s Teen Comedy</a></b>
 
 It's early morning in Cumbernauld. Several boys play football before school. Gregory's team loses—their eighth loss in a row. The coach, Phil Menzies, proposes switching up the team, trying out new people, and letting some folks go. Gregory, for example.
 

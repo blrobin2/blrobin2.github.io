@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 18/31 | Before 1970 3/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 18/31 | Before 1970 3/5</a></b>
 
 <blockquote><i><b>MURDER. REWARD. Whitechapel Vigilance Committee.</b>
 The citizens of Whitechapel must take action against the fiend who is responsible for murders being committed in our midst. The police have proved inadequate. We intend offering a substantial reward to anyone, citizen or otherwise, who shall give information bringing the murderer or murderers to justice.</i></blockquote>

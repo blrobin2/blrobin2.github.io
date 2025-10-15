@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 4/52 | Shaw Brothers</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 4/52 | Shaw Brothers</a></b>
 
 The Tian Nan Tigers arrive at the Dao Tian Estate. They fight through Dao Tian's men and find Du's wife and son, Dao Chang. To punish Du for his arrogance, the Tian Nan Tigers cut off Du's wife's legs and Chang's arms. Du arrives in time to see the horrific act. He kills the Tian Nan fighters with the Tiger Strike. Though his wife is dead, Du has iron hands forged for Chang, training him in the Tiger style.
 

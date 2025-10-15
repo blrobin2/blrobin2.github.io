@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 34/52 | Animated film from a country that is not the US or Japan</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 34/52 | Animated film from a country that is not the US or Japan</a></b>
 
 <b>Auvers-sur-Oise, France, 1890</b>
 
@@ -29,7 +29,7 @@ Armand isn't keen to deliver the letter, as the town had put together a petition
 
 Anyway, through flashbacks and investigation, Armand learns about Van Gogh's final days before his death.
 
-<a href="https://boxd.it/69nxzt">I saw The Peasants</a>, the follow-up from these directors when it came out. Like this film, the gimmick is impressive. In both cases, it's apparent that the movie was filmed and made, and then artists rotoscoped over each frame.
+<a href="https://boxd.it/69nxzt" target="_blank" rel="noopener">I saw The Peasants</a>, the follow-up from these directors when it came out. Like this film, the gimmick is impressive. In both cases, it's apparent that the movie was filmed and made, and then artists rotoscoped over each frame.
 
 Here, at least, the artistic style centers the film (except for the flashbacks, which are in a similar representative style to The Peasants). While the story is equally slight, it has more intrigue at its center. (Even though the film takes wild liberties with Van Gogh's life, I would not trust any biographical information it relays.)
 

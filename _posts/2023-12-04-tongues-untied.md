@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Citerion Challenge 2023</a> | 32/52 | Directed by Marlon Riggs</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Citerion Challenge 2023</a> | 32/52 | Directed by Marlon Riggs</b>
 
 This film is a poetic documentary that breaks silence to proclaim stories of black men loving black men in the face of anti-queer, anti-black America.
 

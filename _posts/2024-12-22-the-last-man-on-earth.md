@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 6/31 | Decades 6/10 | 60s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 6/31 | Decades 6/10 | 60s</a></b>
 
 Bodies litter the city streets. A church sign reads, "The End Has Come." An alarm awakens Dr. Robert Morgan, the last living man on earth. The walls mark the calendar days since the end began three years ago. A ring of garlic cloves and a broken mirror adorn the exterior door.
 

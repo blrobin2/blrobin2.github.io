@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 41/52 | 1920s</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 41/52 | 1920s</b>
 
 <blockquote><i>Do you remember those boyhood days when going to College was greater than going to Congress — and you'd rather be Right Tackle than President?</i></blockquote>
 

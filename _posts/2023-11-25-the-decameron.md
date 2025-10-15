@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 25/52 | <a href="https://boxd.it/iYvcK" rel="nofollow">Laurie Anderson's Closet Picks</a></b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 25/52 | <a href="https://boxd.it/iYvcK" target="_blank" rel="noopener">Laurie Anderson's Closet Picks</a></b>
 
 <i>Andreuccio of Perugia</i>
 A woman cons someone into thinking they're siblings. He falls through a trapdoor into a vat of excrement while she steals his belongings.

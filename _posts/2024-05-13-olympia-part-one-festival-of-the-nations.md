@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 20/52 | 100 Years of Olympic Films</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 20/52 | 100 Years of Olympic Films</a></b>
 
 The camera pans over the Grecian ruins as triumphant music. It lingers at statues of heads and bodies in dramatic light as smoke billows around them.
 

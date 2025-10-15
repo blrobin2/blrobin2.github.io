@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 28/34 | Film with a real life musician or band</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 28/34 | Film with a real life musician or band</b>
 
 Jack wakes up, old scars down his back. He opens a drawer with old cash to pay his rent.
 

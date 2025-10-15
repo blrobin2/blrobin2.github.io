@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 3/31 | Franchise 3/5">Hooptober 2.0 | 3/31 | Franchise 3/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 3/31 | Franchise 3/5" target="_blank" rel="noopener">Hooptober 2.0 | 3/31 | Franchise 3/5</a></b>
 
 <b>Haddonfield, Illinois, Halloween Night 2019</b>
 Corey Cunningham fills in at the last minute as a babysitter for prank-obsessed Jeremy Allen. Despite Jeremy's parents' request, Corey shows Jeremy The Thing. They joke with each other about how Michael Myers is still out there. Jeremy plays an elaborate prank on Corey. He locks Corey in the attic. Panicking, Corey kicks the door open, sending Jeremy flying over the banister and down two stories to his death. Jeremy's parents walk in just before Jeremy hits the ground.

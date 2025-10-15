@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 33/34 | Bonus 2/3</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 33/34 | Bonus 2/3</b>
 
 <i>10 Rillington Place, London, 1944</i>
 

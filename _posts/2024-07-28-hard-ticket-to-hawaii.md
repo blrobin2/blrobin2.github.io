@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
+<b><a href="https://boxd.it/xqceO" target="_blank" rel="noopener">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
-After <a href="https://boxd.it/6YjG8R">the adventures of Cody Abilene in Malibu</a>, Cody quit the agency to become an actor. We go to Hawaii, to the Ala Moana Yacht Club in Honolulu. Here, we meet Rowdy Abilene, Cody’s cousin. Rowdy also has a yacht called the Malibu Express. He also shares his cousin’s unshakable sexual appeal. Rowdy holds political (and sexual) congress with Donna, a DEA operative working undercover for Molokai Cargo. He wants her to quit and stay with him on O’ahu. But she has a job to do, and the danger doesn’t phase her.
+After <a href="https://boxd.it/6YjG8R" target="_blank" rel="noopener">the adventures of Cody Abilene in Malibu</a>, Cody quit the agency to become an actor. We go to Hawaii, to the Ala Moana Yacht Club in Honolulu. Here, we meet Rowdy Abilene, Cody’s cousin. Rowdy also has a yacht called the Malibu Express. He also shares his cousin’s unshakable sexual appeal. Rowdy holds political (and sexual) congress with Donna, a DEA operative working undercover for Molokai Cargo. He wants her to quit and stay with him on O’ahu. But she has a job to do, and the danger doesn’t phase her.
 
 The Daioo family, who owns Molokai, grows weed on the island. The local marshals have kept tabs on them for generations, but the islanders appreciate the work and economic stimulus the farm provides. But something has changed in the operation, and a drug lord named Seth Romero has taken over.
 

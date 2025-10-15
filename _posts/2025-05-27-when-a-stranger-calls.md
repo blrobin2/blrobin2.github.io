@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 22/52 | Home Sweet Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 22/52 | Home Sweet Horror</a></b>
 
 <b>1971</b>
 As evening shifts to dusk, Jill Johnson walks to Dr. and Mrs. Mandrakis's home, where she will babysit for them. Jill's job should be easy-going because the kids are sick and asleep. Like any teen in the 70s, she jumps on the phone with her friend Nancy, who wants to fuck Jill's crush, Bobby, but decides to be a friend about it and abstain. So, Jill tells Nancy to tell Bobby to call Jill. While she waits, Jill does her homework.

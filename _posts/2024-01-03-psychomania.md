@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw" title="Cult Movie Challenge 2016 | 1/52 | Biker">Cult Movie Challenge 2016 | 1/52 | Biker</a></b>
+<b><a href="https://boxd.it/q7ygw" title="Cult Movie Challenge 2016 | 1/52 | Biker" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 1/52 | Biker</a></b>
 
 Psychedelic colors and downbeat funk as masked bikers ride slowly through a graveyard. Their helmets and goggles resemble skulls. Their jackets read "The Living Dead," spelled out in bones.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 11/52 | Composer: Lalo Schifrin</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 11/52 | Composer: Lalo Schifrin</a></b>
 
 <i>CW // Blood, Murder, Verbal and Physical Abuse, Misogyny, Racism, Antisemitism</i>
 

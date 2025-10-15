@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 16/52 | Slow cinema, but it’s 95 minutes or less</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 16/52 | Slow cinema, but it’s 95 minutes or less</a></b>
 
 A plane lands. Then another. And another. The heat off the surface of the tarmac creates a rippling mirage effect where the airplanes look like they are underwater — above the ground and on it simultaneously.
 

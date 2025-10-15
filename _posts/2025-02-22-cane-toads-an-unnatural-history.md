@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 32</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 32</a></b>
 
 The greyback cane beetle is a native Australian beetle. It lays its eggs in the soil, and its larvae hatch and feed on sugarcane roots, killing or stunting the plant's growth. In adulthood, the beetles eat the leaves of the sugarcane. Sugar was one of Australia's major exports, so these beetles threatened the economy.
 

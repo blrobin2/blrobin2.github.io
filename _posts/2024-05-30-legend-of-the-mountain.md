@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 29/31 | Terrible oversight</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 29/31 | Terrible oversight</a></b>
 
 <blockquote><i>In the olden days, there were many Chinese legends. Some are about spirits and monks, while others are about ghosts and fairies. These legends were popular with all audiences.</i>
 

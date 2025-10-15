@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 31/31 | Tobe Hooper</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 31/31 | Tobe Hooper</a></b>
 
 The camera descends into a dungeon. Men in chains and cages listen to the sounds of whips stinging flesh. One onlooker whips himself alongside each strike. We find the Marquis De Sade in the throes of passion as the whip hits him. He’s not supposed to be enjoying it. He suggests soaking the whip in vinegar. I guess they take a dropper of vinegar to one of his eyes, blinding that eye, and that finally stops him.
 

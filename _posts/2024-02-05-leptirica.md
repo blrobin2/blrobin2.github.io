@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 4/32 | Countries 4/6 | Yugoslavia</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 4/32 | Countries 4/6 | Yugoslavia</a></b>
 
 One night, a man covered in hair enters a watermill near Zarožje, where Vule works and sleeps. It leaps on Vule, baring its fangs, and bites into Vule's neck, killing him. Vule is the fourth miller to die that year.
 

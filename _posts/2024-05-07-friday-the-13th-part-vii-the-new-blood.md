@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 6/31 | Sequels 6/6</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 6/31 | Sequels 6/6</a></b>
 
 We open with an endless recap that establishes one thing: Jason is unstoppable.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 49/52 | Agnes Varda's Closet Picks</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 49/52 | Agnes Varda's Closet Picks</a></b>
 
 <i>An Angel at My Table</i> is a three-part film based on Janet Frame's three autobiographies. Each actress portrays Janet Frame at a different point in her life: childhood, teenage years, and adulthood, the latter making up the second and much of the third sections. The film takes its name from the second of Frame's autobiographies, which makes up the middle portion of this film.
 

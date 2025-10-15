@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 4/31 | Decades 4/10 | 80s</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 4/31 | Decades 4/10 | 80s</a></b>
 
 Welcome to Valentine Bluffs, a mining town in the heart of Canada. A group of miners gets off their shift and races down to the diner, where their beaus are preparing for the first Valentine's Day Dance the town has held in 20 years. The mayor, who reinstated the dance, receives an anonymous box of chocolates—inside is a human heart.
 

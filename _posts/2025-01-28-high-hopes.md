@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 14</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 14</a></b>
 
 A lost man named Wayne wanders up to Cyril, tinkering with his motorbike. Wayne has the name of a house but no street or directions—just that it's somewhere near King's Cross. Cyril takes Wayne up to his flat, which he shares with his partner, Shirley, to see if she knows where the place might be. Shirley makes Wayne some tea while they sort it out. She introduces Wayne to her cactuses, named Bollock, Dick, Turd, Brains, and so on. Out of ideas, they send Wayne to find a cabbie.
 

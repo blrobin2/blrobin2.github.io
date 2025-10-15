@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 15/32 | Before 1970 6/6</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 15/32 | Before 1970 6/6</a></b>
 
 <b>1806, Confederation of the Rhine</b>
 André Duvalier (Jack Nicholson) rides his horse along the shores. The sun beats down on him, causing him to fall off his horse.

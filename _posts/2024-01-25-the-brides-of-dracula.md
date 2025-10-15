@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 24/34 | Hammer films 2/2</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 24/34 | Hammer films 2/2</a></b>
 
 <blockquote><i><b>Transylvania</b> — land of dark forests, dread mountains, and black unfathomed lakes. Still the home of magic and devilry as the 19th century draws to its close. Count Dracula, monarch of all vampires, is dead. But his disciples live on to spread the cult and corrupt the world.</i></blockquote>A carriage rides through the fog. Inside, its passages, Marianne Danielle, bounces about. She begs the driver to slow down, but he knows where he is and what lay out there. She is en route to a teaching position at a girls' school in Transylvania.
 

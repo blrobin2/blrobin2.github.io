@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 21/52 | Bill Hader's Top 10</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 21/52 | Bill Hader's Top 10</a></b>
 
 Kingo Gondo is a board member of a company called National Shoes. He meets with his fellow board of directors to discuss the company's future. Currently, their profits have flat-lined. Some on the board want to produce cheaper shoes that wear out faster and increase profits. Gondo wishes to invest in high-quality, modern shoes — a short-term profit loss for a theoretical long-term gain as the company sustains its reputation.
 

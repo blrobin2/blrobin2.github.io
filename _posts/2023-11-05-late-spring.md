@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 7/52 | Films to Fall Asleep To</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 7/52 | Films to Fall Asleep To</b>
 
 <blockquote><i>Only the color remains as it was back then</i></blockquote>
 

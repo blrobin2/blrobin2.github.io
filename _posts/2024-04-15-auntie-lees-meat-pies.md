@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 16/52 | Karen Black">Cult Movie Challenge 2024 | 16/52 | Karen Black</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 16/52 | Karen Black" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 16/52 | Karen Black</a></b>
 
 A shotgun blows a tire out on a passing car. Bruno's black boots step out of the car and scream at the tire. He goes to the boot to get a spare, but there isn't one.
 

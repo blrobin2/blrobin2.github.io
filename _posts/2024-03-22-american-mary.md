@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 21/32 | women-directed film 1/2 | Countries 4/6 | Canada</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 21/32 | women-directed film 1/2 | Countries 4/6 | Canada</a></b>
 
 <blockquote><i>I don't really think it's fair that God gets to choose what we look like on the outside. Do you?</i></blockquote>
 

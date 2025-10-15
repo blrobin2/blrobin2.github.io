@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 14/52 | Sundance Hits</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 14/52 | Sundance Hits</b>
 
 Molly wakes up next to her girlfriend. They've been together for years, having a child. Their morning has that quiet routine of people who feel comfortable together and feel loved by one another.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 13/34 | Animated Films 1/2</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 13/34 | Animated Films 1/2</b>
 
 12090 AD. A vampire hunter rides on horseback. A woman named Doris approaches him, bearing the kiss of the Noble.
 

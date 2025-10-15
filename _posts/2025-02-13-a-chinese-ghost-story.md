@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 7/52 | Love and Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 7/52 | Love and Horror</a></b>
 
 <blockquote><i>Sometimes, men are more harmful than ghosts.</i></blockquote>
 

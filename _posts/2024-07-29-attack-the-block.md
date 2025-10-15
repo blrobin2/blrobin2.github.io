@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 27/31 | Monster 2/5">Hooptober 2.0 | 27/31 | Monster 2/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 27/31 | Monster 2/5" target="_blank" rel="noopener">Hooptober 2.0 | 27/31 | Monster 2/5</a></b>
 
 It's a starry night over London. As one star falls, several fireworks hit the sky. It's Guy Fawkes Night. Samantha's nursing shift ends, and she walks home. She walks into an alley and passes a congregation of graffiti on the wall: Pest, Dennis, Jerome, Biggz, and Moses. Out of the alleyway and down the walk are five teens in heavy coats, all wearing face coverings. They circle her and mug her at knifepoint. As Moses pushes her down, something massive falls from the sky and trashes a nearby car. A firework? A bomb? Samantha escapes while they're distracted.
 

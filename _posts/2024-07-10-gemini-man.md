@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 28/52 | That same director’s lowest-rated film (Ang Lee)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 28/52 | That same director’s lowest-rated film (Ang Lee)</a></b>
 
 <b>Liège, Belgium</b>
 Henry Brogan is a 51-year-old sniper who works for the DIA. He’s in Belgium to assassinate a terrorist aboard a train. Everything goes smoothly until a young girl approaches the target. Because of the wait, Henry hits the target in the neck — still lethal, but not his intent. His spotter captures it on his phone, which disgusts Henry.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 31/31 | Tobe Hooper 2/2</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 31/31 | Tobe Hooper 2/2</a></b>
 
 Tobe Hooper’s first film is a collection of scenes involving a hippie commune in Austin, Texas.
 

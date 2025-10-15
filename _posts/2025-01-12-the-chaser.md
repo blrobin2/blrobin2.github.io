@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 18/35 | Countries 3/5 | South Korea</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 18/35 | Countries 3/5 | South Korea</a></b>
 
 Joong-ho is a pimp. He sends out one of his girls, Sung-hee, only for the customer to try and secretly film her. When Sung-hee finds out, she tries to leave, but the customer hits her. So, she calls Joong-ho, who comes and settles the matter. How? We don't know, but it involved a money exchange.
 

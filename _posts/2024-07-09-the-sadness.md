@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 7/31 | Countries 2/5 | Taiwan</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 7/31 | Countries 2/5 | Taiwan</a></b>
 
 It’s morning in Taipei City. Jim and Kat lay in bed together. They had planned a trip together, but Jim forgot and scheduled a meeting with a German ad agency. He intends to speak with his boss and skip it.
 

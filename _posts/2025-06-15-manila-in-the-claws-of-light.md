@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 10/52 | Made in the Philippines</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 10/52 | Made in the Philippines</a></b>
 
 Monochrome mages of Manila's Chinatown reveal the meager conditions of city life. Zooming in, standing below a sign that reads, "Do you have a problem?" is Julio Madiaga, a young man from Mariduque who has been in Manila for seven months. The saturation increases, and the image becomes colored. Julio stares at Chua Tek Trading Company and flashes an image of Ligaya waving at him. Ligaya, the woman he loves, left for Manila a while ago with Mrs. Cruz, a woman who came into town looking for women to work in the factory. Julio planned to stay and wait for her, but when she didn't return, he went looking for her.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 19/32 | from this year 1/2">Hooptober 7.0 | 19/32 | from this year 1/2</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 19/32 | from this year 1/2" target="_blank" rel="noopener">Hooptober 7.0 | 19/32 | from this year 1/2</a></b>
 
 Randy (Johnny Berchtold) has a nightmare of himself as a child. He sees someone holding their eye and spraying blood everywhere.
 

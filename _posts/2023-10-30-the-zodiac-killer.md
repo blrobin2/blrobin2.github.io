@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X </a>| 32/34 | Bonus 1/3
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X </a>| 32/34 | Bonus 1/3
 </b>
 This movie is a portrait of a mail carrier with a mentally ill father and a love of killing strangers and getting attention for it. If only his father loved him.
 

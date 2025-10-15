@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 9/52 | Shaw Brothers">Cult Movie Challenge 2024 | 9/52 | Shaw Brothers</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 9/52 | Shaw Brothers" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 9/52 | Shaw Brothers</a></b>
 
 <i>CW // Blood, Violence, Racism, Misogyny, Homophobia</i>
 

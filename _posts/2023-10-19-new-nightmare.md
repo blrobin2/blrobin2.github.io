@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" title="Hooptober X ">Hooptober X </a>| 21/34 | Wes Craven | Decades 6/8 | 90s</b>
+<b><a href="https://boxd.it/pmi12" title="Hooptober X " target="_blank" rel="noopener">Hooptober X </a>| 21/34 | Wes Craven | Decades 6/8 | 90s</b>
 
 Freddy cuts off his hand. CUT! We're on a movie set, and the props department is pumping fake blood and tinkering with animatronic claws. The claws come alive and stab someone in the neck. They walk around like Thing, going stabby stabby
 

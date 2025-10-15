@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 26/32 | Classic Universal</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 26/32 | Classic Universal</a></b>
 
 In the move into sound pictures, Universal lost confidence in the phantom's ability to scare the way the other Universal Monsters, or indeed, the 1923 Phantom, had.
 

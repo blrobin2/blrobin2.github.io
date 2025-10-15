@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 3/32 | film from before 1966 3/6</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 3/32 | film from before 1966 3/6</a></b>
 
 <i>CW // Misogyny, Blood, Murder, Animal Abuse</i>
 

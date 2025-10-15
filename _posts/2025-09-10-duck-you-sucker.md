@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 11/52 | Spaghetti Western</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 11/52 | Spaghetti Western</a></b>
 
 <blockquote><i>The revolution is not a social dinner, a literary event, a drawing, or an embroidery; it cannot be done with elegance and courtesy. The revolution is an act of violence...</i> — Mao Tse-Tung</blockquote>
 

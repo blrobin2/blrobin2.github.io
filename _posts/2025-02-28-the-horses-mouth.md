@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 34/52 | Alan Arkin's Top 10</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 34/52 | Alan Arkin's Top 10</a></b>
 
 Nosey Barbon rides his bicycle to H.M. Prison Wormwood Scrubs. He greets Gulley Jimson, who just exited prison after a one-month sentence. Nosey has seen Jimson's paintings and wants to be a painter himself. Jimson tries to tell Nosey to fuck off, even going so far as to ring the door and ask the prison to let him back in. But the prison is done with Jimson and wouldn't let him back in if he tried. So, Jimson tricks Nosey into buying him a pack of cigs while Jimson steals Nosey's bike and rides away.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" title="Hooptober 3.0 | 23/31 | George Romero">Hooptober 3.0 | 23/31 | George Romero</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" title="Hooptober 3.0 | 23/31 | George Romero" target="_blank" rel="noopener">Hooptober 3.0 | 23/31 | George Romero</a></b>
 
 <b>Evans City, Pennsylvania</b>
 Billy and his sister run around the house. Billy pretends to be a zombie and scare her. They hide when their father enters the kitchen with a crowbar, breaking everything in sight. Billy smells kerosene, and the two run upstairs to wake their mother. The sister pulls back the sheet to find her throat slit. When Billy turns around, his father throws a torch into the kerosene, setting the house on fire.

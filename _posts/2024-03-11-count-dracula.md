@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 32/52 | Jesús Franco</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 32/52 | Jesús Franco</a></b>
 
 <i>CW // Blood, Murder, Mental Illness, Misogyny, Assault</i>
 

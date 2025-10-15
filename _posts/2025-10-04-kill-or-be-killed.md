@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-I like the credits projected on sweaty fighters, sue me. One of the fighters looks like Bob from Twin Peaks! (edit: It's MacPherson from <a href="https://boxd.it/5V3qmh" title="Space Mutiny"><i>Space Mutiny</i></a><i></i>!)
+I like the credits projected on sweaty fighters, sue me. One of the fighters looks like Bob from Twin Peaks! (edit: It's MacPherson from <a href="https://boxd.it/5V3qmh" title="Space Mutiny" target="_blank" rel="noopener"><i>Space Mutiny</i></a><i></i>!)
 
 Between the Nazi jokes, Asian jokes, and little people jokes, the funny riffs are few.
 

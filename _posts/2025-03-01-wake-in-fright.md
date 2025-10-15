@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 1/52 | Ozploitation</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 1/52 | Ozploitation</a></b>
 
 The vast emptiness of the Tiboonda outback greets us. A line of railroad tracks cut through the township, with a single stop, a hotel, and a tiny school. Bored middle school children watch their teacher, John Grant, in silence while they wait for the six-week Christmas holiday to begin. The government assigned John to this post through a financial bond—he got a university education but had to work a two-year stint at a school of their choosing. Hence, Tiboonda. John dismisses the class and has a middy at the hotel bar with the barkeep, Charlie, before handing over the keys. He hears the train whistle and rushes out to catch it.
 

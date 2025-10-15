@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 44/52 | Lucio Fulci</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 44/52 | Lucio Fulci</a></b>
 
 <b>October 12, 1959</b>
 A woman drives through narrow England streets, across a grassy knoll to the white Dover cliffs. Meanwhile, Virginia, a young girl in an Italian boarding school, walks with her classmates to a vista overlooking Florence.

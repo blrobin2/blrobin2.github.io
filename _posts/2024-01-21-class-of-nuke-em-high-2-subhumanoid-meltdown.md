@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 20/34 | Worst Part II I Can Access</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 20/34 | Worst Part II I Can Access</a></b>
 
 <blockquote><i>Come away, o human child! To the waters and the wild...</i> — W.B. Yeats</blockquote><blockquote><i>Come away, subhumanoid child! To the waters and the wild...</i> — M.T. Head </blockquote>Tromaville Nuclear Facility builds a junior college: The Tromaville Institute of Technology. They regularly delouse the students and clean up "harmless" toxic waste that makes it into the school.
 

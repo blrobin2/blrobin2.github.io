@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birth Year Challenge 18</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 18</a></b>
 
 We join a lingerie photoshoot. Sylvia robes up. David congratulates her on the shoot and assigns her to an upcoming music video called "Blades." An older man calls Alex, the assistant, asking for a date with Sylvia. Alex tries to decline, but the man threatens to call the police.
 

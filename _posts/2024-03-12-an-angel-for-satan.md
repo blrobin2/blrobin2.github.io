@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 11/32 | film whose year ends in '6' 5/6 | decades 5/6 | 1960s</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 11/32 | film whose year ends in '6' 5/6 | decades 5/6 | 1960s</a></b>
 
 <i>CW // Mental Illness, Misogyny, Ageism, Blood, Sexual Assault, Physical Abuse, Murder</i>
 

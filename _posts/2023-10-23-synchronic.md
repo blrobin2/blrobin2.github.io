@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" title="Hooptober X">Hooptober X</a> | 24/34 | Moorhead & Benson</b>
+<b><a href="https://boxd.it/pmi12" title="Hooptober X" target="_blank" rel="noopener">Hooptober X</a> | 24/34 | Moorhead & Benson</b>
 
 Two paramedics, Steve (Anthony Mackie) and Dennis (Jamie Dornan) keep arriving at bizarre deaths — stab wounds but no blade, burn victims but no fire. At each scene, they find a drug called Synchronic.
 

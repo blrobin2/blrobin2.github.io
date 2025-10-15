@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a><b> | 47/52 | 1980s</b>
+<a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a><b> | 47/52 | 1980s</b>
 
 <blockquote><i>628 Belorussian villages were burnt to the ground with all their inhabitants</i></blockquote>In 1977, Larisa Shepitko directed <i>The Ascent</i> — one of the great poetic war films from the Soviet Union. That same year, her husband, Elem Klimov, began working on his final film, <i>Come and See</i> (then called <i>Kill Hilter</i>). During the eight years before <i>Come and See</i>’s release, he dealt with not just Soviet censorship but Shepitko’s death in 1979.
 

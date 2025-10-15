@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 9/31 | Countries 3/6 | Mexico | Decades 4/6 | 60s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 9/31 | Countries 3/6 | Mexico | Decades 4/6 | 60s</a></b>
 
 Dr. Pablo Morales is a taxidermist. His shop window displays a remarkable assortment of animals — buffalo, jaguar, and whatnot — and posed skeletons of various creatures.
 

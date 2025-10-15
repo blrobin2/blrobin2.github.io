@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 21/32 | disease-based 1/3</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 21/32 | disease-based 1/3</a></b>
 
 <i>TW // Death, Murder, Blood, Vomit, Mental Illness, Disease</i>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/q9zuy/detail" title="Cult Movie Challenge 2018 | 9/52 | Andy Milligan"><b>Cult Movie Challenge 2018 | 9/52 | Andy Milligan</b></a>
+<a href="https://boxd.it/q9zuy/detail" title="Cult Movie Challenge 2018 | 9/52 | Andy Milligan" target="_blank" rel="noopener"><b>Cult Movie Challenge 2018 | 9/52 | Andy Milligan</b></a>
 
 Anna Graham carries flowers through Highgate Cemetery to her mother's grave. The birds caw, the bell tolls — the cemetery is closing. Three blonde women with grayish skin greet Anna, pulling her in.
 

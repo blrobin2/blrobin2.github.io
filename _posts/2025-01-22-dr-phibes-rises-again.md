@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 42/52 | Vincent Price</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 42/52 | Vincent Price</a></b>
 
 We get a recap of Dr. Phibes's deal (dead wife, revenge, etc). He joins his wife, Victoria, in suspended animation until the Moon enters alignment with the planets.
 

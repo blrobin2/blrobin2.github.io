@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 39/52 | J-Horror</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 39/52 | J-Horror</a></b>
 
 The world is going insane. The sky has turned blood red. Birds are smashing into an Air Japan flight. The captain and first officer receive word that there's a suicide bomber on the plane. A hijacker, totally unrelated to the bomber, takes control of the aircraft, destroying the radio and forcing the captain to fly to Okinawa. A passenger's radio reports that Japanese and US Air Force fighters are in pursuit of a UFO.
 

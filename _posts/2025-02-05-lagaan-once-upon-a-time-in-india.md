@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 38/52 | Music by A.R. Rahman</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 38/52 | Music by A.R. Rahman</a></b>
 
 <b>Champaner, 1893</b>
 The agricultural village of Champaner gives a lagaan (a portion of the farmer's harvest) to the king as a tax. The king, Raja Puran Singh, keeps one share and gives the rest to the British, who promise to protect the king from neighboring attacks while promising the other kings protection from Raja Singh. It is monsoon season, and the village has seen no rain all year.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 46/52 | 1970s</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 46/52 | 1970s</b>
 
 The sharp wind cuts over snow-painted land. Gunshot sounds ricochet. A single figure emerges. Then dozens. Russian partisans traverse the tundra.
 

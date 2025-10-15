@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 17/31 | Before 1970 4/5 | Decades 4/5 | 20s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 17/31 | Before 1970 4/5 | Decades 4/5 | 20s</a></b>
 
 <b>Sleepy Hollow, 1790</b>
 Ichabod Crane, the Yankee schoolmaster, arrives on a carriage, his head buried in Cotton Mather’s book on the history of New England witchcraft. Before arriving, Crane read up on the superstitions of Sleepy Hollow, most famously, their Headless Horseman legend. The horseman was a Hessian trooper who rode each night from his churchyard grave in search of his head, which he lost in battle. Unlike some, he believes the story to be true.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 10/32 | Anniversary Film 9/10 | Countries 6/6 | Germany | Silent Film</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 10/32 | Anniversary Film 9/10 | Countries 6/6 | Germany | Silent Film</a></b>
 
 <blockquote><i>In the early Middle Ages, the legend of the mandrake was born. According to legend, its root transforms into a human being. At night, one seeks the root. When the clock strikes midnight, one buries the spade beneath the gallows. The magical power of the mandrake root brings luck to men but also misfortunes and pain.</i></blockquote>
 

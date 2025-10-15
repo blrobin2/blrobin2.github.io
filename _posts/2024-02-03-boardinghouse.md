@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 17/52 | Shot on Video</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 17/52 | Shot on Video</a></b>
 
 <i>Hoffman Boardinghouse, Sept 18, 1972</i>
 Dr. Hoffman and his wife, leading authorities on telekinesis and the occult, are found dead on the night of their 16th-anniversary party

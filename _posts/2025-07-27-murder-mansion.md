@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 5/52 | Giallo</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 5/52 | Giallo</a></b>
 
 <blockquote><i>You must be lonely — it's horribly sinister in here.</i></blockquote>
 

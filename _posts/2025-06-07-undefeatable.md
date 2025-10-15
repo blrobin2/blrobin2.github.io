@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/q7TYk/detail" title="Cult Movie Challenge 2017 | 49/52 | Godfrey Ho">Cult Movie Challenge 2017 | 49/52 | Godfrey Ho</a>
+<a href="https://boxd.it/q7TYk/detail" title="Cult Movie Challenge 2017 | 49/52 | Godfrey Ho" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 49/52 | Godfrey Ho</a>
 
 Kristi Jones runs with a gang that participates in street fights to earn money for her sister Karen's college tuition. After winning a fight, Detective Nick DiMarco rides up to stop it. He only catches Kristi. The gang goes to Karen's college to help bail Kristi out of jail, concealing that Kristi was involved in a fight.
 

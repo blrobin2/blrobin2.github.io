@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 48/52 | Hammer Horror</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 48/52 | Hammer Horror</a></b>
 
 A young boy named Johann rides his bike into his village and to the church, where he works as an altar boy. He hears the bell ring and grabs the rope to stop it, only to find it soaked with blood. Glancing upwards, he sees the blood pooling around the porthole through which the rope falls. He goes up the stairs and into the bell tower. His screams alert a priest, who runs into the church to find the frightened boy, unable to explain, covered in blood, running away. The priest follows the trail of blood up to the bell. A shoe drops out. Then, a woman's body, her neck torn into at two points.
 

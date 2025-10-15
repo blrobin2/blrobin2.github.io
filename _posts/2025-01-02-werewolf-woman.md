@@ -9,4 +9,4 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/WEkd" title="Owen">Owen</a> got me this on DVD for Christmas. I tried to describe it to some friends but could not, so I put on the first 30 minutes for them to experience it.
+<a href="https://boxd.it/WEkd" title="Owen" target="_blank" rel="noopener">Owen</a> got me this on DVD for Christmas. I tried to describe it to some friends but could not, so I put on the first 30 minutes for them to experience it.

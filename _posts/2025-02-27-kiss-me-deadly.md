@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 33/52 | Anthony Bourdain’s Top 10</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 33/52 | Anthony Bourdain’s Top 10</a></b>
 
 Bare feet run down the pavement at night. Christina, in only a trenchcoat, waves down anyone who will stop for her. Desperate, she steps out in front of a passing 1951 Jaguar XK 120 Roadster. Mike Hammer swerves to the side, his car unable to start. Christina jumps into the passenger side, and they drive off. The credits roll while Christina catches her breath. When her breath settles, she asks him to take her to the first stop they find in Los Angeles. But soon, they hit a police stop. The officer is looking for a woman who escaped a psychiatric hospital nearby. Mike acts as Christina's husband to get them through.
 

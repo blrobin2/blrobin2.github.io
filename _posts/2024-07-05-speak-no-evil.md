@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b></b><a href="https://boxd.it/pRQY0/detail" title="Hoop-Tober | 27/31"><b>Hoop-Tober | 27/31</b>
+<b></b><a href="https://boxd.it/pRQY0/detail" title="Hoop-Tober | 27/31" target="_blank" rel="noopener"><b>Hoop-Tober | 27/31</b>
 </a>
 The score swells as headlights shamble down a dirt road. Cut to a bright pool setting in the countryside. Bjørn and Louise are on vacation with their daughter, Agnes. A man named Patrick is quite friendly and perhaps a little forward. He and Bjørn continue running into one another. He meets Bjørn's wife, Karin, and their quiet son, Abel. Their families hit it off.
 

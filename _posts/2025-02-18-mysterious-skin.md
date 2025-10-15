@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 46/52 | Kyle Turner's The Queer Film Guide: 100 Great Movies That Tell LGBTQIA+ Stories</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 46/52 | Kyle Turner's The Queer Film Guide: 100 Great Movies That Tell LGBTQIA+ Stories</a></b>
 
 In the summer of 1981, Brian Lackey, then 8 years old, lost five hours of his life. His sister, Deborah, found him in the closet wearing his Little League uniform, blood trickling out of his nose. He remembers that and standing on the roof with his sister and mother as a UFO passes over them.
 

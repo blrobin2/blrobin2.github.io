@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 3/52 | 1930s">Criterion Challenge 2022 | 3/52 | 1930s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 3/52 | 1930s" target="_blank" rel="noopener">Criterion Challenge 2022 | 3/52 | 1930s</a></b>
 
 <blockquote>
 <i>Sensitive hearts, faithful hearts,

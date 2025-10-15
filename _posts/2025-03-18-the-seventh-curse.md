@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 9/52 | CAT III</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 9/52 | CAT III</a></b>
 
 The best Indiana Jones movie isn't an Indiana Jones movie. Goodbye, Dr. Jones. Hello, Dr. Yuen!
 

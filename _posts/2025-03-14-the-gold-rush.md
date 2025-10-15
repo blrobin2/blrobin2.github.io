@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 41/52 | 1920s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 41/52 | 1920s</a></b>
 
 <blockquote><i>During the Great Gold Rush of Alaska, men in thousands came from all parts of the world. Many were ignorant of the hardships before them, the intense cold, the lack of food — and a journey through regions of ice and snow was a problem that awaited them.</i></blockquote>
 

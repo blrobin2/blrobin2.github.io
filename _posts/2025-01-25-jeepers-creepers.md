@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 29/31</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 29/31</a></b>
 
 Trish and her brother, Darry, drive through the North Florida countryside in Trish's 1960 Chevy Impala. Darry drives recklessly, stressing out Trish. An old truck one-ups him, tailgating as though trying to drive them off the road, but eventually passes. The experience reminds them of an urban legend about a couple who disappeared on prom night.
 

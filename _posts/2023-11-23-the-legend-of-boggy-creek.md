@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 23/34 | Charles B. Pierce</b>
+<b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0" target="_blank" rel="noopener">Hooptober 9.0</a> | 23/34 | Charles B. Pierce</b>
 
 <blockquote><i>I was seven years old when I first heard him scream. It scared me then, and it scares me now.</i></blockquote>
 

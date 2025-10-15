@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 27/32 | Non-Dracula Hammer</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 27/32 | Non-Dracula Hammer</a></b>
 
 Margaret (Valerie Leon) tosses in her bed.
 

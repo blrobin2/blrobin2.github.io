@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 2/52 | 1920s</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 2/52 | 1920s</a></b>
 
 <blockquote><i>There is no such thing as love — there is only desire! There is no happiness — there is only the will to gain power!</i></blockquote>Dr. Mabuse is a criminal mastermind who uses disguises and hypnosis to con people.
 

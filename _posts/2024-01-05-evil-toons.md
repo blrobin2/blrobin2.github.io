@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 2/52 | Fred Olen Ray</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 2/52 | Fred Olen Ray</a></b>
 
 <blockquote><i>The story you are about to see is true. Nothing has been changed. These are the actual people who lived this great adventure and this is exactly the way it really happened. I truly believe this. — Fred Olen Ray</i></blockquote>Thunder crashes in front of a stately mansion. A cloaked figure (David Carradine) approaches holding the Necronomicon, which tells him to follow his conscience. He goes to the basement, finds a noose, and wraps it around his neck.
 

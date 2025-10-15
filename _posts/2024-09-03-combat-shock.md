@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 33/52 | Splatter Movie Guide</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 33/52 | Splatter Movie Guide</a></b>
 
 <blockquote><i>I go back there every night, without fail. And the events will happen all over again. I know it isn’t real, but the terror is real. It’s part of me now and I can’t escape it. Everything is as I remember it — the same jungle, the same paths, the same victims.</i></blockquote>
 

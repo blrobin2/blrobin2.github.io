@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 10/52 | 2000s">Criterion Challenge 2022 | 10/52 | 2000s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 10/52 | 2000s" target="_blank" rel="noopener">Criterion Challenge 2022 | 10/52 | 2000s</a></b>
 
 <b>October 23, 1986</b>
 On the outskirts of a small town, children follow after Detective Park Doo-man, who rides in the back of an old car. The driver takes Park to the tied-up corpse of a woman rape victim in the water runoff drain. Park conducts interviews and collects testimonies, asking weird questions like if they thought the woman was hot. He believes that, by staring at their photos, he will be able to intuit who did it.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen">Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 29/52 | Leslie Nielsen</a></b>
 
 <blockquote><i>In June 1974, Drs. F. Sherwood Rowland and Mario Molina of the University of California startled the scientific world with their finding that fluorocarbon gases used in aerosol spray cans are seriously damaging the Earth's protective ozone layer. Thus, potentially dangerous amounts of ultraviolet rays are reaching the surface of our planet, adversely affecting all living things. This motion picture dramatizes what COULD happen in the near future IF we continue to do nothing to stop the damage to Nature's protective shield for life on this planet.</i></blockquote>Steve Buckner leads a group of tourists in Northern California on a hike. Only he and Santee, the Native American assistant, know how to survive the wilderness.
 

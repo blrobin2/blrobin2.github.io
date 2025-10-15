@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 20/31 | Umberto Lenzi</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 20/31 | Umberto Lenzi</a></b>
 
 We scan an industrial district of Madrid before joining a news report from BWC News. The Department of Health has announced a radioactive spill at the state nuclear plant. While serious, officials claim to have responded in time to avoid any negative fallout.
 

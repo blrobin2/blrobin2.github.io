@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 4/52 | Shaw Brothers</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 4/52 | Shaw Brothers</a></b>
 
 Master Sung Wu-Yang walks the temple grounds when a gang of fighters surrounds him. Although he is a pacifist in principle, he doesn't understand their intent but fights them nonetheless.
 

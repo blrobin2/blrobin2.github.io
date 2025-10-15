@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk">Cult Movie Challenge 2017 | 2/52 | Bruno Mattei</a></b>
+<b><a href="https://boxd.it/q7TYk" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 2/52 | Bruno Mattei</a></b>
 
 Somewhere in the Philippines, Dr. Alan Holder and his assistant Norma inject a black substance called Death One into a dead human test subject's IV drip. The test subject, held in a glass chamber, lay dormant. But then, the test subject opens his eyes and starts convulsing. He vomits a black substance as Alan and Norma back away. His head deforms as growths form under the skin.
 

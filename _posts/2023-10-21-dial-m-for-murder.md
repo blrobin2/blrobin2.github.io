@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 23/34 | Hitchcock | Decades 8/8 | 50s </b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 23/34 | Hitchcock | Decades 8/8 | 50s </b>
 
 <blockquote><i>— Do you really believe in the perfect murder?
 — Yes, absolutely. On paper, that is. And I think I could plan one better than most people, but I doubt if I could carry it out.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 27/34 | Based on a Clive Barker story</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 27/34 | Based on a Clive Barker story</b>
 
 Howard travels to the land of his forefathers to do research for a book on Neolithic fertility cults in the area. He enters the town church and sees a stained glass window depicting a monster beneath a pillar.
 

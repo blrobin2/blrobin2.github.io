@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 26/52 | Made in a country with a border that crosses the Equator by a director from that country (Peru)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 26/52 | Made in a country with a border that crosses the Equator by a director from that country (Peru)</a></b>
 
 A woman lay on her deathbed. She sings a song that details her rape and the death of her husband. During her assault, she was pregnant with her daughter, Fausta. As she dies, Fausta joins in the song, singing the little things she does. Before Fausta knows it, her mother has died.
 

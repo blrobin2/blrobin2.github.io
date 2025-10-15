@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 10/34 | Folk Horror 1/2 | Decades 4/8 | 70s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 10/34 | Folk Horror 1/2 | Decades 4/8 | 70s</a></b>
 
 <blockquote><i>In Europe, between the 15th and 16th centuries, it is estimated nearly eight million people were convicted of heresy and executed by fanatical witchhunters to save their souls. Their deaths on the scaffold or the funeral pile were, for them, the release from agonizing torture, which often lasted for years. This motion picture shows three cases taken from authentic documents from the time when witch-hunting had reached its peak and can only give a slight idea of the cruelties of one of the blackest pages in the history of Man.</i></blockquote>
 

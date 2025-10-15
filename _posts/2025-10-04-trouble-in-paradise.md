@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 21/52 | Pre-Code</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 21/52 | Pre-Code</a></b>
 
 A garbage collector grabs a can and brings it to the river to dump it into his trash gondola. Only in Venice, am I right? A shadowy figure jumps over a banister, through the trees, fleeing a hotel room where François Filiba lay out cold. The doorbell buzzes continuously as two Italian sex workers stand outside the door. François comes to and pulls himself up. His apartment is in disarray. He calls to report a robbery, and the news spreads quickly through the building.
 

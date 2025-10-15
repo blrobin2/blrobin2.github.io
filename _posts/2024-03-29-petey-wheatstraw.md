@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 28/32 | black director or predominantly black cast</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 28/32 | black director or predominantly black cast</a></b>
 
 <blockquote><i>Yes, I'm Petey Wheatstraw, the devil's son-in-law!</i></blockquote>
 

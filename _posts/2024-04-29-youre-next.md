@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 28/32 | Barbara Crampton</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 28/32 | Barbara Crampton</a></b>
 
 <b><i>Ready or Not</i> for straights</b>
 

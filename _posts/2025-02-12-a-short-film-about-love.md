@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y/detail" rel="nofollow">Birth Year Challenge 25</a></b>
+<b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 25</a></b>
 
 The glass shatters, and Tomek drops from the broken window. He enters an A/V room with a flashlight and surveys the tech on the shelves. There, he finds a telescope that he takes with him. Back home, he sharpens the focus on the apartment opposite him.
 

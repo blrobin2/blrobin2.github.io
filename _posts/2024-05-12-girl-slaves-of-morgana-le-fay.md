@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 11/31 | Countries 5/6 | France</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 11/31 | Countries 5/6 | France</a></b>
 
 <blockquote><i>You are just a lifeless ghost. Your kingdom isn’t real!</i></blockquote>
 

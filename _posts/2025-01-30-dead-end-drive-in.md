@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 49/52 | Carsploitation</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 49/52 | Carsploitation</a></b>
 
 <blockquote><i>Inflation, shortages, unemployment, crime wave. Government invokes emergency powers</i></blockquote>
 

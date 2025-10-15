@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 30/31 | Witchcraft</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 30/31 | Witchcraft</a></b>
 
 Maddy’s best friend Alexis was a cheerleader at Blackfoot High. Maddy was putting together a video profile on Alexis for her media tech class, encouraging Alexis to show off some cheerleading tricks. Alexis’ teammates throw her in the air but miss her. Alexis lands on her head and dies.
 

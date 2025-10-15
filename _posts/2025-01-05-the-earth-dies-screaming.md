@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hooptober | 13/31 | Terence Fisher 3/5</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hooptober | 13/31 | Terence Fisher 3/5</a></b>
 
 A runaway train careens off the rails. A car crashes into a wall, erupting in smoke. A biplane dives out of the sky and into the ground. All around the world, living things are suddenly dropping dead.
 

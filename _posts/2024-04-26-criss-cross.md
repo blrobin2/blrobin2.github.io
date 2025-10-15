@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 17/52 | Heist film, but the thing being stolen is someone's heart</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 17/52 | Heist film, but the thing being stolen is someone's heart</a></b>
 
 Anna and Steve meet in secret. Steve worries her husband will find out, but Anna has to see him. They go over their plan once more and where they'll meet. Anna assures him it will finally be as it should have been: she and him from the beginning.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 52/52 | Any Criterion film on your watchlist</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 52/52 | Any Criterion film on your watchlist</a></b>
 
 <blockquote><i>There is no greater solitude than that of the samurai unless it is that of the tiger in the jungle… perhaps…</i> — Bushido (Book of the Samurai)</blockquote>
 

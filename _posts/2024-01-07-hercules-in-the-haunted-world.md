@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 3/52 | Sword and Sandal">Cult Movie Challenge 2016 | 3/52 | Sword and Sandal</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 3/52 | Sword and Sandal" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 3/52 | Sword and Sandal</a></b>
 
 At the top of a waterfall, Hercules is doing gua sha or something. He calls for Theseus, who is literally rolling around in the hay with Arethusa. Classic Theseus.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 49/52 | Godfrey Ho</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 49/52 | Godfrey Ho</a></b>
 
 <blockquote><i>— I’m looking for a restaurant
 — You’re looking in the wrong place, buddy. There aren’t any restaurants around here.
@@ -25,6 +25,6 @@ Tiger, in a beautiful blonde wig, tells the crime lord Baron about Tamashi’s d
 
 Ninja Master Harry sends Jaguar Wong to protect Machiko. Baron and Harry suspect the other is trying to get the Golden Ninjas Warrior pieces.
 
-The script is incoherent. Part of this is Godfrey Ho’s filmmaking method. Ho would film footage to add to footage from existing movies to make a new story, usually involving ninjas. Over 50% of this movie is <i><a href="https://boxd.it/a3Le" rel="nofollow">The Uninvited Guest of the Star Ferry</a></i>.
+The script is incoherent. Part of this is Godfrey Ho’s filmmaking method. Ho would film footage to add to footage from existing movies to make a new story, usually involving ninjas. Over 50% of this movie is <i><a href="https://boxd.it/a3Le" target="_blank" rel="noopener">The Uninvited Guest of the Star Ferry</a></i>.
 
 The Garfield phone is fucking iconic.

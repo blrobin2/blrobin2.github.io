@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 8/31 | Countries 2/6 | Finland | Decades 3/6 | 50s</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 8/31 | Countries 2/6 | Finland | Decades 3/6 | 50s</a></b>
 
 <blockquote><i>A girl is born to a fiery snow
 Grew a girl with hay shoes

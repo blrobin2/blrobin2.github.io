@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 43/52 | 1940s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 43/52 | 1940s</a></b>
 
 Trains come and go through Milford Junction. Albert Godby, the ticket inspector, checks his watch and visits the station's refreshment room. There, he gets a coffee from the cafe owner, Myrtle Bagot, and the two carry on, although Myrtle is cold with Albert since he didn't make it in yesterday. Two people, Laura Jesson and Dr. Alec Harvey, sit at a table in the corner. Dolly, Laura's work colleague, bursts into the room, surprised to find Laura sitting there. Dolly sits at Laura and Alec's table and asks Dr. Harvey to fetch her tea. With Alec gone, Dolly jokes about calling Laura's husband, Fred, for her being at a table with another man.
 

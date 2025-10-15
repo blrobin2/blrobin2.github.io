@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 1/31 | Franchises 1/5">Hooptober 2.0 | 1/31 | Franchises 1/5</a></b>
+<b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 1/31 | Franchises 1/5" target="_blank" rel="noopener">Hooptober 2.0 | 1/31 | Franchises 1/5</a></b>
 
 <b>October 29, 2018</b>
 Aaron and Dana are true crime podcast hosts. Today, they are at Smith's Grove Psychiatric Hospital to visit with a patient who has been at the facility for 40 years and is being transferred to Glass Hill. They interview Dr. Loomis' protégé, Dr. Ranbir Sartain, who gives a rundown on the various psychological studies done on this patient with no consensus That patient, of course, is notorious serial killer Michael Myers.

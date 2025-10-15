@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 12/32 | 2nd film in franchise 4/7 | Decades 4/6 | 1970s</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 12/32 | 2nd film in franchise 4/7 | Decades 4/6 | 1970s</a></b>
 
 Phillip Lamont (Richard Burton) prays to Father Lankkester Merrin (Max von Sydow) for aid in exorcizing a woman in a Latin American community. The woman knocks over the candles, setting herself and the building ablaze. The Cardinal asks Lamont to look into Father Merrin's death — the events of <i>The Exorcist</i>. Their goal is to remove Satan from the church by proving his lack of involvement in Merrin's death.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 12/52 | Albert Pyun</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 12/52 | Albert Pyun</a></b>
 
 Titus Cromwell, King of Aragon, rows ashore to Tomb Island, a "rocky crag perched at the far edge of the world." Cromwell enters a tomb with a soldier and a woman whom Cromwell calls a witch to awaken the long-dead sorcerer, Xusia of Delos. Cromwell asks Xusia to help him to recover the land of Ehdan, the wealthiest kingdom in the world. The soldier demands a demonstration of Xusia's powers. The creature sends the witch, his servant, colliding into the wall and psychically rips out her heart. Xusia will help Cromwell take Ehdan and take what he sees as rightfully his.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 11/34 | Insect-centered 2/2</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 11/34 | Insect-centered 2/2</b>
 
 A disheveled man walks through the desert, collapsing on the sand. He has a deformed face, and his veins bulge out of his skin.
 

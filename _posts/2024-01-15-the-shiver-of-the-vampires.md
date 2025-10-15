@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2026 | 8/52 | Jean Rollin">Cult Movie Challenge 2026 | 8/52 | Jean Rollin</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2026 | 8/52 | Jean Rollin" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 8/52 | Jean Rollin</a></b>
 
 Bluesy rock as two women walk the castle grounds. They each grab a candelabra and go up the stairs. At the top, two vampires, chained to the walls, drive stakes into their hearts. One tells the women that they must go to the tomb and stab the others.
 

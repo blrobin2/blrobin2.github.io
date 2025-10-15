@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 44/52 | 1950s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 44/52 | 1950s</a></b>
 
 <blockquote><i>The following is a true story. I present it as it happened, without adornment.</i> — Robert Bresson</blockquote><blockquote><i>At this site, under German occupation, 10,000 men suffered victims of the Nazis. Seven thousand passed away.</i> — A plaque outside Montluc prison in Lyon</blockquote><b>Lyon, 1943</b>
 A hand sneaks to the handle of a car door but pulls back. The man, Fontaine, sits, his hands unshackled, next to two men, handcuffed together. The free man looks for his opportunity. When the car stops, he jumps out of the vehicle. A German car full of soldiers followed them, so they apprehended Fontaine and cuffed him at once. They also bash him over the head with the butt of their pistol. They throw the bloodied man into a jail cell at Montluc.

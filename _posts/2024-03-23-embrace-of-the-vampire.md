@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 22/32 | women-directed film 2/2</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 22/32 | women-directed film 2/2</a></b>
 
 The bassist from Spandau Ballet (Martin Kemp) makes out with his virgin princess girlfriend (Rebecca Ferratti). She leaves, and he falls asleep next to a beautiful waterfall — we've all been there, folks.
 

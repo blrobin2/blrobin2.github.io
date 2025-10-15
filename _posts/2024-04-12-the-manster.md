@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 11/32 | Before 1970 2/6</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 11/32 | Before 1970 2/6</a></b>
 
 A woman sits in front of a mirror, putting on geisha makeup. A gorilla-like humanoid creature closes the partition and attacks. Blood splatters against the paper doors.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 23/31 | Slasher 3/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 23/31 | Slasher 3/5</a></b>
 
 A woman comes into a clothing store to buy some men's clothes. She isn't too specific beyond colors, not really knowing sizes. She takes the clothes to try on. The owners chuckle with each other and go to a back compartment. There, they have a monitor set up, observing a video feed from the changing room. The feed runs through a VHS deck, allowing them to record the feed as she removes her shirt. One owner hands the other a baseball glove. He puts on the glove, grabs a baseball bat, and chats her up before hitting her in the head with the bat. He kisses the bloody, unconscious woman before taking the end of the bat to her face.
 

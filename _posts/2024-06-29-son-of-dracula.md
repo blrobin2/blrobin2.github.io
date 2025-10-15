@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 28/31 | Classic Universal horror | Before 1970 5/5</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 28/31 | Classic Universal horror | Before 1970 5/5</a></b>
 
 Dr. Harry Brewster and Frank Stanley wait at the train station for a friend of the Caldwell's named Count Alucard. When they check with Charlie, the conductor, he has no Count on his passenger manifest. He did notice, however, a heap of luggage on the train belonging to the Count. Matthew brings the luggage on a carriage to Caldwell's New Orleans plantation, called Dark Oaks. Katherine meets him, followed by her sister, Claire.
 

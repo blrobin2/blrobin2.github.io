@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 29/32 | black director or predominantly black cast or lead 2/2</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 29/32 | black director or predominantly black cast or lead 2/2</a></b>
 
 <i>CW // Murder, Blood, Viscera, Torture, Vomit, Misogyny, Sex</i>
 

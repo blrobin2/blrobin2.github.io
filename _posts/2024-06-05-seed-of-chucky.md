@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 4/31 | Franchise 4/7</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 4/31 | Franchise 4/7</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 In <i>Bride of Chucky</i>, Tiffany doll gave birth before dying in a graveyard. Now, we take its perspective and see wrapping paper torn aside to reveal a blonde girl and her parents. The girl’s smile quickly drops as disgust takes over at the unusual creature before her. Both parents are unsure of the gift’s origin, but the girl throws it into her toy chest.
 

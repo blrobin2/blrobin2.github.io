@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 23/52 | Annie’s B-movies for the GIRLS</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 23/52 | Annie’s B-movies for the GIRLS</a></b>
 
 No Doubt's Just a Girl erupts over scrapbook patterns and photos. We step into a picture of Venice Beach, through a polka dot curtain, and into Romy and Michele's apartment, where they watch <i>Pretty Woman</i> for the like, 36th time. Ironically, of course.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail" rel="nofollow">Criterion Challenge 2023</a> | 17/52 | Dysfunctional Families</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 17/52 | Dysfunctional Families</b>
 
 We open with a video of men taking a pig from a barn. The pig screams out in fear as the farmer puts a captive bolt pistol to its head and kills it. The video rewinds to before the gunshot. It plays back the slaughtering in slow motion as the pig writhes on the ground, dying but not dead straight away.
 
@@ -38,7 +38,9 @@ Benny lives his life acting as though nothing has happened, but the impact is sh
 He eventually shows the video to his parents. His father, realizing that the police will blame him and their reputations will be in shambles, works to cover it up while Benny's mother trembles. His father chastises his mother when she cries. He asks Benny:
 
 <blockquote><i>— Are you scared?
-— No.</i></blockquote>No one makes me feel more ill than Haneke, but for all the directors who do, his motivation is understandable. He is one of the few directors who incorporates darkness convincingly. He doesn't shoot violence in a heightened way — he looks at it with as sterile an eye as a kid doing homework. 
+— No.</i></blockquote>
+
+No one makes me feel more ill than Haneke, but for all the directors who do, his motivation is understandable. He is one of the few directors who incorporates darkness convincingly. He doesn't shoot violence in a heightened way — he looks at it with as sterile an eye as a kid doing homework.
 
 Benny talks about violence in movies, saying he watched a documentary about filmmaking and knows all the tricks and that it's fake. This is minutes before he takes the girl upstairs and murders her. We know it's fake — Benny told us so. But it is authentic in this world. The impact blurs the edges.
 

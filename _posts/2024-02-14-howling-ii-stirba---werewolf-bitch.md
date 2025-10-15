@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 13/32 | 2nd film in franchise 5/7</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 13/32 | 2nd film in franchise 5/7</a></b>
 
 Stefan Crosscoe (Christopher Lee), standing in front of outer space, reads a screenwriter modification of Revelation 17:2 from somewhere in the middle of the Bible:
 

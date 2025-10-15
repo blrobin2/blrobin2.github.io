@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 10</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 10</a></b>
 
 A stilted voice calls, asking for Jo Ann. Jo Ann initiates phone sex, reading a script about about bus exchange. She stops briefly to swat a fly. The stilted voice takes heavy drags off his cigarette. Laying around him are open BDSM porno mags. He grabs a knife off the table and runs it along his nipples. "Nobody can handle nipples like Bobo," he says before hanging up.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 7/32 | Decades 1/6 | 1930s</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 7/32 | Decades 1/6 | 1930s</a></b>
 
 A luxury yacht, on the owner's orders, sails through a channel off the coast of South America. The captain calls the order into question based on advice from Bob, a passenger and big game hunter. They notice the channel lights off the shoreline are not the same.
 

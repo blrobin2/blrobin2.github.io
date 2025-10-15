@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 18/52 | Splatter</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 18/52 | Splatter</a></b>
 
 A woman surrounded by candles. A vision of a nude woman on a glowing table — Dimitri's face merges with hers. The woman escapes or something.
 
@@ -19,9 +19,11 @@ Jessica tells her husband, Robert, that she is pregnant. He silently questions i
 
 The pregnancy is weird, though. Jessica vomits blood and goes to the doctor. The doctor tells her that the pregnancy is moving at an alarming rate. The baby inside her is already three months along.
 
-<blockquote><i>— No doctor can explain her pregnancy 
-</i><i>— What do you mean?
-</i><i>— Her pregnancy is unexplainable</i></blockquote>Jessica begins to have violent mood swings. She lashes out, then comes to, unaware of what she did.
+<blockquote><i>— No doctor can explain her pregnancy<br>
+— What do you mean?<br>
+— Her pregnancy is unexplainable</i></blockquote>
+
+Jessica begins to have violent mood swings. She lashes out, then comes to, unaware of what she did.
 
 In a moment of clarity, she goes in for an abortion. Dimitri speaks through her and declares this baby must be born, no matter what.
 

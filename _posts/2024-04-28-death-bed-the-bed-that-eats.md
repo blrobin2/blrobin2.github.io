@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 27/32 | Inanimate Object Comes Alive</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 27/32 | Inanimate Object Comes Alive</a></b>
 
 <blockquote><i>Aww shit — I'm being eaten alive</i></blockquote>
 

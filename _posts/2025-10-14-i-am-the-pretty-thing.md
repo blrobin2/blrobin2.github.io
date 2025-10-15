@@ -7,7 +7,7 @@ letterboxd_url: https://boxd.it/bnhmUf
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 13/31 | Canadian</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 13/31 | Canadian</a></b>
 
 <blockquote><i>… a house with a death in it can never again be bought or sold by the living. It can only be borrowed by the ghosts that have stayed behind […] We have stayed to look back for a glimpse at the very last moments of their lives. But the memories of their own deaths are faces on the wrong side of wet windows […] They are free to go, but still they confine themselves, held in place by their looking.</i></blockquote>
 

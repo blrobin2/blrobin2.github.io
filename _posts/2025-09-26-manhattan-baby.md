@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 18/52 | Splatter</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 18/52 | Splatter</a></b>
 
 We begin, not in Manhattan, but in Egypt. An archeologist, George, catches a scorpion for his nine-year-old daughter, Susie. Emily, a journalist and George's wife, takes a picture of Susie in front of the Sphinx. A hole opens in the sand. Susie goes into a trance, her hand full of sand. Emily runs off to take photos, letting Susie catch a break. A mysterious woman with white eyes approaches Susie. She holds out her hand, and Susie puts some lire in the woman's hand, and the woman puts an amulet with a jeweled eye in Susie's hand.
 
@@ -21,7 +21,7 @@ Fulci worked with producer Fabrizio De Angelis, who promised Fulci his largest b
 
 That isn't to say the film is a total failure. The opening stuff in Egypt is quite fun, albeit no real departure from traditional horror. It's wild that the Egypt stuff was added after the fact just to give the film an "international feel." Instead, the film is just slow and relatively uneventful after the Egypt scenes. Still, Fulci and crew create an uneasy atmosphere that gives way to a few eerie moments.
 
-Fulci followed up this movie with <a href="https://boxd.it/aEde0F">Conquest</a>, which was quite the departure for him
+Fulci followed up this movie with <a href="https://boxd.it/aEde0F" target="_blank" rel="noopener">Conquest</a>, which was quite the departure for him
 
 #### Stray Thoughts
 

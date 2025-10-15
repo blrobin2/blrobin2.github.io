@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 51/52 | Someone holds a cat</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 51/52 | Someone holds a cat</a></b>
 
 <blockquote><i>Love is the genesis of everything.</i></blockquote>Bugs looks through the code and finds a Modal. She enters and sees a scene reminiscent of the beginning of The Matrix, but it's different. The agents spot Bugs, and she runs, only to be pulled aside by one of them. They realize they are in Thomas Anderson's apartment. The Agent goes over his awakening and realizes that he is Morpheus and has to find Neo.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 12/52 | Heroic Bloodshed</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 12/52 | Heroic Bloodshed</a></b>
 
 <b>It's like Face/Off but without all the stuff.</b>
 

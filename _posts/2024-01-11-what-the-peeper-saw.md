@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 5/52 | Giallo">Cult Movie Challenge 2016 | 5/52 | Giallo</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 5/52 | Giallo" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 5/52 | Giallo</a></b>
 
 Sarah crawls into a bathtub. Her feet touch something on the edge of the tub. She convulses and dies.
 

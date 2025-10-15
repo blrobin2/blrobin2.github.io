@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 14/52 | 50s Sci-Fi</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 14/52 | 50s Sci-Fi</a></b>
 
 Through the cosmic void, something arrives on our planet. A military station picks it up on radar at 200,000 feet going 4,000 mph. Cut to a radio station in Calcutta making a similar report of a sighting. All around the world, people are tracking this object and reporting it to the world via radio. An eerie hum fills the National Mall in DC as the object, a glowing saucer, makes a landing. The people present run away in terror as it touches down. The military assembles in preparation, cordoning off the ship. After two hours, a plank emerges from the side of the saucer. The dome pulls apart, and a humanoid alien exits the saucer.
 

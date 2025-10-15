@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 7/31 | Franchise 7/7</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 7/31 | Franchise 7/7</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 Rachel debates the Second Amendment with Andy Barclay. They're on a date that turns south when Rachel learns Andy has a couple.
 

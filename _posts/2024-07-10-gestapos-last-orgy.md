@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 28/52 | Nazisploitation</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 28/52 | Nazisploitation</a></b>
 
 <blockquote><i>When the superman wishes to amuse himself, he must do so, even at the cost of the life of others.</i> — Friedrich Nietzche</blockquote>Good luck finding that Nietzsche quote outside this movie, because it either isn't real or is mistranslated.
 
@@ -19,7 +19,7 @@ Conrad von Stark drives through Northern Germany, listening to a tape of a war c
 
 <blockquote><i>I was just a soldier. I only followed orders. I was doing my duty.</i></blockquote>We flashback to their time in the camp, the games they played, and Lise’s strength, which Conrad did all he could to break. He did far more than follow orders.
 
-Much of what I said in <a href="https://boxd.it/3TKNU9" rel="nofollow">my review for <i>The Night Porter</i></a> applies here, although this movie never pretends to be arthouse like <i>The Night Porter</i> did. This movie is exploitation, presenting transgression as titillation for the buying audience. If you don’t see how this is pornography, may god bless you and continue to protect you.
+Much of what I said in <a href="https://boxd.it/3TKNU9" target="_blank" rel="noopener">my review for <i>The Night Porter</i></a> applies here, although this movie never pretends to be arthouse like <i>The Night Porter</i> did. This movie is exploitation, presenting transgression as titillation for the buying audience. If you don’t see how this is pornography, may god bless you and continue to protect you.
 
 For this cult movie category, I chose this movie because it’s on the Video Nasties list since I’ve committed to watching all of those for some stupid reason. Impressively, the UK still won’t allow a DVD release for this movie.
 

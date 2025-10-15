@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 9/31 | Countries 2/6 | Australia</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 9/31 | Countries 2/6 | Australia</a></b>
 
 Sara and Dave are arguing because Dave forgot it was Sara's birthday. They've been together for nearly nine years. We jump into the middle of several arguments — several focus on Dave growing up and Sara wanting love and respect. They break up after their last fight.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a></b>
 
 <blockquote><i>Are you talking to me? I don't understand what you're saying, but it sounds wonderful.</i></blockquote>
 

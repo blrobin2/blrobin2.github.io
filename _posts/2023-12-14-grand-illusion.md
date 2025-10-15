@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 42/52 | 1930s</b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 42/52 | 1930s</b>
 
 During World War I, Captain de Boëldieu (Pierre Fresnay) and Lieutenant Maréchal (Jean Gabin), two French pilots, go on a mission to rephotograph an area of enemy territory. Their current photo has a gray smear.
 

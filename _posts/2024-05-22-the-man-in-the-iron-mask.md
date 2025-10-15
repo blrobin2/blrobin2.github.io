@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 21/31 | James Whale</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 21/31 | James Whale</a></b>
 
 <b>Paris, 1638</b>
 Queen Anne, the wife of King Louis XIII, gives birth to two sons: Louis and Philippe. Louis XIV will become the heir to the throne. On Colbert’s advisement, the king sends Philippe to Gascony, where D’Artagnan will raise him in secret. In exchange, the king allows the people of Gascony to live there tax-free. Fouquet, a cardinal’s messenger, spies on the king’s advisors and blackmails them with knowledge of this second son to swindle his way into a higher position.

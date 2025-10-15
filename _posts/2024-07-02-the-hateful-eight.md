@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 27/52 | Ennio Morricone</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 27/52 | Ennio Morricone</a></b>
 
 Ennio Morricone’s contemplative score paints a snow-caked landscape with a sense of dread. Christ on the cross, his head encumbered by a snowdrift. Straight away, you sense an indulgence rare even for Tarantino as we meditate on this wooden cross for 4 minutes before a stagecoach rolls by. The carriage, driven by O.B. Jackson, races against an incoming blizzard as it drives to Red Rock, Wyoming.
 

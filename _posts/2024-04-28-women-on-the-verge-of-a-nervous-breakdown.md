@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 (Retroactive) | 1/52 | Year I Was Born (1988)</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 (Retroactive) | 1/52 | Year I Was Born (1988)</a></b>
 
 Ivan left Pepa, writing that he never wanted to see her again. Pepa mopes around the house, unsure of what to do.
 

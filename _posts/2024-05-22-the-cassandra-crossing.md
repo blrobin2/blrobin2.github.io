@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 21/52 | 70s Disaster</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 21/52 | 70s Disaster</a></b>
 
 <b>Geneva, Switzerland</b>
 An ambulance pulls up to the hospital. Two men wheel a man through narrow halls at the International Health Organization. At the US mission, a guard tells the men they're in the wrong area. The man on the stretcher pulls away his sheet to reveal a silenced pistol, which he used to shoot the guard.

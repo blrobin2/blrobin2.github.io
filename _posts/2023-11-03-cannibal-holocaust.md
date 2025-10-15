@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0">Hooptober 9.0</a> | 2/34 | Countries 2/6 | Columbia</b>
+<b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0" target="_blank" rel="noopener">Hooptober 9.0</a> | 2/34 | Countries 2/6 | Columbia</b>
 
 Four documentary filmmakers traveled to the Green Inferno, a part of the Amazon populated by cannibal tribes. They never came back.
 

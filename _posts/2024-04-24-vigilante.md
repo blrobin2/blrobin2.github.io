@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 21/32 | Bill Lustig</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 21/32 | Bill Lustig</a></b>
 
 <blockquote><i>I don't know about you guys, but me — I've had it up to here.</i></blockquote>Nick meets with a secret vigilante group who protect their neighborhoods. The police protect no one. The members train with handguns.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 39/52 | Fall Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 39/52 | Fall Horror</a></b>
 
 The early morning sky is cornflower and candy floss. A window is shattered at the school, with blood lining the broken edges. Inside, a trail of blood leads to a dying deer in the cafeteria. Later, kids arrive, and teachers lead the kids out as the police put the deer out of its misery. Allison watches through the door window as one officer holds the deer down and the other stomps on its head.
 

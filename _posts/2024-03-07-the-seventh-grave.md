@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 6/32 | film from before 1966 6/6</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 6/32 | film from before 1966 6/6</a></b>
 
 In Old Scotland, a horse-drawn carriage ambles along a muddied dirt road through an empty field, save for a farmhouse down the way. Yep, that's a horse-drawn carriage. After a minute of watching the carriage, it stops at the Rooster Inn. The coachman can tend to the horses, and the riders can grab a bite.
 

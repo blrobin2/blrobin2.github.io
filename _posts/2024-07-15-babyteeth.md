@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" title="Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene">Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" title="Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene</a></b>
 
 A baby tooth sinks to the bottom of a glass of water under an orchestral cover of The Stranglers' "Golden Brown."
 

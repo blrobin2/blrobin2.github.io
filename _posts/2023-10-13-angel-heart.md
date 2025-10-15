@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 15/34 | Devil-Centered 2/3</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 15/34 | Devil-Centered 2/3</b>
 
 <b>New York, 1955</b>
 

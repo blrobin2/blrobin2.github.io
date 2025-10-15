@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 8/32 | Decades 2/6 | 1940s</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 8/32 | Decades 2/6 | 1940s</a></b>
 
 Dr. Richard Marlowe (Bella Lugosi) kidnaps women so he can drain their essence and give it to his zombie wife. When one of his henchmen (John Carradine) takes one woman out of her case to play with, she escapes, drawing unwanted attention.
 

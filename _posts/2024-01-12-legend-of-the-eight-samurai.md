@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 2/52 | Kinji Fukasaku</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 2/52 | Kinji Fukasaku</a></b>
 
 Tamazusa and Motofuji lead an army to take a royal family whose cursed blood unleashes some power. Princess Shizu, however, has escaped.
 

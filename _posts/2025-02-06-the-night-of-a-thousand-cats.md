@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 40/52 | Made in a country with land between the Equator and the Tropic of Cancer by a director from that country (Mexico)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 40/52 | Made in a country with land between the Equator and the Tropic of Cancer by a director from that country (Mexico)</a></b>
 
 Watching the 60-minute US cut because I can't imagine a 90-minute version of this movie.
 

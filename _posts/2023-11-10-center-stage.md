@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 11/52 | Criterion Double Feature — Film 1</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 11/52 | Criterion Double Feature — Film 1</b>
 
 The film opens with an interview with Maggie Cheung, looking at black and white photos of Ruan Lingyu and reflecting on Ruan Lingyu’s legacy as an icon.
 

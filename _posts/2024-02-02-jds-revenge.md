@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW">Hooptober 8.0 | 32/34 | Bonus 1/3</a></b>
+<b><a href="https://boxd.it/pOvfW" target="_blank" rel="noopener">Hooptober 8.0 | 32/34 | Bonus 1/3</a></b>
 
 <i>1940s New Orleans</i>
 Through glossy reflection, we witness a hustler slice Betty Jo's throat in a meat freezer. JD, her brother, witnesses it, and someone comes to him thinking he did it. The murderer shoots JD in the chest.

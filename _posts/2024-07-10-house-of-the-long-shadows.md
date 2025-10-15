@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail">Hooptober 2.0 | 9/31 | Countries 4/5 | England</a></b>
+<b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 9/31 | Countries 4/5 | England</a></b>
 
 Kenneth Magee, a writer, touches down in the UK, meeting up with his publisher, Sam Allyson, for lunch. Kenneth sees a woman across the dining hall. Sam suggests love at first sight, but Kenneth doesn’t believe in such things. Sam pushes Kenneth to develop his talents and branch out into more passionate territory. Kenneth believes anyone could write a novel on par with Wuthering Heights nowadays. So much so that he makes a $20 thousand bet that, given a night in an isolated, atmospheric locale, he could write said novel in 24 hours. Sam suggests the old, abandoned Bllyddpaetwr Manor in Wales.
 

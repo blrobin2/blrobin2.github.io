@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 50/52 | Random number generator (#271)</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 50/52 | Random number generator (#271)</a></b>
 
 While sitting at Madame Bouche's restaurant, a man hands Max the newspaper. The newspaper details gold bars stolen last month and how the police have no clues. Max sits at a table with Riton, Riton's much younger girlfriend, Josy, and her friend Lola. Josy begs Max to see her and Lola's burlesque show. Madame Bouche tries to close the restaurant for Max and his crew, but Marco slips in. Max settles Marco's tab at Bouche's and reluctantly agrees to attend the show.
 

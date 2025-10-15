@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico">Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico" target="_blank" rel="noopener">Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico</a></b>
 
 Loretta Venus and Golden Rubi are two wrestlers and maybe Amazon women.
 

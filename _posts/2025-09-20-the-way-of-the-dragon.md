@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail" rel="nofollow">Cult Movie Challenge 2018 | 15/52 | Chuck Norris</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 15/52 | Chuck Norris</a></b>
 
 <blockquote><i> In this world of guns and knives, Tang Lung is respected wherever he goes.</i></blockquote>Tang Lung stands in a Roman airport. All the white people gawk at him. His stomach rumbles. He steps away and sits down in a restaurant. Unfortunately, the menu is all in English. He asks for 雞蛋 (eggs, which are on the menu), but the waitress doesn't understand him. So, he points to a random item and hopes for the best. It turns out to be a soup dinner for six. He tries to act like it was intentional and eats all of them. Finally, he finds the person who brought him here, Chen Ching-hua. He doesn't know exactly what she needs help with, but he assures her that he can help. She isn't confident.
 

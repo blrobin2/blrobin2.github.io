@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 4</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 4</a></b>
 
 An angel carrying an egg is sent to Earth to determine if humanity is worth saving. Meanwhile, Frank and Goose scavenge the irradiated land for supplies. But the earth is a cruel place, and survival is a game of luck.
 

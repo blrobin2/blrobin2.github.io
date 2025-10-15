@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 14/31 | Before 1970 1/5 | Decades 1/5 | 60s</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 14/31 | Before 1970 1/5 | Decades 1/5 | 60s</a></b>
 
 <blockquote><i>Be silent in that solitude,
    Which is not loneliness — for then

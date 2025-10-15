@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 35/52 | MST3K">Cult Movie Challenge 2016 | 35/52 | MST3K</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 35/52 | MST3K" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 35/52 | MST3K</a></b>
 
 The first <i>MST3K</i> I saw! A roommate in college had it on DVD, and he would say, "this is where the fish lives" out of context, and I was so lost. So he showed it to me (fast-forwarding through the "dumb segments"), and I've sought out <i>MST3K</i> and bad movies ever since!
 

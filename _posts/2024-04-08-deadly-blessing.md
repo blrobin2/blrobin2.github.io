@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" rel="nofollow">Cult Movie Challenge 2016 | 43/52 | Slasher</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 43/52 | Slasher</a></b>
 
 <b>I've heard of faith healers, but faith killers??</b>
 
@@ -23,7 +23,9 @@ That night, Jim finds the word "incubus" painted in his barn. He hears his tract
 
 At first, Martha and her friends believe it is William's doing and fear for their lives. But when they find William hanged, the mystery deepens.
 
-<blockquote><i>I swear, these boys eat brimstone for dinner.</i></blockquote>The film is structured like a slasher but does not kill folks off left and right. I mean, people die, but they also have strange experiences. Also, the atmosphere and unusual setting help this stand out from typical genre fare. 
+<blockquote><i>I swear, these boys eat brimstone for dinner.</i></blockquote>
+
+The film is structured like a slasher but does not kill folks off left and right. I mean, people die, but they also have strange experiences. Also, the atmosphere and unusual setting help this stand out from typical genre fare.
 
 Farms are the scariest setting I can imagine ("Oh yeah, what about hell?" says the contrarian in my head). Farms are disconnected from the outside world and full of cobwebs and nature.
 

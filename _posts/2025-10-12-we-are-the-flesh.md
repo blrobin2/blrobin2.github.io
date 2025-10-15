@@ -7,7 +7,7 @@ letterboxd_url: https://boxd.it/blWNKv
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober 12 | 12/31 | Mexican Director</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober 12 | 12/31 | Mexican Director</a></b>
 
 Mariano carries a stack of broken-down boxes. He fills a barrel with bags of bread he finds and ferments it to create gasoline. He breaks down the bread and seals the barrel. He chops up a table he finds for firewood. After an exchange of gas for eggs, he drops some acid and jams on a snare.
 

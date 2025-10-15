@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC">Cult Movie Challenge 2024 | 30/52 | Shinya Tsukamoto</a></b>
+<b><a href="https://boxd.it/rIGbC" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 30/52 | Shinya Tsukamoto</a></b>
 
 The first seconds of the movie immediately tell you that you are watching a Shinya Tsukamoto movie. Ten dudes stand equidistant in a boxing ring, performing choreographed punching and dodging. The camera shakes violently as it passes across each man. A fist punches the screen, creating a gory hole where the fist has presumably opened your skull.
 

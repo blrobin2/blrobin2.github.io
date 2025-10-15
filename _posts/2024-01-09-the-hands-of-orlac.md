@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 7/34 | Decades 1/8 | 20s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 7/34 | Decades 1/8 | 20s</a></b>
 
 Orlac is a famous pianist. His wife, Yvonne, goes to the train station to meet him upon returning from his tour. But Orlac's train collides with another.
 

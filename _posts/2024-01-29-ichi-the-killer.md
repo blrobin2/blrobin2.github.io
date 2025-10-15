@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 29/34 | Asian horror 2/3</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 29/34 | Asian horror 2/3</a></b>
 
 I watched the uncut 4K restoration
 

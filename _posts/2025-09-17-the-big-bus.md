@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>
 
-<b>Before there was <i>Airplane!</i>, there was <i>The Big Bus</i>.</b>
+<b>Before there was <i>Airplane!</i>, there was <i>The Big Bus</i>.</b>∏
 
 A man orders a Pepsi from a hot dog vendor just outside the Cyclops Nuclear Project site. And what is the Cyclops? It is the world's first nuclear-powered bus, which aims to make the first non-stop trip from New York City to Denver. The hot dog vendor looks in earnest at the bustle just beyond the gates. Guards check identification as people drive in and out. TV cameras, red ropes, and men in silver outfits — is it time for them to unveil the Cyclops?
 

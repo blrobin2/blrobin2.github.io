@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail" rel="nofollow">Hooptober 6.0 | 1/32 | film from before 1966 1/6</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 1/32 | film from before 1966 1/6</a></b>
 
 <i>CW // Suicide, Misogyny, Animal Cruelty</i>
 

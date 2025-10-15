@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 50/52 | Best of the Worst</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 50/52 | Best of the Worst</a></b>
 
 <b>1947</b>
 Robert Gimble comes home to find that his wife has left with their son, George. Enraged, he takes the daughter that they left behind, Laura. While driving, they hit a slick spot on the road, driving off a bank and knocking George unconscious. Laura, still awake, watches in horror as the car catches fire and consumes both of them.

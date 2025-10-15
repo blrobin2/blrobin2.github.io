@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 18/52 | Dreaming of a Holiday Movie Marathon</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 18/52 | Dreaming of a Holiday Movie Marathon</a></b>
 
 <b>Java 1942</b>
 John Lawrence is a British officer at a POW camp. Because he speaks fluent Japanese, he acts as an intermediary between the guards and the inmates.

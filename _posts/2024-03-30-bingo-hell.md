@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 29/32 | Mexican director</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 29/32 | Mexican director</a></b>
 
 Mario spins around his house, disheveled but joyous. He tells a portrait of his deceased wife, Patricia, that they're getting out — that he's sold the bingo hall. He goes to the dining room, pulls open a steaming tray, and begins gorging himself. They're bingo balls. He keeps eating until he chokes to death.
 

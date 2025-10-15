@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 16/52 | Taiwanese New Wave Cinema</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 16/52 | Taiwanese New Wave Cinema</a></b>
 
 Gao Wai-Tung's mother hurt her shoulder, so she records a tape of all the family updates to send to Wai-Tung in America. He listens to it while doing his gym routine. On the tape, his mother voices her desire for him to marry, and his father's desire for him to have a child. So, they enrolled Wai in a Taipei dating service. Little do they know that Wai-Tung is in a relationship with Simon — the two live together in Manhattan. Simon is frustrated because the two had planned a trip for months, but Wai cancelled at the last minute due to a sudden work obligation.
 

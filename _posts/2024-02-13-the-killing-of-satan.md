@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 21/52 | Asian Horror">Cult Movie Challenge 2016 | 21/52 | Asian Horror</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 21/52 | Asian Horror" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 21/52 | Asian Horror</a></b>
 
 Lando is an ex-convict trying to get his life right. But gang members kill Lando and his son David. God calls Lando's name and he comes back from the dead.
 

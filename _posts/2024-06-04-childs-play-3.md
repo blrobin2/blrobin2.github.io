@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 2/31 | Franchise 2/7</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 2/31 | Franchise 2/7</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 At the end of <i>Child’s Play 2</i>, we left Chuckie dead many times over — hand torn off, legs torn off, scorched in hot plastic, and head blown to smithereens. Andy and Kyle survived, walking off to some unknown future, leaving the devastated Play Pals factory in their wake.
 

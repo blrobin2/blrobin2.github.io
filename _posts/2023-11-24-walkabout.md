@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 24/52 | <a href="https://boxd.it/iYuVa">Alicia Malone's Closet Picks</a></b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 24/52 | <a href="https://boxd.it/iYuVa" target="_blank" rel="noopener">Alicia Malone's Closet Picks</a></b>
 
 A man drives his two children into the outback for a picnic. While the girl puts out the blanket and food, the boy plays with a toy gun.
 

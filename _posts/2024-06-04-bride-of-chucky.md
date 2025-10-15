@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail">Hooptober 3.0 | 3/31 | Franchise 3/7</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 3/31 | Franchise 3/7</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 At the end of <i>Child’s Play 3</i>, as with every Chucky movie thus far, Chucky is dead. Whereas the previous film took place in the mystical world of 1998 as seen in 1991, this movie takes place in the actual 1998, one month after the events of <i>Child’s Play 3</i>.
 

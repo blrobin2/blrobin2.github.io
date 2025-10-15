@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 51/52 | Essential Art House</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 51/52 | Essential Art House</a></b>
 
 <b>1827</b>
 We open on the bustling Boulevard du Temple,  where street performers of various sorts draw a crowd. A barker dressed as Pierrot draws a crowd to a curtain, behind which a beautiful woman stands nude, ready to haunt their dreams. The woman, named Garance, sits in a pool of water, gazing at her reflection in a handheld mirror. The customers, frustrated with how little they see, leave, and Garance gets off early.

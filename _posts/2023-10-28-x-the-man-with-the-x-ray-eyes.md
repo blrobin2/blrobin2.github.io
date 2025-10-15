@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 30/34 | ‘X’ in the title</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 30/34 | ‘X’ in the title</b>
 
 X Gonna Give It To Ya — by "it", I mean terrible headaches and visions beyond your comprehension.
 

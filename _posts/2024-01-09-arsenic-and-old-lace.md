@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 8/34 | Decades 2/8 | 40s">Hooptober 8.0 | 8/34 | Decades 2/8 | 40s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 8/34 | Decades 2/8 | 40s" target="_blank" rel="noopener">Hooptober 8.0 | 8/34 | Decades 2/8 | 40s</a></b>
 
 We start in a marriage license office, where theater critic and confirmed bachelor Mortimer Brewster is trying to marry Elaine Harper. That is if the press would get off his back.
 

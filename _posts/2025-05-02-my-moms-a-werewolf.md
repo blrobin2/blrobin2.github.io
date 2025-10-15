@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 33/52 | Crown International</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 33/52 | Crown International</a></b>
 
 Leslie struggles to carry the groceries, handle the dog, Marbo, and open the front door. She calls her daughter, Jennifer, to help, to no avail. She struggles to the back door, seeing Jennifer on the phone with her father and Leslie's husband, Howard. Jennifer puts Howard on speakerphone and lets Leslie in, who gives Howard a rundown of the night's vegetarian (again) dinner. Howard hears "seaweed quiche" and says he can't make dinner. He hangs up before Leslie can argue. Jennifer runs off, too, meeting Stacey at the horror and science fiction convention.
 

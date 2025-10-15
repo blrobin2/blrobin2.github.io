@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 40/52 | Kaiju</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 40/52 | Kaiju</a></b>
 
 <blockquote><i>And the Lord said, "I will destroy man whom I have created from the face of the earth, both man, and best, and the creeping thing, and the fowls of the air. For it repenteth me that I have made them."</i></blockquote>
 

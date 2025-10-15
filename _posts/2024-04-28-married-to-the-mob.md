@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/sWI7Y" rel="nofollow"><b>Birthday Year Challenge 5</b></a>
+<a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener"><b>Birthday Year Challenge 5</b></a>
 
 <b>Another Jonathan Demme movie where he uses Goodbye Horses</b>
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 20/34 | German Silent | Decades 7/8 | 1910s</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 20/34 | German Silent | Decades 7/8 | 1910s</b>
 
 Balduin is a poor university student but an expert swordsman. He befriends a weirdo dressed in black named Scapinelli.
 

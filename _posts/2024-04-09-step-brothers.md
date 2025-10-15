@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 15/52 | Buddy film, but the buddies aren't cops</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 15/52 | Buddy film, but the buddies aren't cops</a></b>
 
 Brennan and Dale are two adult men who live with their parents — a joke in 2008, a reality in 2024. When their single parents marry one another, the two become stepbrothers. The movie follows the ensuing antics as the two learn to hate one another less.
 

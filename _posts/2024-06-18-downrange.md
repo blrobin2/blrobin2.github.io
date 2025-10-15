@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 25/52 | Ryûhei Kitamura</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 25/52 | Ryûhei Kitamura</a></b>
 
 An SUV drives down a California highway. Todd and Sara give a ride to four folks — Jodi, Keren, Jeff, and Eric. Suddenly, a tire blows out, and they swerve to the side of the road. Everyone gets out to see what's happened. Jodi grows dizzy after bumping her head, so Jeff helps her into the backseat. Saran and Keren tend to her while Jeff grabs a baggy and some ice to make an ice pack.
 

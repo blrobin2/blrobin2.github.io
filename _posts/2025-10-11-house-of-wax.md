@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 41/52 | 50s Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 41/52 | 50s Horror</a></b>
 
 On a rainy night in turn-of-the-century New York City, we enter a window where a shadow holds up a kitchen knife. But as we move further in, we see that it is a wax figure. In fact, this brownstone is full of them, all sculpted by Professor Henry Jarrod. Matthew Burke, Jarrod's business partner, enters from the rainy night, complaining about the slow business, which is all because Jarrod won't create more exploitative exhibits for the "morbidly curious." Burke wants out, and Jarrod has Sidney Wallace, a wealthy art critic, coming to visit, who may be interested in buying Burke out.
 

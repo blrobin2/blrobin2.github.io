@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail#item-3630807379">Hooptober 8.0 | 17/34 | From birth year 2/2</a></b>
+<b><a href="https://boxd.it/pOvfW/detail#item-3630807379" target="_blank" rel="noopener">Hooptober 8.0 | 17/34 | From birth year 2/2</a></b>
 
 Vietnam soldier and ornithologist Fred Brown returns home after his tour. He finds his wife in bed with another man. Fred goes on a rampage, killing the man, his wife, and his parents. He also kills a hawk, which causes the hawk’s companion to descend, ripping one of Fred’s eyes out and blinding the other eye.
 

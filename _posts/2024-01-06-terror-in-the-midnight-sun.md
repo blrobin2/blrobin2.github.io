@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden">Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden" target="_blank" rel="noopener">Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden</a></b>
 
 I didn't intentionally choose a RiffTrax movie, but it's hard to turn down the opportunity
 

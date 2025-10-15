@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 6/34 | Countries 6/6 | Italy</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 6/34 | Countries 6/6 | Italy</a></b>
 
 <blockquote><i>To the almost deaf you have to shout; and to the almost blind, you have to write in very large letters.</i> — Flannery O'Connor</blockquote>
 

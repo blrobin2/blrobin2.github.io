@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 16/31 | Countries 1/5 | Spain</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 16/31 | Countries 1/5 | Spain</a></b>
 
 As a child, a family adopted Laura from Good Shepherd Orphanage. Thirty years later, Laura brings her husband, Carlos, and their son, Simón, to the now-closed orphanage. Laura intends to reopen it as a facility for children with disabilities.
 

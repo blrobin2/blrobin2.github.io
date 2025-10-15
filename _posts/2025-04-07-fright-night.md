@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail">Oh My Horror 2025 | 15/52 | 80s Horror</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 15/52 | 80s Horror</a></b>
 
 A full moon and a wolf's howl — Jonathan and Nina's voices carry out into the night. Jonathan comments on Nina's pale, luminescent beauty. Nina comments on Jonathan's beautiful neck. But before she can bite, Peter Vincent, a vampire killer, comes after her.
 

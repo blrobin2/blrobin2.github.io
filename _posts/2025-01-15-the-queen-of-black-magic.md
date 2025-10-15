@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hoop-Tober | 20/31 | Countries 5/5 | Indonesia</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 20/31 | Countries 5/5 | Indonesia</a></b>
 
 Hanif brings his wife, Nadya, and their three kids to visit Hanif's former caretaker from the orphanage where he grew up. On the road, Hanif hits something with his car. He thinks it's a deer but doesn't see the girl he hit lying in a trench.
 

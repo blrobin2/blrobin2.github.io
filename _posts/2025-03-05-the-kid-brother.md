@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 37/52 | Genre: Family</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 37/52 | Genre: Family</a></b>
 
 The wagon for Professor Powers Original Mammoth Medicine Show rides along the coast. The professor died, leaving his daughter Mary in charge of the medicine show. She didn't want to continue, but "Flash" Farrell persuaded her to carry on, taking the helm. They enter the town of Hickoryville, looking for who might agree to let them run their medicine show in the city. A local tells him it would be Sherrif Jim Hickory, but he isn't one for medicine shows.
 

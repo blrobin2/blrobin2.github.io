@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 2/52 | Hong Kong Film Awards Top 100 Films</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 2/52 | Hong Kong Film Awards Top 100 Films</a></b>
 
 <blockquote><i>My hair had hardly covered my forehead.<br>
 I was picking flowers, playing by my door,<br>

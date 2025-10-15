@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 23/52 | Euro Crime</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 23/52 | Euro Crime</a></b>
 
 It's the 1930s. Eve walks into her apartment. On her bed, she sees burn marks. Pulling back the sheets, she finds the outline of a person made from the burn marks. Three men leave the shadows and break a picture on an end table. They're looking for the man in the photo named Noodles. When Eve answers that she doesn't know, they shoot her. The men continue their search, beating Fat Moe bloody. Fat Moe gives up Noodle's location: Chun Lo's Chinese theatre, which has an opium den in the back.
 

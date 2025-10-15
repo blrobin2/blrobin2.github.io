@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 8/32 | Anniversary Film 7/10 | Decades 6/6 | 40s</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 8/32 | Anniversary Film 7/10 | Decades 6/6 | 40s</a></b>
 
 Mifanwy Conway wakes up to a startling laugh. Her husband asks her if she’s alright.
 

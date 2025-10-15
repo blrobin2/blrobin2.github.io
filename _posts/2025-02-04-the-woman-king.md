@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 37/52 | Edited by Terilyn A. Shropshire</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 37/52 | Edited by Terilyn A. Shropshire</a></b>
 
 <b>West Africa 1823</b>
 

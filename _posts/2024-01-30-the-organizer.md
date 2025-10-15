@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 5/52 | Most recently added film in your watchlist</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 5/52 | Most recently added film in your watchlist</a></b>
 
 <b>Class conscious or class clown? Why not both?</b>
 

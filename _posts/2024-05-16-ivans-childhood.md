@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 12/52 | Genre: War</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 12/52 | Genre: War</a></b>
 
 <blockquote><i>Can't you understand, silly? War is not for you.</i></blockquote>Ivan, a 12-year-old boy, looks through a spider web. The world around him is serene — trees scatter the landscape and animals nest. He rises in the air and flies over the countryside. When he lands, he sees his mother.
 

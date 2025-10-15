@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm/detail" rel="nofollow">Asian Cinema Challenge 2023 | 11/52 | Samurai Cinema</a></b>
+<b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 11/52 | Samurai Cinema</a></b>
 
 <blockquote><i>During the powerful Tokugawa regime in Edo (present-day Tokyo), there were 264 lords or daimyo. These feudal lords ruled their clans and the people under them. This story took place in one of these clans in 1725.</i></blockquote>Far above, we see the peaking roof of the Aizu Clan Domain — intricate and harmonious. The sword of Isaburo blurs in and out of focus as the focus shifts to Isaburo standing behind it, considering his move. His rival Tatewaki watches as he deftly makes one cut through the straw figure, proving the mettle of the sword of his daimyo, Masakata Matsudaira. As Isaburo and Tatewaki walk, Isaburo laments his loveless marriage of twenty years to Suga and voices his longing for his elder son, Yogoro, to meet someone who will be strong and loving.
 

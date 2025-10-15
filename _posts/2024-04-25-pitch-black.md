@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 23/32 | Flying Thing that Kills You 2/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 23/32 | Flying Thing that Kills You 2/2</a></b>
 
 It’s the future, baby. A civilian ship is carrying 40-plus folks in cryostasis, including a convict named Richard B. Riddick. His surgically-altered eyes see in the dark but cannot bear light. He’s also a self-proclaimed “animal,” so cryostasis doesn’t work on him.
 

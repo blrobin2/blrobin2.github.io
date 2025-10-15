@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/BQGCY/detail" rel="nofollow">Oh My Horror 2025 | 36/52 | Zombies</a></b>
+<b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 36/52 | Zombies</a></b>
 
 On September 30th, Tom Corman sits at his typewriter, writing a byline for the local paper about a strange occurrence that has changed everything.
 

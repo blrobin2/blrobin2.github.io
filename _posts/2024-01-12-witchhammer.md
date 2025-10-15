@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 11/34 | Folk Horror 2/2</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 11/34 | Folk Horror 2/2</a></b>
 
 The credits open over Goya's etching "The Sleep of Reason Produces Monsters."
 

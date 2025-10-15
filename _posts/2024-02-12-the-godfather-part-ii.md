@@ -9,6 +9,6 @@ rifftrax: false
 category: movie-review
 ---
 
-<a href="https://boxd.it/qBmUY/detail" rel="nofollow"><b>Anti-Criterion Challenge 2024 | 7/52 | 1970s</b></a>
+<a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener"><b>Anti-Criterion Challenge 2024 | 7/52 | 1970s</b></a>
 
 I thought his name was Don

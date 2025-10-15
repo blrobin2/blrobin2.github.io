@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 36/52 | Documentary about Africa by an African director</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 36/52 | Documentary about Africa by an African director</a></b>
 
 Asmae El Moudier works with her father, Mohamed, to create a miniature recreation of the street she grew up on in the Sebata district of Casablanca. Using the set, she recreates memories from her childhood perspective while folding in stories she learns from her family. The story begins with a lie her grandmother Zahra told the family: that taking a photograph is a sin.
 

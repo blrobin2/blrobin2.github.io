@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 21/34 | Set in the Woods</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 21/34 | Set in the Woods</a></b>
 
 <blockquote><i>You know what's going to happen? They're gonna rape this whole goddamn landscape. They're gonna rape it.</i></blockquote>
 

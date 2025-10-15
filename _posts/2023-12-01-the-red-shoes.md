@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a></b>
+<b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10" target="_blank" rel="noopener">Allison Anders's Top 10</a></b>
 
 <blockquote><i>It's undeniably some kind of masterpiece. But what kind?</i> — Pauline Kael on <i>The Red Shoes</i></blockquote>
 

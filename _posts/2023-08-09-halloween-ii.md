@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pTT2i/detail">Halloween: Ranked</a></b>
+<b><a href="https://boxd.it/pTT2i/detail" target="_blank" rel="noopener">Halloween: Ranked</a></b>
 
 <blockquote><i>I'm not me</i></blockquote>Haunted by the lingering effects of her experience, Laurie dreams through her brother's eyes, only learning through Loomis's book that she is Michael Myer's sister
 

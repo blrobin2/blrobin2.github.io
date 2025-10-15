@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 3/52 | Anime</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 3/52 | Anime</a></b>
 
 <blockquote><i>The wind rises, we must try to live. — Paul Valéry</i></blockquote>
 

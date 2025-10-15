@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 21/52 | LGBTQ+</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 21/52 | LGBTQ+</a></b>
 
 <b>Liverpool, 1950s</b>
 After the opening credits, the 20th Century Fox fanfare plays as we tilt down a brick wall. The camera shows a sign for Kensington Street and a worn poster before pulling away to the street.

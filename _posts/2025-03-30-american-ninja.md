@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 16/52 | The Cannon Group</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 16/52 | The Cannon Group</a></b>
 
 In the Phillippines, Private Joe Armstrong, a new US Army recruit and nonconformist, drives a military convoy to escort Patricia Hickock, daughter of Colonel Hickock. Down the way, a construction crew forces them to pull over. Armed hijackers emerge from the woods and overtake the convoy. They force Private Madison's head through a window. Armstrong's expression doesn't change. Patricia steps out to complain, and one of the armed men smacks her. Armstrong is ready to kill. Patricia races off to escape but accidentally overturns the car. Armstrong pulls out some punches and kicks. The US soldiers break from their captors and throw punches.
 

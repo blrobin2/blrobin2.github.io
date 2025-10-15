@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail">Cult Movie Challenge 2024 | 1/52 | Anime</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 1/52 | Anime</a></b>
 
 Two cyborgs wake up on Earth with no memories. They react just like anyone else would in that situation. They go on a crime spree. The cops catch them and send them to a moon prison called Dead Leaves.
 

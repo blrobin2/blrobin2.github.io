@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 31/52 | Directed by an Indigenous director whose work you haven’t seen before</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 31/52 | Directed by an Indigenous director whose work you haven’t seen before</a></b>
 
 <blockquote><i>Every summer, Gaaxuustaa ‘Laana paddle south to live alongside their relatives, the Tllda Gawaay Kii Gawaay family. Together, they prepare food for winter.</i></blockquote>
 

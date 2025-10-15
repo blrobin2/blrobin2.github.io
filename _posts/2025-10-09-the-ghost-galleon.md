@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 7/31 | Countries 5/6 | Spain | Zombie 5/5</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 7/31 | Countries 5/6 | Spain | Zombie 5/5</a></b>
 
 After a photoshoot, swimsuit model Noemi speaks with model agency director Lillian about the whereabouts of Noemi's roommate and fellow model, Kathy. Lillian reluctantly brings Noemi to Howard Tucker, the sporting goods magnate, who tells Noemi that they intentionally stranded Kathy on a boat as part of a publicity stunt with fellow model Lorena.
 

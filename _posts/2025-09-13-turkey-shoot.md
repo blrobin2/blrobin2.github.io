@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 12/52 | Ozploitation</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 12/52 | Ozploitation</a></b>
 
 <blockquote><i>Freedom is obedience. Obedience is work. Work is life.</i></blockquote>
 
@@ -21,7 +21,7 @@ Eventually, we meet Thatcher's accomplices and learn of a yearly hunt called the
 
 <blockquote><i>Disobedience is treason. Treason is a crime. Crime will be punished.</i></blockquote>
 
-Like director Brian Trenchard-Smith's <i><a href="https://boxd.it/8FcB55">Dead-End Drive-In</a></i>, the film spends much of its already brief runtime idling, attempting to say something about abusive power structures but never finding the precision necessary to say anything meaningful.
+Like director Brian Trenchard-Smith's <i><a href="https://boxd.it/8FcB55" target="_blank" rel="noopener">Dead-End Drive-In</a></i>, the film spends much of its already brief runtime idling, attempting to say something about abusive power structures but never finding the precision necessary to say anything meaningful.
 
 That said, I'm not sure the approach to this movie was all that serious to begin with. The filmmakers clearly tried to think of as many oddball tortures and means of killing people. For example, Thatcher puts Paul on a scale where the weight on one end keeps a rock from crushing him, but they slowly remove weights, forcing Paul to hold up the rock himself. Also, there's a wolf man?? He rips off a dude's toe. And there's a woman who is in horse-riding attire, just hunting on horseback?
 

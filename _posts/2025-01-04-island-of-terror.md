@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRQY0/detail">Hooptober | 12/31 | Terence Fisher 2/5</a></b>
+<b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hooptober | 12/31 | Terence Fisher 2/5</a></b>
 
 On Petrie's Island, a fictional island off the coast of Ireland, Dr. Lawrence Phillips receives a shipment from the mainland. Dr. Phillips believes he has a cure for cancer and is carrying it out despite lacking the clearance to do so. He spends all his time in his secluded castle lab, so the other islanders can only speculate about his activities.
 

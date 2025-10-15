@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" rel="nofollow">Cult Movie Challenge 2024 | 24/52 | Lucha Libre</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 24/52 | Lucha Libre</a></b>
 
 Capulina is a nightwatchman for a postal warehouse for unclaimed packages. His boss chastises him for falling asleep on the job, and Capulina promises he would never do that.
 

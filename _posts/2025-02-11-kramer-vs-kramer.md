@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail">Anti-Criterion Challenge 2024 | 43/52 | Title formatted as X vs. X</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 43/52 | Title formatted as X vs. X</a></b>
 
 Joanna Kramer tells her seven-year-old son Billy that she loves him, running her hands through his hair as he falls asleep. She grabs a bag from the closet and packs some of her clothes. She sits on the couch and smokes until Ted gets home.
 

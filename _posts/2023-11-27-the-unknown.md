@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY/detail">Hooptober 9.0</a> | 30/34 | Lon Chaney</b>
+<b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 30/34 | Lon Chaney</b>
 
 Alonzo the Armless (Lon Chaney) is a circus freak in a Romani circus who throws knives and fires rifles using his feet. Nanon (Joan Crawford), his partner, receives unwanted advances from a fellow circus act, Malabar the strongman (Norman Kerry). She confides in Alonzo since he has no arms to hold her, but he also wants her.
 

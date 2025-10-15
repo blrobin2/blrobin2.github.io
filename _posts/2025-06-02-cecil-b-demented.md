@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail" rel="nofollow">Cult Movie Challenge 2017 | 44/52 | John Waters</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 44/52 | John Waters</a></b>
 
 Ah, Baltimore, the city of stars. We all recognize its iconic skyline. Honey Whitlock, that lovable ingenue, stars in the upcoming romcom Some Kind of Happiness, which is premiering in Baltimore, so Whitlock is in town. But what Baltimore doesn't know is that Whitlock is a diva. Little does Honey know that, among the hotel and theater staff, is a group of underground filmmakers armed with guns and explosives. They kidnap Honey to force her to star in their movie.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail" rel="nofollow">Hooptober 8.0 | 18/34 | Haunted House 1/2</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 18/34 | Haunted House 1/2</a></b>
 
 <blockquote><i>Whatever hour you woke there was a door shutting</i> — Virginia Woolf, A Haunted House</blockquote>A car wreck. C's bleeding head against the steering wheel. A sheet is pulled back in a hospital room for M to identify the body. M says her goodbyes, covers C's body, and leaves.
 

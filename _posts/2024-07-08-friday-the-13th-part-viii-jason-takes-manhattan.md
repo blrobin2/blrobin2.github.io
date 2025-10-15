@@ -9,7 +9,7 @@ rifftrax:
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 4/31 | Franchise 4/5">Hooptober 2.0 | 4/31 | Franchise 4/5</a></b>
+<b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 4/31 | Franchise 4/5" target="_blank" rel="noopener">Hooptober 2.0 | 4/31 | Franchise 4/5</a></b>
 
 <blockquote><i>It's like this — we live in claustrophobia, a land of steel and concrete, trapped by dark waters. There is no escape, nor do we want to. We've come to thrive on it and each other. You can't get the adrenaline pumping without the terror, good people. I love this town.</i></blockquote>
 Ah, Manhattan. Land of punks and robbers. Rats bathe in sewer water while junkies heat their spoons by candlelight.

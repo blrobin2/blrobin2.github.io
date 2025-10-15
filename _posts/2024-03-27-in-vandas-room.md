@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 13/52 | Virtually Reality</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 13/52 | Virtually Reality</a></b>
 
 In <i>Ossos</i>, Pedro Costa created a fictional story in the Fontainhas district of Lisbon. Vanda Duarte was one of the principal cast members.
 

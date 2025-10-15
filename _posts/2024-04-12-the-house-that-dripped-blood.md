@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7ygw/detail">Cult Movie Challenge 2016 | 46/52 | Amicus</a></b>
+<b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 46/52 | Amicus</a></b>
 
 Film star Paul Henderson (John Pertwee) rents an old country house. After he mysteriously disappears, Inspector Holloway learns the dark history of the house.
 

@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 24/31 | Tom Holland</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 24/31 | Tom Holland</a></b>
 
-<b><a href="https://boxd.it/w2ybq">Rank of Chucky</a></b>
+<b><a href="https://boxd.it/w2ybq" target="_blank" rel="noopener">Rank of Chucky</a></b>
 
 Detective Mike Norris chases notorious serial killer Charles Lee Ray through the streets of Chicago. Ray’s accomplice, Eddie, drives off and leaves Ray behind. Wounded by a gunshot, Ray hobbles into Playland Toys to hide. The Good Guy talking doll is displayed prominently on the shelves, a child-sized redhead in overalls, with a ventriloquism dummy mouth.
 

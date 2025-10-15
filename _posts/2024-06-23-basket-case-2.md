@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNoI/detail" rel="nofollow">Hooptober 3.0 | 22/31 | Frank Henenlotter</a></b>
+<b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 22/31 | Frank Henenlotter</a></b>
 
 At the end of <i>Basket Case</i>, formerly conjoined twins Duane and Belial fell from a window of the Broslin Hotel. The two fell onto the pavement.
 

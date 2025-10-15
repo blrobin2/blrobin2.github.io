@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q9zuy/detail">Cult Movie Challenge 2018 | 6/52 | Video Nasties</a></b>
+<b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 6/52 | Video Nasties</a></b>
 
 A hand lights a gas stove. Cut to a furnace burning in a factory. Donny watches the furnace churn before a coworker, Ben, shuts it to protect his eyes. In another stove is a flammable, pressurized canister. Ben stokes the fire, causing the canister to explode, setting Ben on fire. Donny stares in horrified fascination, unable to move, as other workers rush in to put out the fire, yelling at Donny for doing nothing. Donny mumbles something about the cover of the flame protecting Ben.
 

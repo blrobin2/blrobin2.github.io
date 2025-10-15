@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 26/52 | Hong Kong Cinema">Criterion Challenge 2024 | 26/52 | Hong Kong Cinema</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 26/52 | Hong Kong Cinema" target="_blank" rel="noopener">Criterion Challenge 2024 | 26/52 | Hong Kong Cinema</a></b>
 
 It's night in Hong Kong, and neon lights the streets. Tequila pours himself a vodka soda, slams the glass on the table to fizz it up, and takes it down in one gulp. As he smiles, he exhales cigarette smoke and picks up his clarinet. He's on stage at The Jazz Club, playing in a four-piece band, including Benny. At night, they're jazz musicians. During the day, they are HKPF on a Special Forces team.
 

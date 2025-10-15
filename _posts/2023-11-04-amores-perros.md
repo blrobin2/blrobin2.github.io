@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 6/52 | Animals in the Collection</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 6/52 | Animals in the Collection</b>
 
 <b>This is what it sounds like when dogs fight.</b>
 

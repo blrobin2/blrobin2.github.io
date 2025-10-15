@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 19/52 | USA Up All Night">Cult Movie Challenge 2024 | 19/52 | USA Up All Night</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 19/52 | USA Up All Night" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 19/52 | USA Up All Night</a></b>
 
 <blockquote><i>The popcorn you're eating has been pissed in. Film at 11.</i></blockquote>
 With that cold open, we enter the film's disconnected and zany world. From news reports to exploitation, the movie is a collection of spoofs and satirical renditions of pop culture media.

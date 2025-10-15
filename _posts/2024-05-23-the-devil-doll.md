@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail">Hooptober 4.0 | 22/31 | Tod Browning</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 22/31 | Tod Browning</a></b>
 
 A spotlight shines out from a prison tower on Devil's Island. A guard stands by on a turret, ready to shoot if necessary. Guards guide dogs through the marshy jungle. Paul and Marcel push on, discussing what awaits them when they escape.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q">Criterion Challenge 2023</a> | 9/52 | Black Lives Collection</b>
+<b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 9/52 | Black Lives Collection</b>
 
 <blockquote><i>That morning, I went to the square as usual. The others were there, and I sat down on the curb, as I did every day, to wait for destiny.</i></blockquote>
 

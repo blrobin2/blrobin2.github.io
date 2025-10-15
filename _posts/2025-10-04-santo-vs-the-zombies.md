@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 3/31 | Countries 2/6 | Mexico | Decades 2/9 | 1960s | Zombie 2/5</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 3/31 | Countries 2/6 | Mexico | Decades 2/9 | 1960s | Zombie 2/5</a></b>
 
 El Santo is a masked luchador and hero to the Mexican people. We open on one of his real-life wrestling matches, with him fighting against a tag team. After the opening credits, we see a crowd carrying him into the ring, and people line up to get his autograph. The camera moves inside the ring, providing a closer perspective on the match. The challenger against El Santo is Black Shadow (Sombras). In the crowd is El Santo's biggest fan, Lt. Sanmartin.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail" rel="nofollow">Criterion Challenge 2022 | 18/52 | Directed by Wong Kar-wai</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 18/52 | Directed by Wong Kar-wai</a></b>
 
 <blockquote><i>You can act happy, but your voice will tell the truth</i></blockquote>Ho Po-Wing and Lai Yiu-Fai, two on-again, off-again boys, go on a trip to Argentina to try and start over. But things go from bad to worse, and the relationship becomes abusive. Can they address their jealousy? Can Po-Wing stop fucking other boys?
 

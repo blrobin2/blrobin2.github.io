@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 2/34 | Countries 2/6 | Spain</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 2/34 | Countries 2/6 | Spain</a></b>
 
 Marcos works as a butcher in a slaughterhouse. The film opens with graphic footage of workers stringing up cows and draining their blood, bit by bit, into buckets. While this happens, Marcos stands outside eating a sandwich.
 

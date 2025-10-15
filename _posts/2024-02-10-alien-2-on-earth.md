@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 9/32 | 2nd film in franchise 1/7 | Decades 3/6 | 1980s</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 9/32 | 2nd film in franchise 1/7 | Decades 3/6 | 1980s</a></b>
 
 An astronaut crew returns to Earth after a mission into deep space. A film studio prepares stock footage in case something goes wrong.
 

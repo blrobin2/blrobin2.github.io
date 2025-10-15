@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 19/34 | LGBTQ+ connected | Decades 5/8 | 70s</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 19/34 | LGBTQ+ connected | Decades 5/8 | 70s</b>
 
 Janet and her visibly gay boyfriend, Brad, watch two friends get married. He does what he’s supposed to do and proposes to her.
 

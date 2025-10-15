@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" title="Hooptober X">Hooptober X</a> | 34/34 | Bonus 3/3</b>
+<b><a href="https://boxd.it/pmi12" title="Hooptober X" target="_blank" rel="noopener">Hooptober X</a> | 34/34 | Bonus 3/3</b>
 
 Lucy (Brooke Markham) and Karen (VyVy Nguyen) go to an abandoned camp to wait for the full moon. Lucy has a wound on their forearm. While waiting, they dig through crap in Karen’s car, such as a trapper keeper full of spells and a gun. You know, for when Lucy turns into a werewolf.
 

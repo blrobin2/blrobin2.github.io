@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 11</a></b>
+<b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 11</a></b>
 
 <blockquote><i>Deep in the subterranean bowels of General Hospital lies the secret laboratory of Dr. Bob Frankenstein</i></blockquote>
 

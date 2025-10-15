@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 41/52 | Starring Catherine Deneuve</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 41/52 | Starring Catherine Deneuve</a></b>
 
 Séverine Serizy and her husband, Dr. Pierre Serizy, ride arm-in-arm in the back of a horse-driven carriage. The two love one another, but Pierre thinks Séverine is frigid. When the carriage reaches a place with sufficient covering, Pierre demands the carriage stop and Séverine get out. When she resists, the carriage drivers assist in pulling her out, taking her to the woods, where they bound her mouth, tie her up, and rip open her dress. The cabbies whip her with the horse whips before Pierre allows them to have their way with her.
 

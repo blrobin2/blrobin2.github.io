@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 46/52 | Steven Segal</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 46/52 | Steven Segal</a></b>
 
 It's 5 AM near Trieste, Italy. Lieutenant Colonel Austin Travis leads a US Special Forces Counterterrorist Strike Team on a Chechen mafia safe house. Their objective is to recover a stolen Soviet nerve toxin called DZ-5. Travis runs in with a bowie knife, stabbing Chechen dudes in the neck. His team follows close behind. When the team reaches the demarcated location, they find the room empty. In case it wasn't clear, the text comes on the screen to tell us that the team did not recover the DZ-5.
 

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail">Hooptober 7.0 | 15/32 | 2nd film in franchise 7/7 | Body Horror 1/4</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 15/32 | 2nd film in franchise 7/7 | Body Horror 1/4</a></b>
 
 A finger gun pointed at a guy in a tunnel. The finger gun goes off, killing the man. It's Yatsu. His heart is metal, connected by vacuum tubes.
 

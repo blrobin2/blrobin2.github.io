@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 30/34 | Asian horror 3/3 | Decades 8/8 | 60s</a></b>
+<b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 30/34 | Asian horror 3/3 | Decades 8/8 | 60s</a></b>
 
 A pool full of human parts — replicas. A psychiatrist can create fingers, faces, or anything requested.
 

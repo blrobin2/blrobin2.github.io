@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail" rel="nofollow">Criterion Challenge 2024 | 8/52 | Martin Scorsese's World Cinema Project</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 8/52 | Martin Scorsese's World Cinema Project</a></b>
 
 <blockquote><i>A rosy dream can't bloom in late Autumn when frost forms.</i></blockquote>On a rainy evening, the Kim sits together inside — the children, Chang-soon and Ae-soon, play with a string figure, the mother (unnamed) sews, and the father, Dong-sik, reads the newspaper. He shows his wife the headline about a man sleeping with his housemaid. She is dismissive of why someone would fall for a maid. He argues that the maid is what holds the house together.
 

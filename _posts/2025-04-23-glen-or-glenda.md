@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 30/52 | Psychotronic Encyclopedia</a></b>
+<b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 30/52 | Psychotronic Encyclopedia</a></b>
 
 <blockquote><i>In the making of this film, which deals with a strange and curious subject, no punches have been pulled—no easy way out has been taken. Many of the smaller parts are portrayed by persons who actually are, in real life, the characters they portray on the screen. This is a picture of stark realism—taking no sides—but giving you all the facts—All the facts—as they are today…. You are society—JUDGE YE NOT…..</i></blockquote>
 

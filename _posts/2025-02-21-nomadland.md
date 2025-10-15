@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qBmUY/detail" rel="nofollow">Anti-Criterion Challenge 2024 | 49/52 | Made in Georgia (US State)</a></b>
+<b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 49/52 | Made in Georgia (US State)</a></b>
 
 <blockquote><i>On January 31, 2011, due to reduced demand for sheetrock, US Gypsum shut down its plant in Empire, Nevada, after 88 years. By July, the Empire zip code, 89405, was discontinued.</i></blockquote>Fern opens a storage locker containing her belongings. She looks at them briefly before loading them up in her van. Fern finds a denim coat that belonged to her husband and holds it close. She pays off the locker and hits the snow-covered roads, stopping at Desert Rose R.V. Park, where she'll stay in her van under the Amazon CamperForce program while working for Amazon during their peak winter season.
 

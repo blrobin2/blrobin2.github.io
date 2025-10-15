@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOK5i/detail" rel="nofollow">Hooptober 7.0 | 14/32 | 2nd film in franchise 6/7 | Decades 5/6 | 1990s</a></b>
+<b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 14/32 | 2nd film in franchise 6/7 | Decades 5/6 | 1990s</a></b>
 
 Five years after the events of <i>The Slumber Party Massacre</i> (and kinda sort of <i>Sorority House Massacre</i>), five women buy the same sorority house. They stay overnight to meet the movers and begin renovating in the morning.
 

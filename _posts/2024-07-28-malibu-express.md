@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
+<b><a href="https://boxd.it/xqceO" target="_blank" rel="noopener">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
 <blockquote><i>Cody, we heard you’re a private investigator, and we wondered if you’d investigate our privates.</i></blockquote>
 

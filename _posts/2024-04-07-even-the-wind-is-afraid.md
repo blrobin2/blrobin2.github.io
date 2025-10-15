@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 6/32 | Anniversary Film 5/10 | Countries 5/6 | Mexico | Decades 4/6 | 60s</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 6/32 | Anniversary Film 5/10 | Countries 5/6 | Mexico | Decades 4/6 | 60s</a></b>
 
 The wind roars outside. In its whispers, a voice calls out to Claudia. Claudia wakes up to see someone hanging from her ceiling. The wind blows her windows open.
 

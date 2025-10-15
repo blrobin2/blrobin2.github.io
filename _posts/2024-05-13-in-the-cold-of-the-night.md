@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 20/52 | Shannon Tweed">Cult Movie Challenge 2024 | 20/52 | Shannon Tweed</a></b>
+<b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 20/52 | Shannon Tweed" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 20/52 | Shannon Tweed</a></b>
 
 Scott Bruin is an LA photographer. Like every photographer, he's also secretly fucking his models. He tells lightbulb jokes while they fuck, which makes any woman horny.
 

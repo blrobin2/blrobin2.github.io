@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 30/32 | Tobe Hooper</a></b>
+<b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 30/32 | Tobe Hooper</a></b>
 
 A meteor shower flies across the sky. George Gardner and his son David lay out in the yard, stargazing. Helen comes out to put David to bed. David talks of becoming an astronaut when he grows up, and his father eagerly encourages it.
 

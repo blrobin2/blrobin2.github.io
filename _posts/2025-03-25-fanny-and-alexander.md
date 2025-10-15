@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 47/52 | 1980s</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 47/52 | 1980s</a></b>
 
 "Not for pleasure alone," reads the sign above the toy stage. Alexander draws up its backdrops to play with the paper characters, lighted by a row of candles. He calls for his sister, Fanny, and his mother, wandering the seemingly empty house. He falls asleep under a table as the clock chimes 3. A statue in the corner comes to life, dancing.
 
@@ -25,6 +25,6 @@ I related most to Alexander's experience when he was under the bishop's care. Th
 
 The scene with the chest—wow, what a moment. I've thought about it often.
 
-<a href="https://boxd.it/5eCrqd">I watched the miniseries version of this a little over a year ago</a>. The curious viewer may find the total experience of the movie lacking precisely because the film removes some of the careful textures and relationships to arrive at a manageable runtime. Then again, these may just be things I notice because I've seen the full version. The parts I connected to the most from the miniseries were Alexander's flights of fancy, which are only represented here in the tiniest way.
+<a href="https://boxd.it/5eCrqd" target="_blank" rel="noopener">I watched the miniseries version of this a little over a year ago</a>. The curious viewer may find the total experience of the movie lacking precisely because the film removes some of the careful textures and relationships to arrive at a manageable runtime. Then again, these may just be things I notice because I've seen the full version. The parts I connected to the most from the miniseries were Alexander's flights of fancy, which are only represented here in the tiniest way.
 
 So, while this is still a tremendous film, I prefer the full-length version. That said, despite the title, neither gives much attention to Fanny.

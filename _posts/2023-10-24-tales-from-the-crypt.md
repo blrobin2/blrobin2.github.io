@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12" rel="nofollow">Hooptober X</a> | 26/34 | Peter Cushing 2/2</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 26/34 | Peter Cushing 2/2</b>
 
 Five strangers on a tour enter a crypt, unsure of what compelled them, and encounter the Crypt Keeper (Ralph Richardson). One by one, he shows them each how they die.
 

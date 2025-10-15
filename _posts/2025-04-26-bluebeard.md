@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q4PJa/detail">Criterion Challenge 2022 | 40/52 | Animation Before the 2000s</a></b>
+<b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 40/52 | Animation Before the 2000s</a></b>
 
 Lord Bluebeard, with that beard and mustache, freaks folks out. But that's not the reason they despise him. They all suspect Bluebeard is killing his wives.
 

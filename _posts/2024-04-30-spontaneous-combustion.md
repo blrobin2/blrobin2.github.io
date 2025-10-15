@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail" rel="nofollow">Hooptober 5.0 | 29/32 | Tobe Hooper 1/2</a></b>
+<b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 29/32 | Tobe Hooper 1/2</a></b>
 
 <b>Nevada Desert 1955</b>
 At a hydrogen bomb testing site, “I Don’t Want to Set the World On Fire” by The Ink Spots plays as Brian and Peggy strap into their test harnesses. They are twenty feet below ground level in an underground bunker, testing its efficacy during an atomic bomb.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 35/52 | Tunde Adebimpe’s Top 10</a></b>
+<b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 35/52 | Tunde Adebimpe’s Top 10</a></b>
 
 <blockquote><i>I don't know if it's a liability or an asset because sometimes I feel like I'm three or four different people. I want to paint a while, and it just burn within me just to paint, paint, paint, paint. Then that cools off, and then I wanna play my music, you know. That cool off, I wanna write poetry. I wanna do this. I wanna do something else. Actually, I feel like Dr. Jekyll and Mr. Hyde.</i></blockquote>
 

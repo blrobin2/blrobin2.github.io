@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 20/34 | De Palma</b>
+<b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 20/34 | De Palma</b>
 
 Some astronauts have a BBQ before going on a big Mars mission.
 

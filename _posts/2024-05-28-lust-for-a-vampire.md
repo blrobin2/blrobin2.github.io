@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRNg0/detail" rel="nofollow">Hooptober 4.0 | 27/31 | people eating people (non-zombie) 3/3</a></b>
+<b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 27/31 | people eating people (non-zombie) 3/3</a></b>
 
 A black carriage kidnaps a barmaid on her way home. It brings her to the Karnstein castle, vacant for the past 40 years. There, a woman in a black cloak and a poor imitation of Christopher Lee perform a ritual, draining blood from the barmaid and pouring it over a long-dead corpse. With an incantation to Satan, the body glows and returns to life, once more human.
 
