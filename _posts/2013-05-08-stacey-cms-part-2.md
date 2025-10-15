@@ -11,11 +11,11 @@ PS - I wrote that relative link to another page in the site by including the tex
 
 If you're coming back to this, you may notice some small style changes (bigger font sizes and different fonts). These are simple changes to improve readability. You're welcome to do the same by jumping into the public/docs/css folder, and updating the screen.css. But don't go through just changing stuff all willy-nilly, especially if you're still learning CSS. I don't think this is the best-written CSS, but it does things and if you don't know what it does, you might want to try it out. For example, what happens if you uncomment that background image on line 23...
 
-In future articles, I'll do a full overhaul of the site's HTML to bring it up to <abrr title="HyperText Markup Language 5">HTML5</abbr> (it's currently 4.01, which is, like, [16 years old](http://diveintohtml5.info/past.html)) and CSS, which is not necessarily old, just not my STYLE _ba-dum_ _chik_). I may even use [Sass](http://sass-lang.com/)!
+In future articles, I'll do a full overhaul of the site's HTML to bring it up to <abbr title="HyperText Markup Language 5">HTML5</abbr> (it's currently 4.01, which is, like, [16 years old](http://diveintohtml5.info/past.html)) and CSS, which is not necessarily old, just not my STYLE _ba-dum_ _chik_). I may even use [Sass](http://sass-lang.com/)!
 
 This time, we're going to create a template for "articles", instead of just using what was once project. But first, let's dissect the current projects template, so that we can have a good idea of what's going on. I'm going to assume you have a basic understanding of HTML and CSS, and how a page is laid out. You can always refer to the [free HTML and CSS course](http://learncss.tutsplus.com/) I mentioned in the previous article.
 
-### Okay! Templates!
+### Okay! Templates
 
 To open the projects template, go into the templates folder and open "project.html". Yep, the templates are (basically) HTML, so if you know HTML, this should be a breeze. The first place I notice something different is on line 6, between the title tags. We have ampersands, followed by names. These are variables that Stacey uses, so that it can dynamically insert the content to which these variables refer. The first one, "title", is defined at the top of this file. Just by writing "title:" and the title, it's defined. You'll see other ones like this for the date, as well as the content.
 
@@ -31,7 +31,7 @@ One way has a bit of "if" logic that seems to be asking if the PHP "siblings" va
 
 The other one is a reference to "media". Hmm. If I look in the partials folder, there's another folder called assets, and inside that is a "media.html". Inside there, it looks like it's asking if there is a certain media type in the folder along with this .txt file, then spit out the related partial. <del>I think that's what added the image slider in the previous article.</del>Edit: If there is any additional media you want on the page, you just include it in the folder, and media pulls in the proper partial to handle it.
 
-###Still following me?
+### Still following me?
 
 I'm getting pretty lost in all this logic myself. If you're like me, you're thinking it's cool that a lot of this stuff is sort of figured out for me, but I'll come back to it if I need it.
 
@@ -55,7 +55,7 @@ Okay! That's it for now. I'm making a list of things I want to do with this site
 - [Mobile-First](http://www.abookapart.com/products/mobile-first)
 - [Fluid Grid System](http://alistapart.com/article/fluidgrids)
 - [Sass](http://sass-lang.com/) (and maybe [Compass](http://compass-style.org/))
-- [<abbr title="Object-Oriented Cascading Style Sheets">OOCSS</abbr>](https://github.com/stubbornella/oocss/wiki) / [<abrr title="Scalable and Modular Arcitecture for Cascading Style Sheets">SMACSS<abbr>](http://smacss.com/)
+- [<abbr title="Object-Oriented Cascading Style Sheets">OOCSS</abbr>](https://github.com/stubbornella/oocss/wiki) / [<abbr title="Scalable and Modular Arcitecture for Cascading Style Sheets">SMACSS<abbr>](http://smacss.com/)
 
 So look forward to articles about all of these things! I might end up having to do a bunch of this as once, so the site might jump forward and then I'll go back and write the articles about it.
 

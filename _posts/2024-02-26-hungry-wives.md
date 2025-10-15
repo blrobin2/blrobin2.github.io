@@ -35,7 +35,7 @@ Ultimately, the biggest issue with the movie is the pacing and performances. Jan
 
 Regardless, the film is thoughtful and an essential watch for any Romero fans.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - The red floral wallpaper is amazing
 - Doing mad-libs as a party game isn't a terrible idea

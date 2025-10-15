@@ -27,7 +27,7 @@ The movie uses the recurring motif of a dead rabbit to signal danger — not sub
 
 This movie is so formulaic that I should be bored. On the contrary, it’s so predictable that it’s a little comforting?
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - I wish I could watch this in 3D, but it would be a lot of yo-yos and popcorn, so I'm not missing much.
 - Rick is horny and fit as fuck

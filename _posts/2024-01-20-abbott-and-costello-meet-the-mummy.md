@@ -33,7 +33,7 @@ Their dynamic has a <i>Scooby-Doo</i>-like quality, where Costello witnesses som
 
 This movie isn't high art, but I got some chuckles.
 
-#### Stray Thoughts / Spoilers\_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Costello thinks a statue is Mrs. Zoomer. When he discovers she's a wax figure, he almost smacks her ass, but he thinks better of it. What a weird inclination.
 - The mummy in this movie inspired the mummy toys I saw as a kid.

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 9/34 | Decades 3/8 | 90s</a>
+<b><a href="https://boxd.it/pOvfW/detail">Hooptober 8.0 | 9/34 | Decades 3/8 | 90s</a></b>
 
 Marti's family is moving to a military base — her father, Steve, her step-mom Carol, and Carol's six-year-old son, Andy. Steve works for the EPA, and they have asked him to test the water and surrounding area for effects from the toxic chemicals tested at the base.
 
@@ -23,7 +23,7 @@ I don't care about the metaphor. It could be conformity or the American nuclear 
 
 The best part about this movie is that it's less than 90 minutes, so it doesn't overstay its welcome.
 
-<b>Thoughts / Spoilers
+#### Thoughts / Spoilers
 
 - Andy's painting is legitimately fantastic.
 - Tim's got the deadest eyes.

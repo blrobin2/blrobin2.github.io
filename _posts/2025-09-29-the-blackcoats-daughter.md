@@ -39,4 +39,4 @@ Perkins crafts a meditation on grief disguised as a horror movie — a recurring
 
 The film's meditation on grief is the loss of God. Through the entity that possessed her, Kat had a meaning and purpose. When they exorcise it out of her, she loses that sense of belonging. She spends years fighting and killing to get out of the asylum where they put her, desperate to find the entity again. When Bill gives his speech about little coincidences, Kat cannot help but see this as a sign that the entity is waiting for her. But, as many of us know, when we've already lost faith, we cannot force its return. We can pretend, but it isn't the same.
 
-#### END SPOILER TALK \_\*\*</b>
+#### END SPOILER TALK

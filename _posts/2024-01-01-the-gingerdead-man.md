@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b>Thoughts/Spoilers
+#### Thoughts/Spoilers
 
 - From the esteemed director of <i>Evil Bong</i> and <i>Head of the Family</i>
 - Was this shot with a first generation webcam? 480p-looking movie

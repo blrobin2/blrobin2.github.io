@@ -29,7 +29,7 @@ The film explores how Western individualization affects the family and one's per
 
 The cinematography is absolutely gorgeous. Subrata Mitra makes excellent use of the narrow city streets, the ghats at the Ganges, and other architectural elements to help frame the characters. Mitra pioneered bounce lighting with this movie, recreating the large-scale diffusion of studio lighting in location shooting.
 
-#### MOMENTS I LIKED \_\*\*</b>
+#### MOMENTS I LIKED
 
 - The scene with Kalicharan and Harihar standing in the rain.
 - The juxtaposition of Harihar and the birds flying off.

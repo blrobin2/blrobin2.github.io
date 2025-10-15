@@ -9,9 +9,10 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a>
+<b><a href="https://boxd.it/pXW6q/detail">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10">Allison Anders's Top 10</a></b>
 
 <blockquote><i>It's undeniably some kind of masterpiece. But what kind?</i> — Pauline Kael on <i>The Red Shoes</i></blockquote>
+
 The doors at Covent Garden ache as people pound against it. The doors open, and the students rush in, ravenous in religious fervor.
 
 Two audiences attend — one for the conductor, Professor Palmer, and another for the dancer Irina Boronskya. Neither group has heard of the other.
@@ -24,20 +25,23 @@ Lady Neston invites Professor Palmer to an afterparty. Palmer invites Boris Lerm
 
 Victoria and Lermontov meet at the party. She tells him she wants to be a dancer.
 
-<blockquote><i>— Why do you want to dance?
-— Why do you live?
-— Well, I don't know exactly why, but… I must.
+<blockquote><i>— Why do you want to dance?<br>
+— Why do you live?<br>
+— Well, I don't know exactly why, but… I must.<br>
 — That's my answer, too.</i></blockquote>
+
 Craster writes to Lermontov regarding the plagiarism. He gets cold feet and goes to Lermontov's home to retrieve the letter. It's too late — Lermontov read it. He asks Craster to play for him. Impressed, Lermontov offers him a job as répétiteur.
 
 Lermontov invites Victoria to a rehearsal at Ballet Lermontov. At the rehearsal, Irena breaks to announce her engagement to be married. Lermontov is furious.
 
 <blockquote><i>You cannot have it both ways. The dancer who relies upon the doubtful comforts of human love will never be a great dancer. Never.</i></blockquote>
+
 Lermontov sees Victoria perform Swan Lake for Ballet Rambert and offers her the lead in a new ballet, The Ballet of the Red Shoes, for which Craster will write the music.
 
 Once Craster and Victoria meet, they butt heads. Lermontov preps Victoria through strict regimens.
 
 <blockquote><i>And don't forget, a great impression of simplicity can only be achieved by great agony of body and spirit.</i></blockquote>
+
 And then we get to watch seventeen minutes of uninterrupted ballet.
 
 We see what Victoria imagines — herself in the shoes, jumping into them as they tie themselves, her dancing around the world.

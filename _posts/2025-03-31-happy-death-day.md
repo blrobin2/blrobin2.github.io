@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href=""https://boxd.it/q7TYk/detail>Oh My Horror 2025 | 14/52| Slashers</a></b>
+<b><a href="https://boxd.it/q7TYk/detail">Oh My Horror 2025 | 14/52| Slashers</a></b>
 
 The Universal intro skips and repeats several times. The bell rings at 9 AM on the Loyola University campus, waking up Tree Gelbman. She is painfully hungover in a classmate named Carter's dorm room. Carter's got a <i>They Live</i> poster, an <i>MST3K: The Movie</i> poster, and a <i>Repo Man</i> poster, so he's the love interest and/or the killer. She does the walk of shame, encountering people in particular outfits and getting stuck in memorable moments, so we'll recognize them when this loops later. Tree runs into Tim, who she went on a date with once and now won't leave her alone. She insults his penis size, and he gives her the "I'm a murder suspect" face.
 

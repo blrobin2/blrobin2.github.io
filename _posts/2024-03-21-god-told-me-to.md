@@ -31,6 +31,6 @@ The film explores faith as a distancing object — how people use God to avoid l
 
 This film is the first great movie I've seen by Larry Cohen. He's always been unafraid to get weird, but this is the most successful execution I've seen.
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 This is a superior <i>Scanners</i>

@@ -19,7 +19,7 @@ Things only become more complex from there, and a fine mystery unfolds. It makes
 
 Aesthetically, it has a lot going for it. Story-wise, it’s a bit of a mess. But it’s overall an easy-going watch
 
-#### Stray Thoughts:</b>
+#### Stray Thoughts
 
 - They call their dog stupid just like I call my cat
 - Great lighting! Great use of shadow to unveil new images

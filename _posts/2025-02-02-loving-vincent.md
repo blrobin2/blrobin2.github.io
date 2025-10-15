@@ -13,7 +13,7 @@ category: movie-review
 
 <b>Auvers-sur-Oise, France, 1890</b>
 
-<blockquote><i>On Sunday, July 27, one Van Gogh, aged 37, Dutch painter staying at Auvers, shot himself with a revolver in the fields, but being only wounded, returned to his room, where he died two days later.</i><blockquote>
+<blockquote><i>On Sunday, July 27, one Van Gogh, aged 37, Dutch painter staying at Auvers, shot himself with a revolver in the fields, but being only wounded, returned to his room, where he died two days later.</i></blockquote>
 
 <b>Arles, France, 1891</b>
 

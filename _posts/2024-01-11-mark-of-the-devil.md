@@ -29,7 +29,7 @@ Maybe in 1970, this required a vomit bag, but this is relatively tame by today's
 
 In the end, it doesn't do much with its premise, leaning more into the brutality of the torture being enough. It isn't.
 
-#### Thoughts / Spoilers\_\*\*</b>
+#### Thoughts / Spoilers
 
 - This Vinegar Syndrome remaster looks amazing.
 - Young Udo Kier

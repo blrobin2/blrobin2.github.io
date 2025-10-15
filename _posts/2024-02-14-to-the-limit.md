@@ -33,7 +33,7 @@ The movie has some pretty stellar car stunts and explosions. There's an incredib
 
 This movie sucks, but it's hilarious.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - "It was like an atom bomb going on!"
 - Jameson interrogates Mona by taking off her Anne Klein top and fondling her breasts.

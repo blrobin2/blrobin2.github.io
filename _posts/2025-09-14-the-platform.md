@@ -19,7 +19,7 @@ And so on, you get it, yadda yadda yadda capitalism. It's <i><a href="https://bo
 
 The gore gets quite visceral in places.
 
-Whoa, Atonia San Juan makes an appearance! I've only seen her in <i><a href="https://boxd.it/9ncq8X">All About My Mother</a>, and she was tremendous in that.
+Whoa, Atonia San Juan makes an appearance! I've only seen her in <i><a href="https://boxd.it/9ncq8X">All About My Mother</a></i>, and she was tremendous in that.
 
 The filmmaking is competent, the performances are solid, but I never found an in that allowed me to enjoy what was happening.
 

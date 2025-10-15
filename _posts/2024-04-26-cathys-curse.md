@@ -30,7 +30,7 @@ The movie has so many weird little choices! They take an awful script and bring 
 
 This movie isn't so bad that it's good, but genre enthusiasts will appreciate seeing such an inept riff on <i>The Omen</i> and other "bad seed" movies.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - George looks like Quentin Tarantino and acts as well. He has a Frasier Crane air to his demeanor.
 - "Didn't my mommy tell you I hate being kissed?"

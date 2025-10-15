@@ -39,7 +39,7 @@ I would compare this to <i>The Fifth Element</i> — both aren't good movies but
 
 Somehow, Rodman made the best movie starring a Chicago Bull in the 90s.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Like something from <i>The Heroic Trio</i>, Stavros is after babies or something.
 - Van Damme and Rodman make so many basketball puns.

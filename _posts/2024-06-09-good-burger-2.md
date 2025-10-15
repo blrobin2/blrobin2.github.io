@@ -9,10 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-#### Stray Thoughts / Spoilers \_\*\*
+#### Stray Thoughts / Spoilers
 
-</b>\* I'm high, so...
-
+- I'm high, so..
 - This is Kel Mitchell's updated demo reel.
 - It was worth seeing just for the Lori Beth Denberg cameo.
 - The trapeze artist joke made me laugh.

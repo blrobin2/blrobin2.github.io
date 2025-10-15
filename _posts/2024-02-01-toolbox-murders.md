@@ -33,7 +33,7 @@ The third act gets clunky in how it fits together. It bothered me initially, but
 
 This movie is well-paced, decently acted, and has several of my favorite horror elements. Sure, we've seen it before, but it's difficult to dislike when it works so well.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Drucilla!
 - No, not Julia! She and Nell had a legit bond.

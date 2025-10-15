@@ -41,26 +41,25 @@ The movie sometimes cuts sets into flat surfaces reminiscent of side-scrolling v
 
 I love this movie so much. I felt it all — I want to watch it again as soon as possible.
 
-<blockquote><i>"Where is the friend's house?" asked the horseman just at dawn.</i>
-
-The Heavens paused.
-A wayfarer took the bright branch from his lips,
-conferred it on the darkness of the sands,
-pointed with his finger to a poplar tree and said,
-"Just before that tree
-there is a garden path greener than God's dreams.
-In it, there is love as wide as the blue wings of true friendship.
-You go on to the end of the path that takes up again
-just beyond maturity,
-then turn toward the flower of loneliness.
-Two steps before the flower,
-stop at the eternal fountain of earthly myth.
-There a transparent terror will seize you,
-and in the sincerity of the streaming heavens
-you will hear a rustling.
-High up in a pine tree,
-you will see a child
-who will lift a chick out of a nest of light.
-Ask him,
+<blockquote><i>"Where is the friend's house?" asked the horseman just at dawn.<br>
+The Heavens paused.<br>
+A wayfarer took the bright branch from his lips,<br>
+conferred it on the darkness of the sands,<br>
+pointed with his finger to a poplar tree and said,<br>
+"Just before that tree<br>
+there is a garden path greener than God's dreams.<br>
+In it, there is love as wide as the blue wings of true friendship.<br>
+You go on to the end of the path that takes up again<br>
+just beyond maturity,<br>
+then turn toward the flower of loneliness.<br>
+Two steps before the flower,<br>
+stop at the eternal fountain of earthly myth.<br>
+There a transparent terror will seize you,<br>
+and in the sincerity of the streaming heavens<br>
+you will hear a rustling.<br>
+High up in a pine tree,<br>
+you will see a child<br>
+who will lift a chick out of a nest of light.<br>
+Ask him,<br>
 'Where is the friend's house?'"</i>
 — <i>Address</i>, Sohrab Sepehri</blockquote>

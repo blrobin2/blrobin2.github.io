@@ -27,6 +27,6 @@ So many car phones, the wave of the future
 
 In the end, it's self-justifying, but wasn't worth making, with Wes Craven or otherwise
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 This Freddy is supposed to be darker and scarier, but besides his clothes and claws, he's the same. His tongue is pretty gross, though

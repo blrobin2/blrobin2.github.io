@@ -40,7 +40,7 @@ That said, this is dog shit. It cuts or fades mid-dialogue, and its B-roll is Bu
 
 I also had a glass of wine, so who knows?
 
-#### Stray Thoughts/Spoilers\_\*\*</b>
+#### Stray Thoughts/Spoilers
 
 - Thank you, Bleeding Skull, for not giving me the 2.5-hour director cut
 - Wild that they transferred this to 35mm for a theatrical release

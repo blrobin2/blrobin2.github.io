@@ -27,7 +27,7 @@ If you love motorcycles more than pacing, acting, or coherence, you might enjoy 
 
 I don't know! It's got decent vibes. It isn't good, but I wouldn't dismiss it entirely.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - This movie isn't Christploitation. I think the poster throws people off. But, like, Anna denies God to be with Waco.
 - A biker holds up peace signs as the helicopter shoots at them.

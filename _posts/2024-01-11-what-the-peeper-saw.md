@@ -35,9 +35,9 @@ I worry about Mark Lester's mental health after being in movies like this.
 
 On the surface, this is another bad seed story. Underneath, however, is something disturbing and wild.
 
-<b>Thoughts/Spoilers
+#### Thoughts/Spoilers
 
-- I recently saw Britt Ekland as Mary Goodnight in The Man with the Golden Gun.
+- I recently saw Britt Ekland as Mary Goodnight in <i>The Man with the Golden Gun</i>.
 - Phenology - the study of seasons and cycles. I guess Marcus is supposed to be a little genius.
 - Squeezing water out of a toy positioned at his hip
 - The film has a lovely giallo soundtrack by Stelvio Cipriani. He also composed for Bay of Blood, Pieces, and The Laughing Woman, among others.

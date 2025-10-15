@@ -13,7 +13,7 @@ I know, like, nothing about Stacey. And I imagine you don't either. So I've deci
 
 Here's what I've learned so far about it:
 
-It's a CMS, which means that I can set up templates for how each page will look and then write content new content using those templates. It's a way of keeping things <abbr title="Don't Repeat Yourself">DRY</abbr>, as the community calls it. So, rather than writing out the entire structure of each new page, like you would do on a static <abrr title="HyperText Markup Language">HTML</abbr> page, all I write is the content.
+It's a CMS, which means that I can set up templates for how each page will look and then write content new content using those templates. It's a way of keeping things <abbr title="Don't Repeat Yourself">DRY</abbr>, as the community calls it. So, rather than writing out the entire structure of each new page, like you would do on a static <abbr title="HyperText Markup Language">HTML</abbr> page, all I write is the content.
 
 And dude. It doesn't get more basic than this.
 
@@ -33,7 +33,7 @@ Like this article! That I wrote!
 
 If you want, you can go into the public/docs/css folder, and create some styles to make the page look... not so bare. Go as crazy or as simple as you want. This is your project, so have fun with it. I know I would increase some of these fonts sizes so that people without binocular eyes can read the text.
 
-Want to follow along, but don't know ANYTHING about HTML or <abbr="Cascading Style Sheet">CSS</abbr>? Try [Tuts+'s Free 30 Day Course to Learn HTML and CSS][tutsplus]. Even after learning HTML and CSS on my own, I found this course crucial to getting up to date with the most recent versions, HTML5 and CSS3. It even includes a section on building a full site towards the end. So, even though Stacey is built on PHP, you don't have to know any of it to get started.
+Want to follow along, but don't know ANYTHING about HTML or <abbr title="Cascading Style Sheet">CSS</abbr>? Try [Tuts+'s Free 30 Day Course to Learn HTML and CSS][tutsplus]. Even after learning HTML and CSS on my own, I found this course crucial to getting up to date with the most recent versions, HTML5 and CSS3. It even includes a section on building a full site towards the end. So, even though Stacey is built on PHP, you don't have to know any of it to get started.
 
 In the next article, I'll write about customzing templates (so that I can remove the dummy image slider down below), building my own, and how to organize a project on Stacey.
 

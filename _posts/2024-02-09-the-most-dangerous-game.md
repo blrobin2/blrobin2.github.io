@@ -38,7 +38,7 @@ Everyone does solid stunt work! It looks good enough for these purposes.
 
 I wish we had more one-hour movies these days. This movie is the perfect length for its story. That said, some of the conversation scenes drag, but not unbearably so.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - The boat's effects are so great! I want to see how they set up the set that tosses back and forth, sending the men and furniture flying.
 - I love the knocker on the door of the fanged man with an arrow in his chest carrying a woman. It's probably racist, but not in any immediate way I can parse.

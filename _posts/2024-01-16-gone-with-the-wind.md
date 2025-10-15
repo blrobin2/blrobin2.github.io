@@ -31,7 +31,7 @@ Some viewers may say, "setting controversies aside" when discussing the movie. B
 
 As someone who watches too many movies, I have invariably seen this movie's fingerprint on the films that follow it. I watch this with the intent of seeing its impact and informing my understanding of what people believe and what movies have the power to accomplish, for better or worse.
 
-#### Thoughts / Spoilers \_\*\*</b>
+#### Thoughts / Spoilers
 
 - The colors are gorgeous. This movie is a high watermark for Technicolor.
 - The lighting and compositions are immaculate.

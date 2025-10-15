@@ -29,7 +29,7 @@ This would be a solid film to base conversations around media literacy.
 
 I don't love it, but it contains all the required beats for its story.
 
-#### SPOILER TALK\_\*\*</b>
+#### SPOILER TALK
 
 So, it's pretty clear Travis is already sick before Will arrives. The dream recalls his exposure to Bud's disease. So, from 15 minutes in until the climax, it's a red herring game where they worry if Abbott's character, Will, will be their downfall.
 

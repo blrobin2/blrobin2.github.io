@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/qaTwm">Asian Cinema Challenge 2023 | 17/52 | Category III</a?</b>
+<b><a href="https://boxd.it/qaTwm">Asian Cinema Challenge 2023 | 17/52 | Category III</a></b>
 
 At District Crime Kowloon West, Detective Chan Kwai-Bun holds a knife as he circles a butchered pig hanging in the middle of his office. A newspaper headline states: "Female Student Stabbed Over Ten Times." Inspector Ho Ka-On enters the office to report for duty and sees several men observing Bun. Bun stabs the butchered pig repeatedly. Inspired, Bun grabs a suitcase large enough to hold himself and asks Inspector Ho to push Bun down the stairs while he is inside it. Ho obliges. Another newspaper headline states: "New Breakthrough. Body Found in Suitcase." At the bottom of the stairs, Ho lets out a dizzy Bun, who immediately determines that the ice cream shop owner is the killer. Unbelievably, this assertion is correct, and Bun has solved the case. Cut to Bun attending the police chief's retirement. Bun steps up and cuts off his ear to give to the chief. The police force him into early retirement.
 

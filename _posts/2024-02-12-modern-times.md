@@ -20,7 +20,7 @@ The film debuted nearly a decade into talkies, so Chaplin's silent Little Tramp 
 
 I appreciate Chaplin's massive influence, but I never get much pleasure from his movies. I think I've tried to watch most of them at least once. This movie will be the first I've finished, and that's because this is hands down the best Chaplin movie.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - I don't understand the point of the auto-feeding machine
 - I like him going through the gears — very <i>Looney Tunes</i>

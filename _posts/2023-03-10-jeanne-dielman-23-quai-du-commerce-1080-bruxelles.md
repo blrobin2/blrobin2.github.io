@@ -29,7 +29,7 @@ Delphine Seyrig Is so good in this, the camera is on her practically the entire 
 
 This is extremely my deal, I love this
 
-#### Stray Thoughts:</b>
+#### Stray Thoughts
 
 - The color grading for this is perfect
 - I want a light switch over my bed!

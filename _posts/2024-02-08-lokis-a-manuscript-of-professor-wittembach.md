@@ -28,7 +28,7 @@ I appreciate the overall ambiguity of the story, but it reached a point where it
 
 In the right frame of mind, I could enjoy this more, but I found this a little too lacking for me to love.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Cool credits with everything out of focus except through the glasses sitting on the train window, giving only a glimpse of the passing landscape
 - "Tea without milk is poison!"

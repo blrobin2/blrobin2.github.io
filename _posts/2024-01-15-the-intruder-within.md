@@ -40,7 +40,7 @@ The special effects are solid, probably because they had no issue ripping off th
 
 This will rock no one's world, but because it is a functional human drama, the disappointing horror elements don't kill the movie.
 
-<b>Thoughts / Spoilers:</b>
+#### Thoughts / Spoilers
 
 - I like the alternate title, <i>The Lucifer Rig</i>. Less so, <i>Alien Rig</i>. <i>The Intruder Within</i> sounds like my intrusive thoughts.
 - Amazing IMDb trivia: "The design for the creature is sometimes misattributed to H.R. Giger; in fact, Giger had no involvement in its creation."

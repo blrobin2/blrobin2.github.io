@@ -23,7 +23,7 @@ This movie isn't a total disaster. It has a budget and a crew who know how to as
 
 Not for me!
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Did Robert Vaughn do any unsilly movies in the last 30 years of his career?
 - Instead of destroying the C.H.U.D., they spray it with some freezing agent. And they don't show the results!

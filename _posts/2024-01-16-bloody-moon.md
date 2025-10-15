@@ -21,7 +21,7 @@ This movie is entertaining and dopey — it never takes itself seriously enough 
 
 This movie is the first Jesús Franco I've seen, and I believe fans consider it a "lesser" work of his. So, I'll be checking out more in the future.
 
-#### Thoughts/Spoilers \_\*\*</b>
+#### Thoughts/Spoilers
 
 - Where did they get the torch to kill that woman?
 - A girl brings her knitting to hang out with friends. Time is a flat circle

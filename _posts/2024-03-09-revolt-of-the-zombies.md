@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="">Hooptober 6.0 | 8/32 | film whose year ends in '6' 2/6 | decades 2/6 | 1930s</a>
+<b><a href="https://boxd.it/pPVYg/detail">Hooptober 6.0 | 8/32 | film whose year ends in '6' 2/6 | decades 2/6 | 1930s</a></b>
 
 <i>CW // Racism, Xenophobia</i>
 

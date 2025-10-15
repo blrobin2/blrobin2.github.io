@@ -25,7 +25,7 @@ As a result, it is much messier and bloated. AKA closer to the Troma quality I'm
 
 It's got a handful of weird little guys that I liked, especially Murray, the janitor subhumanoid.
 
-#### Stray Thoughts/Spoilers\_\*\*</b>
+#### Stray Thoughts/Spoilers
 
 - Guest appearance by "Tromie" the Nuclear Squirrel
 - So many gorgeous early '90s neons

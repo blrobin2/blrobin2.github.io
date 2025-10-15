@@ -23,11 +23,13 @@ This movie goes hard on the special effects from the get-go — it opens with a 
 
 The homoerotic undertones are subtle at first but ramp up, starting with running into his gym teacher in a leather bar, then watching Freddy tie him up and spank him before "running him through." When he and Lisa have the opportunity to hook up, he runs to his friend's to be kept safe
 
-<blockquote><i>He's inside of me, and he wants to take me again... he owns me</i></blockquote>Freddy represents (sometimes, kind of) his desire to come out, manifesting with Freddy crawling out of him and culminating in the confusing ending that I won't spoil or attempt to explain
+<blockquote><i>He's inside of me, and he wants to take me again... he owns me</i></blockquote>
+
+Freddy represents (sometimes, kind of) his desire to come out, manifesting with Freddy crawling out of him and culminating in the confusing ending that I won't spoil or attempt to explain
 
 I think the movie's greatest success is how fun it all is. While the first one is more imaginative and coherent, this one is willing to abandon all logic for a set piece. If it were anywhere in between, this would be a much worse movie
 
-<b>Stay Thoughts
+#### Stay Thoughts
 
 - The girl checking out Jesse's ass while he's fighting — same girl
 - Opening the fridge in the middle of the night and spilling things is also my M.O.

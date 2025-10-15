@@ -33,6 +33,6 @@ The same director as <i>Edward Penishands</i> directed this under an alias. I ha
 
 The film is a bit of a mess, but it has enough charm to keep me from hating it. Tubi has a RiffTrax version of this that I might check out in the future, even though I think riffing on movies intended to be comedies is a fool’s errand.
 
-#### SPOILER TALK \_\*\*</b>
+#### SPOILER TALK
 
 The last 20 minutes totally undermined the direction the rest of the movie was going! It hinted that the ice cream man, in his demented way, was protecting the kids — hence, why he kills the creepy dude in the park. But nope, he just kills — well, except for Small Paul who "understands" him. Until he doesn't.

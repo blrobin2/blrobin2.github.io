@@ -34,6 +34,6 @@ What horrifying reality would it be, then, if someone were to change that agains
 
 It's hard to say much about this movie since so much of it is about its dramatic revelations. But this is a stunning and unusual film.
 
-#### SPOILER TALK \_\*\*</b>
+#### SPOILER TALK
 
 The movie isn't that horrifying, perhaps because I'm jealous of Vincente. Free transition to a beautiful woman and fuck Antonio Banderas?

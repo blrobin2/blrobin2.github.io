@@ -25,8 +25,7 @@ I don’t hate the actual ending as much as some people do, but I get why people
 
 #### Stray Thoughts
 
-</b>\* Seeing the kid from Malcom in the Middle in this is like seeing the kid from Lizzie McGuire in The Cell — hilarious and jarring
-
+- Seeing the kid from Malcom in the Middle in this is like seeing the kid from Lizzie McGuire in The Cell — hilarious and jarring
 - Are New Yorkers regularly forced into meet cutes by trash-filled winds?
 - French former boxer who lives books and looks like that? And he’s single?
 - His “take a book” strategy for a second encounter is the highbrow version of George Costanza leaving his keys at their place

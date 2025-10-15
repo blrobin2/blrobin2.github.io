@@ -34,7 +34,7 @@ So, yes, I didn't mind watching this movie once I was able to put it in its appr
 
 - I started watching the <i>Eye for an Eye</i> that PlutoTV linked to, and it took me a minute to realize that this <i>Eye for an Eye</i> is actually a documentary about Mark Stroman, who is on death row. I thought it was just really cheap, but then I looked up Mark Stroman on IMDb and didn't see the name associated with the 1996 movie starring Sally Field.
 - Cynthia Rothrock doesn't appear until an hour in as the self-defense instructor, Tina. I don't think we see her face. Yes, I still recognized her, whatever that says about me.
-- This movie features a cast of character actors. Keith David, Philip Baker Hall, Donal Logue, Armin Shimerman, Ross Bagley (Buckwheat from the 90s <i<Little Rascals</i> movie).
+- This movie features a cast of character actors. Keith David, Philip Baker Hall, Donal Logue, Armin Shimerman, Ross Bagley (Buckwheat from the 90s <i>Little Rascals</i> movie).
 - Screenwriting partners and married couple Rick Jaffa and Amanda Silver have a unique career. After doing oddball thrillers like this and <i>The Hand that Rocks the Cradle</i>, they write <i>Rise of the Planet of the Apes</i> and get bigger opportunities from there, including <i>Jurassic World</i>, the 2020 <i>Mulan</i> remake, and all the <i>Avatars</i> from <i>The Way of Water</i> on.
 - Karen makes sandwiches for Mack, Megan, and Julie, all while helping Julie with her French.
 - At work, Megan showcases a state-of-the-art TV-based media research library. On one TV is the O.J. trial.

@@ -33,7 +33,7 @@ The soundtrack rules — Robert is a record producer and records a song with a b
 
 The movie had so much potential! Watch the "sequels" — in classic Italian fashion, none of the sequels have anything to do with this. Beyond the Door III is stellar.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - A little intro from Satan taking credit for the events of the movie
 - White dude snapping off-beat to the theme song

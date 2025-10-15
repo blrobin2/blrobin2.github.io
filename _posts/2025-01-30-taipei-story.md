@@ -11,13 +11,13 @@ category: movie-review
 
 <b><a href="https://boxd.it/qaTwm/detail">Asian Cinema Challenge 2023 | 2/52 | Hong Kong Film Awards Top 100 Films</a></b>
 
-<blockquote><i>My hair had hardly covered my forehead.
-I was picking flowers, playing by my door,
-When you, my lover, on a bamboo horse,
-Came trotting in circles and throwing green plums.
-We lived near together on a lane in Ch'ang-kan,
+<blockquote><i>My hair had hardly covered my forehead.<br>
+I was picking flowers, playing by my door,<br>
+When you, my lover, on a bamboo horse,<br>
+Came trotting in circles and throwing green plums.<br>
+We lived near together on a lane in Ch'ang-kan,<br>
 Both of us young and happy-hearted.</i>
-— Li Bai, </i>A Poem of Changgan</i></blockquote>
+— Li Bai, <i>A Poem of Changgan</i></blockquote>
 
 Lung and Chen stand in Chen's new apartment. Chen wears a baby blue suit and thick sunglasses. She lists appliances that could go on shelves in the bedroom. Lung is in khakis and a polo, smoking a cigarette, and pretending to swing a baseball bat. He worries about the cost of fixing up the place, but Chen's boss, Ms. Mei, has promised Chen a promotion and raise. When Chen moves in, Lung will be in LA.
 

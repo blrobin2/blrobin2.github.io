@@ -33,7 +33,7 @@ Soon, the sheriff receives reports of cattle being stripped to the bone and pudd
 
 Another doctor verifies — it's tarantula venom.
 
-Unlike <i>Them!</a>, the science is complete nonsense, but they do share radioactive isotopes as the secret sauce. Also, unlike <i>Them!</i>, once the movie ramps up, it doesn't pump the brakes.
+Unlike <i>Them!</i>, the science is complete nonsense, but they do share radioactive isotopes as the secret sauce. Also, unlike <i>Them!</i>, once the movie ramps up, it doesn't pump the brakes.
 
 Hastings and Clayton have decent chemistry. They both give charming performances.
 

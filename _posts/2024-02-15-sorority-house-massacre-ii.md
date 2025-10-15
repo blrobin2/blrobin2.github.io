@@ -31,7 +31,7 @@ This movie leans hard into parody, making several winking references to slasher 
 
 The movie knows exactly what it is, so it's easy-going and fun. It loses steam once it goes full slasher but doesn't implode.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - What's the worst that could happen moment #1 — a tree breaks through the window
 - What's the worst that could happen moment #2 — Orville stands weirdly in the window as lightning strikes

@@ -9,11 +9,12 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 15/34 | Devil-Centered 2/3</a>
+<b><a href="https://boxd.it/pmi12">Hooptober X</a> | 15/34 | Devil-Centered 2/3</b>
 
 <b>New York, 1955</b>
 
 <blockquote><i>Johnny was as close to true evil as she ever wanted to come</i></blockquote>
+
 Harry Angel (Mickey Rourke) is a private detective hired by Louis Cyphre (Robert De Niro) to track down Johnny Favorite. Favorite was a famous crooner before the war. He’s been giving Cyphre the runaround, so Cyphre wants to know if he’s still alive.
 
 What starts as a simple missing persons case pulls Angel into the deep end, sending him to Louisiana, the heart of the blues and voodoo. Also, the people that Angel questions are winding up dead.
@@ -28,7 +29,7 @@ This is one of those films with a twist that I don’t think hurts knowing ahead
 
 The film is a blast! Check it out.
 
-#### SPOILER TALK \_\*\*</b>
+#### SPOILER TALK
 
 - It’s wild that this story is about someone who changed their face to hide from Satan. Didn’t Mickey Rourke do that?
 

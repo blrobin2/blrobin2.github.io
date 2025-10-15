@@ -27,7 +27,7 @@ The soundtrack rules — cheap synth grooves to run from monsters to.
 
 This isn't amazing, but it's plenty of fun. To anyone who says this is a generic slasher — what the hell are you talking about?
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Running around with her hand cut off, the wound just shooting blood everywhere
 - The machine gun isn't allowed in the slasher rules. Of course, it's ineffective against the living dead

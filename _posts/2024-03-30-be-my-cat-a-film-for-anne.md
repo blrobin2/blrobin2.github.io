@@ -19,7 +19,7 @@ This film showcases Adrian's filmmaking style, assembled to convince Anne Hathaw
 
 The film Adrian is making seems to be about a creep named Adrian, an aspiring filmmaker obsessed with Anne Hathaway.
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 Adrian Țofei went method for this movie, committing himself to being this character for five years.
 

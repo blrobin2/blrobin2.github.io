@@ -33,7 +33,7 @@ The film delights in the decadence of its setting — elaborate decor, horseback
 
 I wish I found this as fun as others do. I like it, but it's not a movie I would watch again. Then again, I may have burnt myself out on Giallo.
 
-#### Stray Thoughts/Spoilers \_\*\*</b>
+#### Stray Thoughts/Spoilers
 
 - "Look, Counselor, I've never killed any of my lovers, and there have been 56 so far. I keep count of them, you know!"
 - "I didn't think — it just came to me! I always make mistakes when I think."

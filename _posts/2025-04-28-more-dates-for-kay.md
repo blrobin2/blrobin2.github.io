@@ -9,7 +9,7 @@ rifftrax: true
 category: movie-review
 ---
 
-<b>From Rifftrax Live: MST3K Reunion</a>
+<b>From Rifftrax Live: MST3K Reunion</b>
 
 Frank Conniff and Trace Beaulieu riffing
 

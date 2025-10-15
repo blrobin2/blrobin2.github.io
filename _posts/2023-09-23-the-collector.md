@@ -21,7 +21,7 @@ The world painted in this movie is full of dismissive cruelty — we see so few 
 
 This is a striking and intense debut film from Auli Mantila — I'm looking forward to checking out <i>Geography of Fear</i> (if I can track down a copy)
 
-#### Stray Thoughts:</b>
+#### Stray Thoughts
 
 - Did she spill fondue on her hand at the club? Were '90s Finnish dance clubs serving fondue?
 - I saw so many infomercials for chat lines in the '90s/early 00s — I didn't realize you could dial in and listen to other people chat

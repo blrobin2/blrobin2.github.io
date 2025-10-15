@@ -32,7 +32,7 @@ I like the puppet designs. Some are conventional, but a couple are pretty out th
 
 While not my favorite killer toy movie — that's still <i>Dolls (1987)</i> — I'll check at least one of the twelve (12!) sequels.
 
-#### Thoughts / Spoilers \_\*\*</b>
+#### Thoughts / Spoilers
 
 - I didn't know going in that Charles Band co-wrote this.
 - This movie has the signature Charles Band score — cloying

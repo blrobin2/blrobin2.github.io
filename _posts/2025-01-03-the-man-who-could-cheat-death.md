@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="">Hoop-Tober | 11/31 | Terence Fisher 1/5</a>
+<b><a href="">Hoop-Tober | 11/31 | Terence Fisher 1/5</a></b>
 
 <i>Paris 1890</i>
 

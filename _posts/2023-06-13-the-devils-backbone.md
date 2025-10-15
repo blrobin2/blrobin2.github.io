@@ -11,7 +11,7 @@ category: movie-review
 
 Cool practical effects, meh CG effects, long, fairly predictable, well constructed from a script standpoint, it’s not gonna stick with me
 
-#### Stray Thoughts/Spoilers:</b>
+#### Stray Thoughts/Spoilers
 
 - These poor kids and their horrendous haircuts
 - I’ve heard of a worm in the mezcal but a fetus in the rum?

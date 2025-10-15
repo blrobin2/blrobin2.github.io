@@ -17,7 +17,7 @@ The movie is cheap, but they killed it with the stunts and the set pieces. The g
 
 How did this piece of shit win me over?
 
-#### Thoughts/Spoilers\_\*\*</b>
+#### Thoughts/Spoilers
 
 - I remember seeing trailers for this on late-night television.
 - The scene where they run over the kid's head is a grapefruit filled with fake blood.

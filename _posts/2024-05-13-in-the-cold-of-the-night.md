@@ -25,7 +25,7 @@ The visuals get so trippy! VHS effects and wavy distortions, like footage from a
 
 This movie is so whacky. It's also way too long. I got so many laughs from this movie, all at the movie's expense.
 
-#### Stray Thoughts/Spoilers \_\*\*</b>
+#### Stray Thoughts/Spoilers
 
 - Glowing water bed
 - "Mother has this thing about birds."

@@ -33,6 +33,6 @@ Also, they still gave him lame quips.
 
 Gigablast.
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 I loved the reference to <i>New Nightmare</i>, where Nancy cuts off Freddy's hand. I laughed when she said, "You're in my world now, bitch."

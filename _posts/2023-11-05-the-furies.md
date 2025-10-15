@@ -11,7 +11,7 @@ category: movie-review
 
 <b>You can have it all. My empire of cows.</b>
 
-<blockquote></i>I don't think I like being in love. It puts a bit in my mouth.</i></blockquote>
+<blockquote><i>I don't think I like being in love. It puts a bit in my mouth.</i></blockquote>
 
 In the 1870s, T.C. Jeffords (Walter Houston) laid claim to a sum of land called The Furies in New Mexico, and his daughter Vance (Barbara Stanwyck) is the heir to his estate. If T.C. is going to give Vance The Furies, she must marry a man T.C. can stand.
 

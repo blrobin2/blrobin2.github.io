@@ -11,7 +11,7 @@ category: movie-review
 
 With Andrea Martin, Michelle Trachtenberg, Mary Elizabeth Winstead, and Lacey Chabert in the cast, how could this be bad?
 
-#### Stray Observations/Spoilers \_\*\*</b>
+#### Stray Observations/Spoilers
 
 - Clark sanitarium
 - "I'm your family now," says your college boyfriend. Not a red flag at all!

@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 41/52 | Zombies</a>
+<b><a href="https://boxd.it/q7TYk/detail">Cult Movie Challenge 2017 | 41/52 | Zombies</a></b>
 
 <blockquote><i>Science has learned that man possesses powers which go beyond the boundaries of the natural. This is the story of one confronted by such strange forces within himself.</i></blockquote>
 

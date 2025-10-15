@@ -37,7 +37,7 @@ This movie wasn't Scorsese's first, but it's the one that has so many of his sty
 
 I prefer this story's indie, low-budget style over the glossy look of his later films. Scorsese would tackle several other genres, but something always pulls him back to the mobsters.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - The fights are loose and flailing — no one looks cool throwing or taking a punch.
 - Charlie calling Tony "William Blake with his tigers" was funny.

@@ -30,7 +30,7 @@ On the plus side, it's hard to get bored. Well, except for the wrestling matches
 
 It's not that good, but it's great for a laugh, even if it stops making sense by the end.
 
-<b>Thoughts / Spoilers
+#### Thoughts / Spoilers
 
 - "Now watch me as I dominate this girl's will"
 - A secret message sent through a sombrero

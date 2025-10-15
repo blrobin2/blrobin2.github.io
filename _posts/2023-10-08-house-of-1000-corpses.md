@@ -27,6 +27,6 @@ This movie isn't great, but it has weird promise (see spoiler talk below).
 - I've heard the next one,<i> The Devil's Rejects</i>, is better and that <i>3 From Hell</i> divides fans, but I plan to check both out eventually
 - And I like Rob Zombie's <i>Halloween 2</i> — that's a movie that makes some odd style choices that work in its favor
 
-#### Spoilers \_\*\*</b>
+#### Spoilers
 
 The best part of the movie is when they lower Denise into Dr. Satan's lair — his goon squad and lair are creepy, and Denise is the only character we have a chance to care about. The tension mounts, the mystery unfolds from her perspective, and we genuinely don't know what will happen. The movie eventually gets in its way again, but the promise of a legitimately good filmmaker is there

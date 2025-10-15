@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pOmcY">Hooptober 9.0 | 12/34 | Set in space or the future</b>
+<b><a href="https://boxd.it/pOmcY">Hooptober 9.0 | 12/34 | Set in space or the future</a></b>
 
 <blockquote><i>Why is it that the unknown always frightens people? Why can't we expect love and friendship instead of death?</i></blockquote>
 

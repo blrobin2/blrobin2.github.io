@@ -19,7 +19,7 @@ When she arrives at the airport, waves of white eyes watch her movement, hesitan
 
 When Diouana arrives, she sees an African mask on the wall. The doors are closed, the Madame yells. She cooks and cleans. But where are the children?
 
-<blockquote><i>For me, France is the kitchen, the living room, the bathroom, and my bedroom. Where are the people who live in this country?</blockquote>
+<blockquote><i>For me, France is the kitchen, the living room, the bathroom, and my bedroom. Where are the people who live in this country?</i></blockquote>
 
 The Madame criticizes Diouana for dressing in nice clothes. She forces Diouana to wear an apron so it is clear to their dinner guests that she is the help. The hosts have her make rice and sell it to the guests as “genuine African cooking.” No surprise, they find the rice very spicy. When the guests decide to leave, they kiss Diouana on the cheeks, exclaiming, “They’ve never kissed a black girl before!”
 

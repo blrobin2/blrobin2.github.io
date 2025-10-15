@@ -9,7 +9,7 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="">Hooptober 6.0 | 18/32 | Special Effects: Carlo Rambaldi | Countries 2/6 | Spain</a>
+<b><a href="">Hooptober 6.0 | 18/32 | Special Effects: Carlo Rambaldi | Countries 2/6 | Spain</a></b>
 
 The spaceship Argos catapults through space. Inside, figures in black leather cut with yellow observe technical tools that observe Aura, the planet below them. Despite the signal they are receiving, they cannot detect any life.
 

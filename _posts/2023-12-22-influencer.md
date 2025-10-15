@@ -25,7 +25,7 @@ My major complaint is the abundance of small, seemingly important text on the sc
 
 Since the film is on Shudder, you may anticipate the direction of this movie. Still, the journey is quite fun.
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 At twenty minutes in, we get the opening credits after CW has abandoned Madison on a remote island to die — a great take on the Psycho structure.
 

@@ -27,7 +27,7 @@ Is this the movie that made Justin Long a scream queen? Because he's great in th
 
 The movie pivots hard after a point. I'll discuss this further in the spoiler section below. It doesn't get terrible, but it's such a departure from what I liked that it's disappointing.
 
-#### SPOILER TALK \_\*\*</b>
+#### SPOILER TALK
 
 Due to budget cuts, the writer rewrote the third act during production. So, instead of whatever the original plan was, we have a psychic black woman show up to explain away the monster. Then, we have an epic battle with the creature, which happens entirely over police radios. When we see it, it looks like a Buffy monster of the week.
 

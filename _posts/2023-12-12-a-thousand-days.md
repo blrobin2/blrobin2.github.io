@@ -27,7 +27,7 @@ Sri makes ridiculous choices given her circumstances. Her empathy makes her an e
 
 The finale is pretty fun and outrageous — I wish they did more of that
 
-#### Spoiler Talk\_\*\*</b>
+#### Spoiler Talk
 
 If Sri going into the dream is what can save her, why didn't they try the day they found out she had the dream instead of waiting until the last day?
 

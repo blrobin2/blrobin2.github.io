@@ -9,8 +9,8 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 9</a></b>
-<b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a>
+<b><a href="https://boxd.it/sWI7Y">Birthday Year Challenge 9</a></b><br>
+<b><a href="https://boxd.it/xqceO">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>
 
 In <i>Hard Ticket to Hawaii</i>, we met the heroes of this series, Agency operatives Donna and Tayrn. With the help of handsome idiot Rowdy Abilene and his assistant, Jade, they took out drug lord Seth Romero and saved Hawaii.
 
@@ -30,7 +30,7 @@ So far, this movie is the weakest in the Triple B series. It involves too much t
 
 Don't get me wrong—this movie is silly and entertaining, but it pales compared to its predecessors. Here's hoping <i>Savage Beach</i> gets back to basics.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Dude, the score has some hooks! We keep the synth work from Hard Ticket to Hawaii.
 - Steve Bond's Travis is the least charismatic of the Abilene cousins thus far. He looks good in a speedo but delivers lines like Ryo Hazuki in Shenmue.

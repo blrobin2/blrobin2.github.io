@@ -29,6 +29,6 @@ There’s a scene where O’Brien kneels and lets Rawhead Rex pee on him to “b
 
 This movie is pretty dumb, but time and 80s nostalgia has only helped it. Enjoy it more by watching it with friends.
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 At a certain point, Rawhead only kills men (who knew Satan was a TERF?). So, when Howard finds the fertility totem hidden in the church, Elaine must hold the totem and trap Rawhead. That’s pretty rad.

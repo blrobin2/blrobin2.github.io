@@ -41,7 +41,7 @@ The end is a bit of a cop-out, putting most of the action in stills and montage,
 
 While this has its flaws, its warm-hearted style is rare in Westerns.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - A grave with the name Sam Peckinpah, the director of <i>The Wild Bunch</i>
 - Wild West Wagner

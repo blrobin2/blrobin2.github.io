@@ -51,7 +51,7 @@ The soundtrack is discordant, distant, alienating. It soaks in darkness, tingein
 
 This film is one of the few experimental films I've seen that maintains a coherent narrative structure. Anyone who watches this could tell you what happened. Yet, many images and moments enhance the strangeness and pull at the seams.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - I don't understand what upset everyone about the girl's yo-yo.
 - The makeup is effective at making his face look unreal.

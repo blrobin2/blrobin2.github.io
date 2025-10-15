@@ -9,9 +9,9 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a>
+<b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>
 
-Stray Thoughts/Spoilers:</b>
+#### Stray Thoughts/Spoilers
 
 - Straight out of the gate, Bond strangling a woman with her bikini top.
 - The most iconic Bond theme.

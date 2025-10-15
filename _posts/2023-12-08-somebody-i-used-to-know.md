@@ -45,7 +45,7 @@ Also wine helps! <b>#wineoclock</b>
 
 It’s a drunk 3, a sober 2.5!
 
-#### Stray Thoughts / Observations</b>
+#### Stray Thoughts / Observations
 
 - I thought Evan Jonigkeit was PewDiePie
 - She boards a plane. A baby cries. Her cat pukes and shits. She tries to sneak over the baby and parents, and pours puke and shit all over them.

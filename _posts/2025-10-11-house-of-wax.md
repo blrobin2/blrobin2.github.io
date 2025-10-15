@@ -28,7 +28,7 @@ Throughout the film, we see the morbidity of everyday people. Cathy is nonplusse
 
 The fight and fire scene in the opening is so harrowing! Watching the wax figures melt is pretty nightmarish! It reminds me of the face-melting scene from <i>Raiders of the Lost Ark</i>. There's a moment where Burke throws a sword at Jarrod, and the sword hits the camera! The actors are throwing each other into burning set pieces, tumbling about — it looks dangerous, frankly. But the result is wonderfully tense.
 
-#### Actor Talk \_\*\*</b>
+#### Actor Talk
 
 - Carolyn Jones, who plays Cathy, talks like Harley Quinn. The actress played Morticia Addams on the Addams Family TV show!
 - This film turned Vincent Price's career around. Before this, he played bit parts. This movie made him highly sought after for horror roles.

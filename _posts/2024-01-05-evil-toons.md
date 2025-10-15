@@ -33,7 +33,7 @@ It's also total sleaze, but it never pretends to be anything else — three of t
 
 Still, the movie is surprisingly funny and fun at times. It's dumb as hell and has no budget, but it has a consistent plot and developed lore, so I'm not mad.
 
-<b>Thoughts/Spoilers
+#### Thoughts/Spoilers
 
 - The tagline is: "This dude is rude!"
 - Reading a book about Frankenstein and moaning like Frankenstein's monster

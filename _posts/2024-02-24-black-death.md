@@ -38,7 +38,7 @@ I liked aspects of the score. It wasn't anything innovative, but it had some mot
 
 Overall, the movie is uneven and a bit of a drag. You might enjoy the story better than me.
 
-#### Spoiler Zone \_\*\*</b>
+#### Spoiler Zone
 
 - Langiva rolling her eyes during the prayer is a mood.
 - Of course, Sean Bean's death is brutal — dismemberment by horses.

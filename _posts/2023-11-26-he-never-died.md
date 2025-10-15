@@ -27,7 +27,7 @@ Henry Rollins plays more straight-edge than in real life. If you enjoy people as
 
 It has some jokes. It's a somewhat unique take on its subject. I enjoyed watching it, but I wouldn't watch it again.
 
-#### Spoilers \_\*\*</b>
+#### Spoilers
 
 He finds Andrea early on — he hears her crying through the walls. He leaves in search of her but returns to the same place. It's lazy and inconsistent.
 

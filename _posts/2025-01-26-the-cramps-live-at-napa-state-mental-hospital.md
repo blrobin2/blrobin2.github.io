@@ -9,4 +9,4 @@ rifftrax: false
 category: movie-review
 ---
 
-<blockquote><i>Somebody told me you people were crazy, but I'm not so sure about that. You seem to be alright to me."
+<blockquote><i>Somebody told me you people were crazy, but I'm not so sure about that. You seem to be alright to me."</i></blockquote>

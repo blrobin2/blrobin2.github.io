@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/qWjuA/detail">Criterion Challenge 2024 | 35/52 | Tunde Adebimpe’s Top 10</a></b>
 
-<blockquote><i>I don't know if it's a liability or an asset because sometimes I feel like I'm three or four different people. I want to paint a while, and it just burn within me just to paint, paint, paint, paint. Then that cools off, and then I wanna play my music, you know. That cool off, I wanna write poetry. I wanna do this. I wanna do something else. Actually, I feel like Dr. Jekyll and Mr. Hyde.</i></blockquote></i>
+<blockquote><i>I don't know if it's a liability or an asset because sometimes I feel like I'm three or four different people. I want to paint a while, and it just burn within me just to paint, paint, paint, paint. Then that cools off, and then I wanna play my music, you know. That cool off, I wanna write poetry. I wanna do this. I wanna do something else. Actually, I feel like Dr. Jekyll and Mr. Hyde.</i></blockquote>
 
 Howard Armstrong, aka Louie Bluie, was a member of America's last known black string band. A multi-instrumentalist and artist, Armstrong started performing in 1930 and recorded his first record with guitarist Ted Bogan in 1934. Though the recording was a rag, Armstrong was just as comfortable playing Gershwin, Italian, or country—he met his audience where they were.
 

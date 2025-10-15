@@ -27,7 +27,7 @@ The movie feels like the missing link between <i>Texas Chainsaw Massacre II</i> 
 
 It's not a great movie, and it's honestly not that fun for the first hour, but it gets sufficiently weird and goofy to get me through
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - Stretched skin artwork
 - Decapitation pantry

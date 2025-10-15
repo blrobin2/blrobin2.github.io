@@ -19,6 +19,6 @@ A taut movie up to a point (see spoilers below for an explanation), and once tha
 
 Is it gory? Yeah, dude, it’s gory. Is it sub-90 minutes? Hell yeah, it is. Is it worth seeing? Not really
 
-#### SPOILERS\_\*\*</b>
+#### SPOILERS
 
 If the opening dream sequence isn’t a dead giveaway, there is a twist that… doesn’t work. Logistically, it doesn’t make any sense. The filmmakers would be better off just letting it be some dude and sticking closer to the revenge film formula instead of trying to upturn it as carelessly as this

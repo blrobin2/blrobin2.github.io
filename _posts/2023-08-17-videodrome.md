@@ -15,7 +15,7 @@ It's funny how the movie is functionally right-wing — the message is that viol
 
 "Long live the new flesh" is the spinning top at the end of the movie — a phrase that feels meaningful, but in this existential nightmare, all flesh ends at death, and so the phrase is irrelevant — Max's interpretation is that he must die so that the new flesh lives, but why should we trust anything he says or thinks?
 
-#### Stray Thoughts / Commentary Summaries</b>
+#### Stray Thoughts / Commentary Summaries
 
 - An extra for the <i>Videodrome</i> broadcast kept coming back to be pretend beaten
 - The TV in the background of a sex scene as the electronic fireplace

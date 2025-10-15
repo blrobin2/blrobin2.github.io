@@ -35,7 +35,7 @@ I like that we get monsters for Hercules to fight. It's more interesting, even i
 
 I'm all for blending peplum and horror. I'll be on the lookout for more.
 
-<b>Thoughts/Spoilers
+#### Thoughts/Spoilers
 
 - We got a weird stone monster — "You must be longer" is an ominous thing to say.
 - A nude woman chained to a wall begs Theseus to save him. A trap, but he's too horny.

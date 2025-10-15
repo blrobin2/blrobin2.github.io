@@ -29,7 +29,7 @@ This is a shocking Pre-Code exploitation film — if you want to talk about movi
 - Sun Bears!!!
 - They keep saying "antitoxin" when they should say "antivenom."
 
-#### SPOILERS \_\*\*</b>
+#### SPOILERS
 
 - I hate how they let the lions fight :(
 - The anaconda biting and wrapping around Lionel Atwill looks so real! And the tension of watching it coil up and slowly unhinge was so scary! My mouth was agape the whole scene

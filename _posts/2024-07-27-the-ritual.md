@@ -33,7 +33,7 @@ We also get little in terms of story. We get some answers, but they won’t surp
 
 Overall, this movie is decent. I understand why some folks love it. I wanted the film to develop more themes than the obvious and tired one. When it ended, I felt like I experienced little.
 
-#### SPOILER TALK \_\*\*</b>
+#### SPOILER TALK
 
 So, the biggest fear of the predominantly atheist England is a god they must bow to. As colonizers, they may bring their god to you, but never the other way around. So, when Luke must bow to the god of the forest, who gives the villagers eternal life, he would rather kill all of them and set their village on fire than bow.
 

@@ -39,7 +39,7 @@ They spend time arguing over Kay's dreams, but they get out of the loop before i
 
 This movie will only appeal to slasher enthusiasts. While it isn't a great movie, it is fascinating.
 
-#### Thoughts / Spoilers \_\*\*</b>
+#### Thoughts / Spoilers
 
 - Something happens for every character in the first act that foreshadows their death.
 - Kay killed her cat as a kid — she blamed her nightmares then.

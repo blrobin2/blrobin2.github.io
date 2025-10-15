@@ -29,7 +29,7 @@ I lost interest in some of the slower parts. Every moment that isn't outrageous 
 
 Still, this movie is a landmark in live-action manga adaptation and a wild time. Watch with friends!
 
-#### Thoughts / Spoilers \_\*\*</b>
+#### Thoughts / Spoilers
 
 - Wood plane against the face — brutal
 - Punching into a stomach and piercing a hole

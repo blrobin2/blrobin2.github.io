@@ -9,9 +9,10 @@ rifftrax: false
 category: movie-review
 ---
 
-<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a>
+<b><a href="https://boxd.it/pRFMi/detail">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a></b>
 
 <blockquote><i>Are you talking to me? I don't understand what you're saying, but it sounds wonderful.</i></blockquote>
+
 In 1986, Professor Paris Catalano (Christopher Plummer) travels to Venice to follow Nosferatu (Klaus Kinski). Records mention seeing him at Carnival in 1786, during the plague.
 
 The fact this movie functions at all is shocking. Kinski did everything possible to make everyone in the crew miserable. It went through several directors' hands, most leaving because of Kinski.

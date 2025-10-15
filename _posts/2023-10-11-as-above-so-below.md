@@ -11,7 +11,7 @@ category: movie-review
 
 <b><a href="https://boxd.it/pmi12">Hooptober X</a> | 13/34 | Something is Underground</b>
 
-<b>National Treasure, but make it spooky<b>
+<b>National Treasure, but make it spooky</b>
 
 <blockquote><i>As above, so below — it’s said to be the key to all magic. It means that what is within me is outside of me. As it is on Earth, so it is in heaven. As I am, so are my cells, so are my atoms, so is God. Basically, as I believe the world to be, so it is.</i></blockquote>
 In Iran, Scarlett Marlowe, an architect and Ph.D. student, breaks a seal to uncover the Rose Key. She narrowly escapes with footage of all the engravings.

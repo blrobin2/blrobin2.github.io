@@ -29,7 +29,7 @@ The Severin remaster is top-notch, perhaps to the film's detriment — some grai
 
 Overall, the film does as little as possible to check off the genre troupes. The only reason this movie received any attention (and why I'm watching it) is because it was on the UK Video Nasties list.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - The dubbing is so funny — I assume it's the script more than the performances, but they go so big, especially whoever dubbed Mario and Roberto.
 - Lost for things to do, we cut between Lina trying to fuck a guitarist and Mario raping Antonio's wife, Manuela, for no fucking reason.

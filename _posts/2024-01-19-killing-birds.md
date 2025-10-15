@@ -35,7 +35,7 @@ The plot doesn't make sense, but that isn't that important if the movie is fun. 
 
 Overall, the movie is decent, but it makes such poor use of its runtime that it's hard to recommend.
 
-#### Stray Thoughts / Spoilers \_\*\*</b>
+#### Stray Thoughts / Spoilers
 
 - This movie came out under the title <i>Zombi 5</i>, despite having nothing to do with Zombi 1 through 4, which includes Romero’s <i>Night of the Living Dead</i> and Fulci’s <i>Zombie</i>.
 - They just used whatever bird sounds they could find, huh?
