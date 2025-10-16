@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search Results
+permalink: /search
 ---
 
 <ul id="search-results" class="search-results"></ul>
