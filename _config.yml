@@ -1,6 +1,10 @@
 name: Bennie Robinson
 highlighter: rouge
 url: https://bennierobinson.com
+paginate: 100
+
+plugins:
+  - jekyll-paginate
 
 webrick:
   headers:

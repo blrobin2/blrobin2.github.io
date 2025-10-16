@@ -7,13 +7,15 @@ excerpt: What I'm thinking about right now...
 <main role="main" id="home">
   <h2>What I've been thinking about&hellip;</h2>
   <nav role="navigation">
+    {% include pagination.html %}
     <ul class="posts">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <li>
         <span>{{ post.date | date_to_string }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
+    {% include pagination.html %}
   </nav>
 </main>

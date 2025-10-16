@@ -330,6 +330,12 @@ blockquote {
   cursor: pointer;
 }
 
+.header-search-form .search-button:hover {
+  background: var(--venetian-red);
+  color: var(--white);
+  transition: all 0.3s ease-in-out;
+}
+
 .search-results {
   list-style: none;
   padding-left: 0;
@@ -349,4 +355,16 @@ blockquote {
 
 .search-result-title h3 {
   margin-bottom: 0.25rem;
+}
+
+.pagination {
+  text-align: center;
+  display: flex;
+}
+
+.previous,
+.page_number,
+.next {
+  flex: 1;
+  padding: 0.5rem;
 }
