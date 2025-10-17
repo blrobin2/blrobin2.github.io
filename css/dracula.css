@@ -16,9 +16,9 @@ http://zenorocha.mit-license.org
 
 .hljs {
   display: block;
-  overflow-x: auto;
   padding: 0.5em;
   background: #282a36;
+  overflow-x: auto;
 }
 
 .hljs-keyword,
@@ -27,6 +27,18 @@ http://zenorocha.mit-license.org
 .hljs-section,
 .hljs-link {
   color: #8be9fd;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-title,
+.hljs-section,
+.hljs-doctag,
+.hljs-type,
+.hljs-name,
+.hljs-strong {
+  font-weight: bold;
 }
 
 .hljs-function .hljs-keyword {
@@ -57,18 +69,6 @@ http://zenorocha.mit-license.org
 .hljs-deletion,
 .hljs-meta {
   color: #6272a4;
-}
-
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
-  font-weight: bold;
 }
 
 .hljs-emphasis {
