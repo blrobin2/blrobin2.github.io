@@ -203,6 +203,11 @@ pre {
   scrollbar-width: thin;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .meta,
 .posts li span {
   color: var(--dark-gray);
