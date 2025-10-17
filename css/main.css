@@ -334,6 +334,10 @@ blockquote {
   transition: all 0.3s ease-in-out;
 }
 
+.search-results-count {
+  text-align: right;
+}
+
 .search-results {
   padding-left: 0;
   list-style: none;

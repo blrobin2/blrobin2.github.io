@@ -4,6 +4,7 @@ title: Search Results
 permalink: /search
 ---
 
+<p id="search-results-count" class="search-results-count"></p>
 <ul id="search-results" class="search-results"></ul>
 
 <script>

@@ -1,8 +1,15 @@
 (function () {
   function showResults(results, store) {
     var searchResults = document.getElementById("search-results");
+    var searchResultsCount = document.getElementById("search-results-count");
 
     if (results.length) {
+      if (results.length === 1) {
+        searchResultsCount.innerHTML = "1 result found";
+      } else {
+        searchResultsCount.innerHTML = results.length + " results found";
+      }
+
       // If there are results...
       var appendString = "";
 
