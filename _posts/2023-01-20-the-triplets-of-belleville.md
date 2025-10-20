@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3JsU0r
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The exaggerated animation style stressed me out initially but I grew accustomed by about 1/2 way. Also the subtitles were not helpful, just [Sings in French] or the occasional sound effect

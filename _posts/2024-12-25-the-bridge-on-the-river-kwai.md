@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/89CZa3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, 1001-movies]
 ---
 
 <blockquote><i>This is Radio Tokyo, reminding you to take it easy and never volunteer for anything </i></blockquote>Moments of this movie were almost Python-esque in the absurdity of British bureaucracy. Jingoistic and racist? Yes. Beautifully shot and paced? Yes.

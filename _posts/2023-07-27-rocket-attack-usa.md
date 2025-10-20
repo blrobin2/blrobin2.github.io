@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4AIGEV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 they really upped the ante on bad movies this season, good lord!

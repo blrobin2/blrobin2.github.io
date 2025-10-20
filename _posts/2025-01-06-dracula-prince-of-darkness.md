@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8kZJUz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hoop-tober, britsploitation, vampires, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 14/31 | Terence Fisher 4/5</a></b>

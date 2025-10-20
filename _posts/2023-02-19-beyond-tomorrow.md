@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Sca0f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [frightfest-guide-to-ghost-movies, amazon-prime]
 ---
 
 Couldn’t sleep so I put on this wild-ass movie

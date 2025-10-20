@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bjLzgr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, written-by-women, edited-by-women, criterion]
 ---
 
 Anne Welles leaves New England for New York, leaving behind family and a suitor. She visits Bellamy and Bellows Law Offices to speak with Miss Steinberg about a secretary position at the firm for Mr. Henry Bellamy, a theatrical lawyer. Bellamy isn't convinced of Anne, so he tests her out by sending her to get signatures from Helen Lawson on some contracts. Little does Anne know that Lawson is a diva.

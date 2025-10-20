@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7atqtx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, slasher, joe-bob, edited-by-women]
 ---
 
 <blockquote><i>For extreme illnesses, extreme treatments are most fitting.</i> — Hippocrates</blockquote>

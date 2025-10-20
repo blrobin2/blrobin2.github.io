@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5DVslh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, kaiju, troma]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 20/34 | Worst Part II I Can Access</a></b>

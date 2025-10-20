@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aWwATx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, asiancinemachallenge2023, asiancc2023, asiancc2023week15, killer-toy]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 15/52 | Korean Horror Films</a></b>

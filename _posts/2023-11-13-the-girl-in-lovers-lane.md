@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59zSNn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, teensploitation]
 ---
 
 - You do the voice, I'll move the jaw

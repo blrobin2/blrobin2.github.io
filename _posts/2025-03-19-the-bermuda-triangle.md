@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ajOpb
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, mexsploitation]
 ---
 
 It isn't a René Cardona Jr. movie if the filmmakers don't kill an animal onscreen. What extortion racket is Hugo Stiglitz running to star in so man Cardona movies? Why the hell is this movie nearly 2 hours long?! There's an okay movie buried in the deluge of underwater footage.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3t1zFb
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 “Childhood is a knife stuck in your throat, it cannot be easily removed”

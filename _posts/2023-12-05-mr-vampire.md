@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5gWsCx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hopping-vampires-of-hong-kong, chopsocky]
 ---
 
 An apprentice tends to a waning candle. Keep it lit, or they'll come to life.

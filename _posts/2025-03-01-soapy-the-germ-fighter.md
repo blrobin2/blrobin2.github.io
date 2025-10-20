@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8YLR65
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - "I bet cowboys don't have to wash all the time." Hell of a dream, Billy.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b9PMG1
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 - When a samurai illegally parks in a loading zone between the hours of 8 AM and 6 PM, Samurai Cop is there.

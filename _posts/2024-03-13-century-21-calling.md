@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62t7jX
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 First short in ages! Ah, Bell System, the king of vertical monopolies. Believe it or not, they reunited after the antitrust breakup and still have a monopoly on all phone lines in the USA.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3VwLY9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, house-of-psychotic-women, good-for-her, body-horror, 1001-movies]
 ---
 
 Rewatching for a podcast

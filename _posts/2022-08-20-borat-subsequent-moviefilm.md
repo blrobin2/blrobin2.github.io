@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/397r07
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Watched in case there is continuity between Maria Bakalova’s character here and in Bodies Bodies Bodies

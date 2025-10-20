@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4mVEh1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, criterion]
 ---
 
 Cool practical effects, meh CG effects, long, fairly predictable, well constructed from a script standpoint, it’s not gonna stick with me

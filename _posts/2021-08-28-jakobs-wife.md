@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2670eL
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I’m pretty sure I just watched the pilot for the “Who’s The Boss” reboot

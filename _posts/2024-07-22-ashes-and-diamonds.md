@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6VM8xp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, cc2022, criterion-challenge-2022, pol, solidarity, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 25/52 | Made in Poland" target="_blank" rel="noopener">Criterion Challenge 2022 | 25/52 | Made in Poland</a></b>

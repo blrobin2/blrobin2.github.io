@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3GTJjJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, amc-southpoint]
 ---
 
 Like a series of television condensed into two hours — exhausting, funny, and over-the-top in that earnest anime way, I think I had fun but I need to sleep just to process it all…

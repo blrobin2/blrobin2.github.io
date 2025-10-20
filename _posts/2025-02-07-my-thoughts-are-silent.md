@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8KHKMp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, anti-criterion-challenge-2024, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 41/52 | Made in a country with land north of the Tropic of Cancer by a director from that country (Ukraine)</a></b>

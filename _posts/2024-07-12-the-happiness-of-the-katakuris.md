@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6R6qjl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [midnight-pulp, hooptober, hooptober2.0, j-horror, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 11/31 | Takashi Miike 1/5</a></b>

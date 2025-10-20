@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NpjCh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi]
 ---
 
 Two small children (4 and 6) murder their parents and go to a mental institution. Their older sister Ellen, who witnessed it all, goes into foster care

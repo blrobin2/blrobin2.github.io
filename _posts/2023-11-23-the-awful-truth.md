@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5cMlcB
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Showed it to my dad — we agree, Irene Dunne is unbelievably funny

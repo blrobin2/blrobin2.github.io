@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4EzAXl
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, bikesploitation]
 ---
 
 - meanwhile on route 66, James Dean takes a lazy spin

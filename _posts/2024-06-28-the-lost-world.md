@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6L7qDX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [wikipedia, hooptober, hooptober3.0, written-by-women, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 27/31 | Crazy Animal 3/3 | Silent</a></b>

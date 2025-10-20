@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3pKMAR
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Uh, this rules, why is this not the canonical Phantom movie for the Universal Monsters collection??

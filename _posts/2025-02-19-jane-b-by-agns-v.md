@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8STuNn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, birth-year-challenge, byc, directed-by-women, written-by-women, edited-by-women, criterion]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 28</a></b>

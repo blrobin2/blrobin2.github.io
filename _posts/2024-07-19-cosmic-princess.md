@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6UooDL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, ktma, scifiploitation]
 ---
 
 This episode aired during Super Bowl XXIII. Interesting that they chose this movie instead of the later <i>Superdome</i>, which is about a Super Bowl.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/26qBVv
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The characters are nothing, the politics are meaningless, the story has an outcome in mind with no idea for how it should be threaded

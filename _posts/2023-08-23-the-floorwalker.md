@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JN6s1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [film-theory-and-criticism]
 ---
 
 Unoriginal tattoo idea: Charlie Chaplin's face on the small of my lower back — a Tramp stamp, if you will

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7Zx8EJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, adam, directed-by-women, written-by-women, criterion, sight-and-sound]
 ---
 
 I still tear up when I watch this — so many beautiful moments. This time around, I gravitated to each character's individual loneliness. It reminded me of my childhood, when I had few friends, and those I had moved away or moved on.

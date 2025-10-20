@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3VHTDv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, scorsese's-85-film, criterion, 1001-movies]
 ---
 
 Stray thoughts:

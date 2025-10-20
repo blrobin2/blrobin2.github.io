@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4SzmFN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, genre:-exploitation]
 ---
 
 Three angels spend multiple lifetimes trying to stop Lucifer. Each lifetime, he is reborn, as are the angels, and they must track him down and kill him (I think)

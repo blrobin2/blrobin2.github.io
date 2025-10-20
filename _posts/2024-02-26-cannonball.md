@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5V0aWR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, carsploitation]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 9/52 | Shaw Brothers" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 9/52 | Shaw Brothers</a></b>

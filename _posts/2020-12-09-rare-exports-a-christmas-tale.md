@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1v93eP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [christmasploitation]
 ---
 
 While yet another iteration of “what if Santa was actually a bad guy?”, this one deals with Santa as an entity that has been locked away only to be uncovered by miners

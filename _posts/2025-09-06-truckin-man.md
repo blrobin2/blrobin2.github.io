@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aYV6Lh
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, hicksploitation, trucksploitation]
 ---
 
 Our lead, Mike, is, youngest, 45 years old. Could they really not find a college-aged actor to play the college dropout?

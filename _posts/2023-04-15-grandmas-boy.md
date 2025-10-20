@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/47AwIV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hollis, dvd]
 ---
 
 Hollis insisted we get high and watch this, so we did. Neat!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5tJRe7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, short]
 ---
 
 - the tepid embrace tells me they're ready for marriage

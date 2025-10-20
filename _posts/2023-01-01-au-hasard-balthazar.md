@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3CwwMh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [coming-of-age, criterion, 1001-movies, sight-and-sound, claire-denis-req]
 ---
 
 After watching <i>EO</i>, I figured I’d watch the film that influenced it, and by comparison this makes <i>EO</i> all the more confounding in its motivations

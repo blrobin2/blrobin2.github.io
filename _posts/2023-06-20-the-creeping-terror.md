@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4oTvSr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - The unbearable whiteness of being

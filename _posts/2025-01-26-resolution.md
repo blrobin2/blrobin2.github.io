@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8CqkdH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hoop-tober, folk-horror]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober 31/31</a></b>

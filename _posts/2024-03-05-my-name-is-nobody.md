@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5YNj8L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2024, spaghetti-western]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 10/52 | Spaghetti Western</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5XGlCv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober6.0, italian-gothic, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 2/32 | film from before 1966 2/6" target="_blank" rel="noopener">Hooptober 6.0 | 2/32 | film from before 1966 2/6</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5NTvrX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2016, sexploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 20/52 | Russ Meyer" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 20/52 | Russ Meyer</a></b>

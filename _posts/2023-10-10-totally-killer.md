@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4YkWwV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 In 1987, The Sweet 16 Killer murdered three teens. Now, 35 years later, someone in the same mask kills Jamie's mom, putting the town on edge

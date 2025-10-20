@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4DqFDj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, 1001-movies, karagarga, torrent]
 ---
 
 At Catholic mass during Christmas, Jean-Louis (Trintignant) sees the woman he is going to marry, the blonde Françoise (Marie-Christine Barrault), though the two have never officially met

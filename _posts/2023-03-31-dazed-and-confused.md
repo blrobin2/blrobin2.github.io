@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/43nX7l
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anna, owen, dvd, drugsploitation, teensploitation, coming-of-age, criterion, edited-by-women]
 ---
 
 These boys sure like butts

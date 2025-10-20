@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5dXzul
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober9.0, hooptober, criterion, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 30/34 | Lon Chaney</b>

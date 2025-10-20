@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9bf6tz
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation, nature-attacks]
 ---
 
 For fans of <i>45</i> and <i>Mission to Mars</i>, this movie gives <i>Lost Continent</i> a run for its money in terms of the time spent watching people traverse rocks. There can't be more than 10 minutes of dinosaurs in this movie.

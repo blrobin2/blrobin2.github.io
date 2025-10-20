@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3xkTu7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 David Lynch playing John Ford in a Steven Spielberg movie… now I’ve seen it all!

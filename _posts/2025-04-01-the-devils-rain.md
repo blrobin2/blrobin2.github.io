@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9hXIZv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, cmc, cmc2017, religious-horror, folk-horror, devil-worship]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 18/52 | Splatter</a></b>

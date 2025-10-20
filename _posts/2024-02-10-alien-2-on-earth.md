@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5NqOQf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober7.0, mockbusters, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 9/32 | 2nd film in franchise 1/7 | Decades 3/6 | 1980s</a></b>

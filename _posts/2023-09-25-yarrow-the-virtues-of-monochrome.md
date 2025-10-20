@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4TrNRJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vimeo]
 ---
 
 The narrator is insufferable, but the photography is beautiful, so mute it and score it with your own contemplative instrumental music

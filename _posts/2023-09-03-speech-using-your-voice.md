@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NcUJt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Do i please you? Do you find me pleasing?

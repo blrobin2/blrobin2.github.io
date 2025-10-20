@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/52S3GF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [pre-code-horror, criterion-channel, nature-attacks]
 ---
 
 Eric Gorman is a wealthy zoologist and big game hunter. One night, after a colleague kissed his wife, Evelyn, at a dance, we see Gorman with the colleague sewing something. The next day, they find the colleague dead in the tiger enclosure, his mouth sewn shut.

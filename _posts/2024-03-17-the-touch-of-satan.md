@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/64nISr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 35/52 | MST3K" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 35/52 | MST3K</a></b>

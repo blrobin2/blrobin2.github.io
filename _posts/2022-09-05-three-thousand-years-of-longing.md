@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3cgg5F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie, mary]
 ---
 
 A pile of CGI loosely formed into some stories, nothing terrible, but nothing memorable

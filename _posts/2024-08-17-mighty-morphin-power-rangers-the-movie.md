@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/77gzB3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hollis, david, superhero, zombies, ninjasploitation]
 ---
 
 Action boy now! Action girl now!

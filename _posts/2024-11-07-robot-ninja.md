@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7KgvTN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, neal]
 ---
 
 Went to the bar with some friends to watch the election countdown. It was going... poorly, so Neal and I watched this to distract ourselves.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/34u7LN
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A masterclass in documentary filmmaking

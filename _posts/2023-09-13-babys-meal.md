@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Q25Wj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, harvard-phd]
 ---
 
 Visual proof that babies have always sucked at eating

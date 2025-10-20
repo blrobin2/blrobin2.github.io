@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4btHeJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 Terrence Malick-core

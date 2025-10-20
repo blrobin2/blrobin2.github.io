@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KVqUp
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju]
 ---
 
 - Joel? How does Gamera fly? Why is the sky blue? What's Vietnam?

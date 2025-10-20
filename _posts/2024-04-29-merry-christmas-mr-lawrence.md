@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6mJQzX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, homoerotic-for-the-holidays, queer]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 18/52 | Dreaming of a Holiday Movie Marathon</a></b>

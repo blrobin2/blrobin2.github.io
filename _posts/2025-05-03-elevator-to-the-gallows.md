@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Aefyh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, film-noir]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 43/52 | Starring Jeanne Moreau</a></b>

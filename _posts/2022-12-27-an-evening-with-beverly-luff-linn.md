@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3ADfV3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [did-not-finish]
 ---
 
 Turned it off about half-way through, not for me

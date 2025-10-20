@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6foqUl
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 I have several of director Greydon Clark's movies on my watchlist. This movie is not one of them.

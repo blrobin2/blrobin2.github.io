@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3X6IgT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, house-of-psychotic-women, extreme]
 ---
 
 Opens with a Ted Bundy quote about mastering death and life — the movie seems to be about Monika trying to move on from her necrophilia and be among the living

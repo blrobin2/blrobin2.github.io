@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3ZOlA3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, italian-gothic, rape-and-revenge, sexploitation, video-nasties, werewolves]
 ---
 
 I don’t remember why I got this movie to watch…

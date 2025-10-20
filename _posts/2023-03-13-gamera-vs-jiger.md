@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3YE4Jt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, plutotv, kaiju, scifiploitation]
 ---
 
 I’m so glad they were able to have the expo

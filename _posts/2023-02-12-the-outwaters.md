@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3QrCGl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse, found-footage]
 ---
 
 It’s hard to formulate an opinion, especially when the guys sitting next to me kept sighing, groaning, or laughing

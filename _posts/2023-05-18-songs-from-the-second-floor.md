@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4g8sdp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 Cold, dead-pan, absurdist, darkly funny — a series of still shots, some connected or intersected, but several different little stories. Everyone’s faces are a pale white, and many of the characters are what you might call “conventionally unattractive.” All of the stories seem to deal with misery in some way. Perhaps the hell of corporate life or life after work has used you up? It’s a world of ash and blood and falling stock prices, where poetry drives you insane, and business people flagellate each other in the streets

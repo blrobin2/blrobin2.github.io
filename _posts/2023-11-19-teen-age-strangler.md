@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bnQQN
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, teensploitation, coming-of-age]
 ---
 
 They got Mike singing and doing characters, which fits him better. There are some truly offensive trans jokes this episode — the early 90s really couldn't help themselves, could they?

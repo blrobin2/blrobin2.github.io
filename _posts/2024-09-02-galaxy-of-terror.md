@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7f2lIX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, scifiploitation]
 ---
 
 #### Stray Thoughts / Spoilers

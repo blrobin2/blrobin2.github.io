@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1mqLPX
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The baby looks older than the main couple

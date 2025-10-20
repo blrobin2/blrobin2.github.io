@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6g3UkT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, haunted-house, vampires, britsploitation, horror-anthology]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 46/52 | Amicus</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KFPtB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-channel]
 ---
 
 I can't believe mushroom visuals are real

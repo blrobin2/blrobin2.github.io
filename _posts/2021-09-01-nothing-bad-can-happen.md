@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/26IwjR
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Joke review:

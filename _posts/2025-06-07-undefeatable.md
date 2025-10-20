@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Vj2en
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017]
 ---
 
 <a href="https://boxd.it/q7TYk/detail" title="Cult Movie Challenge 2017 | 49/52 | Godfrey Ho" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 49/52 | Godfrey Ho</a>

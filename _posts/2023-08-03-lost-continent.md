@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Do2Nb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, nature-attacks, scifiploitation, junglesploitation]
 ---
 
 - uh, genocide has a "c" in it, sir

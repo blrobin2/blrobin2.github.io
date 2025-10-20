@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8FIFAZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 According to the episode guide, no one remembered doing this episode when asked ~six seasons later. Why do I have such a soft spot for Hammer, even when it kind of sucks?

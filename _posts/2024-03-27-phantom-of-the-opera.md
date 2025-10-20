@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/68Pkgb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, queer]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 26/32 | Classic Universal</a></b>

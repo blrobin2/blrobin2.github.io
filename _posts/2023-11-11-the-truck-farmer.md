@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58Nunf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Here's a 5-inch nail for dessert. Go nuts

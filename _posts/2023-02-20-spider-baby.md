@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SzbEh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, house-of-psychotic-women, frightfest-guide-to-exploitation-movies]
 ---
 
 “Let’s not have a complete double duck fit”

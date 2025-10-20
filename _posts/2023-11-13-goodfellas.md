@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59xbAr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, 1001-movies, sight-and-sound]
 ---
 
 It's a funny script, and the cinematography is on as much coke as Henry Hill. Everyone's ripped this off, so I'm pretty much permanently burnt out on the riches-to-rags crime story.

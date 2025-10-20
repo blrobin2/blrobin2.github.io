@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5keR7d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [good-for-her]
 ---
 
 <blockquote><i>In 1897, a Russian schooner was chartered to carry private cargo, consisting of fifty wooden crates, from Romania to England. When the ship arrived, it was derelict.</i></blockquote>

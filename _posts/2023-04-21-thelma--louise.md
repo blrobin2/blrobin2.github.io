@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/497y9D
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, 1001-movies, criterion]
 ---
 
 Felt like it was time to watch Ridley Scott’s magnum opus — and Hans Zimmer’s most well-renowned s<i>core after Cool Runnings</i>.

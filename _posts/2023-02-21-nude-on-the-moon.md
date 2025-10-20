@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SYeBl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, indecent-desires:-doris-wishman, sexploitation]
 ---
 
 Amazed how committed this is to the sci-fi conceit — the rocket ship effects, the goofy space suits, 25 minutes of “plot” about how they got the money to do this and how smart they are

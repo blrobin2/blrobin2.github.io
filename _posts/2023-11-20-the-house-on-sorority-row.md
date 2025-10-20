@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bCMRR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, slasher, teensploitation]
 ---
 
 After a prank gone wrong, seven sorority sisters swear each other to secrecy. Unbeknownst to them, Mrs. Slater, the housemother, has a secret too. The sisters may learn it, but they won’t live to talk about it.

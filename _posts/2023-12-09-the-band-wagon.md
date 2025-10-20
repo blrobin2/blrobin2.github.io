@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5icKyz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, mgm-musicals, 1001-movies, scorsese's-85-film]
 ---
 
 I feel like I'm missing something.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3yxQ9b
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Like watching a digital alarm clock malfunction

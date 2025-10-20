@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3WgP1x
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [switchblade-sisters, coming-of-age]
 ---
 
 Daryl is the most annoying onscreen presence in recent memory. In fact, every dude in this movie sucks so hard

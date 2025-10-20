@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/67oQBn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, zombies, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access" target="_blank" rel="noopener">Hooptober 6.0 | 23/32 | lowest-rated film from the 80s that you can access</a></b>

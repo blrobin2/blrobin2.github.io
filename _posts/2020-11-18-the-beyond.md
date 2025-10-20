@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1sSsRF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [video-nasties]
 ---
 
 Absolute nonsense and totally fun

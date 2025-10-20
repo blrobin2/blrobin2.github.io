@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4nBuD1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, switchblade-sisters]
 ---
 
 I listened to a podcast where the directors talked about <i>Polyester</i>, UCB, and their approach to filmmaking, and it sounded right up my alley

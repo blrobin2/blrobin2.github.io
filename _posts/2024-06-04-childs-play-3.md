@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6BH2wb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober3.0, hooptober, slasher, killer-toy]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 2/31 | Franchise 2/7</a></b>

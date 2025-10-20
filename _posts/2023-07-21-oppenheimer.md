@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ycbJj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [adam, amc-durham]
 ---
 
 Somebody told me that Cillian Murphy hangs brain in this — I just wanted to see how Cillian Murphy’s penis was doing since we haven’t seen it since <i>28 Days Later</i>. No dice!

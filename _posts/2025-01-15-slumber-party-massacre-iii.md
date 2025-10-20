@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8tAcV1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [oh-my-horror, omh, omh2025, directed-by-women, written-by-women, coming-of-age, slasher]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 3/52 | Threequels</a></b>

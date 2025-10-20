@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6x9fWd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse, morgan]
 ---
 
 I had to go sit in front of a fire after this

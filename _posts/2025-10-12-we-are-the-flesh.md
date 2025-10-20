@@ -5,6 +5,7 @@ excerpt: "My review of We Are the Flesh (2016)"
 rating: "2.0"
 letterboxd_url: https://boxd.it/blWNKv
 category: movie-review
+tags: [torrent, hooptober, hooptober12, cannibal]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober 12 | 12/31 | Mexican Director</a></b>

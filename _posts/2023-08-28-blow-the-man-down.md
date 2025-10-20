@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4LloRl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 After her mother's wake, Mary Beth gets drunk at the bar. She talks to a guy who promises to give her a ride home, but when he pops the trunk, she sees blood, hair, and women's clothes. He chases her into the docks, where she kills him

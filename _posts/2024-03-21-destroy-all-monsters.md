@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6607Ih
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, hooptober, hooptober6.0, kaiju, godzilla, scifiploitation, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 20/32 | Reptile Rampage | Countries 3/6 | Japan</a></b>

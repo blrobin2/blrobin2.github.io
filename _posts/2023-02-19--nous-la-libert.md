@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SdyId
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, criterion, 1001-movies]
 ---
 
 It’s easy to see a through-line from this to the work of Jean-Pierre Jeunet or Terry Gilliam: clever visual juxtapositions, large swaths of conformity being punctured by tight closeups, darkly comedic set pieces, intricate sets and production design that enhance the surreal otherworldliness, beauty as that which awakens the desire for change

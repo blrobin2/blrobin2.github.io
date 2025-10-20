@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bhpDlN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen, harley]
 ---
 
 I didn't know there was a 4K restoration until today, so some improv friends went after a jam. Still gets to me, more so on the big screen

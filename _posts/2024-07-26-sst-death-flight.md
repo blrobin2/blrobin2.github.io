@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6XCGzn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, ktma, disaster]
 ---
 
 Made-for-TV disaster movie with a stacked cast of TV royalty — Peter Graves, Tina Louise, Burgess Meredith, Robert Reed, Doug McClure, Billy Crystal, John de Lancie, Regis Philbin... and so on.

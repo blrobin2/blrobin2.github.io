@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6WzdHH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, j-horror]
 ---
 
 <b><a href="https://boxd.it/rIGbC" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 30/52 | Shinya Tsukamoto</a></b>

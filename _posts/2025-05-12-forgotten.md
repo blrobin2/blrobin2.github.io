@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9FDEld
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, oh-my-horror, omh, omh2025]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 20/52 | Korean Horror</a></b>

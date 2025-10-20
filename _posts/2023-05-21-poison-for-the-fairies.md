@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4gRC0v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, mexsploitation]
 ---
 
 Veronica is a poor orphan raised by her grandmother and her nanny. The nanny fills Veronica’s head with stories about witches, which excites Veronica’s curiosity

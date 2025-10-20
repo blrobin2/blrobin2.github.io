@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8HjLOr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, david, hollis, written-by-women, edited-by-women]
 ---
 
 Tina Fey always has to have a scene where she's messy with food, but also a scene where she's showing off skin. Oh, and also some German. Oh, and also racism.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4PT8YJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women]
 ---
 
 A mumblecore-grade horror anthology where small-town stories unfold piece-by-piece. Each section focuses on someone carrying pain and watches them spiral

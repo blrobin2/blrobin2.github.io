@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9d4bJD
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - It went perfectly, just like my neighbor's dog said it would.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4qbp09
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - I like my family as a friend!

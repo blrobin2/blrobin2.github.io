@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XT7g9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptoberx, hooptober, slasher]
 ---
 
 <b>Hooptober X | 11/34 | Robert Englund

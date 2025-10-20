@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5OB3W7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, kaiju, scifiploitation, nature-attacks]
 ---
 
 The giant spider is so delightfully goofy that it's hard to hate this

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6h9gO1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, anti-criterion-challenge-2024, edited-by-women, slow-cinema]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 16/52 | Slow cinema, but it’s 95 minutes or less</a></b>

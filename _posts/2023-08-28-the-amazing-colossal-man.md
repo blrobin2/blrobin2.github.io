@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Lg46T
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - change your heading 180 degrees, but don't change those things i love about you

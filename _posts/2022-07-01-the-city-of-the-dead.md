@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2YEDHJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [britsploitation, devil-worship]
 ---
 
 Platonic ideal of 60s British horror

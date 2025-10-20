@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/54Qn0N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptoberx, slasher, serial-killer, frightfest-guide-to-exploitation-movies]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X </a>| 32/34 | Bonus 1/3

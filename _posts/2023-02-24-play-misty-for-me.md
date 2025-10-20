@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TIpCB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, house-of-psychotic-women]
 ---
 
 <i>Fatal Attraction</i> in the 70s, when stalking wasn’t a crime and sex was still theoretically free — Clint Eastwood’s character isn’t trying to hold a nuclear family together, he just wants his sex life on his terms

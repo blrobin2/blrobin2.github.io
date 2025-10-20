@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ikYAZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, juvenile-delinquency, teensploitation]
 ---
 
 Season 6! The beginning of the Umbilicus

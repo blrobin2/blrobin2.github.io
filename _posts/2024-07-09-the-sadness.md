@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6PQkbT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober2.0, zombies]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 7/31 | Countries 2/5 | Taiwan</a></b>

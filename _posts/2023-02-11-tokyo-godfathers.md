@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Q4tSB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, queer, anime]
 ---
 
 On Christmas, a homeless trans woman finds an abandoned baby who would become the child she couldn’t have — her miracle virgin birth

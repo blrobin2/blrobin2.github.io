@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5O07FZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, werewolves, teensploitation, coming-of-age]
 ---
 
 Michael Landon does his best "James Dean" impersonation as a troubled teen with a problem with authority. He launches into uncontrolled bouts of violence at school and with friends.

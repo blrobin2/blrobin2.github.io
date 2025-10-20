@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4LLnIz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 This rules even if it makes no sense, I love the opening credits. I'd watch the show this was cut from

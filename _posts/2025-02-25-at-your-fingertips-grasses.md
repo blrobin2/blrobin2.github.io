@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8WBG0n
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 This short is like one of those 5-minute craft videos, but it's all about grass.

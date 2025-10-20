@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57JrJl
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, hicksploitation]
 ---
 
 - There goes the PTA conga line

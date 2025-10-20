@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sbwOT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober4.0]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 10/31 | Countries 4/6 | Spain | Decades 5/6 | 70s</a></b>

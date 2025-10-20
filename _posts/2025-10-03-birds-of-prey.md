@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bf06AR
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, nature-attacks]
 ---
 
 This movie is almost exclusively bird attack scenes. There is a whisper of plot for a minute or two, but I've already forgotten what it is beyond, "Birds are attacking us... Why?"

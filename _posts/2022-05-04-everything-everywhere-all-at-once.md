@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2OfY5h
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A multiverse of reviews:

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6UH6pT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-challenge-2022, cc2022, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 24/52 | Made in the United States</a></b>

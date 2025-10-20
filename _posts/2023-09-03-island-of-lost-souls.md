@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NcwCX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion, junglesploitation]
 ---
 
 Edward Parker (Richard Arlen) is a man from a shipwreck saved by a freighter full of animals en route to a remote island owned by Dr. Moreau (Charles Laughton). Instead of being taken to the nearest port, the captain throws him onto the boat that is heading for the island

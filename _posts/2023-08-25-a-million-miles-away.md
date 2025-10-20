@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KnvnH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 less silent treatment. less free jazz. more feeling. more feeling up

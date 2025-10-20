@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Dj8o5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2016]
 ---
 
 <b><a rel="nofollow">Cult Movie Challenge 2016 | 12/52 | Abbott and Costello</a></b>

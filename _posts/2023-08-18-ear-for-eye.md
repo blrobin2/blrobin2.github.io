@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Id879
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Stage play adapted to a film about Black lives ensnared in the history of white colonization. The film still occupies the stage but is lit to isolate the space into an infinite black, with characters sitting together, holding space, and telling their stories

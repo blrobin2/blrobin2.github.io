@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6gjkZN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober5.0, written-by-women, abraccine-100-melhores]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 12/32 | Before 1970 3/6</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4MvqlP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, wuxia]
 ---
 
 Based on the 16th-century novel of the same name, the story begins with a water demon attacking a small village, drawing out two demon hunters with opposing philosophies — one believes in the inherent goodness of all things, the other content to destroy them. The two reluctantly join forces and hunt demons together

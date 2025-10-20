@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3X9nQn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent]
 ---
 
 This looks incredible, I was locked in from moment one. Like, they had to be watching German Expressionists, right??

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4bqEN1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, frightfest-guide-to-ghost-movies]
 ---
 
 Beautiful cinematography, especially when Peggy first meets the ghost outside on an overcast night, the composition of his reveal, the shadow cast just over his face

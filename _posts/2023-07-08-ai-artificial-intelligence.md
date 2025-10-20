@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4u0M1j
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [1001-movies, coming-of-age]
 ---
 
 When a mother (Francis O’Conner) and father (Sam Robards) find their son in a coma, a scientist (William Hurt) provides them the opportunity to try out a new mecha capable of experiencing love named David (Haley Joel Osment). Through loss and time, David goes on a <i>Pinocchio</i>-like journey to fulfill his greatest wish: to be and to be loved as a real boy

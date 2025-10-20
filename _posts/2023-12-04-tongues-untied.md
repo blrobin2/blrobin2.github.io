@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5gvam3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, queer, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Citerion Challenge 2023</a> | 32/52 | Directed by Marlon Riggs</b>

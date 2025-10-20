@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3blH7f
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The fact that I last saw this movie when I was 12 and only remembered the first 1.5 hours seems thematically appropriate

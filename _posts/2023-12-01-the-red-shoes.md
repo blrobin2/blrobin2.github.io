@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fs6xh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, 1001-movies, sight-and-sound, scorsese's-85-film]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 29/52 | <a href="https://www.criterion.com/current/top-10-lists/23-allison-anders-s-top-10" target="_blank" rel="noopener">Allison Anders's Top 10</a></b>

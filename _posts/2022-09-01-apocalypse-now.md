@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3bw4vT
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The closest we’ll ever get to a big budget Herzog movie I guess

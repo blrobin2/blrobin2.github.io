@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6nCi3D
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, horror-anthology, killer-toy, solidarity, zombies, blaxploitation]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 31/32 | Bonus 1/2</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5PLSud
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 This season sucks, man.

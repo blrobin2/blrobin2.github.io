@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6oVEbV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, criterion-challenge-2022, cc2022, criterion, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 6/52 | 1960s</a></b>

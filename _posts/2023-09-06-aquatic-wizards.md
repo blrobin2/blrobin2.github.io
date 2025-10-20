@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4O6zSV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - hey, that's my mom!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9mCzJ7
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, rifftrax-live]
 ---
 
 - Ooo, you can really taste the codeine.

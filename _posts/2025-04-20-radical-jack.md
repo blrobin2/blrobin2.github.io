@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9swKWN
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Ah, Edgewood Entertainment. You gave me <a href="https://boxd.it/5VTZmb"><i>Time Chasers</i></a> and <a href="https://boxd.it/9fZVEB" target="_blank" rel="noopener"><i>Icebreaker</i></a>. And now <i>Radical Jack</i>? Surely, this is hell.

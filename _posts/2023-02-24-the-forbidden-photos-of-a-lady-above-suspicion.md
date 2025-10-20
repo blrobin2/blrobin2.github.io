@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TOsIz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, house-of-psychotic-women, giallo]
 ---
 
 Simón Andreu looks like a hot Nathan Fielder

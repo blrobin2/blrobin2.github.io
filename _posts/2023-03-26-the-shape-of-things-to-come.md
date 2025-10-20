@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/423Nmr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, plutotv, canuxploitation, post-apocalypse, scifiploitation]
 ---
 
 The shape of things to come is spaceship

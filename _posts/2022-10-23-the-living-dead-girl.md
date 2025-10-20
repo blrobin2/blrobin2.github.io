@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3lUjfJ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Slam in the back of my living girl

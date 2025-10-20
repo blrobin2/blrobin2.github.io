@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Eiknd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 Some priest throws a sack of Ghoulies in a vat of toxic waste, then accidentally falls in himself. The Ghoulies are fine — they climb out and jump onto a truck heading to the circus.

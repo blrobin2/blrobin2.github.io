@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5N9wUT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, cmc, cmc2016, mockbusters, religious-horror]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 18/52 | Splatter</a></b>

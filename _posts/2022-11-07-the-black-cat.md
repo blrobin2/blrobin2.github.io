@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3p6QMx
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A dude flings a knife at a cat and kills it, and no one seems bothered??

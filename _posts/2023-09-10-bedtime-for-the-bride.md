@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4P95MD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [sexploitation]
 ---
 
 Rooms full of bachelors lost their mind over this, never to see a chemise in real life

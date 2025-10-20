@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/azzPZ5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, adam, edited-by-women, written-by-women, superhero]
 ---
 
 I can't believe we see the baby crowning

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3mawlR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, britsploitation]
 ---
 
 Visions of videotape and venom

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8WcHyZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 This episode was the first where they did a post-credits stinger. The older man yelling, "Help me!" was so weird to the writers that they had to include it one more time.

@@ -5,6 +5,7 @@ excerpt: "My review of The Last Wave (1977)"
 rating: "3.5"
 letterboxd_url: https://boxd.it/boXYjT
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober12, criterion, post-apocalypse, indigenous, folk-horror:-a-study, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 17/31 | Post-Apocalypse 2/2</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/asRg6H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2018, chopsocky, wuxia]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 4/52 | Shaw Brothers</a></b>

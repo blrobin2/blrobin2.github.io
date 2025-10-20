@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/23IZs7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A noir for the discerning Mr. Skin subscriber

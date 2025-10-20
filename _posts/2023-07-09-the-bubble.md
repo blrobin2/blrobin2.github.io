@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ugq1t
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k]
 ---
 
 - Sir, bad news, we’ve removed a small naked boy from your wife

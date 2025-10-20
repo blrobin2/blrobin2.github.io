@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3YAV3R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, italian-gothic, giallo, frightfest-guide-to-exploitation-movies]
 ---
 
 Hallucinatory, violent images pursue a woman, and everyone has an opinion on what she needs

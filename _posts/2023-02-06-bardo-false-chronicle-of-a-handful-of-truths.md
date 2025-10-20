@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3OTIfj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, did-not-finish]
 ---
 
 <i> Last Year at Bardo-is-bad? </i>(I refuse to workshop this joke)

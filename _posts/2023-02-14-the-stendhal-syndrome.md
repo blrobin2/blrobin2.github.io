@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3QYwgn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, house-of-psychotic-women]
 ---
 
 I too dream about kissing fish and coughing up blood when I look at paintings

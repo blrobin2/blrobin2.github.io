@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Q254V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, harvard-phd]
 ---
 
 <i>Dennis the Menace</i>-core

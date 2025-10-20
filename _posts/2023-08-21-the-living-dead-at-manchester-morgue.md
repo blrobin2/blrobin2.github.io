@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JeHft
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, britsploitation, video-nasties, zombies]
 ---
 
 "We can't even get the government to act on things with hard facts and data. Imagine getting anyone to do anything on a mere hypothesis."

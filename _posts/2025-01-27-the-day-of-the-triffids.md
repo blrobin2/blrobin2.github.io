@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8CZMTL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, oh-my-horror, omh2025, omh, post-apocalypse, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 5/52 | 60s Horror</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5x9Xcv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, anime]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 1/52 | Anime</a></b>

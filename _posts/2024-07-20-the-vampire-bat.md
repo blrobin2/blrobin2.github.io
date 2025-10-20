@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6UBZML
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [midnight-pulp, hooptober, hooptober2.0]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 19/31 | Before 1970 4/5</a></b>

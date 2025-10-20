@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9aXfEl
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - You know what going into a tunnel represents, don't you? Death and its eternal void.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4p53vN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 <blockquote><i>Don’t confuse me with her. She may look like me, but she’s not me.</i></blockquote>Holly (Drew Barrymore) moves to LA, pursued by someone who looks exactly like her. She moves in with Patrick (George Newbern), who learns of her doppelgänger as murders begin to happen around them

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1oVxhH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [1001-movies, gothic-horror, devil-worship]
 ---
 
 Makes Satanism seem as stuffy and benign as any other royal pageantry, but Vincent Price is always captivating

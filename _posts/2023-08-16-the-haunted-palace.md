@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4HHWC3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, grindhouse-gothic]
 ---
 
 The choice to blend Poe and Lovecraft yields dividends. The story requires a lot of exposition, but also has more energy throughout than most of the other Poe cycle films. Overall, a little clunky, but it all comes together in the end

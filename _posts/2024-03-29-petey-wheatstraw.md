@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/69EnXT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, blaxploitation]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 28/32 | black director or predominantly black cast</a></b>

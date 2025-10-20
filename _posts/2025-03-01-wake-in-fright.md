@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8YKzBn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, cmc, cmc2017, 1001-movies, hicksploitation, ozploitation]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 1/52 | Ozploitation</a></b>

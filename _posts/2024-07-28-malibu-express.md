@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6YjG8R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, eurospy, carsploitation]
 ---
 
 <b><a href="https://boxd.it/xqceO" target="_blank" rel="noopener">Bullets, Bombs, and Babes: The Raunchy Spycraft of Andy Sedaris</a></b>

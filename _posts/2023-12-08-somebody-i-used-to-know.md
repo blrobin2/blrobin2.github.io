@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5hQQxX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 Hey babes! You know what time it is! It’s <b>#wineoclock</b>, where we curl up on the couch, polish off a bottle of wine, and watch a <i>delicious</i> rom-com.

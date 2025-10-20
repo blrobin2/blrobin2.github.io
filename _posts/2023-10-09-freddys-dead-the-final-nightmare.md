@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XW3O3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, slasher]
 ---
 
 <blockquote><i>Do you know the terror of he who falls asleep?

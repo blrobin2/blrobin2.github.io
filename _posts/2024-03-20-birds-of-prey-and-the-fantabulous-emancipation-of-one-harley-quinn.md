@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/65Aa0b
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, anti-criterion-challenge-2024, good-for-her, directed-by-women, written-by-women, superhero, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 12/52 | 2020s</a></b>

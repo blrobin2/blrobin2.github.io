@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aNiMUD
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation]
 ---
 
 The film is an inversion of the werewolf legend in which a man turns into the titular character when exposed to too much sun. Because this is 1958, it's because of radioactive isotopes and other pseudo-sci-fi nonsense. So, like, The Incredible Hulk, but the sun instead of anger. Or, wait, Dr. Jekyll and Mr. Hyde.

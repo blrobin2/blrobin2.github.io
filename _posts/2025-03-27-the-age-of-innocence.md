@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9eVmxD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, criterion, criterion-challenge-2024, cc2024, written-by-women, edited-by-women, 1001-movies, village-voice]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 48/52 | 1990s</a></b>

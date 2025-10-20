@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7kXggX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, alicia, alicia's-mom]
 ---
 
 The intentionality of every shot really shot out this time

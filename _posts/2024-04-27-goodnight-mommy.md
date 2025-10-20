@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lMAvn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober5.0, directed-by-women, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 26/32 | Woman-Directed 2/2</a></b>

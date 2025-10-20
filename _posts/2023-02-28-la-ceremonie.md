@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3UZ79f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, house-of-psychotic-women]
 ---
 
 Sandrine Bonnaire had me on the verge of tears — that coping mechanism of disassociating in front of the TV is so recognizable, that fear of the wrong person discovering the real you and the lack of control you feel

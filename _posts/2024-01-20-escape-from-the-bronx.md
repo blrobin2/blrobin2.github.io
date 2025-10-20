@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5DwVfR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, post-apocalypse, scifiploitation]
 ---
 
 As a title, <i>Escape from the Bronx</i> blows compared to <i>Escape 2000</i>

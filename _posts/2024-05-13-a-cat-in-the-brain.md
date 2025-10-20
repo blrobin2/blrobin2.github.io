@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sDvHX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober4.0, slasher, giallo]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 12/31 | Countries 6/6 | Italy | Decades 6/6 | 90s</a></b>

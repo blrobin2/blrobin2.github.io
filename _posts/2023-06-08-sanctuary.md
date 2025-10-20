@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4lBtDr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, amc-southpoint]
 ---
 
 Ultra-rich guy (Christopher Abbot), who has a regularly scheduled dominatrix (Margaret Qualley), decides to call things off with her after he learns that he’ll be CEO of his now-deceased father’s company. But she isn’t ready to end things and won’t leave without a fight

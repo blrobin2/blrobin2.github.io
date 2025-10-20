@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/be1rCx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, cmc, cmc2018, written-by-women]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 20/52 | Cynthia Rothrock</a></b>

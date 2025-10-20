@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53mcz9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, slasher]
 ---
 
 Six years ago, Michael and his niece Jamie disappeared on Halloween. Some thought they died, but others thought a secret group protected them.

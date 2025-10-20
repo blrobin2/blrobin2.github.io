@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59SddB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Based on the book, "Everything I Needed to Know, I Learned at the Beauty Parlor"

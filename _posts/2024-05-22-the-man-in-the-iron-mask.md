@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wbw1X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, hooptober, hooptober4.0]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 21/31 | James Whale</a></b>

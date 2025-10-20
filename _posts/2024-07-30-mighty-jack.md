@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Zu84n
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, ktma]
 ---
 
 Gerry Anderson wannabe put together by Sandy Frank! First and last episode of TV show called Mighty Jack. Presumably SOMETHING happened during the show's run?

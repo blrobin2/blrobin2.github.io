@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6mLuon
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober5.0, home-invasion]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 28/32 | Barbara Crampton</a></b>

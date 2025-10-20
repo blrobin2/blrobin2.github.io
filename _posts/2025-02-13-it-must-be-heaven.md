@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Oxg2H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anti-criterion-challenge-2024, acc2024, edited-by-women, solidarity]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 44/52 | Arab Film & Media Institute’s Cinema of Palestine</a></b>

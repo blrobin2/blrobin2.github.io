@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2PbmFR
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Proud Boys are gonna love this shit

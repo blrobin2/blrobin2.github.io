@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b9sX5p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, oh-my-horror, omh, omh2025, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 39/52 | Fall Horror</a></b>

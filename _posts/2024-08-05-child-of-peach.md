@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/71WF3L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hollis]
 ---
 
 More piss and ass-eating than I expected. The choreo is so good!

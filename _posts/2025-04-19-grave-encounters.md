@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9rTcad
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, found-footage, haunted-house]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 29/52 | Found Footage</a></b>

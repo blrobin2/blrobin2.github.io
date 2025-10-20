@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59OtGV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, anime]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 13/34 | Animated Films 1/2</b>

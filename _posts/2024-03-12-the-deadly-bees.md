@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62362T
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks, britsploitation]
 ---
 
 <i>Movie CW // Misogyny, Animal Abuse, Verbal Abuse

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6YVmQZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober2.0, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 28/31 | Monster 3/5" target="_blank" rel="noopener">Hooptober 2.0 | 28/31 | Monster 3/5</a></b>

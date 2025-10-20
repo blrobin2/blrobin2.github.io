@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2JgM49
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [adam, superhero]
 ---
 
 Two movies smushed together: a Se7en-esque noir and every superhero movie

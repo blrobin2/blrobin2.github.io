@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XiOtX
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 This reminds me so much of the fierys from Labyrinth who just casually removed body parts in the name of having a good time

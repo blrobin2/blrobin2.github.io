@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3my6Lx
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Goofy and endearing

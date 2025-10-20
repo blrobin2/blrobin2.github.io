@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6m9XgL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, birth-year-challenge]
 ---
 
 <a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener"><b>Birthday Year Challenge 5</b></a>

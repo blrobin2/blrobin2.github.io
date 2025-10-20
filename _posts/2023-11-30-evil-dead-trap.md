@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fdvIp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, slasher]
 ---
 
 Nami's Late Late Night used to be a hot show, but the ratings are low.

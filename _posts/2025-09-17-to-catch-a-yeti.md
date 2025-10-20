@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b5CZ0l
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, bigfoot]
 ---
 
 Meat Loaf and Rick Howland are hunting a cute little puppet with obscene feet—half star for the absolutely inspired Hank the Yeti design.

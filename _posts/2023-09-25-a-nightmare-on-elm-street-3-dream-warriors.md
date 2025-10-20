@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4TnXMB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, the-final-girl, slasher]
 ---
 
 <blockquote><i>Sleep.

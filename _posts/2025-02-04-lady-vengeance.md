@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8J579N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, asiancinemachallenge2023, asiancc2023, asiancc2023week3]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 3/52 | South Korea Blue Dragon Film Awards</a></b>

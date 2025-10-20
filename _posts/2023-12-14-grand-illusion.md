@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jT1CV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, sight-and-sound, claire-denis-req, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 42/52 | 1930s</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5gUr2f
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, christmasploitation]
 ---
 
 <b>The Devil and Santa are Raging Inside Me</b>

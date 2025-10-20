@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XhNUh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Very relatable content 😬

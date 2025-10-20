@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6oC95J
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, kaiju, britsploitation, nature-attacks]
 ---
 
 Hey! It's Susan Penhaligon. She's in a great anthology movie about evil cats called <i>The Uncanny</i>, among other things.

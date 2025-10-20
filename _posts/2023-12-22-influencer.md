@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5mMMiB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 Madison is a social media influencer with a massive following. She travels to Thailand to do some promotional spots and get good travel photos. Initially, her boyfriend Ryan was supposed to come with her, but he bailed at the last minute. She keeps in touch with her best friend, Jay, but the glamor of her trip distracts him from noticing that she isn't having a good time.

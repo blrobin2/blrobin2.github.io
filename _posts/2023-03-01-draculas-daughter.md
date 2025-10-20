@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3VdlEJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 “There are more things in heaven and earth than are dreamed in your psychiatry”

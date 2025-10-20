@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Pb0Xv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [sexploitation]
 ---
 
 Unrealistic body standards and all that

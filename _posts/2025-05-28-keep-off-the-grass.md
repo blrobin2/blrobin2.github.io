@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9PjpTJ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - You don't believe nicotine is a vitamin.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2i01er
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I held off on this until I was feeling emotionally ready for it… and I still wasn’t. Taylor Swift knows that the tiny moments are where the heartbreak lives strongest. Also, she pulled an amazing performance out of Sadie Sink

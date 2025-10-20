@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6K7nFH
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sorcery]
 ---
 
 Final episode of the season! Emily, Jonah, and Joel all together! Meaning, each host does 1/4 of the movie with their respective robots, then the three hosts handle the last 1/4 without the robots.

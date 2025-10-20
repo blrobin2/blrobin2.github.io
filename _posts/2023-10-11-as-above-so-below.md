@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Ywi0p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptoberx, found-footage]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 13/34 | Something is Underground</b>

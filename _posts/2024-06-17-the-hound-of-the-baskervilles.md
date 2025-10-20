@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6GUbRX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober3.0, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 16/31 | Before 1970 3/5 | Decades 3/5 | 30s</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5nTMpl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [4k-uhd]
 ---
 
 Showed it to my dad. He said that Moira Shearer looked like a young Lucille Ball.

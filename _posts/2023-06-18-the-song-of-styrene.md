@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ohobz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 Striking cinematography, from the vibrant plastics on the conveyor belts to the motion shots of the factory structures. The romantic and adventurous music adds to the sense of “shaping chaos to our needs.”

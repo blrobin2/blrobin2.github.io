@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3NibM7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi]
 ---
 
 The Siamese cat with the crossed eyes is the star of the movie, I will not be taking questions at this time

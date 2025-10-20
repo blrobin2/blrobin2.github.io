@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/99X0qp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2017, category-iii]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 9/52 | CAT III</a></b>

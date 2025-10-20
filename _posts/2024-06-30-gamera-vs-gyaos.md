@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6M0WwT
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, ktma]
 ---
 
 <blockquote><i>Gamera the flying turtle is pretty neat I must admit, but 2 weeks in a row is ridiculous.</i> — A call from a viewer</blockquote>

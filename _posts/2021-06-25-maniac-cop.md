@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1WQBfL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher]
 ---
 
 - Glad to see Bruce Campbell and Sam Raimi working together, however tangentially

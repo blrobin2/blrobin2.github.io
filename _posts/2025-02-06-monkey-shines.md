@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8K1qmH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plutotv, birth-year-challenge, byc, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 21</a></b>

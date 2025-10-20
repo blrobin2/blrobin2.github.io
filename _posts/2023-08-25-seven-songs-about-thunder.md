@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KmKUT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 Nobody knows the truffles I've seen

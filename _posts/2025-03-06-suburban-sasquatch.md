@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/929MjX
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 - Oh, something suburban is attacking them! I don't know what it is, but it's definitely not urban or rural!

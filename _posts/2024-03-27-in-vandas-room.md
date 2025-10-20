@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/68KjOL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion-challenge-2024, criterion, edited-by-women, solidarity, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 13/52 | Virtually Reality</a></b>

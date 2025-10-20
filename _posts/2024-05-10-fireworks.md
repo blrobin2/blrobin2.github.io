@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6rqzM3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, queer, short, solidarity]
 ---
 
 Version with narration, no blue tint

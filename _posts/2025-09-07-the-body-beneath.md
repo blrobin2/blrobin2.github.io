@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aZMBud
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2018, queer, britsploitation, vampires]
 ---
 
 <a href="https://boxd.it/q9zuy/detail" title="Cult Movie Challenge 2018 | 9/52 | Andy Milligan" target="_blank" rel="noopener"><b>Cult Movie Challenge 2018 | 9/52 | Andy Milligan</b></a>

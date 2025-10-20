@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6JAqPT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, cc2024, criterion-challenge-2024, criterion]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" title="Criterion Challenge 2024 | 26/52 | Hong Kong Cinema" target="_blank" rel="noopener">Criterion Challenge 2024 | 26/52 | Hong Kong Cinema</a></b>

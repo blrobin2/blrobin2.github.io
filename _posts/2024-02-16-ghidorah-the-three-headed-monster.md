@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5QcUS1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, cmc, cmc2016, kaiju, godzilla, nature-attacks, criterion]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 24/52 | Godzilla</a></b>

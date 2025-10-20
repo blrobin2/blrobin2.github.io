@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5iOUJD
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 - I like my family as a friend

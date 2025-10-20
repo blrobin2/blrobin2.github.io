@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4MgfAp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [film-theory-and-criticism]
 ---
 
 The invention of the opening credit sequence??

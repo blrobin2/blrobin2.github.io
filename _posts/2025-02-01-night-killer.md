@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8GyQoz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, so-bad-it's-good]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 52/52 | Bruno Mattei</a></b>

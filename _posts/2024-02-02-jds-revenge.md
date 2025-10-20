@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5JOvOL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, hooptober, hooptober8.0, blaxploitation]
 ---
 
 <b><a href="https://boxd.it/pOvfW" target="_blank" rel="noopener">Hooptober 8.0 | 32/34 | Bonus 1/3</a></b>

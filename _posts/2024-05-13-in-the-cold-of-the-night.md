@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sLzSh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, sexploitation]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 20/52 | Shannon Tweed" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 20/52 | Shannon Tweed</a></b>

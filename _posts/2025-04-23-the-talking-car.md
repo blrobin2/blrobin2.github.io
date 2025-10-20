@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9uvh0B
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 And that little boy in the short, Jimmy, grew up to be John Lasseter, sexual predator and director of <i>Cars</i>.

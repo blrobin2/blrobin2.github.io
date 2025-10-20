@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4e2JyT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, new-french-extremity, torture-porn, home-invasion]
 ---
 
 I saw Aja’s remake of <i>The Hills Have Eyes</i> in high school, and it was the first time I had seen a movie that violent — the first half felt so over-the-top I couldn’t process what I was experiencing — and the first time I felt that sense of vindication and cheering for violence during the second-half revenge. I anticipated something akin to that in this movie

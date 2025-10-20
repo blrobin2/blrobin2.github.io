@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4LWY8P
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 <blockquote><i>— People disappear every day

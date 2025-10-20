@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1NSfpR
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A lot of style, some well done effects, but a terrible script focusing more on “edginess” than characters, which backfires when the movie tries to be earnest towards the end

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3pND81
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, folk-horror:-a-study, 1001-movies]
 ---
 
 Only Bergman could get away with making you watch someone wait for a minute to pass on their watch in real time

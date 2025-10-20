@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9pDLAl
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, rifftrax-live, criterion, post-apocalypse, solidarity, 1001-movies, zombies, video-nasties]
 ---
 
 - Can't believe dad wanted a tombstone with the F-word on it so many times.

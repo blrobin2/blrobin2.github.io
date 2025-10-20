@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CccCH
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, short]
 ---
 
 - Dedicated to the chicken who lost their lives in the great war

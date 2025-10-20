@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Ef6h5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rape-and-revenge, vigilante]
 ---
 
 <blockquote><i>What about the old American social custom of self-defense? If the police don't defend us, maybe we ought to do it ourselves</i></blockquote>Some "freaks" break into the Kersey household, beat Joanna (Hope Lange) to death, and rape Carol (Kathleen Tolan), Joanna's daughter

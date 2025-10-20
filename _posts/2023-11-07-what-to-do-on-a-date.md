@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57Icxx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - You can have a PHD in dating?

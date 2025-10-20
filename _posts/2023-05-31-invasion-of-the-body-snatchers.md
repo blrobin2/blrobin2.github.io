@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4jo5SN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [karagarga, post-apocalypse, scifiploitation]
 ---
 
 People are reporting that someone they love is not the person anymore. The person has all of the memories, the vocabulary, the appearance, but lacks the emotional qualities that those close to the loved one can recognize

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Yj5bN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, hooptober, hooptoberx]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 12/34 | Distaster 2/2</b>

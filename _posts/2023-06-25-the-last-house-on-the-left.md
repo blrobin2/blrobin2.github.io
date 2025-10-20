@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4qeUWz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [rape-and-revenge, extreme, slasher, video-nasties, home-invasion]
 ---
 
 Two women leave to go to a concert, but a group of sickos pick them up and torture them

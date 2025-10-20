@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4LFho7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, vk]
 ---
 
 An anthology film about women transforming into various <i>yôkai</i>

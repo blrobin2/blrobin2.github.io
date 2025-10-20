@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5lMDdD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, 1001-movies, sight-and-sound]
 ---
 
 <a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a><b> | 47/52 | 1980s</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/arUsjb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, oh-my-horror, omh, omh2025, found-footage, folk-horror]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 30/52 | Folk Horror</a></b>

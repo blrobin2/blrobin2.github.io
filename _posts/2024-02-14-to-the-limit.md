@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Pl08Z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, exploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 22/52 | PM Entertainment</a></b>

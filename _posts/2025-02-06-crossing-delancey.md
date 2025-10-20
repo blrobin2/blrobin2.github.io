@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8KaXbF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, anti-criterion-challenge-2024, acc2024, criterion, written-by-women, directed-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 39 / 52 | Cinematography by Theo van de Sande</a></b>

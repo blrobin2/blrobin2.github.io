@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9n6CkJ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, rifftrax-live, short]
 ---
 
 - I'm a failure, goodbye cruel world, plastic bag, etc.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3RWvUL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, house-of-psychotic-women, queer]
 ---
 
 Confrontational, shrill, hysteric — in its own terms, a performance hellbent on freeing the expectations and portrayal of the “sane” woman from the patriarchal foundations of psychoanalysis, whose primary interest parades as a means to a healthy society but is, as most cultural institutions, another form of subjugation and control — it is not me who is sick, but the system that deems me so

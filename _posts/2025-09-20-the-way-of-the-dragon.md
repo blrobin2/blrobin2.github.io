@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b7rRgV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, cmc, cmc2018, criterion, chopsocky, beck]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 15/52 | Chuck Norris</a></b>

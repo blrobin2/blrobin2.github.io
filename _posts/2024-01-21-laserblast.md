@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5DLv9X
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 The final episode with Trace Beaulieu, so the last Dr. Forrester episode and the last time he voices Crow. His dad, Jack Beaulieu, shows up as the elderly version of Dr. Forrester.

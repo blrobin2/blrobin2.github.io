@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6BrHFL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Kinga and Max's financier, Dr Kabal, shows up and tells them they need to get a second host. This one is still Jonah, but they show Emily at the end.

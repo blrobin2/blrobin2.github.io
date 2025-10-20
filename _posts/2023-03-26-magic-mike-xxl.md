@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/421szv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent]
 ---
 
 Starts off with enough plot to satisfy the folks who liked the last movie, and just enough unnecessary conflict to ensure things don’t go perfectly smooth. By abandoning the lessons of the last movie — namely, that stripping is a dead-end street that he needed to get out of — the stakes are non-existent, so besides the petty interpersonal shit, they just hang dude

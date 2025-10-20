@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3xCO5x
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Sorry Swifties, Joe Alwyn is totally fine at acting

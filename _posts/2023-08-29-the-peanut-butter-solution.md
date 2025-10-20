@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4LCn7F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [switchblade-sisters, tubi, canuxploitation]
 ---
 
 Michael gives all of his money to a couple of unhoused folks. He later learns that the building in which they were squatting burned down

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4CeMLB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 <blockquote><i>Here I am holding this jack. Do you have a jack I can borrow?</i></blockquote>I watched the R-rated version, and it's hard to imagine that the excised gore and viscera would have made a significant difference in my rating of this

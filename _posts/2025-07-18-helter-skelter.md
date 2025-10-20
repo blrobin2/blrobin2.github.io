@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/an0euL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, oh-my-horror, omh, omh2025, directed-by-women, written-by-women, queer, j-horror]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 29/52 | Japanese Horror</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TKNU9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, house-of-psychotic-women, nazisploitation]
 ---
 
 Haven’t watched much, if any, <i>il sadiconazista</i>, so I don’t know where this falls on that particular “quality” spectrum

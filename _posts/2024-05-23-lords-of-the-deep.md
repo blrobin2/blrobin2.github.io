@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wFKNh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, mockbusters, directed-by-women]
 ---
 
 Roger Corman has a speaking role in this?? For a cheapie, (some of) the special effects are pretty good! I wish the movie was better

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6kuvPx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, post-apocalypse, scifiploitation]
 ---
 
 Elliott Kalan and Joel spotting! There are a couple of jokes in this episode that have Elliott's sense of humor written all over them.

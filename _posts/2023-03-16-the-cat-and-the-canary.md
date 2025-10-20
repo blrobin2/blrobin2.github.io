@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3ZmMZt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, frightfest-guide-to-ghost-movies]
 ---
 
 I’m gonna end up watching all the <i>The Cat & the Canary </i>adaptations, aren’t I?

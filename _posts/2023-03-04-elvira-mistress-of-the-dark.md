@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3VZrLn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 Happy to know the Amish are also fans of Elvira

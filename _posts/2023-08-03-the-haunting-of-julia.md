@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4DjjKX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, canuxploitation]
 ---
 
 Julia (Mia Farrow) tries to save her choking daughter by performing a tracheotomy but instead accidentally kills her. Riddled with grief and guilt, she leaves her husband, Magnus (Keir Dullea), and moves into a large, mysterious house

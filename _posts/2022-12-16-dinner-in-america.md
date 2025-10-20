@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3xoM5n
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Weirdo punk rock romance, genuinely surprised how this one crept up on me

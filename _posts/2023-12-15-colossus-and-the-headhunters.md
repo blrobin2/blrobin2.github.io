@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5khuTJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sandals]
 ---
 
 - Today's forecast is two boulders mixed with volcanic ash

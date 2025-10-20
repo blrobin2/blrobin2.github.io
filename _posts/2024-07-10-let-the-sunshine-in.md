@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6QmjAR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, directed-by-women, written-by-women]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 19/52 | Directed by Claire Denis</a></b>

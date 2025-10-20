@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8nf3UR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hoop-tober, hooptober, haunted-house, frightfest-guide-to-ghost-movies, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 16/31 | Countries 1/5 | Spain</a></b>

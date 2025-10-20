@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fJg8l
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Jem Starling whispers a prayer before her dance troupe performs an interpretive dance in front of their congregation.

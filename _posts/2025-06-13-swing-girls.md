@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Z4xh9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [coming-of-age]
 ---
 
 <blockquote><i>There are two types of people in the world: those who swing and those who don't.</i></blockquote>

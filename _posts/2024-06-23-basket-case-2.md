@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6J4CFx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober3.0, body-horror]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 22/31 | Frank Henenlotter</a></b>

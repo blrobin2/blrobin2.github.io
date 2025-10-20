@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ZC3al
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Ladies and gentlemen, the First Amendment as interpreted by Tito Puente.

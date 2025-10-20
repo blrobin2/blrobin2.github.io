@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6i63QV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober5.0, hooptober, solidarity, zombies, post-apocalypse, 1001-movies, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 16/32 | Romero | Anniversary Film 10/10</a></b>

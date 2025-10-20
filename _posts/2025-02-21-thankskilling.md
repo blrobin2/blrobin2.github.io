@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8TSNG3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, anti-criterion-challenge-2024, acc2024, nature-attacks]
 ---
 
 <b><a href="">Anti-Criterion Challenge 2024 | 50/52 | Holiday horror for any holiday</a></b>

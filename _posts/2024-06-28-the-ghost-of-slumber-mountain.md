@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6L7OwB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [wikipedia, short]
 ---
 
 Willis H. O'Brien's practice round before <i>The Lost World</i>. I wish more than one scene survived.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bz2OV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tiktok]
 ---
 
 If my parents heard Donald Duck say "pentagram," they would set the TV on fire

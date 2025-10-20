@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sdc75
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [archive.org, hooptober, hooptober4.0, queer]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 11/31 | Countries 5/6 | France</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/61nFFx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, did-not-finish, owen, will]
 ---
 
 A friend demanded we watch this after <i>Brokeback Mountain</i>. After some chaos, we put it on. An hour in, they said they hated it and wanted to turn it off.

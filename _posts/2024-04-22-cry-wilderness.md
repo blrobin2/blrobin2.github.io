@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6k9RXr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, bigfoot]
 ---
 
 I like that Jonah has to act out the opening every time because of poor recording material.

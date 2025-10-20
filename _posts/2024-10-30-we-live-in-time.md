@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7Gfexx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [a/perture-cinema, alicia, did-not-finish]
 ---
 
 There is a version of this movie I could appreciate, but it would require the men writing and directing it to give the characters more than "angry independent woman" and "boy who cries and cares too much." The leads had no chemistry, either, so it was near impossible to fall for their romance.

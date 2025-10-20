@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8dK59b
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, owen]
 ---
 
 <blockquote><i>I was born to equalize. </i>— Mark Twain</blockquote>

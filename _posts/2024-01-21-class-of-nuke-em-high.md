@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5DS5zJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, troma, scifiploitation, teensploitation, drugsploitation, coming-of-age]
 ---
 
 <blockquote><i>Even if there were some radiation around here, who gives a shit?</i></blockquote>Welcome to Tromaville, the toxic waste capital of the world!

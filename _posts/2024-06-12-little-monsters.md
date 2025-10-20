@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ESQtP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, hooptober3.0, hooptober, zombies]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 9/31 | Countries 2/6 | Australia</a></b>

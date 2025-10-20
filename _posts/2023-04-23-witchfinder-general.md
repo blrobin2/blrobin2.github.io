@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49zS1b
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, folk-horror:-a-study, britsploitation]
 ---
 
 Letterboxd keeps erasing my reviews when I set them aside mid-movie, so my reviews have been shit lately.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b3VVtj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, oh-my-horror, omh, omh2025, edited-by-women, cannibal]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 38/52 | Hispanic Horror</a></b>

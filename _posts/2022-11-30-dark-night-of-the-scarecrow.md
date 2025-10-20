@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3tTw2j
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher]
 ---
 
 One of the only horror movies I can remember where the opening is a montage of where all the kills will take place

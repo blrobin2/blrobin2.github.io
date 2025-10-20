@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6hEqEH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, directed-by-women, written-by-women]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 16/52 | Women Auteurs</a></b>

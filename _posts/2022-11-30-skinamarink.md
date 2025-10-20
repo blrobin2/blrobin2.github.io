@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3tW3cl
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 An anti-<i>House of Leaves</i> where space contracts, commentary is absent, and the camera can only manage to find the liminal spaces where something shouldn’t be

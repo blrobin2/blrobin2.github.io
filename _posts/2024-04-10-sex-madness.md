@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6fgb8v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, queer, sexploitation, cautionary-film]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 9/32 | Anniversary Film 8/10 | Before 1970 1/6</a></b>

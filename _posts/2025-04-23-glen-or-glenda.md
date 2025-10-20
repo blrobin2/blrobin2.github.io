@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9uuy3F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2017, queer, solidarity, extreme]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 30/52 | Psychotronic Encyclopedia</a></b>

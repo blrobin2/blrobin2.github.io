@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4qrDZd
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - Hot dog, I got a date with death!

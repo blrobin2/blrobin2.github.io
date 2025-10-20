@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xYe2F
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k]
 ---
 
 TV's son of TV's frankfurter

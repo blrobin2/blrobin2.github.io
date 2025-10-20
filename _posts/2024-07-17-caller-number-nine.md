@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ToRaT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vimeo, short]
 ---
 
 <blockquote>

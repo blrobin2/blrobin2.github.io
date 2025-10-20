@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/20J6fn
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 My jaw literally dropped during the opening sequence. Just an incredible visual achievement, full of sight gags and flourishes from start to finish

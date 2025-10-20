@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/93QSdV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, my-kyle, holly, queer, coming-of-age, giallo, slasher, gothic-horror, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 5/52 | Giallo</a></b>

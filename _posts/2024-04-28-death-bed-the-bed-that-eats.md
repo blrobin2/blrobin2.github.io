@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6miwDr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober5.0, haunted-house, so-bad-it's-good, folk-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 27/32 | Inanimate Object Comes Alive</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59CSg5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, technothrillers]
 ---
 
 <b>Gen X Soft Club Videodrome</b>

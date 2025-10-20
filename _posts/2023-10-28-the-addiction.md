@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/549xQN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, 90s-horror, vampires]
 ---
 
 <b>Russell Simmons presents "Vampires are philosophy doctorates"</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5RINn9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 8/52 | Martin Scorsese's World Cinema Project</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5HUxoJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, cat-movies, short]
 ---
 
 No, don't fight :(

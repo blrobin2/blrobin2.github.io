@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1jZjIx
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Everything I read about this is as contradictory as the film itself. I have no idea how to feel about this

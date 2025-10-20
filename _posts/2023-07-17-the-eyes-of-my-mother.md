@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wPEOx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, house-of-psychotic-women]
 ---
 
 A woman collapses on the road in front of an 18-wheeler

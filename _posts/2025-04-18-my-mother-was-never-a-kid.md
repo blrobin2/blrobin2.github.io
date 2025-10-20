@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9rg4gJ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short, coming-of-age]
 ---
 
 Bridget Jones Nelson (Mike's wife) and Mary Jo Pehl riff on this for Mother's Day.

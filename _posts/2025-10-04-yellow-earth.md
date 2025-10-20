@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bfOCOL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [worldscinema.org, asiancinemachallenge2023, asiancc2023, asiancc2023week20, fifth-generation-chinese, golden-horse, chinese-dissident-cinema, solidarity]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 20/52 | Chinese Cinema: The Fifth Generation</a></b>

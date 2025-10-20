@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Z3u7b
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, evil-children, coming-of-age]
 ---
 
 Our introduction to the family has major <i>Leave It to Beaver</i> vibes — wholesome and unassuming. “By gum, I’ll try!” Gee whiz

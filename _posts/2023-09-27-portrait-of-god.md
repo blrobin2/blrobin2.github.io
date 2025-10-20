@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4TVC47
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube]
 ---
 
 god needs to up their skincare game

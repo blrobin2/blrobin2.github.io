@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5WFbId
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, cyberpunk, canuxploitation, sov]
 ---
 
 <i>Movie CW // Misogyny, Ableism, Fatphobia</i>

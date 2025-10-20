@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6tBoRL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob]
 ---
 
 <blockquote><i>Everyone has a secret. Some are better at hiding them than others</i></blockquote><b>Grantham, Virginia</b>

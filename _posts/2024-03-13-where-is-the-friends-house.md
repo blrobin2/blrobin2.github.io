@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62lIzd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, coming-of-age, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/qWjuA" target="_blank" rel="noopener">Criterion Challenge 2024 | 11/52 | a film in the Saturday Matinee series "Observations on Film Art"</a></b>

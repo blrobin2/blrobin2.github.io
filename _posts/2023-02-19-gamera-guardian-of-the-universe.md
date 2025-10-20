@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SoalV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, kaiju]
 ---
 
 Every time that turtle turns into a spaceship and flies away rules

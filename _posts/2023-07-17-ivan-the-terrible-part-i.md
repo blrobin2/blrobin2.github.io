@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wNuQf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, 1001-movies, criterion]
 ---
 
 A biopic of Ivan IV, who tried to take absolute power to unify Russia into one state. Wouldn’t you know it, the powers that be weren’t exactly chill about it

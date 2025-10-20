@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9h4qZx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, blaxploitation, horror-anthology, sov]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 17/52 | Shot on Video</a></b>

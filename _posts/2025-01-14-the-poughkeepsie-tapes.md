@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8t5c37
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [roku-channel, oh-my-horror, omh, omh2025, found-footage]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 2/52 | Found Footage</a></b>

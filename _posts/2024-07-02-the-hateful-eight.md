@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6MFZXv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [paramount+, cmc, cmc2024]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 27/52 | Ennio Morricone</a></b>

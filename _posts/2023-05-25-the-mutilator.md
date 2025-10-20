@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4hT3hp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, slasher, frightfest-guide-to-exploitation-movies]
 ---
 
 Ed Jr is cleaning his dad’s guns for his dad’s birthday and accidentally shoots his mom in the back — the way he looked down the barrel, I was hoping it would be him. The dad comes home and chases his son off with one of the guns and proceeds to take the body into his den and have a drink with it

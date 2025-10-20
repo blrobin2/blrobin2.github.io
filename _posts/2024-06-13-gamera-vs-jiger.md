@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6FnVAD
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, kaiju]
 ---
 
 Jonah episode. Pearl calls Kinga "bittersweetheart." I dig it. They laughed at each other's jokes a lot more this episode.

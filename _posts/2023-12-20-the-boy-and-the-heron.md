@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5mhjiZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, adam]
 ---
 
 <b> Miyazaki needed us to see people covered in bird shit, hugging one another</b>

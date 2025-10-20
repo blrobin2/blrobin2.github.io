@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Xcqcp
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 the miniature work is cool! i love the submarine

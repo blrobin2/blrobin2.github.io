@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1UqDEX
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I appreciate the zombies quieting down for all of the monologues about selfishness or sacrifice or whatever

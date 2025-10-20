@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Etgxl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, anna, directed-by-women, edited-by-women, queer]
 ---
 
 Dude looks like David Duchovny got plastic surgery to look more like Doug Funny.

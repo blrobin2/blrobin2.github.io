@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8SanNP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, oh-my-horror, omh, omh2025, slasher]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 8/52 | Aliens</a></b>

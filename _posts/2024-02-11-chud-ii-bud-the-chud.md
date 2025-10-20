@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5NTAHV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober7.0, hooptober, scifiploitation, zombies]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7" target="_blank" rel="noopener">Hooptober 7.0 | 10/32 | 2nd film in franchise 2/7</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3ZjGGJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, switchblade-sisters]
 ---
 
 Yet another movie I watched at too young an age because my mom rented it. Only rewatching for a podcast

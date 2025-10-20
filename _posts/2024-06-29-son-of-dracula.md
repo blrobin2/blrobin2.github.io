@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6LvJmT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober3.0, vampires]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 28/31 | Classic Universal horror | Before 1970 5/5</a></b>

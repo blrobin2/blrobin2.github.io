@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3YuIPL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, 1001-movies]
 ---
 
 Seedy streets, a woman in trouble, and a man from overseas with a message of peace in his heart, and a hostile world in which to spread it

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6XAjpb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [acc2024, anti-criterion-challenge-2024, sword-&-sorcery]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 30/52 | A character that has more than 4 limbs</a></b>

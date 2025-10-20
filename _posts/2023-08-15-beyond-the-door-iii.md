@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4HpDiH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob]
 ---
 
 A high school field trip to Serbia goes off the rails... literally

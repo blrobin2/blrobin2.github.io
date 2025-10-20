@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8qAuJP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hoop-tober]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 18/35 | Countries 3/5 | South Korea</a></b>

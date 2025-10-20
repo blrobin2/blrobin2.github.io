@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/66wKzx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, found-footage, possession]
 ---
 
 During the 1970s, Jack Delroy hosted a late-night talk show called Night Owls. Though trying to compete with Carson, the show had middling reviews. When Jack took the show in a Jerry Springer-like direction, the show tanked. So, during sweeps week and on Halloween night, Jack puts together a show guaranteed to get big ratings.

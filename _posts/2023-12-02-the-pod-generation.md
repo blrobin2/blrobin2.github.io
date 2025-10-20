@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fFXib
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Welcome to the future. Digital assistants mediate all tasks. Bread is 3D printed. Devices measure and quantify bliss. So many ASMR videos.

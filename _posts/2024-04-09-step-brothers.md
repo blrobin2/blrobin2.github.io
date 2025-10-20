@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6eW8IZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 15/52 | Buddy film, but the buddies aren't cops</a></b>

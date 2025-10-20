@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8NYl0h
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, łódź, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 25</a></b>

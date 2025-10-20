@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/212vY1
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I’m giving at least one half-star to this movie for all of the beautiful Baltimore accents

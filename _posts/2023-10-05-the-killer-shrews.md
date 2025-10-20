@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4WDp7X
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 This movie is so goofy — the climax is them slowly moving under barrels while dogs in "shrew" masks crowd around them

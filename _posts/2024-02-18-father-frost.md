@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5R53Tv
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Jim Mallon's last episode as GPC. I wish this was a Joel episode — it fits his sense of humor more.

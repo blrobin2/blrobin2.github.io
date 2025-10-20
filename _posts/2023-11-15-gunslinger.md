@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ab2lR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - When are you guys gonna realize that when you kill each other, you're only hurting yourself?

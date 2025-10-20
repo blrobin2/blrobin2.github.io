@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5aKhKn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation, brainsploitation]
 ---
 
 New opening for Mike! It feels... weird. This is the in-between time where they haven't figured out Mike's deal yet

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3t6Qcv
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Well-acted, beautiful cinematography, but a story akin to a teenage boy’s fantasy — if I stare long enough, if I see what no one else sees, that gives me the ticket to access the one I desire

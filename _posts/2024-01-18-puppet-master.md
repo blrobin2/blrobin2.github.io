@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CAYn9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, cmc, cmc2016, slasher, killer-toy]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 10/52 | Full Moon / Empire Pictures</a></b>

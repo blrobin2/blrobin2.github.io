@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Vyfvh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - So far, this looks like the dramatization of a movie

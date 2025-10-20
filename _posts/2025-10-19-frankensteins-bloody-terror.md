@@ -5,6 +5,7 @@ excerpt: "My review of rankenstein's Bloody Terror (1968)"
 rating: "2.5"
 letterboxd_url: https://boxd.it/bqz8cB
 category: movie-review
+tags: [youtube, cmc, cmc2018, werewolves]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 24/52 | Werewolves</a></b>

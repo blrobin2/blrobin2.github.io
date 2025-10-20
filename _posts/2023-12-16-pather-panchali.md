@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kv2RD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, claire-denis-req, 1001-movies, sight-and-sound, coming-of-age, solidarity]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 44/52 | 1950s</b>

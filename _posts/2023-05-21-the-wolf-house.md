@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4gPCsF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 The framing story is that a German colony within Chile is trying to clear up misunderstandings about them, and the story told is to help that

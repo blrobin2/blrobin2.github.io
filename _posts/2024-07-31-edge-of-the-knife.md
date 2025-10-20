@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ZR2pP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [acc2024, anti-criterion-challenge-2024, written-by-women, directed-by-women, edited-by-women, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 31/52 | Directed by an Indigenous director whose work you haven’t seen before</a></b>

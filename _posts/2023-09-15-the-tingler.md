@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4QwEqH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, genre:-exploitation]
 ---
 
 <i>The Tingler</i> is the story of Dr. Warren Chapin (Vincent Price) investigating the effect of fear on the body. He believes that it is the scream that releases the deadly tension and that without the ability to scream, fear will shock you and perhaps kill you

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4tG52N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, ai]
 ---
 
 The easiest way to sum up the plot would be Cyrano de Bergerac if he were a computer

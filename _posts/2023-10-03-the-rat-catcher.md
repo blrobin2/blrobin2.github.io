@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4W0RMV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 Richard Ayoade

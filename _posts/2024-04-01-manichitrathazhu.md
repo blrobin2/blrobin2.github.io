@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6bpRDH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, ibn-100]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" title="Hooptober 6.0 | 31/32 | Countries 6/6 | India" target="_blank" rel="noopener">Hooptober 6.0 | 31/32 | Countries 6/6 | India</a></b>

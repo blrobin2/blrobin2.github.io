@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Tvouv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women, britsploitation]
 ---
 
 A classic case of doing all the wrong work and still somehow being right

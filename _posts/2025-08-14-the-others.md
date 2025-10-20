@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aIAM81
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [4k-uhd, beck, haunted-house, folk-horror, criterion, 1001-movies, frightfest-guide-to-ghost-movies]
 ---
 
 I love watching this and knowing how it ends because the filmmakers structured everything so deliberately that I never feel like any bit is out of place. The filmmaking has a timeless quality that only falters in a couple of digital SFX choices. But the main reason I return to this movie is the Gothic, <i>Turn of the Screw</i>-adjacent dread and atmosphere.

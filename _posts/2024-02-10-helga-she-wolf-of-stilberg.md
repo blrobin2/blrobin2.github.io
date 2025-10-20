@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5NsOvP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, nazisploitation, sexploitation, women-in-prison, extreme]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 19/52 | Nazisploitation</a></b>

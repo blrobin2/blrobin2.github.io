@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1ELb6L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, britsploitation, werewolves]
 ---
 
 One night ultimate werewolf

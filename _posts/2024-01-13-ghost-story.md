@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5zH19p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober8.0, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 12/34 | From 1981 1/4 | Decades 5/8 | 80s</a></b>

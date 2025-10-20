@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/52UPoX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion, anna, 1001-movies, hollywood-funnywomen]
 ---
 
 On a ship leaving South America for the US, Jean (Barbara Stanwyck), the hottest woman who ever lived, meets Charles (Henry Fonda), a beautiful idiot who studies snakes. Did I mention that he's also obscenely wealthy?

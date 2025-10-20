@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4RujPr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, 1001-movies, criterion]
 ---
 
 Tom grew up afraid that being good-looking and dumb wouldn't get him anywhere. Aaron knew he was smarter than everyone else and thought that was the ticket to getting everything he wanted. From childhood, Jane gave herself self-imposed deadlines, keeping herself too busy to worry

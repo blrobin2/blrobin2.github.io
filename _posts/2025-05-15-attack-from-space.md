@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9HiZ6p
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation]
 ---
 
 I love how this movie looks! The costumes are so fun! There's a Death Star! They used the best headbutt sound effect, making me rub my head! But it's so boring!! The final fight is kind of cool, but it goes on way too long.

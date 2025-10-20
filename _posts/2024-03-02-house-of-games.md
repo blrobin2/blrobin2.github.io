@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5X073H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [freevee, criterion-challenge-2024, criterion, edited-by-women, heist, film-noir]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 9/52 | Criterion Staff Picks</a></b>

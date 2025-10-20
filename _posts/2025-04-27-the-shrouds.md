@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9x0lxf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [chelsea-theater, owen, body-horror]
 ---
 
 Yes, it has themes — something something grief, yadda yadda yadda surveillance — but it's so clumsily compiled that it's hard to appreciate the genuine emotion Cronenberg put into it. I love the concept and the story itself, but the way it's told is all tell and no show, when several of the tells would be more effective as shows.

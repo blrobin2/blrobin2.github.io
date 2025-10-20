@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JE8MJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, written-by-women, directed-by-women, coming-of-age]
 ---
 
 <blockquote><i>Mommy was happy before widdle Kevin came along, did you know dat?</i></blockquote>A Bad Seed-like thriller where Eva (Tilda Swinton) knows from day one that there's something wrong with her son, Kevin. Worse still, she tries to get help for him, but medical doctors say he's fine, and her husband, Franklin (John C. Riley), does not believe her

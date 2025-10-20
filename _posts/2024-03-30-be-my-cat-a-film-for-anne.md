@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6a8bUN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, found-footage, troma]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 40/52 | Troma</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KGaBV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-channel]
 ---
 
 Me and the boys wrapping our tails around each other and getting each other pregnant — that's how it works, right?

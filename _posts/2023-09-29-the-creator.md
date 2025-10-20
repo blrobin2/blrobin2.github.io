@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4UDzKx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-durham, adam, owen]
 ---
 
 I dictated this so sorry if it's nonsense, I'm tired

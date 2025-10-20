@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/72pZvD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 31/52 | 50s Sci-Fi</a></b>

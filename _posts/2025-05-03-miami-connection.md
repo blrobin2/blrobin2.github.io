@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9AnOop
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, rifftrax-live, ninjasploitation]
 ---
 
 Thank you, Y.K. Kim and Dragon Sound. "Friends" will never leave my head.

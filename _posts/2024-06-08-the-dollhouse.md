@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6D7Jjb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, directed-by-women, short]
 ---
 
 Director Kyra Elise Gardner is the daughter of Tony Gardner, who worked on special effects for Chucky. Here, she interviews people who have worked on the movies. They were a second family to her growing up.

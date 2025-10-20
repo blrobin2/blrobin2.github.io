@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8k10V3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hoop-tober, britsploitation, zombies, post-apocalypse, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hooptober | 13/31 | Terence Fisher 3/5</a></b>

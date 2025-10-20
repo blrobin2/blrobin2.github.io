@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bMISL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 20/34 | German Silent | Decades 7/8 | 1910s</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5IKD8V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, solidarity]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 5/52 | Most recently added film in your watchlist</a></b>

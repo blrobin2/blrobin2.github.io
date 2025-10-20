@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/biU56P
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation, canuxploitation]
 ---
 
 I'm finding Christopher Lee in the most unexpected places. It’s kind of amazing how cheap this movie looks with this cast. The score has some groovin' drums.

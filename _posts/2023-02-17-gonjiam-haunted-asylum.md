@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3RGqEL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, found-footage]
 ---
 
 I appreciate the opening portrayal of teenagers as dumb as hell

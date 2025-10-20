@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4uFsux
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, britsploitation, scifiploitation]
 ---
 
 - Hey look, they’re being followed by a movie

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5f5iGz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0, frightfest-guide-to-exploitation-movies, slasher]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 33/34 | Bonus 2/3</b>

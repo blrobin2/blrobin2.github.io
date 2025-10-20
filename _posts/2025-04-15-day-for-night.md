@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9pqhyj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [rialto, owen, emma, written-by-women, criterion, 1001-movies]
 ---
 
 François Truffaut plays Ferrand, a director working on a melodrama called <i>Meet Pamela</i> about a woman falling in love with her husband's father. The film follows <i>Meet Pamela</i>'s production and the melodrama behind the scenes.

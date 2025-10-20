@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3pZJCF
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Oh thank god I can feel something

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5YCnfp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [freevee, hooptober, hooptober6.0, edited-by-women, werewolves, italian-gothic, women-in-prison]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 3/32 | film from before 1966 3/6</a></b>

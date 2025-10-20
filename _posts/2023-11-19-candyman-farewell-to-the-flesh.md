@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5beFLT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, amazon-prime, slasher]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 19/34 | The worst horror sequel from the 1990s that you haven't seen and can access | Decades 6/8 | 1990s</b>

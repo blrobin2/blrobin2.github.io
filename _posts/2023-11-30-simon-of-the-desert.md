@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5feO5X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, sight-and-sound]
 ---
 
 Priests and pilgrims come to a pillar. Atop is Simon, who has stood there for six years, six months, and six days. To convey gratitude, they present Simon with a taller pillar.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/50lmdj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, folk-horror:-a-study]
 ---
 
 (review pending)

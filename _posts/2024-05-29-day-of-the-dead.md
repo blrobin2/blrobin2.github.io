@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6zjIoR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, hooptober, hooptober4.0, zombies, post-apocalypse]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 28/31 | Romero Dead</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3x7Va3
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 What to say, this is an instant classic for me

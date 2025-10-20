@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4UyHxr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion, 1001-movies, hollywood-funnywomen]
 ---
 
 Jerry (Cary Grant) lied and said he went to Florida for 2 weeks, but he doesn't have a tan, so he gets a fake one at the health club

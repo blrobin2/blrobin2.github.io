@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/97bvIZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, cmc, cmc2017, britsploitation, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 7/52 | 50s Sci-Fi</a></b>

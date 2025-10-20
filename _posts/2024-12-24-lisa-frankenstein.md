@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/88u6yT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, good-for-her, directed-by-women, written-by-women, coming-of-age]
 ---
 
 When in Rome's <i>The Promise</i> introduces us to Lisa creating tombstone rubbings in Bachelor's Grove. Later, we watch her get ready for a party. Hairspray, tanning bed, and blush blindness — it's 1989, baby.

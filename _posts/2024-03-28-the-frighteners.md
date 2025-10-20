@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/69gDJF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, written-by-women, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="">Hooptober 6.0 | 27/32 | Dee Wallace | Countries 5/6 | New Zealand</a></b>

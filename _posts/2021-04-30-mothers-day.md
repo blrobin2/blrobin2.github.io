@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1Pqx7X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hicksploitation, slasher, frightfest-guide-to-exploitation-movies, special-day-horror, home-invasion]
 ---
 
 Moms, am I right?

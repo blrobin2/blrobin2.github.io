@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6B0CJf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, mexican-luchador, vampires]
 ---
 
 Apologies to <a href="https://boxd.it/MltZ" target="_blank" rel="noopener">CinemaMystic</a>, I jumped on the Gizmoplex season. And judging by how poorly the crowdfunding went, probably the last season for a while.

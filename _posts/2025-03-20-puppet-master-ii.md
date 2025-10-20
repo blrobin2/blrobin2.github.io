@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9aMYeb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2017, killer-toy, slasher, zombies]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 10/52 | Full Moon Entertainment</a></b>

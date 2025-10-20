@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/89gqin
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 The Sonic Catering Institute houses a performance art group for a month-long residency. Like all artists in residency, the group dedicates themselves to food and the generating foley surrounding it.

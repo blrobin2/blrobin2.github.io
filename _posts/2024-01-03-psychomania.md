@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5tsh7v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, bikesploitation, folk-horror:-a-study, britsploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw" title="Cult Movie Challenge 2016 | 1/52 | Biker" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 1/52 | Biker</a></b>

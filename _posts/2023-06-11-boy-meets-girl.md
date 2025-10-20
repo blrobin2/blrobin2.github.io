@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4mlstH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women, britsploitation, british-sexploitation, sexploitation]
 ---
 
 A woman brings a man home for a one-night stand, watches some porn, and sedates him. He wakes up tied to a dentist's chair. Why? I don’t know, really

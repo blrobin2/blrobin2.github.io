@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4jM2Uf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion]
 ---
 
 Eliza (Hope Davis) finds a love note she didn’t write that may be directed to her husband Louis (Stanley Tucci), so she goes into the city with her family — her sister Jo (Parker Posey), Jo’s boyfriend Carl (Liev Schreiber), and her mother and father (Anna Meara and Pat McNamara) — to investigate

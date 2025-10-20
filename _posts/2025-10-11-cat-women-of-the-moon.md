@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bk4U8B
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Mary Jo Pehl and Bridget Jones Nelson riff on this one. This was their first "almost movie" riff, as they call it (the movie is barely over 60 minutes).

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5LQRFD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [paramount+, anti-criterion-challenge-2024, 1001-movies, acc2024]
 ---
 
 <b><a rel="nofollow">Anti-Criterion Challenge 2024 | 6/52 | 1960s</a></b>

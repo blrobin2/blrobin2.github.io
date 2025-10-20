@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5GVGYJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju, nature-attacks]
 ---
 
 This is the first episode that lines up with the premise presented in the opening credits — Pearl chasing them through space

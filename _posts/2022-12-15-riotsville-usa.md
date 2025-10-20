@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3x5Yu7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 “I want peace in my community, and I’m determined to get it one way or another”

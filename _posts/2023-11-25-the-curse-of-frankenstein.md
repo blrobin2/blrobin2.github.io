@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5dgkzp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober9.0, britsploitation]
 ---
 
 <b><a href="https://letterboxd.com/blrobin2/list/hooptober-90-retroactive/detail/">Hooptober 9.0</a> | 26/34 | Christopher Lee films 1/2</b>

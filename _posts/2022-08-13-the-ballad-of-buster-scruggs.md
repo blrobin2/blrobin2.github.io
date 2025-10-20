@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/37KoVJ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Subject-matter-wise, I only liked the Buster Scruggs segment. Otherwise, I can appreciate the visual craftsmanship of each story (the use of color to differentiate the segments is particularly noteworthy)

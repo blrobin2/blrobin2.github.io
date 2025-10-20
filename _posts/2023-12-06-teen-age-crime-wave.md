@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5hiA2L
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, juvenile-delinquency, teensploitation, coming-of-age]
 ---
 
 The movie manages to be tense in a couple of places. The observatory chase is pretty fun!

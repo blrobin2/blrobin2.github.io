@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5VxjEX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 <b>Wim Winders had to make a movie about those sick toilets in Tokyo</b>

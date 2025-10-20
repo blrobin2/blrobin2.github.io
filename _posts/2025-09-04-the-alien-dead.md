@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aXrcMh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, scifiploitation, zombies]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 36/52 | Zombies</a></b>

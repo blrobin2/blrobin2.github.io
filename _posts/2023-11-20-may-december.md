@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bL28z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [chelsea-theater, adam]
 ---
 
 An actress stays with a family to prepare for an upcoming role.

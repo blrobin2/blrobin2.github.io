@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4k1U0F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, sexploitation]
 ---
 
 “Your wife has a disease of the libido”

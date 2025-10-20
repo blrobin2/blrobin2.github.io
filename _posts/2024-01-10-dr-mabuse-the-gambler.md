@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5y7xs3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, written-by-women, 1001-movies, anti-criterion-challenge-2024, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 2/52 | 1920s</a></b>

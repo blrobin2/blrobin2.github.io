@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/41psa5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, heist]
 ---
 
 Jonathan Glazer refuses to have a singular aesthetic or vision. Between this, <i>Birth</i>, and <i>Under the Skin</i>, I can’t determine any immediate similarities. Maybe there’s connective tissue to be found in his shorts?

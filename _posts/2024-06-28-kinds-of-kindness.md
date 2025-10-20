@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Lf93f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen, cannibal]
 ---
 
 With <i>Poor Things</i>, Yorgos Lanthimos displayed a more mature approach to his misanthropy. Here, he indicates that the maturity we saw was perhaps an accidental fluke more than an intentional choice. He's still the guy who made <i>The Lobster</i>, and all his classic proclivities are here: awkward sex, animal mutilation/death, deadpan acting, and sadomasochism.

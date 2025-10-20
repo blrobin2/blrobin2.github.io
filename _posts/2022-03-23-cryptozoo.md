@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2GKLZh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Trippy visuals with nothing to say

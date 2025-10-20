@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/22DjEL
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Samurai Jack

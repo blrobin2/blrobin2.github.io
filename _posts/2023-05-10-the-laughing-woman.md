@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4eccuT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, sexploitation]
 ---
 
 A rich man abducts his new assistant with the intent of torturing her and then murdering her at the point of orgasm

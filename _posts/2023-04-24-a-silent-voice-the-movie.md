@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49Uf0Z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anime]
 ---
 
 Teenage melodrama slice of life, where love and friendship are quite literally life or death

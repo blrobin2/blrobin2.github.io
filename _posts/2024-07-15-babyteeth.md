@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6SoV9r
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, acc2024, anti-criterion-challenge-2024, good-for-her, coming-of-age, directed-by-women, written-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" title="Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 29/52 | A karaoke scene</a></b>

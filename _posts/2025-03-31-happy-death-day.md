@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9hgOHB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [oh-my-horror, omh, omh2025, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 14/52| Slashers</a></b>

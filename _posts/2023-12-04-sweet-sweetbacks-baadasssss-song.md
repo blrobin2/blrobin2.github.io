@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5grVGh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, 1001-movies, blaxploitation]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 31/52 | Directed by Melvin Van Peebles</b>

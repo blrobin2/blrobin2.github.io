@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/43KnPn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [giallo, slasher]
 ---
 
 The movie has such a sweeping, dramatic score. The entire film has the defuse gauze over it. It’s so beautifully shot; I don’t care how meandering the plot is

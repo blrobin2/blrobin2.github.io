@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9xEONh
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [amazon-prime, rifftrax, rifftrax-live]
 ---
 
 I guess this was Jonah Ray's trying ground before the Netflix <i>MST3K</i>? Frank seemed like he was in outer space. I wish I had gone to see this live when it happened. Oh well!

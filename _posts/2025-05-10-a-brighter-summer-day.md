@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Em1aR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, coming-of-age, slow-cinema, 1001-movies, sight-and-sound, village-voice, taiwanese-new-wave, golden-horse]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 44/52 | Paul Dano's Closet Picks</a></b>

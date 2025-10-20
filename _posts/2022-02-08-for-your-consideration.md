@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2yOfCh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 It seems unlikely, but Christopher Guest seems to have nothing interesting or unique to say about Hollywood

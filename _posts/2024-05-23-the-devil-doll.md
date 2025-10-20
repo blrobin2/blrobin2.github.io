@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wzDH5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober4.0, killer-toy, christmas-horror]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 22/31 | Tod Browning</a></b>

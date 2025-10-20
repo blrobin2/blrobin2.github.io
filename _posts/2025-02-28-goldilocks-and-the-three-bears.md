@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Ye691
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Brought to you by the woods or park council

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5zip3v
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, short]
 ---
 
 The commentary is notably more grim than usual. Mary Jo Pehl said the writers room couldn't help themselves

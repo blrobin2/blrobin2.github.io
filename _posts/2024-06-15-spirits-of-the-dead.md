@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6G0Y8l
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, frightfest-guide-to-ghost-movies, horror-anthology, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 14/31 | Before 1970 1/5 | Decades 1/5 | 60s</a></b>

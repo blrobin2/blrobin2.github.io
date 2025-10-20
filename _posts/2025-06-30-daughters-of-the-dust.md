@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aaiazh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [chelsea-theater, owen, written-by-women, directed-by-women, edited-by-women, films-made-by-women-set-in-rural-areas, solidarity, sight-and-sound]
 ---
 
 In 1902, on the Gullah islands off the coast of Georgia, a Creole blend of West African traditions was kept alive by generations of enslaved people who followed those who practiced them. They speak a variation of Creole English developed on the island, called Gullah Creole. The film explores the Peazant family as some of their relatives return from the mainland to bring them a new life up north.

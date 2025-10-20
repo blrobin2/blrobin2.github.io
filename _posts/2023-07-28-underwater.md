@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4AYQGz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [my-kyle, torrent, switchblade-sisters]
 ---
 
 I went in blind and was hoping for more existential horror — the facilities looked an awful lot like the space station in Solaris — the disaster hits, and the survival horror emerges

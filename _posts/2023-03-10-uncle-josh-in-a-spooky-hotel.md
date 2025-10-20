@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XxxcZ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I’m quite dumb — I just realized all those folks in sheets in these trick films are supposed to be ghosts — I don’t know what I thought they were… like nuns or something?

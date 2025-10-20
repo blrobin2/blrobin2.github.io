@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/23GBsN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [britsploitation]
 ---
 
 Rosen saw people saying Watership Down is bleak and said “hold my beer”

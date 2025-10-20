@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XyPIf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+]
 ---
 
 Some nerds get themselves in trouble when they ask for directions to where Dr. Satan worked and fall into the hands of the Firefly family — think The Munsters if every one of them was a psycho killer

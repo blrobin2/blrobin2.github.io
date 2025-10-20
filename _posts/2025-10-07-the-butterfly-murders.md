@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bhWJsB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober12, wuxia, giallo, chopsocky]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 5/31 | Countries 3/6 | Hong Kong</a></b>

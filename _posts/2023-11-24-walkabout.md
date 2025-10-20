@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5d5PQJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, sight-and-sound, 1001-movies, ozploitation]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 24/52 | <a href="https://boxd.it/iYuVa" target="_blank" rel="noopener">Alicia Malone's Closet Picks</a></b>

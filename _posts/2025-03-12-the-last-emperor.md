@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/96bJh5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, edited-by-women, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 39/52 | Genre: History</a></b>

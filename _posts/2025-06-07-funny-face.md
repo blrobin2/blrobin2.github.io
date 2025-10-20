@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Vopeb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, anna]
 ---
 
 #### Stray Thoughts / Spoilers

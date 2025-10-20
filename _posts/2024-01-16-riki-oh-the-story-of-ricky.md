@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5BFvMl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, category-iii]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 9/52 | CAT III</a></b>

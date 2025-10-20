@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bja67h
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober12, zombies]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 7/31 | Countries 5/6 | Spain | Zombie 5/5</a></b>

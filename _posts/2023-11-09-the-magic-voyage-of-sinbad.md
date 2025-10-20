@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58h3Kn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sandals, sword-&-sorcery]
 ---
 
 Another visually striking film from Ptushko. The costumes, set pieces, and colors are so satisfying! He makes live action movies that feel like classic Disney animations. MST3K saw Corman distributed it in the USA and assumed it sucks.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9W0Hfx
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Karen, what are you doing here? The cops are watching the house!

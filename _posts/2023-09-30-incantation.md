@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4UMSoj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, hooptober, hooptoberx, found-footage]
 ---
 
 <b><a href="https://letterboxd.com/blrobin2/list/hooptober-x-2023/">Hooptober X</a> | 2/34 | Countries 2/6 | Taiwan</b>

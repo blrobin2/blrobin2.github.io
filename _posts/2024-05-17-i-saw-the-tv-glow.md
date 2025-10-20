@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ufQsf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, queer, coming-of-age, edited-by-women, non-binary-director]
 ---
 
 <blockquote><i>I couldn't sleep last night, so I started my favorite TV show again</i></blockquote>Growing up, TV felt more real than real life. Days felt like a liminal space — the waiting room for real life to begin. Years pass like seconds, and memory blurs and distorts.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NNbRV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, high-school-horror, canuxploitation, slasher, teensploitation, video-nasties, special-day-horror, coming-of-age]
 ---
 
 Four kids play a game that gets out of hand,

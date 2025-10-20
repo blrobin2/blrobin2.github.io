@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6UgRfx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, scorsese's-85-film, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 23/52 | Richard Linklater’s Top 10</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pWupt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd, sword-&-sorcery]
 ---
 
 - Borromel, the thorough yet gentle laxative

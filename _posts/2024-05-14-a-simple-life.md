@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6t5R8r
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anti-criterion-challenge-2024, acc2024, directed-by-women, written-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 20/52 | Directed by Ann Hui On-Wah</a></b>

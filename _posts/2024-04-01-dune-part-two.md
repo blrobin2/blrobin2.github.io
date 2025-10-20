@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6behYx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint]
 ---
 
 Celebrating the one true messiah today: Florence Pugh in chainmail

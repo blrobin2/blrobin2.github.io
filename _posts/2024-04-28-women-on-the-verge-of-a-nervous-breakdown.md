@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6mp47V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, criterion, criterion-challenge-2022, cc2022, queer, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 (Retroactive) | 1/52 | Year I Was Born (1988)</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jiff3
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The movie begins with So-young's story. She was born in 1960, abandoned by her parents, and bounced from foster home to foster home until adulthood. She worked many jobs, including a bar near a university. A war veteran student walked in. The two fell in love, and So-young became pregnant.

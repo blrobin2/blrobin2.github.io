@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TdUwx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, japanese-noir, eclipse, yakuza, frightfest-guide-to-exploitation-movies]
 ---
 
 Japanese Spaghetti Noir?

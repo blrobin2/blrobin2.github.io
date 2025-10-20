@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b3fhbb
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, solidarity]
 ---
 
 Whoa, this movie rules. The anti-landlord rhetoric is on point. The editing and fights are pretty tight. Well, except for the final battle — it's nonsense.

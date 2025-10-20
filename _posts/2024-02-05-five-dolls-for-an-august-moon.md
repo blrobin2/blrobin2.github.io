@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5LvNGl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober7.0, giallo]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 3/32 | Countries 3/6 | Italy</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8IierB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, birth-year-challenge, byc, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 19</a></b>

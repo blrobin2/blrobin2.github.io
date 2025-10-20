@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Mj58h
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Ice skaters, young and old, die from flashing blades!

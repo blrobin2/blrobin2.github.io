@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9RIGCN
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, techsploitation]
 ---
 
 Dude, the cold open to the smoothest '80s guitar put me in such a positive mood. I guess it's the <a href="https://www.youtube.com/watch?v=VhQMHYmS7ig">Theme from Light Blast by Guido & Maurizio de Angelis</a>.

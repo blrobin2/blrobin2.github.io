@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/alRrJH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, oh-my-horror, omh, omh2025, religious-horror, folk-horror, carsploitation, frightfest-guide-to-exploitation-movies, devil-worship]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 28/52 | Horror in the Desert</a></b>

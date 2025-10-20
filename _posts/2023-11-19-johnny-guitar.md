@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bqvVN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, women-of-the-west, 1001-movies, sight-and-sound]
 ---
 
 <b>Vienna is nonbinary — I won't be taking questions at this time</b>

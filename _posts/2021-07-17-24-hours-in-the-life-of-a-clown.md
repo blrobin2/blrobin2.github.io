@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1ZXQxL
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Some good dogs, particularly Swing

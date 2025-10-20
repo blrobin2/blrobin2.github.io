@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kP72l
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, sight-and-sound, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 45/52 | 1960s</b><blockquote><i>This film is not the story of a poet's life. Instead, the filmmaker has attempted to recreate the world of a poet — the modulation of his soul, his passions, and his torments — broadly utilizing the symbolism and allegories of medieval Armenian troubadours.</i></blockquote>

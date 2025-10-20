@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3QFG31
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, 1001-movies, house-of-psychotic-women, giallo]
 ---
 
 The police in 1970’s Italy knew not to group trans prostitutes with criminal perverts — a lesson contemporary American Republicans could learn

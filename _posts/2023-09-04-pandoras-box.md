@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Nz5eb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [karagarga]
 ---
 
 <blockquote><i>You won't kiss me just because you're getting married?</i></blockquote>Lulu is a woman whom boys keep messing up their lives for, and she's the one who pays the price — well, and that guy she kills in self-defense. And there's the Countess Augusta Geschwitz, who is clearly in love with Lulu, and they should have ended up together!

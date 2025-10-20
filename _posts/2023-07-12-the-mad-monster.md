@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4vki9B
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, werewolves]
 ---
 
 - My god he’s turning into Abe Lincoln

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4HWaip
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, criterion, canuxploitation, body-horror]
 ---
 
 <blockquote></blockquote><blockquote><i>We gorge ourselves on [stimulation]</i></blockquote><blockquote></blockquote><blockquote><i>Better on TV than on the streets</i></blockquote><blockquote><i>Videodrome. What you see... is real. It has something you don't have, Max. It has a philosophy. That's what makes it dangerous</i></blockquote><b>cronenberg and irwin commentary, unrated version</b>

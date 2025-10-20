@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JzcTz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 Tilda Swinton plays a woman, Julie, and her mother, Rosalind, as they stay in an old family house converted into a hotel. With Julie's father's passing, she hopes to spend time with her mother and gather memories for a film about their relationship

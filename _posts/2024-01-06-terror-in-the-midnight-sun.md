@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5vlYzV
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [rifftrax, tubi, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden" target="_blank" rel="noopener">Hooptober 8.0 | 5/34 | Countries 5/6 | Sweden</a></b>

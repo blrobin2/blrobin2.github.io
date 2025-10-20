@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5m4tXx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion-challenge-2023, cc2023, palme-d'or-winner, 1001-movies, sight-and-sound, village-voice]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 48/52 | 1990s</b>

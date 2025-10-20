@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5PG57J
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober7.0, slasher, haunted-house]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 14/32 | 2nd film in franchise 6/7 | Decades 5/6 | 1990s</a></b>

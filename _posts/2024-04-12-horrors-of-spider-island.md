@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6g7gyz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 - Hey, they're playing make-out music... whadaya say, Mike?

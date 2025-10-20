@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ytuaV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women]
 ---
 
 Allison (Deborah Twiss) has just arrived in New York City when two men attack her. But before they can go too far, a woman vigilante gang shows up, castrating and killing them

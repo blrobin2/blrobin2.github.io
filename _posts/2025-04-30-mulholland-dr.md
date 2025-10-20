@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ywxxz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [archive.org]
 ---
 
 <blockquote><i>You look like someone else...</i></blockquote>The significant differences between the pilot and the final movie, aside from the second half, are that scenes in the pilot tend to be longer and include more contextual information. The film used alternate takes in places that allowed scenes to end more quickly. The one noteworthy exception is the audition scene, which cuts out the introductions.

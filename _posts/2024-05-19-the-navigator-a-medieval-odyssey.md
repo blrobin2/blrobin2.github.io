@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6v04BH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, birth-year-challenge, written-by-women]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 6</a></b>

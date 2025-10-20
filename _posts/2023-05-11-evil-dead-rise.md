@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4eA0y3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse]
 ---
 
 As I said in my Evil Dead remake review, I don’t have a strong tie to the original movies, so there’s nothing precious about them that this movie could sully

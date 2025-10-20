@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6bqYPx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, so-bad-it's-good, nature-attacks]
 ---
 
 I'm skipping <i>Merlin's Shop of Mystical Wonders</i> because someone datamoshed my copy, and I was deeply uncomfortable. I'll review it when I find a better version.

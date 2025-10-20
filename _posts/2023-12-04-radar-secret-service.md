@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5goFvV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Look at all those dead cows under that tower

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6yTLZf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, nature-attacks, heist]
 ---
 
 - Can I offer you a refill on your Pedialyte, sir?

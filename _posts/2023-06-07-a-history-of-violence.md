@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ljZhr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 Rewatching for a podcast

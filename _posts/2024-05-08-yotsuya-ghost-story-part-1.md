@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6qKSPL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober4.0, kaidan, j-horror, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 7/31 | Countries 1/6 | Japan | Decades 2/6 | 40s</a></b>

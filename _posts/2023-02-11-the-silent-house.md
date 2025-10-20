@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Q9HRn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, home-invasion]
 ---
 
 Filmed as a one-shot — or at least cut together to look like one — keeps the tension sharp, but…

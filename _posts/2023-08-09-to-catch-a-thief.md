@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Fk6ST
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A thief is stealing jewels, and the town suspects former thief John Robie (Cary Grant). To prove his innocence, he works with the insurance agent who insured the stolen jewels to get a list of the targets to, you know, catch the thief. His first mark: Jessie (Jessie Royce Landis) and Frances Stevens (Grace Kelly)

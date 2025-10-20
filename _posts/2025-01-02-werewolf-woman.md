@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8gUnBp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, my-kyle, holly, anna]
 ---
 
 <a href="https://boxd.it/WEkd" title="Owen" target="_blank" rel="noopener">Owen</a> got me this on DVD for Christmas. I tried to describe it to some friends but could not, so I put on the first 30 minutes for them to experience it.

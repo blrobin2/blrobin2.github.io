@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4i4GQF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, vibes]
 ---
 
 Now, THIS is a VIBE. Sexy people in Michael Mann lighting being shot with a flip phone or something

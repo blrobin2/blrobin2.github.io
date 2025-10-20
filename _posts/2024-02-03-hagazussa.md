@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5KjwmF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla, hooptober, hooptober7.0, cannibal, folk-horror:-a-study, house-of-psychotic-women]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 2/32 | Countries 2/6 | Germany</a></b>

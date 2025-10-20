@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9lPsHZ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Ah yes, a Franz Kafka's Metamorphosis play set, I had one of these.

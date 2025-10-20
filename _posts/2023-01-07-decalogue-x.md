@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3EOJKH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray]
 ---
 
 I wish I could speak Polish so I could sing “Kill! Kill! Kill and fornicate!”

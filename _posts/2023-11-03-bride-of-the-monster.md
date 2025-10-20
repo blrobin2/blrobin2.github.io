@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56mhm7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 Bela Legosi crushes it! This is far from Ed Wood's worst. It's not good, but I could follow what was happening for the most part

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3pq4Lh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [coming-of-age, dvd]
 ---
 
 Watched with Jake Kasdan and Mike White commentary

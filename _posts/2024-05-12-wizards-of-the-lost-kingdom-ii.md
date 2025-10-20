@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sq7P3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, sword-&-sorcery]
 ---
 
 The liquid movie distributor leaking is a decent lampshade for when they have to make cuts to the movie for time/content.

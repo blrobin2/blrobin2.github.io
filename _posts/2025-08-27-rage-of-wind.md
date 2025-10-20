@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aSl1r1
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 I love the sound effects — punches sound like doors being snapped in half, and swords sound like lasers cutting metal.

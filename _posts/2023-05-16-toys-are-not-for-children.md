@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4fGgOd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, sexploitation]
 ---
 
 Jamie, an adult woman, lives with her mother and still gets toys yearly from her estranged father. As a result, she develops an unhealthy fixation on toys as her one connection to her father

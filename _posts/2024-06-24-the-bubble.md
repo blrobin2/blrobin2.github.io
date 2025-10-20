@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6JI0lz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Joel episode!

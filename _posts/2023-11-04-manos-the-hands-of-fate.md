@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56GeSz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, so-bad-it's-good]
 ---
 
 This is a good episode of MST3K, but this move is the worst film they've done thus far

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6tXuOn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k]
 ---
 
 Always nice to see Pearl and Elliott Kalan, however briefly.

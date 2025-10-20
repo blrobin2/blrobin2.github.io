@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/63ko2l
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen, wine-o-clock]
 ---
 
 Was <i>Sorry to Bother You</i> too confrontational? Did <i>Dear White People</i> still make you feel guilty? Was <i>American Fiction</i>'s dated critique too pointed?

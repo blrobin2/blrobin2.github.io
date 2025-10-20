@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6tPoTF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober4.0, nunsploitation]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 15/31 | Before 1970 3/6</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5WAUwh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober7.0]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 31/32 | Tobe Hooper</a></b>

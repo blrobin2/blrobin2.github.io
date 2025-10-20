@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8hLLsn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hoop-tober, britsploitation]
 ---
 
 <b><a href="">Hoop-Tober | 11/31 | Terence Fisher 1/5</a></b>

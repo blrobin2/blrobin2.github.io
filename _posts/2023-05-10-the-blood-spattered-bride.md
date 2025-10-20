@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4eenj7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 The template for the majority of psychological horror movies — especially those in which dreams/visions invade someone’s reality — lies in this film (not that it invented anything, just that it exemplifies that formula)

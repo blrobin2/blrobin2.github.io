@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jWYVN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 <i>1945, Philippines</i>

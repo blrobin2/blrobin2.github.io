@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4jEXNz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, amc-southpoint]
 ---
 
 I don’t know what to say, this was a bad movie. I can’t think of one thing it did well

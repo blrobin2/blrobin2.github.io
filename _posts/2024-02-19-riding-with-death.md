@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5RDHFV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 The synopsis on Letterboxd is for a different movie edit that explains why Sam can turn invisible and what the two car-based episodes have in common.

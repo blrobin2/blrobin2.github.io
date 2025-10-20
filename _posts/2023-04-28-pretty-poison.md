@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4aYf95
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, coming-of-age]
 ---
 
 Anthony Perkins plays Dennis Pitt, a man recently released from a mental institution on parole. Cut to Dennis sitting outside a high school, watching the majorettes practice, picking his target for his next delusional fantasy — that he is a CIA agent

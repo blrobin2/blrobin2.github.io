@@ -5,6 +5,7 @@ excerpt: "My review of The Ghost of Frankenstein (1942)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/bnL0tB
 category: movie-review
+tags: [torrent, hooptober, hooptober12, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="nonopener">Hooptober XII | 15/31 | Decades 7/9 | 1940s | Popular from 1940s</a></b>

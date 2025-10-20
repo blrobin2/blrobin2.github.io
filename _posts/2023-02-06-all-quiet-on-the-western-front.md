@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3OIuvZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 How do you adapt a book that no one liked reading in school? You make it A E S T H E T I C — beautiful lighting, perfectly centered frames of gore (complete with blood splatter on the lens), fight sequences reminiscent of John Wick

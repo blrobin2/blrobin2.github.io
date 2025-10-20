@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58iUPR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, scorsese's-85-film, women-of-the-west]
 ---
 
 <b>Tombstone, Arizona in the 1880s</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5aVrXj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 18/34 | Bill Rebane</b>

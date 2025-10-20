@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/601v1p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, written-by-women, edited-by-women, good-for-her, queer]
 ---
 
 <b>The queer dream of the 90s is alive and fucking in <i>Drive-Away Dikes</i> — the actual title, revealed at the end of the movie.</b>

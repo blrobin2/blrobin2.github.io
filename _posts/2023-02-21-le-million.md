@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SWDG7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, 1001-movies, criterion]
 ---
 
 <i>Le Million</i> walked so that <i>Rat Race</i> could run

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6jZ2GJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, sight-and-sound, did-not-finish, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 17/52 | In the 2022 Sight & Sound Top 100</a></b>

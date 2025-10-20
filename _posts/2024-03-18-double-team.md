@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/64Bx8v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, cmc, cmc2024]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 12/52 | Jean-Claude Van Damme</a></b>

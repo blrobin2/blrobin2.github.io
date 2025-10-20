@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3cdmpF
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Find-and-replace First Reformed with a much worse soundtrack, but a more compelling lead performance

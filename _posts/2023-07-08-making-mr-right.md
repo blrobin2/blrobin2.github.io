@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4tXhx3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, ai]
 ---
 
 Dating in the 80s — ain’t it a drag? But when consultant Frankie Stone (Ann Magnuson) gets the opportunity to refine the personality of an android named Ulysses (John Malkovich) to appeal more to women, she finds herself drawn to him

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b8c3un
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, trucksploitation]
 ---
 
 This film was Chuck Norris's father's favorite movie of his. Why do trucker movies have to have arm wrestling subplots? I guess it's just this and <i>Over the Top</i>.

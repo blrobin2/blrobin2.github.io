@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4MdvfB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max]
 ---
 
 Danielle is a 20-something who, like most of us, has trouble juggling her family and her private life, keeping some half-truths and lives spinning as she attends a shiva. Those lives come to a head when her sugar daddy shows up to the shiva with his wife and baby

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5oE1Dz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, bond-connery, ninjasploitation]
 ---
 
 <b><a href="https://boxd.it/r6gwI" target="_blank" rel="noopener">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>

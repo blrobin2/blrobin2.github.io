@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/20ujEl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [scifiploitation]
 ---
 
 The story is a little dull, but the animal animations are cool

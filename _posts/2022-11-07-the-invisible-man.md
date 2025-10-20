@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3p4Opx
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Love a movie about messing with comically inept cops

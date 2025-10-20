@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4R6fnl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, folk-horror:-a-study, vampires, written-by-women, coming-of-age]
 ---
 
 In childhood, a single pearl can be the antidote to a chicken plague, and a polecat can also be a vampire or your biological father — fantasy and horror intermingle in uncertainty

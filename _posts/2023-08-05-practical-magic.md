@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4DUJcr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 <blockquote><i>That's the point; the guy I dreamed up doesn't exist. And if he doesn't exist, I'll never die of a broken heart</i></blockquote>Sisters are witches whose bloodline is cursed such that if they fall in love, the person with whom they fall in love will die

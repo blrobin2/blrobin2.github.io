@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3EAtcB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, 1001-movies, criterion, sight-and-sound]
 ---
 
 Starting your biopic with a dude flying is a choice, it took me a while after that to get my bearings

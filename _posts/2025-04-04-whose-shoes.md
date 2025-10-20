@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9jktUl
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Quick question: what the hell was that?

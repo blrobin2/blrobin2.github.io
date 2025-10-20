@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CXE9R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, zombies, italian-gothic, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail#item-3630807379" target="_blank" rel="noopener">Hooptober 8.0 | 17/34 | From birth year 2/2</a></b>

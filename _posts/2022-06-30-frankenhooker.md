@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2Yxz3B
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [scifiploitation]
 ---
 
 Troma + Henenlotter = 🫀

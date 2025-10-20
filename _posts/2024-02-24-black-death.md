@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5TTwBt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, hooptober, hooptober7.0, folk-horror, disease-horror]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 23/32 | disease-based 3/3</a></b>

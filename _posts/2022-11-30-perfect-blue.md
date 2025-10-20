@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3tV0Pd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anime, identity]
 ---
 
 I haven’t watched this since high school, all I remembered was the pizza delivery scene and therefore thought I remembered how it went

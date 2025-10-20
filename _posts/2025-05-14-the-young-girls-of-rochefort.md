@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9GENbH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 45/52 | Ethan Hawke and Jonathan Marc Sherman's Closet Picks</a></b>

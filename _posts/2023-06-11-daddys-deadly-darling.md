@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4mhTh1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, house-of-psychotic-women, video-nasties, nature-attacks, hicksploitation]
 ---
 
 “Dad Rapes Daughter and Dies of Knife Wound,” reads the newspaper headline. Said daughter (Toni Lawrence, the director’s daughter) is put in a psych ward and given shock treatment, but when a nurse and doctor run off to fuck, she escapes

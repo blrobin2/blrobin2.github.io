@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5N6aTt
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [freevee, hooptober, hooptober7.0, zombies, rifftrax]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 8/32 | Decades 2/6 | 1940s</a></b>

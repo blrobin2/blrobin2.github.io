@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/55gK3x
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 - quit playing with his face, Aaron

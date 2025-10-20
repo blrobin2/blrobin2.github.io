@@ -6,4 +6,6 @@ source "https://rubygems.org"
 
 gem "github-pages", "~> 228"
 
+gem 'jekyll-archives' , '~> 2.3'
+
 gem "webrick", "~> 1.9"

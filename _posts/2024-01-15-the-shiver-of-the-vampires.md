@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5B5WQH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, vampires]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2026 | 8/52 | Jean Rollin" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 8/52 | Jean Rollin</a></b>

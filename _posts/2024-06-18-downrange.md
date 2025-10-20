@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Hi1ZZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, cmc, cmc2024, sniper]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 25/52 | Ryûhei Kitamura</a></b>

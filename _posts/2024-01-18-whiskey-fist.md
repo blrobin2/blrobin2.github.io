@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Cwvof
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [written-by-women, directed-by-women, short, vimeo]
 ---
 
 #### Favorite Moments / Spoilers

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TPUFP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, frightfest-guide-to-ghost-movies]
 ---
 
 The technicolor has an uncanny quality in the setting, but it’s easy to adapt to

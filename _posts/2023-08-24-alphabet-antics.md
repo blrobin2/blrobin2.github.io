@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4K8BJJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - D is for Damned, as in Village of

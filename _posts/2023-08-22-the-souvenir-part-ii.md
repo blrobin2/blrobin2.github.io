@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JxCu7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 <i>The Souvenir</i> is that frustrating and too-common story of a terrible man having a chokehold on Julie's life and creative work. <i>Part I</i> explored his living shadow and the excuses codependent lovers make for their addict partners. <i>Part II </i>follows his overdose and Julie's time in film school as she is making her student film and moving on

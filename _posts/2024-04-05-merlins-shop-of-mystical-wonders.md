@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ddCWt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, killer-toy]
 ---
 
 This movie fundamentally changed me as a human being when I first saw it. It's one of those movies where the <i>MST3K</i> commentary doesn't add that much humor — the movie is outrageous as is.

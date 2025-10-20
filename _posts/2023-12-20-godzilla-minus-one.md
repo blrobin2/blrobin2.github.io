@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5mhbaD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, adam]
 ---
 
 In 1945, Kōichi Shikishima, a kamikaze pilot, lands on Odo Island to have repairs made to his plane. When the mechanic investigates, he finds nothing wrong with the plane.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4yZTjH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [genre:-exploitation, amazon-prime]
 ---
 
 #### Stray Thoughts

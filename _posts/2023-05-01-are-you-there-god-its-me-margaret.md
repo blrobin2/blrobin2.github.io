@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4bJxvn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [adam, amc-durham]
 ---
 
 Life is what happens when you’re busy making plans and no longer praying to god

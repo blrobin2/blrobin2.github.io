@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Uh79p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vk, house-of-psychotic-women]
 ---
 
 An "oblivion virus" that erases memories wanders in a city polluted by acid rain and lead poisoning. Many people started to visit to get rid of their painful memories

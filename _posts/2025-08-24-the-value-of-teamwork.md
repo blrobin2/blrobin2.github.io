@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aQ2wkf
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Yes, The Value of Teamwork — the educational film Ayn Rand hated most of all, right behind Let's Learn About Collective Rights and Atlas Bent Down to Help Others.

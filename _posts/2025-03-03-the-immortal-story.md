@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/90iR73
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, written-by-women]
 ---
 
 <b><a href="">Criterion Challenge 2024 | 36/52 | Genre: Made for TV</a></b>

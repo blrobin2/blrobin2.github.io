@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9dJIbB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2017, edited-by-women, disaster]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 13/52 | 70s Disaster</a></b>

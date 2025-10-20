@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wa98j
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - Too many years at the Strasberg School

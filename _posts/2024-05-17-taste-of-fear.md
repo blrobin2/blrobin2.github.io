@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6u9E6z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober4.0, britsploitation, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 16/31 | Before 1970 4/6</a></b>

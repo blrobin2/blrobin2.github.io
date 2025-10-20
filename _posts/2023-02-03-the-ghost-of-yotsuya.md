@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3NSFCj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, frightfest-guide-to-ghost-movies, kaidan]
 ---
 
 Every frame of this looks like a woodblock print. It’s also pretty fucked up, real unscrupulous dudes get what’s coming to them!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3FJz7f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, house-of-psychotic-women, giallo]
 ---
 
 There’s a point where so many twists happen in a movie that I stop going “oh!” and just go “oh”

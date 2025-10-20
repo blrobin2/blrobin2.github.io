@@ -5,6 +5,7 @@ excerpt: "My review of I Am the Pretty Thing That Lives in the House (2016)"
 rating: "3.5"
 letterboxd_url: https://boxd.it/bnhmUf
 category: movie-review
+tags: [torrent, hooptober, hooptober12, haunted-house]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 13/31 | Canadian</a></b>

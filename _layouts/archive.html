@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="archive">
+  <h2>Posts with {{ page.type }} '{{ page.title }}'</h2>
+
+  <p id="search-results-count" class="search-results-count">
+    {{ page.posts.size }} post{% if page.posts.size != 1 %}s{% endif %}
+  </p>
+
+  <ul class="posts">
+    {% for post in page.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}"
+        >{{ post.title }}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
+</div>

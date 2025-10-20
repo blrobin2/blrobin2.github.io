@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4K7Ky9
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Magnet animation, and its creepy as hell. Neat!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6uBgi3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, britsploitation, scifiploitation]
 ---
 
 TV's son of TV's Frank admitted this movie is fun. Hey Joel McHale

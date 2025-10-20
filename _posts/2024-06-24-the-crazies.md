@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6JGOIJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober3.0]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" title="Hooptober 3.0 | 23/31 | George Romero" target="_blank" rel="noopener">Hooptober 3.0 | 23/31 | George Romero</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Tixjv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, anti-criterion-challenge-2024, acc2024, queer, solidarity]
 ---
 
 <b><a href="https://boxd.it/qBmUY" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 48/52 | Made in Georgia (Country)</a></b>

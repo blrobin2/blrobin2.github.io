@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3vVD9t
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 What a miserable world we’ve made

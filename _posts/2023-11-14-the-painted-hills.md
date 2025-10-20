@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59TIbj
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Beautifully photographed — great matte paintings and sets! Lassie is a true star, she's so dang cute.

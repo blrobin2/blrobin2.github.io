@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7eKTRD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [a/perture-cinema, alicia, teddy]
 ---
 
 <b>It's <i>Harold and Maude</i>, but without all the stuff</b>

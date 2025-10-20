@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6tUiHX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 <b>Arkham, Massachusetts</b>

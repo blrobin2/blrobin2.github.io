@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4n81Jh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women]
 ---
 
 Chris (Linda Blair) is put into juvenile detention at 14 years old because she keeps running away from home, so her parents sign for her to be a ward of the state. The movie follows the humiliations, ignored pleas — including a horrifying rape —, and in-and-out pattern that turns Chris from a misunderstood child to just another kid in the system

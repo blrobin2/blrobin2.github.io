@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6QO4mr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, ktma]
 ---
 
 Joel's cut his long hair! He's looking like the Joel I know (aka slightly less of a massive pothead).

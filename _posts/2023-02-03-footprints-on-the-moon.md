@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3NM4CT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, house-of-psychotic-women, italian-gothic, giallo]
 ---
 
 Dubbing Klaus Kinski’s voice to sound that American is so jarring

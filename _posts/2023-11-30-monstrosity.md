@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fbs8T
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, brainsploitation]
 ---
 
 - Do not adjust your dryer! We control your air flow!

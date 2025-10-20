@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3dS1dT
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Skip the roundtable

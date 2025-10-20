@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6gmz2d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2016, mexican-luchador, video-nasties, nature-attacks, mexsploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 47/52 | Lucha Libre</a></b>

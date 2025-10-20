@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6PjhuH
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 4/31 | Franchise 4/5" target="_blank" rel="noopener">Hooptober 2.0 | 4/31 | Franchise 4/5</a></b>

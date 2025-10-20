@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sPedP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, criterion, criterion-challenge-2022, cc2022]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 10/52 | 2000s" target="_blank" rel="noopener">Criterion Challenge 2022 | 10/52 | 2000s</a></b>

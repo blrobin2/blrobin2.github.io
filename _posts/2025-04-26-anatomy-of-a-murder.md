@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9wh7ph
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-challenge-2022, cc2022, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 39/52 | Hollywood Classics</a></b>

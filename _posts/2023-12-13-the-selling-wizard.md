@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jDdU1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - You, the ice cream manufacturer, up against the wall! Spread em!

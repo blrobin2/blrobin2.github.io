@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4URMfv
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, post-apocalypse, coming-of-age]
 ---
 
 Mike Nelson as Morrissey is iconic. I'm certain I've seen this even though I don't remember a single frame

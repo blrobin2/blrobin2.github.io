@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5uZofL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, teensploitation, juvenile-delinquency, coming-of-age]
 ---
 
 TW: Suicide

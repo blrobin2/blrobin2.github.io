@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5OQKWz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, cmc, cmc2024, solidarity, blaxploitation]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 7/52 | Blaxploitation</a></b>

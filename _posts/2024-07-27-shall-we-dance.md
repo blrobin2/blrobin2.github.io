@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Y6B9f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, queer, hollywood-funnywomen]
 ---
 
 - Love the reflective pool title cards

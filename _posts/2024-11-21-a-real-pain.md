@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7Rr5p3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 Kieran Culkin carries this graceless, self-important movie over the finish line — not with a character, but with a messy but charismatic foil to whatever the scene needs.

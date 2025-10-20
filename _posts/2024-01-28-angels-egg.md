@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5HuqOj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [archive.org, hooptober, hooptober8.0, j-horror, anime]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 28/34 | Asian horror 1/3</a></b>

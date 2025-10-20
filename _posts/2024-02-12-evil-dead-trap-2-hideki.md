@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5OyYV5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober7.0, j-horror, slasher]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 11/32 | 2nd film in franchise 3/7</a></b>

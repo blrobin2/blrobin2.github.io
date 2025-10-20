@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6o3KZJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober4.0, slasher, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 1/31 | Sequels 1/6 | Decades 1/6 | 80s</a></b>

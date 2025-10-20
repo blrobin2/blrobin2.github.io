@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4q93of
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd, mockbusters]
 ---
 
 - So these were the Carter years…

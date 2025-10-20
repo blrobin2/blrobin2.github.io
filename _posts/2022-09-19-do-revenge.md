@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3eUqaX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie]
 ---
 
 Love a movie where the only person you can root for is Sarah Michelle Gellar

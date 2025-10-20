@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4um0wd
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, kaiju]
 ---
 
 Someday, I’d like to see the original Japanese version, since folks claim it’s a better movie than the Sandy Frank cut

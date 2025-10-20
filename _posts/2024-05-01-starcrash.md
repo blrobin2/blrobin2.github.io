@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6nMap7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, mockbusters, scifiploitation]
 ---
 
 I love it when giallo directors do sci-fi. This is modeled so closely on <i>Star Wars</i>, but without all the stuff. It's so kooky though, I actually love this.

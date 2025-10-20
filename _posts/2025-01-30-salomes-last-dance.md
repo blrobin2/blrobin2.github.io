@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Fi5QP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [birth-year-challenge, byc, queer]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 16</a></b>

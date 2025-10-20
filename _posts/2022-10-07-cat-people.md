@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3isXrn
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Some great bleps from the lead black panther, best actor in the movie

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/96JCFn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, edited-by-women, coming-of-age, 1001-movies, golden-lion]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 40/52 | Guillermo del Toro's Twitter Film recommendations</a></b>

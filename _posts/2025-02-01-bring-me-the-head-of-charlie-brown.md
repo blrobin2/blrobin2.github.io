@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8GkH4H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, short]
 ---
 
 <blockquote><i>Dedicated to Sam "The Man" Peckinpah</i></blockquote>

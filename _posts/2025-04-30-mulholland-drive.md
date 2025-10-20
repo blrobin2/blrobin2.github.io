@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9yqCXF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [chelsea-theater, owen, edited-by-women, queer, criterion, 1001-movies, sight-and-sound, identity, switchblade-sisters, film-noir]
 ---
 
 This film will always hold a special place in my heart. I came across it in college after checking it out from the college library in my ongoing search for "mindfuck" movies. Seeing movies like <i>Donnie Darko</i>, <i>Perfect Blue</i>, and <i>Adaptation</i> in high school, I wanted movies to challenge my preconceived notions of what a movie should be.

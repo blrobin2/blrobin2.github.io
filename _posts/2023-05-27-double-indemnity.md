@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ijfMB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [sight-and-sound]
 ---
 
 A boring insurance salesman (Frederick MacMurray) opts in on helping a hot housewife (Barbara Stanwyck) kill her husband and commit insurance fraud because he’s too horny to say no

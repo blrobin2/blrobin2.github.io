@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6TUe6d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 22/52 | Ana Lily Amirpour's Top 10</a></b>

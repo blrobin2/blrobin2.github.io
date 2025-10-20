@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9jjXVB
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, slasher, zombies, video-nasties]
 ---
 
 Rifftrax are cowards. They keep all the gore and self-harm but censor the nudity.

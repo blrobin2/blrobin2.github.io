@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53LXmV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Johnny the wonder something-or-another

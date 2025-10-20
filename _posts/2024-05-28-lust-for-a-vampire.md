@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6yQI37
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober4.0, vampires, britsploitation, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 27/31 | people eating people (non-zombie) 3/3</a></b>

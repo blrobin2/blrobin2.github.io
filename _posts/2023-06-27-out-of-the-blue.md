@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4qO8zJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, punk]
 ---
 
 Don (Dennis Hopper) is a truck driver who accidentally drives into a bus full of school children, his 10-year-old daughter Cebe (Linda Manz) in the passenger seat

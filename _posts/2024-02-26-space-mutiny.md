@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5V3qmh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 <i>Movie CW // Violence, Murder, Blood, Misogyny

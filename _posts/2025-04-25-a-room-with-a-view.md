@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9vxuQD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, written-by-women, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 38/52 | Summer Travels</a></b>

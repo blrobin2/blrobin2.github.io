@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4fDz43
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 A family — mother, daughter, son, aunt — moves out into the country to rent an old mansion for the summer. The place is decadent, yet the owners ask for a cheap price. The only exception — the owners’ 85-year-old mother will stay in the house with them

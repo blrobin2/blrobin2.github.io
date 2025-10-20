@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6vpleb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober4.0, killer-kids]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" title="Hooptober 4.0 | 19/31 | Carpenter" target="_blank" rel="noopener">Hooptober 4.0 | 19/31 | Carpenter</a></b>

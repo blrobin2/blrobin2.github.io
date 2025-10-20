@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6hr3Bf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, eurospy, superhero, heist]
 ---
 
 Here it is — the last episode of the original MST3K run. While I'm sad to see it end — the last scene made me tear up — it was also time. The show bounced back a few times when it jumped to Sci-Fi, but the magic was waning, and the movie choices were more questionable.

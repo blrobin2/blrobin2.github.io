@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6CqP5t
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober4.0, killer-toy, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 5/31 | Franchise 5/7 | Remake</a></b>

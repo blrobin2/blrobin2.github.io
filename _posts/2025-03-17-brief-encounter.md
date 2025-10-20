@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/99i8F1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, palme-d'or-winner, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 43/52 | 1940s</a></b>

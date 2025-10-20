@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4EI5fZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, identity]
 ---
 
 <blockquote><i>Desperate. I love that word — it's so romantic.</i></blockquote>Roberta is married and unhappy with her life, following the exploits of Susan and Jim in their want ad romance, whose title is always "Desperately Seeking Susan." She decides to go to their meeting place and follow Susan, getting to know her mannerisms and style. 

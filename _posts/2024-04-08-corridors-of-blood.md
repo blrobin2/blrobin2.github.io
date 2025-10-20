@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6erK9h
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober5.0, britsploitation, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 7/32 | Anniversary Film 6/10 | Decades 5/6 | 50s</a></b>

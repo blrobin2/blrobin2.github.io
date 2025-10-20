@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6oPfOL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober5.0, slasher]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 3/31 | Sequels 3/6</a></b>

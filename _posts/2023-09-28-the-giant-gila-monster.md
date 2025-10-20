@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Uk4SH
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 - gosh, the moonlight does crazy things to your hair, sir

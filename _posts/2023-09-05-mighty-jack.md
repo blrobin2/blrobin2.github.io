@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NRTcF
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - Not only am I president of Ear Club for Men, I'm a member

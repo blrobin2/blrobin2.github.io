@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4lilp9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, criterion]
 ---
 
 God I’ll never get over Baltimore accents, they’re so good. Did John Waters invent smell-o-vision?

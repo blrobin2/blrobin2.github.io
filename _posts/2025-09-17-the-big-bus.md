@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b5P1Wb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, cmc, cmc2018, carsploitation, trucksploitation, disaster]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 13/52 | 70s Disaster</a></b>

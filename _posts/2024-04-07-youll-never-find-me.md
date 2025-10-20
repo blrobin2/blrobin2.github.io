@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6e8Zsb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, directed-by-women, written-by-women]
 ---
 
 Patrick closes his eyes. In his hand is a vial. He sips from his mug as thunder strikes and rain pours. Along the roof of his trailer, the rain crawls.

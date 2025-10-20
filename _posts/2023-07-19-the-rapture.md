@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xmssF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, christploitation, post-apocalypse]
 ---
 
 Sharon (Mimi Rogers) is a telephone operator by day and a swinger by night, seeking sexual encounters with her friend Vic (Patrick Bauchau)

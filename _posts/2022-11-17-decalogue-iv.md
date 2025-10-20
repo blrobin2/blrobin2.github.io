@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3rialr
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Seems you can always rely on Janusz Gajos to show up when things get uncomfortable

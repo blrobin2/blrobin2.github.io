@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8IQyb7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, anti-criterion-challenge-2024, acc2024, written-by-women, directed-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 37/52 | Edited by Terilyn A. Shropshire</a></b>

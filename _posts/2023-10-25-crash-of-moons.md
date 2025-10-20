@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53bbLB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - (squeakily) I'm using my space voice

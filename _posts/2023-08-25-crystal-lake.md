@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Ko8mN
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 You're a stain — a deep, dark, girl-shaped stain, and you'll never disappear

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6LXk9L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober3.0, queer, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 30/31 | Witchcraft</a></b>

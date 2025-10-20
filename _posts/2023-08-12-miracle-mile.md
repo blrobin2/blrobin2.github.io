@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4GgPXF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, nightmare-comedies, post-apocalypse]
 ---
 
 Harry has met the perfect girl, Julie. When his alarm doesn't go off, he misses picking her up at the end of her shift at the coffee shop. He tries calling her on a pay phone but receives a call — "It's happening! This is the big one!" — followed by machine gun fire — "Forget what you heard. Go back to sleep."

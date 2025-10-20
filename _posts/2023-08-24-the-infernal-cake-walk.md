@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4K7CV5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [scorsese's-85-film]
 ---
 
 I feel like this inspired Bill Skarsgård's Pennywise dance in <i>It</i>

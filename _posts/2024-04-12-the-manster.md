@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6g0Qv3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober5.0, body-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 11/32 | Before 1970 2/6</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9kOhA3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, my-kyle, holly]
 ---
 
 <a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener"><b>Cult Movie Challenge 2017 | 22/52 | PM Entertainment</b></a>

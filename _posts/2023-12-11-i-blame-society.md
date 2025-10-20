@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5iZaCN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, found-footage]
 ---
 
 Gillian received a compliment once that she would make a good murderer. So, she starts on a documentary called<i> I, Murderer</i>, about how to perform the perfect murder.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5G4ibn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober8.0, vampires, britsploitation, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 24/34 | Hammer films 2/2</a></b>

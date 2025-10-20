@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/biIzMd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, hooptober, hooptober12, zombies, video-nasties]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 6/31 | Countries 4/6 | France | Zombie 4/5</a></b>

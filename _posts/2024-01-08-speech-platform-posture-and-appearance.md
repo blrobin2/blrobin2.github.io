@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5xb4YN
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, short]
 ---
 
 - He's leaning on the people in the front row

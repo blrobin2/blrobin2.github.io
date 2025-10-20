@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9xErkB
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [amazon-prime, rifftrax, rifftrax-live]
 ---
 
 <b>From Rifftrax Live: MST3K Reunion</b>

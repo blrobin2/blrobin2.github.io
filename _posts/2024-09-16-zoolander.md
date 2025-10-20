@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7kZSgv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [paramount+, hollis, alicia]
 ---
 
 Pretty funny

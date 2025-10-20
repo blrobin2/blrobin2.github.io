@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4zSZE7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women]
 ---
 
 Famous serial killer Garrick Turrell (AJ Bowen) has escaped prison and is on the path for something or someone. Sarah (Amy Seimetz) is three months into AA, still dealing with her past mistakes as an alcoholic. In AA, she meets fellow alcoholic Kevin (Joe Swanberg), with whom she begins a relationship

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5BnFFj
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation, zombies]
 ---
 
 The final mini-season on Comedy Central! We get a new intro since TV's Frank is gone, and I guess it's only for six episodes. The intro feels empty without Frank.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9KSpfJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, zombies, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 41/52 | Zombies</a></b>

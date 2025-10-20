@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3rFDKr
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 If I were the judge, I simply wouldn’t have condemned Jacek to death

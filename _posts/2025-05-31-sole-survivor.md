@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9R9OU1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2017, slasher, christmas-horror]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 43/52 | Slasher</a></b>

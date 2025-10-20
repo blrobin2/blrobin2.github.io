@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wgxn1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [freevee, cmc, cmc2024, edited-by-women, disaster]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 21/52 | 70s Disaster</a></b>

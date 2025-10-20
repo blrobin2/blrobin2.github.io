@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ZWsiJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, pre-code-horror, genre:-exploitation]
 ---
 
 <blockquote><i>Free! Free at last!</i></blockquote>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4QmDkN
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, sword-&-sandals]
 ---
 
 - well, she's not coming in my car

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6E2GJJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, mexican-luchador]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 24/52 | Lucha Libre</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ls9pz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sexploitation]
 ---
 
 - Ed Wood agonized over this scene, and now we are

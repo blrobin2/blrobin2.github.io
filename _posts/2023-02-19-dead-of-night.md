@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SfiON
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, canuxploitation, namsploitation]
 ---
 
 “Had me a dog once, ate a pickle!” Now that’s small talk

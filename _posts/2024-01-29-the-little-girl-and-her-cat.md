@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5HUAsz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, cat-movies, short]
 ---
 
 Not the first cat movie, but a perfect angel all the same

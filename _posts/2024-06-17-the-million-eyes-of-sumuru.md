@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6GWLPR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, britsploitation, eurospy]
 ---
 
 Jonah episode! I need to know Dr. Kabal's deal. I guess I should keep watching episodes? The laughing at jokes has grown fake and grating. Also, the most regressive commentary in ages.

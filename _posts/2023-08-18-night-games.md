@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4IeqQN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, eurothrillers]
 ---
 
 <blockquote><i>— You're marrying a child

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3osE1J
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Lots to like: the use of real people in a real village gives the film a documentary quality; the cinematography is mostly beautiful

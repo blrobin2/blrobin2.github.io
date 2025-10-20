@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/39RM5T
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Hollywood said “I bet if we paired the writer of Michael Clayton with one of the dudes who wrote American Pie, we could get a pretty okay Star Wars movie”

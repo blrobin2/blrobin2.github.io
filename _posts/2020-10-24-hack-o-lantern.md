@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1q9L5d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher]
 ---
 
 It gets points for the variety show aspects that don’t fit at all: the random music video, terrible stand up, belly dancing... otherwise this movie is more a novelty than anything

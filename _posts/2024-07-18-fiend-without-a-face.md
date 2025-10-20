@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6TOChR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, hooptober, hooptober2.0, britsploitation, scifiploitation, brainsploitation]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 17/31 | Before 1970 2/5</a></b>

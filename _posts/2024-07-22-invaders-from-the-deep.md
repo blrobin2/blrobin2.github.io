@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6VOwob
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, ktma, supermarionation]
 ---
 
 The first episode of the show! Found a new source so I'm going back to watch the episodes I missed. Joel doesn't have robots in the opening, and there are no segments beyond the opening and closing. He doesn't enter the theater to watch the movie until after the opening scene and credits. Crow comes in 30 minutes into the movie.

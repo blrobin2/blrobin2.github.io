@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6LSn3h
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober3.0, good-for-her]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 29/31 | Stephen King Adaptation</a></b>

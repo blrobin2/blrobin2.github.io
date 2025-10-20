@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3wI8L5
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 While the design of the world and characters is striking, the music and story has the messy, haphazard edges of a Rankin/Bass movie

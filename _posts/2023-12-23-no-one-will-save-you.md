@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5nbmPz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 Brynn (Kaitlyn Dever) lives alone in a house on the outskirts. By all appearances, she is doing well.

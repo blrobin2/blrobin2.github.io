@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Mz9FB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju, scifiploitation]
 ---
 
 The dubbing on this is exceptionally bad. Several characters just stopping mid-sentence and waiting a second between phrases because they can't make the cadence work

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/65gstb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, vampires, scifiploitation]
 ---
 
 <b><a href="">Hooptober 6.0 | 18/32 | Special Effects: Carlo Rambaldi | Countries 2/6 | Spain</a></b>

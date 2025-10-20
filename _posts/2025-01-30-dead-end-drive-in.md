@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8FcB55
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, carsploitation, post-apocalypse, scifiploitation, ozploitation]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 49/52 | Carsploitation</a></b>

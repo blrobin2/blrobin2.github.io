@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bdBJQv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2018, written-by-women, cannibal]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 19/52 | 80s Horror</a></b>

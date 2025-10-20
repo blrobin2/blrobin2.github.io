@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4oPRDb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 Thank you to Owen for letting me borrow his MST3K DVDs!

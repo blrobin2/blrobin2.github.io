@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8d61Kx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Not the total disaster I thought it was first time around

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9WKtEF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [silverspot, owen]
 ---
 
 Stefani has the same nightmare every time she sleeps, even when she dozes off in class. It features her grandmother, Iris, as a young woman in a Needle-adjacent restaurant called Sky View, watching everyone die in horrible and convoluted ways before dying herself. She decides she needs to go home and track down her estranged grandmother to get some answers. She may not like what she learns, because it involves the death of everyone in her family. Will she be able to save them?

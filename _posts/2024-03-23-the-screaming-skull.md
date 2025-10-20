@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/66Uw2R
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, frightfest-guide-to-ghost-movies]
 ---
 
 In rare form, they watch a Gumby TV episode called Robot Rumpus before the movie. I'll provide riffs I liked from both in this review.

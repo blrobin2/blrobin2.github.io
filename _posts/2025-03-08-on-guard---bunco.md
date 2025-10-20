@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/93fjLf
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Great job packing. You know you can't wear that phone book to your sister's wedding, right?

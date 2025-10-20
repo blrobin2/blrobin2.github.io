@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xnign
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober4.0, slasher, killer-toy, home-invasion]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 24/31 | Tom Holland</a></b>

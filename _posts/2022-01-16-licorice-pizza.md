@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2ubGd5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [kh]
 ---
 
 1. The Master

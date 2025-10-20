@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XkPtD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, frightfest-guide-to-ghost-movies]
 ---
 
 This has a lot of my favorite tropes in it, I just don’t think this is a particularly excellent execution of them

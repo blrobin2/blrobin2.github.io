@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wmiRn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, kaiju, mockbusters, superhero]
 ---
 
 - Godspeed, stock footage

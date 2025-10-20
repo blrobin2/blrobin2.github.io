@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6r77HL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober4.0, folk-horror:-a-study, written-by-women, best-finnish-films]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 8/31 | Countries 2/6 | Finland | Decades 3/6 | 50s</a></b>

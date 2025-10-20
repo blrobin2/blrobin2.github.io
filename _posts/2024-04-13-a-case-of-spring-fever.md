@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6gs5oF
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - I anticipated your complaint!

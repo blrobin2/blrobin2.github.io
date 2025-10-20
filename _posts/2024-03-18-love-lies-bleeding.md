@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/64NCiz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen, queer, written-by-women, directed-by-women]
 ---
 
 <b></b>

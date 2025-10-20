@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b0lhDf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2018, cannibal, category-iii]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 10/52 | HK Cat III</a></b>

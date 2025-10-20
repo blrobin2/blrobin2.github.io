@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6HltRZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, canuxploitation, post-apocalypse, scifiploitation]
 ---
 
 Emily episode! I hate these cold opens! Gun to my head, if I had to pick one host going forward, it would be Emily. But please don't put a gun to my head.

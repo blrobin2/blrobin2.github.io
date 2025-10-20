@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4QDnWP
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - he's crying for his mother, her name was "aaaaggh"

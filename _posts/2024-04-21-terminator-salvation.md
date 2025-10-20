@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6jqoRT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hbo, cyberpunk]
 ---
 
 <b>2003</b>

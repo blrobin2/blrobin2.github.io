@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Ta7Lt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, zombies, beach-party, teensploitation]
 ---
 
 <i>Movie CW // Murder, Blood, Racism

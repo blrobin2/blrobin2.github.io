@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6hMWXd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plutotv, cmc, cmc2016, folk-horror, britsploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 48/52 | Hammer Horror</a></b>

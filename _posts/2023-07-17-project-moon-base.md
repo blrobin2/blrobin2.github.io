@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wL0az
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - There’s a bonus if you get killed

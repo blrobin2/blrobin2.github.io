@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9zv4Gz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2017, coming-of-age, edited-by-women, werewolves]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 33/52 | Crown International</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/20sHTZ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 He’s pretty good at playing that tiny harmonica

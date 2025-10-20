@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5l0Gi1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse, adam, good-for-her]
 ---
 
 <b>In the <i>Forest Gump</i> and <i>Benjamin Button</i> tradition, this film explores an unconventional perspective on the world.</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/435xHB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, criterion, frightfest-guide-to-ghost-movies]
 ---
 
 Brother and sister buy a seaside house that has “disturbances”. Though we see small things like flowers withering, they only begin to know something is wrong when they hear crying in the house, but cannot find anyone else in the house with them

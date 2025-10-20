@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4H1Q8H
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju]
 ---
 
 - They've run a-crab!

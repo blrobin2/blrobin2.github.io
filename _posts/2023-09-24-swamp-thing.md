@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4T2CBl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, the-final-girl, scifiploitation, superhero]
 ---
 
 <blockquote><i>Not long ago, in the unexplored reaches of an unmapped swamp, the creative genius of one man collided with another's evil dream, and a monster was born. Too powerful to be destroyed, too intelligent to be captured, this being still pursues its savage dream</i></blockquote>Alex Holland (Ray Wise) is a scientist working on a top-secret formula that will allow plants to grow in inhospitable places. After a group of paramilitaries — led by Anton Arcane (Louis Jourdan), intent on hijacking the project for their nefarious plans  — kill one of his researchers, Alice Cable (Adrienne Barbeau) takes the researcher's place in the bog lab

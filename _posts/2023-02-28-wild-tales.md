@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3V1CDz
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 <i style="font-weight: bold;">Pasternak </i><b>\*\*\*.5</b>

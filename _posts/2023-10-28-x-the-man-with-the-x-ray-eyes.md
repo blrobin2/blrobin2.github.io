@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53YUBJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptoberx, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 30/34 | ‘X’ in the title</b>

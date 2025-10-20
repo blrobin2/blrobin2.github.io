@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5EI9n7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, canuxploitation, nature-attacks, horror-anthology]
 ---
 
 <b>Cult Movie Challenge 2024 | 4/52 | Canuxploitation</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Jud4l
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober8.0, torrent, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 31/34 | Tobe Hooper</a></b>

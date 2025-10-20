@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6O9dxD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, hooptober, hoop-tober]
 ---
 
 <b></b><a href="https://boxd.it/pRQY0/detail" title="Hoop-Tober | 27/31" target="_blank" rel="noopener"><b>Hoop-Tober | 27/31</b>

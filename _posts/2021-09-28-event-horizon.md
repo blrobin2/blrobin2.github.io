@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2aqvNh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Solaris meets Hellraiser is a wild conceit, but it kind of works for me

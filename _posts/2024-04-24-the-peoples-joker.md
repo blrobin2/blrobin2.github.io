@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6kQ3j3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse, queer, directed-by-women, written-by-women, edited-by-women, good-for-her]
 ---
 
 \*\*\*\* grew up in Smallville. Her only outlet was UCB Live, particularly the hilarious Ra's al Ghul. But when she questioned her gender identity, her mother took her to Arkham Asylum, and Dr. Crane gave her a drug to make her appear happier.

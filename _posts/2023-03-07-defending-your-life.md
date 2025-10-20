@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3WQz7r
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [switchblade-sisters, criterion]
 ---
 
 Probably a bad first Albert Brooks movie, oh well!

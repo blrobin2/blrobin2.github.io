@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4lHEMh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, queer, coming-of-age, solidarity]
 ---
 
 “Ever feel like reality is more twisted than dreams?”

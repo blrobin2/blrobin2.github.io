@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4zloaD
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, bikesploitation, frightfest-guide-to-exploitation-movies]
 ---
 
 This is the episode where Dr Forester and TV’s Frank coin the term “good bad movie”

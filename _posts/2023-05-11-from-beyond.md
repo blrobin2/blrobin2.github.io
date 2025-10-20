@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4euqMD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, genre:-exploitation]
 ---
 
 Dream team collaborators Brian Yuzna and Stuart Gordon, as well as dream thruple participants Jeffrey Combs and Barbara Crampton, reunite for another HP Lovecraft adaptation

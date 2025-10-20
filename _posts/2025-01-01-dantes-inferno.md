@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8fHWf9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hoop-tober]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 10/31 | Decades 10/10 | 1910s</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5eX9F7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - When good-natured ribbing goes too far

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5J8vkH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, j-horror, hooptober, hooptober8.0]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 30/34 | Asian horror 3/3 | Decades 8/8 | 60s</a></b>

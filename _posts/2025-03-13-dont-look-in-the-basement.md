@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/96EHkT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2017, video-nasties]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 6/52 | Video Nasties</a></b>

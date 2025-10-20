@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5726nR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, women-of-the-west, criterion]
 ---
 
 <b>You can have it all. My empire of cows.</b>

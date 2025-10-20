@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b1Xi7T
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Look, this is quite boring, but it would kill as a second video to play below a clip from Parks & Recreation on TikTok.

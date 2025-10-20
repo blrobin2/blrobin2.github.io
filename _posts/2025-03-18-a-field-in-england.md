@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/99RM3L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, oh-my-horror, omh2025, omh, folk-horror, written-by-women, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 12/52 | Spring Fever</a></b>

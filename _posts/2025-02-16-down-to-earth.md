@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8QIjeL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, edited-by-women, owen, anna]
 ---
 
 The most labored musical! Every scene drags and drags with painful attempts at banter—superb costumes, stunning sets, but awful songs.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6cOJu7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 <i>They Shot the Piano Player</i> is the story of Brazilian pianist Tenório Jr and his mysterious disappearance in the 70s. He played during the Bossa Nova wave, and his disappearance became a metaphor for Bossa Nova as a whole — a brilliant movement ended too soon by South American dictatorships.

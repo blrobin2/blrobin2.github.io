@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/67YExb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober6.0, religious-horror, italian-gothic, gothic-horror]
 ---
 
 <b>Hooptober 6.0 | 24/32 | The men and women of the church are having a bad day</b>

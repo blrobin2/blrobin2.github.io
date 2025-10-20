@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lbHj5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint]
 ---
 
 <b>Northern California, 1980s</b>

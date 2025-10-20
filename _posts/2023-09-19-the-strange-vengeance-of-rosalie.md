@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4RNNDj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, house-of-psychotic-women, genre:-exploitation]
 ---
 
 The film opens to the sound of wind and a shovel pulling dirt out of the ground — the sun rises, the silhouettes of seas chickens hanging across the horizon, and a single figure digging

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4gjva1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, giallo]
 ---
 
 An explosion of drums, a beating heart, a man outside in a trench coat and sunglasses — a band recording together in a studio, a fly buzzing in the drummer’s face that he crushes in the high-hat

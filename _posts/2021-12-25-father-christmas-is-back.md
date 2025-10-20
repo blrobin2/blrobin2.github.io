@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2obukJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [kh]
 ---
 
 I watched and waited for some redeemable moment, but it really is that bad from start to finish

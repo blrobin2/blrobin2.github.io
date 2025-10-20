@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9EOJW7
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Bridget Nelson & Mary Jo Pehl riffing

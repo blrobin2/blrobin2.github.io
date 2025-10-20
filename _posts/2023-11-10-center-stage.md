@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58w5jX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla, 1001-movies, golden-horse]
 ---
 
 <b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 11/52 | Criterion Double Feature — Film 1</b>

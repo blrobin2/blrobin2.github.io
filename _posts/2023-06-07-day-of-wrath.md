@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4leb8p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, criterion, claire-denis-req]
 ---
 
 An older woman in a village stands accused of witchcraft. To the priest who tortures her for her confession, she begs him to spare her as he had the mother of his wife — a much younger woman than he — who was also accused of witchcraft. He denies her pleas, and the men cast her into the fire

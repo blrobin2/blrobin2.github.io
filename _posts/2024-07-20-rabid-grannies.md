@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6UKyCR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, birth-year-challenge]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 8</a></b>

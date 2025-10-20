@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8TL7n5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, anti-criterion-challenge-2024, acc2024, directed-by-women, written-by-women, edited-by-women, films-made-by-women-set-in-rural-areas, slow-cinema, 1001-movies, golden-lion]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 49/52 | Made in Georgia (US State)</a></b>

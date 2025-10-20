@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ipUeP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla]
 ---
 
 Becky has been running away from foster home after foster home. Two years later, she remains off the grid, working as a waitress in a diner and training herself in self-defense and parkour.

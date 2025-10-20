@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Rva0L
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - tommy's the lathe of heaven

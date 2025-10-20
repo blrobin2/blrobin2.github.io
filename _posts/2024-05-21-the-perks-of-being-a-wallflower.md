@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6vVgsh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, anti-criterion-challenge-2024, acc2024, queer, coming-of-age, edited-by-women, wine-o-clock]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 21/52 | Directed by a director with three or less feature films</a></b>

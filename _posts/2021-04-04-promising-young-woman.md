@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1LICIf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie]
 ---
 
 If you can watch it as the story of an addict instead of a morality play, you’ll get more mileage out of it

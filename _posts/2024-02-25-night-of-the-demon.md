@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5UhkZh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober7.0, folk-horror, gothic-horror, britsploitation]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 24/32 | highest-rated horror film from the 50s that you haven't seen and can access</a></b>

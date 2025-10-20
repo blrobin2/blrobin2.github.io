@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9frtXx
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Jeff's collar marked him as a traitorous sellout to the human masters, so they were unified in his righteous destruction.

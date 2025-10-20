@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5gC6Nj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 Fontaine (John Boyega) is a drug dealer in a neighborhood called The Glen. He has his schedule — lift weights, buy a lotto ticket, pour some of his 40 for the old guy outside the gas station.

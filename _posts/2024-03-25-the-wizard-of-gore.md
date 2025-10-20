@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/680Cjb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, torture-porn, zombies]
 ---
 
 <b>Cult Movie Challenge 2016 | 38/52 / HG Lewis</b>

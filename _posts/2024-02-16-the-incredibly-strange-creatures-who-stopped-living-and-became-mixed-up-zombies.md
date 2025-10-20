@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5QhhVF
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, teensploitation, zombies]
 ---
 
 I need to track down a DVD copy of this so I can watch with Joe Bob Brigg's commentary.

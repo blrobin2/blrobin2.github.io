@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4BJnUh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 Tobacco Force — five avengers who each represent an ingredient in cigarettes — Benzene, Methanol, Nicotine, Mercury, Ammonia — give a humanoid tortoise (Tortusse) cancer, which causes it to explode in gallons of blood

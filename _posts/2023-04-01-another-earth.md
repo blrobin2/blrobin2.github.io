@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/43zJtB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 A woman accidentally kills a family in a car crash while trying to look at a planet ostensibly identical to ours in the sky called Earth 2. When she gets out of prison, she learns that the father was just in a coma and woke up

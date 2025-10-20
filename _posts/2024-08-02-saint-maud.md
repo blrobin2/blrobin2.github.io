@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/70vg2F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hoop-tober, written-by-women, directed-by-women, queer, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 1/31 | Decades 1/10 | 2010s</a></b>

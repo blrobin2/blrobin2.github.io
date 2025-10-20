@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xNMhB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, britsploitation]
 ---
 
 - I’m intrinsically evil and I have a new jogging suit to show off

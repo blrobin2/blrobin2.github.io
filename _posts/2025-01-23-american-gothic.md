@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8zPFKb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, slasher]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 43/52 | Slasher</a></b>

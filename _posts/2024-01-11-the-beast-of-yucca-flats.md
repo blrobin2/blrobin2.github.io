@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5yJoT1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 The final Coleman Francis film of the show. Thank god.

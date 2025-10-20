@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/594lTP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 11/34 | Insect-centered 2/2</b>

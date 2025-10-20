@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6VBS0p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, hooptober, hooptober2.0, edited-by-women, giallo, krimi]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 21/31 | Slasher 1/5" target="_blank" rel="noopener">Hooptober 2.0 | 21/31 | Slasher 1/5</a></b>

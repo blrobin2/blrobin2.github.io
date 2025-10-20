@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5rAp5P
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, bond-dalton]
 ---
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy" target="_blank" rel="noopener">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>

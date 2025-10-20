@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1qI90J
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [horror-anthology]
 ---
 
 It seems to be a common problem with most anthologies: there’s maybe one good story, and bunch of awful ones. With 10 stories, there’s 3 that I kind of like:

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5HBHMN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, standup, written-by-women, directed-by-women]
 ---
 
 I've been dying to see this show for years. She did this show in London THE WEEK after I left.

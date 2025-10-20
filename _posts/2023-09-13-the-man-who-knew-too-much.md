@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Q22dl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion]
 ---
 
 A ski trip, a skeet competition, a bullet through the glass — the assassination of a new acquaintance and the kidnapping of their daughter enmesh Bob and Jill in a secret plot

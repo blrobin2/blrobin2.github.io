@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5N0YJB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, the-most-dangerous-game, criterion, hooptober, hooptober7.0]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 7/32 | Decades 1/6 | 1930s</a></b>

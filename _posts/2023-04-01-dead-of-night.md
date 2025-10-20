@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/43vQoF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, frightfest-guide-to-ghost-movies, britsploitation, killer-toy, horror-anthology]
 ---
 
 A man trapped in a recurring dream, or believes it so, drives up to a farmhouse and knows everyone in a room full of strangers. Most everyone is into it save a psychoanalyst who can recall any number of theories for his experience

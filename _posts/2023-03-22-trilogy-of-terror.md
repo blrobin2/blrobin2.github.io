@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/410V0N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, killer-toy, horror-anthology]
 ---
 
 Three stories, all staring Karen Black as the lead role(s). Shes the only reason any of this is worth watching

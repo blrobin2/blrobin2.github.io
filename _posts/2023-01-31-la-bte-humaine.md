@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3N1RzF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, claire-denis-req]
 ---
 
 At some point I realized that I had seen this before but I forgot most of the plot points

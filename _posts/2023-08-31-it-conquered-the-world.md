@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4MkvdJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - I've looked at clouds from both sides joe

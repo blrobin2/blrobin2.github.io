@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4df0kp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, mexsploitation, slasher]
 ---
 
 Where can I buy those dinosaur pajamas?

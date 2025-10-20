@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6pvL4p
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, sword-&-sandals]
 ---
 
 Is this really the first Jayne Mansfield movie I'm watching? Her husband isn't very good at this whole acting thing.

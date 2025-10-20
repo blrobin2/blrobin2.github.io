@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ujg4L
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sorcery]
 ---
 
 Even the writers admit this movie is alright, they just found the plot confusing. Maybe if Roger Corman didn't chop it up it might make more sense?

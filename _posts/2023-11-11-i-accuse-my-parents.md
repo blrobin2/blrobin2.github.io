@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58P2u7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, juvenile-delinquency, teensploitation]
 ---
 
 - 🎵They laugh when I accuse my parents, so I kill them, we'll see who's laughing now!

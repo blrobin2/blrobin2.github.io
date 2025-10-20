@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8UCRVD
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 The writers struggled with this episode since the movie had so much music and was trying to be funny. It's one of the writers's most loathed movies from Season 2 (except for Frank, who loves the worst movies).

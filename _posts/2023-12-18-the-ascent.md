@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5lgvDz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, golden-bear, 1001-movies, sight-and-sound, eclipse]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 46/52 | 1970s</b>

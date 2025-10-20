@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/65Hqc7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, canuxploitation, so-bad-it's-good]
 ---
 
 - — I want to know what happened to you. — I died

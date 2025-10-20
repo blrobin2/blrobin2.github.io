@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5TwnhN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, cmc, cmc2016, solidarity, sexploitation, pinku, claire-denis-req]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 28/52 | Mondo Macabro</a></b>

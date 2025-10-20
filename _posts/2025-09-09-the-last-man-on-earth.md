@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b12nTz
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 <a href="https://boxd.it/87hb3V" target="_blank" rel="noopener">I kind of like this movie</a>, but I get why the Rifftrax folks chose this one. It's slow and dry, but I enjoy the worldbuilding and Vincent Price. Speaking of Price, all the Rifftrax boys try their hand at an impersonation of him, but none really land it. Also, way too many dick jokes, including one about getting a dog to lick peanut butter off of…

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5VyLS1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober7.0, good-for-her]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 26/32 | Invisible Person" target="_blank" rel="noopener">Hooptober 7.0 | 26/32 | Invisible Person</a></b>

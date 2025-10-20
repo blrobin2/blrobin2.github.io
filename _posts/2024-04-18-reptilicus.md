@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6iuovx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, kaiju, nature-attacks]
 ---
 
 Despite my better judgment (and because of my completionist tendencies), I'm giving the <i>MST3K</i> reboot a shot

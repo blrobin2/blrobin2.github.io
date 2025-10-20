@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8I4NZb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, oh-my-horror, omh, omh2025, directed-by-women, written-by-women, edited-by-women, coming-of-age, criterion, folk-horror:-a-study, films-made-by-women-set-in-rural-areas]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 6/52 | Black Directors</a></b>

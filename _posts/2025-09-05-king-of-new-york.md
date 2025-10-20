@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aYkDRN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2018, 1001-movies, cops]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 8/52 | Abel Ferrera</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ZHjTJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, criterion, directed-by-women, written-by-women, queer]
 ---
 
 Sandra's son, Daniel, goes on a walk with his dog Snoop. As he leaves, he hears Sandra and his father, Samuel, talking. When he comes back from his walk, he discovers his father dead in front of the house, bleeding from a head wound.

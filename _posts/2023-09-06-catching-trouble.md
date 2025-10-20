@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4O6Jzp
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - he's a foley artist in the off-season

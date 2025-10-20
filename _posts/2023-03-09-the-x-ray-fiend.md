@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XiLEN
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Men not leaving women alone — a well-worn story by the birth of cinema

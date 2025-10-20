@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4HZppr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 This is fine, MST3K thinks dubbing = bad. Maybe the most boring MST3K I've seen. Maybe trying to riff on Shakespeare wasn't the best idea, sweeties?

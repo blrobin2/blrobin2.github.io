@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/96LsFr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 I watched this because the kids in <i>Au Revoir les Enfants</i> watched it. Louis Malle chose it for the movie because "it was an evocation of freedom for those Jewish children when they see the Statue of Liberty, America being the promised land."

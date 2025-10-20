@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4w8jYb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, britsploitation]
 ---
 
 <blockquote><i>Let no one snatch me from this heaven</i></blockquote>Leonora (Elizabeth Taylor) and Cenci (Mia Farrow) find solace in other another — Cenci thinks Leonora is her lost mother, Leonora sees a surrogate child for the one she lost in a drowning accident

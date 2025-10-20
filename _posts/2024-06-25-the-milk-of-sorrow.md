@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6K45SH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [acc2024, anti-criterion-challenge-2024, coming-of-age, indigenous, directed-by-women, written-by-women, golden-bear]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 26/52 | Made in a country with a border that crosses the Equator by a director from that country (Peru)</a></b>

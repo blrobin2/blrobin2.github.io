@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Z6U9p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, italian-gothic]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 5/32 | film from before 1966 5/6</a></b>

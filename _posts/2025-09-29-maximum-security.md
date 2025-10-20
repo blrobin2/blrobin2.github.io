@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bd4twj
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Yet another reminder that Rifftrax are cowards who cut sex scenes.

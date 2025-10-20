@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5I2fDH
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 This movie has one of my favorite posters. I've clicked it multiple times only to remember its an <i>MST3K</i> movie and that I would watch it soon enough

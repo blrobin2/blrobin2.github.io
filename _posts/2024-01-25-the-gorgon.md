@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5FTzOp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, britsploitation, gothic-horror]
 ---
 
 Hooptober 8.0 | 23/34 | Hammer films 1/2

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lTZ1B
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, disaster]
 ---
 
 I despise the NPH / Felicia Day song. I almost pulled an Uzumaki and shoved scissors into my ears. Honest! I really almost did it, I swear to god!

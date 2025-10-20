@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8E00rl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, birth-year-challenge, solidarity, british-social-realism]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 14</a></b>

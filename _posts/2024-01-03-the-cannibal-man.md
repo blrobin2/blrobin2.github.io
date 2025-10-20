@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5tIecf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober8.0, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 2/34 | Countries 2/6 | Spain</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4nTvs5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 Meditation on total loss — loss of the city of your childhood, the loss of your loved ones, the loss of hope that anything that can change

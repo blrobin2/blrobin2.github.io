@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bf5uXP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [worldscinema.org, hooptober, hooptober12, zombies]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 1/31 | Decades 1/9 | 1970s | Zombie 1/5</a></b>

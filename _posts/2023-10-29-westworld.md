@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/54nhDB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, technothrillers, scifiploitation]
 ---
 
 Delos has developed the vacation of the future — a set of themed worlds that create immersive experiences with the aid of near-human-looking robots.

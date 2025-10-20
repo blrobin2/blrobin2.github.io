@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4g6Fld
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, video-nasties, canuxploitation, slasher, special-day-horror, coming-of-age]
 ---
 
 A girl walks home alone at night, accosted by someone with black gloves. When she thinks she’s found a friend, she sees the black gloves on them and a straight razor in their hands — we don’t see to whom the black gloves belong

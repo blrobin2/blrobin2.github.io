@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aO4ibz
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - They told me electricity in my brain would kill the urge to do this, but they were dead wrong

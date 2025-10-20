@@ -5,7 +5,15 @@ paginate: 100
 
 plugins:
   - jekyll-paginate
+  - jekyll-archives
 
 webrick:
   headers:
     "X-Frame-Options": "DENY"
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: archive
+  permalinks:
+    tag: "/tag/:name/"

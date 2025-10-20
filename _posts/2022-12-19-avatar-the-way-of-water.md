@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3y9OqV
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Saw regrettably in 3D

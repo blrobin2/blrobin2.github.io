@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57WQKz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion-challenge-2023, criterion, cc2023]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 10/52 | Heartbreak Heaven</b>

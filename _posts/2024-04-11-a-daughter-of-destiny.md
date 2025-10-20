@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6fEowX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hooptober5.0]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 10/32 | Anniversary Film 9/10 | Countries 6/6 | Germany | Silent Film</a></b>

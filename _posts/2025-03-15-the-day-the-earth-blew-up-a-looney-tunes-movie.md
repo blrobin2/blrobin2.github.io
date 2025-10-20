@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/97B2gf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 Farmer Jim raised Daffy Duck and Porky Pig from duckling and suckling, respectively. When he went to that great farm in the sky, he left his house to the two, telling them, "As long as you stick together, you'll be alright."

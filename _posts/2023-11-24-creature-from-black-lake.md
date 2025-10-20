@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5cYr8T
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober9.0, bigfoot, hicksploitation]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 25/34 | Joy N. Houck Jr.</b>

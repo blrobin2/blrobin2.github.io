@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7SLhqV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla, hollis]
 ---
 
 <blockquote><i>We're just shaving our feet and braiding our vaginas!</i></blockquote>

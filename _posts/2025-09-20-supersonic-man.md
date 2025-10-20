@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b7szKl
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, superhero]
 ---
 
 Yet another Cameron Mitchell vehicle for 2025! His catchphrase in this movie seems to be, "You idiot."

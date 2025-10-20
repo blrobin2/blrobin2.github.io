@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a8hOEr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, asiancinemachallenge2023, asiancc2023, asiancc2023week13, solidarity, 1001-movies, chinese-dissident-cinema, golden-horse, village-voice, fifth-generation-chinese]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 13/52 | Directed by Zhang Yimou</a></b>

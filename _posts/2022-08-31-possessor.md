@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3bgQBN
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Disturbingly graphic violence, and to what end I’m not fully sure. It’s visually interesting, Christopher Abbot does a good job, I was engaged throughout, but I don’t think I’ll be talking about this movie to anyone

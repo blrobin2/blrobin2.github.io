@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aAUxfp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, owen, anna, beck]
 ---
 
 <blockquote><i>This cold war just got hot.</i></blockquote>Say what you will about the episodic story, nonsense time travel, and non-existent characterization — the movie has an artistic vision and production.

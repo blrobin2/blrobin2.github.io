@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9OsSpn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [chelsea-theater, owen, edited-by-women]
 ---
 
 Tim Robinson is every nightmare I have about who I might secretly be. He embodies my worst tendencies and amplifies them to such an absurd degree that I have to laugh, whether it's the laughter of unbridled joy or the only catharsis my body can achieve in such a horrified state.

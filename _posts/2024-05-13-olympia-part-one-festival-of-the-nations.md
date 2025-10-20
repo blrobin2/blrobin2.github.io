@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6sApNT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, written-by-women, directed-by-women, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 20/52 | 100 Years of Olympic Films</a></b>

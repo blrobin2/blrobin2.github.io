@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57DLuj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0]
 ---
 
 We open on the first-person perspective of someone at a desk, writing out musical notation. They take a candle downstairs and grab a canister of gas. They step outside, open the canister, and douse themselves with the gas, dropping the candle at their feet and self-immolating. These are the last moments of Richard Marlowe (Rutger Hauer), a notorious British composer who disappeared at the peak of his career.

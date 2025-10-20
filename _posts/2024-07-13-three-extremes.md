@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6RsbhN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober2.0, j-horror, cannibal, written-by-women, horror-anthology]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 12/31 | Takashi Miike 2/5</a></b>

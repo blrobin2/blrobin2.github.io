@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lg89T
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 Annie has no control over her life. Even when she sleepwalks, she seems to do the last thing she would want to. So, she makes miniatures of real-life events to give her some sense of autonomy.

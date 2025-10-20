@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ODBw9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, oh-my-horror, omh, omh2025, home-invasion]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 22/52 | Home Sweet Horror</a></b>

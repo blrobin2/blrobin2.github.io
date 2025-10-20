@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/92jdUJ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, vampires, zombies, scifiploitation]
 ---
 
 I think nostalgia is making this movie better each time I watch it.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3i0Y7x
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher, video-nasties, coming-of-age]
 ---
 
 Is TCM 2 a mashup of TCM 1 and The Funhouse?

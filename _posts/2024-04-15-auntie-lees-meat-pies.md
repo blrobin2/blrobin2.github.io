@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6hcNkz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, cannibal]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" title="Cult Movie Challenge 2024 | 16/52 | Karen Black" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 16/52 | Karen Black</a></b>

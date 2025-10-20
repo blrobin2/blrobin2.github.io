@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Z8OdD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, starring-michelle-yeoh, superhero]
 ---
 
 Missing babies, an invisible assailant, a crime fighter named Wonder Woman — no relation —, and a shotgun shooting thief-catcher add up to a totally zany superhero-based wuxia

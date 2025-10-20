@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ivi4T
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+]
 ---
 
 A guy drives with his son at night. He drops off his son at his grandmother’s and drives into Las Vegas. His wife calls, going into labor.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9l1PtL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, queer]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 29/52 | Out of Print Criterion Releases</a></b>

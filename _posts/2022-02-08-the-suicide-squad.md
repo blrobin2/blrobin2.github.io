@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2yOjFf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [superhero]
 ---
 
 Suicide Squad was made for no one, The Suicide Squad was made for 13 year olds

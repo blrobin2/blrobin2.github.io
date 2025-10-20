@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2YdFMn
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Burn After Reading meets the Munsters meets all porn parodies

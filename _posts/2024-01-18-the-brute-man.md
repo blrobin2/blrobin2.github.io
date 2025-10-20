@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Cyoc1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 Lot of wordy jokes in this one. Their Rondo Hatton jokes are so fucking cruel.

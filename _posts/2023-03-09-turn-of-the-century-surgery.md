@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Xj5Rn
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The sign that says “please do not cry”, the bottle of animal glue on the counter as they exchange pieces of this dude’s body with new ones from a bucket

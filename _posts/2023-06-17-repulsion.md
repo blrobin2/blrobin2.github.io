@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4nVAkT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, house-of-psychotic-women, 1001-movies, switchblade-sisters, britsploitation]
 ---
 
 Carole (Catherine Deneuve) is a manicurist accosted by men on all sides. She regularly disassociates, loses track of time, forgets what she is doing. Cracks start forming in the pavement, on the walls, someone is always in the periphery

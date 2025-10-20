@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5EqyJL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, nature-attacks]
 ---
 
 Season 8 and first Sci-Fi episode!

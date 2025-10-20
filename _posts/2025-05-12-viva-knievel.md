@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9FKbA3
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Gene Kelly?? Lauren Hutton?? Leslie Nielsen?? Oh, Cameron Mitchell, that makes sense.

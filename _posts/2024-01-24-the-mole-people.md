@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5FEgWf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 The only episode with a guest star? It's Robert Smith (no, not THAT Robert Smith :()

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5UJ6IR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, cmc, cmc2016, folk-horror]
 ---
 
 <b><a href="">Cult Movie Challenge 2026 | Psychotronic Encyclopedia</a></b>

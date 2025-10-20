@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6rcuS3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, queer]
 ---
 
 I haven't seen every Luca Guadagnino movie, but of the four I've seen, one thing is consistent: he doesn't like characters but ideas. Some actors he's worked with can create something from the vacuous space. Here, he commits the sin of unveiling that Zendaya isn't up to this task.

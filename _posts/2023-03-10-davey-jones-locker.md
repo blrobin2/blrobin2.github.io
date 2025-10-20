@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XxClH
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Superimposing the disassembling skeleton over a ship is weirdly effective, despite being way too big

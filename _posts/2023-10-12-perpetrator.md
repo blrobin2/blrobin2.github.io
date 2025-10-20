@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4YZ5Ql
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 <blockquote><i> I've been with you your whole life — I was just somebody else</i></blockquote>In a town where girls go missing and folks have nosebleeds, Jonny (Kiah McKirnan) goes to live with her great aunt Hildie (Alicia Silverstone) and experiences her family birthright: Forevering — a profound, spectral empathy where she feels all the feelings.

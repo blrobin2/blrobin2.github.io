@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8XFkTR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-challenge-2024, cc2024, post-apocalypse, 1001-movies, scorsese's-85-film, film-noir]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 33/52 | Anthony Bourdain’s Top 10</a></b>

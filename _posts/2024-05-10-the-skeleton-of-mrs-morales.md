@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6rtVFf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober4.0, somos]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 9/31 | Countries 3/6 | Mexico | Decades 4/6 | 60s</a></b>

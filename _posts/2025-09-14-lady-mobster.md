@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b3YLdB
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Mary Jo Pehl and Bridget Jones Nelson riff on this one.

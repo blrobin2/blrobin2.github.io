@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xu7qJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, sword-&-sorcery]
 ---
 
 - Hey, watch who you call “pervious”

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aXKLoH
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Why did this short go so hard on the cinematography?

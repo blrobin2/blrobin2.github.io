@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6PnunR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, hooptober, hooptober2.0, folk-horror]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland" target="_blank" rel="noopener">Hooptober 2.0 | 6/31 | Countries 1/5 | Ireland</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4trmSL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, ai, scifiploitation]
 ---
 
 <blockquote><i>[We see] our children as machines to be systemized in order to ensure product — things we have been brainwashed into wanting</i></blockquote>Alex (Fritz Weaver) has invented Proteus, an AI capable of curing leukemia in 4 days, and pushes it toward mining resources, despite the cost to humanity

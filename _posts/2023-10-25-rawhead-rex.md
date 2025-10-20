@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5348G5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptoberx, hooptober, folk-horror:-a-study, britsploitation]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 27/34 | Based on a Clive Barker story</b>

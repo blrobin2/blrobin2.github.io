@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lqurF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [roku-channel, hooptober, hooptober5.0, slasher, directed-by-women]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 25/32 | Woman-Directed 1/2</a></b>

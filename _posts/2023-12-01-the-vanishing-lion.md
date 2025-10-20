@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fuYkP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion]
 ---
 
 <blockquote><i>Cats rule</i> — Agnes Varda</blockquote>

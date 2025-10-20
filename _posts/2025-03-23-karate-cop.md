@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9cpQcD
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, techsploitation, post-apocalypse]
 ---
 
 I took a massive risk by watching this sequel before the original <i>Omega Cop</i>, but I trusted the movie to gently guide me into its rich and multifaceted universe.

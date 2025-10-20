@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5dBFc9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0, frightfest-guide-to-ghost-movies, britsploitation, slasher, werewolves, horror-anthology]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 27/34 | Christopher Lee films 2/2 | Decades 8/8 | 1960s</b>

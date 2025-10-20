@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pFIzt
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd, beach-party, heist]
 ---
 
 No memorable jokes from this one, mostly a lot of ogling the women

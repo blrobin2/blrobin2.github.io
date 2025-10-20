@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Sg8j9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober7.0]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" title="Hooptober 7.0 | 19/32 | from this year 1/2" target="_blank" rel="noopener">Hooptober 7.0 | 19/32 | from this year 1/2</a></b>

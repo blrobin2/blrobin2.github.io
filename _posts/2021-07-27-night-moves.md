@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/21Beb7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Working on my night chess

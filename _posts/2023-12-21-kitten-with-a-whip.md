@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5mAMYX
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, juvenile-delinquency, teensploitation]
 ---
 
 It's hard not to enjoy unhinged Ann-Magret

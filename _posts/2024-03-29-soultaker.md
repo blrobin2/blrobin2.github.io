@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/69Mujn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Season 10 Premiere! Another new intro since Pearl has settled into her castle. And Joel and TV's Frank return for an episode! 😭

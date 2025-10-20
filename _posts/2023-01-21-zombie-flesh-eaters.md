@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3JKpYr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, video-nasties, mockbusters, zombies, frightfest-guide-to-exploitation-movies]
 ---
 
 Cold open to a no-context scene of a guy getting his head blown off? Fulci knows his audience

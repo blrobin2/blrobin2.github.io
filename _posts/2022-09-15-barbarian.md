@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3e66v7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [home-invasion]
 ---
 
 Men, but it says the quiet part out loud

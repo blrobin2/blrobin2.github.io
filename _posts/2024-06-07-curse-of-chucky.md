@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6CLoeF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober3.0, killer-toy, queer]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 6/31 | Franchise 6/7</a></b>

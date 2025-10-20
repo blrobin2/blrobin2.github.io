@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6afarf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, coming-of-age, teensploitation]
 ---
 
 <i>I will talk to you of art, for there is nothing else to talk about.</i>

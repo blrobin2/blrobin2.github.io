@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7209ix
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hollis]
 ---
 
 The only way to watch this movie is unbearably high. Tweedledee and Tweedledum will haunt my nightmares.

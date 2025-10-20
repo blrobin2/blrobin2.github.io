@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bbyGGD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, asiancinemachallenge2023, asiancc2023, asiancc2023week18, golden-lion, 1001-movies, ibn-100, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 18/52 | Directed by Satyajit Ray</a></b>

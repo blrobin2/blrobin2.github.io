@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6QbXKl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober2.0, britsploitation, haunted-house]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 9/31 | Countries 4/5 | England</a></b>

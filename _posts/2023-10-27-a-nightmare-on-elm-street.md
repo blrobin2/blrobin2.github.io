@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53AANn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max]
 ---
 
 <b>Hey, Freddy! Leave those sleepy kids alone!</b>

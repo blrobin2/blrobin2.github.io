@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4L1BNL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 Watching for a podcast

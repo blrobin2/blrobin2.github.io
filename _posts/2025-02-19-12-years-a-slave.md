@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8SICg5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, anti-criterion-challenge-2024, acc2024, solidarity, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 47/52 | Screenplay adapted from a work of nonfiction</a></b>

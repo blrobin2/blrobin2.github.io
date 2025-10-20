@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3VGIlj
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A24-core visual style — beautiful frames, intentional and expressive coloring, triangles and more triangles — and that emphasis on atmosphere over story

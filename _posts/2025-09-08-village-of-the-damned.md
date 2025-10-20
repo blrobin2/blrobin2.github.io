@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b0pMYV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, oh-my-horror, omh, omh2025, britsploitation, killer-kids, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 37/52 | Black & White Horror</a></b>

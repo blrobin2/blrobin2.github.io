@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/46fwfj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, erotic-thrillers, britsploitation]
 ---
 
 Kathleen Turner plays a dual life as a fashion designer and a sex worker, taking quaaludes and drinking J&B, looking for freedom or whatever

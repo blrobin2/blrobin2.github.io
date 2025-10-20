@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/59qQlD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0 | 12/34 | Set in space or the future</a></b>

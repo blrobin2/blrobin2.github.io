@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Rp6Rz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, 1001-movies, scorsese's-85-film]
 ---
 
 <blockquote><i>When I start out to make a fool of myself, there's very little can stop me</i></blockquote>Orson Welles plays Black Irish Michael O'Hara, a man known for... killing a guy? He sees Elsa Bannister (Rita Hayworth) in a passing carriage,  and his fixation seals his fate... until it doesn't? Elsa pulls Michael into her world of mistrust and malaise... well, pretend malaise so that... they can commit crimes?

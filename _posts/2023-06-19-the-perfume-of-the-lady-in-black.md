@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ouJhf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, italian-gothic, giallo]
 ---
 
 Silvia (Mimsy Farmer) is an industrial scientist and workaholic who puts work above all, including her budding relationship with Roberto (Maurizio Bonuglia), who cannot stand any lack of attention on her part

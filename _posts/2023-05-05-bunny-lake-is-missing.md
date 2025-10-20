@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4cYWqh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, britsploitation]
 ---
 
 Excellent opening credits with the paper tear revealing the title and credits — of course, it’s Saul Bass

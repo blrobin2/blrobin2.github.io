@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6HxHLb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober3.0, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 18/31 | Mario Bava | Decades 5/5 | 70s</a></b>

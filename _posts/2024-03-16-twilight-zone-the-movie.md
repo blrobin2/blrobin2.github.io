@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/63F6Hd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, horror-anthology, written-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 15/32 | Makeup: Rob Bottin</a></b>

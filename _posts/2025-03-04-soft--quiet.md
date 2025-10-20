@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/90XhNf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [oh-my-horror, omh, omh2025, directed-by-women, written-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 10/52 | Women in Horror</a></b>

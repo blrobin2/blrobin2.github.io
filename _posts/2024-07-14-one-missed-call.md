@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6S4pbb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober2.0, j-horror, written-by-women, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 13/31 | Takashi Miike 3/5</a></b>

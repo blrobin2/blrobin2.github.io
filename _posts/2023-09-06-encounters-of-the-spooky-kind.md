@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4O2YEB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hopping-vampires-of-hong-kong, wuxia, frightfest-guide-to-ghost-movies, vampires, chopsocky]
 ---
 
 Written, directed by, and starring Sammo Hung, one of the foremost Hong Kong directors and choreographers who helped reinvent the martial arts film into the breakneck joyride we know today

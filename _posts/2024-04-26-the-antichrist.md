@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lz5Iz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, religious-horror, mockbusters]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 51/52 | Italian Horror" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 51/52 | Italian Horror</a></b>

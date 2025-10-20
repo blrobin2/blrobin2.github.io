@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8OK17N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, oh-my-horror, omh, omh2025, 1001-movies, frightfest-guide-to-ghost-movies, wuxia, golden-horse]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 7/52 | Love and Horror</a></b>

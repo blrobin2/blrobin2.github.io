@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/51IXSt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptoberx]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 23/34 | Hitchcock | Decades 8/8 | 50s </b>

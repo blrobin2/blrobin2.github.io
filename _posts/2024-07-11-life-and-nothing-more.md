@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6QJ7kt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, solidarity, criterion-challenge-2024, cc2024, village-voice, wine-o-clock]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 28/52 | Ari Aster’s Closet Picks</a></b>

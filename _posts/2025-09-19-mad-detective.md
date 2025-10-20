@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b6G34r
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, written-by-women, edited-by-women, category-iii, asiancinemachallenge2023, asiancc2023, asiancc2023week17]
 ---
 
 <b><a href="https://boxd.it/qaTwm" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 17/52 | Category III</a></b>

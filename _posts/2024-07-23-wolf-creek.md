@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6WaEub
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober2.0, slasher, torture-porn, folk-horror, folk-horror:-a-study]
 ---
 
 <b><a href="">Hooptober 2.0 | 22/31 | Slasher 2/5</a></b>

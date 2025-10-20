@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/40ruQx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, folk-horror:-a-study, switchblade-sisters, britsploitation, werewolves]
 ---
 
 Fairy tales and nightmares merge as a woman is seemingly thrown into the dreams of her reclusive sister, ultimately chased down by wolves with red glowing eyes

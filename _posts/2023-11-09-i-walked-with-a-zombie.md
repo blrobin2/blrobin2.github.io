@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58bugn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, folk-horror:-a-study, 1001-movies, zombies]
 ---
 
 <b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 8/34 | Decades 2/8 | 1940s</b>

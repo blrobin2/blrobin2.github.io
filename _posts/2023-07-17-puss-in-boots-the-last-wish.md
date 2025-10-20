@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wRWZx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, heist]
 ---
 
 Puss in Boots is on his last life, so he chases after a fabled star capable of giving one wish. Along the way, he makes friends and enemies, and everyone’s motivations are challenged — except for Perrito, who already had everything he wanted

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5FvFG9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober8.0, folk-horror:-a-study, rape-and-revenge, 1001-movies, hicksploitation]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 21/34 | Set in the Woods</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Osy7V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [paramount+, anti-criterion-challenge-2024, 1001-movies, sight-and-sound, acc2024]
 ---
 
 <a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener"><b>Anti-Criterion Challenge 2024 | 7/52 | 1970s</b></a>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3xBEDH
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Start to finish, perfect movie. So tender, so quiet, so full of love

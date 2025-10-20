@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53rvOR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 - Attack of the The Eye Creatures

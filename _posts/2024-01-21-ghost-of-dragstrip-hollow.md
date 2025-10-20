@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5DPFRt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober8.0, carsploitation, teensploitation, beach-party, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 19/34 | Haunted house 2/2 | Decades 6/8 | 50s</a></b>

@@ -5,6 +5,7 @@ excerpt: "My review of Frankenstein vs. Dracula (1971)"
 rating: "1.0"
 letterboxd_url: https://boxd.it/bpJ0cT
 category: movie-review
+tags: [torrent, cmc, cmc2018, vampires, bikesploitation]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 23/52 | Independent International</a></b>

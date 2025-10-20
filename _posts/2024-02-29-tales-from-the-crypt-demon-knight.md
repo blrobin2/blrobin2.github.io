@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5W960V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober7.0]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 29/32 | black director or predominantly black cast or lead 2/2</a></b>

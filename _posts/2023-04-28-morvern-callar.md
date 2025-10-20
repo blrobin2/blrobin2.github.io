@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4aVIZt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, sight-and-sound, british-social-realism]
 ---
 
 The uncomfortable quiet of Samantha Morton lying on the floor next to her boyfriend’s body, dead by suicide, lights on the Christmas tree flickering light and shadow across them. “Don’t try to understand. It just felt like the right thing to do,” his suicide note reads. “Be brave.”

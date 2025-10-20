@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3kTlXR
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I too wish to not be buried alive if I can manage it

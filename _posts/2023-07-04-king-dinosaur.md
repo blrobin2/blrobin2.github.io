@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4sVMh3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd, nature-attacks]
 ---
 
 I am obsessed with the CGI DVD menu

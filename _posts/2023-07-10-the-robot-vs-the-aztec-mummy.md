@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4uI7T3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, mexican-luchador, mexsploitation]
 ---
 
 - Do it, Edward, do it!

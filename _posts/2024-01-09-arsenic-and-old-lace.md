@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5xFBfh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, criterion, scorsese's-85-film]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 8/34 | Decades 2/8 | 40s" target="_blank" rel="noopener">Hooptober 8.0 | 8/34 | Decades 2/8 | 40s</a></b>

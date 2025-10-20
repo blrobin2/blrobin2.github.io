@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5A8LBj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2016, scifiploitation, criterion, post-apocalypse]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2026 | 7/52 | 50s Sci-Fi</a></b>

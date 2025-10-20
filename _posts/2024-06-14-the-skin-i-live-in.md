@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6FGCVv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober3.0, body-horror, queer, identity]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 13/31 | Countries 6/6 | Spain</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9BK2AH
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, sword-&-sorcery]
 ---
 
 After turning down <i>The 7th Voyage of Sinbad</i>, Edward Small saw an opportunity to rip it off with the same director and primary cast, but alas, could not nail down Ray Harryhausen. Instead, they got Jim Danforth, who did the <i>Gumby</i> shorts. The result is surprisingly decent! I love the hand-drawn animation effects, especially at the end.

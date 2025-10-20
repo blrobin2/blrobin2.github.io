@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7aAii1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, anna]
 ---
 
 Michael Douglas sure is fussy — a real Bob Fussy, if you ask me!

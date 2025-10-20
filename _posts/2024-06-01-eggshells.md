@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6As7Xx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hooptober4.0, hippiesploitation]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 31/31 | Tobe Hooper 2/2</a></b>

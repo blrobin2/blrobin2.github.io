@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/88xP3d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max]
 ---
 
 <blockquote><i>I swear, the afterlife is so random!</i></blockquote>

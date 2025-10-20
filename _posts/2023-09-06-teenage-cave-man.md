@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4O8eiB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, post-apocalypse, teensploitation]
 ---
 
 - and then came man, who screwed the whole thing up

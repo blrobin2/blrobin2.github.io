@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/51Mk6X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion]
 ---
 
 <blockquote><i>And I turned and saw the injustice of everything that took place beneath the sun</i></blockquote><b>Betlin, 1928</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wIRUZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, birth-year-challenge]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" title="Birthday Year Challenge 7" target="_blank" rel="noopener">Birthday Year Challenge 7</a></b>

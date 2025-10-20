@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5TWi6d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, found-footage, cmc, cmc2016]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 29/52 | Found Footage</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5t2NMX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 Shout out to Cory Michael Smith, who played Georgie. He's playing such a specific dude that we all know

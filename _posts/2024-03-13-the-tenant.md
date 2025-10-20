@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62nWTl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla, hooptober, hooptober6.0, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 12/32 | film whose year ends in '6' 6/6 | decades 6/6 | 1970s</a></b>

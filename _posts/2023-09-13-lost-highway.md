@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Q9GJv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [4k-uhd, criterion, identity]
 ---
 
 <blockquote><i>Did I dream that you dreamed about me?</i></blockquote>Fred does not feel safe in his home. His wife, Renee, is distant and fearful. He knows she is lying about what she does, and his dreams suggest that something has possessed her. His saxophone wails aimlessly, ungrounded from the rhythm of the band — his jealousy a barbaric power he attempts to kill in himself

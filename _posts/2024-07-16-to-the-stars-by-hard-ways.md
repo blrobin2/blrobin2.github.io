@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6T8GOL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, ktma]
 ---
 
 This cut of the movie has an hour removed. Thanks, Sandy Frank. Probably for the best — I don't know if I could stand a 2.5 hour episode of <i>MST3K</i>.

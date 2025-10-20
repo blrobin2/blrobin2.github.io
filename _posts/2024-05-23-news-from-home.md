@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6wBbkL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, directed-by-women, edited-by-women, written-by-women, solidarity, psychogeography, eclipse, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 16/52 | Directed by Chantal Akerman</a></b>

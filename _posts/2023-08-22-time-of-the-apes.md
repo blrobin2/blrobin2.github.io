@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JBK2X
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - 🎵Sandy Frank, Sandy Frank, here we go again!

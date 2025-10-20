@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6X0v0P
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober2.0, giallo, slasher]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 24/31 | Slasher 4/5</a></b>

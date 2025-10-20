@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6VdcMN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hollis]
 ---
 
 Doo-doo is the lifeblood of the <i>Friday</i> series

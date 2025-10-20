@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Vg42d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, ai]
 ---
 
 <blockquote><i>Do you believe it?... That a cup of tea can contain a world? A place? A time?</i></blockquote><blockquote><i>What a caterpillar calls the end, the rest of the world calls a butterfly</i></blockquote>Yang is a techno-sapien and adopted brother to Mika, who is also adopted. Jake and Kyra, their parents, purchased Yang to help Mike better connect with her Chinese heritage

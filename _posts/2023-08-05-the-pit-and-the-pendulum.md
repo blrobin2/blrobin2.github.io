@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4E0qXb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, grindhouse-gothic, gothic-horror]
 ---
 
 Francis Barnard (John Kerr) comes to the Castle Medina to see after his late sister Elizabeth's (Barbera Steele) death. Her husband Nicholas (Vincent Price) and Nicholas' sister Catherine (Luana Anders), however, remain unyielding in revealing the details of her death. And so, Francis stays at the Castle to learn what he can

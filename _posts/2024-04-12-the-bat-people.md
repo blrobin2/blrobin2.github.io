@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6fW31Z
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 - [dark, mysterious "Take Me Out to the Ballgame"]

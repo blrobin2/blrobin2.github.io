@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8IVK5v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, birth-year-challenge, byc, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 20</a></b>

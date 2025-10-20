@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6cdeJB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, criterion-challenge-2024, criterion, queer, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 14/52 | RNG (#1198)</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lrUHV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, anti-criterion-challenge-2024, film-noir, heist]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 17/52 | Heist film, but the thing being stolen is someone's heart</a></b>

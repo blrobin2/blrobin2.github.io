@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6KRTyb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, ktma, mst3k]
 ---
 
 Black and white kaiju movies are the best kaiju movies.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6BPraP
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, written-by-women]
 ---
 
 The Simulator of Love is a duplicate machine to the Satellite of Love, with its own Crow and Tom Servo (voiced by different actors). It's on this that we meet Emily officially.

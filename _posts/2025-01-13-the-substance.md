@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8skDuv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [mubi, hooptober, hoop-tober, directed-by-women, written-by-women, edited-by-women, body-horror]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 19/31 | Countries 4/5 | France</a></b>

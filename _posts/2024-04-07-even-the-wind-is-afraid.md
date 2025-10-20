@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6dSJu9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, mexsploitation, haunted-house, frightfest-guide-to-ghost-movies]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 6/32 | Anniversary Film 5/10 | Countries 5/6 | Mexico | Decades 4/6 | 60s</a></b>

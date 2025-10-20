@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6eU0Or
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 8/32 | Anniversary Film 7/10 | Decades 6/6 | 40s</a></b>

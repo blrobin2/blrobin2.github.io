@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6XveiJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober2.0, cannibal, slasher]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 25/31 | Slasher 5/5</a></b>

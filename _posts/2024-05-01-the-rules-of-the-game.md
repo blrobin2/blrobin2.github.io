@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6nKW3z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, queer, edited-by-women, solidarity, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" title="Criterion Challenge 2022 | 3/52 | 1930s" target="_blank" rel="noopener">Criterion Challenge 2022 | 3/52 | 1930s</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/561MyL
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 This movie's pretty good! I like the atmospheric and special effects, costumes, and some of the cinematography. Might seek out the non-mst3k version

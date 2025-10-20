@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3PpEel
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, britsploitation]
 ---
 
 Sometimes, instead of talking to someone you have a crush on, you gotta set a town on fire

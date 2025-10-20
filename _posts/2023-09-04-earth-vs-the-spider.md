@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4NrZeb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, nature-attacks, kaiju, coming-of-age]
 ---
 
 - i put my money on the spider

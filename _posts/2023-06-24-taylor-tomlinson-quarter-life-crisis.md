@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pYXzB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 Consistently funny, some of the parenting jokes fell flat for me near the end there, but overall great set

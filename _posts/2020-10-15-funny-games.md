@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1p9UOn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie, home-invasion]
 ---
 
 They wear white gloves because they’re cartoon characters, like Tom and Jerry

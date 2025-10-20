@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4yvub9
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, nature-attacks, kaiju, mexsploitation]
 ---
 
 - guys, get out of the way, that’s why you’re dying!

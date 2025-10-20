@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4BsYkh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Life DOES begin at 40

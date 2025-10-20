@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9n51e3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 In the MST3K episode guide, Kevin talks about how the children who see monsters get more military and political privileges than even the most affluent and connected. They have more protections than any world leader, as everyone will die to ensure these children live. It really changed my perspective on kids in Kaiju.

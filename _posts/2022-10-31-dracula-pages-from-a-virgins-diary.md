@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3nze9x
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Shot like a 90s music video, performed as a ballet, presented and scored as an early silent film, hammering the xenophobic subtext of Dracula so hard that it just becomes text

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pHp1r
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - Pod People got no reason to live

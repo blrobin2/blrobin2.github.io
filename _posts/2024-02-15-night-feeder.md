@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5POSwJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, written-by-women, edited-by-women, sov, birth-year-challenge, byc]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 1</a></b>

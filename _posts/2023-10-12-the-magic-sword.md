@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4YXy0T
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sorcery]
 ---
 
 - Basil Rathbone with pesto please

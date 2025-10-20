@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6GQR0t
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober3.0, queer, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 15/31 | Before 1970 2/5 | Decades 2/5 | 40s</a></b>

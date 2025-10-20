@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3tXltB
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Keeping mannequins covered with sheets in your basement is unhinged, circumstances be damned

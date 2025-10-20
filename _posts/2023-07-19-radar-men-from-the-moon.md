@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xswER
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - isn’t any amount of atomic energy on the moon unusual?

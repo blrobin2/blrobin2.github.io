@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aSYabJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, oh-my-horror, omh, omh2025, horror-anthology]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 35/52 | Anthology Horror</a></b>

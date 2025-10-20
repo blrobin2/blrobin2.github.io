@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/42yqer
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, giallo, slasher, unsimulated-sex]
 ---
 
 Watching a restored 96 version of this because it was available. Wish I found the 74 minute version…

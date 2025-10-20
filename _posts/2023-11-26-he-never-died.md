@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5dDTlt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, hooptober, hooptober9.0, vampires]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 28/34 | Film with a real life musician or band</b>

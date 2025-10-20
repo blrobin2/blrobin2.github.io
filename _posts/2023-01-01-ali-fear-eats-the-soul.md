@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3CqkSF
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Postwar Germany loves to pretend that they’ve cleaned up their past, looking down on America whose white supremacist policies heavily influenced the Third Reich, but hate does not disappear, it only finds a more convincing costume to hide beneath

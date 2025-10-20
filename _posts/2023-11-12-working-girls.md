@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/598kUl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023]
 ---
 
 <b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 14/52 | Sundance Hits</b>

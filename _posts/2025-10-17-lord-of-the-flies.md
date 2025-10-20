@@ -5,6 +5,7 @@ excerpt: "My review of Lord of the Flies (1963)"
 rating: "3.0"
 letterboxd_url: https://boxd.it/boTRDz
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober12, criterion, coming-of-age, britsploitation, post-apocalypse]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 16/31 | Decades 8/9 | 1960s | Post-Apocalypse 1/2</a></b>

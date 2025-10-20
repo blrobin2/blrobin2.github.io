@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3IdTsP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse]
 ---
 
 Insulting, reductive, TERFy. Your Christian mom’s favorite movie from 2022

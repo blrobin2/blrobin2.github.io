@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3uukpf
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 One of the more realistically smart kids I’ve seen portrayed: completely oblivious to the world but full of songs and complaints

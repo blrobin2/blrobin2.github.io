@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3kUCOz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [frightfest-guide-to-exploitation-movies, vampires]
 ---
 
 The girl vampire, her kiss rejected, says “If you don’t like me, maybe you’ll like him”, and the boy vampire kills him instead of kissing him. So yeah, I guess you could say I’m a little disappointed

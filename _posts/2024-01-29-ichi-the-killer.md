@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Icgdl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, j-horror, yakuza]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 29/34 | Asian horror 2/3</a></b>

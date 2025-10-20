@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jnQYJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 <i>East Java, 2003</i>

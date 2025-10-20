@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/20BPEL
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 “I love you so fucking much, I could shit”

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4CHcCB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - god grant me the serenity to accept the things i cannot change...

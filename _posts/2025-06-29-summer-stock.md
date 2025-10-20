@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a9BCAh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, owen, anna]
 ---
 
 #### Stray Thoughts / Spoilers

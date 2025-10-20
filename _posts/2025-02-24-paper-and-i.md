@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8VVmFL
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - <i>Paper and I</i>, the searing love story of our time.

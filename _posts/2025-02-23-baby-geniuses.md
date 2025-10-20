@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8V5pKb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hollis]
 ---
 
 Diaper gravy—a universal truth so sinister it's only uttered by the babies in this movie

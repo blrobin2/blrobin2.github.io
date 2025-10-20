@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8mttVv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, cmc, cmc2024, house-of-psychotic-women, sexploitation]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 35/52 | Jean Rollin</a></b>

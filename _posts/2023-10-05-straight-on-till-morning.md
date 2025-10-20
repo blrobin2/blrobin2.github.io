@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4WCd6B
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, house-of-psychotic-women, britsploitation]
 ---
 
 Brenda (Rita Tushingham) lives in Liverpool with her mother — to her mother's protestations, she decides to leave for London to "find a father for her baby," as she puts it

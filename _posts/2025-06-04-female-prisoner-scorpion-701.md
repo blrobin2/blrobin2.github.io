@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9TEthx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi]
 ---
 
 <blockquote><i>To be deceived is a woman's crime.</i></blockquote>

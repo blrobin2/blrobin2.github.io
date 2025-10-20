@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4cOKDj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, 1001-movies]
 ---
 
 I love how<i> in medias res </i>this movie starts. Eveyone knows someone on the train, everyone has a secret, and most importantly, the film isn’t interested in filling in most of those stories for you — fitting considering how much spy work is happening in the background

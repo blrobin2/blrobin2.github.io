@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4f1gNR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 Natalia Solián is trying to get pregnant. At the start of the movie, her family takes her on a pilgrimage to a huge Virgin Mary statue to ask for help

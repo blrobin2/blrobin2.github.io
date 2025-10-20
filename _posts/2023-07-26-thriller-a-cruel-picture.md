@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4AgFpz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, rape-and-revenge, sexploitation, extreme, unsimulated-sex]
 ---
 
 Madeleine (Christina Lindberg) was sexually assaulted as a child, leaving her psychosomatically mute

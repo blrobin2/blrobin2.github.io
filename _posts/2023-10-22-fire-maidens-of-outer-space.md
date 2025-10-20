@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/52f0dn
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, britsploitation, scifiploitation]
 ---
 
 - I wonder if they're volunteer fire maidens

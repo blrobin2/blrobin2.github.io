@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4TNv3v
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - ohhh aaa, don't move me!

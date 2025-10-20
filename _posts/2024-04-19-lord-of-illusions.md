@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6iJZzL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober5.0]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 18/32 | Clive Barker</a></b>

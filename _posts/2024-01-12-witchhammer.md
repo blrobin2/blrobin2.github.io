@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5zhkIr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, written-by-women, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 11/34 | Folk Horror 2/2</a></b>

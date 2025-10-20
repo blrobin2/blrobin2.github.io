@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6tdVgb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k]
 ---
 
 Mark Hamill shows up and does a slightly less horrifying Joker voice

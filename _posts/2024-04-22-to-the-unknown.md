@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6k64aT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, cat-movies]
 ---
 
 <blockquote>

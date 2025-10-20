@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4CH4iX
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, bikesploitation]
 ---
 
 Joel's facial hair is awful. This is now the most high I've seen Joel

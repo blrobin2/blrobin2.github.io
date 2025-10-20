@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4SLe49
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vk, house-of-psychotic-women, best-finnish-films]
 ---
 
 <blockquote><i>— how could you judge without seeing? You could just look at what I've got here, but you judge me right away</i></blockquote>Eevi is an awkward, unpredictable woman who lives with her sister Ami. But when Ami kicks her out so that Ami's girlfriend can move in, Eevi's sense of abandonment and rage manifests in stealing Ami's car and taking a road trip

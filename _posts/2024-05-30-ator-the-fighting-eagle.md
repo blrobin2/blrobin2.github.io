@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6zHlx5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, sword-&-sorcery]
 ---
 
 Season finale! That's a wrap on the Netflix <i>MST3K's</i>. Now the question: KTMA or Gizmoplex?

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5hts9V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, 1001-movies, sight-and-sound, identity]
 ---
 
 <blockquote><i>Usually, it began like this…</i></blockquote>

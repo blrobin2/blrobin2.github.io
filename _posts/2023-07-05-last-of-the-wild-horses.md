@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4t65Cf
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - You lost the last of the wild horses, you dink!

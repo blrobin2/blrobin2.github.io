@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bkuZY5
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - From out of nowhere, the flying saucer mystery is with us, calling from Des Moines. Hello, flying saucer mystery. What's your question?

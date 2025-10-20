@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/70dE0R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober2.0, queer]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 31/31 | Tobe Hooper</a></b>

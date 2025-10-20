@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pqIyP
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd, the-most-dangerous-game]
 ---
 
 - I’ll have what I’m having

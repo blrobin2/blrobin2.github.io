@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9EuvvL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anna, written-by-women, hollywood-funnywomen, 1001-movies, amazon-prime, rental]
 ---
 
 Howard Hawks directed Marylin Monroe's iconic performance to fulfill a contractual obligation to Fox. To be fair, Jack Cole directed the musical numbers.

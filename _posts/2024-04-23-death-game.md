@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6kwCfv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, home-invasion, queer, house-of-psychotic-women]
 ---
 
 <blockquote><i>Should we drown Dad?</i></blockquote><b>San Francisco, 1975</b>

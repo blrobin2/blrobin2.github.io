@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5cMhej
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, bigfoot, hicksploitation, found-footage]
 ---
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0" target="_blank" rel="noopener">Hooptober 9.0</a> | 23/34 | Charles B. Pierce</b>

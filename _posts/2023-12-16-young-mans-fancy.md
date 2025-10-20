@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kBG5V
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Hey, you can hardly see where you bit me

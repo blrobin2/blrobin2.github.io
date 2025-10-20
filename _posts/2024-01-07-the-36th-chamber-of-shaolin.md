@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5whbvr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, 1001-movies, chopsocky, shaw-brothers]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 4/52 | Shaw Brothers</a></b>

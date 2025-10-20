@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5eSDjZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, palme-d'or-winner, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 27/52 | <a href="https://www.criterion.com/current/top-10-lists/72-sonic-youth-s-top-10" target="_blank" rel="noopener">Sonic Youth’s Top 10</a></b>

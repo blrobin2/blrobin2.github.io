@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6gJqEj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober5.0, folk-horror, britsploitation, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 13/32 | Before 1970 4/6</a></b>

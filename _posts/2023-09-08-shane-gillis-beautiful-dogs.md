@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4OyF7n
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, standup]
 ---
 
 No, thank you

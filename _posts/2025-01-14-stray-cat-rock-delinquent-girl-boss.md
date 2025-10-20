@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8t8RCX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, bikesploitation, sexploitation, pinku]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 38/52 | Pinku Violence</a></b>

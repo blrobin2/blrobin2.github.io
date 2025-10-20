@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5KTtSZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, jim]
 ---
 
 Rudolf and Hedwig have their ideal life. They have a big house for all of their children. They have a beautiful yard with a pool and a garden.

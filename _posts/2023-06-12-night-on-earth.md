@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4mH0kB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion]
 ---
 
 Just what I needed — chill Jarmuch vibes, great little vignettes, room to breathe in the dialogue to let the landscape melt into the scene

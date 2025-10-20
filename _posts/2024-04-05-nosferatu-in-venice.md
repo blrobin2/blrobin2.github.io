@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6d6MEP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober5.0, vampires, italian-gothic]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 4/32 | Anniversary Film 3/10 | Countries 4/6 | Italy | Decades 2/6 | 80s</a></b>

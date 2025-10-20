@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5XKEw5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, birth-year-challenge, post-apocalypse, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birthday Year Challenge 3</a></b>

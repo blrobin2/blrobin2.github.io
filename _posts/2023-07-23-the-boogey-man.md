@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4yPskD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, video-nasties, slasher]
 ---
 
 <blockquote><i>When you break a mirror, you free everything it’s seen</i></blockquote>As children, Lacey watches through a mirror as her brother Willy murders their mother’s lover. Twenty years later, Willy is psychosomatically mute, and Lacey has recurring nightmares of the event

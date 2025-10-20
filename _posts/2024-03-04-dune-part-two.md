@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5YmxdL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint]
 ---
 
 Frank Herbert's biggest regret about Dune was that he didn't make it obvious enough that it was a tragedy. So, to clarify his intentions, he wrote Dune Messiah, which emphasizes just how terrible the consequences of Paul's ascendancy were.

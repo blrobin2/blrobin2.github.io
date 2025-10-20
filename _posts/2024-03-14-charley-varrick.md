@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62P2Qh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, heist]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 11/52 | Composer: Lalo Schifrin</a></b>

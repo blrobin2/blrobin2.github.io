@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4SP2J3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, scorsese's-85-film, 1001-movies]
 ---
 
 <blockquote><i>Men like my father cannot die. They are with me still — real in memory as they were in flesh, loving and beloved forever. How green was my valley then</i></blockquote>The film is an episodic reflection by Huw Morgan on his childhood in a coal-mining village in Wales during the 1920s. The mine owner reduces wages, driving the union mine workers to strike, dividing his family into those who support it and those who don't. The film details the lessons and tragedies that followed before Huw lost his father

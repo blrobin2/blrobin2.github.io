@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xtlmb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, written-by-women, edited-by-women, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 17/52 | Directed by Rainer Werner Fassbinder</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4YAe7p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 Inez (Teyana Taylor) is living at the shelter again. She finds Terry on the corner. She tells him she’s his mother and that she’s going to be around now.

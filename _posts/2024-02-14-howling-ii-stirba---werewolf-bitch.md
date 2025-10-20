@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Pf2Kz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober7.0, werewolves]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 13/32 | 2nd film in franchise 5/7</a></b>

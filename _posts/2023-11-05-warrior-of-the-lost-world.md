@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56VW6p
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, post-apocalypse]
 ---
 
 - He must be going 40, 45!

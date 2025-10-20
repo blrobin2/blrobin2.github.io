@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/869pIt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hoop-tober, slasher, canuxploitation]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 4/31 | Decades 4/10 | 80s</a></b>

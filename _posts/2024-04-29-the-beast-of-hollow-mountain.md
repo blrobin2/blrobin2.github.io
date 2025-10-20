@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6mXdQj
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, nature-attacks, kaiju]
 ---
 
 They keep making references to jokes from the original show, and it makes me sad :(

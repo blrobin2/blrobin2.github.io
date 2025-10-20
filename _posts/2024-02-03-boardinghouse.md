@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Kp9Cd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2016, sov, slasher, haunted-house]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 17/52 | Shot on Video</a></b>

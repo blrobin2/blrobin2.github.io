@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6vw9Hz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, body-horror, superhero]
 ---
 
 Melvin Ferd is a shitty janitor at the Tromaville Health Club. When a toxic waste disposal truck parks outside the club to do drugs, Melvin falls into a vat of toxic waste and becomes Toxie.

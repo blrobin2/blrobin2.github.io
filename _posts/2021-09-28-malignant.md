@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2apAPF
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Just thinking about how much better this would’ve been with Troian Bellisario as Madison

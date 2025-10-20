@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XQz2D
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion, 1001-movies, sight-and-sound]
 ---
 
 Bonnie Lee (Jean Arthur), a piano entertainer, steps off a banana boat in Barranca, a fictional port town near the Andes mountains. She encounters two pilots, Joe and Les, who offer her a drink, bringing her to their local hang, Dutchy's Bar. There, Bonnie meets Han Solo prototype Geoff Carter (Cary Grant), the boss of their air mail delivery service

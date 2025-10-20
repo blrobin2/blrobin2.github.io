@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/68vysb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober6.0, slasher]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 25/32 | Larry Cohen</a></b>

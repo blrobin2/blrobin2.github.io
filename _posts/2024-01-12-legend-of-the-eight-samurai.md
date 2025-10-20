@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5z9ibz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, samurai, cmc, cmc2024]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 2/52 | Kinji Fukasaku</a></b>

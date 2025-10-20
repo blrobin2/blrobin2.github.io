@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/66rLcf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, written-by-women, directed-by-women, body-horror, rape-and-revenge, torture-porn]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 21/32 | women-directed film 1/2 | Countries 4/6 | Canada</a></b>

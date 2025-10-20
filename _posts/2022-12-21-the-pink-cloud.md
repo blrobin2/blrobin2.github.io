@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3yBPP9
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 How was this made pre-pandemic? It echoes so much of the pain of isolation, the intolerance of being around people you don’t care for the way you did before, the promise of eventual freedom and the looming uncertainty that existed until then

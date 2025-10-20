@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/92EYAD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [archive.org, anna, criterion, criterion-challenge-2024, cc2024]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 38/52 | Genre: Animation</a></b>

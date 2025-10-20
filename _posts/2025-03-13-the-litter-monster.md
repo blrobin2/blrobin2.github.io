@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/96MaDf
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Finally, a movie that blends my two loves: close-ups of trash and the music of Iron Butterly.

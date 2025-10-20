@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bkcvW3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, oh-my-horror, omh, omh2025, scorsese's-85-film, slasher, serial-killer]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 41/52 | 50s Horror</a></b>

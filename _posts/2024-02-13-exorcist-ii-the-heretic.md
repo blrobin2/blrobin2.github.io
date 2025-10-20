@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5OUm8j
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober7.0, religious-horror, possession]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 12/32 | 2nd film in franchise 4/7 | Decades 4/6 | 1970s</a></b>

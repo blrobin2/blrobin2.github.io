@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49pSNf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anna, owen, amc-southpoint, sword-&-sorcery]
 ---
 
 I laughed, Chris Pine charmed my little pants off, the movie MacGuffin’d the ever-living shit out of me, and in true D&D fashion, it ripped off as many movie tropes as it could

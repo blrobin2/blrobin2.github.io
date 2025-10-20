@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4fI3eb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 After a suicide attempt, Kathleen Quinlan, playing 16-year-old Deborah, is admitted to an institution. Straight away, we experience the whispers that are in her head — “traitor”, “secrets” — and a person in stereotypical tribal clothing and face paint that does not appear to be real

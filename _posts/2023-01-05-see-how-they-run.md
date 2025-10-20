@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3E835j
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 While all the meta elements and the pleading from the narrator don’t stop this from being another Agatha Christie-esque mystery, the performances make for a delightful little movie

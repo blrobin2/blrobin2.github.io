@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3v2cUR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie]
 ---
 
 A great document on the influence of black filmmakers on the history of cinema. The presentation is a little rote and dry, with a few interviews to break it up, but the film is primarily a monologue by the creator on these various films

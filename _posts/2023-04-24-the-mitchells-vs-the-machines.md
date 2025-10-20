@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49ZwPZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 A Goofy Movie meets M3GAN meets Be Kind Rewind ??

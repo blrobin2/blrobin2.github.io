@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6aGNBR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober6.0, vampires]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 32/32 | Bonus</a></b>

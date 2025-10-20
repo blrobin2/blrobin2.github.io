@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ecdaX
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, nature-attacks, scifiploitation]
 ---
 
 A cheap <i>Them!</i> ripoff — even the poster uses the same cat-eye trick to make the grasshoppers look menacing. Of course this utilizes stock footage and rear projection instead of any special effects.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8BSIEf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, short, punk]
 ---
 
 <blockquote><i>Somebody told me you people were crazy, but I'm not so sure about that. You seem to be alright to me."</i></blockquote>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9yGqFr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, cannibal, short]
 ---
 
 1999 really was the best year for cinema

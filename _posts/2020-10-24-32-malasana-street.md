@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1q4WNb
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Disability Superpower is uncomfortably applied and the movie has an anti-trans climax that is so poorly handled (like it takes dead-naming the spirit to get her to stop) that it ruins what was an otherwise well-crafted movie

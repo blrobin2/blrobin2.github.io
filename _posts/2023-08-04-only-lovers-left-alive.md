@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4DQSCb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu]
 ---
 
 Depressed vampire wants a wooden bullet to end it all, but his perfect wife helps him get out of his funk by letting him explain science to her

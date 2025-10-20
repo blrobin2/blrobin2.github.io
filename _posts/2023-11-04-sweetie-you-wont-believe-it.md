@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56xwNz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 3/34 | Countries 3/6 | Kazakhstan</b>

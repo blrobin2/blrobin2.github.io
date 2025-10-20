@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ScgYL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2024, sword-&-sandals]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 8/52 | Peplum</a></b>

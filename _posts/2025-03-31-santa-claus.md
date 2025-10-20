@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9haQWV
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, rifftrax-live]
 ---
 
 Watching the Rifftrax Live version, which is not edited down like the MST3K version.

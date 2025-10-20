@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5F8PfV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 The published episode guide only goes through season 7, so I was pleased to learn that the staff did <a href="https://www.mst3kinfo.com/aceg/index.html" title="episode guides for seasons 8-10 online!">episode guides for seasons 8-10 online!</a>

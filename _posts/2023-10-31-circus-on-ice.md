@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/55fgw3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - hey, you got your circus on my ice!

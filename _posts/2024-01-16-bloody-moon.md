@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5BBPQ5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, slasher, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 15/34 | From 1981 4/4</a></b>

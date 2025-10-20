@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Ut6gF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, anti-criterion-challenge-2024, acc2024, directed-by-women, written-by-women, queer, techsploitation]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 51/52 | Someone holds a cat</a></b>

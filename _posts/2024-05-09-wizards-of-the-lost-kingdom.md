@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6rfHeB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, sword-&-sorcery, zombies, so-bad-it's-good]
 ---
 
 Now this is a proper MST3K movie. The visual effects are insane, and everything else is so bad

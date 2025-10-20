@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9w7LK5
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, eurospy]
 ---
 
 Oh, Brandon Lee: so pretty, and in so many terrible movies.

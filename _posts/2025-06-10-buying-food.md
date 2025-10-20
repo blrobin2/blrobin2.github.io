@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Ximgf
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - Henry will buy any indistinguishable lump set in front of him.

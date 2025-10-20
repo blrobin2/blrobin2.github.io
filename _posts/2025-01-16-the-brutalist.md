@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8uEYGv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, imax, owen, written-by-women]
 ---
 
 When I saw <i>Vox Lux</i>, I remember how exciting the movie felt initially. At one point, the movie suddenly drained of all life, and it was such an excruciating experience. Mercifully, the film ended in under 2 hours.

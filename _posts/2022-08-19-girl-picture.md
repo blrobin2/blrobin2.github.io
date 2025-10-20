@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/392mfV
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Almost instantly charming, three fantastic performances, and an iconic needle drop

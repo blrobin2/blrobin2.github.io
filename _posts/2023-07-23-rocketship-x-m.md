@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4yQUnx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 I swelled with joy with the new opening, set improvements, and of course TV’s Frank

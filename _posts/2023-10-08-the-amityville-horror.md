@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XvQUv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, frightfest-guide-to-ghost-movies, folk-horror:-a-study, possession]
 ---
 
 <blockquote><i>houses don't have memories</i></blockquote>Some guy murders a bunch of people in a house. One year later, newlyweds George and Kathy Lutz make an offer on the house, fully aware of the murders

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ohuf3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 Visually stunning when the imagery is fully abstract and reminiscent of Brakhage. Less so when Wendy and Shirley dance and rock each other playfully

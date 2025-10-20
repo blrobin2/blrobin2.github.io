@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4gAKpz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, 1001-movies]
 ---
 
 Virginia (Olivia de Havilland) is sitting on a bench in a park, not knowing where she is. Though we realize she is in an asylum, she cannot deduce where she is or why she is there. She hears voices that convince her not to trust people, even if she thinks she knows them

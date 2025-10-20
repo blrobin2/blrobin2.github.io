@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6NhKHX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, slasher]
 ---
 
 <b><a href="https://boxd.it/pRPis" title="Hooptober 2.0 | 1/31 | Franchises 1/5" target="_blank" rel="noopener">Hooptober 2.0 | 1/31 | Franchises 1/5</a></b>

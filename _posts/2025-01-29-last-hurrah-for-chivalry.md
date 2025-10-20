@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8Et9H1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, cmc, cmc2024, criterion, chopsocky, wuxia]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 48/52 | John Woo</a></b>

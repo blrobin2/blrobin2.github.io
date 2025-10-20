@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7YUs7x
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Life is all sorts of fucky, so I'm restarting MST3K

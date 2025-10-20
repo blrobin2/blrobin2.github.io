@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CvCEx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2024, ninjasploitation, eurospy]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail#item-3706935415" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 3/52 | Crown International Pictures</a></b>

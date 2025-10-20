@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jJso7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 The preacher in this movie talks like Grampa Simpson

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/89BNUV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hallmark-channel, did-not-finish]
 ---
 
 Ah Vienna, the windy city

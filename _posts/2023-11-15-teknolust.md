@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5acMRr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, ai]
 ---
 
 <b>Babe, I'm throwing some jizz in the kettle — you want some?</b>

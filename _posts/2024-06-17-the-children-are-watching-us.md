@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6GLADN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, cc2024, criterion-challenge-2024]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 25/52 | Italian Neorealism</a></b>

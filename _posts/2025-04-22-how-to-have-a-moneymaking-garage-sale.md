@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9u02Pd
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 This is another Bridget Jones Nelson (Mike's wife) and Mary Jo Pehl riff.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/90wiwl
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 This episode is where they try to beef up GPC's role in the show. As Mike puts it, "Weighing on our minds was the fact that we had one female character and she was a dim-witted, cowlike creature played by a man."

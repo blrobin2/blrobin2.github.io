@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4epiAJ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Great costumes, the deck of cards was cute, and the only scene that looked meh was the initial growing and shrinking because it looks filmed on a stage, whereas the rest has sets

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/85ClBd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hoop-tober, zombies, slasher]
 ---
 
 <b><a href="https://boxd.it/pRQY0" target="_blank" rel="noopener">Hoop-Tober | 3/31 | Decades 3/10 | 90s</a></b>

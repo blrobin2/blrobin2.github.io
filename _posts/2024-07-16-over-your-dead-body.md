@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6SVwfZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober2.0, j-horror, kaidan, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" target="_blank" rel="noopener">Hooptober 2.0 | 15/31 | Takashi Miike 5/5</a></b>

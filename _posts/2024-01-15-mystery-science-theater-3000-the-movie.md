@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ATFyR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Crow goes full tunnel girl and tries to dig to earth from the Satellite of Love.

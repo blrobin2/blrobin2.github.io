@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fuwBN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, teensploitation]
 ---
 
 <blockquote><i>— Igor likes sex!

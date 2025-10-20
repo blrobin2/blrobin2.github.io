@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ShagP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, oh-my-horror, omh, omh2025, written-by-women, queer]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail

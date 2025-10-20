@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4GdJuL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, grindhouse-gothic]
 ---
 
 A rich guy is afraid of being buried alive because his father was buried alive. Everyone tells him he's crazy, but the fear overwhelms him, leaving him frozen in his efforts to circumvent the possibility

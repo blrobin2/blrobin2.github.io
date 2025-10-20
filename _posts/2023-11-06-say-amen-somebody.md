@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57iaPx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion-challenge-2023, cc2023]
 ---
 
 <b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 8/52 | Black Music Films</b>

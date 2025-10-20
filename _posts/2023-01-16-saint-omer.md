@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Iakrr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse]
 ---
 
 We are not born into this world with a clean slate. Before we ever breathe, we are imbued with the genetic makeup — the lineage of pain in the name of survival, an invisible string of trauma — of our parents

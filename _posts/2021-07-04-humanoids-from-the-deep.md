@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1Y1EVB
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 We haven’t given “seduction by ventriloquism” enough chances in movies

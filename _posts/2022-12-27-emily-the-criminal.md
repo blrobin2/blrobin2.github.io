@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3ACaTf
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I love that Obama put this on his year-end best of

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ffBNB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, anna]
 ---
 
 #### Stray Thoughts / Spoilers

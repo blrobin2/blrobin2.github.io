@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4UPirR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vk, house-of-psychotic-women, slasher]
 ---
 
 In the 1970s, Harris (Richard Lynch) brings Cynthia (Colbie Smulders prototype Jennifer Rubin) into his cult along with over 20 others to partake in a mass suicide — "the final break with the old world.” He douses everyone, one by one, in gasoline and lights a fire, causing the whole house to explode. When the fire department arrives, they find one survivor: Cynthia. They rush her to the hospital, where she remains in a coma for 13 years

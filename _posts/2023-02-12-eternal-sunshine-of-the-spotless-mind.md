@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Qof27
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse]
 ---
 
 Saw at a screening at Alamo Drafthouse, fun to see all the little details on the big screen

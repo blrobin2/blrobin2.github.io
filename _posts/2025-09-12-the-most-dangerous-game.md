@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b2FAap
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 Nah, this movie is good—a miss for the Rifftrax folks. Mary Jo Pehl replaces Bill Corbett this episode.

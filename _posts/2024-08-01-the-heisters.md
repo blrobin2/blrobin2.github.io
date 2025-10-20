@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/70s8Wp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, short]
 ---
 
 <blockquote><i>This theatre is proud to announce that the following presentation is ridiculous.</i></blockquote>

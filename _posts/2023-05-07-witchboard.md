@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4dwEbV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, slasher]
 ---
 
 Pretty solid setup — at a party, Stephen Nichols introduces Tawny Kitaen to Ouija and the spirit of an 8-year-old boy named Danny. Her husband, Todd Allen, is drunk and irritable, stirring the ire of Danny

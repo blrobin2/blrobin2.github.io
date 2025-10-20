@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5vV1bd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2016, sword-&-sorcery, sword-&-sandals, vampires]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" title="Cult Movie Challenge 2016 | 3/52 | Sword and Sandal" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 3/52 | Sword and Sandal</a></b>

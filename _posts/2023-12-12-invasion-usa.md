@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5jjwU5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - [neuclear blast] that's what happens when you overcook a brat in the microwave

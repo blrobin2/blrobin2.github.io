@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5hvvAT
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, beach-party, mockbusters, scifiploitation, teensploitation, coming-of-age, nature-attacks]
 ---
 
 Classic Bert I. Gordon fodder — conventionally-sized stuff gets big: cats, ducks, dogs, teens.

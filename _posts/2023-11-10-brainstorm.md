@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58Bn6d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, technothrillers, scifiploitation]
 ---
 
 Dr. Michael Brace (Christopher Walken) is on a research team. They are working on an interface that records and replays the subject's sensory and emotional experiences. The team includes his ex-wife, Karen (Natalie Wood), and the brilliant Dr. Lillian Reynolds (Louise Fletcher).

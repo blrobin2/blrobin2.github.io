@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1oo82L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [found-footage]
 ---
 
 I liked a lot about this movie, I just think it confused “messy” with “ambiguous”

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8PchF3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [taiwanplus.com]
 ---
 
 After a boating accident in Yehliu, police find a man's body washed up on shore. Beside him is a woman's purse, but no other bodies. They believe it to be Ko Jing-Min and call his younger sister, Ko Fon-Jiao, to identify the body.

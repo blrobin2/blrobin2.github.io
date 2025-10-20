@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KYawx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters]
 ---
 
 <blockquote><i>I'm not a field agent — I just read books!</i></blockquote>Some dudes (Max von Sydow and co) shoot up a historical literature society, killing everyone except Joseph Turner (Robert Redford), who happened to be picking up lunch. Turner calls the panic office for the CIA, giving his codename Condor, saying his branch has been hit

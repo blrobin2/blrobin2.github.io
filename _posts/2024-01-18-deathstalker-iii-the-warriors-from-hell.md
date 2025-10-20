@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CDp8J
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, sword-&-sorcery]
 ---
 
 - Let's see how long these accents last

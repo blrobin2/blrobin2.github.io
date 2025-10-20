@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4AYLIP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, canuxploitation]
 ---
 
 Julie (Isabelle Mejias) hates her mom and loves her dad — perhaps (no, definitely) too much. Mom has a guy take away Julie's pet snake —the guy tries to rape Mom and accidentally kills her. Julie witnesses the event and is elated that she now has Dad all to herself

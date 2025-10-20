@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56R6v5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 7/52 | Films to Fall Asleep To</b>

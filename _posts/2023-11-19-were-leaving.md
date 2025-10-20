@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5bicCh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel]
 ---
 
 I love Chopper so much 😭😭😭

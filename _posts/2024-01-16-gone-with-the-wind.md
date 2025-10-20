@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5BvsjZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, anti-criterion-challenge-2024, written-by-women, 1001-movies, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 3/52 | 1930s</a></b>

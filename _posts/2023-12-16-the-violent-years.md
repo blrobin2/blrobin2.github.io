@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kCPkH
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, juvenile-delinquency, sexploitation, teensploitation]
 ---
 
 I genuinely love the opening credits — the gang members taking turns standing in front of the chalkboard, their names appearing beneath them. It's very sitcom-y

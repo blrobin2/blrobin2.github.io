@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/24oQsh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A folktale framed in darkness, decorated in memory and desire, regret and anticipation

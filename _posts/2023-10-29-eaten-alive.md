@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/54ko5P
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptoberx, hooptober, video-nasties, nature-attacks, hicksploitation, slasher]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 31/34 | Tobe Hooper</b>

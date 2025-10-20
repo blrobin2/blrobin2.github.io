@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5l5CZZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 No one wanted to do this movie except Frank Conniff — if you ever ask yourself why they do a movie as bad as this, it's almost always Frank's fault.

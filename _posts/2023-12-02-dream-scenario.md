@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fRPKb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen]
 ---
 
 Paul Matthews is a tenured professor in biology. He has a lovely wife and two daughters, all of whom find him perfectly fine.

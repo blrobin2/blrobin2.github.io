@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8hQNt3
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 I'll be honest, I got too zoinked and forgot I finished this. I do remember this joke making me chuckle:

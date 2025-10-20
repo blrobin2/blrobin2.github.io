@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1NtiRJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie]
 ---
 
 This movie puts me on edge like few movies can

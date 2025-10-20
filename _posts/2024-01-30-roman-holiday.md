@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5IEerL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anti-criterion-challenge-2024, 1001-movies, hollywood-funnywomen, acc2024]
 ---
 
 <b><a rel="nofollow">Anti-Criterion Challenge 2024 | 5/52 | 1950s</a></b>

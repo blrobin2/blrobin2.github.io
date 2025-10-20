@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4vEcBT
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - He’s lost his keys a few times, but never a whole ship

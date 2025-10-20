@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5MC67v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober7.0, edited-by-women, gothic-horror, folk-horror:-a-study]
 ---
 
 <blockquote><i>There are more things in Lithuanian forests than are dreamt of in your philosophy.</i></blockquote>

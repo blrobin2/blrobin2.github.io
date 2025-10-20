@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xkllf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober4.0, folk-horror:-a-study, zombies]
 ---
 
 <b><a href="">Hooptober 4.0 | 23/31 | Wes Craven</a></b>

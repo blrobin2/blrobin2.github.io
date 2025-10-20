@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9reDXz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, edited-by-women, solidarity, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 36/52 | Stage to Screen</a></b>

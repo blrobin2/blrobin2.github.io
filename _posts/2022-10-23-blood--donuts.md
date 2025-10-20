@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3lVMTb
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Canadian Batman… not what I expected

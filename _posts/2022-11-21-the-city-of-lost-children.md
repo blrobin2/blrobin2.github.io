@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3s6HR1
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Lots of neat visual ideas, but otherwise a mess

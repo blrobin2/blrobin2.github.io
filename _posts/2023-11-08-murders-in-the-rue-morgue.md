@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/57UQIp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 7/34 | Decades 1/8 | 1930s</b>

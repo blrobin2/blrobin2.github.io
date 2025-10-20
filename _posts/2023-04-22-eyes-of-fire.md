@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49pHeD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, folk-horror:-a-study, redsploitation]
 ---
 
 I like a lot about this movie: the land just absorbing these people, the blasé cult leader, faces in the trees, blood in the soil…

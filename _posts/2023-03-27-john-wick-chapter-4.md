@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/42krRr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [adam, amc-durham]
 ---
 
 <i>John Wick</i> has been a series that I’ve been conflicted about each time, especially once it moved beyond the relative simplicity of the first one

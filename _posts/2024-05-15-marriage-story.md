@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6txSRj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, criterion-challenge-2022, cc2022, criterion, good-for-her, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 11/52 | 2010s</a></b>

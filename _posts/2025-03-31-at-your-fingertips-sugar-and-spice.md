@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9h1Nib
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Performed at Rifftrax Live before <i>Santa Claus</i>.

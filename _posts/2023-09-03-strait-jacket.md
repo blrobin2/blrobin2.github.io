@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4N78FD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi]
 ---
 
 <i><b>WARNING! 'Strait-Jacket' vividly depicts ax murders!</b></i>

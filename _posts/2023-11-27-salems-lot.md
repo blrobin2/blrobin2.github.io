@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5e11nD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 31/34 | Tobe Hooper</b>

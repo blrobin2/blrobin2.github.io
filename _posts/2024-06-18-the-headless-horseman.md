@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6HcmCZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hooptober3.0, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 17/31 | Before 1970 4/5 | Decades 4/5 | 20s</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/55blFL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptoberx, britsploitation, serial-killer]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 33/34 | Bonus 2/3</b>

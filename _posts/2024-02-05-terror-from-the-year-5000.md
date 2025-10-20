@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5LhEqb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, edited-by-women, scifiploitation]
 ---
 
 "When I Held Your Brain in My Heart" is The Ink Spots song I didn't know I needed

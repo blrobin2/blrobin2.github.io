@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9q6L0Z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion-challenge-2022, cc2022, solidarity]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 35/52 | Growing Pains: coming-of-age films</a></b>

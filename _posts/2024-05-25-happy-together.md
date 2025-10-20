@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xxWjh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, queer, 1001-movies, sight-and-sound, village-voice, golden-horse]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 18/52 | Directed by Wong Kar-wai</a></b>

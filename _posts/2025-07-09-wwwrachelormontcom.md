@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/agw8uh
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 <blockquote><i>I've never loved anyone the way I've loved myself.</i></blockquote>

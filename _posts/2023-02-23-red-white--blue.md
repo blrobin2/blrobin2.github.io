@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3TtcHj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, house-of-psychotic-women]
 ---
 
 The plot unfolds deftly, it’s an interesting litmus test to see what reveal affects your opinions of which characters

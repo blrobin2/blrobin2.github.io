@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4eA8CH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [alamo-drafthouse]
 ---
 
 During the pandemic, I read Charlie Kaufman’s book Antkind. Initially, I was into the mixed-up world he established, where everything was out to get him, and he was constantly misunderstood. But then, as the book progressed, Kaufman grew tired of that and changed the scenery, and he did that over and over again for 720 pages

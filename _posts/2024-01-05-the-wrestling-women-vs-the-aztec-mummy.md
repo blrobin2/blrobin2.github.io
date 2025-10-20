@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5uMOY7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, mexican-luchador]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico" target="_blank" rel="noopener">Hooptober 8.0 | 4/34 | Countries 4/6 | Mexico</a></b>

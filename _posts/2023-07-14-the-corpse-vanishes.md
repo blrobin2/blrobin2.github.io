@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4vVyGP
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - it ruins so many wedding nights when the bride dies

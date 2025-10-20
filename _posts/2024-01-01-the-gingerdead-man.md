@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5s8wyH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob]
 ---
 
 #### Thoughts/Spoilers

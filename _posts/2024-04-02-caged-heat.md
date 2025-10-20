@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6bLns9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, sexploitation, women-in-prison, queer]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 14/52 | Psychotronic Encyclopedia</a></b>

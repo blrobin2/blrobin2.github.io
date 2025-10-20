@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/547Mwz
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, juvenile-delinquency, teensploitation, heist]
 ---
 
 One of my favorite MST3Ks

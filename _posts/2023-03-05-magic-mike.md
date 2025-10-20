@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Wn5Iz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent]
 ---
 
 The dance routines are pretty funny, especially the military/July 4th one

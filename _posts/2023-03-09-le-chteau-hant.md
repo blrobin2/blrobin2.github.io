@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XiHwb
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Love the red outfit, and that it ended with no resolution — that dude is gonna die, right?

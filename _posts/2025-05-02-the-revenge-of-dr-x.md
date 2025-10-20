@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9zF3Ex
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation, nature-attacks]
 ---
 
 I stopped watching the Rifftrax for <i>Fist of Fury </i> because the barrage of racist jokes annoyed me. I thought I was safe here, but Dr. Bragan travels to Japan, and, sure enough, the gross riffs start flying. The movie itself has its fair share of Orientalism. It's not a good movie, I'm sorry to say!

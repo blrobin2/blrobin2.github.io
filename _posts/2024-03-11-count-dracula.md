@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/61nqJz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, vampires, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 32/52 | Jesús Franco</a></b>

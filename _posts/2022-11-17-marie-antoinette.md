@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3rhspp
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 We need more biopics told almost exclusively in vibes

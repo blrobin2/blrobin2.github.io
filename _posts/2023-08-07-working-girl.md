@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ED2gb
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+]
 ---
 
 When <i>Bob's Burgers</i> merged <i>Die Hard </i>and <i>Working Girl</i>, I knew I would have to watch Working Girl sooner or later

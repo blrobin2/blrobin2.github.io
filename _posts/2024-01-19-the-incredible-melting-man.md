@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5D1YNP
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 Rick Baker worked on this!

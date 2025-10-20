@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ydqv7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, eurospy]
 ---
 
 - Yes, all of you could be hand models

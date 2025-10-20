@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5yi9qf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, cat-movies]
 ---
 
 <blockquote><i>Once upon a time, this really happened</i></blockquote>

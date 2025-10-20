@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a0pW2p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, asiancinemachallenge2023, asiancc2023, asiancc2023week10, queer, solidarity, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 10/52 | Made in the Philippines</a></b>

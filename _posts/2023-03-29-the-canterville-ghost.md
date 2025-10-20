@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/42KydP
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Pre-Hollywood blacklist Jules Dassin makes an unexpectedly charming comedy about restoring the honor of disgraced ghost Sir Simon de Canterville — Charles Laughton — by his descendant, the six-year-old heiress Lady Jessica de Canterville — Margaret O’Brien — and fellow Canterville, Cuffy Williams of the US Army Rangers — Robert Young

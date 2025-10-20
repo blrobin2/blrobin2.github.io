@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1nBAqD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [horror-anthology]
 ---
 
 The Thing in the Woods: cartoonish sound design, I genuinely couldn’t tell if it was supposed to be funny until 12-13 minutes in... or at least that’s when I laughed. 1/5

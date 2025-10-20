@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9gCDf7
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Letterboxd categorizes this as horror. I agree.

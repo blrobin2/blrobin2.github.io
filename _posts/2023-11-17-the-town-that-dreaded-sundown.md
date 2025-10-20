@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5aEKjt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober9.0, hicksploitation, slasher]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 17/52 | 1970s regional US films 2/2</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8AI9tH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [birth-year-challenge, edited-by-women, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 13</a></b>

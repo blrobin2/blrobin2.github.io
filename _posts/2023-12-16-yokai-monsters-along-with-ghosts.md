@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kGcEh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, kaidan]
 ---
 
 An older man prays as Yakusa plans an ambush.

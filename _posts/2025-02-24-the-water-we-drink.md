@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8W46sJ
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - They're like bikes, but with faces!

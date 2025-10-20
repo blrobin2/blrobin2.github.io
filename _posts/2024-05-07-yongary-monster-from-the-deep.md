@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6qvJc1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [netflix, mst3k, kaiju, scifiploitation, nature-attacks]
 ---
 
 The Hitler bit was so lazy and weird

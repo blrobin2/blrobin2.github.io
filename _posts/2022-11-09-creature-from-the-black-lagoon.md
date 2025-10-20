@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3pAOz7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 ‘Twas Horniness killed the Beast

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4btFXR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, films-made-by-women-set-in-rural-areas, british-social-realism, psychogeography, written-by-women, directed-by-women, edited-by-women, coming-of-age]
 ---
 
 What an opening! Another piece of media reminding me how fucked Glasgow is

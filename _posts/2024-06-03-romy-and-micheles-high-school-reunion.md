@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6BfCWX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, anti-criterion-challenge-2024, acc2024, written-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 23/52 | Annie’s B-movies for the GIRLS</a></b>

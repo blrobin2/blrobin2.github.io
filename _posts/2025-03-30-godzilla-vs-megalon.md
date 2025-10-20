@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9gFcEZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 This movie grew on me this time around! I've watched some boring-ass Godzillas, and this one is quite cuckoo.

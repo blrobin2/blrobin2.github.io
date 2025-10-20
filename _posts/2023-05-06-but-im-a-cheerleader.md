@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4d7jTn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, queer, coming-of-age, written-by-women, directed-by-women, good-for-her, solidarity]
 ---
 
 Excellent 90s color palate. Truly obsessed with all of the duo-tone scenes

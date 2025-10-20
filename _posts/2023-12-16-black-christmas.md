@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5kAPCd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix, switchblade-sisters]
 ---
 
 My review for this was turning into a rant, so I'm making some bullet points:

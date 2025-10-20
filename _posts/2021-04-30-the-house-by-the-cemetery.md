@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1PsItT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher, video-nasties]
 ---
 
 This is my least favorite of the Gates of Hell trilogy… it still has some bizarre plot points and visuals, but it never rises to the full insanity of his earlier films

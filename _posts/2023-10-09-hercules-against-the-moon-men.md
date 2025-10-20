@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4XYr35
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sandals, sword-&-sorcery]
 ---
 
 <b>Deep Hurting</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bgG4mV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2018, slasher]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 22/52 | PM Entertainment</a></b>

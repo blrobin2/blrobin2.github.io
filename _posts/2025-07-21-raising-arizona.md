@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/apisKR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, owen, anna, 1001-movies]
 ---
 
 - I'd also fall in love with Ed

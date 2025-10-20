@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/62uKGt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, cmc, cmc2016, vetsploitation, slasher, video-nasties]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 33/53 | Crown International</a></b>

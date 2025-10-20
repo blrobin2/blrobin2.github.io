@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5UbDIx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, superhero, scifiploitation]
 ---
 
 <i>Movie CW // Child Abuse, War Footage

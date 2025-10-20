@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8IoAzJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [fandango-at-home, anti-criterion-challenge-2024, acc2024, directed-by-women, written-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 36/52 | Documentary about Africa by an African director</a></b>

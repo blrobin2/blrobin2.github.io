@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8G18KP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, directed-by-women, christmas-horror]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 51/52 | Christmas Horror</a></b>

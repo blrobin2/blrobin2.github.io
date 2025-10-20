@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2yOe9j
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 One of the most frightening movies I’ve watched, couched in a deeply affecting performance by Anthony Hopkins

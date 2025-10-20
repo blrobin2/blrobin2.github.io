@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5k0opT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 With Andrea Martin, Michelle Trachtenberg, Mary Elizabeth Winstead, and Lacey Chabert in the cast, how could this be bad?

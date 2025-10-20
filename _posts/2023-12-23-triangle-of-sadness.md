@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5nfb3R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, criterion, palme-d'or-winner, good-for-her]
 ---
 
 <b><a href="https://boxd.it/pXW6q/detail" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 51/52 | 2020s</b>

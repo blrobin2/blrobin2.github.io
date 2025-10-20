@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/583CC1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, canuxploitation, slasher]
 ---
 
 <b>Med students are flush with limbs and cadavers</b>

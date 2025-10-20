@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8CsQ0z
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 What the heck? I kind of liked this one this time around!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/63lm3j
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 I started this one ages ago, but then stopped when I decided to go on this chronological <i>MST3K</i> quest. The opening about turning each other on feels like a strange case of deja vu.

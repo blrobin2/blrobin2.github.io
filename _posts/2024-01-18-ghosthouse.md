@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5CqMHr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober8.0, slasher, haunted-house, italian-gothic, killer-toy]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail#item-3630807378" target="_blank" rel="noopener">Hooptober 8.0 | 16/34 | From birth year 1/2</a></b>

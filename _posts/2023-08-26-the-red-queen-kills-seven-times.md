@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KIYn9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, switchblade-sisters, giallo]
 ---
 
 <blockquote><i>I'm the Red Queen and Kitty's the Black Queen</i></blockquote>A family prophesy that happens once a century, where one sister murders another. But there's also an older sister I guess?

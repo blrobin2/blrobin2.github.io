@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6cg3Ij
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, j-horror, body-horror, cyberpunk]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 2/32 | Anniversary Film 1/10 | Countries 2/6 | Japan</a></b>

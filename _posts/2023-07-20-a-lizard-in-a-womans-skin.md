@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xNL3X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, giallo, unsimulated-sex]
 ---
 
 <blockquote><i>Anything’s on the cards when you’re on a trip. You’re capable of anything. Some take a jump and think they’re flying. You can kill someone and not know nothin about anything</i></blockquote>Carol dreams of trains, halls of naked people, and her Debaucherous neighbor Julia, with whom she has sex. In real life, Carol is repressed and resents her neighbor

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6YQZiR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober2.0, solidarity]
 ---
 
 <b><a href="https://boxd.it/pRPis/detail" title="Hooptober 2.0 | 27/31 | Monster 2/5" target="_blank" rel="noopener">Hooptober 2.0 | 27/31 | Monster 2/5</a></b>

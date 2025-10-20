@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KCiVB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-channel]
 ---
 
 Why did I think the title was metaphorical?

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/49XzkB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, 1001-movies]
 ---
 
 Lotte Reiniger pioneered the earliest silhouette animations, this being the earliest surviving one from 1926

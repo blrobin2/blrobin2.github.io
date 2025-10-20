@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5yH92d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, vinegar-syndrome, folk-horror:-a-study, video-nasties]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 10/34 | Folk Horror 1/2 | Decades 4/8 | 70s</a></b>

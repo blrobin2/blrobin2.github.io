@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/50jtQ9
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - An adventure from tomorrow for today's troubled teens

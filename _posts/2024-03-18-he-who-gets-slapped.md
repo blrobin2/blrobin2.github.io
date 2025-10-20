@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/64Sb8R
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, but-doctor-i'm-he-who-gets-slapped]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 17/32 | Makeup: Lon Chaney</a></b>

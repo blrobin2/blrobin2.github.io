@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4FKBK9
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, scifiploitation]
 ---
 
 - the goofy desert?

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53KD0N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, 90s-horror, slasher]
 ---
 
 <b>I've heard of muscle memory, but this is ridiculous!</b>

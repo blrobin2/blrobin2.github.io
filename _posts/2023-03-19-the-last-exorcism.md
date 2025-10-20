@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/405Hod
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, house-of-psychotic-women, possession, found-footage]
 ---
 
 Basic concept; sham exorcist accidentally attends a real exorcism — or is it!?!?

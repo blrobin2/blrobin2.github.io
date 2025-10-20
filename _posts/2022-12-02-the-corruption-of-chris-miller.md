@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3uhoSp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher]
 ---
 
 The scene where they ride through the countryside — her on a horse, him on a bicycle — is _chef kiss_

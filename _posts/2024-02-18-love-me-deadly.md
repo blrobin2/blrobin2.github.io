@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5RbJkz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women, exploitation]
 ---
 
 Lindsay sits in the back of a wake. She waits for everyone to clear out before cheerfully sauntering to the open casket. There, she pulls back her veil, nuzzling and kissing the corpse.

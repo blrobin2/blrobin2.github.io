@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ggfG5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women]
 ---
 
 Rocky (Robert Walker Jr) drives off in a yellow convertible, leaving Mara (Rita Hayworth) at the gas station, crying in the pouring rain. His car dies, so he hitches a ride to the police station. Riding back with the cop, Rocky tells his story on the road to Salina. Or is it Jonas telling the story?

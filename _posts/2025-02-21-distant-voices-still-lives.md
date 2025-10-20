@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8U1s59
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [birth-year-challenge, byc, 1001-movies, sight-and-sound]
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 31</a></b>

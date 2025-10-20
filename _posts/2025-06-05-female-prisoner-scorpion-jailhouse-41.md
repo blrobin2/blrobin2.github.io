@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9U06H7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, cmc, cmc2017, sexploitation, pinku, frightfest-guide-to-exploitation-movies, women-in-prison]
 ---
 
 <b><a href="https://boxd.it/q7TYk" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 45/52 | Pinky Violence</a></b>

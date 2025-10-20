@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4RefrD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, genre:-exploitation, the-final-girl, halloween-horror]
 ---
 
 <blockquote><i>Freedom is power

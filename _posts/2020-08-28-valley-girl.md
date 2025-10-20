@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1k5Vz1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [teensploitation, directed-by-women, edited-by-women, coming-of-age]
 ---
 
 Before there was John Hughes, there was Martha Coolidge

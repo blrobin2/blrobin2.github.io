@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4VZhhZ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks, hicksploitation]
 ---
 
 - just advancing the plot, nothing personal

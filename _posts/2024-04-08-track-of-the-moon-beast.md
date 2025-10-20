@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6eGwmh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 This is the first time I can remember a movie making me laugh with how boring it is. But it had some goofy special effects that I can't hate.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6IIIUT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober3.0, giallo, slasher, queer, extreme]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 21/31 | Lucio Fulci</a></b>

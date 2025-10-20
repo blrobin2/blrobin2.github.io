@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4F5u99
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime]
 ---
 
 A blend of stories about young children in the summer of 1976 — some funny, some cute, some tragic

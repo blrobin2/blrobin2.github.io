@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/509yAF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max]
 ---
 
 Danny and Wendy move to Florida after the events of <i>The Shining</i>. The spirit of Dick Hallorann shows up to Danny, showing him how to trap the evil spirits that want to consume his shine.

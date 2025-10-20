@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JNui5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [film-theory-and-criticism]
 ---
 
 Tense, rhythmic repetition of horses bucking, stampeding, and fighting in water

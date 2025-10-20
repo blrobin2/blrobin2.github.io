@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/b5RVqz
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, nature-attacks]
 ---
 
 The opening crawl literally copies and pastes the Wikipedia entry for "megalodon."

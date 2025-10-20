@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6lvJWD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2016, killer-toy, canuxploitation]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 50/52 | Best of the Worst</a></b>

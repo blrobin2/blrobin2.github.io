@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ci1lX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 22/34 | Ti West</b>

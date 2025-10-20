@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9hRyCT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, 1001-movies, sight-and-sound, golden-lion, solidarity]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 52/52 | Any Criterion film from your watchlist</a></b>

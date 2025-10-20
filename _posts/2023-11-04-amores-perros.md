@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56Er5B
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-challenge-2023, torrent, cc2023, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023</a> | 6/52 | Animals in the Collection</b>

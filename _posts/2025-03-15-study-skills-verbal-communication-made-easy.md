@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/97HGj1
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - It takes two people to communicate—more if one of them is Bob Dylan.

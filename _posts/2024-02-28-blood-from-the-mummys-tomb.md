@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5VHBCv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, hooptober, hooptober7.0, britsploitation]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 27/32 | Non-Dracula Hammer</a></b>

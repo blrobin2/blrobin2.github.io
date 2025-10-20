@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fnDIx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 34/34 | Bonus 3/3</b>

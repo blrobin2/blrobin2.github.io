@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ufHNF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [heretv, hooptober, hooptober8.0]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" title="Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary" target="_blank" rel="noopener">Hooptober 8.0 | 3/34 | Countries 3/6 | Hungary</a>

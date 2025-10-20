@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3M2wvv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [netflix]
 ---
 
 I’ve been watching <i>Black Sails</i> with some friends, and it’s clear now that the missing element in the show is a sea beast or two

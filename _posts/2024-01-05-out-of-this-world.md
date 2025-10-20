@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5uX1kJ
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, short]
 ---
 
 I used some clips from this for a project in college. No, you can't see it.

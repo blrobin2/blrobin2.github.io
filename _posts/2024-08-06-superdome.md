@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/72wHA5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [youtube, mst3k, ktma]
 ---
 
 Crow calls the evils "dickweeds." Is that TV safe? I guess it doesn't matter on local access.

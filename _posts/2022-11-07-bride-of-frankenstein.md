@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3p9E45
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Pulling in the dopey Burgomaster and Una O’Connor from The Invisible Man was a great choice

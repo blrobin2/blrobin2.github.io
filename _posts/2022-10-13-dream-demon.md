@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3jLXrJ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher]
 ---
 
 It really feels like they just make up the rules as they go! If you can ignore an incoherent plot, however, you’ll get some fun dream visuals

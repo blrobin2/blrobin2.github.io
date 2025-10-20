@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9R6bbl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2022, cc2022, 1001-movies, film-noir]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 52/52 | Any Criterion film on your watchlist</a></b>

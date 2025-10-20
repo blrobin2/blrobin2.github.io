@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4YH2eR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, erin, neal, caitie]
 ---
 
 — You have the right to remain dead

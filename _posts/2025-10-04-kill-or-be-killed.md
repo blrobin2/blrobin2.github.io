@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bfVKCn
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 I like the credits projected on sweaty fighters, sue me. One of the fighters looks like Bob from Twin Peaks! (edit: It's MacPherson from <a href="https://boxd.it/5V3qmh" title="Space Mutiny" target="_blank" rel="noopener"><i>Space Mutiny</i></a><i></i>!)

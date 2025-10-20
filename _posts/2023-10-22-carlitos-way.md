@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/523u7F
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd]
 ---
 
 Like a veritable Franz Biberkopf, Carlito (Al Pacino) leaves prison after five years and proclaims that he will go straight and retire to Paradise. His lawyer and best friend, David (Sean Penn), helped him get out on technicalities and doesn't believe Carlito can change.

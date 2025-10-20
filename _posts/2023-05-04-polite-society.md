@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4cGlzZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, amc-southpoint]
 ---
 
 What The Hell? This movie rules!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a3A4gV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, anna, criterion, 1001-movies]
 ---
 
 Loretta believes she's unlucky in love, especially since her husband died seven years ago. Maybe it was because they got married in a courthouse. She lives at home with her parents, her grandfather, and their five dogs. Her father thinks she shouldn't get married again because she's bad luck.

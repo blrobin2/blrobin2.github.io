@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5VTZmb
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - He cut the lawn way too short — he's down to the bedrock

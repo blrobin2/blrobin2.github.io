@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bfETnR
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, hooptober, hooptober12, mexican-luchador, zombies]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 3/31 | Countries 2/6 | Mexico | Decades 2/9 | 1960s | Zombie 2/5</a></b>

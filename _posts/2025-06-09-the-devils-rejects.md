@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9WvgWB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [oh-my-horror, omh, omh2025]
 ---
 
 <b><a href="https://boxd.it/BQGCY/detail" target="_blank" rel="noopener">Oh My Horror 2025 | 24|52 | Daddy Horror</a></b>

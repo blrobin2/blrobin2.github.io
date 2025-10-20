@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Yj9JV
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, plutotv, sword-&-sorcery, superhero]
 ---
 
 Jeffery Combs is my boyfriend

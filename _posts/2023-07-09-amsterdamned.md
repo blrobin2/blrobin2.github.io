@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4uftGd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, slasher]
 ---
 
 Okay, but that boat chase is so good, way to go Nick Gallard

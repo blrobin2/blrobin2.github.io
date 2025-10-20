@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4jaSSp
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, mexsploitation]
 ---
 
 Four women in various states of undress live in a house together. One of the women learns that she inherits the house and a substantial sum from her recently deceased aunt, with the condition that she cares for her cat Bequer

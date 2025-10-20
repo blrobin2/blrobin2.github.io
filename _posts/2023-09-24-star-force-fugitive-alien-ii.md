@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4T0vED
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 - mmhmm, that's good blow!

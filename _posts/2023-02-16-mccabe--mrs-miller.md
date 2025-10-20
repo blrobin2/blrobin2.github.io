@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3RwfTl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [1001-movies, criterion, scorsese's-85-film, claire-denis-req]
 ---
 
 Seems Altman likes smart-asses who end up in trouble whether they like it or not

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/53oCPV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+]
 ---
 
 <b><a href="https://boxd.it/pTT2i/detail" target="_blank" rel="noopener">Halloween: Ranked</a></b>

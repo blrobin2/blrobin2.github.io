@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Taxgv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, house-of-psychotic-women, slasher]
 ---
 
 “I’m gonna tell you the truth for once, okay? You need a good beating every once in awhile. All women do, and especially you, okay?” In case there’s any confusion about this movie’s sense of humor, this is the line that gets a woman to take back her abusive boyfriend

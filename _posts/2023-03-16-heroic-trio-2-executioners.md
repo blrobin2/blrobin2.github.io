@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3Zorin
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, starring-michelle-yeoh]
 ---
 
 Between the first and second movie, the world became a nuclear apocalyptic wasteland — no biggie

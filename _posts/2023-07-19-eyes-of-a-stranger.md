@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xlPRB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, slasher]
 ---
 
 TV Reporter Jane Harris (Lauren Hughes) reports on yet another woman found murdered, warning the women in her audience to take every precaution

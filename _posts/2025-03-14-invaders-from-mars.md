@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/977zxX
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation]
 ---
 
 I saw Tobe Hooper's remake about a year ago, and while I appreciate parts of it, I just couldn't connect with it. The original has roughly the same plot, but its charm is more immediate. Oddly, it helps that the scientists instantly believe David. Both movies, however, become remarkably dull once they focus on the military.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4X7IO7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptoberx]
 ---
 
 <b><a href="https://boxd.it/pmi12" target="_blank" rel="noopener">Hooptober X</a> | 9/34 | Decades 3/8 | 1940s</b>

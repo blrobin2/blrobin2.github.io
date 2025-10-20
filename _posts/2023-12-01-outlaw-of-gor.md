@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ftVhh
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, sword-&-sorcery]
 ---
 
 This episode won a Peabody Award? It is the first good Mike episode

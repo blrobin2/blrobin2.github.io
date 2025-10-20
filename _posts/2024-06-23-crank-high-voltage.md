@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6JfYM3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, kaiju, hollis]
 ---
 
 - Q??

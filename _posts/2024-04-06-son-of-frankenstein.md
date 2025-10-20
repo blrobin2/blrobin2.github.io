@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6duTUX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2016, written-by-women, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/q7ygw/detail" target="_blank" rel="noopener">Cult Movie Challenge 2016 | 42/52 | Shock Theater</a></b>

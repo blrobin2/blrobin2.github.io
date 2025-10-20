@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KCAjF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, criterion-channel]
 ---
 
 Dream blunt rotation — me and a whole bunch of sea urchins

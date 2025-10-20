@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8GiXVj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, short, punk]
 ---
 
 <blockquote><i>If you don't have a rat, you can't be one of us</i></blockquote>

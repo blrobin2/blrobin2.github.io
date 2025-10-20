@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4K7HXv
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Reminds me of the days of early Flash animation, where stuff just kind of happens and we were thrilled to see it. It also reminds me of the early internet because of the racism

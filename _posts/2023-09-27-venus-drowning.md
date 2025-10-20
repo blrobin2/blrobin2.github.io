@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4TZNlh
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vk, house-of-psychotic-women]
 ---
 
 <blockquote><i>everything's getting fucked up like it always does</i></blockquote>On the same day, Dawn's boyfriend Mike dies of cancer, and she has a miscarriage. After a suicide attempt, her doctor recommends going to a place that brings her comfort and gives her some time to heal

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3WCfEn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, 1001-movies, criterion, switchblade-sisters]
 ---
 
 I didn’t care about the Lenny Bruce surrogate movie, and it went on for sooo long, and it kept coming back. I know why, it makes sense in the movie, it was just tedious

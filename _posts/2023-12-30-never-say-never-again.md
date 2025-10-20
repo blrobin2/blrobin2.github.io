@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5qYDy1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [bond-connery, amazon-prime]
 ---
 
 <b><a href="https://boxd.it/r6gwI" title="Bond, Ranked Bond: The Cold War’s Horniest Spy" target="_blank" rel="noopener">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9HcdP5
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 Bridget and Mary Jo riffing

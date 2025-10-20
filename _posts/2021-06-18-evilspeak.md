@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1VXd45
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [slasher, video-nasties, devil-worship]
 ---
 
 What if Carrie got her powers from an Apple II possessed by an excommunicated 16th century monk who made a pact with Satan?

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5c8quF
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, scifiploitation]
 ---
 
 I saw Albert Pyun and Cannon Group, and I knew something great was entering my eyeballs.

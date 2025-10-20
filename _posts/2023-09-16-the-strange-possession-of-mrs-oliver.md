@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4QPk9p
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, house-of-psychotic-women]
 ---
 
 Written by horror regular Richard Matheson, the movie begins with visions of a house on fire. We then see Miriam (Karen Black) and her husband, Greg (George Hamilton), on their way to a funeral. They walk down the aisle to the casket, Miriam desperate to turn around. The walk takes ages and ages before Miriam sees Greg is not Greg. He walks over to open the casket, and Miriam sees herself in it

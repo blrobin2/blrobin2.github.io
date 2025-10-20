@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8TtjyD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, birth-year-challenge, byc, written-by-women, edited-by-women, solidarity, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/sWI7Y/detail" target="_blank" rel="noopener">Birth Year Challenge 29 </a></b>

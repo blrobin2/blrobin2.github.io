@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6qv0Yz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, anti-criterion-challenge-2024, acc2024, directed-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 19/52 | Directed by Kasi Lemmons</a></b>

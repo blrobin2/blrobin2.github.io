@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3RrsVT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, house-of-psychotic-women, extreme]
 ---
 
 If horror movies are to be believed, any light jostling will result in one or more eyeballs falling out of your face

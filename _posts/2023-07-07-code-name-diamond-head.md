@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4tMVM1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - Quinn Martin’s most personal film

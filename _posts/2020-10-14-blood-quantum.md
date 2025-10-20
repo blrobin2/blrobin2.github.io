@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1p1mBD
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 One of the best ideas for a zombie movie I’ve seen in a long time

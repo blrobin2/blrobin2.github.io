@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8PGuO3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, edited-by-women, birth-year-challenge, byc, łódź, solidarity]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 26</a></b>

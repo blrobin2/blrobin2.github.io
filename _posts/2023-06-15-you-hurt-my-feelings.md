@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4nr95H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [adam, silverspot]
 ---
 
 Beth (Julia Louis-Dreyfus) is an author struggling with her first fiction novel. Her husband, Don (Tobias Menzies), is a therapist who feels like he’s not as present in his work anymore. When Beth overhears Don talking about how much he secretly doesn’t like her new book, their relationship goes through it as they try to discover the fine line between support and honesty

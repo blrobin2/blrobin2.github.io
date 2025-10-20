@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2auDV7
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 90s trans panic was pervasive huh

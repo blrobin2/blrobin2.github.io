@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5A4HPX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, slasher, video-nasties]
 ---
 
 <b><a href="">Cult Movie Challenge 2016 | 6/52 | Video Nasties</a></b>

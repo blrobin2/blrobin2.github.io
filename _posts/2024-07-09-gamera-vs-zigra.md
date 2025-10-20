@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6PXyVF
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, ktma]
 ---
 
 <blockquote><i>Hi Guys, Gypsy, you're gorgeous, absolutely radiant! I love your show. Your movies are so tacky! I don't know where you get them. It's a good thing you narrate for me, otherwise I would never understand them! Keep up the good work!</i>

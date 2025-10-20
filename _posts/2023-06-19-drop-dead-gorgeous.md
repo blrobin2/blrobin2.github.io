@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4oA37f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, switchblade-sisters, written-by-women, edited-by-women, coming-of-age]
 ---
 
 Mockumentary about a local beauty pageant that heats up when some of the contestants die in mysterious accidents

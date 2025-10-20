@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3oj8YV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [britsploitation, vampires, rocksploitation]
 ---
 
 Bauhaus, Bowie, Bisexual Vampires

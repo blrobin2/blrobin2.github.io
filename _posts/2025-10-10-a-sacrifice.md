@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bjGc6X
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, hooptober, hooptober12, cults, written-by-women, directed-by-women, edited-by-women]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 9/31 | Decades 5/9 | 2020s | Cults 2/3</a></b>

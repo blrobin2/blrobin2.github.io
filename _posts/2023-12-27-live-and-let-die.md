@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ptMr3
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, bond-moore]
 ---
 
 <b><a href="https://boxd.it/r6gwI" target="_blank" rel="noopener">Bond, Ranked Bond: The Cold War’s Horniest Spy</a></b>

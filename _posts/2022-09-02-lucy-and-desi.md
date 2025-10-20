@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3bBP6B
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Amy Poehler not-so-quietly arguing that she should’ve played Lucy

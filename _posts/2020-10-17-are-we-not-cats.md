@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1pkdlz
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 If you turned Garden State inside out — complete with its manic pixie dream girl, fetishization of mental illness, and ennui as a personality trait — you’d get something approximating this: threadbare, stuffing exposed, but still just as empty

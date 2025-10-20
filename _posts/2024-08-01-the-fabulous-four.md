@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/70jC5H
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, owen, wine-o-clock, directed-by-women, written-by-women]
 ---
 
 Look, this movie sucks. It is quite cringey and no one has a character. But I snuck in some box wine, and girl, I was gagged.

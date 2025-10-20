@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3xEiBF
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A forced entry into a complex discussion, one of the more difficult episodes

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1ZXqOL
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 The narration really drags this down, but it’s still full of amazing performances and beautiful little moments

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8B7Zy5
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hoop-tober]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 29/31</a></b>

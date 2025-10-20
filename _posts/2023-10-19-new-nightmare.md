@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/51cEKr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptoberx, slasher]
 ---
 
 <b><a href="https://boxd.it/pmi12" title="Hooptober X " target="_blank" rel="noopener">Hooptober X </a>| 21/34 | Wes Craven | Decades 6/8 | 90s</b>

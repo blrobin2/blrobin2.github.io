@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5lliJz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder]
 ---
 
 Celie is a single mother, exhausted by long hours. Her job requires she give up time with her daughter, Lila, who feels neglected. She is a nurturing, empathetic presence in delivery rooms.

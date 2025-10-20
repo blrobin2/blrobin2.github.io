@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4MAPPl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, giallo]
 ---
 
 #### Stray Thoughts

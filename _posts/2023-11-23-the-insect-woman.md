@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5cMjwz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, sight-and-sound]
 ---
 
 <a href="https://boxd.it/pXW6q/detail" title="Criterion Challenge 2023" style="font-weight: bold;" target="_blank" rel="noopener">Criterion Challenge 2023</a><b> | 23/52 | Gasper Noé's Closet Picks</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ajU1v
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Sci-Fi enforced an overarching plot on this season in a desperate attempt to draw in viewers. The writers knew that no one watched the episodes in order or remotely close to each other but were at the network's mercy.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8rfzN5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 This episode is one of my faves — so many jokes, here's some I liked this time around:

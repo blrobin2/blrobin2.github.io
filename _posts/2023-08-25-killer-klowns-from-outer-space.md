@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KrW0t
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, genre:-exploitation]
 ---
 
 <blockquote><i>Don't worry, Dave — all we want to do is kill you</i></blockquote>It's about clowns from space that kill people, believe it or not

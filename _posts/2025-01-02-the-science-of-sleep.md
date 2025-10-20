@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8gTYD1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, my-kyle, holly, edited-by-women]
 ---
 
 As visually stunning and creatively realized as this movie is, the central character's twee dickishness is hard to endure, even as characters call him out for it. Still, the exploration of limerence and how we love the ideas of people is well-considered.

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/66yUFT
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, nature-attacks]
 ---
 
 Wild seeing a Lamberto Bava movie on <i>MST3K</i>. Alas, not everything he did was the caliber of <i>Demons</i> or <i>Macabre</i>. It would be easy to blame budget — Lamberto and Mario had their share of crippled funding — but even with a convincing monster, this movie wouldn't have much.

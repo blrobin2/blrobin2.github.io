@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Tyr0d
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, the-final-girl, slasher]
 ---
 
 <blockquote><i>When deep sleep falleth on men, fear came upon me, and trembling, which made all my bones to shake

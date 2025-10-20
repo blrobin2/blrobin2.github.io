@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4jmP5t
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, sight-and-sound, 1001-movies]
 ---
 
 A group of sailors stands in solidarity to mutiny against the unlivable conditions of their ship, refusing the maggot-filled food. The non-rebelling soldiers kill the leader, and the mutiny is quelled

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56dmYd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion]
 ---
 
 Jerry Corrbett (Fredric March), drunk off his ass, hits a woman at a party named Joan Prentice (Slyvia Sidney) with a paper football. The two sit together on the balcony and kiss. Joan invites Jerry to a tea party the next day. Then, a man named Greg Boleslavsky grabs her, and they leave. Jerry offers a toast:

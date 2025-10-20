@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/47AvsH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, erotic-thrillers, coming-of-age, written-by-women, directed-by-women]
 ---
 
 Drew Barrymore is doing the perfunctory “adult” movie that child actors do to prove that they’re “not a kid anymore” or something

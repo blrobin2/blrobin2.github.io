@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9bpS7B
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2017, spaghetti-western, solidarity]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 11/52 | Spaghetti Western</a></b>

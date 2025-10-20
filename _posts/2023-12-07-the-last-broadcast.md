@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5hxhRl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, found-footage]
 ---
 
 <i>December 16, 1995</i>

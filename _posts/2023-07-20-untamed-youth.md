@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4xPt7L
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, juvenile-delinquency, teensploitation, women-in-prison]
 ---
 
 - So I understand you two are untamed

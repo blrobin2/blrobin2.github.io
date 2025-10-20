@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6MinDV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober3.0, nature-attacks, written-by-women]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 31/31 | Tobe Hooper</a></b>

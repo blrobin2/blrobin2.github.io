@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5fRTyt
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 I had to watch it again! This time the ballet brought me to tears. It's all so beautiful

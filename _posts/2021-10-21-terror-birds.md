@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2dRs5x
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [caffie]
 ---
 
 Cathy saw this advertised on the Roku screensaver, so we knew what we were getting ourselves into

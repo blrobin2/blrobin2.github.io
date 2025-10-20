@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2egCgv
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Watched the 4K restoration at The Carolina Theater. I remember every detail of this movie, and it still fucks with me

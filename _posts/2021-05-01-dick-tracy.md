@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1Pzzop
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A bunch of noir cliches melted into a parade of color and contorted flesh, barely held together by but a whisper of a plot

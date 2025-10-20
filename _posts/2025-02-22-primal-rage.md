@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8UB4aB
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, birth-year-challenge, byc, body-horror]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 33</a></b>

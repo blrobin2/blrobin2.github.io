@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6BnxB7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober3.0, slasher, killer-toy]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 1/31 | Franchise 1/7</a></b>

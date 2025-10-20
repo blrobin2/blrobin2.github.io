@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9qyIwz
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax]
 ---
 
 - — You're dead, losers! — I yell that every time I pass a graveyard.

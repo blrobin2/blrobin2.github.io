@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a4NaN7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, religious-horror, frightfest-guide-to-exploitation-movies, devil-worship]
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 1/52 | Elvira's Movie Macabre</a></b>

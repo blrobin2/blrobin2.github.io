@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/97Gibv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, cmc, cmc2017, teensploitation, superhero]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 8/52 | Ray Dennis Steckler</a></b>

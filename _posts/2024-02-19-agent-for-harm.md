@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5RRmcB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, eurospy]
 ---
 
 This is Mike's first directed episode, as well as Patrick Brantseg's first episode as GPC.

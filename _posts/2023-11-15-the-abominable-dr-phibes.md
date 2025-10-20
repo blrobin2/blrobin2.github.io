@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5a6fw9
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0, britsploitation]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | 15/34 | Bloodthirsty old person/people film | Decades 5/8 | 1970s</b>

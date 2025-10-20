@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6xVYFx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober4.0, cannibal, video-nasties, junglesploitation]
 ---
 
 <b><a href="https://boxd.it/pRNg0/detail" target="_blank" rel="noopener">Hooptober 4.0 | 25/31 | people eating people (non-zombie) 1/3</a></b>

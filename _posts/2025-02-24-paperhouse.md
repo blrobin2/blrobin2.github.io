@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8W9pHt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, birth-year-challenge, byc, britsploitation, haunted-house]
 ---
 
 <b><a href="https://boxd.it/sWI7Y" target="_blank" rel="noopener">Birth Year Challenge 35</a></b>

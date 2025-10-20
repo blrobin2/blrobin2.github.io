@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4mRB1L
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, torture-porn, coming-of-age]
 ---
 
 Lola wants to take Brent to prom, but Brent has a girlfriend and declines. So, with the help of her doting and incestuous father, she captures him and tortures him

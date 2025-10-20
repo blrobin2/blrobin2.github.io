@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/55ARA9
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Get your red hot moms!

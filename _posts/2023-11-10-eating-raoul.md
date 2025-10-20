@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/58svVZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, hooptober, hooptober9.0, frightfest-guide-to-exploitation-movies]
 ---
 
 <b><a href="https://boxd.it/pOmcY/detail" target="_blank" rel="noopener">Hooptober 9.0</a> | Decades 3/8 | 1980s</b>

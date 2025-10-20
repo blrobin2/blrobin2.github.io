@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/916KNV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, cmc, cmc2017]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 3/52 | Anime</a></b>

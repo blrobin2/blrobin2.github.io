@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/56fL0V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, joe-bob, hooptober, hooptober9.0, cannibal, extreme, video-nasties, junglesploitation, frightfest-guide-to-exploitation-movies, found-footage]
 ---
 
 <b><a href="https://boxd.it/pOmcY" title="Hooptober 9.0" target="_blank" rel="noopener">Hooptober 9.0</a> | 2/34 | Countries 2/6 | Columbia</b>

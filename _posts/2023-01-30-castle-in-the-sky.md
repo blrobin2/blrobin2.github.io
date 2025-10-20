@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3MJwcf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [owen, max, anime]
 ---
 
 The scene where all the pirates flirt with and confess their love to a child is… uncomfortable

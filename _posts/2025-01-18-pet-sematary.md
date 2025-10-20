@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8w1g51
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, zombies, edited-by-women, killer-kids, folk-horror:-a-study]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 41/52 | Zombie</a></b>

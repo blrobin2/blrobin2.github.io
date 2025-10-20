@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4vQ6DN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, drugsploitation, written-by-women, edited-by-women, coming-of-age]
 ---
 
 Based on the true story of Christiane Felscherinow’s teenage life, the movie follows Christiane (Natja Brunckhorst) from 13-year-old crush on a boy in trouble to a 14-year-old prostitute and heroin addict

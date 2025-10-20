@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Ijvkd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [joe-bob, nature-attacks]
 ---
 
 <b>COPS SEEK SEWER PSYCHO</b>

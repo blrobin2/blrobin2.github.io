@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/617Vin
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, queer, written-by-women, edited-by-women, 1001-movies, golden-lion, owen, will, wine-o-clock]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 27/52 |  director's highest-rated film (Ang Lee)</a></b>

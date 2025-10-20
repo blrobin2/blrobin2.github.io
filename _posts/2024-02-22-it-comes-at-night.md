@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5T3rDZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [max, hooptober, hooptober7.0, body-horror, disease-horror]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 21/32 | disease-based 1/3</a></b>

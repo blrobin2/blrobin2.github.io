@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pm2Md
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women, plex]
 ---
 
 An acting troupe rows out to a remote island and performs a resurrection spell. They dig up a body, name him Orville, and take him with them

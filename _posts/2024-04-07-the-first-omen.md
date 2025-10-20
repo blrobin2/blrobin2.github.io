@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6e4RaP
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, directed-by-women, written-by-women, good-for-her]
 ---
 
 <blockquote><i>— Sister, why is there a bad room?

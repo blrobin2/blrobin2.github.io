@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9Iop1J
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, eclipse, cmc, cmc2017, vampires, j-horror, scifiploitation]
 ---
 
 <b><a href="https://boxd.it/q7TYk/detail" target="_blank" rel="noopener">Cult Movie Challenge 2017 | 39/52 | J-Horror</a></b>

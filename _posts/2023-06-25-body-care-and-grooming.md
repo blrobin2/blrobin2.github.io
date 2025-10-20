@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4qb4nr
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, dvd]
 ---
 
 - Ah, Spring! Filthy, shameful Spring!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6AR12v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, post-apocalypse, good-for-her]
 ---
 
 This movie has every flaw a prequel could have — it is entirely in service of another film with nothing new to offer.

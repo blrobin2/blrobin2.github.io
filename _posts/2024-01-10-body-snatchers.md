@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5ybd8P
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [scifiploitation]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 9/34 | Decades 3/8 | 90s</a></b>

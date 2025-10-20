@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aL7BKx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, anna]
 ---
 
 Immaculate vibes — I wish biopics would take big swings like this these days.

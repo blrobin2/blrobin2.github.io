@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4GZaqv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc+, films-made-by-women-set-in-rural-areas, written-by-women, directed-by-women, good-for-her]
 ---
 
 Cozy (Lisa Bowman), bored and ignored, meets Lee (Larry Fessenden) at a bar one night, thinking his unsavory ways will mix up her life. But when they believe they shoot a guy and go on the lam, Cozy learns that the bad boy may just be another boy with mommy (and money) issues

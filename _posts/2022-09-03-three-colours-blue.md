@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3bMZfb
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 A woman fights for the right to suppress her grief

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6d2CIz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober5.0, zombies]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 3/32 | Anniversary Film 2/10 | Countries 3/6 | Hong Kong | Decades 1/6 | 90s</a></b>

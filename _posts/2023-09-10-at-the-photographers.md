@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4P9IOD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [sexploitation]
 ---
 
 Back when the casting couch was a wicker rocking chair

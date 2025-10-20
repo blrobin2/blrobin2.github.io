@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4eJBMf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, house-of-psychotic-women, 1001-movies, sight-and-sound, criterion]
 ---
 
 What is the color of lust? The color of sex with a stranger? The color of greed? The color of poison — the place you refuse to let your mind go?

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9aU2Bn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2024, cc2024, 1001-movies]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 45/52 | 1960s</a></b>

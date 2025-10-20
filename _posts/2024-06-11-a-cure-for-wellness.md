@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6EuCxZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, rental, hooptober, hooptober3.0]
 ---
 
 <b><a href="https://boxd.it/pRNoI/detail" target="_blank" rel="noopener">Hooptober 3.0 | 8/31 | Countries 1/6 | Germany</a></b>

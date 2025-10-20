@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5MKkqn
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, hooptober, hooptober7.0, slasher]
 ---
 
 <b><a href="https://boxd.it/pOK5i/detail" target="_blank" rel="noopener">Hooptober 7.0 | 6/32 | Countries 6/6 | Mexico</a></b>

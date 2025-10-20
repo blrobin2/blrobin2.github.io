@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5lOVl5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Jeez they overbooked the credits

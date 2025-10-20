@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1vreSH
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [giallo, horror-anthology]
 ---
 
 The middle story is a tad tedious, but the visuals throughout are stunning

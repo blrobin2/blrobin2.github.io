@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8XMQAh
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, short]
 ---
 
 - The Lawrence Welk waltz music really helps when you're doing rhythmic ball skills.

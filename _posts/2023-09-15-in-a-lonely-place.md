@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Qwwhx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, criterion, 1001-movies, sight-and-sound]
 ---
 
 <blockquote><i>There's no sacrifice too great for a chance at immortality </i></blockquote>Dixon Steele is a washed-up screenwriter working in a city that sells popcorn and repeats — he joins the actors of yesteryear on the barstool as opportunities flutter across them. But Steele won't do any work that his heart isn't in

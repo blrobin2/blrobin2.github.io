@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6ECRXT
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 I might be crying... The Satellite of Love goes through The Bag of Time to bring a certified, grade A, original host... and it's Joel! The last episode hinted at it, but this episode confirmed it. Hearing his voice is so pleasant. He receives Emily's bots to riff with him.

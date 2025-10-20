@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Djdvj
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, superhero, edited-by-women, sword-&-sorcery]
 ---
 
 Another Emily episode! I'm warming to her — it's always an adjustment with new hosts. Speaking of new hosts, Dr. Kabal demands a third host, this time forcing Kinga and Max to go through The Time Bag and recover... Joel!

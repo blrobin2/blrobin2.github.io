@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a5CBg7
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, golden-horse, cops, gangs, asiancinemachallenge2023, asiancc2023, asiancc2023week12]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 12/52 | Heroic Bloodshed</a></b>

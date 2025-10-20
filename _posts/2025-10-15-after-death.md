@@ -5,6 +5,7 @@ excerpt: "My review of After Death (1915)"
 rating: "4.0"
 letterboxd_url: https://boxd.it/bnH75N
 category: movie-review
+tags: [worldscinema.org, hooptober, hooptober12]
 ---
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="nonopener">Hooptober XII | 14/31 | Decades 6/9 | 1910s | Former Soviet State | Silent Film</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3SZKXl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, indecent-desires:-doris-wishman, sexploitation]
 ---
 
 The camera ogles and lingers but artfully obscures with clothing, bodies, extreme close-up. Like, it isn’t well-composed or even inherently intentional, but the smash cuts, the light bleeds, the wandering eye and odd juxtapositions do give the movie a particular style

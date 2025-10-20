@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Tni2t
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, cc2022, criterion-challenge-2023, yakuza, film-noir]
 ---
 
 <b><a href="https://boxd.it/q4PJa/detail" target="_blank" rel="noopener">Criterion Challenge 2022 | 21/52 | Bill Hader's Top 10</a></b>

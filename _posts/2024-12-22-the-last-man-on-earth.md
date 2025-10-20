@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/87hb3V
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hoop-tober, zombies, vampires, post-apocalypse]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 6/31 | Decades 6/10 | 60s</a></b>

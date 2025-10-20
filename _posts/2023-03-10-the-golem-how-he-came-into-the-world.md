@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/3XzkfF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, genre:-exploitation]
 ---
 
 I couldn’t track down English subtitles that synced with this, so plot-wise I only have a vague sense of what’s happening. Still, the visual storytelling in this is fantastic, so I didn’t feel too out of the loop

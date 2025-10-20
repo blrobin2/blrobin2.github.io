@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/67m3KL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, nunsploitation, good-for-her]
 ---
 
 Cecilia migrates to Italy to join a convent after the one at home closed down. Though Cecilia isn't sure what God's plan for her is, she believes she's where she is supposed to be.

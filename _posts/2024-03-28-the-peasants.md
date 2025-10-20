@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/69nxzt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint]
 ---
 
 <b>Lipce, Poland, 1900</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/apv7RX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, adam, edited-by-women, criterion]
 ---
 
 When Adam and I watched this, our question at the end was, "Are they still in love with each other?" My answer is yes. This film (in its deeply flawed, male-writer-centered way) shows how different love looks when you're this far in AND unafraid to speak your mind.

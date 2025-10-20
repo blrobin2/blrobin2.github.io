@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6kMdgF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, vigilante]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 21/32 | Bill Lustig</a></b>

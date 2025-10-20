@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/68xeub
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sorcery]
 ---
 
 Season 9 finale! It's all going by so quickly :(

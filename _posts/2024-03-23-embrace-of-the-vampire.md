@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/66OJ2N
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober6.0, vampires, written-by-women, directed-by-women, edited-by-women, queer]
 ---
 
 <b><a href="https://boxd.it/pPVYg/detail" target="_blank" rel="noopener">Hooptober 6.0 | 22/32 | women-directed film 2/2</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5B7aBX
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Lucy, I'm dead!

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8mofUt
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hoop-tober, werewolves, britsploitation, frightfest-guide-to-exploitation-movies]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 15/31 | Terence Fisher 5/5</a></b>

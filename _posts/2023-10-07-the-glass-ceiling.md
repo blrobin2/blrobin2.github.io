@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4X8Gsv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [vk, house-of-psychotic-women]
 ---
 
 Martha is a bored housewife. Her husband, Michael, goes out of town all the time. In her loneliness and boredom, she tries to be sociable, but they misunderstand her intentions — a delivery boy invited up for wine makes an advance that she turns down

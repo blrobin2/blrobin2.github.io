@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8SfxUr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anti-criterion-challenge-2024, acc2024, queer, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 46/52 | Kyle Turner's The Queer Film Guide: 100 Great Movies That Tell LGBTQIA+ Stories</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4SlhU1
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, christmasploitation, scifiploitation]
 ---
 
 Believe it or not, I have only seen the movie without <i>MST3K</i> commentary — a college friend lent it and <i>2001</i> to me (two movies he watched every year — certifiably insane)

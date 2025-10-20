@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4DW71z
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hulu, sniper]
 ---
 
 Colin Farrell, a very handsome boy done dirty by 2002, talks on the phone with Schumacher fav Kiefer Sutherland, a man with a voice, in Diet <i>Saw</i>

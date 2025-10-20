@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wbsSx
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, post-apocalypse, scifiploitation]
 ---
 
 - Selena Royle… wasn’t Woody Allen in that?

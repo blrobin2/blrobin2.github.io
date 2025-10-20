@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4Nw2Yz
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi]
 ---
 
 Two sisters, the astronomer Ellen (Lee Grant) and the kooky gal Cissy (Carol Kane), live together in a rundown LA mansion a la <i>Grey Gardens</i>. While Ellen is away at work or buying groceries, Cissy is home idolizing her deceased explorer father, dressing like she just moved to Asheville and playing with her mafu

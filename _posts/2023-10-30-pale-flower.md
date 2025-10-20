@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/54UJZL
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-channel, criterion, criterion-challenge-2023, cc2023, yakuza]
 ---
 
 <b><a href="https://boxd.it/pXW6q" target="_blank" rel="noopener">Criterion Challenge 2023 </a>| 1/52 | Random Number Generator (564)</b>

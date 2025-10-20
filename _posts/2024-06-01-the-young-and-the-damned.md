@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Ap9Vx
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion-challenge-2024, cc2024, coming-of-age, 1001-movies, sight-and-sound, somos]
 ---
 
 <b><a href="https://boxd.it/qWjuA/detail" target="_blank" rel="noopener">Criterion Challenge 2024 | 22/52 | Directed by Luis Buñuel</a></b>

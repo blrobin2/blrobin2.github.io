@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4ADaVv
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, 1001-movies, scorsese's-85-film, britsploitation, slasher]
 ---
 
 <blockquote><i>— Anyone with you?

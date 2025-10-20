@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4wxheZ
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, karagarga, 1001-movies, criterion]
 ---
 
 After an opera, a rich dude hosts a dinner party. But after the help leave and everyone stays the night, they discover that they cannot leave the room they’re in

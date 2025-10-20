@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Qz4ux
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [house-of-psychotic-women]
 ---
 
 <blockquote><i>There is a story and verse that belongs to this country — the border of England and Scotland. It is hundreds of years old. It tells the adventures of a young man, held in thrall by the queen of the fairies, who, in the centuries before pantomime, was reckoned a dangerous lady. It is called "A Ballad of Tam Lin."</i></blockquote>

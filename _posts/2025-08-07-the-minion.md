@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/aDrPDj
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, christmas-horror, religious-horror]
 ---
 
 Woo doggy, this script is amazingly clunky. The film has a fun premise, but the structure and dialogue are messy.

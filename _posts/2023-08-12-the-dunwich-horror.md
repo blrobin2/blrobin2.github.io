@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4GeIiV
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, genre:-exploitation, folk-horror:-a-study]
 ---
 
 A guy wants to bring back The Old Ones, even though it's, you know, a bad idea

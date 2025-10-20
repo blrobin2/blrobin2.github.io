@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4OnZlR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju]
 ---
 
 By this point, Yuasa figured out how to have as little scientist bullshit as possible, or at least put the scientists in places other than labs

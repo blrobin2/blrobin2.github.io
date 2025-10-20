@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4GHlW7
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, kaiju, scifiploitation]
 ---
 
 Put on at a party — the fights don't have enough narrative and are too long. But this movie does have Godzilla's iconic flying kick

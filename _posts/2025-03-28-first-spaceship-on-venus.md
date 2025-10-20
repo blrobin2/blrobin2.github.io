@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/9ffP3x
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 Stanisław Lem hated this adaptation of his book but hated <i>Stalker</i> too, so who knows with that guy.

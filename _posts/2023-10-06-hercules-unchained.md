@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4WW70R
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k, sword-&-sandals, sword-&-sorcery]
 ---
 
 - hey, stop feeding my bride!

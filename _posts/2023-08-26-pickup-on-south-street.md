@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4KE3Op
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [plex, switchblade-sisters, criterion, 1001-movies]
 ---
 
 Pickpocket Skip McCoy steals Candy's wallet in a busy subway car. Once she realizes it's gone, she calls her ex, Joey, to let him know her final favor has gone awry

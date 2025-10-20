@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4WUBQf
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [dvd, hollywood-funnywomen, 1001-movies]
 ---
 
 <b>Capitalist propaganda, but make it funny</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4JaoZ5
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent]
 ---
 
 - Now, let's see if we can strand this baby

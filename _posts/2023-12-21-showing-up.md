@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5myNCT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hoopla, films-made-by-women-set-in-rural-areas]
 ---
 
 Lizzy is a ceramic sculptor and illustrator. She has a show coming up. She's trying to get everything ready, but nothing goes right.

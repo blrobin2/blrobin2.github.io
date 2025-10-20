@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6hHQJT
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, hooptober, hooptober5.0, frightfest-guide-to-ghost-movies, gothic-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 15/32 | Before 1970 6/6</a></b>

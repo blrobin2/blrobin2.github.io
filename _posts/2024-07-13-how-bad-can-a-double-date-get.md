@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6Rles1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [youtube, short, written-by-women]
 ---
 
 If I wrote down every line that made me laugh, I would be writing down practically every line. But some favorites:

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6AM7Pj
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, home-invasion, slasher, good-for-her]
 ---
 
 Somewhere in Oregon, Maya and Ryan are on a multi-day cross-country road trip to Portland. They pull into Venus, a small town where folks eye outsiders suspiciously. At a diner, they hear about a guy who passed through, ate at the same restaurant, and went missing.

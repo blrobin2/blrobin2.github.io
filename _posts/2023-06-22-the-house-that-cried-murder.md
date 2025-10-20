@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4pqrXN
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, house-of-psychotic-women, canuxploitation]
 ---
 
 Barbara seduces her father to allow her to build her dream home “For the first time in my useless life, I finally accomplished something!” (Ugh, brag!) She and David are to be married and move into the house together

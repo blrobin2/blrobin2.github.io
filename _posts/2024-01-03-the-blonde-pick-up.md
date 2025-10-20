@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5tMrKR
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, sexploitation]
 ---
 
 Mike's wife is back as Lisa Loeb

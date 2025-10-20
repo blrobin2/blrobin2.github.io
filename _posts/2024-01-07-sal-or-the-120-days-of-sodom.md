@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5w6SdX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [criterion, hooptober, hooptober8.0, extreme, 1001-movies, nazisploitation]
 ---
 
 <b><a href="https://boxd.it/pOvfW/detail" target="_blank" rel="noopener">Hooptober 8.0 | 6/34 | Countries 6/6 | Italy</a></b>

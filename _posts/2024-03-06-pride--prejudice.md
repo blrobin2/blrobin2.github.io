@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5Z8ROD
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [anti-criterion-challenge-2024, written-by-women, good-for-her, acc2024]
 ---
 
 <b><a href="https://boxd.it/qBmUY/detail" target="_blank" rel="noopener">Anti-Criterion Challenge 2024 | 10/52 | 2000s</a></b>

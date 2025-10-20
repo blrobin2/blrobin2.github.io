@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5lqrPB
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [torrent, mst3k]
 ---
 
 - Kerosene and a match get ride of the ear mites

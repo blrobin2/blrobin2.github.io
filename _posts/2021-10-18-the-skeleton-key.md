@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/2dn3XJ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 “It doesn’t matter if it’s not real, it’s real to them”

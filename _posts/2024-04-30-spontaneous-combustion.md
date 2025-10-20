@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6nge1f
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [tubi, hooptober, hooptober5.0, body-horror]
 ---
 
 <b><a href="https://boxd.it/pRFMi/detail" target="_blank" rel="noopener">Hooptober 5.0 | 29/32 | Tobe Hooper 1/2</a></b>

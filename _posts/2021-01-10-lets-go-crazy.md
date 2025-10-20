@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/1zKbPJ
 mst3k:
 rifftrax:
 category: movie-review
+tags: []
 ---
 
 Peter Sellers do some sort of funny characters, some boring musical performances, some solid pratfalls

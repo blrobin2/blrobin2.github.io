@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/8v80c1
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amazon-prime, cmc, cmc2024, kaiju, nature-attacks]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 40/52 | Kaiju</a></b>

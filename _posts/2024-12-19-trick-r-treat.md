@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/85yvWd
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hoop-tober, horror-anthology, zombies, werewolves]
 ---
 
 <b><a href="https://boxd.it/pRQY0/detail" target="_blank" rel="noopener">Hoop-Tober | 2/31 | Decades 2/10 | 2000s</a></b>

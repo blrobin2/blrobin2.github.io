@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5unO8v
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [shudder, joe-bob, britsploitation, christmasploitation, slasher, frightfest-guide-to-exploitation-movies]
 ---
 
 Whoops, got too high. Let's see how this plays out

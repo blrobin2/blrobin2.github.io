@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4v4iep
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [1001-movies, criterion, dvd]
 ---
 
 <blockquote><i>You may say that I ain’t free, but that don’t worry me</i></blockquote><blockquote><i>It’s America — all those crashed cars and mangled corpses…</i></blockquote>In Nashville, music can be your whole life and their songs can be campaign promises — full of contradictions and ultimately empty — recorded music the feedback loop by which image self-replicates and defines reality

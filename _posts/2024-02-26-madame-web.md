@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/5UK6QX
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [amc-southpoint, adam, jim, patricia, directed-by-women, written-by-women, edited-by-women, good-for-her]
 ---
 
 <b>Peru, 1973</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7X7ocr
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [blu-ray, criterion, 1001-movies]
 ---
 
 I don't know what Lynch considers worse — being a dad or living in Philly

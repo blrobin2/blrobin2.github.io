@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/4zY617
 mst3k: true
 rifftrax: false
 category: movie-review
+tags: [mst3k, torrent, junglesploitation]
 ---
 
 is there a Gilligan's Island reference in every mst3k episode?

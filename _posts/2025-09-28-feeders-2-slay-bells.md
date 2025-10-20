@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/bcj6Hp
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, sov, christmas-horror]
 ---
 
 Dude, I think <a href="https://boxd.it/bawkpx" target="_blank" rel="noopener"><i>Hallucinations</i></a><i></i> gave me Polonia Brothers toxoplasmosis. I'm so into this.

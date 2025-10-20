@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/a196WR
 mst3k: false
 rifftrax: true
 category: movie-review
+tags: [nebula, rifftrax, scifiploitation]
 ---
 
 I can't believe they watch <i>The Amazing Colossal Man</i> at the drive-in and stop talking to watch scenes of that movie. No puppet people attack in this movie.

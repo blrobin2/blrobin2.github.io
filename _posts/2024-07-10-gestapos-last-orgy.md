@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/6QewCF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [cmc, cmc2024, sexploitation, video-nasties, women-in-prison, extreme, nazisploitation, frightfest-guide-to-exploitation-movies]
 ---
 
 <b><a href="https://boxd.it/rIGbC/detail" target="_blank" rel="noopener">Cult Movie Challenge 2024 | 28/52 | Nazisploitation</a></b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/55WWLl
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [hooptober, hooptober9.0]
 ---
 
 <b><a href="https://boxd.it/pOmcY" target="_blank" rel="noopener">Hooptober 9.0</a> | 1/34 | Countries 1/6 | Serbia</b>

@@ -7,6 +7,7 @@ letterboxd_url: https://boxd.it/7HT7fF
 mst3k: false
 rifftrax: false
 category: movie-review
+tags: [torrent, coming-of-age, alicia]
 ---
 
 I was lucky enough to watch this with a Taiwanese family who recognized many of this movie's small details. The performances were excellent, with Caitlin Fang giving the best.
