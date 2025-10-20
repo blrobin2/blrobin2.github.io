@@ -2,7 +2,7 @@
 layout: review
 title: "Frankenstein vs. Dracula (1971)"
 excerpt: "My review of Frankenstein vs. Dracula (1971)"
-rating: "1.5"
+rating: "1.0"
 letterboxd_url: https://boxd.it/bpJ0cT
 category: movie-review
 ---
