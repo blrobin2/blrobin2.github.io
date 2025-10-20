@@ -25,7 +25,7 @@ While the film isn't the most exciting, it is competently constructed and goes d
 
 - Shout out to <a href="https://www.youtube.com/watch?v=l4Iax8KCekU" target="_blank" rel="noopener">Cult Comedy Cinema</a> for sharing this movie.
 - Supposedly, this is the first werewolf movie made in Spain.
-- Whoa, I didn't realize this movie was a double feature in the US with <a href="https://boxd.it/bpJ0cT">Dracula vs. Frankenstein</a>! In fact, they renamed this movie to <i>Frankenstein's Bloody Terror</i> to satisfy the "Frankenstein double feature". The original title was <i>The Mark of the Wolfman</i>.
+- Whoa, I didn't realize this movie was a double feature in the US with <a href="https://boxd.it/bpJ0cT" target="_blank" rel="noopener">Dracula vs. Frankenstein</a>! In fact, they renamed this movie to <i>Frankenstein's Bloody Terror</i> to satisfy the "Frankenstein double feature". The original title was <i>The Mark of the Wolfman</i>.
 - "Now, Rudolph, don't mistake the brake pedal for the accelerator. Drive safe!"
 - Leave it to the Spanish to make the Romani the instigators.
 - The score has some wild moments that sound like some noise shows I've been to.
