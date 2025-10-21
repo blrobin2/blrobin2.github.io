@@ -3,10 +3,12 @@ layout: default
 ---
 
 <div class="rating-header">
-  <h2 class="post-title"><span class="title">{{ page.title }}</span></h2>
+  <h2 class="post-title">
+    <span class="title">{{ page.title }}</span>
+  </h2>
 
   {% if page.rating != "" %}
-  <div class="rating">{{ page.rating }}</div>
+    <div class="rating">{{ page.rating }}</div>
   {% endif %}
 
   <p class="meta">{{ page.date | date_to_string }}</p>
@@ -17,31 +19,35 @@ layout: default
   class="post"
   itemprop="articleBody"
   itemscope
-  itemtype="http://schema.org/BlogPosting"
->
+  itemtype="http://schema.org/BlogPosting">
   {% if page.tags contains 'mst3k' %}
-  <p>
-    <i
-      >This movie was watched as part of a Mystery Science Theater 3000
-      episode.</i
-    >
-  </p>
-  {% endif %} {% if page.tags contains 'rifftrax' %}
-  <p><i>This movie was watched as part of a RiffTrax commentary.</i></p>
-  {% endif %} {{ content }}
+    <p>
+      <i>This movie was watched as part of a Mystery Science Theater 3000 
+      episode.</i>
+    </p>
+  {% endif %}
+  {% if page.tags contains 'rifftrax' %}
+    <p>
+      <i>This movie was watched as part of a RiffTrax commentary.</i>
+    </p>
+  {% endif %}
+  {{ content }}
 
   <p>
-    <a href="{{ page.letterboxd_url }}" target="_blank" rel="noopener"
-      >See Review on Letterboxd</a
-    >
+    <a
+      href="{{ page.letterboxd_url }}"
+      target="_blank"
+      rel="noopener">See Review on Letterboxd</a>
   </p>
 
   {%- if page.tags.size > 0 -%}
-  <h5>Tags:</h5>
-  <p>
-    {%- for tag in page.tags -%}
-    <a href="/tag/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
-    {%- unless forloop.last -%}, {% endunless -%} {%- endfor -%}
-  </p>
+    <h5>Tags:</h5>
+    <p>
+      {%- for tag in page.tags -%}
+        <a href="/tag/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+        {%- unless forloop.last -%},
+        {% endunless -%}
+      {%- endfor -%}
+    </p>
   {%- endif -%}
 </article>
