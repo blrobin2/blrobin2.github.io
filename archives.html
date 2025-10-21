@@ -1,0 +1,50 @@
+---
+layout: default
+title: Archives
+permalink: /archives
+---
+
+<div class="archives">
+  <h2>{{ page.title }}</h2>
+  <ul class="archive-types">
+    <li>
+      <details>
+        <summary>
+          <h3>By Category</h3>
+        </summary>
+        <table class="archive-table">
+          {% assign sorted_categories = site.categories | sort %}
+          {% tablerow category in sorted_categories cols: 3 %}
+            <a href="/category/{{ category[0] | slugify }}">{{ category[0] }} ({{ category[1].size }})</a>
+          {% endtablerow %}
+        </table>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+          <h3>By Tag</h3>
+        </summary>
+        <table class="archive-table">
+          {% assign sorted_tags = site.tags | sort %}
+          {% tablerow tag in sorted_tags cols: 3 %}
+            <a href="/tag/{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+          {% endtablerow %}
+        </table>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+          <h3>By Year</h3>
+        </summary>
+        <table class="archive-table">
+          {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+          {% tablerow year in posts_by_year cols: 3 %}
+            <a href="/{{ year.name }}/">{{ year.name }} ({{ year.items.size }})</a>
+          {% endtablerow %}
+        </table>
+      </details>
+    </li>
+  </ul>
+</div>

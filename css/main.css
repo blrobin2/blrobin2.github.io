@@ -209,6 +209,33 @@ img {
   height: auto;
 }
 
+details {
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+summary {
+  cursor: pointer;
+}
+
+summary h3 {
+  display: inline-block;
+  margin: 0;
+  line-height: 0;
+  vertical-align: middle;
+}
+
+.archive-table {
+  width: 100%;
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+.archive-types {
+  padding-left: 0;
+  list-style: none;
+}
+
 .meta,
 .posts li span {
   color: var(--dark-gray);
