@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="archive">
+  <h2>Posts from {{ page.date | date: "%B %Y" }}</h2>
+
+  <p id="search-results-count" class="search-results-count">
+    {{ page.posts.size }} post{% if page.posts.size != 1 %}s{% endif %}
+  </p>
+
+  {% include post-list.html %}
+</div>

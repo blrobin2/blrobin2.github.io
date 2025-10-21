@@ -12,8 +12,10 @@ webrick:
     "X-Frame-Options": "DENY"
 
 jekyll-archives:
-  enabled:
-    - tags
-  layout: archive
-  permalinks:
-    tag: "/tag/:name/"
+  enabled: all
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    tag: tag-archive
+    category: tag-archive
