@@ -63,6 +63,7 @@ h3,
 h4,
 h5,
 h6 {
+  margin: 1.5rem 0 1rem;
   color: var(--venetian-red);
   font-family: "Abril Fatface", cursive;
   font-style: normal;
@@ -241,9 +242,16 @@ a:hover,
   background: var(--light-gray);
 }
 
+.posts li:last-child {
+  border-bottom: none;
+}
+
 .footer {
   display: grid;
   align-items: center;
+  padding-top: 1rem;
+  border-top: 0.5rem solid var(--black);
+  margin-top: 1.5rem;
   grid-template-columns: 1fr;
 }
 
@@ -255,7 +263,8 @@ a:hover,
   .footer {
     padding: 1rem 0;
     gap: 1rem;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
   }
 
   .footer .contact p {
@@ -379,4 +388,15 @@ blockquote {
 .next {
   flex: 1;
   padding: 0.5rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border: 0.2rem solid var(--monza);
+  margin: 0 0.5rem 0.25rem 0;
+  background: var(--light-gray);
+  color: var(--monza);
+  font-size: 0.833rem;
+  text-decoration: none;
 }

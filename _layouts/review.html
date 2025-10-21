@@ -22,7 +22,7 @@ layout: default
   itemtype="http://schema.org/BlogPosting">
   {% if page.tags contains 'mst3k' %}
     <p>
-      <i>This movie was watched as part of a Mystery Science Theater 3000 
+      <i>This movie was watched as part of a Mystery Science Theater 3000    
       episode.</i>
     </p>
   {% endif %}
@@ -41,12 +41,10 @@ layout: default
   </p>
 
   {%- if page.tags.size > 0 -%}
-    <h5>Tags:</h5>
+    <h5>Tags</h5>
     <p>
       {%- for tag in page.tags -%}
-        <a href="/tag/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
-        {%- unless forloop.last -%},
-        {% endunless -%}
+        <a href="/tag/{{ tag | slugify }}/" class="tag meta">{{ tag }}</a>
       {%- endfor -%}
     </p>
   {%- endif -%}
