@@ -34,7 +34,7 @@ For those like me who find this era of filmmaking inherently cozy, it's hard to 
 
 #### Actor Talk
 
-Happy to keep running into Jill Shoelen in movies. She's a solid scream queen!
-This was Molly Shannon's first movie role! She plays Meg!
-This is the earliest role I've seen Bill Nighy in. He's barely recognizable!
-Robert Englund is doing his best to fill the role of The Phantom, but he doesn't have the chops to sell the more emotional moments.
+- Happy to keep running into Jill Shoelen in movies. She's a solid scream queen!
+- This was Molly Shannon's first movie role! She plays Meg!
+- This is the earliest role I've seen Bill Nighy in. He's barely recognizable!
+- Robert Englund is doing his best to fill the role of The Phantom, but he doesn't have the chops to sell the more emotional moments.
