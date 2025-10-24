@@ -10,7 +10,7 @@ tags: [torrent, hooptober, hooptober12, slasher]
 
 <b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 22/31 | Based on Novels 3/4</a></b>
 
-<blockquote><i>— Pray for them who giveth their immortal soul unto Satan… For each is damned to relive that wretched life… through all times.</i><br>
+<blockquote><i>Pray for them who giveth their immortal soul unto Satan… For each is damned to relive that wretched life… through all times.</i><br>
 — St. Jean Vitius of Rouen,<br>
 written the day of his execution, March 7, 1544</blockquote>
 
