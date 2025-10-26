@@ -8,7 +8,7 @@ category: movie-review
 tags: [hoopla, hooptober, hooptober12, italian-gothic, gothic-horror]
 ---
 
-<b><a href="https://boxd.it/OPp3M/detail" title="Hooptober XII | 25/31 | Written by Ernesto Gastaldi">Hooptober XII | 25/31 | Written by Ernesto Gastaldi</a></b>
+<b><a href="https://boxd.it/OPp3M/detail" target="_blank" rel="noopener">Hooptober XII | 25/31 | Written by Ernesto Gastaldi</a></b>
 
 <b>London 1885</b>
 
