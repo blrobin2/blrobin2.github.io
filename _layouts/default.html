@@ -19,17 +19,7 @@
       itemprop="description"
       content="{{ page.excerpt }}"
     />
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:site_name" content="{{ site.name }}" />
-    <meta
-      property="og:url"
-      itemprop="url"
-      content="{{site.url}}{{ page.url }}"
-    />
-    <meta property="og:description" content="{{ page.excerpt }}" />
-    <meta property="og:type" content="article" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
     <link rel="canonical" href="{{site.url}}{{ page.url }}" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -39,6 +29,8 @@
     />
     <link rel="stylesheet" href="/css/main.css" />
     <link rel="manifest" href="/manifest.webmanifest" />
+    {% feed_meta %}
+    {% seo %}
   </head>
   <body>
     <div class="site">

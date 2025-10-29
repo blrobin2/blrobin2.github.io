@@ -6,6 +6,8 @@ paginate: 100
 plugins:
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-feed
+  - jekyll-seo-tag
 
 webrick:
   headers:
