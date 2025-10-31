@@ -2,7 +2,7 @@
 layout: review
 title: "Night of the Eagle (1962)"
 excerpt: "My review of Night of the Eagle (1962)"
-rating: "4.5"
+rating: "4.0"
 letterboxd_url: https://boxd.it/by4U4P
 category: movie-review
 tags:
