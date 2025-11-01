@@ -11,6 +11,7 @@ tags: [hoopla, hooptober, hooptober12, slasher, cannibal]
 <b><a href="https://boxd.it/OPp3M/detail">Hooptober XII | 30/31 | Extra Credit 2/3</a></b>
 
 <blockquote><i>Since the opening of the borders on November 9th, 1989, hundreds of thousands of GDR citizens have left their country. Today, many of them live unrecognized among us. 4% never arrived…</i></blockquote>
+
 <b>Leipzig<br>
 October 3rd, 1990</b>
 
