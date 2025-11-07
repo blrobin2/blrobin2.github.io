@@ -55,6 +55,19 @@ jobs:
           ruby-version: "3.1" # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Increment this number if you need to re-download cached gems
+      - name: Diagnose sass-embedded build
+        run: |
+          set -o pipefail
+          # try gem install alone to get full verbose output
+          gem install sass-embedded -v 1.93.3 --verbose || true
+
+          # Show extension directories and any mkmf.log / build logs
+          echo "Listing vendor bundler extensions..."
+          ls -la vendor/bundle/ruby || true
+          find vendor/bundle -maxdepth 4 -type f -name 'mkmf.log' -print -exec sed -n '1,200p' {} \; || true
+
+          # If the rake step produced other files in the gem dir, show them
+          find /home/runner/work/blrobin2.github.io/blrobin2.github.io -path "*/sass-embedded-*" -maxdepth 3 -print -exec ls -la {} \; || true
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
