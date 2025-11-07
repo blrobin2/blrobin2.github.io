@@ -33,8 +33,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev
+      - name: Install apt packages required for building native gems
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            build-essential \
+            gcc g++ \
+            libssl-dev \
+            zlib1g-dev \
+            libffi-dev \
+            pkg-config \
+            curl \
+            ca-certificates \
+            unzip \
+            xz-utils \
+            tar
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
