@@ -7,7 +7,16 @@ letterboxd_url: https://boxd.it/b2EYS9
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [torrent, asiancinemachallenge2023, asiancc2023, asiancc2023week16, queer, golden-bear, 1001-movies, golden-horse]
+tags:
+  [
+    torrent,
+    asiancinemachallenge2023,
+    asiancc2023,
+    queer,
+    golden-bear,
+    1001-movies,
+    golden-horse,
+  ]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 16/52 | Taiwanese New Wave Cinema</a></b>

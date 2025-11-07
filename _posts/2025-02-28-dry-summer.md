@@ -7,7 +7,16 @@ letterboxd_url: https://boxd.it/8Yovut
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [criterion-channel, criterion, asiancinemachallenge2023, asiancc2023, asiancc2023week8, golden-bear, solidarity, hürriyet]
+tags:
+  [
+    criterion-channel,
+    criterion,
+    asiancinemachallenge2023,
+    asiancc2023,
+    golden-bear,
+    solidarity,
+    hürriyet,
+  ]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2024 | 8/52 | Middle Eastern Films</a></b>

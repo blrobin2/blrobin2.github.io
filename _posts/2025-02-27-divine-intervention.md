@@ -7,7 +7,8 @@ letterboxd_url: https://boxd.it/8XHZAb
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [torrent, asiancinemachallenge2023, asiancc2023, asiancc2023week7, edited-by-women, solidarity]
+tags:
+  [torrent, asiancinemachallenge2023, asiancc2023, edited-by-women, solidarity]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 7/52 | Top 100 Arab Films</a></b>

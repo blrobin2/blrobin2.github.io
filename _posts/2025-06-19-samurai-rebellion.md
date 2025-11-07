@@ -7,7 +7,15 @@ letterboxd_url: https://boxd.it/a2PCoP
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [criterion-channel, criterion, asiancinemachallenge2023, asiancc2023, asiancc2023week11, solidarity, samurai]
+tags:
+  [
+    criterion-channel,
+    criterion,
+    asiancinemachallenge2023,
+    asiancc2023,
+    solidarity,
+    samurai,
+  ]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 11/52 | Samurai Cinema</a></b>

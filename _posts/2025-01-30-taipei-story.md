@@ -7,7 +7,18 @@ letterboxd_url: https://boxd.it/8F7fxh
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [criterion-channel, asiancc2023, asiancinemachallenge2023, asiancc2023week2, slow-cinema, written-by-women, criterion, solidarity, golden-horse, taiwanese-new-wave]
+tags:
+  [
+    criterion-channel,
+    asiancc2023,
+    asiancinemachallenge2023,
+    slow-cinema,
+    written-by-women,
+    criterion,
+    solidarity,
+    golden-horse,
+    taiwanese-new-wave,
+  ]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 2/52 | Hong Kong Film Awards Top 100 Films</a></b>

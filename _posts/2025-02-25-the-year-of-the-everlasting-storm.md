@@ -7,7 +7,14 @@ letterboxd_url: https://boxd.it/8WJQOt
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [tubi, asiancinemachallenge2023, asiancc2023, asiancc2023week5, directed-by-women, edited-by-women]
+tags:
+  [
+    tubi,
+    asiancinemachallenge2023,
+    asiancc2023,
+    directed-by-women,
+    edited-by-women,
+  ]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 5/52 | Directed by Apichatpong Weerasethakul</a></b>

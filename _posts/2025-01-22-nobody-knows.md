@@ -7,7 +7,7 @@ letterboxd_url: https://boxd.it/8zl3pz
 mst3k: false
 rifftrax: false
 category: movie-review
-tags: [asiancc2023, asiancinemachallenge2023, asiancc2023week1, coming-of-age]
+tags: [asiancc2023, asiancinemachallenge2023, coming-of-age]
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Movie Challenge 2023 | 1/52 | Kinema Junpo Awards Winner</a></b>
