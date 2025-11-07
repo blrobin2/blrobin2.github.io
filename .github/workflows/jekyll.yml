@@ -56,7 +56,7 @@ jobs:
           bundler-cache: false # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Increment this number if you need to re-download cached gems
       - name: Install dependencies
-        run: bundle install --jobs 4 -- verbose
+        run: bundle install --jobs 4 --verbose
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
