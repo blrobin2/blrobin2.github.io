@@ -14,6 +14,7 @@ tags:
     solidarity,
     slow-cinema,
   ]
+banner: g28JeY54PspCF9w0kdgwRhK1Qtu.jpg
 ---
 
 <b><a href="https://boxd.it/qaTwm/detail" target="_blank" rel="noopener">Asian Cinema Challenge 2023 | 21/52 | Directed by Abbas Kiarostami</a></b>

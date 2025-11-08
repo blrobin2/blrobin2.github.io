@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta
       http-equiv="Content-Security-Policy"
-      content="default-src 'none'; manifest-src 'self'; font-src https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self'; script-src 'self' 'unsafe-inline' https://ajax.googleapis.com/ https://cdnjs.cloudflare.com https://unpkg.com; style-src 'self' https://fonts.googleapis.com https://cdnjs.cloudflare.com; frame-src https://www.youtube.com/ https://w.soundcloud.com/; object-src 'none'; base-uri 'none'"
+      content="default-src 'none'; manifest-src 'self'; font-src https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self' https://image.tmdb.org/; script-src 'self' 'unsafe-inline' https://ajax.googleapis.com/ https://cdnjs.cloudflare.com https://unpkg.com; style-src 'self' https://fonts.googleapis.com https://cdnjs.cloudflare.com; frame-src https://www.youtube.com/ https://w.soundcloud.com/; object-src 'none'; base-uri 'none'"
     />
     <meta http-equiv="referrer" content="same-origin" />
     {% if page.title == site.name %}
@@ -29,8 +29,7 @@
     />
     <link rel="stylesheet" href="/css/main.css" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    {% feed_meta %}
-    {% seo %}
+    {% feed_meta %} {% seo %}
   </head>
   <body>
     <div class="site">

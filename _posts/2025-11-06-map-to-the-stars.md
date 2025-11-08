@@ -6,6 +6,7 @@ rating: "3.5"
 letterboxd_url: https://boxd.it/bCLqSd
 category: movie-review
 tags: [torrent, cmc, cmc2018]
+banner: vKd9ugmlCiiEbC0MVAPbTY1iNtx.jpg
 ---
 
 <b><a href="https://boxd.it/q9zuy/detail" target="_blank" rel="noopener">Cult Movie Challenge 2018 | 26/52 | David Cronenberg</a></b>
@@ -28,7 +29,7 @@ Like <i><a href="https://boxd.it/4ljZhr" target="_blank" rel="noopener">A Histor
 
 Overall, this one took most of its runtime to cohere for me, even though I could see where it was going. I think most viewers will. But it's the thematic material that helps elevate the movie, even if it's pretty messy.
 
-#### Stray Thoughts \_\*\*
+#### Stray Thoughts
 
 - Julianne Moore makes a meal of the role.
 - Mia Waiskowska is always good at playing a little weirdo.
