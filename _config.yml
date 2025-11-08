@@ -5,18 +5,18 @@ paginate: 100
 
 plugins:
   - jekyll-paginate
-  # - jekyll-archives
+  - jekyll-archives
   - jekyll-feed
   - jekyll-seo-tag
 
 webrick:
   headers:
     "X-Frame-Options": "DENY"
-# jekyll-archives:
-#   enabled: all
-#   layouts:
-#     year: year-archive
-#     month: month-archive
-#     day: day-archive
-#     tag: tag-archive
-#     category: tag-archive
+jekyll-archives:
+  enabled: all
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    tag: tag-archive
+    category: tag-archive
