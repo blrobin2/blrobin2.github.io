@@ -3,7 +3,7 @@ layout: review
 title: "I Spit on Your Grave (1978)"
 excerpt: "My review of I Spit on Your Grave (1978)"
 rating: "3.0"
-letterboxd_url:
+letterboxd_url: https://boxd.it/bEa10p
 category: movie-review
 tags:
   [
