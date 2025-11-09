@@ -2,7 +2,7 @@
 layout: review
 title: "I Spit on Your Grave (1978)"
 excerpt: "My review of I Spit on Your Grave (1978)"
-rating: ""
+rating: "3.0"
 letterboxd_url:
 category: movie-review
 tags:
@@ -40,5 +40,5 @@ Of course, that doesn't make this some underrated classic. In fact, I would say 
 
 #### Further Reading
 
-- Clover, Carol J. Men, Women, and Chain Saws: Gender in the Modern Horror Film. Princeton University Press, 1992.
-- Bidel, Julie. I was wrong about I Spit On Your Grave. The Guardian, 19 January 2011, [https://www.theguardian.com/commentisfree/2011/jan/19/wrong-about-spit-on-your-grave](https://www.theguardian.com/commentisfree/2011/jan/19/wrong-about-spit-on-your-grave). Accessed 8 November 2025.
+- Clover, Carol J. <i>Men, Women, and Chain Saws: Gender in the Modern Horror Film</i>. Princeton University Press, 1992.
+- Bidel, Julie. <i>I was wrong about I Spit On Your Grave</i>. The Guardian, 19 January 2011, [https://www.theguardian.com/commentisfree/2011/jan/19/wrong-about-spit-on-your-grave](https://www.theguardian.com/commentisfree/2011/jan/19/wrong-about-spit-on-your-grave). Accessed 8 November 2025.
