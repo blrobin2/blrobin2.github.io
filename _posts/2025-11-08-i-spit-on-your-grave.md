@@ -30,7 +30,7 @@ Returning, Matthew bikes past the gas station to tell Johnny, Stanley, and Andy 
 
 Then, one day, they accost her while she is on her boat, seize it, and drag it to their place. I'm pretty sure you know what happens from here.
 
-— You wanna be a man, don't ya? […] I've done it a lot of times. You get used to it.
+<blockquote><i>You wanna be a man, don't ya? […] I've done it a lot of times. You get used to it.</i></blockquote>
 
 Rather than ramble about this movie, I'll instead suggest Carol J. Clover's Men, Women, and Chainsaws. Among many other points, she argues that the filmmakers intend for the audience to watch the film from Jennifer's point of view and to identify with her—her pain, her trauma, and her catharsis through revenge becomes ours.
 
