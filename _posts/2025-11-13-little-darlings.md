@@ -26,7 +26,7 @@ The film is full of teen sex-comedy tropes, but what sets this movie apart is ho
 
 The soundtrack is quite good! Good to know that Blondie's "One Way or Another" has been a movie staple since it came out.
 
-<b>**_ Actor Talk _**</b>
+#### Actor Talk
 
 - Kristy McNichol is the star of this movie. Not only is her role more meaty, but she also delivers a more rounded, emotive performance.
 - Tatum O'Neal gets little to do in this movie, but what she does works well for the character.
