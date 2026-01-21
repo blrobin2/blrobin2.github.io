@@ -2,7 +2,7 @@ require 'csv'
 
 CSV.foreach("reviews.csv", headers: true) do |row|
 
-  tags = row['Tags']&.split(",")&.map(&:strip)
+  tags = row['Tags']&.split(",")&.map(&:strip).map { |s| s.gsub(" ", "-") }
   mst3k = tags&.include?("mst3k")
   rifftrax = tags&.include?("rifftrax")
 
