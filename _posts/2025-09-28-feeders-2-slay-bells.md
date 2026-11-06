@@ -10,7 +10,7 @@ category: movie-review
 tags: [nebula, rifftrax, sov, christmas-horror]
 ---
 
-Dude, I think <a href="https://boxd.it/bawkpx" target="_blank" rel="noopener"><i>Hallucinations</i></a><i></i> gave me Polonia Brothers toxoplasmosis. I'm so into this.
+Dude, I think <a href="https://boxd.it/bawkpx" target="_blank" rel="noopener"><i>Hallucinations</i></a> gave me Polonia Brothers toxoplasmosis. I'm so into this.
 
 The Rifftrax riffs are especially mean-spirited this episode.
 
